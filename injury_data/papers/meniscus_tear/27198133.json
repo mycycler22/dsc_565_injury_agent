@@ -1,0 +1,19 @@
+{
+  "pmid": "27198133",
+  "title": "A Computer-Aided Type-II Fuzzy Image Processing for Diagnosis of Meniscus Tear.",
+  "year": "2016",
+  "journal": "Journal of digital imaging",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Meniscal tear is one of the prevalent knee disorders among young athletes and the aging population, and requires correct diagnosis and surgical intervention, if necessary. Not only the errors followed by human intervention but also the obstacles of manual meniscal tear detection highlight the need for automatic detection techniques. This paper presents a type-2 fuzzy expert system for meniscal tear diagnosis using PD magnetic resonance images (MRI). The scheme of the proposed type-2 fuzzy image processing model is composed of three distinct modules: Pre-processing, Segmentation, and Classification. λ-nhancement algorithm is used to perform the pre-processing step. For the segmentation step, first, Interval Type-2 Fuzzy C-Means (IT2FCM) is applied to the images, outputs of which are then employed by Interval Type-2 Possibilistic C-Means (IT2PCM) to perform post-processes. Second stage concludes with re-estimation of \"η\" value to enhance IT2PCM. Finally, a Perceptron neural network with two hidden layers is used for Classification stage. The results of the proposed type-2 expert system have been compared with a well-known segmentation algorithm, approving the superiority of the proposed system in meniscal tear recognition."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

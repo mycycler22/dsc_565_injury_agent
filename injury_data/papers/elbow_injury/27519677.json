@@ -1,0 +1,39 @@
+{
+  "pmid": "27519677",
+  "title": "Performance and Injury Characteristics of Pitchers Entering the Major League Baseball Draft After Ulnar Collateral Ligament Reconstruction.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) reconstruction (UCLR) has been studied and shown to be a successful procedure for returning overhead athletes to sport. Many studies of Major League Baseball (MLB) players have shown high levels of return to play with successful statistical performance. No study has followed professional advancement of drafted pitchers who underwent UCLR as amateurs when compared with drafted pitchers who did not undergo the procedure before selection in the MLB draft."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "There would be no difference in professional advancement, statistical performance, or injury rate between the UCLR and control groups."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty-eight pitchers with a UCLR as an amateur and 114 controls were identified in the MLB draft between 2006 and 2010. Highest level of professional baseball achieved was collected from all players, as well as statistical performance metrics including velocity, wins, earned run average (ERA), and walks and hits per inning pitched (WHIP). Additional data on future injuries were analyzed for days on the disabled list (DL), risk of being placed on the DL, and DL assignment for elbow injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirteen of 38 UCLR pitchers reached the major league level (34.2%) compared with 29 of 114 (25.4%) control pitchers, which was not statically significant (P = .295). The UCLR and control groups were similar for average velocity, peak velocity, innings pitched, games, games started, innings per game, ERA, WHIP, wins, losses, saves, batters faced, and innings pitched per year, as well as hits, runs, home runs allowed, strikeouts, batters walked, and batters struck per inning. The UCLR group had a significantly increased rate of DL assignment when compared with controls (86.8% vs 64.0%; P = .008); however, days on DL (152.8 vs 135.6; P = .723) and DL assignment for elbow injury (45.5% vs 43.8%; P = .877) were similar."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There was no difference in the rate of professional advancement among pitchers drafted by the MLB who had undergone UCLR as amateurs compared with controls. Both groups had similar statistical performance. Pitchers in the UCLR group had an increased risk of DL assignment but no increase in the number of days on DL or risk of DL placement for elbow injury."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

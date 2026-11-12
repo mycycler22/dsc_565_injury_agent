@@ -1,0 +1,44 @@
+{
+  "pmid": "27940806",
+  "title": "Treatment for Ulnar Neuritis Around the Elbow in Adolescent Baseball Players: Factors Associated With Poor Outcome.",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar neuritis around the elbow is one of the injuries seen in throwing athletes. Outcomes of nonsurgical treatment and factors associated with failure outcomes have not been reported."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the outcomes of treatments for ulnar neuritis in adolescent baseball players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "We assessed 40 male baseball players with a mean age of 15.0 years (range, 13-17 years) who presented with ulnar neuritis. There were 19 pitchers and 21 fielders whose throwing side was affected. All patients had elbow pain, and 13 patients had hand numbness on the ulnar side. The mean Kerlan-Jobe Orthopaedic Clinic (KJOC) overhead athlete shoulder and elbow score was 52.5 at the first follow-up visit (n = 36 patients). Thirteen patients were identified with ulnar nerve subluxation, and 23 patients had concomitant elbow ulnar collateral ligament (UCL) injury. All patients underwent nonsurgical treatment, which included rehabilitation exercises and prohibition of throwing. If the nonsurgical treatment failed, we recommended surgical treatment. We investigated the outcomes of the nonsurgical and surgical treatments. Return to sports was evaluated, combined with factors associated with return to sports in nonsurgical treatment by univariate and multivariate statistical analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean follow-up period was 23.6 months (range, 6-39 months). After nonsurgical treatment, 24 patients (60%) returned to the previous competition level after a mean of 2.4 months. Two patients returned to a recreational level. One patient gave up playing baseball at 2 months. The remaining 13 patients underwent surgery and returned to sports after a mean of 2.0 months postoperatively, and 12 had no limitation of sports activities. Multivariate logistical regression analysis demonstrated that hand numbness, ulnar nerve subluxation, and UCL injury were associated with failure of nonsurgical treatment ( P < .05). In addition, KJOC score of <45 at the first follow-up tended to be associated with poor outcomes of nonsurgical treatment ( P = .06)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hand numbness on the ulnar side, ulnar nerve subluxation, and UCL injury are strong predictors of poor outcomes after nonsurgical treatment for ulnar neuritis, and surgery provides excellent results."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The remaining 13 patients underwent surgery and returned to sports after a mean of 2.0 months postoperatively, and 12 had no limitation of sports activities."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

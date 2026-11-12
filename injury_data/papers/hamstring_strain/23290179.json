@@ -1,0 +1,20 @@
+{
+  "pmid": "23290179",
+  "title": "Knee flexor strength and bicep femoris electromyographical activity is lower in previously strained hamstrings.",
+  "year": "2013",
+  "journal": "Journal of electromyography and kinesiology : official journal of the International Society of Electrophysiological Kinesiology",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The aim of this study was to determine if athletes with a history of hamstring strain injury display lower levels of surface EMG (sEMG) activity and median power frequency in the previously injured hamstring muscle during maximal voluntary contractions. Recreational athletes were recruited, 13 with a history of unilateral hamstring strain injury and 15 without prior injury. All athletes undertook isokinetic dynamometry testing of the knee flexors and sEMG assessment of the biceps femoris long head (BF) and medial hamstrings (MHs) during concentric and eccentric contractions at ±180 and ±60°s(-1). The knee flexors on the previously injured limb were weaker at all contraction speeds compared to the uninjured limb (+180°s(-1)p=0.0036; +60°s(-1)p=0.0013; -60°s(-1)p=0.0007; -180°s(-1)p=0.0007) whilst sEMG activity was only lower in the BF during eccentric contractions (-60°s(-1)p=0.0025; -180°s(-1)p=0.0003). There were no between limb differences in MH sEMG activity or median power frequency from either BF or MH in the injured group. The uninjured group showed no between limb differences in any of the tested variables. Secondary analysis comparing the between limb difference in the injured and the uninjured groups, confirmed that previously injured hamstrings were mostly weaker (+180°s(-1)p=0.2208; +60°s(-1)p=0.0379; -60°(-1)p=0.0312; -180°s(-1)p=0.0110) and that deficits in sEMG were confined to the BF during eccentric contractions (-60°s(-1)p=0.0542; -180°s(-1)p=0.0473). Previously injured hamstrings were weaker and BF sEMG activity was lower than the contralateral uninjured hamstring. This has implications for hamstring strain injury prevention and rehabilitation which should consider altered neural function following hamstring strain injury."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

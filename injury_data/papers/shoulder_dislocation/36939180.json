@@ -1,0 +1,44 @@
+{
+  "pmid": "36939180",
+  "title": "Predictors of Bone Loss in Anterior Glenohumeral Instability.",
+  "year": "2023",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Multicenter Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior shoulder instability can result in bone loss of both the anterior glenoid and the posterior humerus. Bone loss has been shown to lead to increased failure postoperatively and may necessitate more complex surgical procedures, resulting in worse clinical outcomes and posttraumatic arthritis."
+    },
+    {
+      "label": "HYPOTHESIS/PURPOSE",
+      "text": "The purpose of this study was to investigate predictors of glenoid and humeral head bone loss in patients undergoing surgery for anterior shoulder instability. It was hypothesized that male sex, contact sport participation, traumatic dislocation, and higher number of instability events would be associated with greater bone loss."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 892 patients with anterior shoulder instability were prospectively enrolled in the Multicenter Orthopaedic Outcomes Network (MOON) Shoulder Instability cohort. The presence and amount of anterior glenoid bone loss and accompanying Hill-Sachs lesions were quantified. Descriptive information and injury history were used to construct proportional odds models for the presence of any bone defect, for defects >10% of the anterior glenoid or humeral head, and for combined bony defects."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Anterior glenoid bone loss and Hill-Sachs lesions were present in 185 (20.7%) and 470 (52.7%) patients, respectively. Having an increased number of dislocations was associated with bone loss in all models. Increasing age, male sex, and non-White race were associated with anterior glenoid bone defects and Hill-Sachs lesions. Contact sport participation was associated with anterior glenoid bone loss, and Shoulder Actitvity Scale with glenoid bone loss >10%. A positive apprehension test was associated with Hill-Sachs lesions. Combined lesions were present in 19.4% of patients, and for every additional shoulder dislocation, the odds of having a combined lesion was 95% higher."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "An increasing number of preoperative shoulder dislocations is the factor most strongly associated with glenoid bone loss, Hill-Sachs lesions, and combined lesions. Early surgical stabilization before recurrence of instability may be the most effective method for preventing progression to clinically significant bone loss. Patients should be made aware of the expected course of shoulder instability, especially in athletes at high risk for recurrence and osseous defects, which may complicate care and worsen outcomes."
+    },
+    {
+      "label": "REGISTRATION",
+      "text": "NCT02075775 (ClinicalTrials.gov identifier)."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

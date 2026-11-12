@@ -1,0 +1,47 @@
+{
+  "pmid": "34329433",
+  "title": "Prevalence and Pain Distribution of Anterior Knee Pain in Collegiate Basketball Players.",
+  "year": "2022",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Causes of anterior knee pain (AKP) in jumping athletes include patellofemoral pain and patellar tendinopathy. The differential diagnosis of AKP is challenging, with variations in clinical presentations. No previous research has used pain location to describe AKP in basketball players."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To (1) describe the prevalence and pain distribution of AKP in collegiate basketball players and (2) report the prevalence of focal inferior pole pain using 2 outcome measures."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "University and collegiate basketball facilities in Alberta, Canada."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "A total of 242 collegiate basketball athletes (138 women, 104 men)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "The single-legged decline squat test (SLDS) was used to capture pain location via pain mapping (dichotomized as focal or diffuse) and pain severity (numeric rating scale). The Oslo Sports Trauma Research Centre Knee questionnaire (OSTRC-Knee) and adapted version for patellar tendinopathy (OSTRC-Patellar Tendinopathy Questionnaire [OSTRC-P]) were used to report the prevalence of AKP and patellar tendinopathy, respectively. Focal inferior pole pain during the SLDS was used to classify patellar tendinopathy."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 242 players, 146 (60%) reported pain with the SLDS (unilateral = 64 [26%]; bilateral = 82 [34%]). A total of 101 (43%) described knee pain using the OSTRC-Knee. Pain mapping captured the variability in pain locations. Diffuse pain was more prevalent (left, 70%; right, 72%) than focal pain (left, 30%; right, 28%). Low prevalence of patellar tendinopathy was noted using the OSTRC-P (n = 21, 8.7%) and inferior pole pain during the SLDS (n = 25, 10.3%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Diffuse AKP was common in Canadian basketball players; however, pain mapped to the inferior pole of the patella was not common. Few players reported tendinopathy using the OSTRC-P, suggesting that patellar tendinopathy was not a primary knee pain presentation in this jumping cohort. Pain location, rather than the presence or severity of pain alone, may better describe the clinical presentation of AKP in jumping athletes."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

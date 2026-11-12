@@ -1,0 +1,35 @@
+{
+  "pmid": "38267761",
+  "title": "Spectrum and patterns of shoulder pathology on MRI in symptomatic elite wheelchair basketball athletes.",
+  "year": "2024",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Wheelchair basketball (WCB) is a popular para-sport adapted for athletes with physical disabilities. Shoulder injuries are commonly reported among WCB athletes. However, the understanding of the specific patterns and characteristics of shoulder injuries in WCB players is currently limited, and there is a lack of comprehensive literature available on this subject."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate the spectrum of pathologies observed in elite wheelchair basketball (WCB) athletes referred for MRI evaluation of symptomatic injuries of the shoulder."
+    },
+    {
+      "label": "METHODS",
+      "text": "Retrospective review of consecutive elite WCB athletes referred for MRI evaluation of symptomatic shoulder injury. Demographic, clinical, and functional data including international wheelchair basketball federation (IWBF) classification of each athlete were collected. A total of 28 MRI studies were reviewed. Excluding MRI examinations of the same shoulder, 18 study cases were assessed for pathology of the rotator cuff (RC), labrum, long-head of biceps tendon, glenohumeral and acromioclavicular joints, and osseous lesions of the humerus or glenoid. Correlations between clinical-demographic features and MRI findings were statistically evaluated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Supraspinatus tears were observed in 72.2%, infraspinatus tears in 50%, and subscapularis tears in 38.9% shoulders. Articular-sided partial tears frequently involved posterior supraspinatus (88.9%) and anterior infraspinatus (100%). Labral tears were seen in 38.9%, with involvement of the posterosuperior labrum in all tears. Hill-Sachs and osseous Bankart lesions (5.6%), and anterior-inferior labral tears (11.1%), were uncommon findings. Statistically significant correlations were observed of low IWBF point class and non-ambulatory athletes with subscapularis tendinosis (p = 0.015, p = 0.001) and tearing (p = 0.050, p = 0.013), and athletes with limited trunk control with subscapularis tendinosis (p = 0.013)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "RC tears are common in elite WCB athletes with pattern of RC and labral tearing suggesting internal (superior-posterior) impingement as a contributory pathoetiologic mechanism. Non-ambulatory, low IWBF point class athletes, as well as those with limited trunk control have a statistically significant increase in subscapularis tendon pathology on MRI."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

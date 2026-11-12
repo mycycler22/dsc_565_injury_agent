@@ -1,0 +1,20 @@
+{
+  "pmid": "41981329",
+  "title": "Imaging in the diagnosis and characterization of tennis leg.",
+  "year": "2026",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tennis leg is a common cause of acute posteromedial calf pain and encompasses a spectrum of injuries involving the posterior calf. Although initially described as rupture of the plantaris tendon, clinical, surgical, and imaging evidence indicates that injury to the medial head of the gastrocnemius at the distal myotendinous junction is the most frequent cause. Less commonly, the lateral gastrocnemius, the soleus, or the plantaris may be affected. Clinical presentation is often nonspecific and overlaps with important alternative diagnoses, including Achilles tendon rupture, deep vein thrombosis, and ruptured Baker cyst, making imaging helpful for accurate diagnosis. Sonography (US) and magnetic resonance imaging (MRI) are the principal imaging modalities used in assessment. US is well suited for initial evaluation due to its wide availability, dynamic capability, and high spatial resolution for superficial tissues. It enables panoramic assessment of the posterior calf, allowing detection of muscle fiber disruption, myoaponeurotic injury, and intermuscular hematoma, while also facilitating exclusion of common mimics. MRI provides superior characterization of deep or subtle myoconnective tissue injuries and allows comprehensive assessment of injury extent and associated findings. In addition, MRI supports standardized grading using established muscle injury classification systems, which is valuable for prognosis and return-to-play decision-making. Emerging imaging techniques like quantitative MRI and artificial intelligence-based analysis may improve injury prognostication and individualized return-to-play assessment. This review summarizes the relevant anatomy, definitions, mechanisms of injury, and characteristic US and MRI features of tennis leg. Current classification systems are outlined, and key differential diagnoses and potential complications are also discussed."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

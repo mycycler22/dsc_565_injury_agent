@@ -1,0 +1,40 @@
+{
+  "pmid": "31227468",
+  "title": "Low return-to-sports rate after elbow injury and treatment with radial head arthroplasty.",
+  "year": "2019",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The aim of this study was to analyze sports participation after radial head arthroplasty among recreational athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 57 recreational athletes (mean age, 49 years; age range, 18-79 years) treated with radial head arthroplasty for non-reconstructible radial head fractures were included in this retrospective study. The return-to-sports rate and the time to return to sports were analyzed. The clinical and radiologic outcomes were compared between patients who returned to sports (group 1) and those who did not (group 2)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "After a mean follow-up period of 8.4 years (range, 2.5-16.4 years), 30 of 57 patients (53%) had returned to sports. The mean sports frequency significantly decreased from 5.2 ± 5.0 h/week to 2.2 ± 2.9 h/week after surgery (P < .001). In group 1, 83% of patients returned to the same sports activity whereas 17% changed to a less demanding sports activity. The mean time to return to sports was 158 days (range, 21-588 days). Patients who returned to sports had a significantly better Mayo Elbow Performance Score (MEPS) (84 ± 19 points vs. 63 ± 20 points, P < .001); Disabilities of the Arm, Shoulder and Hand score (16 ± 17 vs. 46 ± 22, P < .001); and arc of flexion (114° ± 32° vs. 89° ± 36°, P = .007). A secondary radial head prosthesis (P = .046) and MEPS lower than 85 points (P = .001) were associated with a significantly lower return-to-sports rate. No differences regarding radiographic changes were found between the 2 groups (P ≥ .256)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The return-to-sports rate after radial head replacement is low. A secondary radial head prosthesis and a worse clinical outcome (MEPS < 85 points) significantly increase the risk of not returning to sports after radial head arthroplasty."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "After a mean follow-up period of 8.4 years (range, 2.5-16.4 years), 30 of 57 patients (53%) had returned to sports."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to return to sports was 158 days (range, 21-588 days)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

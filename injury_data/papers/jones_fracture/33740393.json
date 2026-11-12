@@ -1,0 +1,58 @@
+{
+  "pmid": "33740393",
+  "title": "Return to Play and Fracture Union After the Surgical Management of Jones Fractures in Athletes: A Systematic Review and Meta-analysis.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Proximal fifth metatarsal fractures are among the most common forefoot injuries in athletes. The management of this injury can be challenging because of delayed union and refractures. Intramedullary (IM) screw fixation rather than nonoperative management has been recommended in the athletic population."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To provide an updated summary of the return-to-play (RTP) rate and time to RTP after Jones fractures in athletes with regard to their management, whether operative or nonoperative, and to explore the union rate and time to union as well as the rate of complications such as refractures."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "Following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, 2 independent team members searched several databases including PubMed, MEDLINE, Embase, Google Scholar, Web of Science, Cochrane Library, and ClinicalTrials.gov through November 2019 to identify studies reporting on Jones fractures of the fifth metatarsal exclusively in athletes. The primary outcomes were the RTP rate and time to RTP, whereas the secondary outcomes were the number of games missed, time to union, and union rate as well as the rates of nonunion, delayed union, and refractures."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 168 studies identified, 22 studies were eligible for meta-analysis with a total of 646 Jones fractures. The overall RTP rate was 98.4% (95% CI, 97.3%-99.4%) in 626 of 646 Jones fractures. The RTP rate with IM screw fixation only was 98.8% (95% CI, 97.8%-99.7%), with other surgical fixation methods (plate, Minifix) was 98.4% (95% CI, 95.8%-100.0%), and with nonoperative management was 71.6% (95% CI, 45.6%-97.6%). There were 3 studies directly comparing RTP rates with surgical versus nonoperative management, which showed significant superiority in favor of surgery (odds ratio, 0.033 [95% CI, 0.005-0.215]; <i>P</i> < .001). The RTP rate according to type of sport was 99.0% (95% CI, 97.5%-100.0%) in football, 91.1% (95% CI, 82.2%-99.4%) in basketball, and 96.6% (95% CI, 92.6%-100.0%) in soccer. The overall time to RTP was 9.6 weeks (95% CI, 8.5-10.7 weeks). The time to RTP in the surgical group (IM screw fixation) was 9.6 weeks (95% CI, 8.3-10.9 weeks), which was significantly less than that in the nonoperative group of 13.1 weeks (95% CI, 8.2-18.0 weeks). The pooled union rate in the operative group (excluding refractures) was 97.3% (95% CI, 95.1%-99.4%), whereas the pooled union rate in the nonoperative group was 71.4% (95% CI, 49.1%-93.7%). The overall time to union was 9.1 weeks (95% CI, 7.7-10.4 weeks). The time to union with IM screw fixation (8.2 weeks [95% CI, 7.5-9.0 weeks]) was shorter than that with nonoperative treatment (13.7 weeks [95% CI, 12.7-14.6 weeks]). The rate of delayed union was 2.5% (95% CI, 1.2%-3.7%), and the overall refracture rate was 10.2% (95% CI, 5.9%-14.5%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The RTP rate and time to RTP after the surgical management of Jones fractures in athletes were excellent, regardless of the implant used and type of sport. IM screw fixation was superior to nonoperative management, as it led to a higher rate of RTP, shorter time to RTP, higher rate of union, shorter time to union, and improved functional outcomes. We recommend surgical fixation for all Jones fractures in athletes."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The overall time to RTP was 9.6 weeks (95% CI, 8.5-10.7 weeks)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The time to RTP in the surgical group (IM screw fixation) was 9.6 weeks (95% CI, 8.3-10.9 weeks), which was significantly less than that in the nonoperative group of 13.1 weeks (95% CI, 8.2-18.0 weeks)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The overall time to union was 9.1 weeks (95% CI, 7.7-10.4 weeks)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The time to union with IM screw fixation (8.2 weeks [95% CI, 7.5-9.0 weeks]) was shorter than that with nonoperative treatment (13.7 weeks [95% CI, 12.7-14.6 weeks])."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

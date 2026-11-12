@@ -1,0 +1,52 @@
+{
+  "pmid": "42802907",
+  "title": "Forearm Flexor Strain and Subsequent Ulnar Collateral Ligament Surgery Risk in Major League Baseball Pitchers: A Covariate-Matched Survival Analysis.",
+  "year": "2026",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) injury remains a significant source of time loss for baseball pitchers despite work identifying biomechanical, workload, and velocity risk factors. Because medial elbow stability also depends on the contribution of the forearm flexor-pronator complex, forearm flexor strains may be a marker of downstream UCL risk."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To quantify subsequent UCL surgery risk among Major League Baseball (MLB) pitchers with a nonoperatively managed forearm flexor strain who returned to play, and to evaluate whether return timing and pitching characteristics predicted post-return UCL surgery."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective cohort study (2015-2024) identified nonoperative forearm flexor strains using publicly available MLB Injury List (IL) data corroborated by official/team sources. Pitchers were included if they returned to MLB within 1 year and were excluded if they had any history of UCL surgery before the index flexor strain. Each case was matched 1 to 2 to controls without a recorded forearm flexor strain who were active at the time of the case's return, using a multivariable distance algorithm across age, body mass index, MLB experience, preindex workload (pitches/game; total pitches), fastball velocity, and prior season elbow/forearm IL days as a marker of baseline elbow/forearm morbidity. Time-to-event analyses were anchored at return-to-play (RTP) using stratified Cox models and Kaplan-Meier estimation. Among cases, univariate Cox models were used to assess prespecified predictors of UCL surgery within 1 year."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The cohort included 123 cases and 246 matched controls, with strong covariate balance (all standardized mean differences <0.10). The mean time to RTP after flexor strain was 96.2 ± 89.2 days. At 1 year after RTP, 9.8% of cases underwent UCL surgery versus 4.1% of controls; at 2 years, 13.0% of cases versus 7.7% of controls underwent UCL surgery. Cases had a higher 1-year UCL surgery hazard (hazard ratio [HR], 3 [95% CI, 1.17-7.68]; <i>P</i> = .022); no statistically significant difference in hazard was found at 2 years (HR, 1.86 [95% CI, 0.89-3.89]; <i>P</i> = .097). Within cases, longer RTP time was inversely associated with 1-year UCL surgery risk (HR, 0.98/day [95% CI, 0.96-1]; <i>P</i> = .040); rates decreased across RTP quartiles from 18.8% (8-26 days) to 0% (171-347 days). Fastball velocity, workload, and demographic characteristics were not statistically significant predictors (all <i>P</i> > .13)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MLB pitchers returning after a nonoperative forearm flexor strain have elevated short-term risk of subsequent UCL surgery versus matched controls within the first year. Return timing was the primary measurable predictor, with longer recovery associated with progressively lower UCL surgery rates. However, because strain grade, UCL integrity, and associated medial elbow pathology were unavailable, RTP timing should be interpreted as a risk marker rather than evidence that delayed return is independently protective."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to RTP after flexor strain was 96.2 ± 89.2 days."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "At 1 year after RTP, 9.8% of cases underwent UCL surgery versus 4.1% of controls; at 2 years, 13.0% of cases versus 7.7% of controls underwent UCL surgery."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Within cases, longer RTP time was inversely associated with 1-year UCL surgery risk (HR, 0.98/day [95% CI, 0.96-1]; <i>P</i> = .040); rates decreased across RTP quartiles from 18.8% (8-26 days) to 0% (171-347 days)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

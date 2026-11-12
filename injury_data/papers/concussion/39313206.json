@@ -1,0 +1,35 @@
+{
+  "pmid": "39313206",
+  "title": "Self-Compassion and Willingness to Adhere to Return-to-Play Protocol Following Sport-Related Concussions.",
+  "year": "2025",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Athletes who do not follow proper concussion recovery protocols are likely to experience their symptoms for longer while putting themselves at risk of further health issues. It is, therefore, critical to identify the types of athletes who may be more or less likely to follow the guidance of medical professionals following concussions. In this research, we tested the hypothesis that athletes with higher levels of self-compassion would be more willing to follow concussion recovery protocols."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "We collected data from 2 samples of combat sport athletes (sample 1, N = 173 and sample 2, N = 172). All participants completed online surveys assessing self-compassion, the likelihood that they would follow 10 recovery recommendations if they were to experience a concussion in their sport, and scales assessing 3 covariates: self-esteem, conscientiousness, and sport competitiveness."
+    },
+    {
+      "label": "RESULTS",
+      "text": "After controlling for self-esteem, conscientiousness, and sport competitiveness, the results of multiple regression analyses in both samples showed that self-compassion was positively associated with willingness to follow concussion recovery recommendations (sample 1: β = 0.19, 1-tailed P = .039; sample 2: β = 0.20, 1-tailed P = .025). The results of a mini meta-analysis of these effects supported this positive association, Mean r = .144, Z = 2.666, 1-tailed P = .004."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes who are highly self-compassionate reported a greater willingness to follow the advice of medical professionals and adhere to return-to-play protocol. This finding has implications for the rehabilitation of sport concussions; it may be advantageous to encourage athletes to be kind and compassionate toward themselves throughout the concussion recovery process."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "38529227",
+  "title": "Postoperative considerations based on graft type after anterior cruciate ligament reconstruction a narrative review.",
+  "year": "2023",
+  "journal": "Annals of joint",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND OBJECTIVE",
+      "text": "Graft selection for anterior cruciate ligament reconstruction (ACLR) affects rehabilitation throughout the course of postoperative care."
+    },
+    {
+      "label": "METHODS",
+      "text": "A search of PubMed and EBSCO was performed and abstracts independently reviewed by two authors. This search was also supplemented with additional evidence relevant to each phase of ACLR rehabilitation."
+    },
+    {
+      "label": "KEY CONTENT AND FINDINGS",
+      "text": "Direct implications of graft type on clinical decisions vary throughout treatment phases, transitioning from potential differences in acute postoperative pain management immediately after surgery to facilitating sufficient and appropriate lower extremity loading in subsequent weeks. Regardless of graft type, surgical limb weakness persists throughout the course of rehabilitation; however, harvest site selection for autografts contributes to disproportionate weakness of the harvested muscle group and the potential for surgical-induced tendinopathy. In later phases of rehabilitation, as athletes are transitioning into return to sport (RTS), treatment decisions and protocols are less affected by graft type but expectations for meeting clinical milestones and the time required to do so does differ between graft types."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Targeted strengthening interventions to address muscle weakness following graft harvest in autografts should be continued throughout the rehabilitation process. Lingering deficits in quadriceps strength symmetry may also influence time to meet progression and RTS criteria following graft harvest from the extensor mechanism."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

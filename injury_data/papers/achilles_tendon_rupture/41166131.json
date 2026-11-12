@@ -1,0 +1,36 @@
+{
+  "pmid": "41166131",
+  "title": "Whether the Extremity Is Dominant Affects the Outcome of Acute Achilles Tendon Rupture Repair?",
+  "year": "2025",
+  "journal": "Journal of the American Podiatric Medical Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute Achilles tendon rupture (AATR), a common injury among middle-aged amateur athletes, poses significant diagnostic and therapeutic challenges. This study evaluated the outcomes of AATR repair based on whether the ruptured tendon was located in the dominant or nondominant extremity."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective analysis was conducted on 28 patients (25 males and three females aged 39.64 ± 5.32 years) who underwent surgical repair using the Krackow technique between 2020 and 2022. Functional outcomes were assessed at 2-year follow-up using clinical scores (Achilles tendon total rupture score and visual analog scale score), range of motion, calf circumference, and ultrasonography measurements."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The Achilles tendon total rupture scores for the dominant limb showed superior clinical outcomes (P = .001), but the calf circumference was significantly smaller on the operated side compared with the nonoperated side (P < .001). Operated tendons exhibited increased thickness and length on ultrasonography, with no adverse impact on functional performance. Early mobilization and rehabilitation contributed to a mean time to return to sports of 5.82 months (85.7% success rate). Complications included superficial infection in one patient and delayed wound healing in one patient, both managed with antibiotic therapy and dressings."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The findings highlight the influence of limb dominance on AATR repair outcomes, suggesting enhanced resilience and recovery in the dominant extremity. Surgical repair with appropriate rehabilitation offers a reliable strategy for active individuals, promoting early return to activity while minimizing re-rupture risks."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Early mobilization and rehabilitation contributed to a mean time to return to sports of 5.82 months (85.7% success rate)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

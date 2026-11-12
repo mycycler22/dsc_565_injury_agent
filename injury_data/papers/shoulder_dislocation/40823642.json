@@ -1,0 +1,39 @@
+{
+  "pmid": "40823642",
+  "title": "Comparative Analysis of Labral Repair Characteristics in Patients Treated for Anterior versus Posterior Instability.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Direct comparisons of the demographic and clinical risk factors between patients with anterior and posterior glenohumeral instability are uncommon."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To identify and compare demographic, clinical, and perioperative variables in patients receiving arthroscopic labral repair for anterior and posterior shoulder instability."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective chart review was performed for patients who underwent primary arthroscopy for shoulder instability by 7 surgeons at a single institution between 2012 and 2020, excluding revision surgeries and multidirectional instability patients. Demographics, radiological findings, and intraoperative data were collected. Patients with anterior instability (AI) were compared to those with posterior instability (PI) by number of dislocation events (0, 1, 2, or >2), chief complaint (dislocation event and direction, subluxation, or pain), and concomitant intraoperative procedures. A subgroup analysis was performed of patients with documented dislocations. Statistical analysis included the Student <i>t</i> tests and Mann-Whitney <i>U</i> test for continuous variables and chi-square or Fisher exact tests for discrete variables with significance defined as a <i>P</i> value <.05. Bonferroni corrections were applied."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 482 shoulders met the inclusion criteria. Overall, 80% (384/482) of the patients were evaluated with AI and 20% (98/482) with PI. The PI group demonstrated a greater mean BMI compared with the AI group (28 ± 7 vs 26 ± 6; <i>P</i> = .003). There were no significant differences in age, sex, or contact/collision athlete status. Overall, 80% (308/384) of the patients with AI sustained a dislocation compared to 43% (42/98) of those with PI. A higher proportion of patients with PI (without instability) reported more pain than patients with AI (without instability) (42% vs 12 %; <i>P</i> < .001). Recurrent dislocations (>2) were more common in the AI group compared with the PI group (51% vs 21%; <i>P</i> < .001). Patients with AI underwent concomitant posterior labral repair (17% [67/384]) at a similar rate to patients with PI who underwent concomitant anterior labral repair (16% [16/98]). Subgroup analysis of patients with discrete dislocations demonstrated similar rates of those receiving concomitant posterior labral repair in the AI group when compared with those in the PI group receiving concomitant anterior labral repair (14% vs 17%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patients arthroscopically treated for AI undergo concomitant posterior labral repair at rates similar to those with PI requiring concomitant anterior labral repair. This finding suggests that tear extension occurs at similar rates in patients with AI and those with PI. Additionally, patients with AI requiring labral repair are more likely to experience multiple dislocation events as opposed to patients with PI who present with pain and subluxation."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

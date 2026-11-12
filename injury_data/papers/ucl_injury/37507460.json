@@ -1,0 +1,20 @@
+{
+  "pmid": "37507460",
+  "title": "A novel method intersecting three-dimensional motion capture and medial elbow strength dynamometry to assess elbow injury risk in baseball pitchers.",
+  "year": "2023",
+  "journal": "Scientific reports",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "In baseball pitching, resultant elbow varus torque reaches the peak value of 50-120 N m, exceeding the joint failure limit that risks damage to the ulnar collateral ligament (UCL). In-vivo methodology is lacking to assess whether pitchers have sufficient muscular strength to shield UCL and how strongly the elbow musculature must contract to minimize valgus loading on UCL. This study introduces a method to assess relative percentages of muscular varus strength required to unload the UCL. The maximum voluntary isometric varus strength (MVIVS) produced by the medial elbow musculature and the maximum resultant varus torques at elbow in pitching fastballs and other types were measured for two professional pitchers. Simulation was conducted to determine the relative percentages of MVIVS required to unload the UCL to varying degrees and the impact of athletes' previous UCL reconstruction on the relative percentages was examined. The maximum resultant varus torque in pitching was found to range 72-97%MVIVS depending on the type of pitch. The elbow musculature had to produce 21-49%MVIVS to avoid acute failure of intact UCL whereas the corresponding requirements were 39-63%MVIVS for UCL reconstructed joint. The method offers new insight into baseball pitcher's training/rehabilitation and physical assessment to reduce the risk of UCL injury."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

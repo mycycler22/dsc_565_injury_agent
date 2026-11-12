@@ -1,0 +1,43 @@
+{
+  "pmid": "25512664",
+  "title": "Altered lower extremity movement variability in female soccer players during side-step cutting after anterior cruciate ligament reconstruction.",
+  "year": "2015",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) reconstruction (ACLR) is common after an ACL tear and is thought to restore functional stability to the knee. A recent investigation demonstrated that individuals who have undergone ACLR exhibited increased lower extremity coupling variability during gait, suggestive of altered dynamic stability. However, little is known about whether they exhibit alterations in lower extremity variability during dynamic sport-specific tasks."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine if female soccer players who have had an ACLR demonstrate differences in lower extremity coupling variability as compared with athletes with no history of knee injury during a side-step cutting maneuver."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ten female soccer players who had undergone ACLR served as the experimental group, and 10 female soccer players with no history of knee ligament injury composed the control group (CON). Three-dimensional kinematics and ground-reaction forces were collected while each participant performed a side-step cutting maneuver. Based on known ACL loading patterns, 7 lower extremity intralimb couplings were created. With use of a vector-coding technique, the coordination variability was calculated for each coupling. Independent t tests were used to determine group differences in variability for each coupling (P ≤ .05)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Individuals who had undergone ACLR exhibited increased lower extremity variability during side-step cutting as compared with control subjects in the following couplings: hip rotation/knee abduction-adduction (27.2° ± 11.5° [ACLR] vs 19.7° ± 6.8° [CON]; P = .04), hip flexion-extension/knee abduction-adduction (26.0° ± 13.3° [ACLR] vs 18.6° ± 5.3° [CON]; P = .05), knee abduction-adduction/knee flexion-extension (13.5° ± 5.7° [ACLR] vs 7.3° ± 2.7° [CON]; P < .01), and knee abduction-adduction/knee rotation (26.4° ± 10.8° [ACLR] vs 19.3° ± 4.5° [CON]; P = .03). In addition, there was a trend toward increased variability in the hip rotation/ankle inversion-eversion coupling (22.9° ± 9.3° [ACLR] vs 18.0° ± 6.7° [CON]; P = .09) and knee abduction-adduction/ankle inversion-eversion coupling (25.9° ± 10.0° [ACLR] vs 20.2° ± 9.7° [CON]; P = .10)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Female soccer players who have undergone ACLR and returned to sports participation exhibit altered lower extremity coupling variability during side-step cutting."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "While individuals who have had an ACLR exhibit mechanical knee stability before returning to sports, the observed increased movement variability during side-step cutting is likely reflective of altered neuromuscular control and may contribute to the known increased risk for ACL reinjury and knee osteoarthritis after return to sports participation. Improving the understanding of altered lower extremity coupling variability after ACLR will aid in the development of more effective rehabilitation programs."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

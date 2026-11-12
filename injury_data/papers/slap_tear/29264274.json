@@ -1,0 +1,41 @@
+{
+  "pmid": "29264274",
+  "title": "Anterior internal impingement of the shoulder in rugby players and other overhead athletes.",
+  "year": "2017",
+  "journal": "Asia-Pacific journal of sports medicine, arthroscopy, rehabilitation and technology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND/OBJECTIVE",
+      "text": "Impingement syndromes are a common cause of shoulder pain in overhead athletes. Anterior internal impingement is a recently suggested mechanism for activity-related pain of the shoulder. Impingement syndromes were initially described to occur due to repetitive or excessive contact between the rotator cuff and other structures in the shoulder."
+    },
+    {
+      "label": "METHODS",
+      "text": "This is a retrospective, clinical case study reporting 54 consecutive cases of anterior internal impingement in overhead athletes, of which 28 (51.2%) cases were of rugby players. All had undergone physiotherapy without relief of the symptoms. Of 54, there were 45 male and 9 female patients with an average age of 27 years (range, 17-51). The mean duration from injury to surgery was 40.7 weeks (range, 5-364). Of the 54 patients, 29 (53.7%) were full-time professional and 25 (46.3%) were semiprofessional or recreational athletes. The players associated the onset of pain occurred following an injury in 29/54 cases (53.4%), whereas in the remaining 25 cases (46.2%), a gradual onset of symptoms was described. All 54 patients could demonstrate a \"functional impingement sign\" in positioning their arm and provoke pain."
+    },
+    {
+      "label": "RESULT",
+      "text": "On examination, the examiner could reproduce the same pain in 38/54 (70.3%) patients only. Of the 54 patients, \"SLAP tests\" including O'Brien's test, Palm up test, and compression rotation test were positive in shoulders of 39 (72.2 %) patients, Jobe's test in 27 (50%), Gerber's lift off test in 6 (11%), and Hawkin's test in 6 (11%) patients. During arthroscopic assessment, impinging flap tears were found in 44 (81.4%) patients from the SLAP, whereas undersurface rotator cuff flap tears were found in 24 (44.4%), flap tears from the anterior or inferior labrum were found in 16 (29.6%), and distal subscapularis flap tears were found in 10 (18.5%) patients. Only in 12/54 patients (22.2%) was an isolated pathology found, in all cases SLAP tears. Treatment included vaporisation and excision of the impinging flaps. In 15/54 (27.7%) patients, repair of an unstable SLAP tear was undertaken using absorbable suture anchors and fibre wires. All athletes returned to their previous activity level within 17.2 weeks (range, 6-36) from surgery and were discharged when they claimed that they were symptom free."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This series of anterior internal impingement, which we believe is the largest in the literature to date, demonstrates the value of an to assess and successfully treat overhead athletes with anterior impingement syndrome."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [
+    {
+      "section": "RESULT",
+      "sentence": "All athletes returned to their previous activity level within 17.2 weeks (range, 6-36) from surgery and were discharged when they claimed that they were symptom free."
+    }
+  ],
+  "pmcid": "5721917",
+  "fulltext_chunks": [
+    {
+      "section": "Result",
+      "text": "On examination, the examiner could reproduce the same pain in 38/54 (70.3%) patients only. Of the 54 patients, “SLAP tests” including O’Brien’s test, Palm up test, and compression rotation test were positive in shoulders of 39 (72.2 %) patients, Jobe’s test in 27 (50%), Gerber’s lift off test in 6 (11%), and Hawkin’s test in 6 (11%) patients. During arthroscopic assessment, impinging flap tears were found in 44 (81.4%) patients from the SLAP, whereas undersurface rotator cuff flap tears were found in 24 (44.4%), flap tears from the anterior or inferior labrum were found in 16 (29.6%), and distal subscapularis flap tears were found in 10 (18.5%) patients. Only in 12/54 patients (22.2%) was an isolated pathology found, in all cases SLAP tears. Treatment included vaporisation and excision of the impinging flaps. In 15/54 (27.7%) patients, repair of an unstable SLAP tear was undertaken using absorbable suture anchors and fibre wires. All athletes returned to their previous activity level within 17.2 weeks (range, 6–36) from surgery and were discharged when they claimed that they were symptom free."
+    }
+  ]
+}

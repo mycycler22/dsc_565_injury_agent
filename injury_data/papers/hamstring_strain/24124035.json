@@ -1,0 +1,31 @@
+{
+  "pmid": "24124035",
+  "title": "The financial cost of hamstring strain injuries in the Australian Football League.",
+  "year": "2014",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries (HSIs) have remained the most prevalent injury in the Australian Football League (AFL) over the past 21 regular seasons. The effect of HSIs in sports is often expressed as regular season games missed due to injury. However, the financial cost of athletes missing games due to injury has not been investigated. The aim of this report is to estimate the financial cost of games missed due to HSIs in the AFL."
+    },
+    {
+      "label": "METHOD",
+      "text": "Data were collected using publicly available information from the AFL's injury report and the official AFL annual report for the past 10 competitive AFL seasons. Average athlete salary and injury epidemiology data were used to determine the average yearly financial cost of HSIs for AFL clubs and the average financial cost of a single HSI over this time period."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Across the observed period, average yearly financial cost of HSIs per club increased by 71% compared with a 43% increase in average yearly athlete salary. Over the same time period the average financial cost of a single HSI increased by 56% from $A25,603 in 2003 to $A40,021 in 2012, despite little change in the HSI rates during the period."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The observed increased financial cost of HSIs was ultimately explained by the failure of teams to decrease HSI rates, but coupled with increases in athlete salaries over the past 10 season. The information presented in this report highlights the financial cost of HSIs and other sporting injuries, raising greater awareness and the need for further funding for research into injury prevention strategies to maximise economical return for investment in athletes."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

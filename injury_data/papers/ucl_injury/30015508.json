@@ -1,0 +1,33 @@
+{
+  "pmid": "30015508",
+  "title": "Early Return to Play With Thumb Spica Gauntlet Casting for Ulnar Collateral Ligament Injuries Complicated by Adjacent Joint Dislocations in Collegiate Football Linemen.",
+  "year": "2020",
+  "journal": "Hand (New York, N.Y.)",
+  "pub_types": [
+    "Evaluation Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background:</b> Treatment of thumb ulnar collateral ligament (UCL) ruptures in elite athletes aims to restore thumb stability while minimizing lost playing time. Thus, surgical repair with early protected return to play in a thumb spica cast has been advocated. The purpose of this study was to document adjacent joint dislocations after primary surgical repair sustained during protected return to play with thumb spica casting in elite-level football players. <b>Methods:</b> Three Division I collegiate starting linemen sustaining adjacent joint dislocations in thumb spica casts following acute surgical repair of ipsilateral thumb UCL ruptures were retrospectively reviewed. Demographic data were recorded as well as the timeline for injury, treatment, and subsequent return to sport. Quick Disabilities of the Arm, Shoulder and Hand (QuickDASH) scores were obtained at final follow-up. <b>Results:</b> The mean time from thumb UCL injury to surgical repair was 8.7 days, and the mean return to sport was 13.3 days from surgery. There were 4 simple dislocations including 3 proximal interphalangeal (PIP) joints and 1 elbow. Each PIP dislocation was close reduced and treated with buddy straps with immediate return to play. The elbow dislocation was close reduced and splinted with return to play 22 days after injury. The mean QuickDASH score was 2.3 at 12 month follow-up. <b>Conclusions:</b> This report highlights that while thumb spica casting protects the surgically repaired thumb UCL and allows for earlier return to play, it risks placing additional stress upon adjacent joints and therefore adjacent injury. Appropriate counseling of the risks and benefits of this treatment strategy is essential."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Quick Disabilities of the Arm, Shoulder and Hand (QuickDASH) scores were obtained at final follow-up. <b>Results:</b> The mean time from thumb UCL injury to surgical repair was 8.7 days, and the mean return to sport was 13.3 days from surgery."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "The elbow dislocation was close reduced and splinted with return to play 22 days after injury."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean QuickDASH score was 2.3 at 12 month follow-up. <b>Conclusions:</b> This report highlights that while thumb spica casting protects the surgically repaired thumb UCL and allows for earlier return to play, it risks placing additional stress upon adjacent joints and therefore adjacent injury."
+    }
+  ],
+  "pmcid": "6966282",
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "41053744",
+  "title": "Design and development of a model for tennis elbow injury prediction and prevention using Artificial Neural Network (ANN) and Adaptive Neuro-Fuzzy Inference System (ANFIS) approaches.",
+  "year": "2025",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Lateral epicondylitis, commonly referred to as tennis elbow, is a frequent sports injury that poses diagnostic and management challenges. Players often self-treat and delay medical intervention, exacerbating the condition, which highlights the need for early identification and prevention strategies.Purpose This study aims to enhance the understanding of tennis elbow mechanisms and identify key factors influencing its development.Method This research introduces a novel approach integrating Design of Experiments (DoE) with Response Surface Methodology (RSM) and an Expert System (ES) using both Artificial Neural Network (ANN) and Adaptive Neuro-Fuzzy Inference System (ANFIS) for personalized injury prevention recommendations. This combined methodology provides valuable insights and empowers players to adopt safer playing practices, potentially reducing the incidence of tennis elbow. Comprehensive education for athletes, coaches, and physicians on tennis elbow management is emphasized for early diagnosis and improved treatment outcomes.Result After analysis of the computing model, 99% accuracy was achieved using the ANFIS approach for tennis elbow injury prediction. The accuracy was validated through multi-model prediction involving training, validation, and testing phases.Conclusion The proposed work not only offers a deeper understanding of the factors influencing tennis elbow this srisk but also provides personalized preventive strategies through the expert system."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

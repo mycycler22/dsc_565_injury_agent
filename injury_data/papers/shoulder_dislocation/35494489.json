@@ -1,0 +1,53 @@
+{
+  "pmid": "35494489",
+  "title": "Surgical delay for traumatic recurrent shoulder dislocations leads to inferior functional outcomes.",
+  "year": "2022",
+  "journal": "Journal of clinical orthopaedics and trauma",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The effect of time interval between injury and surgery on outcomes of Bankart repair surgery has not been published previously. The purpose of this study was to assess the effect of surgical delay on functional outcomes after arthroscopic Bankart repair."
+    },
+    {
+      "label": "METHOD",
+      "text": "One hundred and five athletes who underwent arthroscopic Bankart repair ± remplissage were enrolled in the study. Patients were divided into 2 groups depending upon the injury to surgery time- < 12 months (n = 19), and ≥12 months (n = 86). Depending upon the number of episodes of dislocation, patients were further categorized into 2 groups- <10 episodes (n = 66) and ≥10 episodes (n = 39). All patients were assessed post-operatively for functional outcomes (Modified Rowe's score, Constant Murley score) and return to sports at a minimum of 2 years of follow-up."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean injury to surgery time was 31.7 ± 23.1 months. The average number of episodes of dislocation before surgery were 10 (range 3-50). 49/105 (46.7%) patients returned to sports after a mean post-operative duration of 10.9 months. Athletes operated after a surgical delay of ≥12 months had inferior functional outcomes (Modified Rowe's score-89.5 ± 8.9 vs.77.4 ± 21.4; p = 0.02), lower rate of return to sports (14/19 vs. 35/86; p = 0.02) and higher mean time to return to sports (8.7 ± 1.9 vs. 11.5 ± 2.6; p < 0.05). Similarly, athletes who had ≥10 dislocations before surgery had inferior functional outcomes (Modified Rowe's score-84.5 ± 15.2 vs.72.9 ± 25.6; p = 0.004), lower rate of return to sports (37/66 vs. 12/39; p = 0.02) and higher mean time to return to sports (10.3 ± 2.4 vs. 12.6 ± 2.5; p < 0.05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A delay in surgery (≥12 months) or dislocation episodes of ≥10 are associated with inferior functional outcomes, lower rate of return to sports and higher surgical failure rate."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III; Prospective cohort study."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The average number of episodes of dislocation before surgery were 10 (range 3-50). 49/105 (46.7%) patients returned to sports after a mean post-operative duration of 10.9 months."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Athletes operated after a surgical delay of ≥12 months had inferior functional outcomes (Modified Rowe's score-89.5 ± 8.9 vs.77.4 ± 21.4; p = 0.02), lower rate of return to sports (14/19 vs. 35/86; p = 0.02) and higher mean time to return to sports (8.7 ± 1.9 vs. 11.5 ± 2.6; p < 0.05)."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "A delay in surgery (≥12 months) or dislocation episodes of ≥10 are associated with inferior functional outcomes, lower rate of return to sports and higher surgical failure rate."
+    }
+  ],
+  "pmcid": "9043676",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "The mean injury to surgery time was 31.7 ± 23.1 months. The average number of episodes of dislocation before surgery were 10 (range 3–50). 49/105 (46.7%) patients returned to sports after a mean post-operative duration of 10.9 months. Athletes operated after a surgical delay of ≥12 months had inferior functional outcomes (Modified Rowe's score-89.5 ± 8.9 vs.77.4 ± 21.4; p = 0.02), lower rate of return to sports (14/19 vs. 35/86; p = 0.02) and higher mean time to return to sports (8.7 ± 1.9 vs. 11.5 ± 2.6; p < 0.05). Similarly, athletes who had ≥10 dislocations before surgery had inferior functional outcomes (Modified Rowe's score-84.5 ± 15.2 vs.72.9 ± 25.6; p = 0.004), lower rate of return to sports (37/66 vs. 12/39; p = 0.02) and higher mean time to return to sports (10.3 ± 2.4 vs. 12.6 ± 2.5; p < 0.05)."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "23375635",
+  "title": "Different relationships between the level of patellofemoral pain and quality of life in professional and amateur athletes.",
+  "year": "2013",
+  "journal": "PM & R : the journal of injury, function, and rehabilitation",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain is a common orthopedic condition in the athletic population. Previous investigators focused on exploring the etiology and investigating the effectiveness of different treatment approaches for patellofemoral pain. However, the severity of symptoms and its corresponding impact on quality of life (QOL) in athletes at different skill levels have not been explored. Such information may help in formulating rehabilitation strategies targeting different levels of athletes."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare the perception of patellofemoral symptoms and its impact on QOL between professional and amateur athletes with patellofemoral pain."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Thirty-eight athletes with patellofemoral pain: 19 professional athletes from the Chinese national track and field team and 19 matched amateur participants recruited from a local track and field club."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "All participants completed the Chinese version of Kujala scale and Medical Outcomes Study 36-Item Short Form Health Survey (SF-36), which we used to quantify the severity of patellofemoral symptoms and QOL, respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Professional athletes demonstrated a significantly higher level of patellofemoral symptoms (P < .001) and lower physical functioning subscore of SF-36 (P < .014) than did the amateur athletes. We also found a trend of a lower mental health subscore of SF-36 in professional athletes than in the amateurs (P = .07). The Kujala scale score was positively correlated with the subscore of \"physical functioning\" in both professional athletes (rs = 0.688, P = .001) and amateurs (rs = 0.751, P < .001). We also observed a trend of correlation between the subscore in the mental health domain and the severity of patellofemoral symptoms in professional athletes."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes at different elite levels might have varied perceptions of patellofemoral pain and the corresponding impact on physical aspects of quality of life. The results of this study may highlight the necessity of addressing psychosocial factors when formulating rehabilitation strategies in the athletic population with patellofemoral pain."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

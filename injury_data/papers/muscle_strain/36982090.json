@@ -1,0 +1,31 @@
+{
+  "pmid": "36982090",
+  "title": "Are Football Players More Prone to Muscle Injury after COVID-19 Infection? The \"Italian Injury Study\" during the Serie a Championship.",
+  "year": "2023",
+  "journal": "International journal of environmental research and public health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Football was the first sport to resume competitions after the coronavirus disease 2019 (COVID-19) lockdown and promptly the hypothesis was raised of a potential relationship between the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and musculoskeletal injuries in athletes. This study aimed to confirm the association between SARS-CoV-2 infection and muscle strain injury in a large population of elite football players and to investigate if the COVID-19 severity level could affect the risk of injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective cohort study involving 15 Italian professional male football teams was performed during the Italian Serie A 2020-2021 season. Injuries and SARS-CoV-2 positivity data were collected by team doctors through an online database."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 433 included players, we observed 173 SARS-CoV-2 infections and 332 indirect muscle strains. COVID-19 episodes mostly belonged to severity level I and II. The injury risk significantly increased after a COVID-19 event, by 36% (HR = 1.36, CI<sub>95%</sub> 1.05; 1.77, <i>p</i>-value = 0.02). The injury burden demonstrated an 86% increase (ratio = 1.86, CI<sub>95%</sub> 1.21; 2.86, <i>p</i>-value = 0.005) in the COVID-19 severity level II/III versus players without a previous SARS-CoV-2 infection, while level I (asymptomatic) patients showed a similar average burden (ratio = 0.92, CI<sub>95%</sub> 0.54; 1.58, <i>p</i>-value = 0.77). A significantly higher proportion of muscle-tendon junction injuries (40.6% vs. 27.1%, difference = 13.5%, CI<sub>95%</sub> 0.002%; 26.9%, <i>p</i>-value = 0.047) was found when comparing level II/III versus Non-COVID-19."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This study confirms the correlation between SARS-CoV-2 infection and indirect muscle injuries and highlights how the severity of the infection would represent an additional risk factor."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

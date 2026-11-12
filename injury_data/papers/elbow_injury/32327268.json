@@ -1,0 +1,32 @@
+{
+  "pmid": "32327268",
+  "title": "Does humeral torsion play a role in shoulder and elbow injury profiles of overhead athletes: a systematic review.",
+  "year": "2020",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Humeral retrotorsion (HRT) is one bony adaptation that occurs in overhead athletes. This bony adaptation often leads to bilateral changes in range of motion at the glenohumeral joint. Because HRT can create different stress environments on the surrounding tissue, it may play a role in upper-limb injury and pain profiles. Therefore, the aim of this review was to examine whether HRT plays a role in shoulder and elbow injury profiles."
+    },
+    {
+      "label": "METHODS",
+      "text": "Two separate critical appraisal tools were administered: the Newcastle-Ottawa Scale (case control) and the Appraisal Tool for Cross-sectional Studies. The primary author extracted all data and obtained means and standard deviations for each outcome. Cohen d effect sizes (ESs) were calculated (ES [95% confidence interval]) for all HRT measurements including nondominant, dominant, and side-to-side differences. Finally, the Strength of Recommendation Taxonomy was used to evaluate the overall strength of the recommendation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nine articles were included in this review. Large ESs were present in 2 studies on examination of symptomatic and asymptomatic dominant HRT and ranged between 0.83 (0.08-1.55) and -2.57 (-3.66 to 1.99). The majority of all ESs for all HRT measurements were moderate or low, rendering comparisons between asymptomatic and symptomatic cohorts that were not clinically meaningful."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The Strength of Recommendation Taxonomy rating was C based on inconsistent findings. Differences in sports populations and definitions of injuries across studies may be one reason for the varying ESs. HRT does occur in the overhead population, but the degree to which this HRT starts to affect upper-limb injury is unknown and is more than likely player specific and multifactorial."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

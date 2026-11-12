@@ -1,0 +1,22 @@
+{
+  "pmid": "16129623",
+  "title": "Muscle activation imbalance and low-back injury in varsity athletes.",
+  "year": "2006",
+  "journal": "Journal of electromyography and kinesiology : official journal of the International Society of Electrophysiological Kinesiology",
+  "pub_types": [
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "There are conflicting findings in the literature regarding erector spinae activation imbalance in people with low-back pain (LBP). Some studies have found asymmetric recruitment between muscle pairs in people with LBP, whilst other studies have not; some reported people with LBP recruit more lumbar muscles whilst other have reported greater thoracic activity. Using 242 varsity athletes, EMG activity of thoracic and lumbar erector spinae pairs was recorded during an isometric trunk extension. Activation imbalance among muscle pairs and levels was compared between athletes with and without a history of low-back injury (HxLBI). There were no group differences in the imbalance between sides, but the HxLBI group had greater activation imbalance between lumbar and thoracic levels than the No HxLBI group. Activation imbalance between levels was similar for individuals with No HxLBI and those who sustained first time injury suggesting that imbalance does not cause LBI. There was no difference between the athletes with single and multiple episode LBI, nor between short and long symptom duration suggesting that the presence of imbalance is not an impairment. Interestingly, activation imbalance occurred in both directions, meaning more thoracic activity for some, and more lumbar activity for others, which might be a functional adaptation related to pathology."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

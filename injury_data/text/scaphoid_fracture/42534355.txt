@@ -1,0 +1,13 @@
+Title: Scaphoid Osteoid Osteoma in a Pediatric Patient: A Case Report and Review of Diagnostic Pitfalls and Management Strategies. | Type: Journal Article | PMID: 42534355 | Year: 2026 | Injury query: scaphoid fracture
+[UNLABELED] Postoperative recovery was notable for resolution of pain and functional restoration by 2 months.
+[FULLTEXT: 2.5. Surgical Follow‐Up] The patient received 2 g of cefazolin within 1 h before incision for perioperative antibiotic prophylaxis. Postoperative QuickDASH (Quick Disabilities of the Arm, Shoulder and Hand) scores were recorded longitudinally. At 1 week, radiographs showed no interval changes. The patient reported substantial improvement in pain, and the incision was well healed. He remained nonweight‐bearing; the thumb spica splint was removed, and a short arm cast was applied. At 1 month, the cast was removed, and the patient was transitioned to a wrist brace without activity restrictions. Protruding suture material was noted at the surgical site without drainage. This was considered most consistent with a localized reaction to suture material rather than a true surgical‐site infection. As a precaution, a 10‐day course of trimethoprim–sulfamethoxazole was prescribed. QuickDASH scores continued to improve. By 2 months, the suture abscess had resolved; the patient reported complete resolution of wrist pain and functional limitation, and radiographs confirmed progressive osseous remodeling consistent with scaphoid healing (Table 1). This case illustrates the diagnostic challenges posed by OO in the scaphoid. The patient′s age, history of trauma, and MRI findings initially led to misdiagnosis as a scaphoid fracture. Dedicated CT ultimately established the diagnosis by demonstrating a characteristic 5‐mm nidus with central mineralization in the distal scaphoid.
+[FULLTEXT: TABLE: Summary timeline of events.] Discussion
+Date/interval | Event
+Month 0 | Onset of intermittent left wrist pain during baseball season
+Month 2 | Initial radiographs—inconclusive
+Month 3 | MRI—suspected scaphoid fracture
+Month 3.5 | CT—revealed osteoid osteoma
+Month 4 | Open surgical excision with demineralized bone matrix placement
+1‐week post‐op | Pain improved; transitioned from thumb spica to short arm cast
+1‐month post‐op | Suture abscess treated with antibiotics; transitioned to wrist brace
+2 months post‐op | Complete pain resolution and return to full activity

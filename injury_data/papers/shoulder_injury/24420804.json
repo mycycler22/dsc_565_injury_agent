@@ -1,0 +1,38 @@
+{
+  "pmid": "24420804",
+  "title": "Shoulder injuries among US high school athletes, 2005/2006-2011/2012.",
+  "year": "2014",
+  "journal": "Pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The objective of this study was to describe shoulder injuries in a nationally representative sample of high school athletes playing 9 sports. A national estimate of shoulder injuries among high school athletes was subsequently calculated."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injury data were collected in 9 sports (boys' football, soccer, basketball, wrestling, and baseball; girls' soccer, volleyball, basketball, and softball) during the 2005-2006 through 2011-2012 academic years from a nationally representative sample of high schools via High School Reporting Information Online."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the 2005-2006 through 2011-2012 academic years, high school athletes in this study sustained 2798 shoulder injuries during 13,002,321 athlete exposures, for an injury rate of 2.15 per 10,000 athlete exposures. This corresponds to a nationally estimated 820,691 injuries during this time period. Rates of injury were higher in competition as compared with practice (rate ratio = 3.17 [95% confidence interval: 2.94-3.41]). The highest rate of injury was in football (4.86) and the lowest in girls' soccer (0.42). The most common types of injury were strain/sprain (37.9%) and dislocation/separation (29.2%). Boys were more likely than girls to sustain their injuries after contact with another person or with the playing surface. Surgical repair was required for 7.9% of the injuries. Time loss from athletic participation varied among sports, with 40.7% of athletes returning within 1 week, whereas 8.2% were medically disqualified for their season/career."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "High school shoulder injury rates and patterns varied by sport and gender. Prospective epidemiologic surveillance is warranted to discern trends and patterns to develop evidence-based interventions to prevent shoulder injuries."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Time loss from athletic participation varied among sports, with 40.7% of athletes returning within 1 week, whereas 8.2% were medically disqualified for their season/career."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

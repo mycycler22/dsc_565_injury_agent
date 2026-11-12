@@ -1,0 +1,36 @@
+{
+  "pmid": "31735531",
+  "title": "Isometric exercise and pain in patellar tendinopathy: A randomized crossover trial.",
+  "year": "2020",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The aim of this study was to compare the acute effects of isometric versus dynamic resistance exercise on pain during a pain-provoking activity, and exercise-induced hypoalgesia in participants with patellar tendinopathy."
+    },
+    {
+      "label": "DESIGN",
+      "text": "This study was a pre-registered randomised crossover study. Participants were blinded to the study hypothesis."
+    },
+    {
+      "label": "METHODS",
+      "text": "Participants (N = 21) performed a single session of high load isometric resistance exercise or dynamic resistance exercise, in a randomised order separated by a 7-day washout period. Outcomes were assessed before, immediately after, and 45 min post-exercise. The primary outcome was pain intensity scored on a numeric pain rating scale (NRS; 0-10) during a pain-provoking single leg decline squat (SLDS). Secondary outcomes were pressure pain thresholds (PPTs) locally, distally and remotely, as well as tendon thickness."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There was a significant decrease in pain NRS scores (mean reduction 0.9, NRS 95%CI 0.1-1.7; p = 0.028), and increase in PPTs at the tibialis anterior muscle (mean increase 34 kPa 95%CI 9.5-58.5; p = 0.009) immediately post-exercise. These were not sustained 45 min post-exercise for pain (NRS) or PPTs (p > 0.05). There were no differences between exercise on any outcome."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "While patients with patellar tendinopathy decreased pain during SLDS in response to resistance training, but the magnitude was small. Contraction mode may not be the most important factor in determining the magnitude of pain relieving effects. Similarly, there were only small increases in PPTs at the tibialis anterior which were not superior for isometric exercise."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

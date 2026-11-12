@@ -1,0 +1,36 @@
+{
+  "pmid": "29466019",
+  "title": "Video Analysis of Anterior Cruciate Ligament Tears in Professional American Football Athletes.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) injuries are prevalent in contact sports that feature cutting and pivoting, such as American football. These injuries typically require surgical treatment, can result in significant missed time from competition, and may have deleterious long-term effects on an athlete's playing career and health. While the majority of ACL tears in other sports have been shown to occur from a noncontact mechanism, it stands to reason that a significant number of ACL tears in American football would occur after contact, given the nature of the sport. Hypothesis/Purpose: The purpose was to describe the mechanism, playing situation, and lower extremity limb position associated with ACL injuries in professional American football players through video analysis to test the hypothesis that a majority of injuries occur via a contact mechanism."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective cohort of National Football League (NFL) players with ACL injuries from 3 consecutive seasons (2013-2016) was populated by searching publicly available online databases and other traditional media sources. Of 156 ACL injuries identified, 77 occurred during the regular season and playoffs, with video analysis available for 69 injuries. The video of each injury was independently viewed by 2 reviewers to determine the nature of the injury (ie, whether it occurred via a noncontact mechanism), the position of the lower extremity, and the football activity at the time of injury. Playing surface, player position, and time that the injury occurred were also recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Contrary to our hypothesis, the majority of ACL injuries occurred via a noncontact mechanism (50 of 69, 72.5%), with the exception of injury to offensive linemen, who had a noncontact mechanism in only 20% of injuries. For noncontact injuries, the most common football activity at the time of injury was pivoting/cutting, and the most common position of the injured extremity included hip abduction/flexion, early knee flexion/abduction, and foot abduction/external rotation. There was no association between injury mechanism and time of injury or playing surface in this cohort."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In this study of players in the NFL, the majority of ACL tears involved a noncontact mechanism, with the lower extremity exhibiting a dynamic valgus moment at the knee. These findings suggest that ACL injury prevention programs may reduce the risk of noncontact ACL tears in American football players."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

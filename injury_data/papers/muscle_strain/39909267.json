@@ -1,0 +1,19 @@
+{
+  "pmid": "39909267",
+  "title": "Strong and tough adhesive hydrogel based on polyacrylate/carboxylated cellulose nanofibers/Zr<sup>4+</sup> for high-sensitivity motion monitoring and controlled transdermal drug delivery.",
+  "year": "2025",
+  "journal": "International journal of biological macromolecules",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Monitoring athletes' movement is crucial for health management and personalized care. Targeted, controlled drug delivery can also enhance treatment effectiveness for chronic pain from issues like muscle strain or joint inflammation. Therefore, multifunctional materials are needed to integrate monitoring, diagnosis, intervention, and treatment within a single system. In this study, a multifunctional double-network hydrogel was developed, featuring poly [2-carboxyethyl acrylate-co-N-(2-hydroxyethyl) acrylamide] as the primary network, carboxylated cellulose nanofibers as the secondary network, and zirconium ions as a physical cross-linking agent. Coordination bonds between zirconium ions and functional groups in the hydrogel imparted excellent mechanical characteristics: a tensile ratio of up to 1150 %, a maximum tensile strength of 0.32 MPa, and a toughness of 1.64 ± 0.26 MJ/m<sup>3</sup>. The hydrogel also demonstrated outstanding sensing abilities, including a high sensitivity (gauge factor = 1.241), a low detection limit (0.1 %), and fast response time (63 ms), enabling reliable, continuous, high-fidelity monitoring of human motion. Similarly, the hydrogel facilitates targeted, controlled transdermal drug delivery without causing skin irritation or cytotoxicity, making it highly biocompatible. This multifunctional hydrogel offers a promising approach for motion monitoring and targeted drug delivery, advancing chronic pain management for better health recovery."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

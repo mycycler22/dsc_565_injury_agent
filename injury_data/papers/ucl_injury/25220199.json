@@ -1,0 +1,31 @@
+{
+  "pmid": "25220199",
+  "title": "How much valgus instability can be expected with ulnar collateral ligament (UCL) injuries? A review of 273 baseball players with UCL injuries.",
+  "year": "2014",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The dynamic stress radiograph of the elbow was designed to help the clinician better define valgus laxity and instability in the throwing athlete. However, no large study has quantified the amount of laxity in athletes with ulnar collateral ligament (UCL) injuries. We hypothesized that valgus stress radiographs in patients with UCL injuries will demonstrate a significantly greater amount of valgus stress opening of the dominant elbows compared with the nondominant elbow."
+    },
+    {
+      "label": "METHODS",
+      "text": "Bilateral elbow static and stress radiographs that were taken as part of our standard preoperative workup were retrospectively reviewed in 273 baseball players who had undergone UCL reconstruction. The valgus stress radiograph protocol used a Telos stress device (SE 2000) to provide 15 daN of stress in a standardized fashion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The thrower's elbow with a UCL injury opened 0.4 mm more than the uninjured side. Those with complete tears (N = 76), determined by magnetic resonance imaging findings, opened 0.6 mm on average, which was significantly more than in those with partial tears (N = 150), which opened an average of 0.1 mm."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Stress radiography of the dominant elbow in baseball players with UCL injuries showed it to have 0.4 mm greater opening compared with the nondominant arm. Larger average openings (0.6 mm) can be expected with full-thickness UCL tears compared with partial-thickness tears (0.1 mm). This suggests that large openings on stress radiography may not be a critical component for predicting who will require surgical reconstruction for UCL injuries but may be more useful in differentiating complete from partial tears."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

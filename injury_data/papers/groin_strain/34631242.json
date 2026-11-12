@@ -1,0 +1,43 @@
+{
+  "pmid": "34631242",
+  "title": "The Neuromuscular Effects of the Copenhagen Adductor Exercise: A Systematic Review.",
+  "year": "2021",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Groin strains are one of the most common time-loss injuries in athletes. The Copenhagen Adductor Exercise (CAE) eccentrically strengthens the adductors and may function to prevent adductor strains, similar to the eccentric mechanism in which the Nordic Hamstrings exercise acts to prevent hamstring strains."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of this study was to systematically review the literature on the CAE and its effects on adductor muscle strength and muscle activity in athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic Review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search of the literature was performed in the following databases: Pubmed; Medline (EBSCO); Sportdiscus; Scopus; Web of Science; CINAHL; Proquest; Cochrane Library; Physiotherapy Evidence Database (PEDro). Inclusion criteria consisted of 1) implements CAE, 2) includes athletes of any age participating in at least one sport, 3) study type is a cohort study or randomized control trial. Studies were excluded if they were not written in English or did not measure strength as an outcome. Data were extracted on eccentric hip adductor strength (EHAD), eccentric hip abductor strength (EHAB), EHAD:EHAB ratio, and electromyography (EMG) activity of the adductor muscles. Quality assessment was performed on all included studies using Quality Assessment Tool for Quantitative Studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Five articles were identified for inclusion, four of which received a strong rating, and one a moderate rating on the Quality Assessment Tool for Quantitative Studies. The CAE significantly increased EHAD in four of the four studies that examined it; significantly increased EHAB and EHAD:EHAB in three of the three studies that examined them, and increased the EMG activity of the adductors in the dominant leg 108%."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Overall, the CAE increases EHAD, EHAB, EHAD:EHAB, and EMG activity in the hip adductors in male soccer players. The increase in strength may reduce adductor muscle injuries, although more research needs to be done in this area to identify a clear relationship between the CAE and groin injury prevention."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "1b."
+    }
+  ],
+  "injury_query": "groin strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

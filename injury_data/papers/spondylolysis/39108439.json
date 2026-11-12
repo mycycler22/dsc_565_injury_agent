@@ -1,0 +1,45 @@
+{
+  "pmid": "39108439",
+  "title": "Return to Sports Following Spondylolysis Surgery in Children and Adolescents: A Systematic Review.",
+  "year": "2024",
+  "journal": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Spondylolysis is common in athletes participating in gymnastics, football, dance, and weightlifting. Few studies have reviewed return to sports (RTS) rates in young athletes after surgical intervention for spondylolysis."
+    },
+    {
+      "label": "PURPOSES",
+      "text": "We sought to review the literature on RTS frequencies and timing, as well as postoperative treatment, in children and adolescents who underwent spondylolysis surgery."
+    },
+    {
+      "label": "METHODS",
+      "text": "This was a systematic review, using the PubMed, Embase, and Cochrane databases, of primary, peer-reviewed studies published from 2014 to 2022 that investigated child and adolescent RTS after spondylolysis surgery. Each author independently reviewed each study's design, number of participants, age range, fixation, postoperative course of treatment, frequency of RTS, and reasons for failure of RTS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The initial search produced 106 articles; 25 were reviewed in full and 9 were included in the final analysis, with a combined total of 177 patients. Sample sizes ranged from 5 to 52 participants. The most common fixations were direct repair (6 studies, n = 120), indirect repair (3 studies, n = 22), and fusion (2 studies, n = 35). Five studies mentioned the use of immediate postoperative immobilization. Physical therapy programs were initiated most often at 6 weeks postoperatively. The RTS rate of the 177 athletes (median age younger than 23 years) was 76% to 100%. The most common reason for failure to RTS was lower back pain."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This systematic review suggests that young athletes RTS at a high rate following spondylolysis surgery, but more rigorous study is warranted. The review also found varied preferred fixation methodologies and postoperative treatment regimens across the available studies."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The RTS rate of the 177 athletes (median age younger than 23 years) was 76% to 100%."
+    }
+  ],
+  "pmcid": "11299326",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "The initial search produced 106 articles; 25 were reviewed in full and 9 were included in the final analysis, with a combined total of 177 patients. Sample sizes ranged from 5 to 52 participants. The most common fixations were direct repair (6 studies, n = 120), indirect repair (3 studies, n = 22), and fusion (2 studies, n = 35). Five studies mentioned the use of immediate postoperative immobilization. Physical therapy programs were initiated most often at 6 weeks postoperatively. The RTS rate of the 177 athletes (median age younger than 23 years) was 76% to 100%. The most common reason for failure to RTS was lower back pain."
+    }
+  ]
+}

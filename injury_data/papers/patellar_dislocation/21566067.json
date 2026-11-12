@@ -1,0 +1,40 @@
+{
+  "pmid": "21566067",
+  "title": "Value of the tibial tuberosity-trochlear groove distance in patellar instability in the young athlete.",
+  "year": "2011",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "A lateralized tibial tubercle may be a relevant anatomic factor in patients with patellar instability and can be used as an indication for a distal realignment procedure. However, parameter values for the tibial tuberosity-trochlear groove (TT-TG) distance in the young patient have not been defined. It also remains to be determined how this parameter contributes to patellar instability in the growing knee joint."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study was to evaluate the value of the TT-TG distance in patellar instability in the young athlete."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Knee magnetic resonance images were collected from 109 patients with lateral patellar instability and from 136 control subjects. Student t test and multiple logistic regression analysis were used to compare the absolute and relative values of the TT-TG distance between patients and controls. The relative value was defined as the ratio between the TT-TG distance and the total width of the distal femur."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The TT-TG distance (absolute and relative to femur width) differed significantly between patients with patellar dislocation and the control group (both P < .01). The TT-TG distances were on average 4 mm larger in patients with patellar dislocation; TT-TG distance divided by femur width was on average 5% larger in patients with patellar dislocation. Multiple logistic regression analysis confirmed the TT-TG distance as a significant risk factor for patellar dislocation (P = .04), but showed no significant interaction with patient age or femur width (P = .95 and P = .15, respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A lateralized tibial tubercle is a relevant anatomic factor in the young athlete and in the adult patient with lateral patellar instability. Its parameter values and its influence on patellar dislocation are independent of patient age and should therefore be evaluated as in adults."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "33343380",
+  "title": "Transmission-Mode Ultrasound for Monitoring the Instantaneous Elastic Modulus of the Achilles Tendon During Unilateral Submaximal Vertical Hopping.",
+  "year": "2020",
+  "journal": "Frontiers in physiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Submaximal vertical hopping capitalizes on the strain energy storage-recovery mechanism associated with the stretch-shortening cycle and is emerging as an important component of progressive rehabilitation protocols in Achilles tendon injury and a determinant of readiness to return to sport. This study explored the reliability of transmission mode ultrasound in quantifying the instantaneous modulus of elasticity of human Achilles tendon during repetitive submaximal hopping. A custom-built ultrasound transmission device, consisting of a 1 MHz broadband emitter and four regularly spaced receivers, was used to measure the axial velocity of ultrasound in the Achilles tendon of six healthy young adults (mean ± SD; age 26 ± 5 years; height 1.78 ± 0.11 m; weight 79.8 ± 13.6 kg) during steady-state unilateral hopping (2.5 Hz) on a piezoelectric force plate. Vertical ground reaction force and lower limb joint kinematics were simultaneously recorded. The potential sensitivity of the technique was further explored in subset of healthy participants (<i>n</i> = 3) that hopped at a slower rate (1.8 Hz) and a patient who had undergone Achilles tendon rupture-repair (2.5 Hz). Reliability was estimated using the mean-within subject coefficient of variation calculated at each point during the ground-contact phase of hopping, while cross-correlations were used to explore the coordination between lower limb kinematics ground reaction forces and ultrasound velocity in the Achilles tendon. Axial velocity of ultrasound in the Achilles tendon was highly reproducible during hopping, with the mean within-subject coefficient of variation ranging between 0.1 and 2.0% across participants. Ultrasound velocity decreased immediately following touch down (-19 ± 13 ms<sup>-1</sup>), before increasing by 197 ± 81 ms<sup>-1</sup>, on average, to peak at 2230 ± 87 ms<sup>-1</sup> at 67 ± 3% of ground contact phase in healthy participants. Cross-correlation analysis revealed that ultrasound velocity in the Achilles tendon during hopping was strongly associated with knee (mean <i>r</i> = 0.98, range 0.95-1.00) rather than ankle (mean <i>r</i> = 0.67, range 0.35-0.79) joint motion. Ultrasound velocity was sensitive to changes in hopping frequency in healthy adults and in the surgically repaired Achilles tendon was characterized by a similar peak velocity (2283 ± 13 ms<sup>-1</sup>) but the change in ultrasound velocity (447 ± 21 ms<sup>-1</sup>) was approximately two fold that of healthy participants (197 ± 81 ms<sup>-1</sup>). Although further research is required, the technique can be used to reliably monitor ultrasound velocity in the Achilles tendon during hopping, can detect changes in the instantaneous elastic modulus of tendon with variation in hopping frequency and tendon pathology and ultimately may provide further insights into the stretch-shortening cycle and aid clinical decision concerning tendon rehabilitation protocols and readiness to return to sport."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,45 @@
+Title: Sports hernia treatment: modified bassini versus minimal repair. | Type: Journal Article | PMID: 24427419 | Year: 2013 | Injury query: sports hernia
+[RESULTS] Patients in the minimal repair group returned to sports at a median of 5.6 weeks (range, 4-8 weeks), which was significantly faster compared with the modified Bassini repair group, with a median return of 25.8 weeks (range, 4-112 weeks;
+[FULLTEXT: Results:] Patients in the minimal repair group returned to sports at a median of 5.6 weeks (range, 4-8 weeks), which was significantly faster compared with the modified Bassini repair group, with a median return of 25.8 weeks (range, 4-112 weeks; P = 0.002). Thirteen of 14 patients in the minimal repair group returned to sports at their previous level, while 9 of 14 patients in the Bassini group were able to return to their previous level of sport (P = 0.01). Two patients in each group had recurrent groin pain. One patient in the minimal repair group underwent revision hernia surgery for recurrent pain, while 1 patient in the Bassini group underwent hip arthroscopy for symptomatic hip pain.
+[FULLTEXT: Return to Sports] Thirteen of 14 athletes (92.8%) in the minimal repair group were able to return to their preinjury level of play, while 9 of 14 (64.3%) in the modified Bassini group were able to do so (P = 0.01). Median time to return to play was 5.6 weeks (range, 4-8 weeks) for the minimal repair group and 25.8 weeks (range, 4-112 weeks) for the modified Bassini group (P = 0.002). Time to return to play was not associated with the clinical symptoms of impingement (P = 0.49) or radiographic presence of FAI (P = 0.15). There was no association between the ability to return to play and the presence of anterior impingement signs (P = 0.47) or radiographic FAI (P = 0.74).
+[FULLTEXT: Outcomes] Two patients in each group developed recurrent groin pain. One patient in the minimal repair group required revision hernia surgery, while 1 patient in the Bassini group underwent hip arthroscopy for symptomatic FAI. Patients in the minimal repair group felt “back to normal” at a median of 5.9 weeks (range, 2-9 weeks), while those in the traditional repair group took a median of 19.9 weeks (range, 6-52 weeks) (P < 0.001). Return to work or school was significantly faster in the minimal repair group: 4.6 days (range, 3-14 days) versus 11.8 days (range, 1-30 days), respectively (P = 0.04). Ninety-three percent of the patients (13 of 14) undergoing the minimal repair technique were satisfied with the procedure, while 79% (11 of 14) undergoing the modified Bassini procedure were satisfied (P = 0.25). There were no significant differences in visual analog scale scores or change in Tegner scores from pre- to postoperative period between the 2 surgical techniques (Table 2). There were 2 minor complications in the minimal repair group and none in the traditional repair group. Both complications in the minimal repair group were superficial wound infections that were successfully treated with oral antibiotics.
+[FULLTEXT: TABLE: Rehabilitation protocol followed by both groupsa] Phase | Activities
+1 | Rest and ice allowing incision to heal
+Light stretching
+2 | Isometric supine hip abduction and adduction
+Resisted isometric hip flexion
+Stationary bike without resistance
+Pool standing hip abduction/adduction and squats
+3 | Core stabilization
+Standing hip 4-way with resistance
+Crunches to fatigue
+Prone hip internal and external rotation
+Bike and elliptical without resistance
+Continue pool training
+4 | Wall squats (45°-90°)
+Lunges
+Bike and elliptical with resistance
+Running in a single plane
+Box jumps
+Continue core strengthening
+5 | Sports-specific activities
+Sprinting, cutting, and twisting activities
+Progress resistance to tolerance
+Full return to sport
+[FULLTEXT: TABLE: Results of phone follow-up comparing the minimal repair technique group versus the modified Bassini group]  | Minimal Repair | Bassini | P
+Weeks to return to sport | 5.6 | 25.6 | 0.002*
+Returned to same sport level | 13 of 14 (92.8%) | 9 of 14 (64.3%) | 0.01*
+Days to return to school/work | 4.6 | 11.8 | 0.04*
+Satisfied with procedure | 13 of 14 (92.8%) | 11 of 14 (78.6%) | 0.25
+Weeks to feel normal | 5.9 | 19.9 | < 0.001*
+Current visual analog scale | 1.1 | 1.5 | 0.82
+Previous Tegner score | 8.1 | 9.3 | 0.02*
+Current Tegner score | 7.9 | 8.3 | 0.35
+Change in Tegner score | 0.733 | 1 | 0.85
+[FULLTEXT: TABLE: Return to sport after sports hernia repaira] Author | No. of Patients | Technique | Return to Sport, % | Time to Return, mo
+Steele et al17 | 40 | Bassini | 77 | 4
+Meyers et al12 | 157 | Pelvic floor reconstruction | 97 | 3 (88%), 6 (96%)
+Van Der Donckt et al19 | 41 | Bassini | 90 | 7
+Kumar et al9 | 35 | Open repair of posterior inguinal canal with mesh and repair of the external oblique aponeurosis | 93 | 6
+Polglase et al15 | 64 | Bassini repair or plication of the transversalis fascia | 94 | 6.9
+Ahumada et al1 | 12 | Open inguinal repair (9 with mesh) | 100 | 4

@@ -1,0 +1,21 @@
+{
+  "pmid": "25136568",
+  "title": "Clinical applications of platelet-rich plasma in patellar tendinopathy.",
+  "year": "2014",
+  "journal": "BioMed research international",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Platelet-rich plasma (PRP), a blood derivative with high concentrations of platelets, has been found to have high levels of autologous growth factors (GFs), such as transforming growth factor-β (TGF-β), platelet-derived growth factor (PDGF), fibroblastic growth factor (FGF), vascular endothelial growth factor (VEGF), and epidermal growth factor (EGF). These GFs and other biological active proteins of PRP can promote tissue healing through the regulation of fibrosis and angiogenesis. Moreover, PRP is considered to be safe due to its autologous nature and long-term usage without any reported major complications. Therefore, PRP therapy could be an option in treating overused tendon damage such as chronic tendinopathy. Here, we present a systematic review highlighting the clinical effectiveness of PRP injection therapy in patellar tendinopathy, which is a major cause of athletes to retire from their respective careers."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

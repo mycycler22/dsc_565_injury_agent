@@ -1,0 +1,20 @@
+{
+  "pmid": "38826947",
+  "title": "Efficacy of Osteopathic Manipulative Treatment for Pain Reduction in Patients With Patellofemoral Pain Syndrome: A Meta-Analysis of Randomized Controlled Trials.",
+  "year": "2024",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Patellofemoral pain syndrome (PFPS) is among the most common causes of musculoskeletal pain in the United States. It is defined as retropatellar or peripatellar pain that is reproduced with functional activities that load the patellofemoral joint in a flexed position, such as stair climbing or squatting. While it presents in both adolescents and adults, it is commonly found in physically active individuals, such as athletes and military recruits. Exploring the role of osteopathic manipulative treatment (OMT) in PFPS is of particular interest given the absence of a definitive treatment and the poor long-term prognosis associated with PFPS. This meta-analysis includes three studies exploring the use of OMT to reduce pain in patients suffering from PFPS and exploring the efficacy of OMT as a primary intervention. In these studies, pain assessments, pre-treatment, and post-treatment follow-up of at least 30 days were performed using a 10-cm visual analog scale (VAS). The mean difference in pain between OMT and no treatment (NT) groups using the random effects model was -3.95 (-6.39; -1.50) with a p<0.01, suggesting OMT resulted in significant knee pain reduction in those with PFPS. A measure of heterogeneity, known as I<sup>2</sup>, was found to be high at 97%, which suggests caution should be taken when interpreting the overall results. Given the lack of definitive treatment and the poor long-term prognosis for PFPS, the authors suggest OMT provides an effective option for pain relief in patients with PFPS. Further research is needed to provide results that may be more clinically applicable or valuably interpreted."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "37425562",
+  "title": "Nonsurgical Interventions for the Management of Long-Standing Groin Pain in Athletes: A Systematic Review of Randomized Controlled Trials.",
+  "year": "2023",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Groin pain is a common problem in athletes, leading to significant distress and long periods of absence from sports. Nonsurgical interventions are usually the first line of treatment. However, the most effective intervention for groin pain is unknown and recommendations are scarce. The primary objective of this systematic review was to assess the effectiveness of nonsurgical interventions in the treatment of long-standing groin pain in athletes and to provide some guidance for clinical practice and further research. A search strategy was performed in March 2020 in Pubmed, Google Scholar, PEDro, and Cochrane Central Register of Controlled Trials databases, without any time restrictions. Only randomized controlled trials (RCT) were included for full-text analysis. Data on the patient's characteristics, duration of pain, study groups, outcome measures results, follow-up time, and return to play time were extracted. The risk of bias in each study was assessed using the Cochrane risk-of-bias assessment tool. Data for analysis could not be pooled for meta-analysis and, as such, a narrative summary of the outcomes was instead performed. The certainty of the evidence was assessed using a variation of the GRADE approach for when a meta-analysis is not possible to perform. Seven RCTs were included for analysis. Most studies were classified as uncertain risk of bias. All studies provided evidence that nonsurgical interventions have significant positive effects and may lead to good outcomes concerning pain, function, and return to sports at previous levels. The certainty of the evidence was assessed to be low using the modified GRADE approach. Despite the low quality of the available evidence, nonsurgical treatments demonstrated efficacy in the management of groin pain and should probably be the initial approach to treatment. More RCTs of high quality are necessary to provide clear recommendations on the most efficient nonsurgical treatment strategy for groin pain."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

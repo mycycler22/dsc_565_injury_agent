@@ -1,0 +1,33 @@
+{
+  "pmid": "35543660",
+  "title": "Femoral acetabular impingement labral pathology on MRI is correlated with greater hip flexion and decreased abduction in collegiate water polo players: A pilot study.",
+  "year": "2022",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Femoroacetabular impingement (FAI) morphology is associated with hip pain and disability. Water polo players utilise the egg beater motion (method of treading water with legs rotating like an \"egg beater\"), and it is currently unclear what the relationship is between an egg beater and FAI morphology. Our objective was to associate hip range of motion during egg beater motion to MRI findings."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eight National Collegiate Athletic Association (NCAA) Division 1 varsity water polo athletes (5 females and 3 males) were filmed at orthogonal views performing the egg beater motion using two waterproof cameras in synchrony. A model-based image-matching technique was used to determine hip joint angles which were recorded from the software. These athletes also underwent noncontrast MRI scans of both hips using a 3T MRI scanner and completed an 33-item International Hip Outcome Tool (iHOT-33) hip pain outcomes questionnaire. Descriptive statistics are reported as counts and percentages for categorical variables and as means, standard deviations, and a five-number summary for continuous variables. Relationships between the range of motion measures with MRI measures and with iHOT33 scores were analysed using linear regression models. All statistical analyses were completes using a two-sided level of significance of 0.05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The average alpha angles for the right and left hips were 71.8<sup>0</sup> ±7.5<sup>0</sup> and 74.1<sup>0</sup> ±8.4<sup>0</sup>, respectively. There was no statistically significant correlation between hip range of motion in any plane and alpha angle or lateral centre edge angle (CEA) on MRI. The average iHOT33 was 85.9 ± 18.9. Participants who had a labral tear had significantly smaller hip abduction ranges than participants who did not have a labral tear (29° ± 4.1 vs. 35.3° ± 0.6, p = 0.02), and those who had a labral tear had significantly increased hip flexion during egg beater kicking as compared with participants who did not have a labral tear (28.2° ± 6.1 vs. 16.3° ± 4, p = 0.02). There were no differences between right and left alpha angles or between right and left CEA."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There were no significant correlations between hip range of motion and alpha angle or CEA, but hips with labral pathology had greater hip flexion and more limited hip abduction ranges."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

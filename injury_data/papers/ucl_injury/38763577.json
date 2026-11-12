@@ -1,0 +1,41 @@
+{
+  "pmid": "38763577",
+  "title": "Rehabilitation following ulnar collateral ligament injury of the elbow in a female acrobatic athlete: A case report.",
+  "year": "2024",
+  "journal": "Journal of bodywork and movement therapies",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The mechanism of injury and the conservative rehabilitation of the ulnar collateral ligament of the elbow (UCL) are well studied and reported in overhead athletes, while research on gymnastic athletes is sparse. Evidence suggests exercise as the mainstay in UCL injury rehabilitation. With this report, we aimed to provide a complete rehabilitation protocol following a partial UCL tear of an acrobatic athlete, where exercise and adjunct treatments, such as manual therapy, were used in a progressive staged rehabilitation."
+    },
+    {
+      "label": "CASE DESCRIPTION",
+      "text": "A 16-year-old female acrobatic athlete was diagnosed with partial tear of the anterior band of UCL. The rehabilitation included progressive exercise loading in conjunction with manual therapy for 10 sessions in 8 weeks. Pain, UCL special tests, the Disabilities of Arm, Shoulder and Hand Score Questionnaire (DASH), and the Upper Limb Functional Index (ULFI) were assessed and administered at baseline and at 3, 6, 10 weeks, and 3 months."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Improvement in all outcome measures was noted at the 3-month follow-up indicating a substantial reduction in pain and disability, and an increase in stability of the elbow joint. Return to training was achieved at 8 weeks from the initial visit, while return to sport at the pre-injury level was achieved at 3 months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Progressive exercise loading along with the addition of manual therapy is an effective intervention for the rehabilitation and return to sport following a partial UCL tear. A progressive staged rehabilitation guideline for acrobatic athletes with UCL injuries has been provided to be used and guide clinical practice."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Return to training was achieved at 8 weeks from the initial visit, while return to sport at the pre-injury level was achieved at 3 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

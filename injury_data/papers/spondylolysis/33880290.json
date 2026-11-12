@@ -1,0 +1,20 @@
+{
+  "pmid": "33880290",
+  "title": "Limbus Vertebra.",
+  "year": "2021",
+  "journal": "Cureus",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Athletes in their teenage years can present to clinics with back pain, without any history of trauma. Many sports require repetitive spinal extension, which may be pertinent to the evaluation of back pain as a chief complaint. Musculoskeletal and neurologic examinations are crucial in the evaluation of athletes presenting with back pain. Most back pain cases are caused by benign conditions that resolve with conservative treatment. However, radiographic imaging may be appropriate to look for possible spondylolysis in teenage athletes who perform repetitive extension in their sports, and who present with a positive stork test on examination. Limbus vertebra is a condition that can be seen in asymptomatic patients but can also be associated with back pain. Nevertheless, a conservative approach is still appropriate in these cases, with escalation to further testing or imaging only considered for recalcitrant pain. Limbus vertebra is not well known by clinicians and can be misdiagnosed. Therefore, early recognition is crucial to potentially prevent an unnecessary cascade of increasing expenses related to time, effort, medications, and resources to find the diagnosis when conservative treatment is preferred."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

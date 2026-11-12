@@ -1,0 +1,36 @@
+{
+  "pmid": "32653248",
+  "title": "Modifying bowling kinematics in cricket pace bowlers with exercise-based injury prevention: A cluster-randomised controlled trial.",
+  "year": "2020",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Undesirable bowling kinematics can increase the risk of low back injury. This study investigated if an exercise-based injury prevention program (IPP) could modify bowling kinematics in community-level adolescent pace bowlers."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cluster-randomised controlled trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Pace bowlers from eight cricket organisations were cluster-randomised into an intervention or control group. At baseline and follow-up sessions biomechanical bowling data were collected. Between sessions, the intervention group completed an eight-week IPP while the control continued their normal cricket activity. Treatment effects (95% CI) were estimated with linear mixed models."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were significant treatment effects favouring the intervention group for shoulder counter-rotation (-3.8°; -7.2° to -0.3°) and lateral trunk flexion relative to the pelvis (-2.2°; -4.0° to -0.5°). Shoulder counter-rotation also increased in the control group by 2.2° (Cohen's d=0.22). There were no effects of the intervention on: lateral trunk flexion at front foot contact (FFC) (1.2°; -2.5° to 4.8°), lateral trunk flexion at ball release (BR) (-0.5°; -3.0° to 2.0°), pelvis rotation at FFC (0.9°; -4.0° to 2.2°), pelvis rotation at BR (-1.1°; -5.7° to 3.6°), front hip angle at FFC (1.6°; -3.6° to 6.7°), front hip angle at BR (-1.6°; -5.0° to 1.9°), front knee angle at FFC (-1.1°; -4.5° to 2.3°), front knee angle at BR (1.7°; -5.6° to 9.1°), or ball velocity (1.1kmh<sup>-1</sup>; -7.5kmh<sup>-1</sup> to 9.7kmh<sup>-1</sup>)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The IPP maintained shoulder counter-rotation and lateral trunk flexion relative to the pelvis in the intervention group and this could attenuate injury risk. No treatment effects were observed for lower-limb kinematics."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "34495819",
+  "title": "Trends in match concussion incidence and return-to-play time in male professional Rugby Union: A 16-season prospective cohort study.",
+  "year": "2021",
+  "journal": "Brain injury",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "To describe trends in the incidence of match concussions and time to return-to-play in professional rugby union."
+    },
+    {
+      "label": "METHODS",
+      "text": "Match concussion incidence (injuries per 1000 player-match-hours) and time to return-to-play (mean and median days absence) were recorded in 3006 male professional rugby union players over 16 seasons (2002/03 - 2018/19)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "From 2002/03 to 2009/10, incidence of concussions was stable at 4.3/1000 player-match-hours. From 2009/10 to 2018/19, there was an increase in concussion incidence, with the highest incidence in 2016/17 at 20.9/1000 player-match-hours (95% CI: 17.9-24.3). Annual prevalence of concussion also increased, suggesting more players were concussed rather than the same players sustaining more concussions. Before the introduction of standardized graduated return-to-play (GRTP) guidelines in 2011, 27% of players returned to play in <6 days. After the introduction of the GRTP, this decreased to 7%, with no players returning in <6 days after 2014/15. Between 2002/03 and 2018/19, incidence of all other injuries remained stable."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "From 2009/10 onwards, the incidence of diagnosed concussions increased. Since the introduction of the GRTP, there has been a dramatic reduction in the number of players returning in <6 days."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Before the introduction of standardized graduated return-to-play (GRTP) guidelines in 2011, 27% of players returned to play in <6 days."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

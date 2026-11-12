@@ -1,0 +1,31 @@
+{
+  "pmid": "41577613",
+  "title": "Functional outcomes and return to sport following surgical management of posterior malleolar fractures: A retrospective cohort study.",
+  "year": "2026",
+  "journal": "Foot and ankle surgery : official journal of the European Society of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle fractures are highly prevalent orthopaedic injuries frequently involving the posterior malleolus, affecting ankle stability and function."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study evaluated functional outcomes and return to sport following operative fixation of posterior malleolus fractures. The study included all consecutive patients with posterior malleolus fracture, who underwent operative fixation in a single institution in the UK. Patient demographics, fracture pattern based on Mason classification, operative details, postoperative radiographs and complications were extracted and analysed. Primary outcome was functional outcome assessed using the Olerud and Molander (OM) score and secondary outcomes were return to sport, union rates, complications and Visual Analogue Pain Score (VAS)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between May 2019 and May 2021, n = 52 patients were eligible for inclusion. Mean age was 45.2 ± 14.5 with mean follow up of 14.2 ± 4.3 months. The mean OM score was 79.3 ± 16.9 and mean VAS score was 1.2 ± 1.7. Residual symptoms were frequent: 55 % reported some level of ongoing pain, 35 % stiffness, 23 % swelling. Out of 43 patients doing sports pre-injury, 28 (65 %) returned to the same sport level, 11 (26 %) to a lower level, and 4 (9 %) were unable to return. No significant differences in outcome were observed between Mason fracture types."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Functional recovery was achieved in the majority of patients, with 42 % excellent and 52 % fair outcomes, though residual symptoms remained common. Residual symptoms and functional limitations must be emphasised to patients to manage postoperative expectations."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

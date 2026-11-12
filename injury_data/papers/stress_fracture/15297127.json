@@ -1,0 +1,33 @@
+{
+  "pmid": "15297127",
+  "title": "[Stress fracture in athletes and prevalence of extensive rehabilitation].",
+  "year": "2004",
+  "journal": "Annales de readaptation et de medecine physique : revue scientifique de la Societe francaise de reeducation fonctionnelle de readaptation et de medecine physique",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this work was to review the literature for the place of extensive rehabilitation for athletes with stress fractures."
+    },
+    {
+      "label": "METHOD",
+      "text": "We searched the Medline and Embase databases using the keywords stress fracture, sports, rehabilitation, management and treatment. Only French and English articles were included, and articles about bone physiology, animal models, and spine and chest localisations were excluded. From 468 scientific articles, 62 were chosen because they corresponded to literary reviews or to therapeutic evaluations."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Treatment of stress fracture is justified according to risk factors, stress-fracture complications, the precocity of diagnosis, the therapeutic method and when the athlete needs to return to the sport. The most common treatment is discontinuing the sport, followed by rest. The progressive resumption of sport is rarely described but must take into account mechanical constraints that can be controlled by the use of shoes adapted to a supple ground. Some treatments such as immobilization by pneumatic splint surgery or use of electric fields are controversial."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Extensive treatment of stress fractures is mainly dedicated to high-level athletes who need to regain previous physical capacities as soon as possible."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

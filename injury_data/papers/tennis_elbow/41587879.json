@@ -1,0 +1,35 @@
+{
+  "pmid": "41587879",
+  "title": "To Study Efficacy of Dry Needling after Lignocaine Infiltration versus Local Steroid Injection for Management of Patients with Lateral Epicondylitis (Tennis Elbow).",
+  "year": "2026",
+  "journal": "Annals of African medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Lateral epicondylitis, commonly known as tennis elbow, is a prevalent musculoskeletal condition affecting 1%-3% of the population, with a higher incidence among athletes and manual laborers. It impairs quality of life, reduces productivity, and imposes economic burden on healthcare systems."
+    },
+    {
+      "label": "AIM",
+      "text": "This study aimed to compare the efficacy of dry needling after lignocaine infiltration versus local corticosteroid injection in managing lateral epicondylitis."
+    },
+    {
+      "label": "METHODOLOGY",
+      "text": "This hospital-based, prospective, randomized comparative study was conducted over 18 months in the orthopedics department of a tertiary care hospital. Forty-five patients over 18 years with lateral epicondylitis unresponsive to 3 weeks of conservative treatment were randomized into two groups. Group A (n = 21) received dry needling after lignocaine infiltration with 2-3 sterile needles inserted at the point of maximum tenderness, administered twice weekly for four sessions. Group B (n = 24) received a single injection of 40 mg triamcinolone acetate with 2% lignocaine. Outcome measures included patient-rated tennis elbow evaluation (PRTEE) scores, grip strength, numeric pain rating scale, and pain pressure threshold (PPT), assessed at baseline, 1 month, and 3 months."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Baseline characteristics were comparable. At 3 months, Group A showed significantly better outcomes: lower PRTEE scores (27.1 vs. 37.1, P < 0.001), higher grip strength (49 kg vs. 40.8 kg, P < 0.001), lower pain scores (2.1 vs. 3.1, P < 0.001), and higher PPT (5.6 vs. 4.7 kg/cm2, P < 0.001). Recurrence occurred in 8.3% of Group B, with none in Group A."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Dry needling after lignocaine infiltration is superior to steroid injection in lateral epicondylitis, with better clinical outcomes and lower recurrence at 3-month follow-up."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

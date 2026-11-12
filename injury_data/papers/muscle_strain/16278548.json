@@ -1,0 +1,32 @@
+{
+  "pmid": "16278548",
+  "title": "Return to play following muscle strains.",
+  "year": "2005",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To assess return to play strategies following muscle strains with the desired outcomes of decreased competition play lost and minimized risk for recurrent injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "Literature review of previous studies that examine return to play criteria for the commonly seen muscle strain injuries in sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There have been no studies directly comparing different return to play approaches. Studies have instead concentrated on recurrence risk factors and prognosis assessment, particularly for hamstring injuries. There is some literature support for risk factors for recurrence such as persisting strength deficits, larger injuries seen on diagnostic imaging, players in high-risk positions or sports, inability to complete functional tasks without pain, and strains of specific high-risk muscles (biceps femoris, central tendon of rectus femoris, medial head of gastrocnemius, adductor longus or magnus)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There are no consensus guidelines or agreed-upon criteria for safe return to sport following muscle strains that completely eliminate the risk for recurrence and maximize performance. At this time, it may be a sensible strategy to allow earlier return to play in team sports and accept a low to moderate injury recurrence rate. Improved prognostic assessment of muscle strains with injury identification (MRI) and injury assessment (isokinetic testing) may be assist practitioners to lower, but not eliminate, recurrent injuries."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "34156768",
+  "title": "Ultrasonographic prevalence of ulnar nerve displacement at the elbow in young baseball players.",
+  "year": "2022",
+  "journal": "PM & R : the journal of injury, function, and rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Overhead-throwing athletes are at risk of elbow injury because of valgus stress, leading to unstable ulnar nerves and neuropathy. Studies regarding ulnar nerve damage/displacement have been performed primarily in adults."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the prevalence and related factors associated with ulnar nerve displacement at the elbow in young baseball players."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Youth baseball players ages 10-12 years were eligible to participate. Exclusion criteria were history of neuropathic pain, trauma, or prior surgery of the upper limb. Fifty-seven participants were eligible for inclusion in the study."
+    },
+    {
+      "label": "MAIN OUTCOME MEASUREMENTS",
+      "text": "Demographic data and ultrasonography findings of ulnar nerve dynamics at the cubital tunnel were analyzed in a total of 114 elbows. Elbows were grouped into nondislocation and displacement (subluxation or dislocation) groups according to ultrasound findings. Logistic generalized estimating equations were used to identify factors associated with ulnar nerve displacement."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-six (31.6%) elbows demonstrated sonographic findings of ulnar nerve displacement, with 13 (11.4%) subluxations and 23 (20.2%) dislocations. Fourteen (24.6%) participants experienced nerve displacement in the dominant elbow only, whereas nerve displacement in both elbows occurred in 11 (19.3%) participants. Nerve displacement in the nondominant elbow only was not observed. Hand dominance and tenderness of the arcade of Struthers' were factors associated with ulnar nerve displacement (odds ratio, 2.81, and 9.73; 95% confidence interval, 1.34-5.91 and 2.45-38.68; p = .006 and .001, respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "One-third of the young baseball players evaluated had ultrasonographic findings compatible with ulnar nerve displacement at the elbow. Hand dominance and tenderness of Struthers arcade were the only factors associated with ulnar nerve displacement. Ultrasound may help identify patients with ulnar nerve displacement and contribute to the understanding of its pathophysiology in young baseball players."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "35647213",
+  "title": "Clinical Outcomes After Suture Tape Augmentation for Ankle Instability: A Systematic Review.",
+  "year": "2022",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is minimal literature on the use of suture tape augmentation in the treatment of chronic lateral ankle instability (CLAI), prompting an investigation on its use and effect during surgery of the lateral ankle."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the evidence for the use of suture tape augmentation in the treatment of CLAI and the outcomes after this procedure."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A literature search was performed using the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they evaluated the use of suture tape for CLAI. Outcome measures included the Foot and Ankle Ability Measure, American Orthopaedic Foot and Ankle Society (AOFAS) score, return to play, and radiological improvement in anterior talar translation and talar tilt angle. Quantitative and qualitative analyses were performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 11 studies (2 with level 2 evidence, 1 with level 3, and 8 with level 4) including 334 patients (334 ankles) that underwent suture-tape augmentation. The mean age was 27.3 years, 67.3% were women, and the mean follow-up was 27.6 months (range, 11.5-38.5 months). The mean weighted postoperative AOFAS score was 95, and 87.7% were able to return to sports. Overall, 9 recurrent instability events (4.1%) were reported. In 3 studies that compared Broström repair and suture tape augmentation, there were no significant differences between the procedures in recurrent instability (mean difference [MD], 0.81 [95% CI, 0.19 to 3.50]; <i>I</i> <sup>2</sup> = 0%; <i>P</i> = .78), Foot and Ankle Ability Measure (MD, 1.24 [95% CI, -3.73 to 6.21]; <i>I</i> <sup>2</sup> = 66%; <i>P</i> = .63), talar tilt angle improvement (MD, -0.07 [95% CI, -0.68 to 0.54]; <i>I</i> <sup>2</sup> = 0%; <i>P</i> = .42), or anterior talar translation improvement (MD, -0.06 [95% CI, -0.69 to 0.56]; <i>I</i> <sup>2</sup> = 0%; <i>P</i> = .77)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Suture tape augmentation did not significantly improve clinical or radiological outcomes in the setting of modified Broström repair for CLAI. There is currently insufficient evidence to recommend suture tape augmentation for all patients at this time."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

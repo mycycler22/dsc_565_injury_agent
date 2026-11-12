@@ -1,0 +1,43 @@
+{
+  "pmid": "35188807",
+  "title": "Evaluation of the Effects of Transforming Growth Factor-Beta 3 (TGF-β3) Loaded Nanoparticles on Healing in a Rat Achilles Tendon Injury Model.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon (AT) midsubstance injuries may heal suboptimally, especially in athletes. Transforming growth factor-beta 3 (TGF-β3) shows promise because of its recently discovered tendinogenic effects. Using poly(lactic-co-glycolic acid)-b-poly(ethylene glycol) (PLGA-b-PEG) nanoparticles (NPs) may enhance the results by a sustained-release effect."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "The application of TGF-β3 will enhance AT midsubstance healing, and the NP form will achieve better outcomes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 80 rats underwent unilateral AT transection and were divided into 4 groups: (1) control (C); (2) empty chitosan film (Ch); (3) chitosan film containing free TGF-β3 (ChT); and (4) chitosan film containing TGF-β3-loaded NPs (ChN). The animals were sacrificed at 3 and 6 weeks. Tendons were evaluated for morphology (length and cross-sectional area [CSA]), biomechanics (maximum load, stress, stiffness, and elastic modulus), histology, immunohistochemical quantification (types I and III collagen [COL1 and COL3]), and gene expression (COL1A1, COL3A1, scleraxis, and tenomodulin)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Morphologically, at 3 weeks, ChT (15 ± 2.7 mm) and ChN (15.6 ± 1.6 mm) were shorter than C (17.6 ± 1.8 mm) (<i>P</i> = .019 and = .004, respectively). At 6 weeks, the mean CSA of ChN (10.4 ± 1.9 mm<sup>2</sup>) was similar to that of intact tendons (6.4 ± 1.1 mm<sup>2</sup>) (<i>P</i> = .230), while the other groups were larger. Biomechanically, at 3 weeks, ChT (42.8 ± 4.9 N) had a higher maximum load than C (27 ± 9.1 N; <i>P</i> = .004) and Ch (29.2 ± 5.7 N; <i>P</i> = .005). At 6 weeks, ChN (26.9 ± 3.9 MPa) had similar maximum stress when compared with intact tendons (34.1 ± 7.8 MPa) (<i>P</i> = .121); the other groups were significantly lower. Histologically, at 6 weeks, the mean Movin score of ChN (4.5 ± 1.5) was lower than that of ChT (6.3 ± 1.8). Immunohistochemically, ChN had higher COL3 (1.469 ± 0.514) at 3 weeks and lower COL1 (1.129 ± 0.368) at 6 weeks. COL1A1 gene expression was higher in ChT and ChN at 3 weeks, but COL3A1 gene expression was higher in ChN."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The application of TGF-β3 had a positive effect on AT midsubstance healing, and the sustained-release NP form improved the outcomes, more specifically accelerating the remodeling process."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "This study demonstrated the effectiveness of TGF-β3 on tendon healing on a rat model, which is an important step toward clinical use. The novel method of using PLGA-b-PEG NPs as a drug-delivery system with sustained-release properties had promising results."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

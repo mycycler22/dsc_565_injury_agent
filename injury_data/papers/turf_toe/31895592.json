@@ -1,0 +1,47 @@
+{
+  "pmid": "31895592",
+  "title": "Epidemiology of Foot Injuries Using National Collegiate Athletic Association Data From the 2009-2010 Through 2014-2015 Seasons.",
+  "year": "2020",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Researchers analyzing data from the National Collegiate Athletic Association Injury Surveillance Program have not considered the differences in foot injuries across specific sports and between males and females."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To describe the epidemiologic differences in rates of overall foot injuries and common injuries among sports and between sexes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Online injury-surveillance data from 15 unique sports involving males and females that demonstrated 1967 injuries over 4 821 985 athlete-exposures."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "Male and female athletes competing in National Collegiate Athletic Association sports from the 2009-2010 through 2014-2015 seasons."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Foot injury rates (per 10 000 athlete-exposures) and the proportion of foot injuries were calculated for each sport. The effect of sex was calculated using Poisson-derived confidence intervals for 8 paired sports. A risk analysis was performed using a 3 × 3 quantitative injury risk-assessment matrix based on both injury rate and mean days of time loss."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Foot injury rates differed between sports, with the highest rates in female gymnastics, male and female cross-country, and male and female soccer athletes. Cross-country and track and field had the highest proportions of foot injuries for both female and male sports. The 5 most common injuries were foot/toe contusions, midfoot injuries, plantar fascia injuries, turf toe, and metatarsal fractures. Only track and field athletes demonstrated a significant sex difference in injury rates, with female athletes having the higher rate. The quantitative injury risk-assessment matrix identified the 4 highest-risk injuries, considering both rate and severity, as metatarsal fractures, plantar fascia and midfoot injuries, and foot/toe contusions."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Important differences were present among sports in terms of injury rates, the most common foot injuries, and the risk (combination of frequency and severity) of injury. These differences warrant further study to determine the mechanisms of injury and target intervention efforts."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

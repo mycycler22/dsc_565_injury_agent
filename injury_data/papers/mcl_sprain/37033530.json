@@ -1,0 +1,19 @@
+{
+  "pmid": "37033530",
+  "title": "Risk of Lower Extremity Ligamentous Injury Following Concussion Diagnosis: A TriNetX Database Study.",
+  "year": "2023",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Background Concussion is one of the most frequently reported sports-related injuries in the United States; there is evidence that residual deficits in neurocognition may increase the risk of lower extremity musculoskeletal injury after concussion in high school, college, and professional athletes. The purpose of this study is to identify whether similar trends are identified in community-based populations.  Methods The TriNetX Research Network database was queried for patients 10-60 years old who experienced an ambulatory or emergency visit from 2018-2020. Cohorts were defined by patients seen for concussion and patients seen for other reasons. These cohorts were then propensity score matched based on significant differences in demographics; after matching, each cohort included 97,708 patients. The propensity score-matched cohorts were then evaluated to identify patients who experienced subsequent lower extremity ligamentous injury within 12 months. Results Patients with a history of concussion were more likely to experience posterior cruciate ligament (PCL) sprain (0.04% vs. 0.02%, risk ratio (RR)=1.79, p=.039), medial collateral ligament (MCL) sprain (0.18% vs. 0.08%, RR=2.355, p<.001), lateral collateral ligament (LCL) sprain (0.05% vs. 0.02%, RR=2.202, p=.003) and ankle sprain (1.05% vs. 0.47%, RR=2.265, p<.001). Conclusion Patients diagnosed with concussion were more likely to experience a lower extremity ligamentous injury when compared with patients who did not have concussion. Patients should be counseled regarding this increased risk and additional neuromuscular evaluation and injury prevention education may be indicated following concussion diagnosis."
+    }
+  ],
+  "injury_query": "MCL sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

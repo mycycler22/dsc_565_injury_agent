@@ -1,0 +1,20 @@
+{
+  "pmid": "42634673",
+  "title": "Emerging Technologies in Sports-Related Knee Injuries and Rehabilitation: A Systematic Review.",
+  "year": "2026",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sports-related knee injuries are among the most common musculoskeletal conditions affecting athletes and frequently result in pain, functional limitations, prolonged rehabilitation, and delayed return to sport. Emerging rehabilitation technologies and advanced physiotherapy interventions have gained increasing attention for improving clinical outcomes following anterior cruciate ligament (ACL) injuries, patellar tendinopathy, and other sports-related knee disorders. This systematic review aimed to evaluate the effectiveness of contemporary rehabilitation strategies in enhancing functional recovery, neuromuscular performance, pain reduction, and return-to-sport outcomes among athletic populations with knee injuries. A systematic search of the literature was conducted using electronic databases, and randomized controlled trials (RCTs) published between 2021 and 2026 were included according to predefined eligibility criteria. Twelve studies involving athletes with ACL injuries, ACL reconstruction, patellar tendinopathy, and other sports-related knee conditions were selected for qualitative synthesis. The included interventions comprised neuromuscular training with external focus cues, eccentric-oriented strength training, Nordic hamstring exercises, proprioceptive and plyometric training, accelerated rehabilitation protocols, objective criteria-based rehabilitation, progressive tendon-loading exercise therapy, personalized exercise prescription, and injury prevention programs. Methodological quality was assessed using the Cochrane Risk of Bias 2 (RoB 2) tool. The findings demonstrated that emerging rehabilitation approaches generally produced favorable improvements in knee function, neuromuscular control, balance, strength, pain reduction, postural stability, jumping performance, limb symmetry, and return-to-sport readiness compared with conventional rehabilitation alone. Eccentric loading interventions showed particularly favorable outcomes in athletes with patellar tendinopathy, while neuromuscular and criteria-based rehabilitation programs enhanced functional recovery following ACL reconstruction. Accelerated rehabilitation and individualized exercise prescription approaches also demonstrated promising results for optimizing rehabilitation efficiency and sports participation. The evidence suggests that integrating emerging rehabilitation technologies and evidence-based physiotherapy interventions into sports injury management can substantially improve clinical and functional outcomes in athletes with knee injuries. Although most included studies demonstrated some concerns regarding risk of bias, the collective findings support the use of innovative rehabilitation strategies to facilitate recovery, enhance athletic performance, and promote safe return to sport. Further high-quality RCTs with longer follow-up periods are required to establish standardized rehabilitation guidelines and determine long-term effectiveness."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

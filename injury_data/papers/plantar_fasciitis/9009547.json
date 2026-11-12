@@ -1,0 +1,19 @@
+{
+  "pmid": "9009547",
+  "title": "Lower extremity injuries at the New York City Marathon.",
+  "year": "1997",
+  "journal": "Journal of the American Podiatric Medical Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The purpose of this study was to determine the type and frequency of lower extremity running injuries incurred by athletes participating in the New York City Marathon. A survey was conducted of 265 athletes presenting to medical stations for podiatric care during the 1994 New York City Marathon. The results of the survey indicated that the most common injuries occurring in marathon runners were corns, calluses, blisters, muscle cramps, acute knee and ankle injuries, plantar fasciitis, and metatarsalgia. An inverse relationship was observed between the number of miles trained per week and the number of injuries. These findings are consistent with long-term studies of running injuries."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

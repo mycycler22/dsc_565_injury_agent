@@ -1,0 +1,32 @@
+{
+  "pmid": "26978166",
+  "title": "Physical Exam Risk Factors for Lower Extremity Injury in High School Athletes: A Systematic Review.",
+  "year": "2016",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "A stated goal of the preparticipation physical evaluation (PPE) is to reduce musculoskeletal injury, yet the musculoskeletal portion of the PPE is reportedly of questionable use in assessing lower extremity injury risk in high school-aged athletes. The objectives of this study are: (1) identify clinical assessment tools demonstrated to effectively determine lower extremity injury risk in a prospective setting, and (2) critically assess the methodological quality of prospective lower extremity risk assessment studies that use these tools."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "A systematic search was performed in PubMed, CINAHL, UptoDate, Google Scholar, Cochrane Reviews, and SportDiscus. Inclusion criteria were prospective injury risk assessment studies involving athletes primarily ages 13 to 19 that used screening methods that did not require highly specialized equipment. Methodological quality was evaluated with a modified physiotherapy evidence database (PEDro) scale."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "Nine studies were included. The mean modified PEDro score was 6.0/10 (SD, 1.5). Multidirectional balance (odds ratio [OR], 3.0; CI, 1.5-6.1; P < 0.05) and physical maturation status (P < 0.05) were predictive of overall injury risk, knee hyperextension was predictive of anterior cruciate ligament injury (OR, 5.0; CI, 1.2-18.4; P < 0.05), hip external:internal rotator strength ratio of patellofemoral pain syndrome (P = 0.02), and foot posture index of ankle sprain (r = -0.339, P = 0.008)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Minimal prospective evidence supports or refutes the use of the functional musculoskeletal exam portion of the current PPE to assess lower extremity injury risk in high school athletes. Limited evidence does support inclusion of multidirectional balance assessment and physical maturation status in a musculoskeletal exam as both are generalizable risk factors for lower extremity injury."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

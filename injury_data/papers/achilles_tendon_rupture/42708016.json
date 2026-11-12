@@ -1,0 +1,19 @@
+{
+  "pmid": "42708016",
+  "title": "Epidemiology and Performance After Achilles Tendon Rupture in National Basketball Association (NBA) Players: A Retrospective Case Series Rationale.",
+  "year": "2026",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Background Achilles tendon (AT) ruptures are among the most severe injuries sustained by National Basketball Association (NBA) players, with prolonged recovery times and documented long-term impact on performance. The 2024-2025 season witnessed a record-high number of these injuries, including multiple high-profile cases, prompting renewed interest in understanding the burden and epidemiological trends of AT ruptures in professional basketball. Purpose The purpose of this study is to characterize the epidemiology of complete AT ruptures in NBA players over the past 15 seasons and explore trends in player demographics and performance after return to play. Methods A retrospective review was conducted using publicly available data on NBA players who experienced complete AT ruptures between 2010 and 2025. Inclusion was limited to players who returned to NBA competition within two seasons and had no prior same-side lower-extremity (LE) surgeries. Pre- and post-injury minutes per game (MPG) and player efficiency rating (PER) were compared using paired t-tests. Subgroup analyses were performed based on age, height, and weight. Results Among the 12 included players, the average age at the time of injury was 27.9 years, with an average of 9.25 months missed. There was a significant decline in MPG post-injury (p = 0.0009, d = 1.31), while the decline in PER trended toward significance (p = 0.0072, d = 0.95). On average, MPG and PER decreased by 20.2% and 21.9%, respectively. Younger players (≤28 years) represented a growing share of recent injuries. Conclusion AT ruptures result in substantial decreases in performance and prolonged absences, with possible trends toward earlier injury onset. Further research is needed to elucidate the causes of this recent increase in such a profound injury."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

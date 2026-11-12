@@ -1,0 +1,47 @@
+{
+  "pmid": "39800320",
+  "title": "Characteristics of upper lumbar spondylolysis in children.",
+  "year": "2025",
+  "journal": "The spine journal : official journal of the North American Spine Society",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Pediatric lumbar spondylolysis (LS) is common in junior and senior high school athletes. Lower LS (L4-L5 level) is more common in children, and upper LS (L1-L3 level) is relatively rare; therefore, the pathogenesis of upper LS remains unclear."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To elucidate the mechanisms of upper LS by identifying and comparing characteristics between upper and lower LS cases."
+    },
+    {
+      "label": "STUDY DESIGN/SETTING",
+      "text": "Retrospective cross-sectional study."
+    },
+    {
+      "label": "PATIENT SAMPLE",
+      "text": "This study included 842 pediatric patients aged ˂18 years diagnosed with single-level acute LS at a single outpatient clinic between 2015 and 2022."
+    },
+    {
+      "label": "OUTCOME MEASURES",
+      "text": "The rate of upper LS, age, sex, participation in flexibility sports, presence of spina bifida occulta (SBO), and radiological parameters including lumber lordosis, L1-L4 lordosis, L4-S1 lordosis, and sacral slope."
+    },
+    {
+      "label": "METHODS",
+      "text": "We retrospectively analyzed the data of all patients with acute LS diagnosed using plain radiography, multidetector computed tomography, and magnetic resonance imaging. The upper and lower LS groups were subsequently compared using univariate and multivariate analyses to investigate factors associated with upper LS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the included 842 patients, 88 (10.5%) had upper LS. Multivariate analysis showed that older age (odds ratio, 1.62; p<.001), flexibility sports participation (odds ratio, 2.50; p=.041), lower prevalence of SBO (odds ratio, 0.49; p=.011), increased L1-L4 lordosis (odds ratio, 1.16; p<.001), and decreased L4-S1 lordosis (odds ratio, 0.84; p<.001) were significantly associated with upper LS development."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Patients with upper LS had clearly different characteristics from those with lower LS in terms of age, participation in flexibility sports, presence of SBO, and segmental lordosis of the lumbar spine. This study will help further research in elucidating the mechanisms of upper LS."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

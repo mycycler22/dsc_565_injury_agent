@@ -1,0 +1,24 @@
+{
+  "pmid": "33635518",
+  "title": "Biomechanical Basis of Predicting and Preventing Lower Limb Stress Fractures During Arduous Training.",
+  "year": "2021",
+  "journal": "Current osteoporosis reports",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Stress fractures at weight-bearing sites, particularly the tibia, are common in military recruits and athletes. This review presents recent findings from human imaging and biomechanics studies aimed at predicting and preventing stress fractures."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Peripheral quantitative computed tomography (pQCT) provides evidence that cortical bone geometry (tibial width and area) is associated with tibial stress fracture risk during weight-bearing exercise. The contribution of bone trabecular microarchitecture, cortical porosity, and bone material properties in the pathophysiology of stress fractures is less clear, but high-resolution pQCT and new techniques such as impact microindentation may improve our understanding of the role of microarchitecture and material properties in stress fracture prediction. Military studies demonstrate osteogenic outcomes from high impact, repetitive tibial loading during training. Kinetic and kinematic characteristics may influence stress fracture risk, but there is no evidence that interventions to modify biomechanics can reduce the incidence of stress fracture. Strategies to promote adaptive bone formation, in combination with improved techniques to assess bone strength, present exciting opportunities for future research to prevent stress fractures."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

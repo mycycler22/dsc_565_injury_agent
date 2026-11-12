@@ -1,0 +1,39 @@
+{
+  "pmid": "40911922",
+  "title": "The Elbow Ulnar Collateral Ligament Injury Prognosis Score.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "No model exists to predict which patients with elbow ulnar collateral ligament (UCL) injuries will successfully return to play (RTP) after nonoperative treatment. The reported rates for successful RTP after the nonoperative management of UCL injuries are limited and vary widely. Furthermore, patient and injury characteristics that influence the failure of nonoperative treatment have not been established."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To identify patient- and injury-specific factors predictive of successful RTP after the nonoperative management of UCL injuries in baseball players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Retrospective cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 205 patients with a UCL injury were enrolled from 2010 to 2020. Of these patients, 130 underwent nonoperative treatment and were either cleared for RTP (n = 46) or eventually underwent a surgical intervention (n = 84) after a minimum 1-month trial of nonoperative management. The Elbow UCL Injury Prognosis Score is a close approximation of a logistic regression model that was developed by recursively selecting features using a combination of the backward stepwise and best subset methods. The criteria considered for feature selection included <i>P</i> values using the Fisher exact test, variable importance from intermediary logistic models, and accuracy and sensitivity of the final model. The final logistic model was tested and validated using 5-fold cross-validation, and the score was validated against the logistic model."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The Elbow UCL Injury Prognosis Score provided an individualized prediction of each patient's need for surgery based on age, magnetic resonance imaging findings, and paresthesia of the fifth digit. The final model achieved an average accuracy of 78.7% and a consistently perfect sensitivity and negative predictive value on the test dataset. The area under the curve was 0.86. A simplified score to allow for calculation at the bedside was created by standardizing the weights from the logistic equation of the final model. The lower the score, the more likely that patients would successfully RTP without surgery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The Elbow UCL Injury Prognosis Score was created to predict which patients would succeed with nonoperative management and avoid unnecessary surgery while simultaneously identifying patients for whom nonoperative management would delay the inevitable need for a surgical intervention. Patients with a score ≥8 had a >80% chance of requiring surgery. Overall, the Elbow UCL Injury Prognosis Score is a statistically rigorous and practical tool that can be used at the bedside to help counsel patients on their chances of needing surgery."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

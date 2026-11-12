@@ -1,0 +1,37 @@
+{
+  "pmid": "40501314",
+  "title": "The formal EU-US Meniscus Rehabilitation 2024 Consensus: An ESSKA-AOSSM-AASPT initiative. Part II-Prevention, non-operative treatment and return to sport.",
+  "year": "2025",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Consensus Statement",
+    "Practice Guideline"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Part two of this consensus aimed to provide recommendations for the prevention of meniscus injuries, non-operative treatment of acute tears and degenerative lesions, return to sports and patient-reported outcome measures."
+    },
+    {
+      "label": "METHODS",
+      "text": "This consensus followed the European Society of Knee Surgery, Sports Traumatology and Arthroscopy (ESSKA) formal consensus methodology. For this combined ESSKA-American Orthopedic Society for Sports Medicine (AOSSM)-American Academy of Sports Physical Therapy (AASPT) initiative, 67 experts from 14 countries, including orthopedic surgeons and physiotherapists, were involved. The 26 Steering Group members established guiding questions, screened the existing evidence, and proposed statements, and provided Grades of recommendations. The 41 Rating Group members assessed the statements according to a Likert scale (1-9). Final documents were assessed by an international peer review group for geographical adaptability."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Low to moderate scientific level of evidence was available, so that grades of recommendations were low (three Grade A ratings, four Grade B, three Grade C and 13 Grade D), underlining the relevance of this consensus. One strong and 17 relative agreements with overall median of 8 (8-9) and a mean of 7.92 ± 0.37 were achieved for 23 statements on 18 questions. Prevention of meniscus injuries is possible with general knee injury reduction programmes and through avoidance of certain activities. Non-operative treatment including physical therapy is the first line approach for degenerative meniscus lesions and may be an option for some acute tears. Return to sports after meniscus tear surgery should be both criterion-based and time-based. Patient reported outcomes in combination with performance-based measures are recommended to evaluate the rehabilitation process."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This international EU-US consensus established recommendations for prevention strategies, describes rehabilitation of non-operated patients and of patients after partial meniscectomy, meniscus repair and meniscus reconstruction, and establishes return to sport criteria. These updated and structured recommendations may be applied by surgeons and physiotherapists."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level I, consensus."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

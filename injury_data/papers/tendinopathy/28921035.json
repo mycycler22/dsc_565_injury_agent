@@ -1,0 +1,25 @@
+{
+  "pmid": "28921035",
+  "title": "[Midportion Achilles tendinopathy].",
+  "year": "2017",
+  "journal": "Der Unfallchirurg",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Although the incidence of midportion Achilles tendinopathy is under 1% in the general population, it is quite a common disease in runners that is characterized by the symptom triad of pain, swelling and impaired physical performance. Pain and swelling are located in the area 2 to 7 cm proximal the tendon insertion onto the calcaneus.Diagnosis is made by adequate clinical symptoms and corresponding findings in sonography and/or magnetic resonance imaging scans. Histopathologically, mostly degenerative changes in the tendon structure are found, sometimes accompanied by intra- and paratendinous inflammation.Treatment options are conservative or surgical, but conservative ones should be tried first. The best evidence is available for eccentric exercise protocols, which represent the gold standard in conservative treatment options, followed by extracorporal shockwave (ECSW) therapy and corticoid injections.In about 25% of all cases, because of unsatisfactory nonoperative treatment results, surgery is recommended. Open, minimally invasive as well as tenoscopic methods exist, which show patients' satisfactory rates of about 80%. The return to sport or full physical performance is variable and may take up to 18 months for both treatment regimens."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The return to sport or full physical performance is variable and may take up to 18 months for both treatment regimens."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,41 @@
+{
+  "pmid": "34953722",
+  "title": "Return to sport after arthroscopic surgery for femoroacetabular impingement.",
+  "year": "2023",
+  "journal": "The surgeon : journal of the Royal Colleges of Surgeons of Edinburgh and Ireland",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement (FAI) is common among the active and young population. The present study analysed the rate of return to sport, related influencing factors, and the sport activity level according to the Hip Outcome Score - Sport-Specific Subscale (HOS-SSS)."
+    },
+    {
+      "label": "METHODS",
+      "text": "The literature search was performed in December 2020. All clinical trials investigating HOS-SSS and/or return to sport after arthroscopic treatment for FAI were considered for inclusion. The outcomes of interest were to analyse the rate of return to sport and the sport activity level according to the HOS-SSS in patients who underwent arthroscopic osteoplasty for FAI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Data from 41 studies (4063 procedures) were retrieved. A total of 88.75% (581 of 655) of patients returned to sports within a mean of 37.4 ± 16.5 months. The HOS-SSS score improved from 45.0 ± 10.6 to 73.1 ± 9.5 (P < 0.0001) at last follow-up. The following baseline characteristics evidenced positive association with post-operative activity level: lighter weight (P = 0.01), younger age (P = 0.001), Tönnis angle grade I (P = 0.009), greater HHS (P = 0.01), NAHS (P < 0.0001) and HOS-ADL (P = 0.01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic treatment for FAI resulted in excellent results in terms of return to sport. Moreover, lighter weight and younger age, greater HHS, NAHS, HOS-ADL at baseline were positively associated with post-operative sport activity level."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV, systematic review."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "A total of 88.75% (581 of 655) of patients returned to sports within a mean of 37.4 ± 16.5 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "25412432",
+  "title": "Adolescent Subtest Norms for the ImPACT Neurocognitive Battery.",
+  "year": "2015",
+  "journal": "Applied neuropsychology. Child",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The neurocognitive testing of sports concussion for injury management and return-to-play decisions has long been considered the gold standard in evaluation of the injury. Computerized testing batteries are frequently employed, with the Immediate Post-Concussion Assessment and Cognitive Testing (ImPACT) being the most used of all the current testing platforms to evaluate concussion. ImPACT's clinical report yields four normed composite scores (Verbal Memory, Visual Memory, Visual Motor Speed, and Reaction Time) and another composite score that is not normed but is used as a validity measure (Impulse Control), as well as their corresponding subtest scores, which are not normed. The current study provides normative data on each of the subtests used to calculate the composite scores. Normative data are separated by gender for athletes aged 13 to 21 years old and are stratified by the norm age brackets already employed by the ImPACT. These norms may be helpful in the interpretation of the ImPACT clinical report and further delineation of areas of neurocognitive dysfunction."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

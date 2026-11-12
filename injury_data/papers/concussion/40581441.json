@@ -1,0 +1,25 @@
+{
+  "pmid": "40581441",
+  "title": "Pediatric Mild Traumatic Brain Injury and Concussion.",
+  "year": "2025",
+  "journal": "Physical medicine and rehabilitation clinics of North America",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Pediatric patients diagnosed with a concussion or mild traumatic brain injury experience symptoms such as headache, difficulty concentrating, nausea, and disturbance of balance. Symptoms normally last about 4 weeks though recovery can be delayed. A multimodal approach is taken to educate patients and families, treat symptoms, and progress a patient toward return to play and school. Guidelines regarding brain imaging, bloodwork, and management of complicated patients are discussed in detail in this article."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Symptoms normally last about 4 weeks though recovery can be delayed."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "21346569",
+  "title": "The current status of postconcussion syndrome.",
+  "year": "2011",
+  "journal": "Current opinion in psychiatry",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Concussion produces a brief disruption in mental status and is associated with a variety of physical and cognitive symptoms which typically diminish during the first several days to weeks posttrauma. This review highlights problems in defining and measuring concussion, the mildest form of traumatic brain injury (TBI). Furthermore, the 'natural' course of recovery correlates of postconcussion syndrome (PCS) and guidelines for clinical management are discussed."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Traditional measures of TBI severity (e.g. length of loss of consciousness or period of posttraumatic amnesia) do not correlate with persistent concussion symptoms. Abnormal eye movements, cerebrovascular disturbances, extra-axial injuries, alcohol intoxication at time of injury, and presence of an axis I disorder are associated with persistent symptoms. Early management of physical, cognitive, and emotional symptoms following concussion may reduce long-term morbidity. Techniques used to help concussed athletes return to play appear useful when evaluating and treating concussion in nonathletes."
+    },
+    {
+      "label": "SUMMARY",
+      "text": "The study of concussion and PCS has increased significantly over the past 10 years, with recent research supporting an underlying biological cause for initial symptomatology. Persistent symptoms may be associated with both neurological and non-neurological variables. Early and serial monitoring and treatment of symptoms appears to result in substantial improvement in the vast majority of concussed patients."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

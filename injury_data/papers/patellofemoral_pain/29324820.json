@@ -1,0 +1,38 @@
+{
+  "pmid": "29324820",
+  "title": "Incidence and prevalence of patellofemoral pain: A systematic review and meta-analysis.",
+  "year": "2018",
+  "journal": "PloS one",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain is considered one of the most common forms of knee pain, affecting adults, adolescents, and physically active populations. Inconsistencies in reported incidence and prevalence exist and in relation to the allocation of healthcare and research funding, there is a clear need to accurately understand the epidemiology of patellofemoral pain."
+    },
+    {
+      "label": "METHODS",
+      "text": "An electronic database search was conducted, as well as grey literature databases, from inception to June 2017. Two authors independently selected studies, extracted data and appraised methodological quality. If heterogeneous, data were analysed descriptively. Where studies were homogeneous, data were pooled through a meta-analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "23 studies were included. Annual prevalence for patellofemoral pain in the general population was reported as 22.7%, and adolescents as 28.9%. Incidence rates in military recruits ranged from 9.7-571.4/1,000 person-years, amateur runners in the general population at 1080.5/1,000 person-years and adolescents amateur athletes 5.1%-14.9% over 1 season. One study reported point prevalence within military populations as 13.5%. The pooled estimate for point prevalence in adolescents was 7.2% (95% Confidence Interval: 6.3%-8.3%), and in female only adolescent athletes was 22.7% (95% Confidence Interval 17.4%-28.0%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This review demonstrates high incidence and prevalence levels for patellofemoral pain. Within the context of this, and poor long term prognosis and high disability levels, PFP should be an urgent research priority."
+    },
+    {
+      "label": "PROSPERO REGISTRATION",
+      "text": "CRD42016038870."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "37716633",
+  "title": "Patients With Segond Fracture Demonstrate Similar Rates of Return to Sport and Psychological Readiness After Anterior Cruciate Ligament Reconstruction: A Matched Cohort Study at Minimum 2-Year Follow-Up.",
+  "year": "2024",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To compare clinical outcomes, rate of return to sports, and psychological readiness among patients undergoing anterior cruciate ligament reconstruction (ACLR) with and without concomitant Segond fracture."
+    },
+    {
+      "label": "METHODS",
+      "text": "We retrospectively identified patients who underwent primary ACLR from January 2012 to December 2020 with minimum 2-year follow-up. Exclusion criteria were additional ligamentous injury, age <16 years, or a concomitant lateral augmentation procedure. Preoperative knee radiographs were reviewed to identify Segond fractures. Identified patients were matched 1:2 to controls by age/sex/body mass index/graft type. Charts were reviewed for pre- and postoperative knee stability. Surveys administered included preinjury sport participation and return status, Lysholm score, Tegner activity scale, and ACL-Return to Sport Index (ACL-RSI), a metric of psychological sport readiness. Multivariable logistic regression was conducted to identify predictors of return to sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 120 patients who were included in the final analysis (40 Segond, 80 controls) at a mean follow-up of 5.7 ± 2.4 years. A total of 52.5% of patients received bone-patellar tendon-bone autograft. The overall rate of return to sport was 79.5% in the Segond group compared with an 83.8% rate of return in the control group (P = .569). In total, 48.7% of the Segond group and 56.8% of the control group returned to their preinjury level of sport (P = .415). Lysholm (89.6 ± 10.3 vs 85.4 ± 16.7, P = .296), Tegner (5.7 ± 1.8 vs 6.1 ± 2.2, P = .723), and ACL-RSI (62.2 ± 25.4 vs 56.6 ± 25.4, P = .578) scores were similar between Segond and control groups. There was a single graft failure in the Segond group 5 years' postoperatively. Increasing ACL-RSI score was significantly predictive of return to sport (P < .001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Patients who had an ACL tear and a concomitant Segond fracture who underwent isolated ACLR without lateral augmentation procedures had similar clinical outcomes and rates of return sport compared with a matched isolated ACLR control group at minimum 2-year follow-up. There was no significant difference in psychological readiness between groups as measured by the ACL-RSI."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective cohort study."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

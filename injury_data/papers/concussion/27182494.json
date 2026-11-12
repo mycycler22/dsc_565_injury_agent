@@ -1,0 +1,20 @@
+{
+  "pmid": "27182494",
+  "title": "A Review of Sport-Related Head Injuries.",
+  "year": "2016",
+  "journal": "Korean journal of neurotrauma",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "We review current topics in sport-related head injuries including acute subdural hematoma (ASDH), traumatic cerebrovascular disease, cerebral concussion, and chronic traumatic encephalopathy (CTE). Sports-related ASDH is a leading cause of death and severe morbidity in popular contact sports like American football and Japanese judo. Rotational acceleration can cause either cerebral concussion or ASDH due to rupture of a parasagittal bridging vein. Although rare, approximately 80% of patients with cerebral infarction due to sport participation are diagnosed with ischemia or infarction due to arterial dissection. Computed tomography angiography, magnetic resonance angiography, and ultrasound are useful for diagnosing arterial dissection; ultrasound is particularly useful for detecting dissection of the common and internal carotid arteries. Repeated sports head injuries increase the risks of future concussion, cerebral swelling, ASDH, and CTE. To avoid fatal consequences of CTE, it is essential to understand the criteria for safe post-concussion sports participation. Once diagnosed with a concussion, an athlete should not be allowed to return to play on the same day and should not resume sports before the concussion symptoms have completely resolved. Information about the risks and management of head injuries in different sports should be widely disseminated in educational institutions and by sport organization public relations campaigns."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

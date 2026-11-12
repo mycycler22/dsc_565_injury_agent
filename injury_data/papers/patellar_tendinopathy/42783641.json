@@ -1,0 +1,20 @@
+{
+  "pmid": "42783641",
+  "title": "Exercise Loading Strategies for Patellar Tendinopathy: A Systematic Review and Meta-Analysis of Clinical Outcomes.",
+  "year": "2026",
+  "journal": "Journal of functional morphology and kinesiology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background</b>: Patellar tendinopathy is a persistent load-related condition in athletes, and exercise is recommended as first-line care; however, the comparative value of specific tendon-loading prescriptions remains uncertain. This systematic review aimed to synthesize exercise-based interventions for adults with patellar tendinopathy, map reported loading prescription parameters, and estimate comparative effects when sufficiently comparable active-loading data were available. <b>Methods</b>: We conducted a PROSPERO-registered systematic review following PRISMA 2020. MEDLINE/PubMed, Web of Science Core Collection, Scopus, SPORTDiscus, and CENTRAL via Ovid/EBMR Reviews were searched. Two reviewers independently screened studies, extracted data, and assessed risk of bias. The primary outcome was VISA-P/VISA final score. Randomized active exercise/loading comparisons with extractable final-score data were pooled as mean differences on the original 0-100 scale using random-effects restricted maximum likelihood models with Hartung-Knapp adjustment. <b>Results</b>: The searches identified 942 records; 96 full-text reports were assessed and 40 reports were retained for qualitative synthesis. Six active exercise/loading comparisons contributed to the primary comparative synthesis. The pooled mean difference was 5.16 VISA-P/VISA points (95% CI 2.39 to 7.93) in favour of the first-listed intervention, with negligible statistical heterogeneity (tau2 = 0.000; I2 = 0.0%; Q = 3.50, <i>p</i> = 0.624). All contributing studies had some concerns in RoB 2, and GRADE certainty was low. <b>Conclusions</b>: Structured tendon-loading exercise remains central to rehabilitation. The pooled estimate should be interpreted as a small average comparative signal across clinically distinct active-loading contrasts, not as evidence that one specific loading strategy is universally superior."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

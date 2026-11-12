@@ -1,0 +1,49 @@
+{
+  "pmid": "17170160",
+  "title": "Acute first-time hamstring strains during high-speed running: a longitudinal study including clinical and magnetic resonance imaging findings.",
+  "year": "2007",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring muscle strain is one of the most common injuries in sports. Still, knowledge is limited about the progression of clinical and magnetic resonance imaging characteristics and their association with recovery time in athletes."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Knowing the anatomical location and extent of an acute first-time hamstring strain in athletes is critical for the prognosis of recovery time."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series (prognosis); Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eighteen elite sprinters with acute first-time hamstring strains were prospectively included in the study. All subjects were examined, clinically and with magnetic resonance imaging, on 4 occasions after injury: at day 2 to 4, 10, 21, and 42. The clinical follow-up period was 2 years."
+    },
+    {
+      "label": "RESULTS",
+      "text": "All sprinters were injured during competitive sprinting, and the primary injuries were all located in the long head of the biceps femoris muscle. There was an association between the time to return to pre-injury level (median, 16; range, 6-50 weeks) and the extent of the injury, as indicated by the magnetic resonance imaging parameters. Involvement of the proximal free tendon, as estimated by MRI, and proximity to the ischial tuberosity, as estimated both by palpation and magnetic resonance imaging, were associated with longer time to return to pre-injury level."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Careful palpation during the first 3 weeks after injury and magnetic resonance imaging investigation performed during the first 6 weeks after injury provide valuable information that can be used to predict the time to return to pre-injury level of performance in elite sprinting."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "There was an association between the time to return to pre-injury level (median, 16; range, 6-50 weeks) and the extent of the injury, as indicated by the magnetic resonance imaging parameters."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Careful palpation during the first 3 weeks after injury and magnetic resonance imaging investigation performed during the first 6 weeks after injury provide valuable information that can be used to predict the time to return to pre-injury level of performance in elite sprinting."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

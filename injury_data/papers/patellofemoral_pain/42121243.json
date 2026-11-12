@@ -1,0 +1,32 @@
+{
+  "pmid": "42121243",
+  "title": "Blood flow restriction training for lower limb injury prevention and rehabilitation in dancers: a scoping review of current evidence and future directions.",
+  "year": "2026",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Dancers sustain lower limb musculoskeletal injuries at rates exceeding most other athletic populations, yet few rehabilitation protocols account for the constraints specific to dancer populations - concern over altered body aesthetics from hypertrophy, narrow recovery windows imposed by performance schedules, and poor tolerance of heavy loading in early post-surgical phases. Blood flow restriction (BFR) training produces muscular adaptations at loads as low as 20-30% of one-repetition maximum, a profile that could address each of these constraints. This scoping review mapped the available evidence on BFR training for lower limb injury prevention and rehabilitation and assessed its applicability to dancer populations."
+    },
+    {
+      "label": "METHODS",
+      "text": "The review followed the PRISMA extension for scoping reviews (PRISMA-ScR) and the five-stage Arksey and O'Malley framework. Six databases were searched from January 2000 to the search closure date; citation tracking supplemented the electronic search. Findings were synthesized narratively and organized into an evidence gap map."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seventeen studies met inclusion criteria. Evidence concentrated heavily on post-anterior cruciate ligament reconstruction (ACLR) rehabilitation: across five studies in this domain, low-load BFR attenuated quadriceps atrophy, restored isokinetic strength to levels comparable with high-load protocols, and reduced self-reported pain - an effect at least partly mediated by endogenous opioid pathways. By contrast, only single studies addressed patellofemoral pain, tendon adaptation, and bone metabolism, while chronic ankle instability was examined in just two trials - the only studies in the entire sample that enrolled dance sport athletes. No study in any injury category employed dancer-specific outcome measures."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Low-load BFR training shows clear potential as an adjunct during lower limb rehabilitation in clinical and athletic populations, particularly where early joint loading is contraindicated. Within the dance rehabilitation field specifically, however, direct trial evidence in dancer cohorts remains absent, and no dancer-relevant functional outcome measure, including return-to-stage readiness, aesthetic movement quality, or choreographic performance capacity, has been validated for BFR research. Dedicated trials in dancers and expert consensus on dance-specific outcome endpoints are the essential next steps for translating this evidence into practice."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

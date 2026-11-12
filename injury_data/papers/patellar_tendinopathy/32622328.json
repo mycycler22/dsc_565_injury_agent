@@ -1,0 +1,32 @@
+{
+  "pmid": "32622328",
+  "title": "Thirty-seven jump-landing biomechanical variables are associated with asymptomatic patellar tendon abnormality and patellar tendinopathy: A systematic review.",
+  "year": "2020",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To identify studies that report three-dimensional (3D) biomechanical analysis of jump-landing tasks in relation to athletes with current patellar tendinopathy (PT), and/or asymptomatic with history of PT or patellar tendon abnormality (PTA) on diagnostic imaging."
+    },
+    {
+      "label": "METHODS",
+      "text": "Five electronic databases were searched. Included articles were required to: (1) investigate the 3D biomechanics of a jump-landing task; (2) be cross-sectional or longitudinal in design; and (3) include participants that had symptomatic PT, were asymptomatic with a history of PT, asymptomatic with PTA on diagnostic imaging and/or asymptomatic with an unknown pathology or PT history."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-seven statistically significant jump-landing variables were associated with PT, history of PT and/or PTA. The only consistent variable that could be replicated between studies was knee flexion angle at initial foot-ground contact (IC) and an altered hip flexion/extension strategy during a horizontal land phase of a vertical stop-jump."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Isolated vertical landings or take-offs alone may not be sensitive enough to identify key jump-landing variables associated with PT, thus clinicians and researchers should incorporate a whole jump-landing task with a horizontal landing component. Sagital plane hip and knee kinematics in a horizontal landing phase appear to provide the most valuable information for evaluating those with PT."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

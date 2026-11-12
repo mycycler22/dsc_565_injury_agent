@@ -1,0 +1,43 @@
+{
+  "pmid": "40376939",
+  "title": "The Effect of Aerobic Exercise With an Omega-3 Supplement on the Tendon Healing Process.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "An Achilles tendon rupture is a common orthopaedic injury in athletes and other people. Therefore, it is essential to investigate methods that may yield beneficial results for tendon healing by addressing the inflammatory and gene expression aspects of the healing process."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The objective of this study was to examine the effect of combining aerobic exercise and omega-3 supplementation on the process of Achilles tendon healing in male Wistar rats."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "For the purpose of this experiment, 50 male Wistar rats were randomly assigned to 5 groups, with each group containing 10 rats. These groups were identified as a sham group (surgery without tendon damage), a negative control group (tendon damage), and 3 experimental groups: exercise group (tendon damage + aerobic exercise), omega-3 group (tendon damage + omega-3 supplement), and exercise + omega-3 group (tendon damage + aerobic exercise + omega-3 supplement). The Achilles tendon was cut and subsequently repaired through a surgical intervention. Beginning the day after the injury, the groups receiving omega-3 received a dose of 4.6 g/kg EPA [eicosapentaenoic acid] and 3.8 g/kg DHA [docosahexaenoic acid] orally each day, and those in the exercise groups ran on a treadmill 6 days a week. At 48 hours after completing the protocol, both tissue and blood samples were taken and immediately sent for biochemical (TNF-α, IL-1β, MDA, and SOD), gene expression (MMP-3, MMP-9, and SCX), histological (hematoxylin and eosin and Masson trichrome staining), and tensile analyses. Rats were also administered the Achilles functional index at various time points."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The histological results revealed a marked improvement in the arrangement of cells and collagen in the extracellular matrix of the exercise + omega-3 group, displaying a notably uniform and condensed alignment of collagen fibers compared with the other groups, which exhibited a lack of organization. Biochemical results showed that TNF-α, IL-1β, and MDA levels were significantly reduced in the exercise + omega-3 group (<i>P</i> < .05). On the other hand, a significant increase in the Achilles functional index score was shown in the exercise + omega-3 group at all time points (<i>P</i> < .05). In the same group, real-time polymerase chain reaction results demonstrated that the expression of MMP-3 and SCX genes increased and that the expression of the MMP-9 gene decreased (<i>P</i> < .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Aerobic exercise with omega-3 supplementation was more beneficial for healing a surgically cut Achilles tendon in a rat model than aerobic exercise or omega-3 supplementation alone."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Our findings suggest that omega-3 supplementation combined with aerobic exercise after an Achilles tendon injury may be able to accelerate the process of Achilles tendon regeneration and healing."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

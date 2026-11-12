@@ -1,0 +1,31 @@
+{
+  "pmid": "29792117",
+  "title": "The Rockwood classification in acute acromioclavicular joint injury does not correlate with symptoms.",
+  "year": "2018",
+  "journal": "Journal of orthopaedic surgery (Hong Kong)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Rockwood classified acromioclavicular (AC) joint injuries by displacement of the joint on radiographs. This classification has driven the management dogma of acute AC dislocation. The correlation between Rockwood grade and symptoms has not been described in acute injury. This study assesses that relationship."
+    },
+    {
+      "label": "METHODS",
+      "text": "This series included 77 patients with acute AC joint injury (<6 weeks), treated between 2006 and 2015. Objective and patient-reported measures enabled correlation between clinical measures and Rockwood grade."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean age was 32 years (±11.86; range 17-59 years); 88% were male. Forty-four per cent were professional athletes and 43% suffered injury during rugby. The mean time from injury to presentation was 2 weeks (±1.64; range 0-5 weeks). There was poor correlation between Rockwood classification and pain (visual analogue scale) ( r<sub>s</sub> = 0.05; p = 0.752). Poor correlation was noted between Rockwood grade and functional deficit (elevation ( r<sub>s</sub> = 0.18; p = 0.275), abduction ( r<sub>s</sub> = 0.19; p = 0.246) and strength ( r<sub>s</sub> = 0.09; p = 0.579) vs. contralateral side). Oxford and Constant scores did not correlate with Rockwood grade ( r<sub>s</sub> = 0.13; p = 0.972 and 0.01; p = 0.448, respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The Rockwood grade does not correlate with clinical symptoms in acute AC joint injury. Previous evidence demonstrates the Rockwood classification's limitations in predicting the structures injured. Therefore, the reliability of using the Rockwood grade as a decision-making tool in the management of acute AC joint dislocation is unclear."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

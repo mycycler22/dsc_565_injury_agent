@@ -1,0 +1,40 @@
+{
+  "pmid": "38107842",
+  "title": "Systematic Review of Clinical Outcomes After Proximal Tibia Anterior Closing-Wedge Osteotomy With ACL Reconstruction.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "While increased posterior tibial slope (PTS) is an important risk factor for failure after anterior cruciate ligament (ACL) reconstruction, controversy exists regarding indications and outcomes of proximal tibia anterior closing-wedge osteotomy (ACWO) with concomitant ACL reconstruction in patients with ACL tears."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess clinical outcomes after combined ACL reconstruction and proximal tibia ACWO."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "In accordance with PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-analyses) guidelines, we performed a systematic review of the existing literature on ACWO and ACL reconstruction using PubMed (MEDLINE), Cochrane Library, Scopus, and Embase. The search phrases included \"anterior closing wedge osteotomy,\"\"anterior closing wedge tibial osteotomy,\"\"anterior closing wedge proximal tibial osteotomy,\"\"anterior cruciate ligament,\" and \"revision anterior cruciate ligament.\" Non-English publications and single-patient case reports were excluded. Extracted data included study details, patient demographics, patient-reported outcomes (PROs), clinical outcomes, radiographic outcomes, complications, and return-to-sport (RTS) rates."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 6 studies with 110 patients (110 knees) were included. Two-stage ACWO and ACL reconstruction was reported in 2 studies of 78 patients (71%), while a single-stage technique was reported in 4 studies of 32 patients (29%). ACWO was performed in the setting of primary ACL tear in 23 patients (21%) and in recurrent ACL tear in 87 patients (79%). Patients demonstrated postoperative improvements in Lysholm, pivot-shift test, and side-to-side difference in anterior tibial translation. After ACWO, all studies reported mean postoperative PTS of <10° (range, 4.4°-9.2°). Of patients with available RTS data (n = 43), the same-level RTS rate ranged from 65% to 100%. A two-stage procedure reported in 1 study had a lower RTS rate (n = 13 of 20 [65%]) than that of 2 studies with single-stage procedure (n = 4 of 5 [80%] and n = 18 of 18 [100%]). The overall complication rate was 0.9% to 1.3%, and there were no reported ACL retears."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current evidence, which is constrained by the quantity and quality of studies, showed that ACWO with single- or two-stage ACL reconstruction in patients with ACL insufficiency and increased PTS was associated with significant improvements in PROs and high RTS rates."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

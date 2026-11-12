@@ -1,0 +1,31 @@
+{
+  "pmid": "31735494",
+  "title": "Comprehensive movement system screening tool (MSST) for athletes: Development and measurement properties.",
+  "year": "2020",
+  "journal": "Brazilian journal of physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Non-traumatic extremity injuries are particularly common in sports, representing a significant economic, academic, and psychosocial burden on athletes. Proposed musculoskeletal risk factors for increased injury and decreased performance in athletes include movement pattern inefficiency, decreased regional stability, decreased mobility, and asymmetrical movement. The Movement System Screening Tool (MSST) is a comprehensive screening tool designed to assess these factors. Thus, the purpose of this study was to describe the development and determine the content and construct validity and inter-rater reliability of the MSST."
+    },
+    {
+      "label": "METHODS",
+      "text": "A modified Delphi panel of experts determined content validity. 80 athletes (40 with and 40 without a current non-traumatic shoulder injury) completed 21 clinical tests, with exploratory factor analysis and known group analysis performed to determine construct validity. Two independent raters were used to establish individual item and composite score inter-rater reliability."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Exploratory factor analysis identified three of the four apriori constructs over 7 factors (14 tests), representing 63% of the variance. Known group analysis revealed a significantly lower composite score in athletes with vs. without a current non-traumatic shoulder injury (56.9±5.8 vs. 62.7±4.5, respectively). A preliminary cut score of 62 was chosen with sensitivity of 85% and specificity of 44%. Composite score inter-rater reliability was excellent ICC <sub>(2,1)</sub>=0.94, 95% CI (0.91, 0.96) and item reliability ranged from κ=.57 to 1.00."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The MSST possesses constructs representative of injury risk and measurement properties acceptable for use in clinical settings. Comprehensive screens with construct validity and known measurement error are needed not only to identify athletes at risk of injury, but also provide an instrument that can be used in studies that seek to validate training approaches proposed to change movement impairment and injury risk in athletes."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

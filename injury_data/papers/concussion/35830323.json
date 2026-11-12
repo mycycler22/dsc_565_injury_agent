@@ -1,0 +1,24 @@
+{
+  "pmid": "35830323",
+  "title": "Sports Medicine: Concussion.",
+  "year": "2022",
+  "journal": "FP essentials",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sports-related concussion is a common injury in organized and recreational sports. Collision and contact sports are higher risk activities. Female athletes may be at more risk of concussion compared with male athletes; however, more research is needed. Evaluation of concussion involves assessments of multiple domains or clinical profiles, including vestibular, ocular, headache, cognitive, mood, fatigue, and other systems. Initial management consists of a short rest period followed by increasing activity that does not exacerbate symptoms. Cognitive modifications for school or work also are initiated early in the management plan. Use of other management modalities is based on findings from the physical examination. Imaging may be needed in cases of worsening or progressive symptoms. When athletes have returned to baseline symptom burden and have returned to school or work, they may transition to a return to play/sport progression. Most sports-related concussions resolve within 2 weeks for adults and 4 weeks for adolescents. Risk factors for prolonged recovery include initial high symptom burden, multiple concussions, young age, mental health issues, and migraine history."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Most sports-related concussions resolve within 2 weeks for adults and 4 weeks for adolescents."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

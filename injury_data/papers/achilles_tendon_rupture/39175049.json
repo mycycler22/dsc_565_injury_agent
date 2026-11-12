@@ -1,0 +1,36 @@
+{
+  "pmid": "39175049",
+  "title": "Derivation and validation of a risk calculator for the prediction of incidence of complications following repair of Achilles Tendon Rupture.",
+  "year": "2024",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The Achilles tendon is the body's strongest and largest tendon. It is commonly injured, particularly among athletes, accounting for a significant portion of serious tendon injuries. Several factors play a precipitating role in increasing the risk of these injuries."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "Our objective is to derive and validate a risk calculator for the prediction of incidence of any complication following Achilles tendon repair."
+    },
+    {
+      "label": "METHODS",
+      "text": "We used de-identified data from the American College of Surgeons' National Surgical Quality Improvement Project (NSQIP) database from 2005 to 2021. It comprises 7010 individuals who had undergone Achilles tendon rupture repair. Demographic and risk factors information was collected. To develop the calculator, the sample was divided into a derivation cohort (40%) and a validation cohort (60%). Multivariate logistic regression was used for statistical analysis, and a risk calculator for incidence of any complication was derived from the derivation cohort and validated on the remaining 60% of the sample. Patients with missing data were excluded, and the significance level was set at p < 0.05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We analyzed the derivation cohort of 2245 individuals who underwent Achilles tendon repair surgery between 2005 and 2021, with a 5.5% overall complication. Multivariate logistic regression identified anesthesia type, ASA classification, certain co-morbidities (pre-operative dialysis and medication-requiring hypertension), and wound classification as significant predictors of complications. The developed risk calculator model had an area under the curve (AUC) of 0.685 in the derivation cohort and 0.655 in the validation cohort, surpassing the widely used and validated modified frailty index. A cut-off score threshold of 0.06 was established using Youden's index to dichotomize individuals into low and high risk for developing any postoperative complications."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our risk calculator includes factors that most significantly affect the incidence of any complication following Achilles tendon repair."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

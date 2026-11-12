@@ -1,0 +1,45 @@
+{
+  "pmid": "40978882",
+  "title": "Outcomes of a Novel Percutaneous Achilles Tendon Repair Technique: A Retrospective Case Series.",
+  "year": "2025",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The management of acute mid-substance Achilles tendon ruptures has shifted towards minimally invasive techniques to reduce soft tissue complications. However, many percutaneous repair methods require expensive, dedicated instrumentation or reusable devices with reprocessing needs. This study describes a novel percutaneous Achilles tendon repair technique using readily available disposable standard instruments (Achilles-tendon Soft Tissue Augmentation Regenerative Repair (A-STARR)) and evaluates its clinical outcomes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective case series was conducted involving 21 patients (18 male, 3 female) with confirmed acute mid-substance Achilles tendon ruptures. All underwent percutaneous repair using the A-STARR technique between July 2017 and May 2018. Patients were followed up for a minimum of 12 months (range: 12-25 months). Primary outcomes included complication rates, time to return to work, return to sport, and the Achilles Tendon Total Rupture Score (ATRS) at one year."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No wound infections, re-ruptures, or sural nerve injuries were observed. The mean time to return to work was 40 days (range: 30-92 days). 18 patients (85.7%) returned to their pre-injury sport at a mean of 6.5 months (range: 4-12 months). The mean ATRS at one-year follow-up was 83.1 (range: 70-95)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The A-STARR percutaneous Achilles tendon repair using disposable standard instruments was safe and effective in this series, with no complications and good functional recovery. It may provide a practical and cost-efficient alternative for treating acute mid-substance ruptures, particularly where specialized equipment is unavailable."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to return to work was 40 days (range: 30-92 days). 18 patients (85.7%) returned to their pre-injury sport at a mean of 6.5 months (range: 4-12 months)."
+    }
+  ],
+  "pmcid": "12447114",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "21 patients (18 male and 3 female) with acute mid-substance Achilles tendon ruptures underwent percutaneous repair using the A-STARR technique between July 2017 and May 2018. The mean age at injury was 38.2 years (range: 22-51 years, SD: 7.32). All patients completed a minimum of 12 months of follow-up, with the range extending up to 25 months. There were no recorded complications related to the procedure. Specifically, there were no cases of wound infection, re-rupture, or sural nerve injury observed in this series. The mean time to return to work was 40 days, with a range of 30 to 92 days. Regarding sporting activity, 18 patients (85.7%) were able to return to their pre-injury sport at a mean of 6.5 months (range: 4-12 months). At one-year follow-up, the mean ATRS was 83.1 (range: 70-95), indicating good to excellent functional outcomes across the cohort. The summary is mentioned in Table 1."
+    },
+    {
+      "section": "TABLE: Summary of resultsATRS: Achilles Tendon Total Rupture Score",
+      "text": "Outcome Measure | Result\nNumber of patients | 21 (18 male, 3 female)\nAge (years) | Mean 38.2 (range: 22–51, SD: 7.32)\nFollow-up duration (months) | Minimum 12 (range: 12–25)\nWound infection | 0\nRe-rupture | 0\nSural nerve injury | 0\nMean time to return to work (days) | 40 (range: 30–92)\nReturn to sport | 85.7% at mean 6.5 months (range: 4–12)\nMean ATRS at 1 year | 83.1 (range: 70–95)"
+    }
+  ]
+}

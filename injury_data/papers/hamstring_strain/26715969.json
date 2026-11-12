@@ -1,0 +1,32 @@
+{
+  "pmid": "26715969",
+  "title": "Hamstring Muscle Injuries, a Rehabilitation Protocol Purpose.",
+  "year": "2015",
+  "journal": "Asian journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Hamstring acute muscle injuries are prevalent in several sports including AFL football (Australian Football League), sprinting and soccer, and are often associated with prolonged time away from sport."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "In response to this, research into prevention and management of hamstring injury has increased, but epidemiological data shows no decline in injury and re-injury rates, suggesting that rehabilitation programs and return to play (RTP) criteria have to be improved. There continues to be a lack of consensus regarding how to assess performance, recovery and readiness to RTP, following hamstring strain injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The aim of this paper was to propose rehabilitation protocol for hamstring muscle injuries based on current basic science and research knowledge regarding injury demographics and management options."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Criteria-based (subjective and objective) progression through the rehabilitation program will be outlined along with exercises for each phase, from initial injury to RTP."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

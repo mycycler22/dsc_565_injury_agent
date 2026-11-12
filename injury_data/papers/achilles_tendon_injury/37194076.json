@@ -1,0 +1,24 @@
+{
+  "pmid": "37194076",
+  "title": "Pro-inflammatory activity of long noncoding RNA FOXD2-AS1 in Achilles tendinopathy.",
+  "year": "2023",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achilles tendinopathy is a prevalent clinical problem that plagues athletes and general populations. Achilles tendon healing is a complex process, and so far, there is no successful long-term solution to Achilles tendinopathy in the field of microsurgery due to its poor natural regeneration ability. Limitations in understanding the pathogenesis of Achilles tendon development and Achilles tendon injury hinder clinical treatment developments. There is an increasing demand for innovative conservative treatments that can improve Achilles tendon injury. In this study, a Sprague-Dawley rat model of Achilles tendinopathy was established. Lentiviral vectors that interfere with the expression of FOXD2-AS1, miR-21-3p, or PTEN were injected every 3 days. Rats were euthanized after 3 weeks, and the effect of FOXD2-AS1, miR-21-3p, or PTEN on Achilles tendon healing was analyzed by histological observation, biomechanical test, and examinations of inflammatory factors and tendon markers. As measured, downregulating FOXD2-AS1 or upregulating miR-21-3p improved histological structure, suppressed inflammation, promoted the expression of tendon markers, and optimized the biomechanical properties of Achilles tendon. Upregulating PTEN was capable of reversing the promoting effect of inhibition of FOXD2-AS1 on Achilles tendon healing. As concluded, deficiency of FOXD2-AS1 accelerates the healing of Achilles tendon injury and improves tendon degeneration by regulating the miR-21-3p/PTEN axis and promoting the activation of the PI3K/AKT signaling pathway."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Rats were euthanized after 3 weeks, and the effect of FOXD2-AS1, miR-21-3p, or PTEN on Achilles tendon healing was analyzed by histological observation, biomechanical test, and examinations of inflammatory factors and tendon markers."
+    }
+  ],
+  "pmcid": "10189999",
+  "fulltext_chunks": []
+}

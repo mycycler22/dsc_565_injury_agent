@@ -1,0 +1,32 @@
+{
+  "pmid": "28233257",
+  "title": "Quadriceps muscles activity during gait: comparison between PFPS subjects and healthy control.",
+  "year": "2017",
+  "journal": "Musculoskeletal surgery",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of the study was to evaluate if during a common activity as walking, altered quadriceps muscular activity may be present in patellofemoral pain syndrome (PFPS) patients."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty subjects with clinically diagnosed PFPS and forty healthy males matching in age, weight, height and level of sport activity were enrolled in the study. Subjects were asked to walk on an instrumented walking path at their self-selected speed. Force platform and motion tracking system were used for the analysis of the gait. Wireless surface EMG probes were used to evaluate quadriceps muscles activity. Rectus femoris, vastus medialis and lateralis activity percentage, onset and offset time, walking speed, cadence, step length, stride length, knee ROM during gait were measured and reported. Tegner activity questionnaire was reported."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Patient group showed a significant increasing in all quadriceps muscles activity when compared to the control (p < 0.05). In particular, for VM and VL muscle onset time was anticipated and offset time was postponed in PFPS group when compared with healthy group (p < 0.05). Knee range of motion during walking was significantly decreased in the patient group."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Young athletes with PFPS showed increased length of quadriceps muscles activity and reduced functional knee Rom while walking, comparing with healthy subjects, in particular muscular onset was anticipated in respect of the loading response event of the gait. Nonetheless, walking parameters were not affected by these alterations."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "33136213",
+  "title": "Unstable malleolar ankle fractures: evaluation of prognostic factors and sports return.",
+  "year": "2021",
+  "journal": "Archives of orthopaedic and trauma surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Ankle malleolar fractures are one of the most common surgical fractures. The literature about ankle fracture sport related is reduced. Severe fractures, fractures-dislocations, syndesmosis lesions, associated osteochondral lesions, postoperative complications, as well as age are associated in several studies with worse functional results and may, therefore, also be associated with a lower rate of sports return. This study aims to retrospectively assess the return to physical activity at the level prior to injury in individuals undergoing surgical treatment of unstable malleolar ankle injuries and to identify risk factors associated with a non-return."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "We retrospectively evaluated between January 2008 and December 2017, patients with an unstable malleolar fracture of the ankle surgically treated, recreational or competitive sportsman with a minimum follow-up of one year. Demographic data, fracture classification according to AO classification, presence/absence of osteochondral lesion, presence/absence of unstable syndesmosis lesion, associated dislocation, type of surgery, postoperative complications, functional outcome evaluation with the AOFAS score and sports return."
+    },
+    {
+      "label": "RESULTS",
+      "text": "92 patients met the inclusion criteria. The mean AOFAS score observed was 90.93 (67-100). 69.7% of patients returned without limitations in performing physical activity. 21.75% returned with limitations and 8.7% did not return to physical activity. No association was observed between age, sex, syndesmosis lesion and greater risk of not returning to physical activity. Patients with bimalleolar or trimalleolar fractures, osteochondral injury, or associated dislocation presented an increased risk of inferior functional score and non-return sporting activity."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Bimalleolar and trimalleolar fractures, associated presence of dislocation and osteochondral lesions are associated with worse clinical outcome and lower return onset."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

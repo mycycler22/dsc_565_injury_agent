@@ -1,0 +1,4 @@
+Title: Achilles tendon Total Rupture Score at 3 months can predict patients' ability to return to sport 1 year after injury. | Type: Journal Article | PMID: 26733273 | Year: 2016 | Injury query: Achilles tendon rupture
+[RESULTS] Three months after injury patients had a significantly increased chance of return to sport after 1 year with an increased ATRS (OR 1.06, p = 0.001) but a non-significant effect on return to work.
+[RESULTS] After 1 year, patients had a significantly increased probability of having returned to sport (OR 1.11, p < 0.001) and also having returned to work (OR 1.05, p = 0.007) with an increased ATRS.
+[CONCLUSION] ATRS at 3 months can be used as a predictor of the patient's ability to return to sports after 1 year.

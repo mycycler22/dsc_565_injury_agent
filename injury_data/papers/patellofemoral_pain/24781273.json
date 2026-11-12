@@ -1,0 +1,37 @@
+{
+  "pmid": "24781273",
+  "title": "Analysis of patient-reported anterior knee pain scale: implications for scale development in children and adolescents.",
+  "year": "2016",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this investigation was to estimate and document the reliability and validity of the Anterior Knee Pain Scale (AKPS) and to estimate its relative prediction accuracy of anterior knee pain in young females."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data from a prospective, epidemiologic study to diagnose patellofemoral knee pain among female athletes (n = 499) using the Anterior Knee Pain Scale (AKPS). Data were treated in 4 phases (descriptive phase, reliability phase, scale refinement phase) and a final validation stage that was focused on an effort to test and document the validation of the AKPS short form and perform head-to-head comparisons of the 6-item short form with the original, 13-item form."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The AKPS was reduced from 13 items (αCoeff = 0.77, σSEM = 0.004) to 6 items (αCoeff = 0.78, σSEM = 0.004). Point-biserial correlations with patellofemoral pain diagnosis were comparable: r [498] = 0.70 (R(2) = 0.49, short form) and r [498] = 0.71 (R(2) = 0.51, long form), as was sensitivity: 84% (short form) and 80% (long form), and specificity: 89% (short form) and 90% (long form; AUC = 0.94 both)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current analyses indicate that a subset of measures from the AKPS is responsive to patellofemoral pain symptoms and may support screening for related diagnoses. A simpler and quicker scale optimized for diagnostic accuracy could reduce the demand on patients, clinicians and research teams focused on the identification and management of patellofemoral pain."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

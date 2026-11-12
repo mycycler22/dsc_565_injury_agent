@@ -1,0 +1,35 @@
+{
+  "pmid": "38432841",
+  "title": "Factors associated with return to play following conservative treatment for lumbar spondylolysis among young athletes: A retrospective case series using structural equation modeling.",
+  "year": "2024",
+  "journal": "Journal of bodywork and movement therapies",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Lumbar spondylolysis is the most common underlying cause of lower back pain (LBP) in young athletes. Conservative treatment methods are often used to reduce pain and promote healing. Several parameters may affect the duration of conservative treatment, such as the time to return to play (RTP), patient behavior, and physical parameters; however, no study has comprehensively assessed the factors that affect the time to RTP."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "This study aimed to determine the factors associated with the time required for RTP among young athletes with early-stage spondylolysis receiving conservative treatment using structural equation modeling (SEM)."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this retrospective case series, 137 young athletes (128 males and 9 females, aged 9-18 years) with early-stage lumbar spondylolysis were enrolled. All patients were examined using plain radiography and magnetic resonance imaging and treated conservatively (sports cessation, wearing a corset, therapeutic exercises, and low-intensity pulsed ultrasound radiation). SEM was used to investigate the factors affecting the time to RTP in these patients."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The final model included the following factors: spondylolysis laterality, symptom duration, lower-extremity flexibility, treatment interval, patient adherence, and residual LBP. SEM revealed that patient adherence to physician orders (p < 0.01), treatment interval (p < 0.001), and spondylolysis laterality (p < 0.001) contributed directly to shortened RTP."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patient adherence is essential for reducing the time to RTP among young athletes receiving conservative treatment for early-stage spondylolysis."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

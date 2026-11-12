@@ -1,0 +1,31 @@
+{
+  "pmid": "41669217",
+  "title": "Reliability of a Method to Quantify the Cortical Thickness of the Posterolateral Vertebral Arch on MRI.",
+  "year": "2026",
+  "journal": "Indian journal of orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lumbar stress fractures are very common lesions in young athletes participating in sport and are generally now diagnosed on MRI scanning. An ability to assess cortical thickness would help understand risk for future injury. This paper aims to establish a method for quantifying cortical thickness in the posterolateral vertebral arch of the lumbar spine on MRI scans."
+    },
+    {
+      "label": "METHODS",
+      "text": "Methods for measuring the cortical thickness of the pars, pedicle, and lamina of the lumbar vertebra were developed from existing methods in other bones and expert opinion. MRI images of elite cricket pace bowlers were retrospectively reviewed in a development phase (<i>n</i> = 13 MRI, 30 measurement sites per MRI) and a reliability testing phase (inter-rater reliability <i>n</i> = 33 MRI, intra-rater reliability <i>n</i>-12 MRI)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Intra-rater reliability was overall excellent (intra-class correlation coefficient (ICC) 0.740-0.992). Inter-rater reliability ranged from fair to excellent (ICC 0.515-0.954), with lower reliability for the total pedicle cortex. Lower reliability was attributable to challenges of identifying the pedicle cortex and the more oblique orientation of the L5 vertebrae as the lumbar spine becomes more lordotic."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This paper establishes a new manual method to quantify cortical thickness in the posterolateral vertebral arch of the lumbar spine on MRI scans. This work supports future advancements by providing a reference standard for potential automation using artificial intelligence and to understand how cortical thickness may be related to adaptation and injury in athletes at high risk of lumbar bone stress injury."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

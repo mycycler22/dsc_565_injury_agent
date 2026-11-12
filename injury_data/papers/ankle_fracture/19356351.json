@@ -1,0 +1,48 @@
+{
+  "pmid": "19356351",
+  "title": "Return to sports following operatively treated ankle fractures.",
+  "year": "2009",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "This study investigated which variables influence patients' return to sports after operative fixation of an unstable ankle fracture."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Over a 5-year period, 488 patients underwent surgical repair of an unstable ankle fracture. 243 patients preoperatively identified themselves as participating in vigorous activity. Clinical evaluation, functional outcome scores, and radiographic findings were reviewed retrospectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At 3 months postoperatively, only 3% of all patients had returned to full sports. At 6 months, 14% of patients had returned, while at one year, only 24% of patients had returned. Younger age was predictive of return to sports by 3 months (p = 0.02), 6 months (p = 0.02) and 12 months (p = 0.0001). Males were more likely to return to sports at 6 (p = 0.001) and 12 months (p = 0.040). At 1 year, 88% of recreational athletes had returned to sports, while only 11.6% of competitive athletes had returned to sports (p = 0.043). At 12 months, bimalleolar injuries were more likely to return to sports than unimalleolar ankle fractures (p = 0.042). Furthermore, patients without an associated syndesmotic injury were more likely to return to athletic activities at 12 months (p = 0.011). A patient with an ASA of one or two was ten times more likely to return to sports versus a patient with an ASA of three or four (odds ratio > 10, p = 0.010)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Predictors of return to sporting activities at one year include younger age, male gender, no or mild systemic disease, and a less severe ankle fracture. Negative predictors include older age, female gender, and the presence of severe medical comorbidities."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Younger age was predictive of return to sports by 3 months (p = 0.02), 6 months (p = 0.02) and 12 months (p = 0.0001)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Males were more likely to return to sports at 6 (p = 0.001) and 12 months (p = 0.040)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "At 1 year, 88% of recreational athletes had returned to sports, while only 11.6% of competitive athletes had returned to sports (p = 0.043)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "At 12 months, bimalleolar injuries were more likely to return to sports than unimalleolar ankle fractures (p = 0.042)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

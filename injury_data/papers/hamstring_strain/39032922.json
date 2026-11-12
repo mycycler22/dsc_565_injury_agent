@@ -1,0 +1,36 @@
+{
+  "pmid": "39032922",
+  "title": "Reliability of Ultrasound Assessment of Hamstring Morphology, Quality, and Stiffness Among Healthy Adults and Athletes: A Systematic Review.",
+  "year": "2024",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "The incidence and recurrence rate of hamstring strain injuries remain persistently high, with recurrent injuries leading to increased time lost during play and extended recovery periods compared with initial injury. Ultrasound imaging assesses important factors such as hamstring fascicle length (FL), pennation angle (PA), cross-sectional area (CSA), muscle thickness (MT), echo intensity (EI), and shear wave elastography (SWE), all impacting athletic performance. However, its reliability must be established before employing any measurement tool in research or clinical settings."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine the reliability and measurement error of ultrasound for assessing hamstring FL, PA, CSA, MT, EI, and SWE among healthy adults and athletes; to synthesize the information regarding the operationalization of ultrasound."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "A systematic literature search was done from January 1990 to February 5, 2023, to identify reliability and validity studies of hamstring ultrasound assessment published in peer-reviewed journals with identifiable methodology of outcome measures."
+    },
+    {
+      "label": "EVIDENCE SYNTHESIS",
+      "text": "Intraclass correlation coefficient measurement of 14 included studies reported moderate to excellent intrarater, interrater, and test-retest reliabilities of FL, PA, and MT regardless of the site of muscle testing, probe size, and setting, state of muscle, and use of different techniques in the extrapolation of FL. Good to excellent test-retest reliability rates for all hamstring anatomic CSA along midmuscle and different percentages of thigh length using panoramic imaging. Good intrarater reliability of EI regardless of gender and orientation of the probe but with excellent intrarater reliability in transverse scan using maximum region of interest. Good intrarater, interrater, and interday repeatability on SWE with the muscle in a stretched position."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Evidence from studies with a predominantly low risk of bias shows that ultrasound is a reliable tool to measure hamstring FL, PA, CSA, MT, EI, and SWE in healthy adults and athletes under various experimental conditions."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "41385031",
+  "title": "Calf Strains in Athletes: A Narrative Review of Management, Injury Grading, and Return to Sport.",
+  "year": "2025",
+  "journal": "Sports medicine - open",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Calf strains are common in sports like football, rugby, and tennis, with high recurrence rates during competition. Despite their frequency, there are no universally accepted guidelines for managing these injuries based on grading systems or imaging modalities. This review aims to evaluate the role of imaging and injury grading in predicting return to sport following a calf strain."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search was conducted to assess the role of imaging and grading in predicting return to sport in athletes with calf strains. A search of Scopus and PubMed in June 2024 identified relevant studies using terms related to calf strains, imaging, and return to sport. Eligible studies involved human participants, used imaging for diagnosing or grading calf injuries, and assessed return to play outcomes. Studies were excluded if they involved animals, lacked imaging, or did not report relevant outcomes. The screening was done by a team of investigators based on predefined criteria."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The review identified that imaging, particularly ultrasound and MRI, offers valuable information for grading calf strains and predicting recovery timelines. Different grading systems correlated with clinical outcomes, but no single modality or grading system was universally superior. Clinical assessments remained essential in return to play decisions."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Imaging modalities, along with injury grading, provide useful insights into calf strain severity and recovery. However, these tools should complement clinical assessments, which are the gold standard for return to sport decisions. An integrative approach combining imaging and clinical evaluation is recommended to optimize return to sport protocols. Further standardization of grading systems and imaging protocols may improve prediction accuracy and treatment outcomes for calf strains."
+    }
+  ],
+  "injury_query": "calf strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

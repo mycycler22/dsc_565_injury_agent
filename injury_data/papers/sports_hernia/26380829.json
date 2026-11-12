@@ -1,0 +1,31 @@
+{
+  "pmid": "26380829",
+  "title": "Sports hernia and femoroacetabular impingement in athletes: A systematic review.",
+  "year": "2015",
+  "journal": "World journal of clinical cases",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "To investigate the association between sports hernias and femoroacetabular impingement (FAI) in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed, MEDLINE, CINAHL, Embase, Cochrane Controlled Trials Register, and Google Scholar databases were electronically searched for articles relating to sports hernia, athletic pubalgia, groin pain, long-standing adductor-related groin pain, Gilmore groin, adductor pain syndrome, and FAI. The initial search identified 196 studies, of which only articles reporting on the association of sports hernia and FAI or laparoscopic treatment of sports hernia were selected for systematic review. Finally, 24 studies were reviewed to evaluate the prevalence of FAI in cases of sports hernia and examine treatment outcomes and evidence for a common underlying pathogenic mechanism."
+    },
+    {
+      "label": "RESULTS",
+      "text": "FAI has been reported in as few as 12% to as high as 94% of patients with sports hernias, athletic pubalgia or adductor-related groin pain. Cam-type impingement is proposed to lead to increased symphyseal motion with overload on the surrounding extra-articular structures and muscle, which can result in the development of sports hernia and athletic pubalgia. Laparoscopic repair of sports hernias, via either the transabdominal preperitoneal or extraperitoneal approach, has a high success rate and earlier recovery of full sports activity compared to open surgery or conservative treatment. For patients with FAI and sports hernia, the surgical management of both pathologies is more effective than sports pubalgia treatment or hip arthroscopy alone (89% vs 33% of cases). As sports hernias and FAI are typically treated by general and orthopedic surgeons, respectively, a multidisciplinary approach for diagnosis and treatment is recommended for optimal treatment of patients with these injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The restriction in range of motion due to FAI likely contributes to sports hernias; therefore, surgical treatment of both pathologies represents an optimal therapy."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

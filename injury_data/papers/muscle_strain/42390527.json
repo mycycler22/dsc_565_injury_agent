@@ -1,0 +1,20 @@
+{
+  "pmid": "42390527",
+  "title": "Imaging characterization and differential diagnosis of delayed-onset muscle soreness (DOMS) in athletes.",
+  "year": "2026",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Delayed-onset muscle soreness (DOMS) is a common, self-limited clinical entity resulting from ultrastructural muscle microtrauma. Despite its benign course, DOMS may clinically and radiologically mimic other muscle injuries, creating diagnostic uncertainty for clinicians and athletes. Given the increasing use of magnetic resonance imaging (MRI) in elite and recreational athletes, accurate recognition of DOMS on imaging has become essential to avoid misclassification as a structural muscle injury. Inappropriate management decisions, such as additional diagnostic workup, excessive restriction from physical activity, and delayed return to play. This review provides an overview of sport-specific patterns of musculoskeletal involvement in DOMS, emphasizing the muscle groups most frequently affected according to eccentric loading mechanisms across different sports. We also describe the imaging features, with emphasis on MRI and ultrasound (US), highlighting the key elements that help differentiate DOMS from other post-exercise musculoskeletal conditions. Important differential diagnoses discussed include muscle strain injuries, chronic exertional compartment syndrome (CECS), and exercise-related signal abnormality (ERSA). Additional conditions that may mimic DOMS on imaging, particularly in the absence of a clear clinical history, include rhabdomyolysis, inflammatory myopathies, and denervation-related muscle changes. In clinical practice, diagnostic confidence increases when imaging findings involve muscle groups associated with sport-specific biomechanical demands and correlate with the patient's activity history. Keypoints • Delayed-onset muscle soreness (DOMS) represents a form of ultrastructural muscle damage without macroscopic fiber disruption, typically developing 24-72 h after unaccustomed or intense eccentric exercise. • Magnetic resonance imaging (MRI) is the imaging modality of choice, demonstrating diffuse or multifocal muscle edema on fluid-sensitive sequences without architectural distortion or fiber discontinuity. • Sport-specific eccentric loading patterns influence the distribution of muscle involvement, reflecting the underlying biomechanical demands of different athletic activities. • Recognizing DOMS imaging patterns and differentiating them from muscle strain, exercise-related signal abnormality (ERSA), and chronic exertional compartment syndrome (CECS) is essential for prognosis, management, and safe return to sport."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

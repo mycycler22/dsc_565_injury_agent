@@ -1,0 +1,32 @@
+{
+  "pmid": "25192689",
+  "title": "Anterior cruciate ligament reconstruction and return to sport activity: postural control as the key to success.",
+  "year": "2015",
+  "journal": "International orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The risk for re-tear following anterior cruciate ligament (ACL) reconstruction is influenced by several hormonal, neuromuscular, biomechanical and anatomic factors. One of the most important negative prognostic factors that markedly increase the risk for ACL re-tear is the presence of high knee-abduction moment (KAM), which can be measured immediately by landing on both feet after a vertical jump. We evaluated the effect in postoperative values for KAM according to the type of graft used for ACL reconstruction (hamstring vs patellar tendon) and a specific rehabilitation protocol focusing on recovery of muscular strength, proprioception and joint stabilisation."
+    },
+    {
+      "label": "METHODS",
+      "text": "From November 2010 to September 2012, we enrolled 40 female recreational athletes with clinical and imaging evidence of ACL tear and randomised them in two groups. One group of patients underwent reconstruction with a hamstring-tendon graft and the second with a patellar-tendon graft. A custom rehabilitation programme focusing on proprioception was adopted. Clinical outcomes [International Knee Documentation Committee (IKDC) and Lysholm scores] and performance in functional test for stability (single-leg hop, timed hop, crossover triple hop, KAM test) were assessed preoperatively at three and six months postoperatively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "All patients showed statistically significant clinical improvements postoperatively when compared with preoperative values (P < 0.0001). No significant intergroup difference was observed in all clinical scores and functional tests, with the exception of the value registered for the KAM test (P < 0.0001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "ACL reconstruction using patellar-tendon graft followed by rehabilitation centred on strength, proprioception and stability restoration can produce satisfactory values for KAM within the physiological range. The surgical strategies should be adapted to the patient on the basis of a multidisciplinary approach."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

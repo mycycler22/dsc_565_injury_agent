@@ -1,0 +1,39 @@
+{
+  "pmid": "24179590",
+  "title": "Time to return to play after high ankle sprains in collegiate football players: a prediction model.",
+  "year": "2012",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Determining the severity of high ankle sprains in athletes and predicting the time that an athlete can return to unrestricted sport activities following this injury remain significant challenges."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The objectives of this study were (1) to determine if objective measurements of injury severity after high ankle sprains could predict the time to return to play in Division I football players and (2) to determine whether physical examination or diagnostic musculoskeletal ultrasound was more predictive of return to play. The hypothesis was that objective measures of injury severity of a high ankle sprain can be predictive of time to return to athletic participation in collegiate football players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective case series."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty consecutive Division I collegiate football players with a diagnosis of a grade I high ankle sprain (syndesmosis sprain without diastasis) were studied. Two clinical measurements of injury severity were determined: the height of the zone of injury on physical examination and the height of the zone of injury as defined by diagnostic musculoskeletal ultrasound examination. All athletes followed a standardized treatment program and return-to-play criteria. A regression model and Cox proportional hazards model were developed to determine time to return to unrestricted play as a function of injury severity and player position."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Physical examination but not ultrasound was significantly correlated with time to return to play. Regression and Cox analyses revealed that injury severity on physical examination and player position were significant predictors of time to return to unrestricted play following high ankle sprain."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Injury severity on physical examination and player position are associated with the time to return to unrestricted athletic activity after injury. A model based on the data can be applied to help predict the time to return to unrestricted play in Division I collegiate football players following high ankle sprain."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

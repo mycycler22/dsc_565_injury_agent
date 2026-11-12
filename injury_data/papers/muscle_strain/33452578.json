@@ -1,0 +1,44 @@
+{
+  "pmid": "33452578",
+  "title": "The cleft sign may be an independent factor of magnetic resonance imaging findings associated with a delayed return-to-play time in athletes with groin pain.",
+  "year": "2021",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the prevalence of magnetic resonance imaging (MRI) findings and define prognostic factors of the return-to-play time in young athletes with groin pain."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 1091 consecutive athletes were retrospectively screened; 651 athletes, aged 16-40 years, with pain in the groin regions were assessed using MRI. Of these athletes, 356 were included for analysing the time to return-to-play. Univariate and multiple linear regression analyses were used to determine the associations between the time to return-to-play (primary outcome variable) and the following variables: age, sex, body mass index, type of sports, Hip Sports Activity Scale, clear trauma history, and 12 MRI findings."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Four MRI findings, including cleft sign, pubic bone marrow oedema of both the superior and inferior ramus, and central disc protrusion of the pubic symphysis, appeared together in more than 44% of the cases. The median time to return-to-play was 24.7 weeks for athletes with a cleft sign on MRI, which was significantly longer than the 11.9 weeks for athletes without the sign. The median time to return-to-play was 20.8 weeks for athletes with BMI > 24, which was significantly longer than the 13.6 weeks for athletes with BMI ≦ 24. In multiple linear regression analysis of 356 athletes, in whom hip-related groin pain was excluded, and who were followed-up until the return-to-play, the body mass index and cleft sign were the independent factors associated with a delayed return-to-play. In contrast, iliopsoas muscle strain and other muscle injuries were associated with a shorter return-to-play."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Multiple MRI findings were present in almost half of all cases. Body mass index and the cleft sign were independently associated with a delayed return-to-play time in young athletes suffering from groin pain."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The median time to return-to-play was 24.7 weeks for athletes with a cleft sign on MRI, which was significantly longer than the 11.9 weeks for athletes without the sign."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The median time to return-to-play was 20.8 weeks for athletes with BMI > 24, which was significantly longer than the 13.6 weeks for athletes with BMI ≦ 24."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

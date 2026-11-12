@@ -1,0 +1,32 @@
+{
+  "pmid": "40697295",
+  "title": "Female athletes have high return to sport and low complication rates following ulnar collateral ligament (UCL) repair or reconstruction: a systematic review.",
+  "year": "2025",
+  "journal": "JSES reviews, reports, and techniques",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "HYPOTHESIS AND BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) injuries can be caused by repetitive microtrauma, particularly in throwers and overhead athletes or from acute elbow trauma-producing excessive valgus stress. The current literature is male-dominated and may be a misguiding diagnosis and treatment of female UCL injuries, which are often traumatic or unrelated to overhead throwing. We hypothesized that UCL repair and reconstruction in female athletes are safe and effective procedures that enhance patients' ability to return to sports (RTS) with an acceptably low complication rate."
+    },
+    {
+      "label": "METHODS",
+      "text": "In accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, PubMed, Embase, and Cochrane Library databases were searched in July 2024 for studies published after 2000. Studies were included if they evaluated female athletes of any age range or level of competition who underwent UCL reconstruction or repair, reported RTS rates, complications, or reoperations and had a minimum of 2 years of follow-up time."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The initial screen identified 116 studies, 4 of which were included in this systematic review. Each study had a retrospective study design with sufficiently low risk of bias. A total of 49 patients, all female, were included in this study. The mean age ranged from 15.3 to 22.2 years. Seventeen patients in 3 studies underwent UCL reconstruction. In addition, 2 studies included a total of 32 patients who underwent UCL repair. Numerous sports were represented in this study, the most popular of which were gymnastics, softball, and cheerleading. There was a cumulative 11.8% complication rate in UCL reconstruction patients and 3.1% cumulative complication rate in UCL repair patients. RTS rates for UCL repair and UCL reconstruction ranged from 86.7% to 94.1% and 33.3% to 76.9%, respectively."
+    },
+    {
+      "label": "DISCUSSION AND CONCLUSION",
+      "text": "UCL repair is an effective procedure in helping female athletes RTS with low complication rates. However, UCL reconstruction has more variable RTS rates in female athletes. Surgeons should be aware of the specific risk factors for UCL injury associated with women's sports, and treatment should be tailored to each athlete's specific goals."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "42999722",
+  "title": "Management of meniscal pathology at the time of anterior cruciate ligament reconstruction in performance athletes: a systematic review.",
+  "year": "2026",
+  "journal": "Annals of joint",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Meniscal pathology is a frequent and clinically important finding at the time of anterior cruciate ligament (ACL) reconstruction, particularly in performance athletes who place high demands on knee stability, load tolerance, and return-to-sport expectations. While meniscal management in the general ACL population has been widely studied, athlete-specific literature is limited. This review evaluates the incidence, tear patterns, treatment strategies, and outcomes of meniscal pathology in professional athletes undergoing ACL reconstruction."
+    },
+    {
+      "label": "METHODS",
+      "text": "Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, a search of PubMed was conducted from inception to September 2025. Studies including professional athletes older than 18 years old who underwent ACL reconstruction with detailed management of concomitant meniscus tears were included. Data on incidence, tear patterns, treatment strategies, and outcomes were extracted. Study quality was assessed using the Methodological Index for Non-randomized Studies (MINORS)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Five studies including 519 patients (18% female) with a weighted mean age of 23.7 years were included. Four studies reported outcomes at minimum 1 year follow-up. Across cohorts, meniscal injuries were highly prevalent, with reported rates ranging from 59% to 86%. Longitudinal posterior horn tears were the most common tear morphology, while ramp lesions and lateral posterior root tears were also frequently identified. Meniscal preservation was strongly favored, with repair performed in most reparable tears. Medial meniscal tears demonstrated higher failure and secondary meniscectomy rates than lateral tears, especially when repaired with all-inside techniques, whereas inside-out and suture-hook techniques appeared more favorable for medial-sided pathology. Sport-specific differences were noted, with soccer players demonstrating more medial and posterior root pathology and skiers exhibiting relatively more complex and lateral-sided lesions. Despite variability in rehabilitation protocols, meniscal repair did not appear to compromise return-to-sport and may support longer athletic career longevity compared with meniscectomy."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Current evidence supports a preservation-first strategy for meniscus tears during ACL reconstruction in performance athletes. Meniscectomy should be reserved for irreparable or nonfunctional tissue. Although available data are limited by retrospective designs and heterogeneity, meniscal preservation at the time of ACL reconstruction appears to optimize both return-to-play potential and long-term joint health in this high-demand population."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

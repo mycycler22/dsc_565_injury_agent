@@ -1,0 +1,40 @@
+{
+  "pmid": "21228309",
+  "title": "Magnetic resonance imaging of the throwing elbow in the uninjured, high school-aged baseball pitcher.",
+  "year": "2011",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tissue adaptations in response to pitching are an expected finding during magnetic resonance imaging (MRI) evaluation of the throwing elbow of adult pitchers. These changes are considered normal in the absence of symptom complaints. It is unclear when during the playing career these tissue adaptations are initiated."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Abnormalities in the appearance of the throwing elbow compared with the nonthrowing elbow would be visible during MRI assessment of this asymptomatic population of high school-aged throwers."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-three uninjured, asymptomatic male high school-aged baseball pitchers (mean age, 16 years) with no history of elbow injury were recruited for the study. Participants had a minimum of 3 years' experience with pitching as their primary position (mean experience, 6 years). Bilateral elbow MRI examinations were performed using a standardized protocol including fast spin-echo proton-density (axial and coronal), T1-weighted (sagittal), and T2-weighted fat-saturated (axial, sagittal, and coronal) sequences. Osteoarticular, ligamentous, musculotendinous, and neural structures were evaluated and compared bilaterally. The images were reviewed by a musculoskeletal radiologist who was blinded to all the gathered data on these athletes, including limb dominance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Three participants (13%) had no abnormalities. Fifteen individuals (65%) had asymmetrical anterior band ulnar collateral ligament thickening, including 4 individuals who also had mild sublime tubercle/anteromedial facet edema. Fourteen participants (61%) had posteromedial subchondral sclerosis of the ulnotrochlear articulation, including 8 (35%) with a posteromedial ulnotrochlear osteophyte, and 4 (17%) with mild posteromedial ulnotrochlear chondromalacia. Ten individuals (43%) had multiple abnormal findings in the throwing elbow."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Thickening of the anterior band of the ulnar collateral ligament and posteromedial subchondral sclerosis of the trochlea are common findings in the high school-aged pitcher and may be considered normal clinical findings in the absence of symptom complaints. Other changes in tissue appearance of the throwing elbow are uncommon in this age group and should be regarded with a higher level of caution when evaluating for the presence of injury. An understanding of the MRI appearance of the uninjured youth pitcher is necessary for clinicians to distinguish between normal adaptations and the presence of injury."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

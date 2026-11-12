@@ -1,0 +1,32 @@
+{
+  "pmid": "39094761",
+  "title": "Management of the in-season athlete with an anterior shoulder dislocation.",
+  "year": "2024",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Management of the in-season athlete presenting with an anterior shoulder dislocation is a nuanced process that continues to be refined. Options and pathways between nonoperative and operative treatment have undergone many iterations over a century of orthopedic research and advancement. It requires an understanding of sport-specific demands and the individual athlete's goals. The orthopedic surgeon must have mastery of the natural history, treatment options, and outcomes of anterior shoulder dislocations. Balance of these factors is delicate and highly individualized for each athlete, and is why management of the in-season athlete with an anterior shoulder dislocation remains an art for the orthopedic surgeon."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "A narrative review of the literature regarding the in-season athlete with anterior shoulder dislocation was conducted of the PubMed, Embase, and Cochrane databases. The findings are summarized in this article."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Multiple studies have investigated management of the in-season athlete with anterior shoulder dislocation. Treatment is highly individualized for each athlete and their respective circumstances. Nonoperative treatment remains the only option for athletes that seek to return to play in the same season, however with a high risk of recurrence. Operative treatment has a track record of success in terms of returning to high level of play and lower recurrence, but would preclude a return to competition in the same season."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Management of the in-season athlete with anterior shoulder dislocation remains a challenging issue without consensus recommendation among shoulder surgeons. Much has been done to understand the pathology and delineate indications for nonoperative treatment and surgical management. Although recurrence and return to play rates have improved with each iteration, recurrent instability and revision surgery continue to occur at high rates. Therefore, additional work remains to optimize return to play as well as long-term outcomes for athletes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

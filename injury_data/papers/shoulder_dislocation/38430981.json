@@ -1,0 +1,33 @@
+{
+  "pmid": "38430981",
+  "title": "Arthroscopic stabilization surgery for first-time anterior shoulder dislocations: a systematic review and meta-analysis.",
+  "year": "2024",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The optimal management of first-time anterior shoulder dislocations (FTASDs) remains controversial. Therefore, the purpose of this study was to assess the efficacy of arthroscopic stabilization surgery for FTASDs through a systematic review and meta-analysis of existing literature."
+    },
+    {
+      "label": "METHODS",
+      "text": "MEDLINE, Embase, and Web of Science were searched from inception to December 18, 2022, for single-arm or comparative studies assessing FTASDs managed with arthroscopic stabilization surgery following first-time dislocation. Eligible comparative studies included studies assessing outcomes following immobilization for an FTASD, or arthroscopic stabilization following recurrent dislocations. Eligible levels of evidence were I to IV. Primary outcomes included rates of shoulder redislocations, cumulative shoulder instability, and subsequent shoulder stabilization surgery."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-four studies with 2222 shoulder dislocations were included. Of these, 5 studies (n = 408 shoulders) were randomized trials comparing immobilization to arthroscopic Bankart repair (ABR) after a first dislocation. Another 16 studies were nonrandomized comparative studies assessing arthroscopic Bankart repair following first-time dislocation (ABR-F) to either immobilization (studies = 8, n = 399 shoulders) or arthroscopic Bankart repair following recurrent dislocations (ABR-R) (studies = 8, n = 943 shoulder). Mean follow-up was 59.4 ± 39.2 months across all studies. Cumulative loss to follow-up was 4.7% (range, 0%-32.7%). A composite rate of pooled redislocation, cumulative instability, and reoperations across ABR-F studies was 6.8%, 11.2%, and 6.1%, respectively. Meta-analysis found statistically significant reductions in rates of redislocation (odds ratio [OR] 0.09, 95% confidence interval [CI] 0.04-0.3, P < .001), cumulative instability (OR 0.05, 95% CI 0.03-0.08, P < .001), and subsequent surgery (OR 0.08, 95% CI 0.04-0.15, P < .001) when comparing ABR-F to immobilization. Rates of cumulative instability (OR 0.32, 95% CI 0.22-0.47, P < .001) and subsequent surgery rates (OR 0.27, 95% CI 0.09-0.76, P = .01) were significantly reduced with ABR-F relative to ABR-R, with point estimate of effect favoring ABR-F for shoulder redislocation rates (OR 0.59, 95% CI 0.19-1.83, P = .36). Return to sport rates to preoperative levels or higher were 3.87 times higher following ABR-F compared to immobilization (95% CI 1.57-9.52, P < .001), with limited ABR-R studies reporting this outcome. The median fragility index of the 5 included randomized controlled trials (RCTs) was 2, meaning reversing only 2 outcome events rendered the trials' findings no longer statistically significant."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic stabilization surgery for FTASDs leads to lower rates of redislocations, cumulative instability, and subsequent stabilization surgery relative to immobilization or arthroscopic stabilization surgery following recurrence. Although a limited number of RCTs have been published on the subject matter to date, the strength of their conclusions is limited by a small sample size and statistically fragile results."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

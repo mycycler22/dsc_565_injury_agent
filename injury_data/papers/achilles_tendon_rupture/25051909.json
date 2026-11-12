@@ -1,0 +1,36 @@
+{
+  "pmid": "25051909",
+  "title": "Functional rehabilitation of patients with acute Achilles tendon rupture: a meta-analysis of current evidence.",
+  "year": "2016",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The optimal treatment for acute Achilles tendon rupture (ATR) is continuously debated. Recent studies have proposed that the choice of either operative or non-operative treatment may not be as important as rehabilitation, suggesting that functional rehabilitation should be preferred over traditional immobilization. The purpose of this meta-analysis of randomized controlled trials (RCTs) was to compare functional rehabilitation to immobilization in the treatment of ATR."
+    },
+    {
+      "label": "METHOD",
+      "text": "This meta-analysis was conducted using the databases: PubMed, EMBASE, Rehabilitation and Sports Medicine Source, AMED, CINAHL, Cochrane Library and PEDro using the search terms: \"Achilles tendon,\" \"rupture,\" \"mobilization\" and \"immobilization\". Seven RCTs involving 427 participants were eligible for inclusion, with a total of 211 participants treated with functional rehabilitation and 216 treated with immobilization."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Re-rupture rate, other complications, strength, range of motion, duration of sick leave, return to sport and patient satisfaction were examined. There were no statistically significant differences between groups. A trend favoring functional rehabilitation was seen regarding the examined outcomes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Functional rehabilitation after acute Achilles tendon rupture does not increase the rate of re-rupture or other complications. A trend toward earlier return to work and sport, and increased patient satisfaction was found when functional rehabilitation was used. The present literature is of low-to-average quality, and the basic constructs of the examined treatment and study protocols vary considerably. Larger, randomized controlled trials using validated outcome measures are needed to confirm the findings."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "II."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

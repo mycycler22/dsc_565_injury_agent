@@ -1,0 +1,39 @@
+{
+  "pmid": "18443276",
+  "title": "Epidemiology of National Football League training camp injuries from 1998 to 2007.",
+  "year": "2008",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Football is one of the leading causes of athletic-related injuries. Injury rates and patterns of the training camp period of the National Football League are unknown."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Injury rates will vary with time, and injury patterns will differ between training camp practices and preseason games."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "From 1998 to 2007, injury data were collected from 1 National Football League team during its training camp period. Injuries were recorded as a strain, sprain, concussion, contusion, fracture/dislocation, or other injury. The injury was further categorized by location on the body. Injury rates were determined based on the exposure of an athlete to a game or practice event. An athlete exposure was defined as 1 athlete participating in 1 practice or game. The injury rate was calculated as the ratio of injuries per 1000 athlete exposures."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 72.8 (range, 58-109) injuries per year during training camp. Injuries were more common during weeks 1 and 2 than during weeks 3 to 5. The rate of injury was significantly higher during games (64.7/1000 athlete exposures) than practices (12.7/1000 athlete exposures, P < .01). The rate of season-ending injuries was also much higher in games (5.4/1000 athlete exposures) than practices (0.4/1000 athlete exposures). The most common injury during the training camp period was a knee sprain, followed by hamstring strains and contusions."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Muscle strains are the most common injury type in practices. Contact type injuries are most common during pre-season games, and the number of significant injuries that occur during preseason games is high."
+    }
+  ],
+  "injury_query": "knee sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

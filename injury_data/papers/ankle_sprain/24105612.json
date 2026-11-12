@@ -1,0 +1,38 @@
+{
+  "pmid": "24105612",
+  "title": "The incidence and prevalence of ankle sprain injury: a systematic review and meta-analysis of prospective epidemiological studies.",
+  "year": "2014",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle sprain is one of the most common musculoskeletal injuries, yet a contemporary review and meta-analysis of prospective epidemiological studies investigating ankle sprain does not exist."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "Our aim is to provide an up-to-date account of the incidence rate and prevalence period of ankle sprain injury unlimited by timeframe or context activity."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a systematic review and meta-analyses of English articles using relevant computerised databases. Search terms included Medical Search Headings for the ankle joint, injury and epidemiology. The following inclusion criteria were used: the study must report epidemiology findings of injuries sustained in an observed sample; the study must report ankle sprain injury with either incidence rate or prevalence period among the surveyed sample, or provide sufficient data from which these figures could be calculated; the study design must be prospective. Independent extraction of articles was performed by two authors using pre-determined data fields."
+    },
+    {
+      "label": "RESULTS",
+      "text": "One-hundred and eighty-one prospective epidemiology studies from 144 separate papers were included. The average rating of all the included studies was 6.67/11, based on an adapted version of the STROBE (STrengthening the Reporting of OBservational studies in Epidemiology) guidelines for rating observational studies. 116 studies were considered high quality and 65 were considered low quality. The main findings of the meta-analysis demonstrated a higher incidence of ankle sprain in females compared with males (13.6 vs 6.94 per 1,000 exposures), in children compared with adolescents (2.85 vs 1.94 per 1,000 exposures) and adolescents compared with adults (1.94 vs 0.72 per 1,000 exposures). The sport category with the highest incidence of ankle sprain was indoor/court sports, with a cumulative incidence rate of 7 per 1,000 exposures or 1.37 per 1,000 athlete exposures and 4.9 per 1,000 h. Low-quality studies tended to underestimate the incidence of ankle sprain when compared with high-quality studies (0.54 vs 11.55 per 1,000 exposures). Ankle sprain prevalence period estimates were similar across sub-groups. Lateral ankle sprain was the most commonly observed type of ankle sprain."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Females were at a higher risk of sustaining an ankle sprain compared with males and children compared with adolescents and adults, with indoor and court sports the highest risk activity. Studies at a greater risk of bias were more likely to underestimate the risk of ankle sprain. Participants were at a significantly higher risk of sustaining a lateral ankle sprain compared with syndesmotic and medial ankle sprains."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "38827564",
+  "title": "Auditing the Representation of Female Athletes in Sports Medicine Research: Achilles Repair.",
+  "year": "2024",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Establishing evidence-based recommendations specific to female athletes has been overlooked in sports medicine. Achilles tendon rupture is one of the most common musculoskeletal injuries, occurring in 15 to 55 per 100 000 people annually. Differences in injury rates could be due to hormonal effects, as estrogen receptors have been identified in tendons along with decreased tendon strain based on oral contraceptive use. The primary purpose of this study was to audit the representation of female athletes in the literature regarding Achilles repair."
+    },
+    {
+      "label": "METHODS",
+      "text": "An electronic search was performed using PubMed to identify articles related to Achilles repair using the protocol by Smith et al. Studies were assessed by population, size, athletic caliber, study impact, research theme, and menstrual status."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Female representation across all studies was 1783 of 10 673 subjects (16.7%). Composition of included studies was predominantly mixed-sex cohorts with 131 of 169 (77.5%) included studies. Within mixed-sex cohort studies, the total representation of female athletes was 1654 of 8792 participants (18.9%). Thirty-two studies were male only, constituting 1540 participants, whereas 3 studies were female only composed of 86 athletes. Importantly, the disparity between male and female representation worsened as the athletic caliber of the study population increased, with 5.0% female representation in studies with professional athletes. No study collected data related to menstrual status and its potential relationship to Achilles rupture or postoperative outcomes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Mixed-sex cohort studies underrepresented female athletes, and male-only cohort studies were more common than female-only studies. These findings indicate a need for increased representation of female athletes as well as acknowledgment of menstrual status in research related to Achilles repair. Future studies should focus on representation of female athletes and data collection related to sex-specific hormones, hormonal contraceptive use, and menstrual status to improve treatment of Achilles tendon ruptures for female athletes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, case series."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

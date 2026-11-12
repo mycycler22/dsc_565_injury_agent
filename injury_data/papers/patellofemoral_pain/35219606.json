@@ -1,0 +1,35 @@
+{
+  "pmid": "35219606",
+  "title": "A preliminary investigation of the effects of patellar displacement on brain activation and perceived pain in young females with patellofemoral pain.",
+  "year": "2022",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To identify the neural substrates of a clinician-based test and associated pain perception in young female athletes with patellofemoral pain."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional."
+    },
+    {
+      "label": "METHODS",
+      "text": "Females with patellofemoral pain (n = 14; 14.3 ± 3.2 years) completed a patella displacement test during brain functional magnetic resonance imaging. The neuroimaging protocol included 18 s of interspersed rest/test blocks during which an experimenter manually applied intermittent frontal plane stress to the patella during test blocks. Patients rated their pain unpleasantness and pain intensity immediately after testing using a visual analog scale."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the patella displacement test, increased activation was observed in previously identified sensorimotor and neural pain regions, including the primary and secondary somatosensory cortices, primary motor cortex, prefrontal cortex, cerebellum, and other cognitive-related brain regions (z's > 4.4, p's < 0.05). Furthermore, pain unpleasantness during the test was positively correlated with increased activation of the posterior cerebellum (z = 4.51, p = 0.02), which is involved in both motor and pain processing as well as cognitive and affective feedback."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "These preliminary findings suggest that the posterior cerebellum may represent a critical modulator in the cognitive appraisal of pain in patellofemoral pain through cortico-cerebellar loops, which may have downstream effects on motor function. However further exploration of task-based functional connectivity between the posterior cerebellum and cortical regions is necessary to support these novel findings and associated interpretations."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

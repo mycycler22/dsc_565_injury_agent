@@ -1,0 +1,40 @@
+{
+  "pmid": "21642599",
+  "title": "Epidemiology of patellar tendinopathy in elite male soccer players.",
+  "year": "2011",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy is common among athletes in jumping sports and in sports with prolonged repetitive stress of the knee extensor apparatus. The epidemiology in soccer is not well described."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This study was undertaken to investigate and describe the epidemiology of patellar tendinopathy in elite male soccer players and evaluate potential risk factors."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between 2001 and 2009, the authors followed 51 European elite soccer clubs (2229 players) from 3 different cohorts: the Swedish First League cohort (SWE) and Union of European Football Associations (UEFA) Champions League cohort (UCL), both playing on natural grass; and the Artifical Turf cohort (ART), playing on third-generation artificial turf. Individual player exposure in training and matches and time-loss injuries were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In total, 137 patellar tendinopathies were recorded, comprising 1.5% of all injuries and corresponding to an incidence of 0.12 injuries/1000 hours. Each season, 2.4% of players were affected, with most injuries (61%) resulting in absence up to 1 week or less. Twenty percent of tendinopathies were recurrent complaints. No significant difference in season prevalence (odds ratio [OR], 0.93; 95% confidence interval [CI], 0.60-1.44; P = .74) or incidence (rate ratio [RR] 1.20; 95% CI, 0.82-1.75; P = .36) was observed between teams playing on artificial turf and natural grass, respectively. Multivariate logistic regression showed that a high total exposure hours (OR, 1.02 per 10-hour increase; 95% CI, 1.00-1.04; P = .033) was a significant risk factor for patellar tendinopathy, and increased body mass was borderline significant (OR, 1.15 per 5-kg increase; 95% CI, 1.00-1.33; P = .055). In addition, 2 acute partial tendon ruptures were recorded, but no total rupture."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Although mainly mild in nature, patellar tendinopathy is a fairly common condition in elite soccer and the recurrence rate is high. Exposure to artificial turf did not increase the prevalence or incidence of injury. High total amount of exposure was identified as a risk factor for patellar tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

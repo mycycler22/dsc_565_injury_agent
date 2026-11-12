@@ -1,0 +1,31 @@
+{
+  "pmid": "18981949",
+  "title": "Athletic hand injuries in intercollegiate field hockey players.",
+  "year": "2008",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Protective gloves are worn for stick-handling sports, including ice hockey, men's lacrosse, and women's lacrosse, but are not mandated for women's field hockey. The purpose of this study is to evaluate whether collegiate field hockey players are at increased risk for significant hand injuries compared with stick-handling athletes who wear protective gloves."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this descriptive, epidemiological study, data were gathered from the NCAA Injury Surveillance System reported over a 16-yr period pertaining to 1036 hand and phalangeal injuries occurring in 3,752,547 exposures in stick-handling athletes (field hockey, ice hockey, men's lacrosse, and women's lacrosse). An exposure was defined as an athlete's participation in an individual practice or game. Data were analyzed for total injuries, fractures, ligamentous injuries, contusions, and lacerations and calculated as rates per 1000 exposures. Rates were compared among the four stick-handling sports."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Odds ratios (OR) of hand injuries, hand fractures, phalangeal injuries, and phalangeal fractures were significantly higher in the ungloved (field hockey) athletes than in the gloved athletes (P < 0.01). The odds of a hand injury (OR = 2.12), hand fracture (OR = 1.93), phalangeal injury (OR = 4.19), or phalangeal fracture (OR = 4.04) occurring in ungloved players were significantly higher than for gloved players."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Of participants in four stick-handling sports, collegiate field hockey players have significantly higher odds of sustaining hand or phalangeal injuries. Wearing gloves is a protective measure common in ice hockey and men's and women's lacrosse. However, it is not the current practice in field hockey. We recommend the use of protective gloves in collegiate field hockey practice and competition."
+    }
+  ],
+  "injury_query": "hand fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

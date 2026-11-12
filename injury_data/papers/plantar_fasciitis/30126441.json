@@ -1,0 +1,28 @@
+{
+  "pmid": "30126441",
+  "title": "Neural therapy of an athlete's chronic plantar fasciitis: a case report and review of the literature.",
+  "year": "2018",
+  "journal": "Journal of medical case reports",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The focus of this case report is on the role of inflammation as a contributor to pain in plantar fasciitis and its cure by the injection of local anesthetics."
+    },
+    {
+      "label": "CASE PRESENTATION",
+      "text": "This is a case report on a 24-year-old white man, a middle-distance runner, with chronic unilateral plantar fasciitis and perceived heel pain for almost 1.5 years. He was treated with neural therapy (that is, injection of < 1 ml procaine 1% which is a local anesthetic with strong anti-inflammatory properties) of the surgical scar and along the surgical puncture channel. The follow-up period from the time of first presentation until publication was 2.5 years. At admission, pain intensity (visual analog scale) in the affected leg was severe (10 cm, visual analog scale; range 0-10 cm) when walking and moderate (5 cm, visual analog scale) when standing. After the first session of injections he could stand pain-free and pain when walking was markedly reduced (- 90%). After the third session, he reported no pain in the affected leg and could return to sports at his former level (no difference in training load compared to non-injured state). There was no recurrence of inflammatory signs or heel pain despite intense athletics training up to the date of publication."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In prolonged cases of plantar fasciitis, inflammation is an important component in the development of persistent pain. The results of our case describe the effects of three neural therapy sessions that abolished inflammation and associated heel pain. Neural therapy might be an effective and time-efficient approach in the treatment of plantar fasciitis, enabling an early return to sports."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

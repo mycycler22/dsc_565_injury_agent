@@ -1,0 +1,35 @@
+{
+  "pmid": "37290770",
+  "title": "Validity and Reliability of the Kinvent Handheld Dynamometer in the Athletic Shoulder Test.",
+  "year": "2023",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Long-lever shoulder strength tests may aid clinical decision-making regarding return to sport after a shoulder injury. The Athletic Shoulder Test (AST) was developed to measure force production in 3 positions of shoulder abduction (90°, 135°, and 180°) using force plates. However, handheld dynamometers (HHDs) are more portable, affordable, and may provide valid and reliable results which would increase the clinical utility of long-lever tests. HHDs vary in shape, design, and their capacity to report parameters such as rate of force production and require further investigation. The aim of this study was to examine the intrarater reliability of the Kinvent HHD and assess its validity against Kinvent force plates in the AST. Peak force (in kilograms), torque (in Newton meters), and normalized torque (in Newton meters per kilogram) were reported."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Validity and reliability study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-seven participants with no history of upper limb injury performed the test in a randomized order using the Kinvent HHD and force plates. Each condition was assessed 3 times, and peak force was recorded. Arm length was measured to calculate peak torque. Normalized peak torque was calculated by dividing torque by bodyweight (in kilograms)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The Kinvent HHD is reliable when measuring force (intraclass correlation coefficient [ICC] ≥ .80), torque (ICC ≥ .84), and normalized torque (ICC ≥ .64) during the AST. The Kinvent HHD is also valid when compared with the Kinvent force plates for force (ICC ≥ .79; r ≥ .82), torque (ICC ≥ .82; r ≥ .76), and normalized torque (ICC ≥ .71; r ≥ .61). There were no statistically significant differences across the 3 trials on analyses of variance (P > .05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The Kinvent HHD is a reliable tool when used to measure force, torque, and normalized torque in the AST. Furthermore, given the lack of significant difference between trials, clinicians can use one test to accurately report relative peak force/torque/normalized torque rather than average 3 separate trials. Finally, the Kinvent HHD is valid when compared with Kinvent force plates."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

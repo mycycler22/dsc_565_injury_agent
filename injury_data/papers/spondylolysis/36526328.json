@@ -1,0 +1,32 @@
+{
+  "pmid": "36526328",
+  "title": "Spondylolysis and Isthmic Spondylolisthesis: A Guide to Diagnosis and Management.",
+  "year": "2022",
+  "journal": "Journal of the American Board of Family Medicine : JABFM",
+  "pub_types": [
+    "Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Spondylolysis and isthmic spondylolisthesis are commonly implicated as organic causes of low back pain in this population. Many patients involved in sports that require repetitive hyperextension of the lumbar spine like diving, weightlifting, gymnastics and wrestling develop spondylolysis and isthmic spondylolisthesis. While patients are typically asymptomatic in mild forms, the hallmark of symptoms in more advanced disease include low back pain, radiculopathy, postural changes and rarely, neurologic deficits."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a narrative review of the literature on the clinical presentation, diagnosis, prognosis and management of spondylolysis and isthmic spondylolisthesis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A comprehensive physical exam and subsequent imaging including radiographs, CT and MRI play a role in the diagnosis of this disease process. While the majority of patients improve with conservative management, others require operative management due to persistent symptoms."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Due to the risk of disease progression, referral to a spine surgeon is recommended for any patient suspected of having these conditions. This review provides information and guidelines for practitioners to promote an actionable awareness of spondylolysis and isthmic spondylolisthesis."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

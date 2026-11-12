@@ -1,0 +1,43 @@
+{
+  "pmid": "30660901",
+  "title": "Physical Therapy Service delivered in the Polyclinic During the Rio 2016 Paralympic Games.",
+  "year": "2019",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To characterize the Physical Therapy Services delivered at the Polyclinic during the Rio 2016 Paralympic Games."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective Cohort Study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Physical Therapy Services (PTS) of the Polyclinic."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Athletes attended for Physical Therapy treatment at the Polyclinic during Rio 2016 Paralympic Games."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "The number of athletes treated, their nationalities, their sports modality, the most frequently treated regions and the interventions applied."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 4504 interventions were delivered and 399 athletes were treated in the PTS. Athletes representing athletics and sitting volleyball were the most frequently attended for treatment. The main diagnoses were muscle tension and tendinopathy. Analgesia was the main purpose of treatment and myofascial release and electrotherapy was the most frequent interventions. Recovery service had a total of 1579 encounters and male athletes used cryo-immersion 3 times more when compared to female."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes representing athletics and sitting volleyball were the most frequently attended for treatment and the thoracic/lumbar spine and pelvis/hip were the most commonly affected regions. Muscle strain and tendinopathy were the most frequent diagnoses and myofascial release and electrotherapy were the most frequent therapies used to achieve analgesia."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

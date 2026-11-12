@@ -1,0 +1,20 @@
+{
+  "pmid": "36307365",
+  "title": "A biomechanical analysis of skiing-related anterior cruciate ligament injuries based on biomedical imaging technology.",
+  "year": "2022",
+  "journal": "Medical engineering & physics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Alpine skiing is an attractive but highly risky sport, and the anterior cruciate ligament (ACL) tear is one of the most common diagnoses of skiing-related injuries. To better prevent such injuries among athletes and recreational skiers, we developed a facile and reliable biomechanical method to analyze the differences between \"right\" and \"wrong\" movements during skiing and their impacts on ACL stress loading. Unlike those conventional methods that are very difficult to implement and time-consuming, our method was developed based on inverse dynamics analyses and video capture, which were much easier to implement in the real-world setting. It is shown that, with a harmful skiing action, the knee joint's maximum reaction force significantly increases compared to nonharmful skiing actions. The peak front-and-rear force increased from 1242 N to 3105 N, and the peak axial force increased from 1023 N to 3443 N, which significantly exceeded the maximum tensile loading (2000 N) in the ACL. Our results are proven to be reliable and consistent with findings obtained with other methods. This method may substitute current complex analytical methods and be easier to apply in sports-related injury-prevention applications."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

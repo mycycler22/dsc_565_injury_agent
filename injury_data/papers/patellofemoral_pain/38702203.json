@@ -1,0 +1,44 @@
+{
+  "pmid": "38702203",
+  "title": "Validity of a commercially available load cell dynamometer in measuring isometric knee extension torque in patients with knee disorders.",
+  "year": "2024",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Assess the validity of hand-held dynamometry (HHD) and the Tindeq Progressor (TP) in assessing peak isometric knee extension torque and limb symmetry index (LSI) versus isokinetic dynamometer (IKD)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Laboratory."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "31 individuals with unilateral knee disorders (21 female; 28.3 ± 11 years)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Peak isometric knee extension torque; Knee extension LSI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Strong to almost perfect (p < 0.001) correlations (Cohen's Kappa k) with IKD were found for both devices for peak torque of the uninvolved limb (HHD [k = 0.84], TP [k = 0.91]) and involved limb (HHD [k = 0.93], TP [k = 0.98]). For LSI, moderate to strong (p < 0.001) correlations with IKD were found for HHD (k = 0.79) and TP (k = 0.89). Mean bias errors were equivalent for determining LSI (HHD = 0.02%; TP = 0.03%). Both HHD and TP were highly sensitive (96.2-100.0%) and specific (100.0%) at the 70% LSI threshold. TP showed higher sensitivity and specificity at the 90% LSI threshold."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "HHD and TP are valid in measuring isometric knee extension torque with the reference standard IKD. TP showed superior validity in identifying LSI. TP also shows greater specificity in identifying the 90% LSI threshold."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

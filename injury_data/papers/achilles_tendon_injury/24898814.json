@@ -1,0 +1,41 @@
+{
+  "pmid": "24898814",
+  "title": "Achilles tendon injury risk factors associated with running.",
+  "year": "2014",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Research into the nature of overuse Achilles tendon injuries is extensive, yet uncertainty remains around how to identify athletes susceptible to Achilles tendon injury."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To identify the strength of evidence for biomechanical risk factors associated with Achilles tendon injuries."
+    },
+    {
+      "label": "RESEARCH METHODS",
+      "text": "SPORTDiscus, CINAHL, Web of Science and PubMed were searched for Achilles tendon injury risk factors and biomechanical measures which are altered in runners with Achilles tendon injuries, excluding ruptures. Fifteen articles were included in the analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Two variables, high vertical forces and high arch, showed strong evidence for reduced injury risk. High propulsive forces and running on stiffer surfaces may also be protective. Only one biomechanical variable, high braking force, showed clear evidence for increasing Achilles injury risk."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Gait retraining to direct the centre of mass further forward to reduce high braking force could be useful in decreasing the risk of Achilles injury. The majority of biomechanical risk factors examined showed unclear results, which is likely due to the multifactorial nature of Achilles overuse injuries. Many risk factors are related to how the athlete's body interacts with the environment during gait, including ground reaction forces, muscle activity both prior to landing and immediately post ground contact, and joint motion throughout stance."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Multiple risk factors have been associated with the development of Achilles tendon injuries in running athletes but most effects remain unclear. Advice for athletes recovering from Achilles tendon injuries could include avoiding soft surfaces and reducing the pace of recovery runs. Orthotic intervention could assist athletes with low arches but modification of pronation should be viewed with caution. Strength training and gait retraining could be beneficial for reducing injury risk."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

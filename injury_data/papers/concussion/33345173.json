@@ -1,0 +1,19 @@
+{
+  "pmid": "33345173",
+  "title": "Determinants of Missed Games Following Concussions in the National Football League.",
+  "year": "2020",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussions in the National Football League (NFL) are a rising topic of concern and debate. With the implementation of new protocols, NFL players are required to be removed from play and must follow specific processes before full return to play after sustaining a concussion. While concussion severity is the primary determinant of time-off, it is possible that other factors associated with player value influence time-off as well. The purpose of this study is to examine determinants of NFL games missed after a concussion. NFL concussion data from 2012 to 2015 were used in conjunction with player salary, position, previous concussions, average plays per game, and season during which the concussion occurred. Results indicate that quarterbacks and players who sustained multiple concussions missed more games, while players involved in more plays per game miss less games, providing evidence that player health and value are determinants of time-off after a concussion. Additionally, the number of games missed has increased each year, which could be the result of NFL efforts to increase safety and increased media attention."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

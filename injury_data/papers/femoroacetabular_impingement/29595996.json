@@ -1,0 +1,50 @@
+{
+  "pmid": "29595996",
+  "title": "Return to Play After Hip Arthroscopy: A Systematic Review and Meta-analysis.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The use of arthroscopic treatment for intra-articular hip pathology has demonstrated improved patient-reported outcomes (PROs) with a lower rate of complications, reoperation, and patient morbidity as compared with traditional methods. Although the use of this minimally invasive approach has increased in prevalence, no evidence-based return-to-play (RTP) criteria have been developed to ensure an athlete's preparedness for sporting activities."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine if there exists sufficient evidence in the literature to support an RTP protocol and functional assessment after hip arthroscopy, as well as to assess the mean rate and duration of RTP."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "The search terms \"hip arthroscopy,\" \"return to play,\" and 10 related terms were searched in PubMed, Cochrane Library, Scopus, and Web of Science, yielding 263 articles. After screening, 22 articles were included. RTP timeline, rehabilitation protocols, and conditional criteria measures were assessed with previously established criteria. Pooled estimates were calculated for RTP rate and duration, and weighted mean scores were determined for PROs."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 1296 patients with 1442 total hips were identified. Although 54.5% (12 of 22) of studies did not provide a guideline for RTP duration after hip arthroscopy, 36.4% (8 of 22) recommended a duration of 4 months, while 9.1% (2 of 22) recommended 3 months. The most frequently described postoperative rehabilitation protocols were weightbearing guidelines (15 studies) and passive motion exercises (9 studies). Only 2 studies satisfied the criteria for a sufficient RTP protocol, and 3 provided a specific replicable test for RTP. The mean RTP duration was 7.4 months (95% CI, 6.1-8.8 months), and the return rate was 84.6% (95% CI, 80.4%-88.8%; P = .008) at a mean ± SD follow-up of 25.8 ± 2.4 months. Mean modified Harris Hip Score (mHHS) improved from 63.1 to 84.1 postoperatively (+33.3%), while Non-arthritic Hip Score improved from 61.7 to 86.8 (+40.7%). A lower preoperative mHHS was significantly associated with a higher postoperative improvement ( r = -0.95, P = .0003)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Significant variability exists in RTP protocols among institutions owing to a lack of standardization. Despite a high overall rate of RTP and improvement in PROs after hip arthroscopy, the majority of rehabilitation protocols are not evidence based and rely on expert opinion. No validated functional test currently exists to assess RTP."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Although 54.5% (12 of 22) of studies did not provide a guideline for RTP duration after hip arthroscopy, 36.4% (8 of 22) recommended a duration of 4 months, while 9.1% (2 of 22) recommended 3 months."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The mean RTP duration was 7.4 months (95% CI, 6.1-8.8 months), and the return rate was 84.6% (95% CI, 80.4%-88.8%;"
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

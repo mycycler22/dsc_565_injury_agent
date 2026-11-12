@@ -1,0 +1,35 @@
+{
+  "pmid": "36442830",
+  "title": "Clinical outcomes and return to play in softball players following SLAP repair or biceps tenodesis.",
+  "year": "2023",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder pain due to labral tears and biceps tendonitis is commonly found in softball players. Surgical options include labral repair and biceps tenodesis. Although past studies are limited by heterogeneous study groups from multiple sports, this is the first study that assesses clinical outcomes and return to play rates for fast-pitch softball players."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to evaluate the clinical outcomes and return to play for fast-pitch softball players treated for a superior labrum anterior posterior (SLAP) tear and recalcitrant biceps tendonitis with a biceps tenodesis compared with a traditional SLAP repair. We hypothesized that the biceps tenodesis would have comparable outcomes with a faster return to play compared with SLAP repair."
+    },
+    {
+      "label": "METHODS",
+      "text": "We performed a retrospective analysis on fast-pitch softball players treated surgically for SLAP tear, recalcitrant biceps tendonitis, or a combination between 2001 and 2019 at our institution. Inclusion criteria were fast-pitch softball players who underwent biceps tenodesis or a SLAP repair with greater than 2-year follow-up. Exclusion criteria involved slow-pitch softball players, patients with less than 2-year follow-up, and patients who had undergone concomitant procedures on the ipsilateral shoulder at the time of SLAP repair or biceps tenodesis. Follow-up was either self-reported through OBERD, a patient-reported outcomes (PRO)-managing software, or achieved over the phone. Follow-up data included American Shoulder and Elbow Surgeons Standardized Shoulder Assessment Form score, Andrews Carson Score, Kerlan-Jobe Orthopaedic Clinic Shoulder and Elbow Score, Numeric Rating Scale for Pain, and our institution-specific return-to-play questionnaire. We statistically compared players who underwent biceps tenodesis or a SLAP repair, and compared pitchers with position players using Student t tests and Fisher exact test with statistical significance determined to be P < .05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "From 60 eligible patients identified, follow-up outcome data were successfully captured for 47 (78%). Of the 18 SLAP repair patients, 17 (94%) returned to full competition at an average of 7.9 months. Of the 29 patients who underwent biceps tenodesis, 27 (93%) returned to full competition at an average of 7.1 months. Statistical analysis of PRO scores for each group found no significant differences between any of the measures used to evaluate patient outcomes, including no statistical difference in pitchers compared with position players."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In conclusion, this study demonstrated comparable outcomes between SLAP repairs and biceps tenodesis procedures among our study group of fast-pitch softball players. There was no significant difference between RTP times between the 2 groups."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

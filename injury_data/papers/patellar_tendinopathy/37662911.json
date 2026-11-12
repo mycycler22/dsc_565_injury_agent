@@ -1,0 +1,38 @@
+{
+  "pmid": "37662911",
+  "title": "The effectiveness of shockwave therapy on patellar tendinopathy, Achilles tendinopathy, and plantar fasciitis: a systematic review and meta-analysis.",
+  "year": "2023",
+  "journal": "Frontiers in immunology",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tendinopathy is a growing global concern affecting many people, like athletes, workers, and the elderly. Despite its commonality among the sporting population, there is no practical clinical guideline for patellar tendinopathy (PT). Furthermore, there is conflicting evidence between clinical guidelines on shockwave therapy's application and clinical utility for Achilles tendinopathy (AT) and plantar fasciitis (PF). Thus, our aim of this study is to evaluate the evidence for shockwave therapy; to provide a Grading of Recommendation, Assessment, Development and Evaluation (GRADE) level of the evidence and effectiveness of shockwave therapy for patellar tendinopathy, Achilles tendinopathy, and Plantar fasciitis."
+    },
+    {
+      "label": "METHOD",
+      "text": "Medical Literature Analysis and Retrieval System Online (Medline), Embase, The Cumulative Index to Nursing and Allied Health Literature (CINAHL), Physiotherapy Evidence Database (PEDro) and China National Knowledge Infrastructure database (CNKI) were searched to find relevant studies published before December 14<sup>th</sup>, 2022."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Our study showed that for PT in the short term, extracorporeal shockwave therapy (ESWT) or ESWT + eccentric exercise (EE) has a negligible effect on pain and function compared to a placebo or placebo + EE. On the contrary, ESWT significantly affects pain compared to conservative treatment (CT). For AT, ESWT has a small inconclusive effect on pain and function in the short term compared to EE. On the other hand, a placebo outperformed ESWT in improving function for AT but not pain outcomes. PF showed that ESWT significantly affects short- and long-term pain and function. When ESWT was compared to other interventions such as low laser therapy (LLLT), corticosteroid injection (CSI), or CT, there was a small inconclusive effect on pain and function in the short term."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There is low-moderate evidence that ESWT has a negligible effect on pain and function for PT and AT. However, high-quality evidence suggests ESWT has a large effect on pain and function for PF."
+    },
+    {
+      "label": "SYSTEMATIC REVIEW REGISTRATION",
+      "text": "https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42023396835, identifier CRD42023396835."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

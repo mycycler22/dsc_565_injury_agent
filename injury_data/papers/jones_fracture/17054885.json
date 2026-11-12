@@ -1,0 +1,32 @@
+{
+  "pmid": "17054885",
+  "title": "Bending stiffness and pull-out strength of tapered, variable pitch screws, and 6.5-mm cancellous screws in acute Jones fractures.",
+  "year": "2006",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Stabilization of fifth metatarsal Jones fractures with intramedullary screws is popular, particularly in athletes, because nonoperative treatment involves prolonged casting and a distinct risk of nonunion or delayed union. Conventional lag screws of various diameters are routinely used for Jones fracture fixation. More recently, tapered, headless, variable pitch screws have become available as an option. These screws have the advantage of not having a protruding screw head, but information regarding their performance in Jones fracture fixation is limited. To determine whether differences exist in the mechanical integrity of fifth metatarsals fixed with each type of screw, this study was designed to compare Jones fracture fixation with 6.5-mm partially-threaded lag screws and headless, tapered, variable pitch compression screws with a 4-mm leading-thread diameter and 5-mm trailing-thread diameter."
+    },
+    {
+      "label": "METHODS",
+      "text": "Simulated Jones fractures were created in 20 matched pairs of fresh-frozen fifth metatarsals. One bone from each pair was stabilized with a tapered, variable pitch screw, and the contralateral with a 6.5-mm partially-threaded cancellous lag screw. The stiffness in lateral-to-medial bending of the resulting constructs and the resistance of the screws to pulling out of the distal fragment were quantified."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There was no demonstrable difference in bending stiffness between metatarsals fixed with the two types of screws (p = 0.688). The 6.5-mm screw provided significantly higher resistance to pull-out (p = 0.001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Headless, tapered, variable pitch compression screws of the size tested are not entirely comparable to 6.5-mm lag screws in this application. They are effective in resisting bending but do not offer equivalent resistance to thread pull-out."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

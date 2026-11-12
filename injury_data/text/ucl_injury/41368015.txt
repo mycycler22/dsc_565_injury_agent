@@ -1,0 +1,26 @@
+Title: Outcomes After Ulnar Collateral Ligament Reconstruction and Repair in Nonthrowing Athletes. | Type: Journal Article | PMID: 41368015 | Year: 2025 | Injury query: UCL injury
+[RESULTS] Overall, 68.4% were able to RTP (58.3% UCL reconstruction; 85.7% repair) after 9.5 months (9.86 months UCL reconstruction; 9.0 months repair) with 76.9% (10/13) of the athletes returning to the same or higher level of competition.
+[FULLTEXT: Results:] A total of 19 nonthrowing athletes undergoing either UCL reconstruction (n = 12) or repair (n = 7) met the inclusion criteria for the study. Sport participation included 5 cheerleaders, 4 wrestlers, 4 gymnasts, 2 lacrosse players, 1 boxer, 1 mixed martial arts fighter, and 1 football player (offensive lineman). The mean age for these patients was 20.1 ± 7.3 years with 52.6% of patients being female. The majority of tears were proximal (72.2%). Overall, 68.4% were able to RTP (58.3% UCL reconstruction; 85.7% repair) after 9.5 months (9.86 months UCL reconstruction; 9.0 months repair) with 76.9% (10/13) of the athletes returning to the same or higher level of competition.
+[FULLTEXT: Overall Cohort Characteristics and Outcomes] Upon initial query, 427 patients undergoing primary UCL reconstruction or repair were identified. The substantial majority of these included baseball and softball players as well as javelin throwers. Thus, after careful chart review, a total of 19 nonthrowing athletes that underwent either UCL reconstruction or repair met the inclusion criteria. A total of 12 patients underwent UCL reconstruction and 7 underwent UCL repair. The nonthrowing sport participation of these patients included cheerleading (5), wrestling (4), gymnastics (4), lacrosse (2), boxing (1), mixed martial arts (1), and football lineman (1). The mean ± SD age was 20.1 ± 7.3 years and 52.6% of patients were female (Table 1). Data from MRI evaluation was available for 18 of the 19 patients and demonstrated that a majority of the tears were proximal (72.2%). There were no midsubstance tears identified by radiology report. A majority of tears were described as partial thickness (61.1%). Overall, the ASES score was 90.7 ± 16.2, Timmerman-Andrews score was 83.9 ± 12.6, and overall RTP rate was 68.4%. More specifically, 52.6% (10/19) of the athletes total athletes, including 76.9% (10/13) who reported return to competition reported returning to the same or higher level of competition.
+[FULLTEXT: Postoperative Outcomes] Postoperative outcome scores were similar between groups including ASES (P = .53), QuickDASH (P = .49), and Timmerman-Andrews scores (P = .78). On a scale from 0 to 100 with 100 being entirely satisfied, satisfaction with surgery was similar between groups (P = .26) as was the rate at which patients reported they would choose to undergo surgery again (P≥ .99). All patients in the reconstruction group and 85.7% of those in the repair group reported symptoms improving or completely resolving after surgery (P = .33) (Table 3). Interestingly, 55.6% (5/9) of gymnasts or cheerleaders were unable to return to their respective sport. One wrestler (25.0%; 1/4) was unable to return to sport, but all lacrosse, mixed martial arts, football, and boxing athletes were otherwise able to return to some level of sport participation. Postoperatively, all patients underwent formal physical therapy rehabilitation (reconstruction, 5.21 ± 3.35 months; repair, 4.36 ± 3.64 months; P = .62). All had full ROM in flexion, extension, pronation, and supination, however, 1 patient had hyperextension (–20°) on physical examination after surgery (compared with 5° short of full extension preoperatively). Notably, while no patients in the reconstruction cohort reported suffering any subsequent elbow (including UCL-related symptoms) or shoulder injury after their UCL surgery, 1 patient in the repair cohort sustained a partial tear of the distal biceps tendon 3 years after initial surgery.
+[FULLTEXT: TABLE: Postoperative PROs and RTP Data After UCL Reconstruction and Repair a]  | UCL Reconstruction | UCL Repair | Odds Ratio (95% CI)
+ | n = 12 | n = 7 | 
+ASES score | 99.2 [97.9-100] | 95.0 [83.3-100] | 1.00 (0.94-1.06)
+QuickDASH | 3.41 [0.00-4.55] | 4.55 [2.27-6.82] | 0.98 (0.86-1.11)
+Timmerman-Andrews elbow score, mean ± SD | 83.3 ± 14.7 | 85.0 ± 10.4 | 1.01 (0.94-1.09)
+Satisfaction | 100 [97.2-100] | 96.0 [80.5-100] | 0.96 (0.89-1.03)
+Would you undergo UCL surgery again?
+No | 1 (8.3) | 1 (14.3) | Ref
+Yes | 11 (91.7) | 6 (85.7) | 0.56 (0.01-24.7)
+Symptoms after surgery
+Resolved completely | 6 (50.0) | 4 (57.1) | Ref
+Improved | 6 (50.0) | 2 (28.6) | Ref
+Worsened | 0 (0.00) | 1 (14.3) | 0.17 (0.01-4.88)
+RTP
+No | 5 (41.7) | 1 (14.3) | Ref
+Yes | 7 (58.3) | 6 (85.7) | 3.70 (0.40-118)
+Time to RTP, mo, mean ± SD | 9.86 ± 5.11 | 9.00 ± 7.95 | 0.98 (0.81-1.17)
+Level of play returned to
+Lower | 2 (28.6) | 1 (16.7) | Ref
+Same | 2 (28.6) | 3 (50.0) | 2.53 (0.12-116)
+Higher | 3 (42.9) | 2 (33.3) | 1.26 (0.06-58.0)

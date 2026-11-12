@@ -1,0 +1,20 @@
+{
+  "pmid": "42375909",
+  "title": "Deep-Seated Large Myositis Ossificans: A Diagnostic Blind Spot and the Importance of Early Ultrasonographic Screening.",
+  "year": "2026",
+  "journal": "Cureus",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Myositis ossificans (MO) is a benign heterotopic ossification of skeletal muscle, typically resulting from direct trauma. Diagnosing MO confined to deep muscle groups, such as the <i>vastus intermedius</i>, can be challenging, often leading to delayed treatment. We present the case of a 39-year-old amateur athlete who developed a giant MO lesion (10x3 cm) two years following a severe thigh contusion. The patient presented with persistent restriction of hip flexion that outlasted the acute inflammatory phase, while a palpable mass was not identified until the chronic stage, 16 months post-injury, due to the deep anatomical localization. Surgical excision was performed, followed by progressive functional recovery. Passive hip flexion improved to 120° by the fourth postoperative week with only minimal end-range pain, and full painless active hip flexion was observed by the eighth week. At the 12-week follow-up, the patient had resumed straight-line jogging without clinical evidence of recurrence, although intermittent anterior thigh cramps persisted during high-intensity exercise. This case highlights the potential pitfalls of relying solely on physical palpation for deep muscle injuries. In such scenarios, early utilization of ultrasonography (US) may be beneficial for the timely detection of MO, as sonographic findings often precede radiographic evidence. Specifically, US typically reveals a hypoechoic mass in the acute phase, which evolves into a hypoechoic lesion containing hyperechoic foci during the intermediate and late stages of maturation. Early detection may help limit lesion progression and reduce the extent of subsequent surgical morbidity."
+    }
+  ],
+  "injury_query": "thigh contusion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

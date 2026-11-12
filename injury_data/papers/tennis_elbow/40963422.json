@@ -1,0 +1,31 @@
+{
+  "pmid": "40963422",
+  "title": "Pain-relieving effect of dynamic orthosis for lateral epicondylitis: a pilot crossover study.",
+  "year": "2025",
+  "journal": "Pain management",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "We developed a simple dynamic orthosis for lateral epicondylitis (DOLE) assisting wrist extensors. This study aimed to compare the pain-relieving effects of DOLE and the counterforce brace in patients with lateral epicondylitis during pickup motion."
+    },
+    {
+      "label": "PATIENTS & METHODS",
+      "text": "Eighteen patients with lateral epicondylitis performed a pickup test using a 1 kg sandbag under three conditions: without a brace, with a counterforce brace, and with DOLE. Pain during the task was assessed using a visual analogue scale (VAS). The pain-relieving effect was calculated as the percentage reduction in VAS compared to baseline (without an orthosis)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The VAS in the pickup test was 63.2±18.8 mm without orthosis, 53.9±21.0 mm with the counterforce brace, and 38.9±17.0 mm with DOLE. The pain-relieving effect was 0.11 (0-0.20) for the counterforce brace and 0.38 (0.24-0.52) for DOLE, which was greater in DOLE than in the counterforce brace (p = 0.001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "DOLE significantly reduced lateral elbow pain during pickup motion, outperforming the counterforce brace; however, given the relatively small sample size, these findings should be interpreted as preliminary evidence requiring confirmation in larger longitudinal studies. Its simple, worker-friendly design and strong pain-relief effect suggest its potential utility in treating lateral epicondylitis."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

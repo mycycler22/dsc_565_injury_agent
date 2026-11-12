@@ -1,0 +1,20 @@
+{
+  "pmid": "32731400",
+  "title": "Lower Limb Tendinopathy Tissue Changes Assessed through Ultrasound: A Narrative Review.",
+  "year": "2020",
+  "journal": "Medicina (Kaunas, Lithuania)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy is a common disease that affects athletes, causing pain and dysfunction to the afflicted tendon. A clinical diagnose is usually combined with imaging and, among all the existing techniques, ultrasound is widely adopted. The aim of this review is to sum up the existing evidence on ultrasound as an imaging tool and guide for treatments in lower limbs tendinopathy. Using three different databases-PubMed, MEDLINE and CENTRAL-a literature search has been performed in May 2020 combining MeSH terms and free terms with Boolean operators. Authors independently selected studies, conducted quality assessment, and extracted results. Ultrasound imaging has a good reliability in the differentiation between healthy and abnormal tendon tissue, while there are difficulties in the identification of tendinopathy stages. The main parameters considered by ultrasound imaging are tendon thickness, hypoechogenicity of tendon structure and neovascularization of the tendon bound tissue. Ultrasound-guide is also used in many tendinopathy treatments and the available studies gave encouraging results, even if further studies are needed in this field."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

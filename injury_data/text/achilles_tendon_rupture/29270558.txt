@@ -1,0 +1,16 @@
+Title: Clinical Outcomes and Return to Sports in Patients with Chronic Achilles Tendon Rupture after Minimally Invasive Reconstruction with Semitendinosus Tendon Graft Transfer. | Type: Journal Article | PMID: 29270558 | Year: 2017 | Injury query: Achilles tendon rupture
+[UNLABELED] <b>Objective</b>  The purpose of the study is to evaluate the clinical results and return to sports in patients undergoing reconstruction of the Achilles tendon after minimally invasive reconstruction with semitendinosus tendon graft transfer. <b>Methods</b>  Eight patients underwent surgical reconstruction with a minimally invasive technique and tendon graft augmentation with ipsilateral semitendinosus tendon for chronic Achilles tendon rupture (more than 30 days after the injury and a gap of >6 cm).
+[UNLABELED] Patients were evaluated at a minimum follow-up of 24 months after the surgery through the American Orthopaedic Foot and Ankle Society (AOFAS), the Achilles Tendon Total Rupture Scores (ATRS), the Endurance test, the calf circumference of the operated limb, and the contralateral and the eventual return to sports activity performed before the trauma. <b>Results</b>  The mean age at surgery was 50.5 years.
+[FULLTEXT: Results] All patients were reviewed at the average follow-up of 27.9 months (range: 24–34 months) from surgery; no patient was lost to follow-up. Clinical results are reported in Table 1 . At the follow-up, the mean AOFAS was 92 (range: 83–96), mean ATRS was 87 (range: 81–95), mean Endurance test was 28.1 (range: 24–31), and the mean calf circumference of the operated leg was 37.5 cm (range: 32.5–41.7) in respect to the contralateral calf that was 38.5 cm (range: 33.0–42.5). All patients returned to their daily activities, and six out of eight patients have returned to sports activities (2 football players, 3 runners, 1 tennis player) at a mean of 7.0 (range: 6.7–7.2) months after surgery. No patient reported complications either as regards to the symptoms related to the harvest of the semitendinosus or for the reconstruction of the Achilles tendon. There were no reported tendon reruptures of the tendon, issue of dehiscence of the surgical scar, or infections.
+[FULLTEXT: TABLE: Clinical results and return to sports after a follow-up of at least 24 months] Patient | Age at surgery | Sex | Side affected | Time between rupture and treatment (d) | Follow-up (mo) | Sport | Return to sport (months) | AOFAS | ATRS at follow-up | Endurance test | Calf circumference at follow-up (cm)
+Pre | Post | Affected | Contralateral
+1 | 45 | M | L | 35 | 30 | Soccer | Soccer | 7.1 | 94 | 87 | 27 | 41.7 | 42.5
+2 | 58 | M | R | 31 | 25 | Tennis | No | / | 87 | 81 | 24 | 30.3 | 31.8
+3 | 52 | F | R | 42 | 27 | Runner | Runner | 6.7 | 94 | 93 | 26 | 36.3 | 37.2
+4 | 51 | M | R | 60 | 34 | Runner | Runner | 7.2 | 93 | 88 | 30 | 40.0 | 41.1
+5 | 60 | F | L | 47 | 24 | Squash | NO | / | 83 | 84 | 29 | 32.5 | 33.0
+6 | 36 | M | L | 33 | 29 | Soccer | Soccer | 7.0 | 96 | 95 | 31 | 39.2 | 39.5
+7 | 53 | M | R | 35 | 24 | Tennis | Tennis | 7.2 | 94 | 85 | 29 | 40.1 | 41.0
+8 | 49 | F | L | 40 | 30 | Runner | Runner | 6.8 | 95 | 83 | 29 | 39.8 | 41.8
+Mean | 50.5 | 5 M | 4 right | 40.4 | 27.9 |  |  | 7.0 | 92 | 87 | 28.1 | 37.5 | 38.5
+3 F | 4 left

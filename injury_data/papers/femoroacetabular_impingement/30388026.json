@@ -1,0 +1,41 @@
+{
+  "pmid": "30388026",
+  "title": "Biomarkers for Femoroacetabular Impingement and Hip Osteoarthritis: A Systematic Review and Meta-analysis.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The early recognition and management of patients with hip lesions, such as femoroacetabular impingement (FAI) and early hip osteoarthritis (OA), may preempt significant hip morbidity. The identification of reliable biomarkers may help guide decision making in an efficient and cost-effective manner."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the biomarkers that have been associated with FAI as well as identify serum, synovial, and urinary analytes that have shown clinical utility in the prediction or identification of hip OA."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "The terms \"hip arthroscopy,\" \"femoroacetabular impingement,\" \"labral tear,\" \"osteoarthritis,\" and \"biomarker\" were searched in PubMed, Web of Science, Scopus, Cochrane Library, and Google Scholar, yielding 276 articles. After screening, 7 articles were included. Pooled estimates were calculated utilizing a fixed-effects inverse-variance model weighted for individual study size."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 1747 patients with a mean age of 37.5 ± 4.5 years (76.4% female) were identified. Forty-three unique biomarkers were assessed. Although general proinflammatory cytokines IL-1 and TNF-α exhibited inconsistent trends in arthritic hips, IL-6 demonstrated a consistent increase (+84.8% [95% CI, 81.9%-87.6%]; <i>P</i> < .05). A significant difference was found in levels of the fibronectin-aggrecan complex (FAC) in patients with OA compared with controls (0.08 ± 0.40 vs 1.15 ± 0.35 μg/mL, respectively; <i>P</i> < .001). It was the only specific analyte to show a significant difference between those with and without OA. In the setting of FAI, cartilage oligomeric matrix protein (COMP) was significantly increased in athletes after adjusting for concurrent knee and hip OA. A statistically significant difference was present in FAI-positive hips (9.0 ± 0.1 [95% CI, 8.8-9.3]) compared with controls (8.4 ± 0.1 [95% CI, 8.2-8.4]) (<i>P</i> < .05). Other biomarkers, such as CXCL3, which exhibited statistically significant differences compared with controls, did not control for underlying factors such as age and concomitant lesions."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "COMP and FAC are specific biomarkers with potential utility in the diagnosis and management of FAI and hip OA, given their ability to differentiate between controls and patients with hip lesions. Further research is necessary to identify their ability in determining disease severity, predicting the response to treatment, and establishing an association with the risk of long-term OA."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

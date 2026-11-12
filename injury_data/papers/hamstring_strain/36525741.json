@@ -1,0 +1,44 @@
+{
+  "pmid": "36525741",
+  "title": "Effect of COVID-19 lockdown on injury incidence and burden in amateur rugby union.",
+  "year": "2023",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Observational Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To analyse match and training injury incidence rates and burden from pre-(2019) and post-COVID-19 (2021) seasons; To analyse injury related variables as mechanisms, type, body locations, severity and the differences of the most common injuries according to playing positions."
+    },
+    {
+      "label": "DESIGN",
+      "text": "An observational study was performed according to the consensus statement on injury definitions and data collection from World Rugby. Injury variables were collected retrospectively for 2019 season and prospectively during 2021 season."
+    },
+    {
+      "label": "SETTING",
+      "text": "Argentinian amateur rugby club."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Male (n = 110) senior amateur rugby players."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Match and training time loss injuries, time of exposures and injury related variables."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Training incidence rate during post-lockdown season (4.2/1000 player-training-hours) was significantly higher (p < 0.001) than the pre-lockdown season (0.9/1000 player match hours). Post-lockdown hamstring strain injury (HSI) and concussions match incidence rates were significantly (p < 0.001; p < 0.05 respectively) higher in comparison with 2019 season. Regarding playing positions, backs showed a significantly increase (p < 0.05) in HSI match incidence rate post lockdown."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "After the COVID-19 lockdown, training incidence rate was significantly higher than previous season (2019), showing the impact of the lockdown restrictions. Coaches and medical staff must consider that players probably need more lead-in time for conditioning and more monitoring after periods of no rugby."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

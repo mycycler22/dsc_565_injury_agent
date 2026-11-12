@@ -1,0 +1,24 @@
+{
+  "pmid": "37981392",
+  "title": "Editorial Commentary: Immediate Surgical Stabilization Following a First-Time Traumatic Anterior Shoulder Dislocation Is Still the Best Evidence-Based Approach.",
+  "year": "2023",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Editorial"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Traumatic anterior shoulder dislocations are unfortunately common. The initial dislocation is enough to cause permanent anatomic and biomechanical alterations to the glenohumeral joint, which increases the likelihood of further events. When a patient crosses into the multiple dislocator category, further soft-tissue and bony injury occurs. This is almost certainly the reason that the number of preoperative dislocations significantly diminishes the success of an arthroscopic stabilization and increases the need for a more aggressive approach that may carry greater risks of complications. When it comes to recurrent instability, there remains very little doubt regarding the appropriate treatment for a first-time traumatic dislocation: immediate surgical stabilization! Assuming no significant glenoid or humeral bone loss, arthroscopic stabilization remains an effective surgery with a high-benefit, low-risk profile, especially when combined with a remplissage in high-risk circumstances. At least 4 randomized controlled trials support immediate versus nonoperative management for every outcome measured: recurrence, return to sport, patient-reported outcomes, and sustained event-free survival, especially pronounced at 2 years. The decision to recommend surgery, is of course, not always straightforward, necessitating an informed discussion with the patient and the family, especially when other outcomes such as return to play are deemed equally relevant and can be successfully achieved with nonoperative management. Nonetheless, more than any other outcome measure, is there a more important outcome than recurrence regarding long-term health implications? Lastly, can we do better with study designs and outcome measures to better understand risk factors to identify patients better suited for surgery after a first-time event than others? Absolutely. But until then, when up to 60% can sustain a recurrent dislocation in this population, and up to 90% in high-risk individuals, the odds are not in my favor with nonoperative treatment. Despite potential limitations in our current literature, immediate surgery following a first-time dislocation is still the best evidence-based approach."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "At least 4 randomized controlled trials support immediate versus nonoperative management for every outcome measured: recurrence, return to sport, patient-reported outcomes, and sustained event-free survival, especially pronounced at 2 years."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

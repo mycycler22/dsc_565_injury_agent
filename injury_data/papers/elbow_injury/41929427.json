@@ -1,0 +1,31 @@
+{
+  "pmid": "41929427",
+  "title": "Explicit dynamics analysis of forearm tendon stresses during the forehand smash.",
+  "year": "2026",
+  "journal": "Frontiers in bioengineering and biotechnology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Fast, asymmetric strokes in racket sports generate complex multi-joints loads that affect performance and injury; however, the biomechanical mechanisms of milliseconds-scale shuttlecock-racket collisions are not fully elucidated. This paper aims to characterize the contact kinetics of the badminton forehand smash and evaluate the resulting stress and strain distribution within the forearm during the impact contact."
+    },
+    {
+      "label": "METHODS",
+      "text": "Seven badminton athletes were recruited, and forehand smash trials were captured with a motion-capture system at 1,000Hz. Using inverse dynamics, we computed the sweep angular velocities, centripetal acceleration and centrifugal forces of racket, hand and forearm relative to the shoulder. Further, we reconstructed a subject-specific upper-limb model comprising the bone, soft tissues, and the racket. Kinetics inputs were applied as loading boundary conditions to an explicit dynamics finite element solver to obtain von Mises equivalent stress and strain for six tendons: flexor digitorum superficialis, flexor carpi ulnaris, pronator teres, extensor digitorum communis, extensor carpi ulnaris, and extensor carpi radialis brevis. Kinetics and finite element results were defined with a normalized contact window (0%-100%)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The shuttlecock-racket contact window was approximately 3 ms. Racket kinematics peaked one frame at the impact and declined during contact. Shuttlecock speed surged early, with anterior-posterior-dominant impact force peaking in the first 1 ms. Hand sweep angular velocity was approximately constant while forearm sweep angular velocity rose slightly then fell. Furthermore, extensor digitorum communis exhibited the highest stress, followed by the flexor digitorum superficialis and pronator teres, with the extensor carpi radialis brevis lowest. Flexor digitorum superficialis displayed the largest strain. In terms of timing, stresses in pronator teres and flexor digitorum superficialis rose rapidly from 0% to 30% of the contact window; from 30% to 70%, pronator teres reached its peak, with extensor digitorum communis peaking in the same interval."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Impulse transmission in the forehand smash is driven by forearm pronation and wrist flexor-extensor co-contraction to stiffen the distal segments. The extensor digitorum communis and pronator teres carry relatively higher loads, supporting eccentric strengthening of the wrist extensors and the pronation chain to reduce cumulative overuse risk under high-repetition loading."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

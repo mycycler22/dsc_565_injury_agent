@@ -1,0 +1,37 @@
+{
+  "pmid": "42220592",
+  "title": "Return of match running performance following muscle strain injuries of varying severity in professional football.",
+  "year": "2026",
+  "journal": "Biology of sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "To examine match running performance recovery trajectories following muscle strain injuries of varying severity in professional male football players upon RTP. Forty-nine outfield players from a professional football team were prospectively monitored over four consecutive seasons (n=168 non-contact lower-limb muscle strain injuries). Injuries were classified by severity (time loss) as mild (1-7 days), moderate (8-28 days), or severe (> 28 days). GPS-derived match metrics were analysed across the four matches preceding injury and across 14 matches following RTP (i.e., POST 1-to-14) to characterise the recovery trajectory. Generalised additive mixed models were fitted to describe nonlinear recovery patterns. Recovery trajectories differed significantly between severity groups (R<sup>2</sup> 95%IC = 0.360 to 0.425, p < 0.001). Mild injuries caused short impairments with reductions of -19 to -27% in match running metrics at POST1 (ES: 0.25 to 1.05) that persisted up to POST2; per-minute intensities remained largely preserved. Moderate injuries caused large impairments, in sprinting, high-speed running, and accelerating/braking actions (-62% to -92% at POST1), and remained below baseline at POST3 (ES: 0.24 to 3.12); per-minute metrics revealed some residual neuromechanical deficits beyond minutes restriction. Severe injuries caused similar pronounced acute impairments (-60 to -100% at POST1) but the longest persistent deficits up to POST4 in absolute metrics and up to POST7 for high-speed running (ES: 0.28 to 2.31). Match running performance in the RTP after muscle strain injury follows a clear severity-dependent recovery: mild injuries recovered within two matches, moderate in three, severe injuries after four or more, particularly in high-speed and accelerating/braking actions."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Injuries were classified by severity (time loss) as mild (1-7 days), moderate (8-28 days), or severe (> 28 days)."
+    }
+  ],
+  "pmcid": "13217141",
+  "fulltext_chunks": [
+    {
+      "section": "RESULTS",
+      "text": "Across the four seasons, 49 outfield players (age: 28.9 ± 3.6 years; body mass: 77.4 ± 6.3 kg; height: 182.7 ± 5.5 cm) sustained 168 non-contact lower-limb muscle strain injuries (Table 1), of which 11.3% (n = 19) were recurrences. Mean time loss was 3.6 ± 2.0 days for mild (range: 1 to 7 days), 15.6 ± 5.6 days for moderate (range: 8 to 28 days), and 40.5 ± 12.8 days for severe injuries (range: 29 to 93 days)."
+    },
+    {
+      "section": "TABLE: Severity distribution of non-contact muscle strain injuries by anatomical location and playing position.",
+      "text": " | Mild (1–7 days) | Moderate (8–28 days) | Severe (> 28 days)\n | n | % | n | % | n | %\nLocation\nHamstring | 30 | 44.8 | 31 | 46.3 | 6 | 9.0\nCalf | 21 | 43.8 | 23 | 47.9 | 4 | 8.3\nAdductor | 17 | 51.5 | 13 | 39.4 | 3 | 9.1\nQuadriceps | 11 | 55.0 | 6 | 30.0 | 3 | 15.0\nField position\nWinger | 26 | 52.0 | 21 | 42.0 | 3 | 6.0\nCenter back | 14 | 45.2 | 14 | 45.2 | 3 | 9.7\nFull back | 16 | 51.6 | 10 | 32.3 | 5 | 16.1\nMidfielder | 8 | 27.6 | 17 | 58.6 | 4 | 13.8\nForward | 15 | 55.6 | 11 | 40.7 | 1 | 3.7"
+    },
+    {
+      "section": "TABLE: Overview of the Generalised Additive Mixed Models (GAMMs) used to analyse post-injury match running performance recovery trajectories, including model structure and goodness-of-fit indices.",
+      "text": "Model | Formula Simplified | Interpretation | Mean R2 (95% IC)\nm1 | Time + s(Severity) | Do injury recovery trajectories be influenced by both match time and injury severity? | 0.381 (0.301–0.462)\nm2 | Time + s(Severity) + Muscle + Recurrence | Do injury recovery trajectories differ by injury type or recurrence status? | 0.382 (0.301–0.462)\nm3 | te(Time, Severity) | Does the match phase influence the trajectory of performance recovery following injury? | 0.398 (0.320–0.476)\nm4 | te(Time, Severity) + Muscle interaction | Do injury types have different smooth recovery trajectories over time? | 0.399 (0.322–0.477)\nm5 | te(Time, Severity) + Muscle × Recurrence interaction | Do combinations of injury type and recurrence have unique recovery curves? | 0.401 (0.324–0.479)"
+    }
+  ]
+}

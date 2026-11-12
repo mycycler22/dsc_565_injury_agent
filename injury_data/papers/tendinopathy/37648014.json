@@ -1,0 +1,20 @@
+{
+  "pmid": "37648014",
+  "title": "Rehabilitation of the painful elbow.",
+  "year": "2024",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Although lateral elbow pain and medial ulnar collateral ligament injury are common musculoskeletal pathologies in overhead athletes, the evidence supporting specific interventions for managing these conditions is scarce. Management of these conditions has been guided mostly by expert opinion rather than empirical evidence, yet the lack of comparative data in the literature has not negatively affected return-to-play rates following surgery. However, an understanding of what is known regarding unimodal and multimodal treatments for lateral elbow pain and medial ulnar collateral ligament injury is needed for clinicians to select evidence-based treatment pathways and highlight what is not known to develop future high-quality investigations."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

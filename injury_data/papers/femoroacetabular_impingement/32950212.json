@@ -1,0 +1,25 @@
+{
+  "pmid": "32950212",
+  "title": "Return to Sports After Joint Preservation Hip Surgery.",
+  "year": "2020",
+  "journal": "The Orthopedic clinics of North America",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Femoroacetabular impingement results from a mismatch of congruency between the femoral head and the acetabulum. This condition is most common among young, active patients and may lead to pain, decreased quality of life, and inability to participate in athletics. Hip preservation surgery is widely performed is used as a definitive treatment option in athletes at all levels of competition. Athletes have reported high rates of return to play and satisfaction and expect rehabilitation to require approximately 4 to 6 months. This article provides an overview of femoroacetabular impingement, including diagnosis and treatment, with focus on athletes and return to play."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Athletes have reported high rates of return to play and satisfaction and expect rehabilitation to require approximately 4 to 6 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

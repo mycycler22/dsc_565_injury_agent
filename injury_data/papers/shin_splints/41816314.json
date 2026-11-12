@@ -1,0 +1,47 @@
+{
+  "pmid": "41816314",
+  "title": "Inflammatory Conditions in National Collegiate Athletic Association Women's Sports: 2009-2010 Through 2018-2019.",
+  "year": "2026",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Sport-related inflammatory conditions cannot only impair sport performance but may also accelerate the onset of age-related morbidities. Authors of recent studies have highlighted a notable prevalence of these injuries among female collegiate athletes, yet limited research exists on the burden of sport-related inflammatory conditions in this population."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To describe the epidemiology of sport-related inflammatory conditions across women's National Collegiate Athletic Association (NCAA) sports."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Injury surveillance in collegiate women's sports."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "Women competing in NCAA sports during 2009-2010 through 2018-2019."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "We examined inflammatory condition frequencies and distributions across factors such as sport, body part, competition level (Divisions I, II, or III), and season segment (preseason, regular season, or postseason). We used a Bayesian framework to estimate inflammatory condition incidence rates (per 10 000 athlete exposures [AEs]) by sport, event type, competition level, and season segment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The NCAA Injury Surveillance Program recorded 3595 inflammatory conditions across all women's sports during the study period, and injuries were most frequently attributed to the lower leg (31.1%) and knee (26.7%). The most reported specific condition was medial tibial stress syndrome (shin splints; 14.4%), followed by patellar tendinitis (12.0%). Overall, 18.1% of all inflammatory conditions were reported as recurrent injuries. The posterior mean overall injury rate was 8.09 per 10 000 AEs (95% credible interval = 5.18, 12.57), and the highest overall rate was estimated in cross country (posterior mean = 16.20; 95% credible interval = 10.26, 25.25)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our findings indicate that lower-leg inflammatory conditions, particularly among long-distance runners, warrant further attention in NCAA female athletes. In addition, our results highlight specific diagnoses that merit focused investigation, with medial tibial stress syndrome (shin splints) and patellar tendinitis emerging as the most reported conditions. Our results can help guide future research efforts aimed at better understanding the mechanisms underlying the development of inflammatory conditions in female athletes."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

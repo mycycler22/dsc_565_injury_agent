@@ -1,0 +1,32 @@
+{
+  "pmid": "32093651",
+  "title": "Musculoskeletal injuries in athletes from five modalities: a cross-sectional study.",
+  "year": "2020",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Musculoskeletal injuries (MSK-I) are a serious problem in sports medicine. Modifiable and non-modifiable factors are associated with susceptibility to these injuries. Thus, the aim of this study was to describe the prevalence of and identify the factors associated with MSK-I, including tendinopathy and joint and muscle injuries, in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this cross-sectional observational study, 627 athletes from rugby (n = 225), soccer (n = 172), combat sports (n = 86), handball (n = 82) and water polo (n = 62) were recruited at different sports training centres and competitions. Athlete profiles and the prevalence of MSK-I were assessed using a self-reported questionnaire. Only previous MSK-I with imaging confirmation and/or a positive physical exam by a specialized orthopaedist were considered. The association of the epidemiological, clinical and sports profiles of athletes with MSK-I was evaluated by a logistic regression model."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean age was 25 ± 6 years, and 60% of the athletes were male. The epidemiological, clinical and sports profiles of the athletes were different for the five sport groups. The MSK-I prevalence among all athletes was 76%, with 55% of MSK-I occurring in a joint, 48% occurring in a muscle and 30% being tendinopathy, and 19% of athletes had three investigated injuries. The MSK-I prevalence and injury locations were significantly different among sport groups. There was a predominance of joint injury in combat sports athletes (77%), muscle injury in handball athletes (67%) and tendinopathy in water polo athletes (52%). Age (≥30 years) was positively associated with joint (OR = 5.2 and 95% CI = 2.6-10.7) and muscle (OR = 4.9 and 95% CI = 2.4-10.1) injuries and tendinopathy (OR = 4.1 and 95% CI = 1.9-9.3)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There is a high prevalence of tendinopathy and joint and muscle injuries among rugby, soccer, combat sports, handball and water polo athletes. The analysis of associated factors (epidemiological, clinical and sports profiles) and the presence of MSK-I in athletes suggests an approximately 4-5-fold increased risk for athletes ≥30 years of age. The identification of modifiable and non-modifiable factors can contribute to implementing surveillance programmes for MSK-I prevention."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

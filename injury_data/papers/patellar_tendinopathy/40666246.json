@@ -1,0 +1,24 @@
+{
+  "pmid": "40666246",
+  "title": "A systematic review: impact of dry needling, isometric, and eccentric exercises on pain and function in individuals with patellar tendinopathy.",
+  "year": "2024",
+  "journal": "Frontiers in rehabilitation sciences",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "This systematic review aims to evaluate the existing body of evidence and provide a comprehensive analysis of the effects of dry needling, isometric, and eccentric exercises on pain severity and functional impairment in individuals diagnosed with patellar tendinopathy. The review was conducted in strict accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Databases including the Cochrane Library, PubMed, PEDro, and Google Scholar were systematically searched for relevant literature from 2010 to August 2022. The therapeutic effects of dry needling, isometric exercises, and eccentric exercises on patellar tendinopathy were critically assessed. The risk of bias was determined using the McMaster Critical Review Form for Quantitative Studies, while the level of evidence and recommendation grades were assigned based on the Oxford Centre for Evidence-Based Medicine guidelines. The primary outcomes of interest were pain severity and functional impairment, particularly among elite volleyball and basketball athletes suffering from patellar tendinopathy. The systematic review incorporated nine clinical trials, including two on dry needling, four on isometric exercises, and three on eccentric exercises. The quality of the included studies ranged from 70% to 93%, as evaluated through the McMaster Critical Review Form. The two dry needling trials were deemed to be of high quality (93%), while the four isometric trials were classified as moderate quality (75%). Similarly, the three trials on eccentric exercises were rated at an average of 78%, indicating moderate quality. Of the nine trials, six were randomized controlled trials, with a 1B level of evidence (Grade A recommendation), while three trials, comprising two cross-over trials and one controlled clinical trial, were categorized as 2B evidence (Grade B recommendation). The findings from this review suggest that dry needling and eccentric exercises are more effective for long-term pain reduction and improvement in knee function, whereas isometric exercises appear to provide greater benefit for short-term pain relief, particularly during athletic activity. Although physical therapy-based interventions show promise for sustained management, the limited data underscores the need for further high-quality research in this domain."
+    },
+    {
+      "label": "SYSTEMATIC REVIEW REGISTRATION",
+      "text": "www.crd.york.ac.uk/PROSPERO/display_record.asp?ID=CRD42022360057, identifier (CRD42022360057)."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

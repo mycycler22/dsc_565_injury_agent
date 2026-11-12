@@ -1,0 +1,20 @@
+{
+  "pmid": "36090915",
+  "title": "Prevalence of Achilles tendinopathy in physical exercise: A systematic review and meta-analysis.",
+  "year": "2022",
+  "journal": "Sports medicine and health science",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This comprehensive systematic review and meta-analysis assessed the prevalence of Achilles tendinopathy (AT) in physical exercise (PE). Specifically, we estimate the overall risk of AT in physical exercise and compare sport-specific estimates of AT risk. PubMed, Web of Science, Cochrane Library, and SPORTDiscus were searched before the 1<sup>st</sup> of October 2021. Random-effects, subgroup analysis, sensitivity analysis and meta-regressions were conducted, involving 16 publications. This meta-analysis found that the overall prevalence of AT was 0.06 (95%<i>CI</i>, 0.04-0.07). The prevalence of Achilles tendon rupture was 0.03 (95%<i>CI</i>, 0.02-0.05). Subgroup analysis showed that the prevalence of AT increased with age, the highest among the group aged over 45 (0.08; 95%<i>CI</i>, 0.04-0.11), and the lowest among the group under 18 years old (0.02; 95%<i>CI</i>, 0.01-0.03). The gymnastics and ball games had the highest prevalence of AT, at (0.17; 95%<i>CI</i>, 0.14-0.20) and (0.06; 95%<i>CI</i>, 0.02-0.11), respectively. The prevalence of AT in athletes (0.06; 95%<i>CI</i>, 0.04-0.08) was higher than that of amateur exercisers (0.04; 95%<i>CI</i>, 0.02-0.06) and there was no difference in the prevalence of AT between males and females. There are differences in the prevalence of AT in different ages, sport events and characteristics of participants. This systematic review and meta-analysis suggested that it was necessary to pay more attention to AT in people who were older or engaged in gymnastics."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

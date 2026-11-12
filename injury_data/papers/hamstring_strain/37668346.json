@@ -1,0 +1,33 @@
+{
+  "pmid": "37668346",
+  "title": "Quantifying demands on the hamstrings during high-speed running: A systematic review and meta-analysis.",
+  "year": "2023",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Hamstring strain injury (HSI) remains a performance, economic, and player availability burden in sport. High-speed running (HSR) is cited as a common mechanism for HSI. While evidence exists regarding the high physical demands on the hamstring muscles in HSR, meta-analytical synthesis of related activation and kinetic variables is lacking."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search of Medline, Embase, Scopus, CINAHL, SportDiscus, and Cochrane library databases was conducted in accordance with the PRISMA 2020 guidelines. Studies reporting hamstring activation (electromyographic [EMG]) or hamstring muscle/related joint kinetics were included where healthy adult participants ran at or beyond 60% of maximum speed (activation studies) or 4 m per second (m/s) (kinetic studies)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 96 studies met the inclusion criteria. Run intensities were categorized as \"slow,\" \"moderate,\" or \"fast\" in both activation and kinetic based studies with appropriate relative, and raw measures, respectively. Meta-analysis revealed pooled mean lateral hamstring muscle activation levels of 108.1% (95% CI: 84.4%-131.7%) of maximal voluntary isometric contraction (MVIC) during \"fast\" running. Meta-analysis found swing phase peak knee flexion internal moment and power at 2.2 Newton meters/kilogram (Nm/kg) (95% CI: 1.9-2.5) and 40.3 Watts/kilogram (W/kg) (95% CI: 31.4-49.2), respectively. Hip extension peak moment and power was estimated as 4.8 Nm/kg (95% CI: 3.9-5.7) and 33.1 W/kg (95% CI: 17.4-48.9), respectively."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "As run intensity/speed increases, so do the activation and kinetic demands on the hamstrings. The presented data will enable clinicians to incorporate more objective measures into the design of injury prevention and return-to-play decision-making strategies."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

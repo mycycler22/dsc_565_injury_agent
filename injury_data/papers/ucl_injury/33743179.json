@@ -1,0 +1,47 @@
+{
+  "pmid": "33743179",
+  "title": "Forearm flexor injury is associated with medial ulnar collateral ligament injury in throwing athletes.",
+  "year": "2022",
+  "journal": "PM & R : the journal of injury, function, and rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Elbow ulnar collateral ligament (UCL) injuries have become increasingly common in throwing athletes. The forearm flexors (FF) have been studied as biomechanical stabilizers for the medial elbow. However, there are no studies investigating the association of concomitant UCL injuries and FF injuries in throwing athletes."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine if throwing athletes with a complete UCL injury had a greater likelihood of concomitant FF injury than those with a partial UCL injury."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive retrospective epidemiological study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Academic, tertiary care medical center."
+    },
+    {
+      "label": "PATIENTS",
+      "text": "Throwing related UCL injuries in patients aged 12-24 years."
+    },
+    {
+      "label": "INTERVENTIONS/METHODS",
+      "text": "Electronic medical records and key word searches identified all patients from January 1, 2010 to December 31, 2019. A board certified and fellowship trained musculoskeletal radiologist reviewed all advanced imaging studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifty-four patients (46 male, 8 female, mean age 17.1 years, SD 2.3) were included. Fifty-four UCL injuries (21 complete ruptures, 16 proximal partial injuries, 17 distal partial injuries) were confirmed by magnetic resonance imaging (MRI). Twenty-eight FF injuries (22 strains, 6 tears) were diagnosed with MRI and/or MRI-arthrogram. There was a significant association between sustaining a FF injury and UCL reconstruction (UCL-R) (X<sup>2</sup>  = [1, N = 54], = 3.97, P = .046) (15/22, 68.2%), as well as FF injury and UCL injury location (X<sup>2</sup>  = [1, N = 33], = 3.86, P = .049) (10/17, distal partial UCL injury, 58.8%). Analysis of FF injury and complete UCL tear is not significant (X<sup>2</sup>  = [1, N = 54], = 3.02, P = .08) (14/21, 66.7%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The data indicate that FF injury is associated with UCL injury in throwing athletes. Future prospective studies should investigate causation versus correlation of FF and UCL injury in throwing athletes. The results of this study have applications to multiple sports medicine areas that include but are not limited to surgical, nonsurgical, prehabilitation, rehabilitation, and sports performance. This study reveals a strongly significant association between FF injury and concomitant UCL injury in throwing athletes."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

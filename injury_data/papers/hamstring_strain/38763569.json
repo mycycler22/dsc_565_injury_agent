@@ -1,0 +1,35 @@
+{
+  "pmid": "38763569",
+  "title": "Do athletes with hamstring strain injury have shorter muscle fascicles in the injured limb?",
+  "year": "2024",
+  "journal": "Journal of bodywork and movement therapies",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Previous studies have suggested that a reduced length of the biceps femoris long head (BF<sub>lh</sub>) fascicles may increase the risk of hamstring strain injury (HSI). However, it remains unclear whether the BF<sub>lh</sub> fascicles of the injured limb are shorter than those of the contralateral limb in athletes with an acute HSI."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate the between-limb asymmetry of BF<sub>lh</sub> fascicle length in amateur athletes with an acute HSI."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male amateur athletes were evaluated using ultrasound scans within five days following an HSI. The BF<sub>lh</sub> fascicle length was estimated using a validated equation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighteen injured athletes participated in this study. There was no significant difference (p = 0.27) in the length of BF<sub>lh</sub> fascicles between the injured limb (9.53 ± 2.55 cm; 95%CI 8.26 to 10.80 cm) and the uninjured limb (10.54 ± 2.87 cm; 95%CI 9.11 to 11.97 cm). Individual analysis revealed high heterogeneity, with between-limb asymmetries (percentage difference of the injured limb compared to the uninjured limb) ranging from -42% to 25%. Nine out of the 18 athletes had a fascicle length that was more than 10% shorter in the injured limb compared to the uninjured limb, five athletes had a difference of less than 10%, and four athletes had a fascicle length that was more than 10% longer in the injured limb compared to the uninjured limb."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The architecture characteristics of injured and uninjured muscles is not consistent among athletes with HSI. Therefore, rehabilitation programs focused on fascicle lengthening should be evaluated on a case-by-case basis."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

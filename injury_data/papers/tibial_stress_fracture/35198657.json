@@ -1,0 +1,19 @@
+{
+  "pmid": "35198657",
+  "title": "<i>In vivo</i> strains at the middle and distal thirds of the tibia during exertional activities.",
+  "year": "2022",
+  "journal": "Bone reports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "There is a known variance in the incidence and anatomical site of tibial stress fractures among infantry recruits and athletes who train according to established uniform training programs. To better understand the biomechanical basis for this variance, we conducted <i>in vivo</i> axial strain measurements using instrumented bone staples affixed in the medial cortex, aligned along the long axis of the tibia at the level of the mid and distal third of the bone in four male subjects. Strain measurements were made during treadmill walking, treadmill running, drop jumps from a 45 cm height onto a force plate and serial vertical jumps on a force plate. Significance levels for the main effects of location, type of activity and their interaction were determined by quasi-parametric methodologies. Compared to walking, running and vertical jumping peak axial tensile strain (με) was 1.94 (p = 0.009) and 3.92 times (p < 0.001) higher, respectively. Peak axial compression strain (με) values were found to be greater at the distal third than at the mid tibia for walking, running and vertical jumping (PR = 1.95, p-value<0.001). Peak axial compression and tension strains varied significantly between the subjects (all with p < 0.001), after controlling for strain gauge location and activity type. The study findings help explain the variance in the anatomical location of tibial stress fractures among participants doing the same uniform training and offers evidence of individual biomechanical susceptibility to tibial stress fracture. The study data can provide guidance when developing a generalized finite element model for mechanical tibial loading. For subject specific decisions, individualized musculoskeletal finite element models may be necessary."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

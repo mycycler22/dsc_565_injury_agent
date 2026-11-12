@@ -1,0 +1,31 @@
+{
+  "pmid": "38584819",
+  "title": "Auditing the Representation of Female Athletes in Sports Medicine Research: Fifth-Metatarsal Fractures.",
+  "year": "2024",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Female representation within athletics has increased as a result of Title IX, rising popularity, demand for equal compensation, and greater participation in multiple sports. Despite this, gender disparities in sports medicine research are apparent. This project serves to review the literature available on fifth-metatarsal fractures and assess the representation of female athletes in current literature."
+    },
+    {
+      "label": "METHODS",
+      "text": "We used a standardized protocol to audit the representation of female athletes in sports science and sports medicine research for fifth-metatarsal fractures. Primary factors included population, athletic caliber, menstrual status, research theme, sample of males and females, journal impact factor, and Altmetric score."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty articles met the inclusion criteria. A total of 472 fifth-metatarsal fractures were identified, with 373 of 472 fractures (79%) occurring in males and 99 of 472 (21%) in females. The majority of studies (18/30, 60%) were mixed cohort, followed by 10 male only (33.33%), 1 female only (3.33%), and 1 male vs female (3.33%). Out of 831 total patients in the 18 mixed-cohort studies, 605 of 831 patients (72.8%) were male and 226 of 831 patients (27%) were female. All 18 mixed-sex cohorts investigated health outcomes. Male-only studies evaluated health outcomes and performance metrics. No studies investigated female performance. The one female-only study investigated health outcomes and was the only study to account for menstrual status. There was a single metatarsal fracture in this study population."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Females are underrepresented in research regarding sports science and sports medicine research for fifth-metatarsal fractures. Research focused on female-only fifth-metatarsal fracture studies exploring the potential impact of female sex-specific factors such as menstrual status in study design are needed."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "36737084",
+  "title": "Assessment of return to play after an acute shoulder injury: protocol for an explorative prospective observational German multicentre study.",
+  "year": "2023",
+  "journal": "BMJ open",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "To date, there is no valid single test or battery of tests for informing return-to-play (RTP) decisions following an acute shoulder injury. The purpose of this exploratory study is to evaluate a diagnostic test battery based on a Delphi consensus at the time of unrestricted return to team training after acute shoulder injury."
+    },
+    {
+      "label": "METHODS AND ANALYSIS",
+      "text": "Data for this prospective multicentre cohort study are collected at two measurement time points: when the respective physician clears the patient for RTP (t1) and 12 months after RTP (t2). The study participants are 18-35 years old athletes participating at a professional level in the following team sports: handball, basketball, ice hockey, soccer, volleyball and American football. Maximum comparability will be ensured via uninjured matched pair teammates. To assess the subjective assessment of shoulder functioning and the athlete's readiness to RTP, patient-reported outcome measures (Western Ontario Shoulder Instability Index, Quick-Disabilities of the Arm, Shoulder and Hand, Psychological Readiness of Injured Athlete to Return to Sport and Shoulder Instability-Return to Sport after Injury) will be completed. After a medical check-up with a range of motion and anthropometric measurements as well as clinical tests, the participants will perform a structured warm-up protocol. The functional tests comprise handgrip strength, upper quarter Y-balance test, isometric strength, closed kinetic chain upper extremity stability test, wall hop test, functional throwing performance index and the unilateral seated shot put test and isokinetic tests."
+    },
+    {
+      "label": "ETHICS AND DISSEMINATION",
+      "text": "The results of this study will be disseminated through peer-reviewed publications and scientific presentations at national and international conferences. Ethical approval was obtained through the Institutional Review Board of Martin-Luther-University Halle-Wittenberg (reference number: 2022-016)."
+    },
+    {
+      "label": "TRIAL REGISTRATION NUMBER",
+      "text": "DRKS00028265."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

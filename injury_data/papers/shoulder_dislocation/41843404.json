@@ -1,0 +1,34 @@
+{
+  "pmid": "41843404",
+  "title": "Comparing external vs. internal rotation immobilization following primary anterior shoulder dislocation: a meta-analysis.",
+  "year": "2026",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Comparative Study",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Immobilization after primary anterior shoulder dislocation is a common strategy aimed at promoting capsulolabral healing and reducing recurrence risk. While internal rotation (IR) using a standard sling remains the conventional approach, external rotation (ER) braces have been introduced based on biomechanical studies suggesting improved labral coaptation. However, ER bracing has been associated with concerns regarding patient comfort and compliance. Several randomized controlled trials (RCTs) have reported inconsistent clinical outcomes. This meta-analysis aimed to compare functional and stability-related outcomes between ER and IR immobilization to evaluate whether ER offers a meaningful advantage."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search was performed across PubMed, Scopus, Embase, and Google Scholar through 8 December 2025. Eligible studies included RCTs and comparative cohort studies examining ER versus IR immobilization following a first-time anterior shoulder dislocation. Seventeen studies met inclusion criteria, including a total of 1170 patients with first-time shoulder dislocation. Outcomes included the Western Ontario Shoulder Instability Index (WOSI), dislocation recurrence rate, Constant-Murley Score, return-to-sport rate, and shoulder apprehension. Each outcome was analyzed using the subset of studies reporting that outcome."
+    },
+    {
+      "label": "RESULTS",
+      "text": "IR immobilization showed a statistically significant difference in WOSI scores (mean difference -2; 95% CI - 3 to -1; <i>p</i> = 0.002) that was clinically insignificant, as it fell below established importance thresholds. No significant differences were found between IR and ER groups in recurrence rate (<i>p</i> = 0.41), Constant score (<i>p</i> = 0.15), return-to-sport rate (<i>p</i> = 0.12), or shoulder apprehension (<i>p</i> = 0.22)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "IR and ER immobilization result in comparable functional and stability outcomes following primary anterior shoulder dislocation. Given similar recurrence and return-to-sport outcomes and no clinically meaningful difference in WOSI, routine use of ER bracing may not be warranted."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "34846539",
+  "title": "Medial patellofemoral ligament reconstruction for recurrent patellar dislocation allows a good rate to return to sport.",
+  "year": "2022",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Recurrent patellar dislocation is a frequent knee disorders in young, active patients. Medial patellofemoral ligament reconstruction (MPFLR) can restore knee stability and function, but the rate of return to sports is less clear. The aim of this study was to evaluate rate of return to sport following treatment of recurrent patellar dislocation with isolated MPFLR."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between 2011 and 2018, 113 patients with recurrent patellar dislocation were treated with isolated MPFLR at an academic center. Pre-injury sports participation and Tegner score, pre-operative subjective IKDC score, time to return to sports, and post-operative Tegner and subjective IKDC scores were collected, with a minimum of follow-up of 2 years."
+    },
+    {
+      "label": "RESULTS",
+      "text": "One hundred and three patients (91%) were evaluated at a mean of 4.5 ± 2.5-year post-operative. 92 patients (89%) participated in sports prior to onset of patellar instability. At final follow-up, 84 of these 92 patients (91%) were able to return to sports. The mean time from surgery to return to sports was 10.4 ± 8.6 months (range: 2-48 months). 62 patients (67%) returned to the same (50 patients) or higher (12 patients) level. 22 patients (26%) returned at a lower level. 19 of these patients attributed this decreased participation to ongoing knee problems. The median Tegner score was noted to decrease from 5 pre-injury to 4 post-operatively (p = 0.02)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Isolated MPFL reconstruction allowed return to pre-injury sports in 91% of patients, with 67% of patients returning to the same or higher level than pre-injury. Mean time to return to sports was 10 months and post-operative Tegner score was noted to be modestly decreased from pre-injury level."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time from surgery to return to sports was 10.4 ± 8.6 months (range: 2-48 months). 62 patients (67%) returned to the same (50 patients) or higher (12 patients) level. 22 patients (26%) returned at a lower level. 19 of these patients attributed this decreased participation to ongoing knee problems."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Mean time to return to sports was 10 months and post-operative Tegner score was noted to be modestly decreased from pre-injury level."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

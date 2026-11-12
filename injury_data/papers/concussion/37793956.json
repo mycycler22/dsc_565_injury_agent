@@ -1,0 +1,35 @@
+{
+  "pmid": "37793956",
+  "title": "Comparison of physiological outcomes after dynamic exertion between athletes at return to sport from concussion and controls: Preliminary findings.",
+  "year": "2023",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Compare physiological (heart rate, heart rate variability, and blood pressure), performance (change-of-direction task completion time and errors), and clinical (symptoms and rating of perceived exertion) outcomes during dynamic exertion between athletes at return to sport after concussion to healthy athlete controls."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Case control."
+    },
+    {
+      "label": "METHODS",
+      "text": "A sample of 23 (Female = 10; 43.5 %) athletes at medical clearance to play/activity from concussion (CONCUSS) and 23 sex-, age-, and sport-matched healthy athletes (CONTROLS) completed a 5-min seated rest before and after the dynamic exertion test. Independent sample t-tests were used to compare CONCUSS and CONTROLS for completion time, heart rate, and blood pressure; and Mann-Whitney U tests for symptoms, perceived exertion, and errors. A series of ANOVAs were conducted to compare heart rate variability between groups across pre- and post-exercise rest periods."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were no differences in heart rate, blood pressure, symptoms, perceived exertion, and errors. CONCUSS were faster on Zig Zag (p = .048) and Pro Agility (p = .018) tasks, reported lower symptom severity (p = .019), and had lower post-EXiT HRV (p < .049) than CONTROLS."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Performance, symptoms, perceived exertion, and blood pressure outcomes from dynamic exertion were equivocal between athletes at medical clearance from concussion and healthy controls, which provide empirical support for dynamic exercise to inform medical clearance clinical decision making for sport-related concussion. However, differences in autonomic nervous system functioning indicate that additional research is needed to examine temporal changes in heart rate variability and other physiological outcomes following dynamic exertion."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "37758257",
+  "title": "Ankle Sprain History Does Not Significantly Alter Single- and Dual-Task Spatiotemporal Gait Mechanics.",
+  "year": "2023",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Single- and dual-task walking gait assessments have been used to identify persistent movement and cognitive dysfunction among athletes with concussions. However, it is unclear whether previous ankle sprain injuries confound these outcomes during baseline testing. The purpose of this study was to determine the effects of (1) ankle sprain history and (2) time since prior ankle sprain injury on single- and dual-task spatiotemporal gait outcomes and cognitive measures."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "We assessed 60 college Division-I athletes (31 with ankle sprain history; 13 females and 18 males, 19.3 [0.8] y; 29 with no ankle sprain history, 14 females and 15 males, 19.7 [0.9] y) who completed injury history forms and underwent concussion baseline testing. Athletes completed single- and dual-task gait assessments by walking back and forth along an 8-m walkway for 40 seconds. Athletes wore a smartphone with an associated mobile application on their lumbar spine to record spatiotemporal gait parameters and dual-task cognitive performance. Separate multivariate analyses of variance were used to assess the effects of ankle sprain injury history on spatiotemporal measures, gait variability, and cognitive performance. We performed a multivariate regression subanalysis on athletes who reported time since injury (n = 23) to assess temporal effects on gait and cognitive performance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes with and without a history of ankle sprains had comparable spatiotemporal and gait variability outcomes during single- (P = .42; P = .13) and dual-task (P = .75; P = .55) conditions. Additionally, ankle sprain injury history did not significantly influence cognitive performance (P = .35). Finally, time since ankle sprain did not significantly affect single- (P = .75) and dual-task gait (P = .69), nor cognitive performance (P = .19)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Ankle sprain injury history did not significantly alter spatiotemporal gait outcomes nor cognitive performance during this common clinical assessment. Future studies may consider including athletes with ankle sprain injury history during concussion assessments."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

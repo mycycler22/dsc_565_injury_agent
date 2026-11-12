@@ -1,0 +1,19 @@
+{
+  "pmid": "34787048",
+  "title": "Lower knee flexion and hip extension rate of torque development in athletes with previous hamstring strain injury.",
+  "year": "2022",
+  "journal": "Journal of sports sciences",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Persistent deficits in strength and voluntary activation have been observed in athletes with a history of hamstring strain injury. The mechanisms contributing to these deficits are poorly understood and consequently may not be appropriately addressed during rehabilitation. This study aimed to investigate the impact of intended knee flexor contraction mode (concentric, eccentric or isometric) on the rate of torque development and surface electromyography (sEMG) rise in athletes with and without a history of unilateral hamstring strain injury. The impact of the previous injury on hip extensor rate of torque development was also investigated. Previously injured limbs exhibited a slower rate of torque development (mean difference = -31%, p = 0.02, Cohen's d = 0.62) and biceps femoris rate of sEMG rise (mean difference = -181% · s<sup>-1</sup>, p = 0.003, Cohen's d = 1.10) during intended eccentric knee flexor contractions compared with control limbs. Previously injured (mean difference = -29%, p = 0.01, Cohen's d = 0.85) and contralateral uninjured limbs (mean difference = -31%, p = 0.007, Cohen's d = 0.73) exhibited a slower rate of torque development during isometric hip extensor contractions compared with control limbs. These findings may highlight lower levels of descending input to hamstring motoneurons in previously injured athletes."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

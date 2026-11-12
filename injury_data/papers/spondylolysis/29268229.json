@@ -1,0 +1,20 @@
+{
+  "pmid": "29268229",
+  "title": "Fatigue and damage of porcine pars interarticularis during asymmetric loading.",
+  "year": "2018",
+  "journal": "Journal of the mechanical behavior of biomedical materials",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "If the articular facets of the vertebra grow in an asymmetric manner, the developed bone geometry causes an asymmetry of loading. When the loading environment is altered by way of increased activity, the likelihood of acquiring a stress fracture may be increased. The combination of geometric asymmetry and increased activity is hypothesised to be the precursor to the stress fracture under investigation in this study, spondylolysis. This vertebral defect is an acquired fracture with 7% prevalence in the paediatric population. This value increases to 21% among athletes who participate in hyperextension sports. Tests were carried out on porcine lumbar vertebrae, on which the effect of facet angle asymmetry was simulated by offsetting the load laterally by 7mm from the mid-point. Strain in the vertebral laminae was recorded using six 3-element stacked rosette strain gauges placed bilaterally. Specimens were loaded cyclically at a rate of 2Hz. Fatigue cycles; strain, creep, secant modulus and hysteresis were measured. The principal conclusions of this paper are that differences in facet angle lead to an asymmetry of loading in the facet joints; this in turn leads to an initial increase in strain on the side with the more coronally orientated facet. The strain amplitude, which is the driving force for crack propagation, is greater on this side at all times up to fracture, the significance of this can be observed in the increased steady state creep rate (p = 0.036) and the increase in yielding and toughening mechanisms taking place, quantified by the force-displacement hysteresis (p = 0.026)."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

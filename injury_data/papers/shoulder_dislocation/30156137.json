@@ -1,0 +1,31 @@
+{
+  "pmid": "30156137",
+  "title": "Epidemiology of boxing-related upper extremity injuries in the United States.",
+  "year": "2018",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The incidence of boxing-related upper-extremity (UE) injuries in the United States has not been well characterized. Recent rule changes have been made to make participation safer for athletes, although the consequences of such rule changes on injury rates is unclear. Therefore, we sought to determine the incidence, characteristics, and trends of boxing-related UE injuries."
+    },
+    {
+      "label": "METHODS",
+      "text": "The National Electronic Injury Surveillance System (NEISS) was queried for the years 2012-2016. All UE injuries related to boxing from 2012 to 2016 that occurred during organized boxing participation were selected. Examined variables included injured body party, injury diagnosis, patient age, and sex. Annual injury incidence rates by body part and diagnosis were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean incidence of boxing-related UE injuries from 2012 to 2016 was 673 injuries (95% CI 537-809) per 100,000 person-years, with hand fractures being the most common injury (132 (95% CI 130-135) per 100,000 person-years). The incidence of UE injury significantly declined from 865 (95% CI 846-884) per 100,000 person-years in 2012 to 656 (95% CI 642-671) per 100,000 person-years in 2016 (p < 0.01). Injuries to the hand exhibited the largest decrease, declining by 33%. The majority of boxers sustaining UE injuries were male (84.4%) and between the ages of 20-39 (59.9%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Injuries to the UE due to participation in boxing accounted for thousands of emergency department visits in the United States annually, with males younger than 20 years of age, most susceptible to injury. Injuries to the hand, wrist and shoulder occurred at the highest rate. Finally, following rule changes made by sanctioning organizations in 2013, a significant decline in boxing-related UE injuries were observed."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

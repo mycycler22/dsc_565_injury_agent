@@ -1,0 +1,17 @@
+Title: Management of Hand and Wrist Injuries in NCAA Division I Football Players From a Single Institution: Factors Associated With Epidemiology, Surgical Intervention, and Return to Play. | Type: Journal Article | PMID: 37954865 | Year: 2023 | Injury query: wrist injury
+[RESULTS] Most (70%) injuries did not lead to time missed from football, whereas the remaining 30% resulted in an average of 33 ± 36 days missed.
+[FULLTEXT: Results:] Overall, 124 patients with 168 hand/wrist injuries were identified (9.9 wrist/hand injuries per year). Sprain of the thumb metacarpophalangeal (MCP) joint ulnar collateral ligament (UCL) was the most common diagnosis (19.6%). Surgery was required in 22% of injuries, with injury of the UCL of the thumb MCP joint (8/37) being the most common indication. Injuries occurring during competitive games (odds ratio = 4.29; 95% CI, 1.2-15.9) were associated with an increased risk for surgery. Most (70%) injuries did not lead to time missed from football, whereas the remaining 30% resulted in an average of 33 ± 36 days missed.
+[FULLTEXT: TABLE: Hand and Wrist Injuries Managed Operatively and Associated RTP a] Injury Type | Surgical Management, n | Mean RTP Time, days b
+Ulnar collateral ligament injury | 8 | 46
+Scaphoid fracture | 7 | 67
+Phalanx fracture | 4 | 59
+Proximal interphalangeal/distal interphalangeal dislocation | 3 | 30
+Scapholunate ligament injury | 3 | 38
+Metacarpal fracture | 3 | 6
+Radial collateral ligament injury | 2 | 25
+Triangular fibrocartilage complex tear | 1 | 53
+Trigger finger | 1 | 5
+Perilunate dislocation | 1 | 149
+Bennett fracture | 2 | 66
+Boutonniere deformity | 1 | 1
+Ulna styloid fracture | 1 | 53

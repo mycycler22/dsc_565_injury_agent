@@ -1,0 +1,28 @@
+{
+  "pmid": "27677235",
+  "title": "[Stress fracture or osteochondral lesion of the navicular bone?].",
+  "year": "2016",
+  "journal": "Nederlands tijdschrift voor geneeskunde",
+  "pub_types": [
+    "Journal Article",
+    "English Abstract"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "An osteochondral lesion of the navicular bone in the foot is rare. Differentiation from a stress fracture is difficult, since both lesions usually present as vague pain in the midfoot in active young adults. However, the typical location differs. SPECT-CT allows an etiological diagnosis to be made. As management differs for the two lesions, a correct diagnosis is important."
+    },
+    {
+      "label": "CASE DESCRIPTION",
+      "text": "A 19-year-old male athlete had pain in the dorsal right midfoot on weight-bearing. A diagnosis of 'stress fracture of the navicular bone' was made on the basis of SPECT-CT. Since conservative therapy did not help, and because the location was atypical for a stress fracture, the diagnosis was revised to 'osteochondral lesion'."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The key to the diagnosis of osteochondral lesion is its location in the central proximal third of the navicular bone. Patients with this type of lesion often undergo surgical treatment, whereas conservative therapy is sufficient in case of a stress fracture."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

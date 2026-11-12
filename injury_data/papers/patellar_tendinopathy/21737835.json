@@ -1,0 +1,39 @@
+{
+  "pmid": "21737835",
+  "title": "Prevalence of Jumper's knee among nonelite athletes from different sports: a cross-sectional survey.",
+  "year": "2011",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The prevalence of jumper's knee among nonelite athletes from different sports is unknown."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This study was undertaken to determine the prevalence of jumper's knee in nonelite athletes from different sports and to determine potential risk factors for jumper's knee."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cohort study (prevalence); Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "The authors interviewed 891 male and female nonelite athletes from 7 popular sports in The Netherlands: basketball, volleyball, handball, korfball, soccer, field hockey, and track and field. Using a specially developed questionnaire, information was obtained about individual characteristics (age, height, and weight), training background, previous and actual knee problems, and the VISA-P (Victorian Institute of Sport Assessment-Patella) score."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall prevalence of current jumper's knee was 8.5% (78 of 891 athletes), showing a significant difference between sports with different loading characteristics. Prevalence was highest among volleyball players (14.4%) and lowest among soccer players (2.5%); it was significantly higher among male athletes (51 of 502 [10.2%]) than female athletes (25 of 389 [6.4%]) (χ(2) = 3.91, P = .048). The mean duration of symptoms was 18.9 months (standard deviation [SD], 21.6; median value, 12.0; range, 2.0-59.8). The mean VISA-P score of the athletes with jumper's knee was 71.4 (SD, 13.8). Athletes with jumper's knee were significantly younger, taller, and heavier than those without jumper's knee."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Prevalence of jumper's knee is high among nonelite athletes and varies between 14.4% and 2.5% for different sports. Jumper's knee is almost twice as common among male nonelite athletes compared with female athletes. Different sport-specific loading characteristics of the knee extensor apparatus, a younger age, a taller body stature, and higher body weight seem to be risk factors associated with patellar tendinopathy."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

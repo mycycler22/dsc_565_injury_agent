@@ -1,0 +1,49 @@
+{
+  "pmid": "28761696",
+  "title": "Ankle syndesmosis repair and rehabilitation in professional rugby league players: a case series report.",
+  "year": "2017",
+  "journal": "BMJ open sport & exercise medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND/AIM",
+      "text": "The distal tibiofibular joint is described as a syndesmosis. Traditionally, severe syndesmotic injuries with diastasis have been treated surgically with screw fixation. This case series details an ankle syndesmosis tightrope repair and an accelerated rehabilitation protocol that reduces the amount of time to return to professional rugby league in the UK. The aim of this study was to describe players' journey from injury, through diagnosis to surgery, rehabilitation and return to participation, detailing time scales and methods used at each stage to highlight the change in current practice."
+    },
+    {
+      "label": "METHODS",
+      "text": "Players were identified via a single orthopaedic surgeon in the UK who specialises in ankle syndesmosis repair. Between January 2010 and September 2015, adult men playing full-time professional rugby league in the UK Super League with ankle syndesmosis injuries were identified."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighteen players from six different clubs were included. The most common mechanism of injury was forced dorsiflexion/eversion. The average return to participation was 64 days (SD 17.2, range 38-108). This compares favourably to reports of between 120 and 180 days following screw fixation."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Ankle syndesmosis tightrope repair and an accelerated rehabilitation protocol is as safe as traditional methods. The accelerated rehabilitation protocol promotes early weight-bearing and has shown to expedite the return to sport for professional Rugby League players. It is possible to return to sport 2 months after a tightrope repair and accelerated rehabilitation, compared with 3-6 months post screw fixation. This is extremely encouraging for the professional sporting population."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The average return to participation was 64 days (SD 17.2, range 38-108)."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "It is possible to return to sport 2 months after a tightrope repair and accelerated rehabilitation, compared with 3-6 months post screw fixation."
+    }
+  ],
+  "pmcid": "5530120",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Eighteen players from six different clubs were included. The most common mechanism of injury was forced dorsiflexion/eversion. The average return to participation was 64 days (SD 17.2, range 38–108). This compares favourably to reports of between 120 and 180 days following screw fixation."
+    },
+    {
+      "section": "Follow-up",
+      "text": "The average RTP for the whole group was 64 days (SD 17.2, range 38–108). A concomitant ATFL repair did not slow RTP (64 days). The player requiring an ORIF took longer to return to play (108 days RTP). Omitting this players’ data, the RTP average for the group reduces to 61.4 days. Player complaints included: scar infections (n=2); persistent ankle stiffness (n=2); posterior calf tightness (n=1), hip pain (n=1) on return to running; and medial button site irritation (n=1), a problem previously reported in the literature for this procedure.21 This player required a guided corticosteroid injection 6 weeks postoperatively, returning to sport after 65 days. One player did not adhere to his weight-bearing status early in his rehabilitation. This required counselling from the surgeon and a further week in the Aircast boot, subsequently delaying partial weight-bearing running from starting. This did not delay the player’s overall RTP time of 68 days."
+    }
+  ]
+}

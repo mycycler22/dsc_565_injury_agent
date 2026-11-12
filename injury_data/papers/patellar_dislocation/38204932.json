@@ -1,0 +1,39 @@
+{
+  "pmid": "38204932",
+  "title": "Comparison of Failure Rates at Long-term Follow-up Between MPFL Repair and Reconstruction for Recurrent Lateral Patellar Instability.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The medial patellofemoral ligament (MPFL) is the primary soft tissue restraint to lateral patellar translation and is often disrupted by lateral patellar dislocation. Surgical management for recurrent patellar instability focuses on restoring the MPFL function with repair or reconstruction techniques. Recent studies have favored reconstruction over repair; however, long-term comparative studies are limited."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare long-term clinical outcomes, complications, and recurrence rates of isolated MPFL reconstruction and MPFL repair for recurrent lateral patellar instability."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 55 patients (n = 58 knees) with recurrent lateral patellar instability were treated between 2005 and 2012 with either MPFL repair or MPFL reconstruction. The exclusion criteria were previous or concomitant tibial tubercle osteotomy or trochleoplasty and follow-up of <8 years. Pre- and postoperative descriptive, surgical, imaging, and clinical data were recorded for each patient."
+    },
+    {
+      "label": "RESULTS",
+      "text": "MPFL repair was performed on 26 patients (n = 29 knees; 14 women, 15 men), with a mean age of 18.4 years. MPFL reconstruction was performed on 29 patients (n = 29 knees; 18 women, 11 men), with a mean age of 18.2 years. At a mean follow-up of 12 years (range, 8.3-18.9 years), the reconstruction group had a significantly lower rate of recurrent dislocation compared with the repair group (14% vs 41%; <i>P</i> = .019). There were no differences in the number of preoperative dislocations or tibial tubercle-trochlear groove distance. The reconstruction group had significantly more time from initial injury to surgery compared with the repair group (median, 1460 days vs 627 days; <i>P</i> = .007). There were no differences in postoperative Tegner, Lysholm, or Kujala scores at the final follow-up. In addition, no statistically significant differences were detected in return to sport (RTS) rates (repair [81%] vs reconstruction [75%]; <i>P</i> = .610) or reoperation rates for recurrent instability (repair [21%] vs reconstruction [7%]; <i>P</i> = .13)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MPFL repair resulted in a nearly 3-fold higher rate of recurrent patellar dislocation (41% vs 14%) at the long-term follow-up compared with MPFL reconstruction. Given this disparate rate, the authors recommend MPFL reconstruction over repair because of the lower failure rate and similar, if not superior, clinical outcomes and RTS."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

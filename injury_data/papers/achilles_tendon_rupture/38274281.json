@@ -1,0 +1,43 @@
+{
+  "pmid": "38274281",
+  "title": "Open Achilles Tendon Repair.",
+  "year": "2023",
+  "journal": "JBJS essential surgical techniques",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "An open Achilles tendon repair is performed in patients who have suffered an acute rupture. All patients with this injury should be counseled on their treatment options, which include open operative repair and functional rehabilitation. We prefer the use of an open repair in high-level athletes and those who have delayed presentation. Typically, this injury-and the resulting open repair-are seen in young or middle-aged patients as well as athletes. Operative repair of a ruptured Achilles tendon is associated with a much faster return to activity/sport when compared with nonoperative alternatives. This surgical procedure is especially useful in allowing this patient population to return to their previous activity level and functional capacity as quickly as possible."
+    },
+    {
+      "label": "DESCRIPTION",
+      "text": "Open repair of a ruptured Achilles tendon begins with a 6 to 8-cm incision over the posteromedial aspect of the lower leg. Superficial and deep dissections are performed until the 2 ends of the ruptured tendon are identified. Adhesions are debrided to adequately mobilize and define the proximal and distal segments of the tendon. With use of a fiber tape suture, a modified locking Bunnell stitch is utilized to secure both ends. The fiber tape is tied securely, and the repair is reinforced with Vicryl suture (Ethicon). Once the tendon is repaired, the paratenon layer is identified and repaired with a running 0 or 2-0 Vicryl suture. This is an important step to minimize postoperative wound complications. The wound is then closed, and the extremity is splinted in maximum plantar flexion."
+    },
+    {
+      "label": "ALTERNATIVES",
+      "text": "Alternative treatments include minimally invasive surgical techniques such as percutaneous Achilles tendon repair and nonoperative treatment with functional rehabilitation, which can provide excellent outcomes but can also lead to a slight decrease in explosiveness as the patient returns to sport<sup>1,2</sup>."
+    },
+    {
+      "label": "RATIONALE",
+      "text": "Nonoperative and operative treatment of Achilles tendon rupture can both result in excellent patient outcomes. Appropriate patient selection is critical. Younger patients hoping to return to more highly competitive athletics should consider operative repair<sup>3</sup>. Possible differences have been identified in peak torque when comparing operative versus nonoperative treatment, with patients who had undergone operative repair having greater peak torque (i.e., explosiveness)<sup>2</sup>. Otherwise, findings are similar between treatment options as long as the patients meet the criteria for nonoperative treatment."
+    },
+    {
+      "label": "EXPECTED OUTCOMES",
+      "text": "Overall, the scientific literature demonstrates that the functional outcomes following operative repair are good to excellent. In a study by Hsu et al.<sup>4</sup>, 88% of patients were able to return to their baseline level of activity by 5 months postoperatively, with a complication rate of 10.6% and no reruptures. In a recent meta-analysis by Meulenkamp et al.<sup>5</sup>, the authors found that operative repair of Achilles tendon rupture was associated with a reduced risk of rerupture compared with primary immobilization (i.e., conventional cast immobilization with delayed weight-bearing for at least 6 weeks only). However, open surgical repair, minimally invasive repair, and functional rehabilitation all had similar risk of rerupture<sup>5</sup>. In a review by Ochen et al.<sup>6</sup> that analyzed 29 studies with a total of 15,862 patients, operative repair was associated with a significantly lower risk of rerupture compared with nonoperative treatment (2.3% versus 3.9%, respectively). However, operative treatment was also associated with a significantly higher complication rate compared with nonoperative treatment (4.9% versus 1.6%, respectively)<sup>6</sup>. Finally, in a meta-analysis by Soroceanu et al.<sup>7</sup>, the authors found that if early range-of-motion protocols and functional rehabilitation were utilized, operative and nonoperative treatment resulted in similar outcomes and equivalent rates of rerupture."
+    },
+    {
+      "label": "IMPORTANT TIPS",
+      "text": "To prevent rerupture of an Achilles tendon, remind patients to engage in adequate stretching and warming prior to physical activity.Palpate and locate the tendon defect prior to making the first incision.Immobilize the ankle joint in a splint for 2 weeks postoperatively in maximum plantar flexion.Pitfalls include:○ Poor suture management leading to tangling in the repair.○ Undertensioning or overtensioning of the repair, which can be avoided by sterilely draping out both legs and checking resting tension intraoperatively.○ Failure to close the paratenon, causing scarring of the skin or surrounding tissues, which can be avoided by making a relieving incision on the deep surface of the paratenon.○ Leaving suture knots on the dorsal side of the repair that may aggravate the skin."
+    },
+    {
+      "label": "ACRONYMS & ABBREVIATIONS",
+      "text": "MRI = magnetic resonance imagingESU = electrosurgical unit."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

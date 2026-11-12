@@ -1,0 +1,31 @@
+{
+  "pmid": "42788175",
+  "title": "Mapping the Research Landscape of Osteitis Pubis and Athletic Pubalgia in Soccer.",
+  "year": "2026",
+  "journal": "Orthopedic reviews",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Osteitis pubis and athletic pubalgia are important causes of chronic groin pain in soccer players and can lead to reduced performance, recurrent symptoms, and delayed return to play. Although research on these conditions has expanded with advances in sports medicine, imaging, and rehabilitation, the overall research landscape has not been fully evaluated through bibliometric methods."
+    },
+    {
+      "label": "METHODS",
+      "text": "A bibliometric analysis was conducted using the Web of Science Core Collection to evaluate publication trends, research productivity, citation influence, and major research themes related to osteitis pubis and athletic pubalgia in soccer. The search included condition-related terms such as \"osteitis pubis,\" \"pubalgia,\" \"athletic pubalgia,\" \"sports hernia,\" \"groin pain,\" and \"pubic symphysis,\" combined with sport-related terms including \"soccer,\" \"football,\" \"association football,\" and \"footballer.\" A total of 577 articles published between 1984 and 2026 were retrieved. Microsoft Excel was used to organize publication data, while VOSviewer was used to visualize country collaboration, keyword co-occurrence, and co-citation networks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Research activity increased substantially over the study period, with the highest output occurring in recent years. The United States had the most publications, followed by Australia, Denmark, and England. Leading institutions included La Trobe University, Copenhagen University Hospital, the University of Copenhagen, and Aspetar Orthopedic Sports Medicine Hospital. Keyword analysis highlighted groin pain, diagnosis, imaging, rehabilitation, management, risk factors, and return to play."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Research on osteitis pubis and athletic pubalgia in soccer has grown greatly over the past several decades. Future studies should focus on prevention, improved diagnosis, long-term outcomes, and stronger institutional collaboration."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

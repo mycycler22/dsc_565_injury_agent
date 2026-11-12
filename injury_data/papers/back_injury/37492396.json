@@ -1,0 +1,31 @@
+{
+  "pmid": "37492396",
+  "title": "Development of a video camera-type kayak motion capture system to measure water kayaking.",
+  "year": "2023",
+  "journal": "PeerJ",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In kayaking, trunk motion is one of the important factors that prevent injury and improve performance. Kinematic studies in kayaking have been reported in laboratory settings using paddling simulators and ergometers. However, such studies do not reflect kayaking on water, the actual competitive environment. Therefore, we developed a video camera-type kayak motion capture system (KMCS) wherein action cameras were fixed to a kayak to capture images of markers attached to an athlete's body. This study aimed to compare the kinematic data between KMCS and an optical motion capture system (OMCS) in kayaking and to determine the accuracy of the KMCS analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "In a competition, five elite junior female kayak athletes performed kayak paddling under the unloaded condition using a kayak. The kayak was secured using a tri-folding bench and a towel, and twenty strokes were recorded during maximal paddling. One stroke was defined as the period from right catch to left catch, and the first six strokes were used to evaluate the accuracy. Trunk angles (tilting, turning, and rotation) were examined with the simultaneous use of KMCS and OMCS, and the differences between these systems were evaluated. To ensure reliability, intraclass correlation coefficient (ICC; a two-way mixed model for absolute agreement) was calculated for each angle. Furthermore, Bland-Altman analysis was performed to understand the agreement between the two systems."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Root mean square errors (RMSEs) were 1.42° and 3.94° for turning and rotation, respectively, and mean absolute errors (MAEs) were 1.08° and 3.00° for turning and rotation, respectively. The RMSE and MAE for tilting were 2.43° and 1.76°, respectively, which indicated that the validity was comparable to that of other angles. However, the range of motion in tilting was lower than that in turning and rotation. Bland-Altman analysis showed good agreement in the total range of motion, with mean bias values of -0.84°, -0.07°, and -0.41° for tilting, turning, and rotation, respectively. The ICCs for tilting, turning, and rotation were 0.966, 0.985, and 0.973, respectively, and showed excellent reliability."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The newly developed KMCS effectively measured the trunk motion with good accuracy in kayaking. In future studies, we intend to use KMCS to measure kayaking on water and collect data for performance improvement and injury prevention."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

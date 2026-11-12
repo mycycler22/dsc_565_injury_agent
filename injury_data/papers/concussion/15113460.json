@@ -1,0 +1,32 @@
+{
+  "pmid": "15113460",
+  "title": "Duration of cognitive impairment after sports concussion.",
+  "year": "2004",
+  "journal": "Neurosurgery",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "We sought to determine the duration of cognitive impairment after sports concussion."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a study with a prospective design in which 729 athletes underwent preseason baseline testing by being administered a computerized neuropsychological test battery, followed by retesting at regular intervals after they sustained sports-related concussions. A control group consisting of nonconcussed athletes drawn from the same baseline population underwent testing at parallel intervals."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Cognitive impairment in this primarily American Academy of Neurology Grade II sample of boxing concussions was apparent on the day of injury and at 1 to 2 days postinjury. Recovery of cognitive performance occurred during the 3- to 7-day interval. Comparison with control subjects showed that absent or attenuated practice effects, in addition to frank deterioration from baseline, were indications of recent concussion."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The present findings of recovery during the 3- to 7-day interval postinjury are consistent with the American Academy of Neurology Grade II return-to-play practice parameters suggesting a 1-week time-out from participation in contact sports."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

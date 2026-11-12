@@ -1,0 +1,31 @@
+{
+  "pmid": "26675089",
+  "title": "Short biceps femoris fascicles and eccentric knee flexor weakness increase the risk of hamstring injury in elite football (soccer): a prospective cohort study.",
+  "year": "2016",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND/AIM",
+      "text": "To investigate the role of eccentric knee flexor strength, between-limb imbalance and biceps femoris long head (BFlh) fascicle length on the risk of future hamstring strain injury (HSI)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Elite soccer players (n=152) from eight different teams participated. Eccentric knee flexor strength during the Nordic hamstring exercise and BFlh fascicle length were assessed at the beginning of preseason. The occurrences of HSIs following this were recorded by the team medical staff. Relative risk (RR) was determined for univariate data, and logistic regression was employed for multivariate data."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty seven new HSIs were reported. Eccentric knee flexor strength below 337 N (RR=4.4; 95% CI 1.1 to 17.5) and possessing BFlh fascicles shorter than 10.56 cm (RR=4.1; 95% CI 1.9 to 8.7) significantly increased the risk of a HSI. Multivariate logistic regression revealed significant effects when combinations of age, history of HSI, eccentric knee flexor strength and BFlh fascicle length were explored. From these analyses the likelihood of a future HSI in older athletes or those with a HSI history was reduced if high levels of eccentric knee flexor strength and longer BFlh fascicles were present."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The presence of short BFlh fascicles and low levels of eccentric knee flexor strength in elite soccer players increases the risk of future HSI. The greater risk of a future HSI in older players or those with a previous HSI is reduced when they have longer BFlh fascicles and high levels of eccentric strength."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

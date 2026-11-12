@@ -1,0 +1,19 @@
+{
+  "pmid": "42836229",
+  "title": "National Football League Hand Injuries: Return to Sport and Performance.",
+  "year": "2026",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Introduction Injuries sustained by professional athletes can severely impact seasonal performance and future abilities. The aim of this study was to characterize the impact of phalanx, thumb, metacarpal, and carpal injuries on the performance of athletes in the National Football League (NFL). Analyzing outcomes for football players is significant because the functional demands of each position vary widely. Methods NFL players who sustained phalanx, thumb, metacarpal, or carpal fractures from the 2012-2013 to 2022-2023 seasons were identified using the public database Pro Sports Transactions. Performance data were extracted from Pro Football Reference, including player position and the number of games missed, as well as the number of games played, games started, and snap counts in the seasons prior to and following injury. Players were excluded from the study if additional injuries were sustained at the time of the hand/wrist injury or if insufficient data were available to confirm the injury. Descriptive statistics were performed to characterize the cohort. Statistical significance was defined as p < 0.05 and assessed using a single-factor ANOVA. Results A total of 304 players sustained a phalanx, thumb, metacarpal, or carpal injury, with three players having injuries in two of these categories: metacarpal, n = 110 (35.8%); carpal, n = 80 (26.1%); thumb, n = 78 (25.4%); and phalangeal, n = 39 (12.7%). Linebackers (14.6%) and wide receivers (12.8%) were found to be most likely to suffer one of these injuries. Most occurred during the preseason or in September, near the start of the regular season (p < 0.001). The average number of games missed due to an injury was 5.5 games; by injury, carpal: 6.4, phalangeal: 5.8, thumb: 5.4, and metacarpal: 4.3 (p = 0.02). Sixty-five players were injured in their rookie season and 58 in their final season. These players were excluded from further performance analysis. The average change from games played in the preceding season to those in the following season was +1.0, with no significant difference when stratified by injury. The average change in games started was +0.5 games, with thumb injuries having the most significant impact, as games started increased by an average of 2.0 games (p = 0.08). The overall average change in snap counts was +72.8; by injury, phalangeal: +120.1, carpal: +31.5, thumb: +125.7, and metacarpal: +50.0. Safeties had the greatest decrease in games played, with an average of 0.8 fewer, as well as the greatest decrease in games started, with an average of 2.0 fewer starts after injury. Safeties also had the largest decline in snap counts, with an average of 94.9 fewer snaps after injury. Conclusions Phalanx, thumb, metacarpal, and carpal fractures are common injuries in NFL players, with an average of about 25 recorded per season, and they have a measurable impact on player performance. Players missed an average of more than 5 games due to these injuries, which is nearly a third of a normal season. Fifty-eight players did not return to the NFL, suggesting that hand injuries may be costly to both players and organizations and should be carefully managed by trainers and medical staff. However, there was an overall improvement in performance among the players who returned the following season, which varied greatly depending on the position of the player. This study should help guide team physicians in anticipating the impact on players after a hand injury based on their position."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

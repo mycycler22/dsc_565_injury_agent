@@ -1,0 +1,20 @@
+{
+  "pmid": "40145631",
+  "title": "Effects of Protein Supplementation During Early Rehabilitation on Muscle Volume and Function After Acute Muscle Strain Injuries: A Randomized Controlled Trial.",
+  "year": "2025",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Muscle strain injuries are common in sports, with a high recurrence rate and loss of muscle mass. Whether protein supplementation can counteract the detrimental effects of strain injuries during rehabilitation has not been explored. We investigated the effects of protein supplementation during early rehabilitation of acute strain injuries on muscle volume and function. Fifty recreational athletes were enrolled for a double-blinded, randomized controlled trial comparing the effects of twice-daily whey protein supplementation to isocaloric placebo during early rehabilitation after acute hamstring or calf strain injuries. The primary outcome was changes in muscle volume during the 3 months of intervention, assessed by magnetic resonance imaging. Secondary outcomes included muscle strength, time to return to sport (RTS), and aponeurosis volume. Long-term changes were assessed 12 months after the injury. Muscle volume decreased in the injured muscle compared to the contralateral healthy muscle during the intervention [-9.4% (-13.5% to -5.3%), p < 0.0001], and persisted at 12 months. No effects of protein supplementation were observed. Further, there was no effect of protein supplementation on muscle strength or RTS. There was a persistent increase in aponeurosis volume associated with the injured muscle at 3 months [sixfold enlarged, +17.3 cm<sup>3</sup> (+8.3 to 26.3 cm<sup>3</sup>), p = 0.0005] and 12 months [fivefold enlarged, +10.4 cm<sup>3</sup> (5.3-15.4 cm<sup>3</sup>), p = 0.0003], but it was unaffected by protein supplementation. In conclusion, muscle strain injuries cause persistent atrophy of the injured musculature and enlargement of the muscle aponeurosis, which was not counteracted by protein supplementation during the rehabilitation period. Trial Registration: Clinical trial number: NCT04100161; Clinicaltrials.gov."
+    }
+  ],
+  "injury_query": "calf strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

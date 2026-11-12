@@ -1,0 +1,36 @@
+{
+  "pmid": "35094931",
+  "title": "Decreasing patellar tendon stiffness during exercise therapy for patellar tendinopathy is associated with better outcome.",
+  "year": "2022",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To assess the associations between: 1) baseline patellar tendon stiffness and clinical outcome after exercise therapy in athletes with patellar tendinopathy and 2) the change in patellar tendon stiffness and clinical outcome during progressive tendon-loading exercise therapy and eccentric exercise therapy."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Randomized controlled trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes with patellar tendinopathy aged 18-35 years, playing tendon-loading sports at least 3 times per week were randomized in a 1:1 ratio between progressive tendon-loading exercise therapy and eccentric exercise therapy for 24 weeks. Patellar tendinopathy was diagnosed clinically, and confirmed by ultrasound. Patellar tendon stiffness (kilopascal, kPa) was assessed using shear-wave elastography. Clinical outcome was assessed using the validated Victorian Institute of Sports Assessment (VISA-P; range 0-100) questionnaire. Both were assessed at baseline, 12 and 24 week follow-up. Adjusted general linear, mixed-linear models and Generalized Estimating Equations were used."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We included 76 athletes (58 men, mean age 24 ± 4 years). No association was found between baseline stiffness and VISA-P after 24 weeks (p = 0.52). Decreased stiffness (adjusted mean difference = 10 kPa (95% CI: 4-15) was significantly associated with improved clinical outcome at 12 weeks in all athletes (p = 0.02), and at both 12 and 24 weeks (p = 0.01) in athletes allocated to progressive tendon-loading exercise therapy."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Patellar tendon stiffness, assessed with shear-wave elastography, is unsuitable to use as a single predictive measurement for clinical outcome. Decreasing stiffness during the course of exercise therapy is associated with improved clinical outcome in athletes recovering from patellar tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

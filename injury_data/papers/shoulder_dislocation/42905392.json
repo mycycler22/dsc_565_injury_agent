@@ -1,0 +1,24 @@
+{
+  "pmid": "42905392",
+  "title": "Shoulder Instability Pediatric Management of Shoulder Instability in the Pediatric Athlete: A Contemporary Review of Current Evidence.",
+  "year": "2026",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Shoulder instability in pediatric and adolescent athletes is increasingly common and clinically complex due to early sport specialization and high-demand participation. This review aims to inform clinical decision-making by synthesizing contemporary evidence on injury patterns, diagnostic techniques, treatment options, and associated outcomes when faced with treating pediatric athletes."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Unique anatomic and developmental features specific to the pediatric population including capsular elasticity, collagen composition, open physes, and evolving glenoid and humeral morphology contribute to age-specific injury patterns and influence treatment outcomes. Younger children more frequently sustain atypical soft-tissue lesions, while adolescents experience markedly higher recurrence risk with rates of 44-77% following nonoperative management. Adolescents also develop off-track Hill-Sachs lesions more frequently than adults (24.4% vs. 3.3%), reflecting differences in immature bone mechanics. Diagnosis requires thorough history, physical examination, assessment of social and socioeconomic factors, and advanced imaging. Arthroscopic Bankart repair remains the most common surgical intervention and yields high return to sport rates (75-90%), though recurrence in pediatric patients (15-50%) substantially exceeds adult rates. Remplissage reduces recurrence in adolescents with off-track lesions, and bone augmentation procedures such as the Latarjet demonstrate lower recurrence (3-8%) in patients with significant glenoid bone loss or failed prior stabilization. Long-term outcomes in skeletally immature patients and alternative bone block procedures remain incompletely studied. Management requires individualized risk stratification based on adherence, skeletal maturity, sport demands, bone loss, lesion morphology and patient history and adherence. Although surgical stabilization provides favorable functional outcomes and high return to sport rates, recurrence remains a significant concern in younger and collision-sport athletes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

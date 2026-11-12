@@ -1,0 +1,29 @@
+{
+  "pmid": "42452719",
+  "title": "Return to Sport After Arthroscopic Bankart Repair in Professional Male Football Players.",
+  "year": "2026",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background/Objectives</b>: Traumatic anterior shoulder instability is a clinically relevant problem in professional football (soccer) players, for whom restoration of shoulder function, postoperative stability and timely return to sport are critical. Despite a growing body of evidence supporting arthroscopic Bankart repair in athletic populations, data on sport-specific outcomes in professional male football players remain limited. <b>Methods</b>: Twenty-two professional male football (soccer) players who underwent arthroscopic Bankart repair following first-time anterior traumatic shoulder instability between 2011 and 2021 were retrospectively analyzed. No control group was included. The Rowe score and American Shoulder and Elbow Surgeons (ASES) score were assessed preoperatively and at 12 months postoperatively. Return-to-sport time was defined as the time from surgery to return to competitive match play and was recorded in weeks. Recurrent instability was assessed throughout the follow-up period. IBM SPSS Statistics, v27 was used for statistical analyses. <b>Results</b>: The median age was 25 years old (15-34). The right shoulder was involved in 15 patients (68%) and the left in 7 (32%). The median time to return to sport was 18 weeks (range, 14-25). During a median follow-up of 6.5 years (range, 4-14), recurrent instability occurred in one patient (4.5%) at 14 months after surgery. After surgery, both functional scores improved significantly. The median preoperative Rowe score increased from 55 (range, 35-60) to 100 (range, 85-100) (<i>p</i> < 0.001), and the median ASES score improved from 55 (range, 40-68) to 100 (range, 85-100) (<i>p</i> < 0.001) at 12 months. Postoperative ASES and Rowe scores were positively correlated (r = 0.666, <i>p</i> = 0.001). Neither score was significantly associated with return-to-sport timing. <b>Conclusions</b>: In this retrospective series of professional male football players with first-time anterior shoulder instability, arthroscopic Bankart repair was associated with significant improvements in 12-month Rowe and ASES scores, a median return-to-sport time of 18 weeks, and a low observed recurrence rate during long-term follow-up. These findings should be interpreted within the context of the study's retrospective design and limited sample size."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The median time to return to sport was 18 weeks (range, 14-25)."
+    }
+  ],
+  "pmcid": "13363525",
+  "fulltext_chunks": [
+    {
+      "section": "3. Results",
+      "text": "A total of 22 professional male football players were included. The median age at surgery was 25 years (range, 15–34 years), and the median follow-up was 6.5 years (range, 4–14 years). The right shoulder was involved in 15 patients (68.2%) and the left shoulder in seven patients (31.8%). The median number of anchors used during surgery was 3 (range, 3–4). Nineteen players (86.4%) were right-hand dominant, and three (13.6%) were left-hand dominant. Six players (27.3%) competed in the Turkish First League, nine (40.9%) in the Second League, and seven (31.8%) in the Third League. According to playing position, seven players (31.8%) were defenders, ten (45.5%) were midfielders, and five (22.7%) were forwards. The median time to return to sport was 18 weeks (range, 14–25 weeks). During follow-up, recurrent instability was observed in one patient (4.5%) at 14 months, whereas 21 patients (95.5%) remained stable during follow-up (Table 1). Significant postoperative improvements were observed in both functional outcome measures. The median Rowe score increased from 55 (range, 35–60) preoperatively to 100 (range, 85–100) at 12 months, with a median improvement of 45 points and a large effect size (p < 0.001; effect size r = 0.88). Similarly, the median ASES score improved from 55 (range, 40–68) preoperatively to 100 (range, 85–100) postoperatively, with a median improvement of 45 points and a large effect size (p < 0.001; effect size r = 0.88) (Table 2). Spearman correlation analysis demonstrated a significant positive correlation between postoperative ASES and Rowe scores (r = 0.666, p = 0.001). No significant associations were found between functional outcome scores and return-to-sport timing (postoperative ASES: r = −0.369, p = 0.091; postoperative Rowe: r = 0.107, p = 0.635) (Table 3)."
+    }
+  ]
+}

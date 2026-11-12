@@ -1,0 +1,39 @@
+{
+  "pmid": "36151742",
+  "title": "Surgical controversies and current concepts in Lisfranc injuries.",
+  "year": "2022",
+  "journal": "British medical bulletin",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Lisfranc injuries, not as rare as previously reported, range from ligamentous to complex fracture-dislocations. Anatomical studies have identified a complex of discrete structures, and defined the anatomical characteristics of the Lisfranc joint."
+    },
+    {
+      "label": "SOURCES OF DATA",
+      "text": "A narrative evidence-based review encompassed and analyzed published systematic reviews. Outcomes included clinical and surgical decision-making, including clinical-presentation, diagnosis, pathological-assessment, surgical-management techniques and indications, post-surgical care and comparative outcomes."
+    },
+    {
+      "label": "AREAS OF AGREEMENT",
+      "text": "Better understanding of the Lisfranc complex anatomy aids surgical treatment and tactics. Prognosis is related to injury severity, estimated by the number of foot columns affected. Surgical outcome is determined by anatomical reduction for most fixation and fusion techniques. Appropriate treatment allows return to sport, improving outcome scores."
+    },
+    {
+      "label": "AREAS OF CONTROVERSY",
+      "text": "Identification of Lisfranc injuries may be improved by imaging modalities such as weight-bearing computer tomography. Recent evidence supports dorsal plate fixation as a result of better quality of reduction. In complex injuries, the use of combined techniques such as trans-articular screw and plate fixation has been associated with poorer outcomes, and fusion may instead offer greater benefits."
+    },
+    {
+      "label": "GROWING POINTS",
+      "text": "Open reduction is mandatory if closed reduction fails, highlighting the importance of understanding surgical anatomy. If anatomical reduction is achieved, acute arthrodesis is a safe alternative to open reduction internal fixation in selected patients, as demonstrated by comparable outcomes in subgroup analysis."
+    },
+    {
+      "label": "AREAS FOR DEVELOPING RESEARCH",
+      "text": "The current controversies in surgical treatment remain around techniques and outcomes, as randomized controlled trials are infrequent."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

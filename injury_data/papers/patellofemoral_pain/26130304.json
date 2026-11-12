@@ -1,0 +1,40 @@
+{
+  "pmid": "26130304",
+  "title": "Biomechanics Associated with Patellofemoral Pain and ACL Injuries in Sports.",
+  "year": "2015",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Knee injuries are prevalent among a variety of competitive sports and can impact an athlete's ability to continue to participate in their sport or, in the worst case, end an athlete's career."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim was to evaluate biomechanics associated with both patellofemoral pain syndrome (PFPS) and anterior cruciate ligament (ACL) injuries (in sports involving landing, change in direction, or rapid deceleration) across the three time points frequently reported in the literature: pre-injury, at the time of injury, and following injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "A search of the literature was conducted for research evaluating biomechanics associated with ACL injury and PFPS. The Web of Science, SPORTDiscus, EBSCO, PubMed, and CINAHL databases, to March 2015, were searched, and journal articles focused on ACL injuries and PFPS in sports that met the inclusion criteria were reviewed. The search methodology was created with the intent of extracting case-control, case, and cohort studies of knee injury in athletic populations. The search strategy was restricted to only full-text articles published in English. These articles were included in the review if they met all of the required selection criteria. The following inclusion criteria were used: (1) The study must report lower extremity biomechanics in one of the following settings: (a) a comparison of currently injured and uninjured participants, (b) a prospective study evaluating risk factors for injury, or (c) a study reporting on the injury event itself. (2) The study must include only currently active participants who were similar at baseline (i.e. healthy, high school level basketball players currently in-season) and include biomechanical analysis of either landing, change in direction, or rapid deceleration. (3) The study must include currently injured participants. The studies were graded on the basis of quality, which served as an indication of risk of bias. An adapted version of the 'Strengthening the Reporting of Observational Studies in Epidemiology' (STROBE) guidelines was used to rate observational research."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifteen journal articles focusing on ACL injuries and PFPS in sports met the inclusion criteria. These included three associated with both ACL injuries and PFPS across multiple time points. There was limited evidence for an association between ankle biomechanics and knee injury, with only one ACL injury study identifying decreased plantar flexion in association with injury."
+    },
+    {
+      "label": "LIMITATIONS",
+      "text": "Only prospective studies can determine biomechanical risk factors associated with ACL injuries and PFPS. Case studies and case-control studies do not allow for the determination of risk factors associated with both ACL injuries and PFPS as there is no certainty regarding the presence of the observed biomechanics prior to the onset of injury. Further, each study design has its own set of limitations. Lastly, the majority of the studies included in this review had adult female participants."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "By evaluating several different study designs looking at knee injuries during high-risk manoeuvres, we were able to obtain a holistic perspective of biomechanics associated with PFPS and ACL injuries. Looking at different biomechanical research approaches allowed us to assess not only the mechanism of injury, but also to look for commonalities in biomechanics (in particular, altered frontal plane mechanics at the knee and altered sagittal plane mechanics at the knee and hip) between injured and uninjured participants pre-injury, at the time of injury, and following injury, to better understand potential causes of PFPS and ACL injury. Development of injury prevention programmes should focus on correcting these mechanics observed across the three time points during high-risk manoeuvres as this may help decrease the prevalence of ACL injury and PFPS. Programmes focusing not only on neuromuscular training, but also skill-specific training focused on correcting mechanics during these high-risk manoeuvres may be of greatest benefit regarding prevention. Future research should consider the impact of cumulative loading on knee injury risk. Additionally, better techniques for assessing mechanics in-game are needed in order to facilitate injury prevention and screening strategies."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

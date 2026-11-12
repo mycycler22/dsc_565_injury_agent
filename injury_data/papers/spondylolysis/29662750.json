@@ -1,0 +1,36 @@
+{
+  "pmid": "29662750",
+  "title": "Return to Play in Adolescent Athletes With Symptomatic Spondylolysis Without Listhesis: A Meta-Analysis.",
+  "year": "2018",
+  "journal": "Global spine journal",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Meta-analysis."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To assess return to play (RTP) rates in adolescent athletes with lumbar spondylolysis without spondylolisthesis treated conservatively or operatively."
+    },
+    {
+      "label": "METHODS",
+      "text": "A review of Medline, EMBASE, and Cochrane Reviews was performed. The pooled results were performed by calculating the effect size based on the logit event rate. Studies were weighted by the inverse of the variance. Confidence intervals were reported at 95%. Heterogeneity was assessed using the <i>Q</i> statistic and <i>I</i><sup>2</sup> value."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The initial literature search resulted in 724 articles, of which 29 were deemed relevant on abstract review. Overall, 11 studies provided data for 376 patients with a pars interarticularis defect. Return to athletic competition, based on logit event rate, was found to be statistically favored after both nonoperative and operative treatment (92.2% vs 90.3%). There was no heterogeneity noted among the studies reporting nonoperative treatment (<i>Q</i> value of 4.99 and <i>I</i><sup>2</sup> value of 0). There was mild heterogeneity within the operative studies (<i>Q</i> value of 3.54 and <i>I</i><sup>2</sup> value of 15.18)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Adolescent athletes RTP 92.2% of the time with nonoperative management, compared with 90.3% when treated operatively, though both treatment groups strongly favor RTP. As this is the first study to pool results of all relevant literature, it provides strong evidence to guide decision making and help manage expectations in this unique patient population."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

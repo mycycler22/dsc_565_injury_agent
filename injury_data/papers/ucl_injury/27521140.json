@@ -1,0 +1,32 @@
+{
+  "pmid": "27521140",
+  "title": "Magnetic resonance imaging-based classification for ulnar collateral ligament injuries of the elbow.",
+  "year": "2016",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Evaluation Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Magnetic resonance imaging (MRI) arthrography has been considered the gold standard for imaging ulnar collateral ligament (UCL) injuries. No classification system has been described for UCL tears to help discuss and guide treatment options. We propose that an MRI-based UCL classification system would correlate with valgus laxity and help predict surgical management."
+    },
+    {
+      "label": "METHODS",
+      "text": "The MRIs from 240 patients who underwent UCL reconstruction were reviewed and classified according to a system based on severity and location of the UCL injury. Bilateral elbow valgus stress radiographs were used to compare the amount of valgus laxity associated with each grade of UCL injury. Additional data from the imaging review included intraligamentous calcifications, T-sign presence, and a newly described \"vacuum sign.\""
+    },
+    {
+      "label": "RESULTS",
+      "text": "The amount of valgus stress opening increased with the classification severity as follows: type I, 0.13 mm; type II, 0.20 mm; type III, 0.63 mm; and type IV, 0.76 mm."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "We propose a new classification for UCL injuries based on MRI findings that helps predict valgus laxity, improve communication, and guide treatment for UCL pathology in throwing athletes."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

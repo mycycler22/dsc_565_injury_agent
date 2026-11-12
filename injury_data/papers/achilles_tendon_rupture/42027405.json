@@ -1,0 +1,35 @@
+{
+  "pmid": "42027405",
+  "title": "Non-operative Treatment for Acute Achilles Tendon Rupture: Evaluation of Clinical Results and Tendon Lengthening on Magnetic Resonance Imaging.",
+  "year": "2026",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In previous clinical studies of Achilles tendon (AT) ruptures, there are few reports measuring the AT length after conventional non-operative treatment without early functional rehabilitation. This study reviewed the outcomes of non-operative treatment for AT ruptures and assessed tendon length using magnetic resonance imaging (MRI)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients with acute AT rupture who underwent non-operative treatment were included in this retrospective study. In our department, conventional non-operative treatment without early functional rehabilitation is used to avoid excessive tendon lengthening in patients with AT rupture. Patients wore a below-the-knee cast and performed non-weight-bearing walking for 4 weeks. Subsequently, the cast was removed, and an ankle-foot orthosis was applied for 4-6 weeks. The mean follow-up period was 28 months. Clinical outcomes were assessed using the Japanese Society for Surgery of the Foot (JSSF) ankle-hindfoot scale and the AT Total Rupture Score (ATRS). The tendon length and morphology were evaluated using MRI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Sixty-four patients (42 men, 22 women; mean age, 44 years) with acute AT rupture underwent non-operative treatment. The mean JSSF score and ATRS were 97 and 91 points, respectively. Among 43 athletes, 36 (83.7%) returned to their pre-injury level of sports participation. Tendon re-rupture occurred in 2 of 64 patients (3.1%). T2-weighted MRI revealed fusiform-shaped tendon thickening and homogeneous low-signal changes in all patients. The mean AT length measured by MRI after treatment was 66.4 mm."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Conventional non-operative treatment without early functional rehabilitation has a low re-rupture rate and favorable clinical outcomes, and MRI findings indicated good tendon healing in all patients. In our non-operative treatment, tendon lengthening increased up to 6 months post-injury. Overall, these results indicate that casting and non-weight-bearing for 4 weeks may represent a safe and effective treatment option associated with limited excessive tendon lengthening and re-rupture."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, retrospective cohort study."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

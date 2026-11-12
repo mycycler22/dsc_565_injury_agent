@@ -1,0 +1,39 @@
+{
+  "pmid": "34504899",
+  "title": "Impact of Patellar Tendinopathy on Player Performance in the National Basketball Association.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The extent to which patellar tendinopathy affects National Basketball Association (NBA) athletes has not been thoroughly elucidated."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess the impact patellar tendinopathy has on workload, player performance, and career longevity in NBA athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "NBA players diagnosed with patellar tendinopathy between the 2000-2001 and 2018-2019 seasons were identified through publicly available data. Characteristics, return to play (RTP), player statistics, and workload data were compiled. The season of diagnosis was set as the index year, and the statistical analysis compared post- versus preindex data acutely and in the long term, both within the injured cohort and with a matched healthy NBA control cohort."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 46 NBA athletes were included in the tendinopathy group; all 46 players returned to the NBA after their diagnosis. Compared with controls, the tendinopathy cohort had longer careers (10.50 ± 4.32 vs 7.18 ± 5.28 seasons; <i>P</i> < .001) and played more seasons after return from injury (4.26 ± 2.46 vs 2.58 ± 3.07 seasons; <i>P</i> = .001). Risk factors for patellar tendinopathy included increased workload before injury (games started, 45.83 ± 28.67 vs 25.01 ± 29.77; <i>P</i> < .001) and time played during the season (1951.21 ± 702.09 vs 1153.54 ± 851.05 minutes; <i>P</i> < .001) and during games (28.71 ± 6.81 vs 19.88 ± 9.36 minutes per game; <i>P</i> < .001). Players with increased productivity as measured by player efficiency rating (PER) were more likely to develop patellar tendinopathy compared with healthy controls (15.65 ± 4.30 vs 12.76 ± 5.27; <i>P</i> = .003). When comparing metrics from 1 year preinjury, there was a decrease in games started at 1 year postinjury (-12.42 ± 32.38 starts; <i>P</i> = .028) and total time played (-461.53 ± 751.42 minutes; <i>P</i> = .001); however, PER at 1 and 3 years after injury was unaffected compared with corresponding preinjury statistics."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "NBA players with a higher PER and significantly more playing time were more likely to be diagnosed with patellar tendinopathy. Player performance was not affected by the diagnosis of patellar tendinopathy, and athletes were able to RTP without any impact on career longevity."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

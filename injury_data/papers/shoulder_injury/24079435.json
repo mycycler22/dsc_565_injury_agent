@@ -1,0 +1,25 @@
+{
+  "pmid": "24079435",
+  "title": "Posterior instability caused by batter's shoulder.",
+  "year": "2013",
+  "journal": "Clinics in sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "In summary, batter’s shoulder is a rare and only recently recognized entity. This condition is posterior shoulder instability caused by a missed attempt at hitting a pitch, especially with an outside pitch. The lack of counterforce from hitting a ball produces increased forces imparted on the posterior capsulolabral complex of the lead shoulder during batting. If the player fails conservative management, she or he can undergo an arthroscopic posterior labral repair instead of debridement. After treatment, the player can expect to return to play after approximately 6 to 7 months. Initial results from a small, retrospective series demonstrate greater than 90% excellent results. These findings are similar to current literature for arthroscopic treatment of posterior instability, which reports success rates that range from 75% to 91%. Longer-term follow-up will be needed to determine the natural history and prognosis or batter’s shoulder. Based on initial results, the authors predict good to excellent results for most players with batter’s shoulder who undergo proper treatment. Additionally, with the exception of switch hitters, the nonthrowing arm is affected. This can also improve the athlete’s return to play."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "After treatment, the player can expect to return to play after approximately 6 to 7 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "35936806",
+  "title": "Back pain in adolescent athletes: a narrative review.",
+  "year": "2022",
+  "journal": "Orthopedic reviews",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Back pain in young athletes is common. Adolescents are at an increased risk for back pain related to several factors including rapid growth. Traditionally, the conversation around back pain in the adolescent age group has been centered around diagnosis and treatment; however, there are emerging studies regarding prevention."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of the present investigation is to summarize sport-specific risk factors, to describe the growing emphasis on prevention/screening, and report results on minimally invasive and surgical options."
+    },
+    {
+      "label": "METHODS",
+      "text": "The literature search was performed in Mendeley. Search fields were varied until redundant. All articles were screened by title and abstract and a preliminary decision to include an article was made. The full-text screening was performed on the selected articles. Any question regarding the inclusion of an article was discussed by at least 3 authors until an agreement was reached."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Adolescent athletes have a higher risk of developing spondylolysis and spondylolisthesis than their non-athletic counterparts. Participation in athletic activity alone, increased body mass index, varsity status, and nationally/internationally competitive status are identified are demographic risk factors. Weightlifters, gymnasts, football players, and combat athletes may be at higher risks. Increased lumbar lordosis, abdominal muscle weakness, hip flexor tightness, hamstring tightness, thoracolumbar fascia tightness, femoral anteversion, genu recurvatum, and thoracic kyphosis also predispose. Recent cadaveric and kinematic studies have furthered our understanding of pathoanatomic. There is some evidence to suggest that isokinetic testing and electromyographic data may be able to identify at-risk individuals. Perturbation-based exercise interventions can reduce the incidence of adolescent athletic back pain. There is a large body of evidence to support the efficacy of physical therapy. There is some data to support minimally invasive treatments including external bone growth simulators, steroid injections, and chemonucleolysis for specific pathologies. Endoscopic surgery results for a limited subset of patients with certain disease processes are good."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Back pain in adolescent athletes is common and may not lead to appropriate alterations in athletes' level of participation. Athletes with a higher body mass index should be counseled regarding the benefits of losing weight. Isokinetic testing and electromyographic data have the potential as diagnostic and screening tools. Strength deficits and postural control could be used to identify patients requiring early intervention and thus reduce the incidence. External bone growth simulators, steroid injections, and chemonucleolysis could potentially become conservative options in the future. When surgery is indicated, the endoscopic intervention has the potential to decrease operative time, decrease cost, and promote healing."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

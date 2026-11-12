@@ -1,0 +1,40 @@
+{
+  "pmid": "23258924",
+  "title": "Return to sports after ankle fractures: a systematic review.",
+  "year": "2013",
+  "journal": "British medical bulletin",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "This review aims to provide information on the time athletes will take to resume sports activity following ankle fractures."
+    },
+    {
+      "label": "SOURCES OF DATA",
+      "text": "We systematically searched Medline (PubMED), EMBASE, CINHAL, Cochrane, Sports Discus and Google scholar databases using the combined keywords 'ankle fractures', 'ankle injuries', 'athletes', 'sports', 'return to sport', 'recovery', 'operative fixation', 'pinning', 'return to activity' to identify articles published in English, Spanish, French, Portuguese and Italian."
+    },
+    {
+      "label": "AREAS OF AGREEMENT",
+      "text": "Seven retrospective studies fulfilled our inclusion criteria. Of the 793 patients, 469 (59%) were males and 324 (41%) were females, and of the 356 ankle fractures we obtained information on, 338 were acute and 18 stress fractures. The general principles were to undertake open reduction and internal fixation of acute fractures, and manage stress fractures conservatively unless a thin fracture line was visible on radiographs."
+    },
+    {
+      "label": "AREAS OF CONTROVERSY",
+      "text": "The best timing to return to sports after an acute ankle fracture is still undefined, given the heterogeneity of the outcome measures and results. The time to return to sports after an acute stress injury ranged from 3 to 51 weeks."
+    },
+    {
+      "label": "GROWING POINTS",
+      "text": "When facing athletes with ankle fractures, associated injuries have to be assessed and addressed to improve current treatment lines and satisfy future expectancies."
+    },
+    {
+      "label": "AREAS TIMELY FOR DEVELOPING RESEARCH",
+      "text": "The best timing to return to sports after an ankle fracture has not been established yet. The ideas of the return to activity parameter and surgeon databases including sports-related information could induce research to progress."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

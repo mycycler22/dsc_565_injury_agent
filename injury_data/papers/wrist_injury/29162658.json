@@ -1,0 +1,37 @@
+{
+  "pmid": "29162658",
+  "title": "Hand and Wrist Injuries Among US High School Athletes: 2005/06-2015/16.",
+  "year": "2017",
+  "journal": "Pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The risk of hand/wrist injuries is present across various sports. Little is known about the epidemiology of such injuries. The objective of this study was to calculate the rates of hand/wrist injuries and investigate injury patterns among high school athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athlete exposure (AE) and hand/wrist injury data were collected during 11 academic years, 2005/06 through 2015/16, from a large sample of US high schools as part of the National High School Sports-Related Injury Surveillance Study."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 6723 hand/wrist injuries sustained during 40 195 806 AEs, a rate of 1.7 per 10 000 AEs. The rate of injury in competition (3.3) was higher than in practice (1.1) (95% confidence interval: 2.8-3.1). Rates of hand/wrist injuries varied by sport, with the highest rates in football (4.3), boys' lacrosse (1.9), girls' softball (1.9), wrestling (1.8), girls' field hockey (1.7), boys' ice hockey (1.7), and girls' basketball (1.7). The most common injuries were fracture (45.0%), contusion (11.6%), and ligament sprain (9.0%). Athletes most frequently returned to play in <7 days (45.7%), but 12.4% of injuries kept athletes out ≥3 weeks."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "High school athletes are at risk for hand/wrist injuries. Such injuries can keep athletes out of play and many require substantial medical treatment. Stick and ball or puck sports and full contact sports have high rates of hand/wrist injuries relative to other sports, which is indicative of a need for sport-specific prevention efforts."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Athletes most frequently returned to play in <7 days (45.7%), but 12.4% of injuries kept athletes out ≥3 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "42671475",
+  "title": "Imaging findings of injuries associated with badminton.",
+  "year": "2026",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Badminton is characterized by distinctive biomechanical demands: high-velocity overhead strokes combined with forceful lunging, landing, and rapid multidirectional movement. These repetitive high-load mechanics generate a broad spectrum of musculoskeletal abnormalities, ranging from acute ligamentous and tendon injuries to cumulative stress-related remodeling. The shoulder and lower extremities are most frequently affected, reflecting the dual demands of explosive upper limb acceleration and high-impact lower limb deceleration. From an imaging standpoint, accurate evaluation requires recognition of these sport-specific patterns and appropriate modality selection. Radiography remains the first-line imaging modality in examinations of acute trauma, enabling assessment of fractures, avulsion injuries, and joint misalignment. Ultrasound, meanwhile, provides dynamic, real-time evaluation of tendons and ligaments, facilitating detection of tendinopathy, partial tears, ligament sprains, and Doppler hyperemia in active overuse conditions, while also enabling image-guided intervention when clinically indicated. MRI offers comprehensive evaluation of deep soft-tissue structures, cartilage surfaces, capsulolabral complexes, menisci, cruciate ligaments, and bone marrow. Fluid-sensitive sequences are essential for identifying stress reactions, subtle tendon signal abnormalities, and osseous contusions associated with pivoting or landing injuries, particularly when pathology is multifocal or internal derangement is suspected. Importantly, many imaging findings in badminton athletes are subtle and multifocal. Tendon thickening, low-grade partial tears, labral signal alterations, ligament attenuation, and stress-related marrow edema may represent repetitive mechanical loading or stress-related injury rather than overt structural failure. Therefore, integration of biomechanics, imaging characteristics, and clinical presentation is essential to differentiate clinically significant injury from asymptomatic or low-grade imaging findings and to guide appropriate management and return-to-play decisions."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

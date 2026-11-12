@@ -1,0 +1,39 @@
+{
+  "pmid": "16621702",
+  "title": "Assessment of player performance following return to sport after hamstring muscle strain injury.",
+  "year": "2006",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine if there is any decrease in playing performance of athletes following return to sport after recovery from hamstring muscle strain injury."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective cohort study."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "One professional Australian football team over two playing seasons."
+    },
+    {
+      "label": "METHODS",
+      "text": "For every game, the team coach rated player performance proportional to time spent on the ground playing (an integer score out of a maximum of 10). Player performance ratings were compared pre- and post-hamstring muscle strain injury to assess player performance upon return to sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirteen athletes had hamstring injuries and the required player ratings were available. The mean player performance rating for the entire playing season in which the player was injured was 6.9. The mean player performance rating for the two games prior to injury was 6.8 as opposed to 5.4 for the two games after return to sport. Athletes had a significantly lower player performance rating immediately upon return to sport when compared to ratings for the entire season (p<0.001) and when compared to ratings from the two games prior to injury (p<0.001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Following return to sport from hamstring injury, player performance as assessed by the team coach is reduced. This suggests that some athletes may return to sport prior to complete resolution of the injury."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

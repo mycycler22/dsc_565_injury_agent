@@ -1,0 +1,20 @@
+{
+  "pmid": "42647350",
+  "title": "Acceleration and Injury-Frame Biomechanics in Achilles Tendon Rupture: A Systematic Review.",
+  "year": "2026",
+  "journal": "Journal of functional morphology and kinesiology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background and Objectives</b>: Achilles tendon rupture (ATR) incidence has increased across sport populations, and, given its impact on elite performance, the purpose of this systematic review was to synthesize the available video analysis evidence describing the biomechanics of ATR in sport. <b>Methods</b>: Four databases were searched to June 2026 for video analysis studies reporting the mechanics of ATR in athletes. Eleven studies (2019-2026) reporting overlapping samples of ATR events in professional basketball, soccer, and American football were included and synthesized at the study level to avoid double counting. Study quality was appraised using the QA-SIVAS scale. <b>Results</b>: Non-contact mechanisms predominated in all studies reporting injury dynamics (64-100%). Acceleration from a stationary or near-stationary position was the most common movement context, with the \"false step\" frequently described as a recurrent initiating action rather than a singular cause. Ankle dorsiflexion at the injury frame was present across all studies (25.3-47.9°). A recurrent injury-frame configuration was observed, comprising trunk flexion, hip extension, knee extension or early flexion, ankle dorsiflexion, and a flat foot, reached through a progression from initial contact. <b>Conclusions</b>: ATR was predominantly a non-contact injury, most often during acceleration from a near-stationary position, reaching a broadly convergent injury-frame configuration. A rearward preparatory step recurred across studies and movement categories, but inconsistent definitions and incomplete reporting mean its overall frequency cannot be established. It remains a candidate movement feature for controlled biomechanical investigation, and future work should compare successful and injurious steps within athletes."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

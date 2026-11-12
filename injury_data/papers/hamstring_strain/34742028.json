@@ -1,0 +1,43 @@
+{
+  "pmid": "34742028",
+  "title": "Impact of prior anterior cruciate ligament, hamstring or groin injury on lower limb strength and jump kinetics in elite female footballers.",
+  "year": "2021",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare lower limb strength and countermovement jump (CMJ) kinetics between elite female footballers with and without a history of anterior cruciate ligament reconstruction (ACLR), hamstring strain, or hip/groin injury."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional."
+    },
+    {
+      "label": "SETTING",
+      "text": "Field-based."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "369 elite female Australian football, soccer and rugby league players aged 15-35."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Isometric hip adductor and abductor strength, eccentric knee flexor strength, and CMJ vertical ground reaction forces, including between-leg asymmetry. Players reported their lifetime history of ACLR, and whether they had sustained a hamstring strain, or hip/groin injury in the previous 12-months."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Players with a unilateral history of ACLR (n = 24) had significant between-leg asymmetry in eccentric knee flexor strength (mean = -6.3%, 95%CI = -8.7 to -3.9%, P < .001), isometric hip abductor strength (mean = -2.5%, 95%CI = -4.3 to -0.7%, P = .008), and CMJ peak landing force (mean = -5.5%, 95%CI = -10.9 to -0.1%, P = .046). Together, between-leg asymmetry in eccentric knee flexor strength, isometric hip abductor strength, and CMJ peak landing force distinguished between players with and without prior ACLR with 93% accuracy."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Elite female footballers with a history of ACLR, but not hamstring or hip/groin injury, exhibit persistent between-leg asymmetries in lower limb strength and jump kinetics following a return to sport."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

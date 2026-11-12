@@ -1,0 +1,31 @@
+{
+  "pmid": "34961538",
+  "title": "Quantitative evaluation of ankle cartilage in asymptomatic adolescent football players after season by T2-mapping magnetic resonance imaging.",
+  "year": "2021",
+  "journal": "Biomedical engineering online",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle sprain affects the structure and function of ankle cartilage. However, it is not clear whether the daily training and competition affect the ankle cartilage without acute injury. Changes in ankle cartilage without injury may influence future strategies to protect ankle function in athletes. This study aimed to evaluate whether the composition of ankle cartilage significantly altered in asymptomatic adolescent football players after a whole season of training and competition using T2-mapping magnetic resonance imaging (MRI)."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "12 local club's U17 asymptomatic adolescent football players without abnormalities in routine MRI were included. Routine and T2-mapping MRI were performed to measure the cartilage thickness of tibiotalar joint (TT) and posterior subtalar joint (pST) and T2 values in pre- and post-seasons. All of them took the right side as dominant foot."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the pre- and post-seasons, cartilage T2 values in TT (talus side) and pST (calcaneus side) were higher than that of TT (tibial side) and pST (talus side) (all p < 0.05), which was caused by magic angle effect and gravity load. No statistically significant differences in thickness after season in the other cartilages of ankle were found compared with that before the season (all p > 0.05). However, T2 values of TT (tibial side and talus side) cartilage in the dominant foot were significantly reduced after season (p = 0.008; p = 0.034). These results indicate that the microstructure of articular cartilage changes in the joints with greater mobility, although no trauma occurred and the gross morphology of cartilage did not change."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Changes in the T2 values of tibiotalar joint cartilage in the dominant foot of healthy young athletes before and after the season suggest that the microstructure of cartilage had changed during sports even without injury. This finding suggests that the dominant ankle joint should be protected during football to delay degeneration of the articular cartilage."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "30858042",
+  "title": "Current concepts in vitamin D and orthopaedic surgery.",
+  "year": "2019",
+  "journal": "Orthopaedics & traumatology, surgery & research : OTSR",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Vitamin D plays an important role in the musculoskeletal system of the human body. Here, we review the most current literature on vitamin D as it relates to orthopaedic surgery and the musculoskeletal system, focusing largely on non-fracture applications."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "A literature review was performed on the basic science of vitamin D metabolism, epidemiology of vitamin D levels, role of vitamin D within the musculoskeletal system, and the correlation of vitamin D with injuries and orthopaedic surgical outcomes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The existing literature suggests vitamin D plays multiple roles in the musculoskeletal system. Recent research has shed light on the importance of vitamin D in the setting of soft tissue healing and recovery in addition to affecting postoperative outcomes after common orthopaedic procedures."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Given the widespread prevalence of vitamin D deficiency, orthopaedic surgeons should be aware of the current evidence regarding clinical implications in patients with musculoskeletal complaints."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

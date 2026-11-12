@@ -1,0 +1,31 @@
+{
+  "pmid": "26118941",
+  "title": "Return to competition, re-injury, and impact on performance of preseason shoulder injuries in Major League Baseball pitchers.",
+  "year": "2015",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Major league baseball (MLB) pitchers are vulnerable to overuse injury of the upper extremity, especially in the shoulder. Injuries sustained in the preseason may have negative impact on performance following return. The goal of this study was to document the frequency of preseason shoulder injury in these athletes, as well as risk for re-injury and impact on performance following return from injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive search of MLB injury information from 2001 to 2010 of public databases yielded a cohort of MLB pitchers who sustained preseason shoulder injuries. These databases were utilized to obtain information regarding return to MLB competition, re-injury, and performance following return from injury. All performance metrics were compared to those of an age-matched control cohort."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 74 pitchers were identified who sustained a preseason shoulder injury. Only 39 (53%) returned that same season to pitch in the MLB competition. Of those that returned, nearly 50% of players were re-designated on the Disabled List during the return season. There was a decline in performance in earned run average and batting average against in the year of return. Compared to age-matched control pitchers, those with preseason shoulder injury had lower performance metrics across a number of outcomes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Preseason shoulder injury in MLB pitchers has the potential to result in high re-injury rates and decreased subsequent performance."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

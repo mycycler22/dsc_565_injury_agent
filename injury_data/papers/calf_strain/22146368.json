@@ -1,0 +1,36 @@
+{
+  "pmid": "22146368",
+  "title": "Deep vein thrombosis in a young marathon athlete.",
+  "year": "2011",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Resident's case problem."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "A 21-year-old athletic male college student presented to a direct-access physical therapy clinic with complaints of left calf pain 4 days in duration. After initial examination, a working diagnosis of calf strain was formulated. Three days following initial examination, the patient reported 80% improvement in symptoms and was performing activities of daily living pain free. Four weeks later, the patient returned with complaints of reoccurring calf pain. The patient's signs, symptoms, and history at subsequent follow-up no longer presented a consistent clinical picture of calf strain; therefore, a D-dimer assay was ordered to rule out a deep vein thrombosis (DVT)."
+    },
+    {
+      "label": "DIAGNOSIS",
+      "text": "The D-dimer was elevated so the patient was admitted to the hospital and started on low-molecular-weight heparin. A compression ultrasound revealed an extensive left superficial femoral and popliteal DVT in this otherwise healthy athlete."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Lower extremity DVT is a serious and potentially fatal disorder. Physical therapists need to be diagnostically vigilant for vascular pathology in all patients with extremity pain and swelling. Employing the best current evidenced-based screening tools to rule out vascular pathology, such as deep and superficial vein pathology, should be the goal of every clinician. The Wells score is one such screening tool that has proven to be beneficial in this area. This case report presents a dilemma in diagnosis and illustrates the importance of revisiting differential diagnoses with each patient encounter. Clinicians must consider the possibility of a DVT with every patient seen with posterior leg pain."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Diagnosis, level 4. doi:10.2519/jospt.2011.3823."
+    }
+  ],
+  "injury_query": "calf strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

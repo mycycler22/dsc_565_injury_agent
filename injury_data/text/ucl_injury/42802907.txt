@@ -1,0 +1,4 @@
+Title: Forearm Flexor Strain and Subsequent Ulnar Collateral Ligament Surgery Risk in Major League Baseball Pitchers: A Covariate-Matched Survival Analysis. | Type: Journal Article | PMID: 42802907 | Year: 2026 | Injury query: UCL injury
+[RESULTS] The mean time to RTP after flexor strain was 96.2 ± 89.2 days.
+[RESULTS] At 1 year after RTP, 9.8% of cases underwent UCL surgery versus 4.1% of controls; at 2 years, 13.0% of cases versus 7.7% of controls underwent UCL surgery.
+[RESULTS] Within cases, longer RTP time was inversely associated with 1-year UCL surgery risk (HR, 0.98/day [95% CI, 0.96-1]; <i>P</i> = .040); rates decreased across RTP quartiles from 18.8% (8-26 days) to 0% (171-347 days).

@@ -1,0 +1,20 @@
+{
+  "pmid": "39402075",
+  "title": "The validity and reliability of a Japanese version of the web-based hamstring outcome score.",
+  "year": "2024",
+  "journal": "Scientific reports",
+  "pub_types": [
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study aimed to translate a web-based hamstring outcome score (HaOS) questionnaire to the Japanese context. First, the validity and reliability of the translated questionnaires were examined among Japanese athletes. Second, the association between the previous history of hamstring strain and HaOS was examined. The translation was performed according to internationally recognized methodologies. A total of 233 athletes were asked to complete the HaOS questionnaire, and four questions were added to examine the content validity of the questionnaire. Intraclass correlation coefficient (ICC) was calculated to evaluate the test-retest reliability. Internal consistency was determined by calculating Cronbach's alpha values. The translated questionnaires had high acceptance and compliance rates, with a response rate of 84.4%. The ICC for each scale ranged from 0.80 to 0.93, and Cronbach's α from 0.72 to 0.96, confirming good reliability and high internal consistency. HaOS of the previous injury group (93.4 [78.9, 100]) was significantly lower than that of the healthy group (86.2 [68.1, 100]) (p < 0.05). The translated HaOS questionnaires were valid, reliable, and acceptable for monitoring hamstring conditions in Japanese athletes."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

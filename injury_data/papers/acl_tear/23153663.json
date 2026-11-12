@@ -1,0 +1,32 @@
+{
+  "pmid": "23153663",
+  "title": "Natural history of partial anterior cruciate ligament tears: a systematic literature review.",
+  "year": "2012",
+  "journal": "Orthopaedics & traumatology, surgery & research : OTSR",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Partial anterior cruciate ligament (ACL) tear is frequent, and indications for surgery may be raised by a diagnostic aspect associating slight laxity with no clear pivot-shift. Unlike that of complete ACL tear, the natural history of partial tear remains controversial."
+    },
+    {
+      "label": "MATERIAL AND METHOD",
+      "text": "A systematic literature review searched for referenced publications on the natural history of partial ACL tear. Twelve specific articles were retrieved. Initial diagnosis was systematically confirmed on arthroscopy, without ACL surgery. The following criteria were analyzed: firstly, preoperative: confirmation of inclusion criteria, preoperative clinical data, follow-up, arthroscopic lesion assessment, Lachman test, Pivot shift test, hemarthrosis, associated lesions and secondly, follow-up: Lachman test, Pivot shift test, revision surgery, functional clinical scores, pain, sport and return to sport, meniscal events."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Preoperatively, Lachman tests were positive (soft or delayed) in a mean 49.7% of cases (range, 0-100%); pivot shift test was systematically negative. At a mean 5.2 years' follow-up, Lachman test was \"positive\" in 47.6% of cases (range, 38-59%), with positive pivot shift test in 26.3% (range, 5-51%). 54.3% patients reported pain (range, 36-64%), and mean Lysholm score was 88.4 (17-100%). Fifty-two percent (21-60%) of patients resumed sport at their previous level."
+    },
+    {
+      "label": "DISCUSSION/CONCLUSION",
+      "text": "The natural history of non-operated partial ACL tear is good over the medium term, especially if patients limit their sports activities. The greater the functional instability, the more frequent is residual pain. Laxity, although not quantified, seems to progress with time, with a positive pivot shift test emerging in a quarter of cases. Functional management may be recommended in non-athletic patients without meniscal lesion, but surgical treatment may be recommended in other patients. Indications for ACL reconstruction are thus the same in partial as in complete tear."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

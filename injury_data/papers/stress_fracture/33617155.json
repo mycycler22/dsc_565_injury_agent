@@ -1,0 +1,24 @@
+{
+  "pmid": "33617155",
+  "title": "Adolescent Athlete Stress Fractures Associated with Vitamin D Insufficiency: Three Cases with Review of the Literature.",
+  "year": "2021",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "The authors present 3 adolescent athletes who presented with stress fractures in their lower extremities, initially diagnosed as tumors. All 3 patients received an inconclusive magnetic resonance imaging before referral; fractures were confirmed on radiographs and computed tomography. All were found to have vitamin D insufficiency."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Vitamin D insufficiency is a global epidemic mainly focused on adults and young-adult athletes. These case reports raise concerns about a growing prevalence of vitamin D insufficiency in adolescents, the potential risk of stress fracture, and the need for screening and possible supplementation in adolescent athletes to improve their bone health."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

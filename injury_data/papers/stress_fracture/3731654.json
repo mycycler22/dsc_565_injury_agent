@@ -1,0 +1,20 @@
+{
+  "pmid": "3731654",
+  "title": "Insufficiency fractures of the pelvis.",
+  "year": "1986",
+  "journal": "Clinical nuclear medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "There are two kinds of stress fracture. One is fatigue fracture of a healthy bone during unusual mechanical overloading. This kind is seen particularly in young persons, such as soldiers and athletes, and most often affects the metatarsals, calcaneum, tibia, and fibula. The second kind is insufficiency fracture, in which the bone has become fragile because of age, metabolic disorder, static disorder of a leg, or prior orthopedic surgery, and cannot withstand even moderate stress. This type of fracture particularly affects the elderly, and is by far most frequent in the pelvis. Bone imaging is very helpful in early diagnosis of stress fractures, because as soon as there are clinical signs it reveals some degree of very localized uptake."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

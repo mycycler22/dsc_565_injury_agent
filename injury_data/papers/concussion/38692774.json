@@ -1,0 +1,24 @@
+{
+  "pmid": "38692774",
+  "title": "The Evaluation and Management of Concussion to Optimize Safe Recovery.",
+  "year": "2024",
+  "journal": "Primary care",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussion is a mild traumatic brain injury causing temporary neurologic dysfunction. Symptoms following concussion are variable and generally are expected to resolve within about 1 month, but some patients experience persistent and prolonged symptoms. An early return to safe, symptom-limited activity is now favored, using targeted rehabilitation and treatments. Accommodations may be needed to facilitate return-to-school and work following concussion. Athletes should not be cleared for a full return to sport until they have recovered from a concussion and completed a return-to-play progression, in addition to returning to work/school fully."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Symptoms following concussion are variable and generally are expected to resolve within about 1 month, but some patients experience persistent and prolonged symptoms."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

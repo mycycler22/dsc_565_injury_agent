@@ -1,0 +1,20 @@
+{
+  "pmid": "42026626",
+  "title": "Remnant-preserving selective posterolateral bundle reconstruction for partial ACL tears: a retrospective comparative study of functional outcomes, graft maturation, and return-to-sport rates with and without biologic augmentation.",
+  "year": "2026",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "PURPOSE: To compare functional outcomes, MRI graft maturation, and return-to-sport rates following remnant-preserving selective posterolateral (PL) bundle anterior cruciate ligament (ACL) reconstruction with and without intraoperative leukocyte-poor platelet-rich plasma (PRP) augmentation in patients with arthroscopically confirmed isolated PL-bundle tears. METHODS: This retrospective comparative cohort study included all consecutive patients who underwent standardized remnant-preserving selective PL-bundle ACL reconstruction using quadrupled semitendinosus autograft at a single institution between January 2020 and December 2023. Patients were allocated to two parallel groups according to an institutional protocol change in July 2022: no biologic augmentation (Group A) or leukocyte-poor PRP injected at the graft–remnant interface and tibial tunnel (Group B). All procedures were performed by the same senior surgeon with an identical anatomic transportal technique, and all patients followed the same accelerated, criterion-based rehabilitation protocol. RESULTS: Return to pre-injury sport level at 24 months was achieved by 69% in Group A versus 88% in Group B (risk ratio 1.28, 95% CI 1.01–1.63; p = 0.029), with mean return time 9.3 ± 1.7 versus 7.4 ± 1.4 months (p = 0.002). The advantage persisted after multivariable adjustment (adjusted OR 3.1, 95% CI 1.2–8.4; p = 0.022). Knee stability (KT-1000 1.4 ± 0.8 vs. 1.2 ± 0.7 mm; p = 0.19) and IKDC scores (95.4 ± 3.2 vs. 96.2 ± 2.9; p = 0.11) were equivalent. At 12 months, the PRP group showed superior graft maturation (signal-to-noise quotient 2.7 ± 0.9 vs. 1.8 ± 0.6, p < 0.001; mature ligamentization 64% vs. 86%, p = 0.008; tunnel widening 1.9 ± 0.7 vs. 1.4 ± 0.5 mm, p = 0.002), better neuromuscular symmetry, proprioception, and ACL-RSI scores. Complications were low and comparable (9.5% vs. 7.0%; p = 0.66), with no graft failures. CONCLUSION: Leukocyte-poor PRP augmentation significantly enhanced return-to-sport rates and timelines, early graft maturation, and neuromuscular recovery after remnant-preserving selective PL-bundle ACL reconstruction while preserving equivalent long-term stability and safety. Prospective randomized trials are warranted."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

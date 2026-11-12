@@ -1,0 +1,19 @@
+{
+  "pmid": "34234693",
+  "title": "Elasticity of the Achilles Tendon in Individuals With and Without Plantar Fasciitis: A Shear Wave Elastography Study.",
+  "year": "2021",
+  "journal": "Frontiers in physiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The elastic properties of the Achilles tendon (AT) are altered in local injury or other diseases and in response to changes in mechanical load. Recently, elastography has been used to evaluate variations in tendon elastic properties, mainly among healthy individuals or athletes. Therefore, this study evaluated the biomechanical changes in ATs in individuals with and without plantar fasciitis (PF). The purposes were as follows: (1) to evaluate the passive stiffness of three regions of the AT which defined as 0 (AT0 cm), 3 (AT3 cm), and 6 cm (AT6 cm) above the calcaneal tuberosity in participants with and without PF, (2) to investigate the interplay between the passive stiffness in patients with PF and pain, (3) to detect optimal cut-off points of stiffness of the AT in assessing individuals with chronic PF, and (4) to determine the correlation between the plantar fascia thickness (PFT) and pain. This cross-sectional study included 40 participants (mean age = 51 ± 13 years). When the ankle was in a relaxed position, patients with PF experienced increased passive stiffness in AT0 cm (<i>p</i> = 0.006) and AT3 cm (<i>P</i> = 0.003), but not in the neutral position. Significant correlations were observed between pain and stiffness of AT (AT0 cm <i>r</i> = 0.489, <i>P</i> = 0.029; AT3 cm <i>r</i> = 487, <i>P</i> = 0.030; AT6 cm <i>r</i> = 0.471, <i>P</i> = 0.036), but not in the PFT (<i>P</i> = 0.557). Optimal cut-off stiffness was AT (452 kPa) in the relaxed ankle position. The plantar fascia of patients with PF was significantly thicker than that of the controls (<i>P</i> < 0.001). Findings from the present study demonstrate that tendon stiffness is a good indicator of the clinical situation of patients with PF. Monitoring passive tendon stiffness may provide additional information to assess severity of the condition and guide therapeutic. The treatment programs for PF should also be tailored to the distal AT, as conventional therapy might not be targeted to tight tendons."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

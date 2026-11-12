@@ -1,0 +1,20 @@
+{
+  "pmid": "42074879",
+  "title": "Stress Fracture in Athletes: A Practical Approach.",
+  "year": "2026",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Stress fractures (SFs) are a common overuse injury in athletes and represent the severe end of the bone stress injury (BSI) continuum. They result from repetitive mechanical loading exceeding the bone's capacity for adaptation and are associated with impaired performance, prolonged time away from sport, and risk of recurrence if not appropriately managed. This narrative review provides a clinically oriented synthesis of current evidence on the epidemiology, pathophysiology, risk factors, diagnosis, management, and prevention of SFs in athletes. Particular emphasis is placed on modifiable contributors, including training load errors, neuromuscular fatigue, and low energy availability within the framework of Relative Energy Deficiency in Sport (RED-S). Diagnostic evaluation is discussed using a stepwise clinical approach integrating history, physical examination, targeted laboratory assessment, and imaging, with magnetic resonance imaging (MRI) as the reference standard for early detection and severity grading. Management is presented through a risk-based framework combining MRI severity and anatomical site classification to guide treatment decisions and return-to-sport pathways. While most low-risk SFs respond to conservative strategies, high-risk lesions require closer monitoring and, in selected cases, early surgical consideration. This review proposes a practical clinical framework to support decision-making in athletes with suspected or confirmed SFs, aiming to improve early diagnosis, optimize management, and reduce recurrence risk in sports medicine practice."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

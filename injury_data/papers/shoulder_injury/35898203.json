@@ -1,0 +1,39 @@
+{
+  "pmid": "35898203",
+  "title": "Injuries Affecting Intercollegiate Water Polo Athletes: A Descriptive Epidemiologic Study.",
+  "year": "2022",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There are few data on injuries suffered by collegiate water polo athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the epidemiology of injuries suffered by National College Athletic Association (NCAA) male and female water polo players by using injury surveillance data over a 5-year period."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Deidentified data on all water polo injuries and illnesses recorded in the Pac-12 Sports Injury Research Archive from July 2016 through June 2021 were obtained and analyzed. Three men's and 4 women's teams were observed for the entire 5-year period, and 1 men's and 1 women's team was observed from July 2018 through June 2021."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the observation period, 729 injuries were recorded in the database, with no differences in overall injury rates between male and female athletes (relative risk [RR] = 1.0; 95% CI, 0.9-1.2); 33.7% of injuries required a physician encounter, and 3.6% required surgery. The shoulder was the most injured body part, making up 20.6% of all injuries, followed by the head/face (18.8%) and hand/wrist/forearm (11.7%). Shoulder tendinopathy was the most common shoulder injury diagnosis (4.5% of all injuries). Concussion was the most common injury diagnosis overall, making up 11.4% of injuries, and 81.9% of concussions occurred outside of competition. Male athletes were significantly more likely than female athletes to have a concussion in an off-season practice (RR, 3.25; 95% CI, 1.2-8.8) and via contact with another player (RR, 2.9; 95% CI, 1.3-6.4). Half of the 26 surgical procedures occurring over the observation period were for chronic joint trauma of the groin/hip/pelvis/buttock, with 9 of those 13 being for femoroacetabular impingement specifically."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Among NCAA water polo athletes, the shoulder was the most injured body part; however, shoulder injuries rarely required missed time from sport or necessitated surgical intervention. Concussions were the most common injury diagnosis, had the worst return-to-play outcomes among common diagnoses, and were mostly sustained outside of competition. Femoroacetabular impingement was found to be the dominant diagnosis for which surgical intervention was required."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

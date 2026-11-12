@@ -1,0 +1,39 @@
+{
+  "pmid": "30560142",
+  "title": "Athletes With Musculoskeletal Injuries Identified at the NFL Scouting Combine and Prediction of Outcomes in the NFL: A Systematic Review.",
+  "year": "2018",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Prior to the annual National Football League (NFL) Draft, the top college football prospects are evaluated by medical personnel from each team at the NFL Scouting Combine. On the basis of these evaluations, each athlete is assigned an orthopaedic grade from the medical staff of each club, which aims to predict the impact of an athlete's injury history on his ability to participate in the NFL."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "(1) To identify clinical predictors of signs, symptoms, and subsequent professional participation associated with football-related injuries identified at the NFL Combine and (2) to assess the methodological quality of the evidence currently published."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was conducted in accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. We reviewed all studies that examined musculoskeletal injuries identified among athletes at the NFL Combine and associated outcomes. Data on signs, symptoms, and subsequent NFL participation were collected, and the methodological quality of the studies was assessed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 32 studies, including 30 injury-specific studies, met the inclusion criteria. Twenty studies analyzed data collected at the NFL Combine from 2009 and later. When compared with matched controls, athletes with a history of a cervical or lumbar spine injury, rotator cuff repair, superior labrum anterior-posterior repair, anterior cruciate ligament reconstruction, full-thickness chondral lesions of the knee, or Lisfranc injury played in significantly fewer games early in their NFL careers. Additionally, athletes with a history of a cervical or lumbar spine injury, rotator cuff repair, and navicular injury had decreased career lengths versus controls. Defensive players and linemen were found to have decreased participation in the NFL for several injuries, including prior meniscectomy, anterior cruciate ligament reconstruction, and shoulder instability. Career length follow-up, measures of athletic participation, and matching criteria were highly variable among studies."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "For medical professionals caring for professional football athletes, this information can help guide orthopaedic grading of prospects at the NFL Combine and counseling of athletes on the potential impact of prior injuries on their professional careers. For future studies, improvements in study methodology will provide greater insight into the efficacy of current treatments and areas that require further understanding."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "24121082",
+  "title": "Is there a potential relationship between prior hamstring strain injury and increased risk for future anterior cruciate ligament injury?",
+  "year": "2014",
+  "journal": "Archives of physical medicine and rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strain injuries (HSIs) are the most prevalent injury in a number of sports, and while anterior cruciate ligament (ACL) injuries are less common, they are far more severe and have long-term implications, such as an increased risk of developing osteoarthritis later in life. Given the high incidence and severity of these injuries, they are key targets of injury preventive programs in elite sport. Evidence has shown that a previous severe knee injury (including ACL injury) increases the risk of HSI; however, whether the functional deficits that occur after HSI result in an increased risk of ACL injury has yet to be considered. In this clinical commentary, we present evidence that suggests that the link between previous HSI and increased risk of ACL injury requires further investigation by drawing parallels between deficits in hamstring function after HSI and in women athletes, who are more prone to ACL injury than men athletes. Comparisons between the neuromuscular function of the male and female hamstring has shown that women display lower hamstring-to-quadriceps strength ratios during isokinetic knee flexion and extension, increased activation of the quadriceps compared with the hamstrings during a stop-jump landing task, a greater time required to reach maximal isokinetic hamstring torque, and lower integrated myoelectrical hamstring activity during a sidestep cutting maneuver. Somewhat similarly, in athletes with a history of HSI, the previously injured limb, compared with the uninjured limb, displays lower eccentric knee flexor strength, a lower hamstrings-to-quadriceps strength ratio, lower voluntary myoelectrical activity during maximal knee flexor eccentric contraction, a lower knee flexor eccentric rate of torque development, and lower voluntary myoelectrical activity during the initial portion of eccentric contraction. Given that the medial and lateral hamstrings have different actions at the knee joint in the coronal plane, which hamstring head is previously injured might also be expected to influence the likelihood of future ACL. Whether the deficits in function after HSI, as seen in laboratory-based studies, translate to deficits in hamstring function during typical injurious tasks for ACL injury has yet to be determined but should be a consideration for future work."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

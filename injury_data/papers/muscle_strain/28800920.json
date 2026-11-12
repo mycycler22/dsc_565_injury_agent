@@ -1,0 +1,46 @@
+{
+  "pmid": "28800920",
+  "title": "Does Platelet-Rich Plasma Lead to Earlier Return to Sport When Compared With Conservative Treatment in Acute Muscle Injuries? A Systematic Review and Meta-analysis.",
+  "year": "2018",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To compare the time to return to sport and reinjury rate after platelet-rich plasma (PRP) injection versus control therapy (i.e., physiotherapy or placebo injection) in patients with acute grade I or II muscle strains."
+    },
+    {
+      "label": "METHODS",
+      "text": "All eligible studies comparing PRP against a control in the treatment of acute (≤7 days) grade I or II muscle strains were identified. The primary outcome was time to return to play. The secondary outcome was the rate of reinjury at a minimum of 6 months of follow-up. Subgroup analysis was performed to examine the efficacy of PRP in hamstring muscle strains alone. The checklist to evaluate a report of a nonpharmacologic trial (CLEAR-NPT) was used to assess the quality of studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Five randomized controlled trials including a total of 268 patients with grade I and II acute muscle injuries were eligible for review. The pooled results revealed a significantly earlier return to sport for the PRP group when compared with the control group (mean difference, -5.57 days [95% confidence interval, -9.57 to -1.58]; P = .006). Subgroup analysis showed no difference in time to return to sport when comparing PRP and control therapy in grade I and II hamstring muscle strains alone (P = .19). No significant difference was noted in the rate of reinjury between the 2 groups (P = .50) at a minimum of 6 months of follow-up."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Evidence from the current literature, although limited, suggests that the use of PRP may result in an earlier return to sport among patients with acute grade I or II muscle strains without significantly increasing the risk of reinjury at 6 months of follow-up. However, no difference in time to return to sport was revealed when specifically evaluating those with a grade I or II hamstring muscle strain."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level II, meta-analysis of level I and II studies."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The pooled results revealed a significantly earlier return to sport for the PRP group when compared with the control group (mean difference, -5.57 days [95% confidence interval, -9.57 to -1.58];"
+    },
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "Evidence from the current literature, although limited, suggests that the use of PRP may result in an earlier return to sport among patients with acute grade I or II muscle strains without significantly increasing the risk of reinjury at 6 months of follow-up."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

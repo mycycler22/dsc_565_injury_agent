@@ -1,0 +1,39 @@
+{
+  "pmid": "38686323",
+  "title": "Association Between Patellar Tendon Abnormality and Land-Jump Biomechanics in Male Collegiate Basketball Players During the Preseason.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy is a degenerative condition that predominantly affects jumping athletes. Symptoms may be subtle or nonexistent at preseason, but structural abnormalities may be present. Assessing patellar tendon abnormality (PTA) through magnetic resonance imaging (MRI) and ultrasound (US) and classifying symptoms using the Victorian Institute for Sport Assessment-Patellar tendon (VISA-P) may provide useful insights if combined with biomechanics measurements."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To (1) assess whether land-jump biomechanical patterns are associated with clinically pertinent PTA as seen on imaging and through VISA-P scores and (2) model the contributing risk and accuracy of biomechanics to classify PTA and symptomatic observations."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 26 National Collegiate Athletic Association Division I and II male basketball players (n = 52 limbs) were recruited during the preseason. We collected VISA-P scores, bilateral PTA through US and MRI morphology measurements, and bilateral 3-dimensional lower extremity kinematics and kinetics measurements from a land-jump test from an 18-inch-high (45.7-cm-high) box. Statistically, each limb was treated independently. The association of biomechanics with PTA and symptoms (VISA-P score <80) was tested with multivariate models and post hoc tests. Logistic regression modeled relative risk and accuracy of biomechanical variables to classify PTA and symptomatic limbs."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 19 to 24 limbs with PTA depending on US and MRI measurements. Differences in hip and knee kinematic strategies and ground-reaction loads were associated with PTA and symptomatic limbs. Peak landing vertical ground-reaction force was significantly decreased (169 ± 26 vs 195 ± 29 %body weight; <i>P</i> = .001), and maximum hip flexion velocity was significantly increased (416 ± 74 vs 343 ± 94 deg/s; <i>P</i> = .005) in limbs with versus without PTA on imaging. Knee flexion at the initial contact was decreased in symptomatic versus healthy limbs (17°± 5° vs 21°± 5°, respectively; <i>P</i> = .045). Regression models classified PTA limbs and symptomatic limbs with 71.2% to 86.5% accuracy. Hip and knee maximum flexion velocity and vertical ground-reaction force variables were most common across models observing clinically pertinent PTA."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our findings suggested that functional kinematic and kinetic biomechanical strategies at the hip and knee were associated with PTA, identified on imaging, and symptomatic limbs."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

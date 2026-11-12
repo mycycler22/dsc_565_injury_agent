@@ -1,0 +1,20 @@
+{
+  "pmid": "27637667",
+  "title": "Foot and Ankle Stress Fractures in Athletes.",
+  "year": "2016",
+  "journal": "The Orthopedic clinics of North America",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The incidence of stress fractures in the general athletic population is less than 1%, but may be as high as 15% in runners. Stress fractures of the foot and ankle account for almost half of bone stress injuries in athletes. These injuries occur because of repetitive submaximal stresses on the bone resulting in microfractures, which may coalesce to form complete fractures. Advanced imaging such as MRI and triple-phase bone scans is used to evaluate patients with suspected stress fracture. Low-risk stress fractures are typically treated with rest and protected weight bearing. High-stress fractures more often require surgical treatment."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "28387560",
+  "title": "Clinical Evaluation of the Concussed Athlete: A View From the Sideline.",
+  "year": "2017",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "The sideline assessment of concussion is challenging, given its variable presentations, the limited sensitivity and specificity of sideline assessment tools, and how the presentation of the injury evolves over time. In addition, the diagnostic process, as well as the tools used to assess and manage concussion, continue to progress as research and what we know about concussion advance. This paper focuses on the initial assessment on the sideline by reviewing the concussion-evaluation literature, drawing from clinical experience to emphasize a standardized approach, and underscoring the importance of both familiarity with the athlete and clinical judgment."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To review the evidence regarding the clinical assessment of sport-related concussion on the sideline. Additional considerations included making same-day return-to-play decisions, the sensitivity and specificity of sideline testing, and the importance of ongoing assessment and follow-up of injured athletes."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "I conducted a systematic literature review of the assessment of concussion on the sideline. The PubMed and MEDLINE databases were searched using the key term athletic injuries with concussion and mild traumatic brain injury. The search was refined by adding the key terms sideline assessment and on-field assessment. In addition, select additional position statements and guidelines on concussion were included in the review."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The PubMed search using athletic injuries and concussion as key terms produced 1492 results. Refining the search by sideline assessment and on-field assessment produced 29 and 35 results, respectively. When athletic injuries and traumatic brain injury were combined, 1912 results were identified. Refining the search by sideline assessment and on-field assessment led to 28 and 35 results, respectively. Only papers that were English-language titles, original work, and limited to human participants and included sideline assessments of sport-related concussion in athletes older than 13 years were considered for this discussion. A total of 96 papers were reviewed, including systematic reviews, consensus guidelines, and position statements."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The sideline assessment of sport-related concussion is challenging given the elusiveness and variability of presentation, reliance on athlete-reported symptoms, and the varying specificity and sensitivity values of sideline assessment tools. In addition, the recognition of injury and assessment often occur in a time-pressured environment, requiring rapid disposition and decision making. Clinicians should begin the evaluation by assessing for cervical spine injury, intracranial bleeding, and other injuries that can present in a similar fashion or in addition to concussion. The sideline concussion evaluation should consist of a symptom assessment and a neurologic examination that addresses cognition (briefly), cranial nerve function, and balance. Emerging tools that assess visual tracking may provide additional information. The sensitivity and specificity of commonly implemented sideline assessment tools are generally good to very good, especially for symptom scores and cognitive evaluations performed within 48 hours of injury, and they are improved when a baseline evaluation is available for comparison. Serial assessments are often necessary as objective signs and symptoms may be delayed. A standardized assessment is paramount in evaluating the athlete with a suspected concussion, but there is no replacement for being familiar with the athlete and using clinical judgment when the athlete seems \"not right\" despite a \"normal\" sideline assessment. Ultimately, the clinician should err on the side of caution when making a return-to-play decision."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

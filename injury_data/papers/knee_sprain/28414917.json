@@ -1,0 +1,47 @@
+{
+  "pmid": "28414917",
+  "title": "Epidemiology of Knee Sprains in Youth, High School, and Collegiate American Football Players.",
+  "year": "2017",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "  Variations in knee-sprain incidence among competition levels are unclear but may help inform prevention strategies in American football players."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "  To describe the epidemiology of knee sprains in youth, high school, and collegiate football players."
+    },
+    {
+      "label": "DESIGN",
+      "text": "  Descriptive epidemiology study."
+    },
+    {
+      "label": "SETTING",
+      "text": "  Injury and athlete-exposure (AE) data were collected from 3 injury-surveillance programs at the youth, high school, and collegiate competition levels."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "  Data from 310 youth, 184 high school, and 71 collegiate football team-seasons were collected during the 2012 through 2014 seasons."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "  Knee-sprain rates and risks were calculated for each competition level. Injury rate ratios (IRRs) and risk ratios (RRs) compared knee-sprain rates by competition level. Injury proportion ratios (IPRs) compared differences in surgery needs, recurrence, injury mechanism, and injury activity by competition level."
+    },
+    {
+      "label": "RESULTS",
+      "text": "  Knee-sprain rates in youth, high school, and collegiate football were 0.16/1000 AEs, 0.25/1000 AEs, and 0.69/1000 AEs, respectively. Knee-sprain rates increased as the competition level increased (high school versus youth: IRR = 1.60; 95% confidence interval [CI] = 1.12, 2.30; collegiate versus high school: IRR = 2.73; 95% CI = 2.38, 3.96). Knee-sprain risk was highest in collegiate (4.3%), followed by high school (2.0%) and youth (0.5%) athletes. Knee-sprain risk increased as the competition level increased (high school versus youth: RR = 3.73; 95% CI = 2.60, 5.34; collegiate versus high school: RR = 2.14; 95% CI = 1.83, 2.51). Collegiate football had the lowest proportion of knee sprains that were noncontact injuries (collegiate versus youth: IPR = 0.54; 95% CI = 0.31, 0.95; collegiate versus high school: IPR = 0.59; 95% CI = 0.44, 0.79) and the lowest proportion that occurred while being tackled (collegiate versus youth: IPR = 0.44; 95% CI = 0.26, 0.76; collegiate versus high school: IPR = 0.71; 95% CI = 0.51, 0.98)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "  Knee-sprain incidence was highest in collegiate football. However, level-specific variations in the distributions of knee sprains by injury activity may highlight the need to develop level-specific policies and prevention strategies that ensure safe sports play."
+    }
+  ],
+  "injury_query": "knee sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

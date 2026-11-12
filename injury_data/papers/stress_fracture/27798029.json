@@ -1,0 +1,44 @@
+{
+  "pmid": "27798029",
+  "title": "Stress fracture and premenstrual syndrome in Japanese adolescent athletes: a cross-sectional study.",
+  "year": "2016",
+  "journal": "BMJ open",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate the relationship between the occurrence of stress fracture and premenstrual syndrome (PMS)/premenstrual dysphoric disorder (PMDD) in Japanese adolescent athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Osaka, Japan."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "A school-based survey on menstruation and school life was conducted using a sample of 1818 Japanese female students who belonged to two public high schools in Japan. Among them, we recruited 394 athletes who had regular menstrual cycles (25-38 days) and completed a questionnaire about their premenstrual symptoms and their competitive career."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE",
+      "text": "Premenstrual symptoms and the occurrence of stress fracture."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The prevalences of moderate-to-severe PMS and PMDD were 8.9% and 1.3%, respectively, which were the same as in collegiate athletes in a previous study. Premenstrual symptoms disturbed 'Work efficiency or productivity, home responsibilities', 'Relationships with coworkers or family' and 'Athletic performance in training or competition' more severely than menstrual pain (p=0.031, p=0.004 and p<0.001, respectively). 66 athletes (16.8%) reported having experienced a stress fracture. The severity of 'Overeating or food cravings', 'Physical symptoms' and 'Performance in training or competition' in athletes with previous stress fractures were much higher than in those without a history of stress fractures (p=0.015, p=0.008 and p=0.006, respectively). In terms of premenstrual symptoms, 'Physical symptoms' was associated with an increased risk of stress fractures in athletes (OR 1.66, 95% CI 1.06 to 2.62)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The results from this study indicated that premenstrual symptoms may affect athletic performance and has the risk of stress fractures in adolescent athletes."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

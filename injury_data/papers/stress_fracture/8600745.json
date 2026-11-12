@@ -1,0 +1,25 @@
+{
+  "pmid": "8600745",
+  "title": "Traumatic fibular shaft fractures in athletes.",
+  "year": "1995",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "A direct blow to the leg resulted in fibular shaft fractures in three elite college athletes participating in contact sports. None of the athletes had prior symptoms suggestive of a stress fracture. All three athletes had benign-appearing fractures and were treated nonoperatively. Ultimate healing was delayed, occurring on average at 23 weeks, and each case was complicated by refracture. Fractures of the fibular shaft in athletes may require more aggressive treatment than other simple fractures to allow sufficient healing to withstand the rigors of athletics."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Ultimate healing was delayed, occurring on average at 23 weeks, and each case was complicated by refracture."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

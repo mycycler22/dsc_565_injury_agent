@@ -1,0 +1,20 @@
+{
+  "pmid": "42662945",
+  "title": "Biofeedback-Assisted Rehabilitation for Neuromotor Recovery After Lower-Extremity Musculoskeletal Injury: A Narrative Review.",
+  "year": "2026",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Biofeedback delivers real-time physiological or biomechanical information during rehabilitation, but the postinjury evidence is heterogeneous and does not support a simple claim of superiority over exercise. This narrative review explored how biofeedback has been used to address neuromotor recovery after lower-extremity musculoskeletal injury and summarized direct exercise-only comparisons where available. PubMed/MEDLINE, Scopus, and PEDro were searched from inception through May 31, 2026, using database-specific combinations of terms for biofeedback, rehabilitation, anterior cruciate ligament injury or reconstruction, meniscectomy, chronic ankle instability, ankle sprain, and sports injury. Therapeutic primary studies were eligible when they enrolled injured or postoperative participants, used electromyographic, visual, or kinetic, force or pressure, auditory, tactile, or vibration feedback, and reported muscle activation, knee extension, proprioception, balance, gait, or loading, symmetry, movement quality, or functional outcomes. Healthy performance or prevention cohorts, exercise-only studies, assessment-only reports, protocols, conceptual papers, and secondary reviews were excluded from the core clinical synthesis; relevant secondary and healthy-cohort evidence was discussed separately. Sixteen primary clinical reports, comprising nine randomized trials and seven nonrandomized, acute, or uncontrolled studies, were included. Randomized trials were appraised against Physiotherapy Evidence Database domains and nonrandomized studies against the revised Joanna Briggs Institute quasi-experimental tool. Overall confidence was limited by small samples, incomplete allocation or blinding reporting, heterogeneous devices and dosing, task-specific outcomes, and short follow-up. Preliminary evidence suggests that electromyographic biofeedback may support early quadriceps activation or knee-extension recovery after anterior cruciate ligament reconstruction or meniscectomy, but pain and patient-reported function were not consistently superior to standard rehabilitation. Visual, kinetic, force-based, auditory, and vibration feedback produced task-specific changes in balance, strength, joint-position sense, gait, loading, or symmetry; retention and transfer were inconsistent, and a 2026 chronic ankle instability trial found no improvement in dynamic muscle-activation timing. Biofeedback, therefore, appears promising as a targeted adjunct when the feedback variable is matched to a defined impairment. Its additional benefit over well-designed exercise rehabilitation and its effects on return to sport and reinjury remain uncertain."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

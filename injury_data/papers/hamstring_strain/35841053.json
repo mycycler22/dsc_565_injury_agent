@@ -1,0 +1,27 @@
+{
+  "pmid": "35841053",
+  "title": "The development of a HAMstring InjuRy (HAMIR) index to mitigate injury risk through innovative imaging, biomechanics, and data analytics: protocol for an observational cohort study.",
+  "year": "2022",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The etiology of hamstring strain injury (HSI) in American football is multi-factorial and understanding these risk factors is paramount to developing predictive models and guiding prevention and rehabilitation strategies. Many player-games are lost due to the lack of a clear understanding of risk factors and the absence of effective methods to minimize re-injury. This paper describes the protocol that will be followed to develop the HAMstring InjuRy (HAMIR) index risk prediction models for HSI and re-injury based on morphological, architectural, biomechanical and clinical factors in National Collegiate Athletic Association Division I collegiate football players."
+    },
+    {
+      "label": "METHODS",
+      "text": "A 3-year, prospective study will be conducted involving collegiate football student-athletes at four institutions. Enrolled participants will complete preseason assessments of eccentric hamstring strength, on-field sprinting biomechanics and muscle-tendon volumes using magnetic-resonance imaging (MRI). Athletic trainers will monitor injuries and exposure for the duration of the study. Participants who sustain an HSI will undergo a clinical assessment at the time of injury along with MRI examinations. Following completion of structured rehabilitation and return to unrestricted sport participation, clinical assessments, MRI examinations and sprinting biomechanics will be repeated. Injury recurrence will be monitored through a 6-month follow-up period. HAMIR index prediction models for index HSI injury and re-injury will be constructed."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "The most appropriate strategies for reducing risk of HSI are likely multi-factorial and depend on risk factors unique to each athlete. This study will be the largest-of-its-kind (1200 player-years) to gather detailed information on index and recurrent HSI, and will be the first study to simultaneously investigate the effect of morphological, biomechanical and clinical variables on risk of HSI in collegiate football athletes. The quantitative HAMIR index will be formulated to identify an athlete's propensity for HSI, and more importantly, identify targets for injury mitigation, thereby reducing the global burden of HSI in high-level American football players. Trial Registration The trial is prospectively registered on ClinicalTrials.gov (NCT05343052; April 22, 2022)."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

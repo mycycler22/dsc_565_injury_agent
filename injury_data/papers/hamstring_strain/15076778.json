@@ -1,0 +1,33 @@
+{
+  "pmid": "15076778",
+  "title": "Predicting hamstring strain injury in elite athletes.",
+  "year": "2004",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Eccentric exercise, where the contracting muscle is lengthened, produces microscopic damage in muscle fibers, and sensations of stiffness and soreness, the next day. These normally resolve within a week. A more major sports injury is the muscle strain. Because strain injuries are known to occur during eccentric contractions, it is hypothesized that the microscopic damage from eccentric exercise can, at times, progress to a muscle strain. As the amount of microscopic damage depends on the muscle's optimum length for active tension, it is further proposed that optimum length is a measure of susceptibility for muscle strains. The athletes most at risk of a hamstring strain are those with a previous history of such injuries. Here the prediction is tested that optimum lengths of previously injured hamstrings are shorter and therefore more prone to eccentric damage than uninjured muscles."
+    },
+    {
+      "label": "METHODS",
+      "text": "Mean optimum angle for peak torque in a previously injured muscle of nine athletes with a history of unilateral hamstring strains was compared with the uninjured muscle of the other leg and with muscles of 18 uninjured athletes. Optimum angle was determined with isokinetic dynamometry."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In previously injured muscles, torque peaked at significantly shorter lengths than for uninjured muscles. Peak torque and quadriceps:hamstrings torque ratios were not significantly different."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The shorter optimum of previously injured muscles makes them more prone to damage from eccentric exercise than uninjured muscles and this may account for the high reinjury rate. The shorter optimum may reflect the muscle's preinjury state or be a consequence of the healing process. To reduce the incidence of strain injuries, it is recommended that a combined program of eccentric exercise and muscle testing be carried out."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

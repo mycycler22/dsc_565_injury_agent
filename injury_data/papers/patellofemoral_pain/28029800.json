@@ -1,0 +1,43 @@
+{
+  "pmid": "28029800",
+  "title": "Patellofemoral Kinematics and Tibial Tuberosity-Trochlear Groove Distances in Female Adolescents With Patellofemoral Pain.",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain (PFP) is a prevalent disorder among female adolescents. Overuse is frequently cited as the cause of pain for this population. What is currently unclear, however, is if the patella demonstrates abnormal tracking patterns relative to the femoral trochlear groove in female adolescents with PFP."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The aim of this case-control study was to determine if abnormal patellar tracking patterns are present in female adolescents with PFP. The secondary aim was to identify if an increased tibial tuberosity-trochlear groove (TT-TG) distance is associated with the observed kinematic patterns."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty female adolescent knees from 12 patients with PFP and 20 age-matched female knees from 13 healthy controls were recruited for this study. Patellofemoral kinematics (eg, lateral patellar displacement) during a repetitive knee extension-flexion maneuver was quantified by dynamic cine phase-contrast magnetic resonance imaging (MRI). Static MRI scans were used to determine the TT-TG distance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Relative to the control cohort, female adolescents with PFP demonstrated significantly greater lateral displacement at 10° (3.2 mm; P < .001), 20° (2.3 mm; P < .001), and 30° (1.7 mm; P = .014) of knee flexion. A subgroup within this cohort (7 knees from 5 patients) demonstrated extreme lateral maltracking >2 SDs of the mean of the control cohort. This subgroup also demonstrated a greater TT-TG distance relative to the controls (Δ = 4.2 mm; P = .001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study demonstrates abnormal lateral patellar displacement in the absence of patellar tilt in female adolescents with PFP. Because all adolescents from both cohorts participated in impact sports, it appears that rigorous athletic training alone is inadequate to produce symptoms in this population. Rather, PFP may derive from a combination of physical activity in the context of pathological kinematics."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Abnormal patellar tracking patterns and abnormal static alignment have been shown to contribute to the etiology of patellofemoral pain in adults. This study demonstrates that pathologic patellar tracking patterns are present in adolescent females with patellofemoral pain."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

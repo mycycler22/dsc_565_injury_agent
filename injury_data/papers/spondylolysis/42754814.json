@@ -1,0 +1,32 @@
+{
+  "pmid": "42754814",
+  "title": "Age-Related Transitions in Low Back Pain Pathology: A Life-Course Narrative Review.",
+  "year": "2026",
+  "journal": "Pain and therapy",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Low back pain (LBP) represents the primary global cause of years lived with disability, significantly compromising health-related quality of life and imposing a substantial economic burden on healthcare systems. This narrative review conceptualizes LBP as a dynamic life-course process rather than a static diagnostic entity."
+    },
+    {
+      "label": "METHOD",
+      "text": "A comprehensive search of PubMed, Scopus, and Web of Science was conducted using MeSH and free-text terms (e.g., \"Low Back Pain,\" \"Aging,\" spine diseases) for clinical trials, cohorts, and reviews published from inception through to January 2026."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In adolescence, the focus is primarily on mechanical stress-induced spondylolysis among young athletes. As individuals transition into young adulthood, the pathological emphasis shifts toward intervertebral disc health, marked by symptomatic herniation and the emergence of Modic changes, alongside the increasing relevance of psychosocial \"Yellow Flags\" in predicting chronicity. By middle and older adulthood (60+), cumulative degenerative changes involve both the intervertebral discs and facet joints, frequently manifesting as lumbar spinal stenosis and sagittal malalignment. During this phase, global spinal balance replaces localized pathology as the primary determinant of disability. For late-old adults (80+), the clinical landscape is dominated by the synergistic impacts of sarcopenia and osteoporosis, shifting the assessment focus from flexibility to functional standing and walking capacity. The high prevalence of fragility fractures and the potential for serious \"red flag\" conditions necessitate a high index of clinical suspicion in this demographic."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "LBP is not a static diagnostic entity but a dynamic, evolving process that shifts across the human lifespan."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "39353618",
+  "title": "Risk of Anterior Cruciate Ligament Tears in National Football League Players by Short, Normal, or Long Rest Weeks.",
+  "year": "2025",
+  "journal": "The journal of knee surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Anterior cruciate ligament (ACL) tears in National Football League (NFL) players are devastating injuries that take nearly a year to recover. Players that do return to sport have worse overall performance compared to pre-ACL tear. NFL players typically play regular season games on Sunday with the next game played on the following Sunday, allowing for 6 days between games. Deviation from the usual 6-day rest week has been proposed as a potential risk for ACL tear. The main objective of this study was to evaluate the risk of decreased rest or increased rest on ACL tear rates in NFL players. ACL injury data of NFL players from the 2012 to 2013 season and 2022 to 2023 season were gathered from publicly available sources. Player demographic data, position, age at time of injury, seasons played, injury mechanism, and playing surface type were recorded. Injuries were characterized as short, normal, or long week injuries. ACL tears that occurred during the preseason, postseason, or during week 1 were excluded. Descriptive statistics were calculated to report means, ranges, and percentages. Data were analyzed to determine statistically significant differences using Fisher's exact, chi-square, or one-way analysis of variance tests. A total of 524 ACL tears were recorded in NFL players during the study window. Note that 304 ACL tears were excluded and 220 fit inclusion criteria. Twenty-four ACL tears occurred during short weeks, 68 during long weeks, and 128 during normal weeks. Players were 1.8 times more likely to tear their ACL during a long week compared to a normal week (<i>p</i> < 0.001), and 1.5 times more likely to tear their ACL during a short week compared to a normal week (<i>p</i> = 0.02). The findings from this study suggest that deviation from the normal 7-day NFL week increases the risk of an ACL tear in NFL players when increasing or decreasing rest time. Further research exploring the impact of short and long rest times on player injury risk should be conducted to prevent season-ending injuries."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

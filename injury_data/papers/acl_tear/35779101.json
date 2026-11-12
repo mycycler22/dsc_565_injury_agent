@@ -1,0 +1,37 @@
+{
+  "pmid": "35779101",
+  "title": "Retrospective analysis and risk of progression of partial anterior cruciate ligament injuries in a young population.",
+  "year": "2023",
+  "journal": "Archives of orthopaedic and trauma surgery",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The anterior cruciate ligament (ACL) is a common knee ligament injury. Partial ACL tears are common, and at least 10-27% of isolated ACL tears are diagnosed as partial tears. Patients with partial tears have high risk of progression of tears to complete tears, which may require surgical reconstruction. The risk factors associated with the progression to a complete tear are poorly understood."
+    },
+    {
+      "label": "METHODS",
+      "text": "The present case-control study assessed the incidence and risk factors for the progression of conservatively treated partial ACL tears to complete tears in 351 patients younger than 45 years. The diagnosis of partial ACL tears was based on clinical evaluation, side-to-side difference on Rolimeter, and magnetic resonance imaging. These patients were managed conservatively and followed up for a mean of 17.5 months or until the progression of the tear into a complete tear, requiring surgery. The patients in whom the tear progressed to complete tear (group P) were compared with those in whom the tear remained stable for a minimum of 18-month follow-up period (group S)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 351 partial ACL tear patients, 166 (47.3%) patients progressed to a complete tear at a mean duration of 17.5 months, whereas the tear in 185 (52.7%) patients remained stable and did not progress to a complete tear. Group P had mean international knee documentation committee (IKDC) scores and Tegner scores of 95.7 ± 3.7 and 7.6 ± 1.6, respectively, before the injury, and scores decreased to 52.4 ± 4.1 and 5.7 ± 2.2, respectively, at the 24-month follow-up."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Partial ACL tear progressed to a complete tear in 47.3% of evaluated patients. The associated risk factors were age less than 35 years, rigorous physical activities, high ACL-Return to Sport after Injury score during early rehabilitation days, early return to activity, and pivoting contact sports."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "CONCLUSION",
+      "sentence": "The associated risk factors were age less than 35 years, rigorous physical activities, high ACL-Return to Sport after Injury score during early rehabilitation days, early return to activity, and pivoting contact sports."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

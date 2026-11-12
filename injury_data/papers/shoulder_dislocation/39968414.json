@@ -1,0 +1,40 @@
+{
+  "pmid": "39968414",
+  "title": "Management of First-Time Anterior Shoulder Dislocation-A Systematic Review and Meta-analysis: Arthroscopy Association of Canada Position Statement.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "While surgical stabilization is typically recommended for patients with recurrent shoulder instability, the management of first-time shoulder dislocation (FTSD) presents a unique challenge for health care providers."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess the efficacy of arthroscopic Bankart repair (ABR) compared with nonoperative management for FTSDs."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Review."
+    },
+    {
+      "label": "METHODS",
+      "text": "MEDLINE, EMBASE, and CENTRAL were searched from inception to December 26, 2023, for comparative studies assessing ABR versus nonoperative management of FTSDs. Outcomes of interest included rates of shoulder redislocation, cumulative shoulder instability (redislocation, subluxation, and/or subjective instability), subsequent shoulder stabilization surgery, return-to-sport rates, and patient-reported outcomes (Western Ontario Shoulder Instability [WOSI] score and Rowe score). Meta-analyses were performed on outcomes reported across a minimum of 3 comparative studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eleven comparative studies with 694 patients (695 shoulders) were included in the final analysis. Patient demographics were comparable across arthroscopic stabilization (367 shoulders) and nonoperative management (328 shoulders) groups with a mean age of 21.6 ± 2.5 years across all studies, and 13.7% ± 13.6% of patients being female. The mean follow-up across all studies was 54.2 ± 28.5 months, with a mean loss to follow-up of 8.1% ± 10.3%. Meta-analyses demonstrated a reduction in the odds of cumulative instability in favor of the ABR group (odds ratio [OR], 0.04 [95% CI, 0.02 to 0.08]; <i>P</i> < .01), as well as reductions in the odds of shoulder redislocation (OR, 0.06 [95% CI, 0.02 to 0.17]; <i>P</i> < .01) and subsequent stabilization surgery (OR, 0.07 [95% CI, 0.03 to 0.14]; <i>P</i> < .01) in favor of ABR. Compared with the nonoperative group, patients in the ABR group were 3.87 times more likely to return to sport at the preoperative or higher level (OR, 3.87 [95% CI, 1.57 to 9.52]; <i>P</i> < .01). No differences were found across postoperative WOSI scores (mean difference, 8.08 [95% CI, -1.54 to 17.69]; <i>P</i> = .10). Subgroup analyses demonstrated similar outcomes between randomized controlled trials and observational studies."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Early ABR of first-time anterior shoulder dislocations consistently demonstrated decreased subsequent rates of cumulative instability events, shoulder redislocations, and revision surgeries relative to nonoperative management."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

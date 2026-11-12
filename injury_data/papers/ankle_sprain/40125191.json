@@ -1,0 +1,25 @@
+{
+  "pmid": "40125191",
+  "title": "Posterior Ankle Impingement Syndrome Caused by Nonunion of Isolated Posterior Malleolar Fracture.",
+  "year": "2025",
+  "journal": "Cureus",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Isolated posterior malleolar fracture is a rare condition, and this fracture is usually overlooked and diagnosed as an ankle sprain owing to a lack of awareness and difficulty in diagnosis. Posterior ankle impingement syndrome (PAIS) is relatively common in athletes and is usually caused by trauma or overuse. The impingement occurs due to repeated compression of a bony or soft tissue. Here, we report a rare case of a 17-year-old rugby player presenting with posterior ankle impingement caused by nonunion of an isolated posterior malleolar fracture. This patient was treated using a posterior ankle arthroscopic excision. At 16 weeks postoperatively, his ankle and hallux pain disappeared, and he returned to sports activities with no morbidities related to the surgical procedure. Based on a computed tomography scan, the bone fragment causing the impingement was resected, and the union of the residual posterior malleolar fragment was verified."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "At 16 weeks postoperatively, his ankle and hallux pain disappeared, and he returned to sports activities with no morbidities related to the surgical procedure."
+    }
+  ],
+  "pmcid": "11926466",
+  "fulltext_chunks": []
+}

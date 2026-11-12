@@ -1,0 +1,45 @@
+{
+  "pmid": "18055921",
+  "title": "Do capacitively coupled electric fields accelerate tibial stress fracture healing? A randomized controlled trial.",
+  "year": "2008",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tibial stress fractures increasingly affect athletes and military recruits, with few known effective management options. Electrical stimulation enhances regular fracture healing, but the effect on stress fractures has not been definitively tested."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Capacitively coupled electric field stimulation will accelerate tibial stress fracture healing."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Randomized controlled trial; Level of evidence, 1."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty men and 24 women with acute posteromedial tibial stress fractures were referred from local clinicians. Subjects were randomly assigned active or placebo capacitively coupled electric field stimulation to be applied for 15 hours per day until healed, given supplemental calcium, and instructed to rest from provocative training. Healing was confirmed when hopping to 10 cm for 30 seconds could be achieved without pain."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No difference in time to healing was detected between treatment and placebo groups. Women in the treatment group healed more slowly than did the men (P = .05). Superior treatment compliance was associated with reduced time to healing (P = .003). Rest noncompliance was associated with increased time to healing (P = .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Whole-group analysis did not detect an effect of capacitively coupled electric field stimulation on tibial stress fracture healing; however, greater device use and less weightbearing loading enhanced the effectiveness of the active device. More severe stress fractures healed more quickly with capacitively coupled electric field stimulation."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Although the use of capacitively coupled electric field stimulation for tibial stress fracture healing may not be efficacious for all, it may be indicated for the more severely injured or elite athlete/recruit whose incentive to return to activity may motivate superior compliance."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

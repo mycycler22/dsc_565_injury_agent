@@ -1,0 +1,47 @@
+{
+  "pmid": "35073241",
+  "title": "Chronic diseases and allergies are risk factors predictive of a history of Medial Tibial Stress Syndrome (MTSS) in distance runners: SAFER study XXIV.",
+  "year": "2023",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Medial Tibial Stress Syndrome (MTSS) is one of the most common causes of exercise-associated lower leg pain in distance runners."
+    },
+    {
+      "label": "AIM",
+      "text": "To identify risk factors predictive of a history of MTSS in distance runners entering the Two Oceans Marathon races (21.1 km and 56 km)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "2012 to 2015 Two Oceans Marathon races (21.1 km and 56 km)."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Consenting race entrants."
+    },
+    {
+      "label": "METHODS",
+      "text": "106,743 race entrants completed an online pre-race medical screening questionnaire. 76,654 consenting runners (71.8%) were studied. 558 verified MTSS injuries were reported in the previous 12 months. Risk factors predictive of a history of MTSS were explored using uni - & multivariate analyses: demographics (race distance, sex, and age groups), training/racing history, history of chronic diseases, allergies, and medication use."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Independent risk factors predictive of a history of MTSS (adjusted for sex, age group, and race distance) were a higher chronic disease composite score (PR = 3.1 times increase risk for every two additional chronic diseases; p < 0.0001) and a history of allergies (PR = 1.9; p < 0.0001). Chronic diseases (PR > 2) predictive of a history of MTSS were: symptoms of CVD (PR = 4.2; p < 0.0001); GIT disease (PR = 3.3; p < 0.0001); kidney/bladder disease (PR = 3.3; p < 0.0001); nervous system/psychiatric disease (PR = 3.2; p < 0.0001); respiratory disease (PR = 2.9; p < 0.0001) a history of CVD (PR = 2.9; p < 0.0001); and risk factors of CVD (PR = 2.4; p < 0.0001) (univariate analysis). Average running speed was associated with higher risk of MTSS."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Novel independent risk factors predictive of a history of MTSS in distance runners (56 km, 21.1 km) were multiple chronic diseases and a history of allergies. Identifying athletes at higher risk for MTSS can guide healthcare professionals in their prevention and rehabilitation efforts."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

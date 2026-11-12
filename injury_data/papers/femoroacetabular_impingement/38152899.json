@@ -1,0 +1,70 @@
+{
+  "pmid": "38152899",
+  "title": "Return-to-Sport Rates After Hip Arthroscopy for Femoroacetabular Impingement Syndrome in Flexibility Sports Athletes: A Systematic Review.",
+  "year": "2024",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Femoroacetabular impingement syndrome (FAIS) is a common cause of hip pain in young adults. Flexibility athletes represent an interesting subset due to the extreme range of motion requirements of their sport."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The objective of this review was to provide a summary of the outcomes of hip arthroscopy for FAIS in patients who participate in flexibility sports."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Three online databases (Medline, Embase, and PubMed) were searched from database inception (1946, 1974, and 1966, respectively) to January 10, 2023."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Studies were screened for literature addressing surgical outcomes for flexibility athletes undergoing hip arthroscopy for FAIS."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Various patient-reported outcomes that evaluated the efficacy of hip arthroscopy in this patient population were abstracted and presented in descriptive and analytical format. Abstraction was performed by 2 reviewers."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, a total of 8 Level 3 or 4 studies and 295 patients (312 hips) were included in this review. The pooled standardized mean differences for the Visual Analog Scale for pain score, Modified Harris Hip Score, Hip Outcome Score - Activity of Daily Living scale, and Hip Outcome Score - Sport-Specific Subscale all demonstrated significant improvement after undergoing arthroscopy for FAIS between 12 and 116 months (N = 175, -1.97, 95% CI -2.5 to -1.4, <i>P</i> < 0.01, <i>I</i><sup>2</sup> = 76%; N = 211, 1.82, 95% CI 1.49 to 2.16, <i>P</i> < 0.01, <i>I</i><sup>2</sup> = 52%; N = 164, 1.75, 95% CI 1.42 to 2.05, <i>P</i> < 0.01, <i>I</i><sup>2</sup> = 28%; N = 211, 1.71, 95% CI 1.38 to 2.04, <i>P</i> < 0.01, <i>I</i><sup>2</sup> = 52%, respectively). Across 289 patients, 75.6% to 98% returned to sport at a similar or higher level than presurgery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This review demonstrates a trend of improvement in patient-reported pain, function, quality of life, and return to sport at a minimum of 12 months among flexibility athletes after hip arthroscopy to treat FAIS."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "CONCLUSION",
+      "sentence": "This review demonstrates a trend of improvement in patient-reported pain, function, quality of life, and return to sport at a minimum of 12 months among flexibility athletes after hip arthroscopy to treat FAIS."
+    }
+  ],
+  "pmcid": "11531010",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Overall, a total of 8 Level 3 or 4 studies and 295 patients (312 hips) were included in this review. The pooled standardized mean differences for the Visual Analog Scale for pain score, Modified Harris Hip Score, Hip Outcome Score - Activity of Daily Living scale, and Hip Outcome Score - Sport-Specific Subscale all demonstrated significant improvement after undergoing arthroscopy for FAIS between 12 and 116 months (N = 175, -1.97, 95% CI -2.5 to -1.4, P < 0.01, I2 = 76%; N = 211, 1.82, 95% CI 1.49 to 2.16, P < 0.01, I2 = 52%; N = 164, 1.75, 95% CI 1.42 to 2.05, P < 0.01, I2 = 28%; N = 211, 1.71, 95% CI 1.38 to 2.04, P < 0.01, I2 = 52%, respectively). Across 289 patients, 75.6% to 98% returned to sport at a similar or higher level than presurgery."
+    },
+    {
+      "section": "Patient-Reported Outcomes",
+      "text": "The standardized mean difference for the Visual Analog Scale (VAS) for pain score in 4 studies comprising 175 patients was -1.97 (95% CI -2.5 to -1.4, P < 0.01, I2 = 76%) (Figure 2), indicating significantly improved pain at a minimum of 12 months’ follow-up and a range of 12 to 60 months.3,5,15,19 The standardized mean difference for the Modified Harris Hip Score (mHHS) in 5 studies comprising 211 patients was 1.82 (95% CI 1.49 to 2.16, P < 0.01, I2 = 52%) (Figure 3), indicating a significant improvement at a minimum of 12 months and a range of 12 to 60 months.3,5,11,15,19 The standardized mean difference for the Hip Outcome Score - Activity of Daily Living (HOS-ADL) scale in 4 studies comprising 164 patients was 1.75 (95% CI 1.42 to 2.05, P < 0.01, I2 = 28%) (Figure 4),3,5,11,19 and the standardized mean difference for the Hip Outcome Score - Sport-Specific Subscale (HOS-SSS) in 5 studies comprising 211 patients was 1.71 (95% CI 1.38 to 2.04, P < 0.01, I2 = 52%) (Figure 5), indicating a significant improvement at a minimum of 12 months and a range of 12 to 60 months.3,5,11,15,19 The International Hip Outcome Tool - 12 (iHOT-12) score was reported by 1 study in 36 patients with a score value of 74.9 ± 1.7. 11 The rate of return to sport was reported across 289 patients and ranged from 75.6% to 98%. One study that looked at a group of dancers found a correlation coefficient of 0.45 (P < 0.01) for years dancing and return to dance rates (Table 3)."
+    },
+    {
+      "section": "TABLE: Study characteristics and rehabilitation protocol",
+      "text": "Author (Year) | Study Design (Level of Evidence) | Number of Patients/Hips | Follow-up Time (Range), Months | Postop Rehab | MINORS\nSaks (2022) | Cohort study (3) | 47/50 (flexibility sports) | 37.5 ± 10.4 | Minimum 3 months starting day 1 | 17/24\nKeating (2020) | Retrospective analysis (4) | 25 (22 completed follow-up) | 24 minimum | 4-Phase rehab protocol lasting an average of 16 to 18 weeks | 11/16\nMas Martinez (2020) | Case series (4) | 36 (flexibility sports) | 24 minimum | Postop rehab protocols included progressive activities for a period of up to 16 weeks. Return to sports allowed if patients demonstrate the ability to perform pain-free running, jumping, lateral agility drills, and single-leg squats | 16/24\nLarson (2020) | Case series (4) | 63 dancers (77 hips) | 36 (range, 12-116) | Patients were typically kept toe touch weightbearing postop after arthroscopy for 2 to 3 weeks without a brace or continuous passive motion machine. Physical therapy including early mobilization and ROM with circumduction or well-leg cycling was begun postoperative day 0 or 1. Return-to-dance-specific activities began as early as 3 months with full return to dance when pain-free ROM and normal functional progression were achieved at the discretion of a dance-focused physical therapist | 9/16\nUkwuani (2019) | Case series (4) | 64 | 23.0 ± 12.2 (12-60) | Patients went through the same 4-phase rehab protocol lasting 24 to 32 weeks | 10/16\nFrank (2018) | Retrospective analysis (4) | 42/45 | 12 minimum | 4-Phase rehab protocol lasting an average of 32 weeks | 11/16\nWeber (2017) | Retrospective comparative (3) | 15 Flexibility | 30.2 ± 4.8 | Patients were kept on crutches for 3 weeks with a 9-kilogram, flat-foot weightbearing restriction. Passive and gentle active motion, including circumduction, was encouraged to prevent stiffness. At 3 weeks, patients progressed to weightbearing as tolerated without crutches or a brace. Also at 3 weeks, athletes progressed to hip ROM exercises including gentle stretching in all planes and progressed core and hip muscle strengthening. At 6 weeks, closed chain exercises began and stretching was advanced. At 12 weeks, patients participated in running using an antigravity treadmill and performed plyometrics. Patients were typically cleared to return to sports at 4 to 6 months after surgery based on their individual milestones in therapy | 10/16\nMohan (2017) | Therapeutic case series (4) | 3 Flexibility | 34 (24-77) | 5-Phase rehab | 13/16"
+    }
+  ]
+}

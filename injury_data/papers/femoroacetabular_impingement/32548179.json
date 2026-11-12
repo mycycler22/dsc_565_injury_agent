@@ -1,0 +1,49 @@
+{
+  "pmid": "32548179",
+  "title": "Return to Sport After Hip Arthroscopy for Femoroacetabular Impingement Syndrome in NCAA Division I Athletes: Experience at a Single Institution.",
+  "year": "2020",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The rate of return to sport after surgical treatment of femoroacetabular impingement (FAI) syndrome (FAIS) has been studied in high-level athletes. However, few studies examining this rate have focused exclusively on National Collegiate Athletic Association (NCAA) Division I athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the return-to-sport rate after hip arthroscopy for FAIS and to examine the influence of sport type on the clinical presentation of FAIS in collegiate athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Included in this study were NCAA Division I student-athletes who underwent hip arthroscopy for FAIS at our institution between 2010 and 2017. Exclusion criteria were history of previous hip pathology, pediatric hip disease, radiographic evidence of osteoarthritis (Tönnis grade >0), prior lower extremity procedure, history of chronic pain, osteoporosis, or history of systemic inflammatory disease. Athletes were categorized into 6 subgroups based on the type of sport (cutting, contact, endurance, impingement, asymmetric/overhead, and flexibility) by using a previously reported classification system. Patient characteristics and preoperative, intraoperative, and return-to-sport variables were compared among sport types."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 49 hip arthroscopies for FAIS were performed in 39 collegiate athletes (10 females, 29 males; mean age, 19.5 ± 1.3 years). A total of 1 (2.6%) cutting athlete, 15 (38.5%) contact athletes, 8 (20.5%) impingement athletes, 6 (15.4%) asymmetric/overhead athletes, and 9 (23.1%) endurance athletes were included in the study. There were no differences among sports groups with respect to the FAI type. Endurance athletes had lower rates of femoral osteochondroplasty (45.5%) and labral debridement (0.0%) (<i>P</i> < .0001). Contact sport athletes had higher rates of labral debridement (50.0%; <i>P</i> < .0001). Patients were evaluated for return to sport at an average of 1.96 ± 0.94 years. Overall, the return-to-sport rate was 89.7%. There were no differences in return-to-sport rates based on the sport type except for endurance athletes, who returned at a lower rate (66.6%; <i>P</i> < .001). No differences in return-to-sport rate (<i>P</i> = .411), duration after return (<i>P</i> = .265), or highest attempted level of sport resumed (<i>P</i> = .625) were found between patients who underwent labral repair versus debridement."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Collegiate-level athletes who underwent hip arthroscopy for FAIS returned to sport at high and predictable rates, with endurance athletes possibly returning to sport at lower rates than all other sport types. Surgical procedures may be influenced by sport type, but the rate of return to sport between athletes who underwent labral debridement versus labral repair was similar."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Patients were evaluated for return to sport at an average of 1.96 ± 0.94 years."
+    }
+  ],
+  "pmcid": "7249579",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 49 hip arthroscopies for FAIS were performed in 39 collegiate athletes (10 females, 29 males; mean age, 19.5 ± 1.3 years). A total of 1 (2.6%) cutting athlete, 15 (38.5%) contact athletes, 8 (20.5%) impingement athletes, 6 (15.4%) asymmetric/overhead athletes, and 9 (23.1%) endurance athletes were included in the study. There were no differences among sports groups with respect to the FAI type. Endurance athletes had lower rates of femoral osteochondroplasty (45.5%) and labral debridement (0.0%) (P < .0001). Contact sport athletes had higher rates of labral debridement (50.0%; P < .0001). Patients were evaluated for return to sport at an average of 1.96 ± 0.94 years. Overall, the return-to-sport rate was 89.7%. There were no differences in return-to-sport rates based on the sport type except for endurance athletes, who returned at a lower rate (66.6%; P < .001). No differences in return-to-sport rate (P = .411), duration after return (P = .265), or highest attempted level of sport resumed (P = .625) were found between patients who underwent labral repair versus debridement."
+    }
+  ]
+}

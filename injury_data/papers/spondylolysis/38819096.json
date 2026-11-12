@@ -1,0 +1,44 @@
+{
+  "pmid": "38819096",
+  "title": "Clinical Features and Therapeutic Process of Sacral Fatigue Fractures in Adolescents.",
+  "year": "2024",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sacral fatigue fractures are a rare injury but should be considered as a differential diagnosis for low back and buttock pain in young adults. Collective reports are limited, most of which have focused on long-distance runners."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the characteristics of sacral fatigue fractures in adolescents."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "We analyzed patient background characteristics, physical examination and imaging findings, and treatment courses of those diagnosed with sacral fatigue fractures using magnetic resonance imaging."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Among 34 patients with sacral fatigue fractures, 15 and 19 were male and female patients, respectively, with an age range of 11 to 19 years (mean age, 15.0 years). Almost all patients were athletes, and 29 patients performed their sport ≥5 times a week. Long-distance runners were the most commonly affected, comprising 7 patients, and participants in other common sports such as baseball (6 patients), basketball (4 patients), and soccer (3 patients) were also affected. Physical examination revealed tension sign (Lasègue test) on the affected side in 6 patients and tight hamstrings in 24 patients. Imaging findings included 18 patients with right-side involvement, 12 with left-side involvement, and 4 with involvement on both sides. In 11 patients, spina bifida occulta was observed at S1 and 8 patients had a history of lumbar spondylolysis with 4 patients having concurrent sacral fatigue fractures. Physical therapy was performed concurrently with the cessation of exercise, and return to exercise was permitted if the pain had been relieved after 1 month. All patients returned to sports at a median of 48 days (range, 20-226 days) after symptom onset. However, 2 patients experienced recurrence (1 patient on the ipsilateral side and 1 patient on the contralateral side)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Sacral stress fractures are not limited to long-distance runners in this population and can manifest as lower back pain or buttock pain in athletes participating in a variety of sports. Although the course of treatment was generally good, the possibility of recurrence must always be considered."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "All patients returned to sports at a median of 48 days (range, 20-226 days) after symptom onset."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

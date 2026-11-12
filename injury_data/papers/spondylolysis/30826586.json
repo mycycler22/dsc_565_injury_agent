@@ -1,0 +1,49 @@
+{
+  "pmid": "30826586",
+  "title": "Return to play after conservative and surgical treatment in athletes with spondylolysis: A systematic review.",
+  "year": "2019",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Analyze the return to sports rate and timing after conservative and surgical treatment in athletes with spondylolysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "Comprehensive search using Pubmed, Cochrane Library and SPORTDiscus databases to identify English language studies that assessed the return to sports after conservative or surgical treatment of symptomatic spondylolysis in athletes. The main outcome of interest was the return to sports rate and timing, as well as, the follow-up clinical and functional outcomes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 14 trials (592 participants) were included. Eight and seven studies reported the outcomes of conservative and surgical approach, respectively. A total of 92% (n = 492) and 88% (n = 100) of athletes return to sports at any level, and 89% (n = 185) and 81% (n = 103) returned to their pre-injury level of sports for conservative and surgical approaches, respectively. The time to return to sports was 4.6 and 6.8 months for conservative and surgical approaches, respectively."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Conservative management (bracing, sports modification and physiotherapy) of athletes with spondylolysis show excellent return to sports rates at any level and at the pre-injury level at a mean of 4.6 months. Those who fail the conservative treatment can be successfully managed with surgical treatment with a high rate of return to sports at 6.8 months."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, Systematic review of level IV studies."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The time to return to sports was 4.6 and 6.8 months for conservative and surgical approaches, respectively."
+    },
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "Conservative management (bracing, sports modification and physiotherapy) of athletes with spondylolysis show excellent return to sports rates at any level and at the pre-injury level at a mean of 4.6 months."
+    },
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "Those who fail the conservative treatment can be successfully managed with surgical treatment with a high rate of return to sports at 6.8 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

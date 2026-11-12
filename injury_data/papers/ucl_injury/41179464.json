@@ -1,0 +1,31 @@
+{
+  "pmid": "41179464",
+  "title": "The effect of a forearm-strengthening program on medial elbow gapping in collegiate baseball pitchers.",
+  "year": "2025",
+  "journal": "JSES reviews, reports, and techniques",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Injuries to the ulnar collateral ligament (UCL) are increasing among baseball players at all levels. Elbow forces during pitching routinely exceed levels that cause failure in UCL cadaver studies, highlighting the importance of identifying protective measures against UCL injury. The flexor-pronator mass has been demonstrated as a dynamic stabilizer of the elbow against valgus loads. Increasing dynamic stability of the elbow may help mitigate medial elbow gapping, a known risk factor for UCL injury. The purpose of this study was to determine the effect of an 8-week forearm-strengthening program on medial elbow gapping under ultrasound in collegiate baseball pitchers. We hypothesized that athletes who complete a forearm-strengthening program will have decreased medial elbow gapping under ultrasound in both gravity loaded and stress loaded conditions."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fourteen healthy collegiate (National Collegiate Athletic Association Division I) baseball pitchers completed an 8-week forearm-strengthening program in their throwing arm. Forearm girth and forearm strength were measured in the throwing and nonthrowing arm before and after the forearm-strengthening intervention. Medial elbow gapping in gravity-loaded and stress-loaded conditions were measured by ultrasound in the throwing and nonthrowing arm before and after the intervention."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There was a significant main effect of time on throwing-arm forearm girth (pre: 29.21 ± 1.72; post: 29.52 ± 1.64 cm, <i>P</i> = .01), peak grip strength (pre: 5.39 ± 0.76; post: 5.48 ± 0.74 N/kg, <i>P</i> = .03), and average grip strength (pre: 5.39 ± 0.76; post: 5.48 ± 0.74 N/kg, <i>P</i> = .05). There was no significant effect of time on either gravity-loaded (pre: 4.51 ± 0.59; post 4.44 ± 0.48 mm, <i>P</i> = .22) or stress-loaded (pre: 4.94 ± 0.46; post: 4.84 ± 0.54 mm, <i>P</i> = .15) medial elbow gapping in the throwing arm."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Although our forearm-strengthening program led to an increase in forearm girth and grip strength, the average medial elbow gap under a static valgus load was statistically unchanged. Further studies are warranted to explore the utility of strengthening the flexor-pronator mass as a preventive measure against injury in throwers."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "36876176",
+  "title": "Inertial Sensor-Based Assessment of Static Balance in Athletes with Chronic Ankle Instability.",
+  "year": "2023",
+  "journal": "Journal of sports science & medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The Balance Error Scoring System (BESS), a subjective examiner-based assessment, is often employed to assess postural balance in individuals with chronic ankle instability (CAI); however, inertial sensors may enhance the detection of balance deficits. This study aimed to compare the BESS results between the CAI and healthy groups using conventional BESS scores and inertial sensor data. The BESS test (six conditions: double-leg, single-leg, and tandem stances on firm and foam surfaces, respectively) was performed for the CAI (n = 16) and healthy control (n = 16) groups with inertial sensors mounted on the sacrum and anterior shank. The BESS score was calculated visually by the examiner by counting postural sway as an error based on the recorded video. The root mean square for resultant acceleration (RMS<sub>acc</sub>) in the anteroposterior, mediolateral, and vertical directions was calculated from each inertial sensor affixed to the sacral and shank surfaces during the BESS test. The mixed-effects analysis of variance and unpaired t-test were used to assess the effects of group and condition on the BESS scores and RMS<sub>acc</sub>. No significant between-group differences were found in the RMS<sub>acc</sub> of the sacral and shank surfaces, and the BESS scores (P > 0.05), except for the total BESS score in the foam condition (CAI: 14.4 ± 3.7, control: 11.7 ± 3.4; P = 0.039). Significant main effects of the conditions were found with respect to the BESS scores and RMS<sub>acc</sub> for the sacral and anterior shank (P < 0.05). The BESS test with inertial sensors can detect differences in the BESS conditions for athletes with CAI. However, our method could not detect any differences between the CAI and healthy groups."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

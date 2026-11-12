@@ -1,0 +1,24 @@
+{
+  "pmid": "28246824",
+  "title": "Spondylolysis and spondylolisthesis: correlation with sport.",
+  "year": "1997",
+  "journal": "Der Orthopade",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Spondylolysis and spondylolisthesis occur predominantly in the lower lumbar spine. Besides congenital defects such as predisposition of spondylolysis the correlation between competitive sports activities and an increased incidence of spondylolysis is proved. In early stages, complete healing can be achieved by conservative treatment (abstinence from sports activities for 3 months, orthesis). Persistence of pain, neurologic symptoms and progression of vertebral slipping are indications for operative treatment (reconstruction of the isthmus, dorso-ventral spondylodesis). The exercise tolerance depends on the extent of instability, progression of vertebral slipping and clinical symptoms. The limits of exercise tolerance vary among the individual athletes and require the decision of the physician. Backstroke swimming, abdominal and back muscle strengthening exercises, and types of sport involving smooth movements are advisable. Sports education in school is possible without restriction in patients with stable spondylolysis and in those with spondylolisthesis without unfavourable concomitant factors."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "In early stages, complete healing can be achieved by conservative treatment (abstinence from sports activities for 3 months, orthesis)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

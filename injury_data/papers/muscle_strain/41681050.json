@@ -1,0 +1,36 @@
+{
+  "pmid": "41681050",
+  "title": "Musculoskeletal Injury Patterns and Associations With Potentially Modifiable Factors Among Recreational Tennis Players: A Cross-Sectional Study.",
+  "year": "2025",
+  "journal": "Musculoskeletal care",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To describe the self-reported occurrence and anatomical distribution of musculoskeletal injuries among recreational tennis players and to explore associated modifiable factors among respondents."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cross-sectional online survey was completed by 172 recreational tennis players (mean age 50.2 ± 12.1 years; 64.5% men). Data included participation habits (warm-up/cool-down/stretching and equipment use), self-reported injury characteristics, management, return to play, and return to performance. Injury correlates were analysed using logistic regression."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 73.3% (126/172) reported at least one tennis-related injury. Common sites were the elbow (34.9%), ankle (32.5%), knee (28.6%), and wrist/hand (27.8%). Muscle strain (45.6%) and ligament sprain/tear (34.4%) were the most frequently reported injury types. Warm-up/cool-down/stretching habits and overgrip use were not significantly associated with injury status, and weekly playing frequency showed only a borderline univariate association (p = 0.054). Players who sought medical evaluation reported longer return-to-play time (median 90 vs. 25 days; p < 0.001). Median return-to-play time increased with treatment intensity (20 days pharmacological; 30 days spontaneous recovery and conservative management; 90 days physical therapy; 180 days surgery), and 86.6% returned to their pre-injury performance level."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Tennis-related injuries were common among respondents and recovery duration varied markedly by clinical course and treatment intensity. Findings should be interpreted as sample-based self-report rather than population-level prevalence; prospective studies with defined sampling and clinical verification are warranted. These observational findings do not allow causal or preventive inferences regarding modifiable habits."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Median return-to-play time increased with treatment intensity (20 days pharmacological; 30 days spontaneous recovery and conservative management; 90 days physical therapy; 180 days surgery), and 86.6% returned to their pre-injury performance level."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

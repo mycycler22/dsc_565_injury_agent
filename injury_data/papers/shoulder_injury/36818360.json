@@ -1,0 +1,31 @@
+{
+  "pmid": "36818360",
+  "title": "Prevalence of shoulder problems in youth swimmers in Ontario.",
+  "year": "2022",
+  "journal": "The Journal of the Canadian Chiropractic Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder problems are common in swimmers. Previous research has focused on elite swimmers. Our research questions were: 1) what is the prevalence of shoulder problems among Ontario age group swimmers and 2) how does prevalence relate to age, sex and years of experience?"
+    },
+    {
+      "label": "METHODS",
+      "text": "A cross sectional survey was administered to youth swimmers from two Ontario clubs. Oslo Sports Trauma Research Centre Overuse Injury Questionnaire (OSTRC) was used to assess four-week prevalence of shoulder problems. Prevalence (%) with 95% confidence intervals (95% CI) was constructed and prevalence across age, sex and years of experience was investigated using cross-tabulations and chi-square tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 83 surveys completed (response rate 50%). The 4-week prevalence of shoulder pain was 35% (95% CI 25%, 45%). Shoulder problems were not significantly related to age, sex or years of experience."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "These results can inform future studies on injury prevention and risk mitigation strategies in swimmers."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

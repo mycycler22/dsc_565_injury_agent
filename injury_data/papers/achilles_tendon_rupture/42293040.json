@@ -1,0 +1,39 @@
+{
+  "pmid": "42293040",
+  "title": "Prior Calf Strain as a Risk Factor for Achilles Tendon Rupture in National Basketball Association Players: A Retrospective Analysis.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon ruptures are among the most debilitating injuries in professional basketball, often leading to prolonged absence and long-term performance decline. While calf strains are common among National Basketball Association (NBA) athletes, their role as a precursor to Achilles rupture remains poorly understood."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "A previous calf strain would be associated with increased odds of Achilles tendon rupture in NBA players and that affected players would experience significant post-injury performance declines."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Publicly available data on NBA players from 1958 to 2024 were analyzed, with the data search conducted in June 2025. Players with Achilles ruptures (n = 60) were compared with players with calf strains who did not sustain a rupture (n = 258). Logistic regression adjusted for age, body mass index, position, starter status, and workload. Pre- and postinjury performance was evaluated over 2 seasons using paired <i>t</i> tests. Descriptive analyses characterized injury laterality, game context, quarter, shoe type, and draft position. Video review assessed injury mechanisms."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Previous calf strain was associated with increased odds of Achilles rupture (odds ratio, 2.49; 95% CI, 1.16-5.22; <i>P</i> = .02). Among those with both injuries, 85.7% occurred on the same side, with a mean interval of 1.9 years. Of all players, a total of 75% returned to play. Postinjury declines were observed in player efficiency rating (-2.46), win shares (-3.23), games played (-260.3), and minutes per game (-5.19) (all <i>P</i> < .001). Return was more likely in younger players and those on multiyear contracts. Video analysis revealed a consistent \"false step\" mechanism in 95% of cases with footage. Most Achilles tendon ruptures occurred during in-game activity, while shoe type was evaluated descriptively and was not associated with player position or preinjury workload."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our study showed that previous calf strain is associated with an increased risk of Achilles tendon rupture in NBA players and may serve as a clinically identifiable risk marker. Rupture leads to substantial and sustained performance decline, even among those who return. Targeted rehabilitation and movement retraining may help mitigate progression to rupture in high-risk athletes."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

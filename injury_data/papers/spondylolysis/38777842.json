@@ -1,0 +1,28 @@
+{
+  "pmid": "38777842",
+  "title": "[Slipped vertebrae (Spondylolysis): the underestimated weak point of the (pre)professional football player-an algorithm].",
+  "year": "2024",
+  "journal": "Orthopadie (Heidelberg, Germany)",
+  "pub_types": [
+    "Journal Article",
+    "English Abstract"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Isthmic spondylolysis represents the most common cause of spinal pain in adolescent athletes. This article provides an overview of the classification, diagnosis, and treatment options for these conditions, including conservative and operative measures. It also provides a treatment pathway to how young athletes with spondylolysis should be treated."
+    },
+    {
+      "label": "DIAGNOSTICS",
+      "text": "Diagnostic imaging techniques are essential for an accurate diagnosis, with CT scans providing additional information for surgical planning."
+    },
+    {
+      "label": "TREATMENT",
+      "text": "Conservative treatment focuses on activity modification and physiotherapy, with a phased approach tailored to individual patient needs. Operative intervention may be considered if conservative measures fail, with minimally invasive techniques such as Buck's screw fixation showing promising results. The decision between conservative and operative management should consider factors of the patients' individual profile. In this paper, we present the first treatment algorithm for the treatment of isthmic spondylolysis. Long-term prognosis varies, with most athletes able to return to sport following treatment."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

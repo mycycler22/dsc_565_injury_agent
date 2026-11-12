@@ -1,0 +1,39 @@
+{
+  "pmid": "40159698",
+  "title": "Anatomic, Functional, and Mechanical Risk Factors for Elbow Injury in the Throwing Athlete: A Prospective Cohort Study of 128 High School Baseball Players.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Among high school baseball players, elbow injury is a significant career-threatening problem. Although structural abnormalities of the elbow joint, poor physical function, and faulty pitching mechanics have been identified as potential risk factors for this disorder, their relationship has not been fully elucidated."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the interaction among these risk factors and, in particular, to examine whether structural abnormalities of the elbow joint are an important risk factor for elbow injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 128 new members of a high school baseball team were evaluated for structural abnormalities of the elbow joint using ultrasound, physical function tests, and an analysis of pitching motion. Follow-ups were then conducted for 6 months to monitor the occurrence of elbow injury. Logistic regression analysis was performed to analyze the data."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-three participants (18%) developed elbow injury within 6 months. Multivariate logistic regression analysis revealed that irregularity of the medial epicondyle, hypertrophy of the medial epicondyle, and increased external rotation of the shoulder were significantly associated with elbow injury within 6 months, with odds ratios of 5.42 (<i>P</i> < .001), 3.17 (<i>P</i> = .03), and 1.04 (<i>P</i> = .01), respectively."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Irregularity and hypertrophy of the medial epicondyle and increased external rotation range of motion of the shoulder joint were identified as risk factors for elbow injury. Further research is needed to determine whether early identification of these factors and appropriate countermeasures can reduce the incidence of elbow injury."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

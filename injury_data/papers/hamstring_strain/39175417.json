@@ -1,0 +1,44 @@
+{
+  "pmid": "39175417",
+  "title": "Correlation of Player and Imaging Characteristics With Severity and Missed Time in National Football League Professional Athletes With Hamstring Strain Injury: A Retrospective Review.",
+  "year": "2024",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries (HSIs) are prevalent in US National Football League (NFL) players, but there is a paucity of information regarding imaging characteristics, injury severity, and player factors associated with time missed and risk of recurrent injury."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe player, football activity, clinical, and imaging characteristics of NFL players with HSIs, as well as determine player characteristics, clinical examination results, and magnetic resonance imaging (MRI) findings associated with injury occurrence, severity, and missed time."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective cohort of NFL players with acute HSI (n = 180) during the 2018-2019 season was identified. Injury data were collected prospectively through a league-wide electronic health record system. Three musculoskeletal radiologists graded MRI muscle injury parameters using the British Athletics Muscle Injury Classification (BAMIC) system. Player, football, clinical, and imaging characteristics were correlated with HSI incidence and severity and with missed time from sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 1098 HSIs identified during the 2018-2019 season, 416 (37.9%) were randomly sampled, and 180 (43.3%) had diagnostic imaging available. Game activity, preseason period, and wide receiver and defensive secondary positions disproportionately contributed to HSI. The biceps femoris was the most commonly injured muscle (n = 132, 73.3%), followed by the semimembranosus (n = 24, 13.3%) and semitendinosus (n = 17, 9.4%) muscles. The most common injury site was the distal third of the biceps femoris and semitendinosus muscles (n = 60, 45.5% and n = 10, 58.8%, respectively) and central part of the semimembranosus muscle (n = 17, 70.8%). Nearly half of the injuries (n = 83, 46.1%) were BAMIC grade 2; 25.6% (n = 46), grade 3; and 17.8% (n = 32), grade 4. MRI showed sciatic nerve abnormality in 30.6% (n = 55) of all HSIs and 81.3% (n = 26) of complete tendon injuries. BAMIC grade correlated with both median days and games missed. Combined biceps femoris and semitendinosus injuries resulted in the highest median days missed (27 days)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Among NFL players with acute HSIs, the most common injury was a moderate-severity injury of the distal biceps femoris. BAMIC grade was associated with missed time."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Combined biceps femoris and semitendinosus injuries resulted in the highest median days missed (27 days)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

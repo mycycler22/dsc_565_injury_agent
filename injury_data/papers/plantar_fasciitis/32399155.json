@@ -1,0 +1,25 @@
+{
+  "pmid": "32399155",
+  "title": "Gold-Induced Cytokine (GOLDIC<sup>®</sup>) Injection Therapy in Patient with Plantar Fasciosis: A Case Report.",
+  "year": "2020",
+  "journal": "Indian journal of orthopaedics",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "A novel technique of cultivating autologous blood with gold particles; then separating the gold particles and cells from the serum and injecting the conditioned serum into affected plantar fascia. A first-time report of the safety and efficacy in treatment of recalcitrant plantar fasciosis in an Olympic equestrian. A single patient with clinical signs, symptoms and ultrasound evidence of plantar fasciosis was treated with four intra-ligamentous GOLDIC<sup>®</sup> injection therapy. The Olympic jumper was evaluated by Visual Analog Scale (VAS), Foot and Ankle Disability Index (FADI), and Global Rating of Change (GRoC) score(s) before injection and at 6-month follow-up. VAS, FADI, and GRoC scores showed substantial and marked improvement clinically. The subject was able to return to sport without limitations after 8 weeks. The initial result demonstrates that the treatment regimen is safe, and efficacious. The subject demonstrated reduction of pain, and improved function that allowed return to high level competition."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The subject was able to return to sport without limitations after 8 weeks."
+    }
+  ],
+  "pmcid": "7205939",
+  "fulltext_chunks": []
+}

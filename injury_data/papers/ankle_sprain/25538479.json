@@ -1,0 +1,31 @@
+{
+  "pmid": "25538479",
+  "title": "Epidemiology of sports injuries on collegiate athletes at a single center.",
+  "year": "2014",
+  "journal": "Acta ortopedica brasileira",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate the incidence of sports injuries in college athletes from the same institution from 1993 to 2013."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes from 13 modalities were interviewed about the presence and type of injury, type of treatment and time of withdrawal, based on the questionnaire \"Injury Surveillance System\" (ISS). Data were analyzed with graphs and tables of injury prevalence by gender, age, site of injury and modality. We also analyzed the average time of withdrawal of athletes, returning to sports practice and new lesions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "It was observed that 49.91% of the athletes showed some type of injury, with similar incidence between genders; the most frequent injuries were the anterior cruciate ligament (ACL) and the ankle sprain; the average withdrawal time was 11 weeks. ACL was the injury with greater impact on college sports career, especially given the time of withdrawal."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The most frequent injury, ACL, occurred most frequently in indoor sports such as handball and volleyball and had the highest number of cases treated with surgery and a longer average withdrawal time. More studies are needed to create a larger database in order to schedule preventive measures for amateur athletes. Level IV of Evidence, Epidemiological Study."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

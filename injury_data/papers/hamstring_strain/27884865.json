@@ -1,0 +1,31 @@
+{
+  "pmid": "27884865",
+  "title": "Running exposure is associated with the risk of hamstring strain injury in elite Australian footballers.",
+  "year": "2018",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "To investigate the association between running exposure and the risk of hamstring strain injury (HSI) in elite Australian footballers."
+    },
+    {
+      "label": "METHODS",
+      "text": "Elite Australian footballers (n=220) from 5 different teams participated. Global positioning system (GPS) data were provided for every athlete for each training session and match for the entire 2015 season. The occurrences of HSIs throughout the study period were reported. Receiver operator characteristic curve analyses were performed and the relative risk (RR) of subsequent HSI was calculated for absolute and relative running exposure variables related to distance covered above 10 and 24 km/hour in the preceding week/s."
+    },
+    {
+      "label": "RESULTS",
+      "text": "30 prospective HSIs occurred. For the absolute running exposure variables, weekly distance covered above 24 km/hour (>653 m, RR=3.4, 95% CI 1.6 to 7.2, sensitivity=0.52, specificity=0.76, area under the curve (AUC)=0.63) had the largest influence on the risk of HSI in the following week. For the relative running exposure variables, distance covered above 24 km/hour as a percentage of distance covered above 10 km/hour (>2.5%, RR=6.3, 95% CI 1.5 to 26.7, sensitivity=0.93, specificity=0.34, AUC=0.63) had the largest influence on the risk of HSI in the following week. Despite significant increases in the RR of HSI, the predictive capacity of these variables was limited."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "An association exists between absolute and relative running exposure variables and elite Australian footballers' risk of subsequent HSI, with the association strongest when examining data within 7-14 days. Despite this, the use of running exposure variables displayed limited clinical utility to predict HSI at the individual level."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

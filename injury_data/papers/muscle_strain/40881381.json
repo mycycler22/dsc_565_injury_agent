@@ -1,0 +1,39 @@
+{
+  "pmid": "40881381",
+  "title": "From Head to Toe: Investigating Postconcussion Risks for Lower Extremity Injuries in Young Athletes.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Between 1.7 and 3 million sports-related concussions occur every year. While most concussion symptoms resolve within 3 weeks, the absence of biomarker-based tests makes evaluating return to sport difficult. Existing guidelines primarily focus on cognitive and executive functions and often overlook proprioceptive abilities. This omission may increase athletes' risk of subsequent lower extremity injuries during competition."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to assess the rate of lower extremity injuries in athletes in the year following their first concussion. It was hypothesized that athletes with a concussion would be at an increased risk for a subsequent lower extremity injury within 1 year compared with nonconcussed counterparts."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "This retrospective cohort study utilized the PearlDiver database and was queried on March 29, 2024. International Classification of Diseases, Tenth Revision (ICD-10) codes for sports physicals, activity in sports, and concussions were used to create concussed and nonconcussed athlete cohorts. ICD-10 codes for acute lower extremity injuries were used to identify specific injuries within the concussed and nonconcussed populations at 3, 6, 9, and 12-month intervals. Relative risks (RRs) were then calculated for each observed injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 899,269 athletes, 58,569 (6.5%) suffered a concussion, and of these concussed athletes, 6051 (10.3%) suffered a subsequent lower extremity injury within 1 year. Compared with nonconcussed athletes, there was a significantly increased risk of an unspecified ankle injury (RR, 1.40; <i>P</i> < .05), unspecified knee sprain (RR, 1.36; <i>P</i> < .05), unspecified foot injury (RR, 1.23; <i>P</i> < .001), medial collateral ligament sprain (RR, 1.23; <i>P</i> < .05), ankle sprain (RR, 1.18; <i>P</i> < .001), and foot sprain (RR, 1.10; <i>P</i> < .05). There was no significantly increased risk of sustaining lateral collateral ligament sprains, medial malleolar fractures, and lower extremity muscle strain ≤1 year after a concussion."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study found a significant increase in several lower extremity injuries ≤1 year after a concussion. Additional studies are warranted to better understand the different factors affecting concussion risk, which could include inadequate return-to-sport (RTS) protocols and prolonged vestibular dysfunction."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

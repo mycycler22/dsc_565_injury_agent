@@ -1,0 +1,32 @@
+{
+  "pmid": "11782644",
+  "title": "The prevention of shin splints in sports: a systematic review of literature.",
+  "year": "2002",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To review the published and unpublished evidence regarding risk factors associated with shin splints, assess the effectiveness of prevention strategies, and offer evidence-based recommendations to coaches, athletes, and researchers."
+    },
+    {
+      "label": "METHODS",
+      "text": "We searched electronic data bases without language restriction, identified citations from reference sections of research papers retrieved, contacted experts in the field, and searched the Cochrane Collaboration. Of the 199 citations identified, we emphasized results of the four reports that compared methods to prevent shin splints. We assessed the methodologic quality of these reports by using a standardized instrument."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The use of shock-absorbent insoles, foam heel pads, heel cord stretching, alternative footwear, as well as graduated running programs among military recruits have undergone assessment in controlled trials. There is no strong support for any of these interventions, and each of the four controlled trials is limited methodologically. Median quality scores in these four studies ranged from 29 to 47, and serious flaws in study design, control of bias, and statistical methods were identified."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our review yielded little objective evidence to support widespread use of any existing interventions to prevent shin splints. The most encouraging evidence for effective prevention of shin splints involves the use of shock-absorbing insoles. However, serious flaws in study design and implementation constrain the work in this field thus far. A rigorously implemented research program is critically needed to address this common sports medicine problem."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

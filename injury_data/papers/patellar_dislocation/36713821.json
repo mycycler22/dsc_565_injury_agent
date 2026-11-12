@@ -1,0 +1,27 @@
+{
+  "pmid": "36713821",
+  "title": "Anatomical Variation in Quadriceps Angle With Regard to Different Anthropometric Parameters in a Tertiary Care Center in Northern India: A Descriptive Study.",
+  "year": "2023",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The quadriceps angle, commonly known as the Q-angle, is the angle formed between the vectors of the pull of the quadriceps muscle and the patellar tendon. The literature varies in terms of the values of Q angles measured by various researchers. It is well appreciated that the normal Q-angle should fall between 12° and 20°, with males being at the lower end of this range and females having higher measurements. An increase in Q-angle beyond the normal range has been associated with knee extensor dysfunction leading to patellar instability. Keeping in mind the clinical and biomechanical importance of the Q-angle, the aim of this study was to compare and establish the range of the Q-angle in healthy individuals and evaluate its variations with respect to age, weight, height, gender, dominant side, and femoral bicondylar distance. These observations will be helpful for sports therapists in understanding the evaluation of Q-angle in athletes as a prognostic value for probable knee pathologies that may appear in the future."
+    },
+    {
+      "label": "METHODS",
+      "text": "The current study was conducted at a tertiary care center, and a total of 100 healthy adults between the ages of 18 and 35 were enrolled in the study (50 males and 50 females), following which their Q-angles, bicondylar distances, and femur lengths were measured. Individuals with any lower limb injury that resulted in a ligamentous, muscular, or bony defect; any spinal or neurological injury; any diagnosed knee disorder, such as a fracture, acute or chronic knee pain, patellar dislocation, or prior orthopaedic surgery in the lower extremities, were excluded from the study. Data were analyzed using paired t-tests, independent sample t-tests, ANOVA, and Pearson correlation coefficients."
+    },
+    {
+      "label": "RESULT AND CONCLUSION",
+      "text": "The mean Q-angle in males was found to be 11.14° ± 1.9° on the right side and 10.84° ± 1.86° on the left side. In females, it was found to be 13.68° ± 1.87° on the right side and 13.61° ± 2.04° on the left side. Among males, right and left Q-angles showed significant positive correlations with height, weight, BMI, right femur length, left femur length, right bicondylar distance, and left bicondylar distance (p<0.05). The highest correlation was found between weight and BMI. Among females, the right Q-angle showed significant positive correlations with weight and BMI (p<0.05). The highest correlation was found with weight."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

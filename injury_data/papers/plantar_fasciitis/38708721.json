@@ -1,0 +1,43 @@
+{
+  "pmid": "38708721",
+  "title": "Widespread Vascularization and Correlation of Glycosaminoglycan Accumulation to Tendon Pain in Human Plantar Fascia Tendinopathy.",
+  "year": "2024",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Plantar fasciitis is a painful tendinous condition (tendinopathy) with a high prevalence in athletes. While a healthy tendon has limited blood flow, ultrasound has indicated elevated blood flow in tendinopathy, but it is unknown if this is related to a de facto increase in the tendon vasculature. Likewise, an accumulation of glycosaminoglycans (GAGs) is observed in tendinopathy, but its relationship to clinical pain is unknown."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To explore to what extent vascularization, inflammation, and fat infiltration were present in patients with plantar fasciitis and if they were related to clinical symptoms."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Biopsy specimens from tendinopathic plantar fascia tissue were obtained per-operatively from both the primary site of tendon pain and tissue swelling (\"proximal\") and a region that appeared macroscopically healthy at 1 to 2 cm away from the primary site (\"distal\") in 22 patients. Biopsy specimens were examined with immunofluorescence for markers of blood vessels, tissue cell density, fat infiltration, and macrophage level. In addition, pain during the first step in the morning (registered during an earlier study) was correlated with the content of collagen and GAGs in tissue."
+    },
+    {
+      "label": "RESULTS",
+      "text": "High vascularization (and cellularity) was present in both the proximal (0.89%) and the distal (0.96%) plantar fascia samples, whereas inconsistent but not significantly different fat infiltration and macrophage levels were observed. The collagen content was similar in the 2 plantar fascia regions, whereas the GAG content was higher in the proximal region (3.2% in proximal and 2.8% in distal; <i>P</i> = .027). The GAG content in the proximal region was positively correlated with the subjective morning pain score in the patients with tendinopathy (n = 17)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In patients with plantar fasciitis, marked tissue vascularization was present in both the painful focal region and a neighboring nonsymptomatic area. In contrast, the accumulation of hydrophilic GAGs was greater in the symptomatic region and was positively correlated with increased clinical pain levels in daily life."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "The accumulation of GAGs in tissue rather than the extent of vascularization appears to be linked with the clinical degree of pain symptoms of the disease."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "38391804",
+  "title": "The Effects of Soft-Tissue Techniques and Exercise in the Treatment of Patellar Tendinopathy-Systematic Review and Meta-Analysis.",
+  "year": "2024",
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy is a degenerative clinical disorder that causes load-related pain in the lower pole of the patella or patellar tendon. It predominantly affects young male athletes engaged in sports involving repetitive tendon loading, particularly explosive jumping. The combination of manual techniques with therapeutic exercise is hypothesized to provide greater benefits than exercise alone."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this study is to analyze the scientific evidence regarding the effects of soft-tissue techniques combined with therapeutic exercise versus therapeutic exercise alone on pain intensity and function in individuals with patellar tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review with meta-analysis was conducted following the PRISMA guidelines. PubMed, Lilacs, IBECS, CENTRAL, WOS, SciELO, Academic Search, CINAHL, SportDiscus, PEDro, and Google Scholar databases were consulted. Randomized controlled trials and quasi-randomized trials focusing on the effects of soft-tissue techniques combined with therapeutic exercise (experimental group) versus therapeutic exercise alone (control group) on pain and function in individuals aged 16 years and older with patellar tendinopathy were selected. The Cochrane tool for risk-of-bias assessment and the PEDro scale for methodological quality were used."
+    },
+    {
+      "label": "RESULTS AND DISCUSSION",
+      "text": "A total of six studies (<i>n</i> = 309; age range = 16-40 years), considered to have a low risk of bias and moderate-to-high methodological quality, were included. The results showed improvements in function in the experimental group (mean of 60% on the Visa-P scale) and pain in the experimental group (mean decrease of 2 points in the VAS scale). There were improvements in 50% of the studies when comparing variables between the experimental and control groups."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The combination of manual techniques, such as dry needling, percutaneous electrolysis, transverse friction massage, and stretching, along with a squat on a 25° inclined plane, appears to be effective in the treatment of patellar tendinopathy. Static stretching of the quadriceps before and after the squat five times per week, along with dry needling or percutaneous electrolysis sessions twice a week for 8 weeks, is recommended. However, future studies analyzing groups with passive techniques versus therapeutic exercise are needed to standardize the treatment and establish the optimal dose."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

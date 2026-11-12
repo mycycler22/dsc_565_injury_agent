@@ -1,0 +1,47 @@
+{
+  "pmid": "40886700",
+  "title": "Biceps Femoris Long Head Fascicle Length Not Associated With Hamstring Injury Risk in NCAA Football Athletes.",
+  "year": "2024",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine whether biceps femoris long head (BFlh) fascicle length (FL) is related to hamstring injury (HSI) risk in collegiate football athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort."
+    },
+    {
+      "label": "SETTING",
+      "text": "University athletic medical center."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Division I Collegiate football athletes (n = 129, age = 20.03 ± 1.68 years, body mass index = 29.50 ± 5.06 kg/m2)."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Biceps femoris long head FL measurements were previously taken on the nondominant leg of each athlete. Presence or absence of HSI for 2 playing seasons and training camps was evaluated through retrospective review of medical records."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Whether a shorter BFlh FL was associated with increased risk for any HSI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Biceps femoris long head FL was not associated with HSI risk. Body mass index ≥30 kg/m2 was incidentally found to be protective (odds ratio = 0.27, 95% confidence interval, 0.08-0.84, P = 0.03)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Biceps femoris long head FL is not an ideal measurement for predicting risk of HSI in American football athletes."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

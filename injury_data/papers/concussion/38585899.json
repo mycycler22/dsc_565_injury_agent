@@ -1,0 +1,20 @@
+{
+  "pmid": "38585899",
+  "title": "Acute and Longitudinal Effects of Sport-related Concussion on Reactive Balance.",
+  "year": "2024",
+  "journal": "medRxiv : the preprint server for health sciences",
+  "pub_types": [
+    "Preprint",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Postural instability is a common observation after concussions, with balance assessments playing a crucial role in clinical evaluations. Widely used post-concussion balance tests focus primarily on static and dynamic balance, excluding the critical aspect of reactive balance. This study investigated the acute and longitudinal effects of concussion on reactive balance in collegiate athletes. The assessments were conducted at pre-season baseline and 4 post-concussion timepoints: acute, pre-return-to-play, post-return-to-play, and six months post-concussion. The instrumented-modified Push and Release test measured reactive balance. Longitudinal effects of concussions on time to stability and step latency metrics were investigated applying Generalized Estimating Equations. Acutely after concussion, athletes demonstrated impaired reactive balance, indicated by longer times to stability, in dual-task conditions ( <i>p</i> = 0.004). These acute impairments were transient and recovered over time. Exploratory analyses revealed that athletes who sustained their first lifetime concussion exhibited both acute ( <i>p</i> = 0.037) and longitudinal ( <i>p</i> = 0.004 at post-return-to-play) impairments in single- and dual-task compared to controls with no lifetime concussion. This comprehensive evaluation provides insights into the multifaceted nature of post-concussion impairments and emphasizes the importance of considering cognitive demand and history of concussions in assessing athletes' balance."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

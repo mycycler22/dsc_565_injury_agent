@@ -1,0 +1,35 @@
+{
+  "pmid": "41026411",
+  "title": "Prevalence and patterns of adductor lesions on MRI in athletes with osteitis pubis.",
+  "year": "2025",
+  "journal": "Journal of orthopaedics and traumatology : official journal of the Italian Society of Orthopaedics and Traumatology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Adductor lesions (ALs) frequently coexist with osteitis pubis (OP) in athletes, yet the prevalence and clinical impact of different AL types have not been comprehensively evaluated. This study aimed to determine the frequency of various AL types using magnetic resonance imaging (MRI) and to investigate their association with clinical outcomes in athletes with OP."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "This retrospective cross-sectional study included male athletes aged 18-45 years with MRI-confirmed OP. ALs were classified into four types on the basis of MRI: type 1 (strain), type 2 (tendon avulsion), type 3 (tendinopathy), and type 4 (secondary cleft sign). Types 1-2 were considered acute, and types 3-4 chronic lesions. The relationships between AL types, age, symptom side, return to sport (RTS), and hip outcome score (HOS) were analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Among 132 athletes with OP, 90% had concurrent AL, while 10% had isolated OP. Type 3 AL was the most frequent type (77.3%), followed by type 4 (23.5%), type 1 (15.9%), and type 2 (2.3%). Logistic regression revealed that type 3 was more likely to be found in younger athletes, while types 1 and 4 were found in older athletes. Although 95% of athletes had bilateral OP, 72% reported unilateral symptoms. The symptom side showed better consistency with the AL side than the OP side (Cohen's kappa = 0.489 versus 0.057). All athletes were treated conservatively, 50 chronic AL cases were applied also injection (31 corticosteroid-CS, 19 platelet reach plasma-PRP). Athletes with isolated OP achieved a higher RTS rate than those with AL (100% versus 75%, p = 0.033). RTS rates were higher in acute AL cases than in chronic cases (91% versus 72%) and in CS injections than in PRP injections (80% versus 63%), but without statistical significance. HOS scores were comparable across groups."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Adductor lesions, particularly chronic types, are highly prevalent in athletes with OP. While age influences the type of AL, the symptom side is compatible with the AL side, regardless of the type. RTS rates are more satisfactory in isolated OP and acute AL cases, but chronic AL cases were less successful in RTS outcomes despite injection treatments. These findings underscore the importance of identifying and classifying ALs for prognosis and treatment strategy in athletic groin pain."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "level IV, retrospective cohort study."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "30079768",
+  "title": "Treatment of Proximal Fifth Metatarsal Fractures and Refractures With Plantar Plating in Elite Athletes.",
+  "year": "2018",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND:",
+      "text": "Fractures of the proximal fifth metatarsal are relatively common foot injuries in elite athletes. Acute fixation with intramedullary screws is the most common operative treatment. However, the rate of nonunion and refracture after this procedure remains a concern. The purpose of this study was to determine rates of clinical and radiographic fracture healing, return to sport, and patient-reported clinical outcomes of elite athletes with proximal fifth metatarsal fracture or refracture treated with plantar plating."
+    },
+    {
+      "label": "METHODS:",
+      "text": "An institutional review board-approved retrospective single-surgeon case series investigation assessed athletes (competing at college, Olympic, or professional levels) with proximal fifth metatarsal fracture or refracture, treated with open reduction internal fixation and calcaneal autogenous bone grafting using a plantar plate with a minimum 2-year follow-up. Demographic data, radiographic evaluation, and the time until return to unrestricted sporting competition were collected and analyzed. Means with standard deviations were calculated for continuous data, and frequencies of categorical data were calculated in percentages."
+    },
+    {
+      "label": "RESULTS:",
+      "text": "Four refractures and 4 primary fractures were treated in 8 male athletes with a mean age of 21.9 ± 1.9 years at a mean follow-up of 3.2 ± 0.4 years. Two patients experienced temporary neuropraxia of the sural nerve that resolved within 6 weeks. There were no incisional complications, delayed unions or nonunions, refractures, hardware loosening, or complaints of hardware prominence. Clinically asymptomatic radiographic union was observed in 100% of the athletes at 6.5 ± 1.1 weeks and full release given at 12.3 ± 1.9 weeks. All athletes returned to sport at the same level of competition."
+    },
+    {
+      "label": "CONCLUSION:",
+      "text": "With minimum 2-year follow-up, plantar plating of proximal fifth metatarsal fractures was an effective and safe technique that was used in both primary and revision settings."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE:",
+      "text": "Level IV, case series."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS:",
+      "sentence": "Two patients experienced temporary neuropraxia of the sural nerve that resolved within 6 weeks."
+    },
+    {
+      "section": "RESULTS:",
+      "sentence": "Clinically asymptomatic radiographic union was observed in 100% of the athletes at 6.5 ± 1.1 weeks and full release given at 12.3 ± 1.9 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

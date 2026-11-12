@@ -1,0 +1,36 @@
+{
+  "pmid": "35980761",
+  "title": "Clinical Outcomes of Combined Anterior Cruciate Ligament Reconstruction and Lateral Extra-articular Tenodesis Procedures in Skeletally Immature Patients: A Systematic Review From the SANTI Study Group.",
+  "year": "2023",
+  "journal": "Journal of pediatric orthopedics",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The treatment of anterior cruciate ligament (ACL) tears in the pediatric population has changed significantly in the past few decades. Pediatric patients who underwent ACL reconstruction (ACLR) have a high risk of rerupture of up to 32%. The addition of lateral extra-articular procedures [lateral extra-articular tenodesis (LET)], already shown to be effective in reducing the risk of rerupture in adults, may also be effective in pediatric patients. The purpose of this study was to systematically review the clinical outcomes of ACLR+LET tenodesis in pediatric patients."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data were collected from Pubmed, MEDLINE, Cochrane, and Scopus Databases according to the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) guidelines. Studies reporting the clinical outcomes of ACLR+LET in the pediatric population using autograft, return to play, growth disturbances, failure rate, and surgical complications were included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 5 studies comprising 381 pediatric patients were included. Three main surgical techniques with common features were used. The mean age of all pediatric patients in the included studies was 11.73 years (range, 5.6 to 16) with a mean follow-up of 50.1 months. The overall graft failure rate of the included studies was 4.65%. The return to play was 95.11%. The mean Lysholm score was 94.51 and the mean Pediatric International Knee Documentation Committee (Pedi-IKDC) was 93.39. In all, 1.9% of the patients had a coronal plane deformity and 0.8% had a limb length discrepancy. 4.6% of the patients had a contralateral ACL tear."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A combined ACLR+LET in pediatric patients showed a graft failure ranging from 0% to 13.6% at a mean follow-up of 50.1 months. This low graft failure rate is consistent with ACLR+LET in adults. Further investigations are needed to validate these findings and the potential role of LET in reducing graft rupture rates in this population."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV-systematic review of level IV studies."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

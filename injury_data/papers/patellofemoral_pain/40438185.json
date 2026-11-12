@@ -1,0 +1,43 @@
+{
+  "pmid": "40438185",
+  "title": "Biomechanical Analysis After Anterior Cruciate Ligament Reconstruction at the Return-to-Sport Time Point.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Biomechanical alterations after anterior cruciate ligament reconstruction (ACLR) may increase the risk of knee reinjury. Furthermore, individuals may experience persistent biomechanical differences in the lower limbs after finishing the rehabilitation program and being ready to return to sport, which may lead to an increase in the risk of reinjury. Limited data exist on individuals after ACLR and biomechanical alterations during running in elite athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To measure kinetic and kinematic data during overground running 6 to 8 months after ACLR in an elite sports cohort."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Three-dimensional motion capture tested the running gait of the participants. A total of 34 elite sports professionals who underwent ACLR and were cleared to return to sport and 34 noninjured high-level athlete participants matched by age and sex participated as the control group in this study."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A significant reduction was identified in internal knee extensor moment and knee flexion angles between the ACLR limb and the contralateral side (<i>P</i> = .01, .02) and between the ACLR limb and the control limb (<i>P</i> = .01, .01). The external knee adduction moment was increased significantly between the ACLR and control limbs (<i>P</i> = .01). No other differences were seen in the knee or hip kinetics and kinematics."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "After ACLR, the elite participants demonstrated altered knee joint kinematics and kinetics at the time of being cleared to return to sport. These biomechanical deficits suggest that, despite being cleared, the athletes may not have been fully prepared for a safe return to sport, potentially increasing the risk of knee reinjury."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Alterations in kinematics and kinetics in the sagittal plane of the ACLR knee observed during running may predispose participants to joint-related issues, such as patellofemoral pain. Similarly, increased knee adduction moments in the affected limb may indicate unresolved biomechanical deficits. These findings suggest that the elite population may not be fully prepared to resume high-level activity within the 6-month time frame outlined in current rehabilitation protocols. A longer recovery period may be necessary to restore joint kinematics and kinetics to levels more consistent with a safe return to sport."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

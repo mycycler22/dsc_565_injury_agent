@@ -1,0 +1,20 @@
+{
+  "pmid": "11578022",
+  "title": "Concussion in sports: minimizing the risk for complications.",
+  "year": "2001",
+  "journal": "American family physician",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Mild traumatic brain injury, or concussion, is a common consequence of collisions, falls and other forms of contact in sports. Concussion may be defined as an acute trauma-induced alteration of mental function lasting fewer than 24 hours, with or without preceding loss of consciousness. The physician's responsibilities in assessing an athlete with concussion include determining the need for emergency intervention and offering guidance about the athlete's ability to return to play. Concussion may be complicated by cerebral edema related to the second impact syndrome, cumulative neuropsychologic deficits, intracranial bleeding or the postconcussion syndrome. The risk of complications is increased in athletes who prematurely return to play and in those with prolonged loss of consciousness or post-traumatic amnesia. An athlete with prolonged loss of consciousness or signs and symptoms that worsen or persist after a concussion should be evaluated in the emergency department. An athlete should not be allowed to resume sports participation until all symptoms of a concussion have resolved."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

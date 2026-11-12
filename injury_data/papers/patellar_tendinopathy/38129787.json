@@ -1,0 +1,32 @@
+{
+  "pmid": "38129787",
+  "title": "Does the ultrasound imaging predict lower limb tendinopathy in athletes: a systematic review.",
+  "year": "2023",
+  "journal": "BMC medical imaging",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "To conduct a systematic review looking into the possibility of US imaging to anticipate and identify future patellar or Achilles tendinopathy symptoms."
+    },
+    {
+      "label": "METHODS",
+      "text": "The studies that were taken into consideration for this review were prospective studies that employed baseline US imaging of the patellar OR Achilles tendons in asymptomatic patients and follow-up measures of pain and/or function. Two impartial reviewers evaluated the study's quality using the Critical Appraisal Skills Programme instrument."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Participants in the included studies in this review came from various sports. The systematic review revealed a link between baseline tendon abnormalities in the US and a higher chance of developing both patellar and Achilles tendinopathy as well as their future occurrence. Nine of the included studies examined the patellar tendon alone, eight the patellar and Achilles tendon together, and four the Achilles tendon exclusively. For both tendons, US administration is done in a largely consistent manner. The tendon abnormalities of tendon thickness, hypoechogenicity and vascularity at baseline were associated with an increased risk of both Achilles and patellar tendinopathy."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This systematic review shows that abnormal tendon structures seen by US in asymptomatic persons can predict the development of tendinopathy."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

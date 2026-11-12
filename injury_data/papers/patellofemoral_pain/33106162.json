@@ -1,0 +1,36 @@
+{
+  "pmid": "33106162",
+  "title": "Effects of whole body vibration with exercise therapy versus exercise therapy alone on flexibility, vertical jump height, agility and pain in athletes with patellofemoral pain: a randomized clinical trial.",
+  "year": "2020",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain (PFP) is the most prevalent orthopedic problem in active young adults. Due to its multifactorial etiology, a variety of therapeutic measures have been adopted to treat PFP, including exercise therapy, electrotherapy, and manual therapy. It has also been suggested that whole body vibration (WBV) can improve neuromuscular function in persons with knee problems. The aim of the present study was to evaluate the effects of adding WBV to routine exercise programs on flexibility, vertical jump height, agility and pain in athletes with PFP."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-four male athletes with PFP were randomized into two groups of WBV + exercise (n = 12) or exercise only (n = 12). Participants received their interventions during 4 consecutive weeks (12 sessions). Pain intensity, flexibility and agility were assessed respectively as score on a numerical rating scale, the sit-and-reach test, and a modified T-test, and vertical jump height was measured to the nearest centimeter. The tests were done before and after the interventions, and the results were compared between the two groups. Independent t-tests and paired t-tests were used for between- and within-group comparisons, respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "After the interventions, all variables for vertical jump height, flexibility, agility and pain intensity improved significantly in both groups (p < 0.05). The flexibility test showed significantly greater improvement in the WBV + exercise group (p<0.001), whereas for vertical jump height, agility and pain intensity, there were no statistically significant differences between groups (p>0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The present findings showed that exercise therapy with and without WBV can significantly decrease pain and increase agility, vertical jump height and flexibility in athletes with PFP. Adding WBV to routine exercise therapy, however, can augment the effects of the latter on flexibility."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "IRCT, IRCT20090831002391N39. Registered 7 February 2018, https://en.irct.ir/search/result?query=IRCT20090831002391N39 ."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

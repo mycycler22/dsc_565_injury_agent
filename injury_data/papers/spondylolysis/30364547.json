@@ -1,0 +1,31 @@
+{
+  "pmid": "30364547",
+  "title": "Determination of cervical stenosis in rugby players using an alternative radiographic method.",
+  "year": "2018",
+  "journal": "BMJ open sport & exercise medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To find a radiographic method that best correlates with the mean subaxial cervical space available for the cord (MSCSAC) by using a fixed size parameter as radiographic reference, in contrast to the use of vertebral bodies as reference in the mean subaxial cervical Torg ratio (MTorg)."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study was approved by an institutional review board and written informed consent was obtained. Radiographs and cervical neck MRI were obtained from 18 male rugby athletes (age 18-30 years). Rheumatic disease, symptomatic cervical orthopaedic disease and previous cervical injury were used as exclusion criteria. MSCSAC and MTorg were calculated for each individual as the space available for the cord and Torg ratio averages from C3 to C6, respectively. A new radiographic method, using a metal bar as a size parameter (the corrected diameter of the cervical canal - CDCC), was also calculated for each individual, as well as its average from C3 to C6 (mean corrected diameter of the cervical canal - MCDCC). Values obtained for MCDCC and MTorg were correlated with those obtained by the MSCSAC using Pearson's coefficient."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Four volunteers were excluded due to previous cervical injury. In total, 14 subjects had their radiographs and MRIs analysed. Pearson's correlation between MSCSAC and MTorg was 0.5706 (p=0.033). The correlation between MSCSAC and MCDCC was 0.6903 (p=0.006)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MCDCC correlates better than MTorg with MSCSAC and may be a better radiographic option than MTorg for cervical stenosis evaluation."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

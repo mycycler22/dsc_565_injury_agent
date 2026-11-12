@@ -1,0 +1,42 @@
+{
+  "pmid": "12435654",
+  "title": "The role of biomechanical shoe orthoses in tibial stress fracture prevention.",
+  "year": "2002",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Biomechanical orthoses have been shown to lower stress fracture incidence in infantry recruits. However, these results may not be applicable to running athletes."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Training in either running shoes or military boots with custom biomechanical shoe orthoses lessens tibial bone strains and strain rates during walking and running."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Randomized controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "In vivo strain measurements were made in nine subjects to determine whether the use of biomechanical orthoses lowers tibial strains during both walking and running and whether such lowering depends on the type of shoe worn. Measurements were made during treadmill walking at 5 km/hr and then during serial 2-km treadmill runs at 13 km/hr with running shoes, with and without the orthoses, and during serial 1-km runs with army boots, with and without the orthoses."
+    },
+    {
+      "label": "RESULTS",
+      "text": "When soft or semirigid biomechanical orthoses were worn with boots, the tibial peak-to-peak strains were significantly lowered. Soft orthoses also significantly lowered the tension and compression strain rates when worn with boots. During running, semirigid orthoses significantly increased the compression and tension strain rates when worn with boots."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The use of biomechanical orthoses may be warranted for tibial stress fracture prevention during training in which boots are worn and that mostly involves walking, but they are not warranted for activities that primarily involve running or are performed in running shoes."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

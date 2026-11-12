@@ -1,0 +1,32 @@
+{
+  "pmid": "35921595",
+  "title": "Osteoarthritis Risks and Sports: An Evidence-based Systematic Review.",
+  "year": "2022",
+  "journal": "Sports medicine and arthroscopy review",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Regular sports activities are associated with multiple physical and psychological health benefits. However, sports also may lead to injuries and the development of osteoarthritis (OA). This systematic review investigated the association between sports activity, sports type, and the risk of developing OA."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was performed by assessing studies that have investigated the risk of OA development in sports. Data extracted included general information, study design, number of participants, related body mass index, sports type, and assessment of OA. The methodological quality of the studies was assessed using the Newcastle-Ottawa Scale."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 63 studies were included in this systematic review. The overall Newcastle-Ottawa Scale score was 6.46±1.44 demonstrating a good methodological quality of the articles included in the present study. A total of 628,036 participants were included, with a mean follow-up of 8.0±8.4 years. The mean age of the included athletes was 45.6±15.8, with a mean body mass index of 24.9±2.3 kg/m 2 ."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Football and soccer players seem to be at higher risk for the development of OA, although the injury status of the joint should be considered when assessing the risk of OA. High equipment weight and increased injury risk also put military personnel at a higher risk of OA, although elite dancing leads to more hip labral tears. Femoroacetabular impingement was also often diagnosed in ice-hockey players and ballet dancers."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "31642974",
+  "title": "Correlating clinical assessment and MRI findings in diagnosing calf injuries in elite male Australian rules footballers.",
+  "year": "2020",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Calf complex injuries represent a significant injury burden among Australian Rules athletes. To date, there has been limited research correlating clinical and radiological findings of pathology within the calf. The objective of this study is to determine how accurately magnetic resonance imaging (MRI) findings correlate with clinical measures of calf muscle complex pathology in elite male athletes."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "A prospective cohort study was conducted on Australian rules elite athletes. A cohort of 45 athletes underwent a high-load training session of approximately 10 km of running. Athletes were then assessed by a sports physiotherapist who made a diagnosis of no pathology, delayed onset muscle soreness, strain or other. Subsequently, the athletes underwent MRI of their bilateral calf complexes. Radiologists interpreted the MRI findings and radiological diagnosis were correlated with clinical diagnosis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 90 calf MRIs were performed. Correlation of clinical and radiological diagnosis occurred in 57 cases. Of the 33 cases which did not correlate, there were 4 radiologically significant acute calf strains in clinically asymptomatic athletes, 3 of which involved old scar tissue."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MRI may detect clinically insignificant injuries within the calf complex. If an athlete does not have any clinically relevant symptoms, abnormal signal on MRI may represent a different diagnosis to muscle strain. Signal change on MRI proximal to scar tissue may represent reactive oedema. Clinical history and examination should be correlated with radiological findings is recommended when diagnosing calf injury in elite athletes."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

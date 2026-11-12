@@ -1,0 +1,32 @@
+{
+  "pmid": "37252646",
+  "title": "Ankle Sprains in Athletes: Current Epidemiological, Clinical and Imaging Trends.",
+  "year": "2023",
+  "journal": "Open access journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Ankle injuries are frequent sports injuries. Despite optimizing treatment strategies during recent years, the percentage of chronification following an ankle sprain remains high. The purpose of this review article is, to highlight current epidemiological, clinical and novel advanced cross-sectional imaging trends that may help to evaluate ankle sprain injuries."
+    },
+    {
+      "label": "METHODS",
+      "text": "Systematic PubMed literature research. Identification and review of studies (i) analyzing and describing ankle sprain and (ii) focusing on advanced cross-sectional imaging techniques at the ankle."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The ankle is one of the most frequently injured body parts in sports. During the COVID-19 pandemic, there was a change in sporting behavior and sports injuries. Ankle sprains account for about 16-40% of the sports-related injuries. Novel cross-sectional imaging techniques, including Compressed Sensing MRI, 3D MRI, ankle MRI with traction or plantarflexion-supination, quantitative MRI, CT-like MRI, CT arthrography, weight-bearing cone beam CT, dual-energy CT, photon-counting CT, and projection-based metal artifact reduction CT may be introduced for detection and evaluation of specific pathologies after ankle injury. While simple ankle sprains are generally treated conservatively, unstable syndesmotic injuries may undergo stabilization using suture-button-fixation. Minced cartilage implantation is a novel cartilage repair technique for osteochondral defects at the ankle."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Applications and advantages of different cross-sectional imaging techniques at the ankle are highlighted. In a personalized approach, optimal imaging techniques may be chosen that best detect and delineate structural ankle injuries in athletes."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

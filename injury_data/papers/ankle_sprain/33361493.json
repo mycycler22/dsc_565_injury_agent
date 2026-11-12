@@ -1,0 +1,43 @@
+{
+  "pmid": "33361493",
+  "title": "Acute Effect of Ankle Kinesio™ Taping on Lower-Limb Biomechanics During Single-Legged Drop Landing.",
+  "year": "2020",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Chronic ankle instability is documented to be followed by a recurrence of giving away episodes due to impairments in mechanical support. The application of ankle Kinesiotaping (KT) as a therapeutic intervention has been increasingly raised among athletes and physiotherapists."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "This study aimed to investigate the impacts of ankle KT on the lower-limb kinematics, kinetics, dynamic balance, and muscle activity of college athletes with chronic ankle instability."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A crossover study design."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Twenty-eight college athletes with chronic ankle sprain (11 females and 17 males, 23.46 [2.65] y, 175.36 [11.49] cm, 70.12 [14.11] kg) participated in this study."
+    },
+    {
+      "label": "SETTING",
+      "text": "The participants executed 3 single-leg drop landings under nontaped and ankle Kinesio-taped conditions. Ankle, knee, and hip kinematics, kinetics, and dynamic balance status and the lateral gastrocnemius, medial gastrocnemius, tibialis anterior, and peroneus longus muscle activity were recorded and analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The application of ankle KT decreased ankle joint range of motion (P = .039) and angular velocities (P = .044) in the sagittal plane, ground reaction force rate of loading (P = .019), and mediolateral time to stability (P = .035). The lateral gastrocnemius (0.002) and peroneus longus (0.046) activity amplitudes also experienced a significant decrease after initial ground contact when the participants' ankles were taped, while the application of ankle KT resulted in an increase in the peroneus longus (0.014) activity amplitudes before initial ground contact."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Ankle lateral supports provided by KT potentially decreases mechanical stresses applied to the lower limbs, aids in dynamic balance, and lowers calf muscle energy consumption; therefore, it could be offered as a suitable supportive means for acute usage in athletes with chronic ankle instability."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

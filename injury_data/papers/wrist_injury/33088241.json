@@ -1,0 +1,46 @@
+{
+  "pmid": "33088241",
+  "title": "Prevalence and Treatment Outcomes of Hand and Wrist Injuries in Professional Athletes: A Systematic Review.",
+  "year": "2020",
+  "journal": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Injuries to the hand and wrist constitute up to 25% of all athletic injuries, yet not much information is available on the effects of such injuries on the careers of professional athletes. Understanding whether elite athletes can return to sport and at what level has value for athletes, coaches, managers, and others, including athletes at other levels of play."
+    },
+    {
+      "label": "QUESTIONS/PURPOSES",
+      "text": "The purpose of this study was to systematically review the literature on injuries of the hand and wrist in professional athletes to determine the prevalence and types of injuries sustained in professional sports, the management and clinical outcomes of such injuries, and the statistics regarding return to play."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was conducted of PubMed/MEDLINE and the Cochrane Central Register of Controlled Trials to identify all studies reporting on hand and wrist injuries in professional athletes that were published between January 1970 and April 2019. Inclusion criteria were injuries of the upper extremity distal to the elbow that occurred in professional athletes during athletic competition, English language, and a study cohort consisting of four or more subjects. Details of injury sustained, sport, treatment, clinical outcome, and return to sport were extracted."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We identified 32 nonoverlapping studies involving a total of 4299 hand and wrist injuries. The most common sport studied was baseball (eight studies), followed by football (seven), boxing (six), and basketball (five). Specific injury type was included in 29 of 32 studies and totaled 792 injuries. Metacarpal fractures were the most common injuries (<i>n</i> = 273; 34.5%), followed by thumb collateral ligament injuries (<i>n</i> = 110; 13.9%), phalangeal fractures (<i>n</i> = 87; 11.0%), and scaphoid fractures (<i>n</i> = 56; 7.1%). The overall operative rate was 18.3% (<i>n</i> = 708 of 3867). One-half of the studies reported the return to play (average, 2.8 months; range, 0.5 to 9 months). Seven studies reported sport-specific objective performance measures, with six describing consistent return to preinjury levels of performance among athletes."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Based on the available evidence, a large majority of hand and wrist injuries in professional athletes are treated conservatively. Athletes frequently return to preinjury levels of performance after surgery. Additionally, return to play after a hand injury appears to be faster than that after other bony injuries. Further research is needed into the impact of these injuries on athletic performance, as well as how surgical intervention affects validated patient-reported outcome measures in professional athletes."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "One-half of the studies reported the return to play (average, 2.8 months; range, 0.5 to 9 months)."
+    }
+  ],
+  "pmcid": "7534880",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "We identified 32 nonoverlapping studies involving a total of 4299 hand and wrist injuries. The most common sport studied was baseball (eight studies), followed by football (seven), boxing (six), and basketball (five). Specific injury type was included in 29 of 32 studies and totaled 792 injuries. Metacarpal fractures were the most common injuries (n = 273; 34.5%), followed by thumb collateral ligament injuries (n = 110; 13.9%), phalangeal fractures (n = 87; 11.0%), and scaphoid fractures (n = 56; 7.1%). The overall operative rate was 18.3% (n = 708 of 3867). One-half of the studies reported the return to play (average, 2.8 months; range, 0.5 to 9 months). Seven studies reported sport-specific objective performance measures, with six describing consistent return to preinjury levels of performance among athletes."
+    }
+  ]
+}

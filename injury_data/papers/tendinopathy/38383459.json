@@ -1,0 +1,32 @@
+{
+  "pmid": "38383459",
+  "title": "To allow or avoid pain during shoulder rehabilitation exercises for patients with chronic rotator cuff tendinopathy-Study protocol for a randomized controlled trial (the PASE trial).",
+  "year": "2024",
+  "journal": "Trials",
+  "pub_types": [
+    "Clinical Trial Protocol",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Rotator cuff (RC) tendinopathy is the most reported shoulder disorder in the general population with highest prevalence in overhead athletes and adult working-age population. A growing body of evidence support exercise therapy as an effective intervention, but to date there are no prospective randomized controlled trials addressing pain as an intervention variable."
+    },
+    {
+      "label": "METHODS",
+      "text": "A single-site, prospective, pragmatic, assessor-blinded randomized controlled superiority trial. Eighty-four patients aged 18-55 years with chronic (symptom duration over 3 months) RC tendinopathy are randomized 1:1 to receive shoulder exercise during which pain is either allowed or avoided. The intervention period lasts 26 weeks. During that period, participants in both groups are offered 8 individual on-site sessions with an assigned sports physiotherapist. Participants perform home exercises and are provided with a pain and exercise logbook and asked to report completed home-based exercise sessions and reasons for not completing sessions (pain or other reasons). Patients are also asked to report load and the number of sets and repetitions per sets for each exercise session. The logbooks are collected continuously throughout the intervention period. The primary and secondary outcomes are obtained at baseline, 6 weeks, 26 weeks, and 1 year after baseline. The primary outcome is patient-reported pain and disability using the Shoulder PAin and Disability Index (SPADI). Secondary outcomes are patient-reported pain and disability using Disability Arm Shoulder and Hand short-form (Quick DASH), and shoulder pain using Numeric Pain Rating Scale. Objective outcomes are shoulder range of motion, isometric shoulder muscle strength, pain sensitivity, working ability, and structural changes in the supraspinatus tendon and muscle using ultrasound."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "The results of this study will contribute knowledge about the treatment strategies for patients with RC tendinopathy and help physiotherapists in clinical decision-making. This is the first randomized controlled trial comparing the effects of allowing pain versus avoiding pain during shoulder exercises in patients with chronic RC tendinopathy. If tolerating pain during and after exercise proves to be effective, it will potentially expand our understanding of \"exercising into pain\" for this patient group, as there is currently no consensus."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "ClinicalTrials.gov NCT05124769. Registered on August 11, 2021."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

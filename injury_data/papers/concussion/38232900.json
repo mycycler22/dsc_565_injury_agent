@@ -1,0 +1,32 @@
+{
+  "pmid": "38232900",
+  "title": "Symptom presentation and evolution in the first 48 hours after injury are associated with return to play after concussion in elite Rugby Union.",
+  "year": "2024",
+  "journal": "Journal of sport and health science",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Return to play (RTP) in elite rugby is managed using a 6-stage graduated RTP protocol, which can result in clearance to play within 1 week of injury. We aimed to explore how symptom, cognitive, and balance presentation and evolution during concussion screens 2 h (head injury assessment (HIA) 2) and 48 h (HIA3) after injury were associated with time to RTP) to identify whether a more conservative graduated RTP may be appropriate."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective cohort study was conducted in 380 concussed rugby players from elite men's rugby over 3 consecutive seasons. Players were classified as shorter or longer returns, depending on whether RTP occurred within 7 days (allowing them to be considered to play the match 1 week after injury) or longer than 8 days, respectively. Symptom, cognitive, and balance performance during screens was assessed relative to baseline (normal or abnormal) and to the preceding screen (improving or worsening). Associations between sub-test abnormalities and RTP time were explored using odds ratios (OR, longer vs. shorter). Median day absence was compared between players with abnormal or worsening results and those whose results were normal or improving."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Abnormal symptom results during screens 2 h and 48 h after concussion were associated with longer return time (HIA2: OR = 2.21, 95% confidence interval (95%CI): 1.39-3.50; HIA3: OR = 3.30, 95%CI: 1.89-5.75). Worsening symptom number or severity from the time of injury to 2 h and 48 h post-injury was associated with longer return (HIA2: OR = 2.49, 95%CI: 1.36-4.58; HIA3: OR = 3.34, 95%CI: 1.10-10.15. Median days absence was greater in players with abnormal symptom results at both HIA2 and HIA3. Cognitive and balance performance were not associated with longer return and did not affect median days absence."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Symptom presentation and evolution within 48 h of concussion were associated with longer RTP times. This may guide a more conservative approach to RTP, while still adhering to individualized concussion management principles."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

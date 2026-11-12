@@ -1,0 +1,39 @@
+{
+  "pmid": "34773760",
+  "title": "Patellar tendinopathy impairs postural control in athletes: A case-control study.",
+  "year": "2022",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare postural control performance between athletes with and without patellar tendinopathy (PT)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Case-control study."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Fifty-eight athletes, 29 with PT (PT group: PTG) and 29 healthy ones (control group: CG)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Static and dynamic postural control were assessed with a force platform and the Y-Balance Test (Y-BT), respectively. Quadriceps strength of both limbs was evaluated using an isometric dynamometer."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The PTG exhibited significantly (p < 0.05) higher centre of pressure (CoP) values than the CG on the foam surface, and significantly lower (p < 0.001) anterior, posteromedial and posterolateral normalized reach distances, and composite score in dynamic postural control on the injured limb (IL) compared to non-injured limb (NIL) and dominant limb (DL) of the CG. The quadriceps muscle strength was significantly lower on the IL compared to the NIL (p < 0.01) and DL (p < 0.05) of the CG."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes suffering from PT exhibited worse static and dynamic postural control compared to healthy peers. As players with PT frequently continue training despite their tendon pain, physiotherapists and clinicians should incorporate balance rehabilitation programs in the treatment of these players, not only to prevent further potential injuries but also to enhance sport performance."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

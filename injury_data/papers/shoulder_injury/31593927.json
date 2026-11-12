@@ -1,0 +1,48 @@
+{
+  "pmid": "31593927",
+  "title": "Ultrasonographic and Myotonometric Evaluation of the Shoulder Girdle After an Isokinetic Muscle Fatigue Protocol.",
+  "year": "2020",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The aim of the study was to investigate supraspinatus tendon thickness, acromiohumeral distance (AHD), and stiffness/creep measures of the shoulder girdle in overhead asymptomatic athletes in muscle fatigue conditions."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Observational, case series study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Biomechanics and motion analysis lab."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Twenty-four male overhead volleyball (n = 8), handball (n = 8), and tennis (n = 8) athletes. All subjects were without shoulder injury history."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE",
+      "text": "The subjects were tested for supraspinatus tendon thickness (in short and long axis), AHD using ultrasound scans and stiffness/creep of upper trapezius, infraspinatus, anterior and posterior deltoid, and pectoralis major using the myotonometer device before and immediately after a fatigue protocol."
+    },
+    {
+      "label": "INTERVENTION",
+      "text": "The fatigue protocol consisted of 3 sets of 32 maximum isokinetic concentric contractions performing shoulder internal and external rotation at isokinetic speed of 120°/s."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A significant increase in supraspinatus tendon thickness (both in short and long axis) (P = .045 and P = .01, respectively) and a reduction in AHD (P = .01) were found after an isokinetic protocol. The stiffness increased significantly in upper trapezius (P ≤ .01), infraspinatus (P = .003), posterior deltoid (P = .047), and pectoralis major (P = .01), whereas the creep showed a significant decrement for upper trapezius (P = .001) and infraspinatus (P = .003)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The present study has demonstrated the postexercise fatigue in overhead athletes. The increase of stiffness (reduction of muscle creep) and tendon thickness (simultaneous to the reduction of AHD) may indicate rotator cuff overloading as a primary intrinsic tendon pathology process."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

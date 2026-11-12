@@ -1,0 +1,32 @@
+{
+  "pmid": "33820729",
+  "title": "Arthroscopic labral repair for femoroacetabular impingement: A systematic review.",
+  "year": "2022",
+  "journal": "The surgeon : journal of the Royal Colleges of Surgeons of Edinburgh and Ireland",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The present systematic review investigated return to sport, patient reported outcome measures (PROMs), complications and subsequent progression to total hip arthroplasty (THA) in patients undergoing arthroscopic labral repair for FAI."
+    },
+    {
+      "label": "MATERIAL AND METHODS",
+      "text": "Following the PRISMA statement, the literature search was performed in February 2021. The outcomes of interest were: rate of return to sport, modified Harris Hip Score (mHHS), the subscales Activities of Daily Living and Sport-Specific Subscale of the Hip Outcome Score (HOS-ADL and HOS-SSS, respectively). Complications, revision surgeries and progression to total hip arthroplasty were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Data from 210 procedures were retrieved. The mean follow-up was 34.0 (24.0-42.5) months. The mean age of the patients was 32.0 (20.0-47.0) years, while the mean BMI was 20.9 (20.1-21.7) kg/m<sup>2</sup>. 52.8% (111 of 210 patients) were women. At 24-month follow-up, 100% of the patients had returned to sport. At a mean of 34 months follow-up, the mean mHHS increased by 25.5% (P = 0.02), the mean HOS-ADL by 23.0% (P = 0.03), the mean HOS-SSS by 32.8% (P = 0.001). No complications were observed. The rate of revision was 4.3% (9 of 210 procedures). At a mean of 37.9 ± 7.5 months, 1.9% of patients (4/210) underwent THA."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic labral refixation for FAI yields reliably positive clinical outcomes, with a low rate of revision and conversion to THA."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

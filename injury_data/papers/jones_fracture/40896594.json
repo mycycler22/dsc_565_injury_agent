@@ -1,0 +1,31 @@
+{
+  "pmid": "40896594",
+  "title": "Hip internal rotation restriction and heel raise mechanics as risk factors for Jones fractures in youth football players.",
+  "year": "2025",
+  "journal": "Asia-Pacific journal of sports medicine, arthroscopy, rehabilitation and technology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Jones fractures, stress fractures at the proximal metaphyseal-diaphyseal junction of the fifth metatarsal, are common in sports that involve repetitive jumping and turning, particularly football (i.e., soccer). The incidence among Japanese football players is higher than in Europe, with a high refracture rate, particularly in conservatively managed cases. Although surgical treatment is preferred for athletes, limited data exist on risk factors in youth players. This study aimed to investigate the prevalence and risk factors for Jones fractures among high-level Japanese high school football players through medical examinations."
+    },
+    {
+      "label": "METHODS",
+      "text": "Medical examinations were conducted during the 2024 tournament involving 20 top-level high school teams (567 players). Ultrasound and X-ray imaging identified fractures, and players underwent various physical tests, including hip internal rotation (HIR) and weight-bearing position during a single heel raise (SHR). A questionnaire collected demographic data and fracture histories. Statistical analyses, including the Wilcoxon signed-rank test and Mann-Whitney <i>U</i> test, were conducted to determine associations with fracture risk."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 232 male players (40.9 % of all), 18 (7.8 %) tested positive on ultrasound, seven (3.0 %) had confirmed fractures on radiography, and 11 reported a history of Jones fractures. Players with restricted HIR <30° and lateral weight-bearing during SHR showed a significantly higher fracture risk (Crude Odds Ratio: 3.74, p = 0.01). Additional lateral weight bearing during SHR increased the risk (Crude Odds Ratio, 4.02; p = 0.007)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Restricted HIR and lateral weight-bearing during SHR were identified as risk factors for Jones fractures in youth football players. Recognizing these factors may enable targeted preventive measures to reduce injury risk in high-level athletes."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

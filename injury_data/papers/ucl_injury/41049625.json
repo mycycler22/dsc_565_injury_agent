@@ -1,0 +1,31 @@
+{
+  "pmid": "41049625",
+  "title": "Incidence, management, and outcomes following elbow ulnar collateral ligament injuries in nonquarterback professional football players.",
+  "year": "2025",
+  "journal": "JSES international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) injuries can cause significant disability, especially in overhead throwing athletes. A majority of studies in the literature focus on the effects of UCL injuries in baseball players, but little is known about the severity and outcomes of these injuries in elite nonthrowing contact athletes. The purpose of this study was to characterize the severity of UCL injuries and describe management outcomes in nonthrowing professional football players."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was conducted using the National Football League (NFL) Injury Surveillance System on nonquarterback players that had a UCL injury from 2015 to 2022. Player demographics, player position, severity and mechanism of injury, type of management, and time to return to play were collected. The severity of injury was classified based on laxity on clinical examination and graded on a scale of I-III. Data were analyzed to determine the number of injuries that occurred per year, per position, and per setting to determine differences in time from play that was missed based on injury severity. Statistical significance was set a <i>P</i> < .05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 268 nonquarterback NFL players sustained isolated UCL injuries between 2015 and 2022, including 33.5 ± 4.2 injuries per year. Offensive and defensive linemen were the most common positions to sustain isolated UCL injuries, accounting for 56.0% (150 of 268 total injuries total) of all nonquarterback UCL injuries in the NFL. Ninety-eight percent of player with isolated UCL injuries were treated nonoperatively with only 4 players requiring surgical treatment of their injury. Seventy-three percent of injuries were grade I sprains, 16.8% were grade II sprains, and 10.1% were Grade III sprains. Seventy-two percent of athletes did not miss any time due to their isolated UCL injury. In the 28% of players that did miss time, the mean time missed was 5.4 ± 24.2 days. There was a significant difference in the time missed between grade I and grade II injuries (1.1 days vs. 12.4 days; <i>P</i> < .05) and grade I and grade III injuries (1.1 days vs. 26.3 days; <i>P</i> < .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Isolated UCL injuries are relatively uncommon injuries in nonquarterback NFL players. The vast majority of injuries are grade I sprains and are treated nonoperatively. Grade II and grade III injuries result in significantly increased time missed compared to grade I injuries. This information can be useful when counseling players regarding prognosis and timing of return to play based on severity of injury."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

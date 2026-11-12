@@ -1,0 +1,20 @@
+{
+  "pmid": "41700290",
+  "title": "Conservative Versus Operative Management of Pediatric Isolated Anterior Shoulder Instability: A Systematic Review and Meta-Analysis.",
+  "year": "2026",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Anterior shoulder instability, which includes dislocations and subluxations, is a significant concern in pediatric populations (≤19 years). Following an initial dislocation or subluxation, these patients often develop recurrent instability, which can result in long-term functional compromise. While timely and appropriate treatment is crucial, there remains a lack of consensus in the literature regarding the optimal management of pediatric shoulder instability. This systematic review aims to compare the efficacy of conservative and operative treatments for traumatic, isolated anterior shoulder instability in pediatric populations using recurrence of instability and return to play (RTP) at pre-injury levels as outcome measures. This study also provides a contemporary analysis that reflects evolving treatment strategies. This systematic review targeted studies published between 2013 and 2023 that evaluated pediatric patients (≤19 years), most between 13 and 19 years of age, who received conservative or operative treatment for a first-time or recurrent traumatic isolated anterior shoulder dislocation or subluxation. Statistical analysis was performed to compare rates of recurrence of instability and RTP within each group. Pooled effects (odds ratios) were estimated using fixed-effects models where heterogeneity was absent; otherwise, random-effects models were applied. A total of 1,459 patients (1,468 shoulders) met the inclusion criteria. Of these, 593 (40.4%) underwent conservative treatment, while 885 (60.3%) received operative interventions. Recurrence rates of instability were higher in the conservative group (236/543, 43.5%) compared to the primary operative group (182/875, 20.8%) and secondary operative group (2/26, 7.7%). RTP rates included 145/193 (75.1%) of conservatively treated patients, 380/480 (79.2%) of primary operative patients, and 8/11 (72.7%) of secondary operative patients returning to pre-injury levels. Among the four studies that directly compared conservative and primary operative treatments, the nonoperative group was more likely to have recurrence compared to the primary operative group (OR = 6.90; 95% CI, 2.28-20.91; p < 0.001). One of these studies was excluded due to methodological differences. A subsequent meta-analysis revealed a significantly higher likelihood of recurrent instability in conservatively treated patients (odds ratio (OR) = 9.55; 95% confidence interval (CI): 5.10-17.88; p < 0.001). In contrast, there was no statistically significant difference in RTP between groups (OR = 3.11; 95% CI: 0.31-30.97; p = 0.33). The findings support early surgical intervention in pediatric patients to reduce recurrence and improve functional outcomes. Conservative management, while recently shown to be successful for patients with less severe injuries such as subluxations, is still primarily associated with higher recurrence rates compared to operative treatment. Further studies are needed to refine treatment protocols by distinguishing effective strategies for subluxations versus dislocations. Future research should also explore the influence of factors such as sex, skeletal maturity, and activity level in determining optimal management strategies in pediatric patients."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

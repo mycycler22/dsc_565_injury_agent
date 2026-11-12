@@ -1,0 +1,47 @@
+{
+  "pmid": "27587598",
+  "title": "Association Between Concussion and Lower Extremity Injuries in Collegiate Athletes.",
+  "year": "2016",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Concussions have been associated with elevated musculoskeletal injury risk; however, the influence of unreported and unrecognized concussions has not been investigated."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "The purpose of this study was to examine the association between concussion and lower extremity musculoskeletal injury rates across a diverse array of sports among collegiate student-athletes at the conclusion of their athletic career. The hypothesis was that there will be a positive association between athletes who reported a history of concussions and higher rates of lower extremity injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Student-athletes (N = 335; 62.1% women; mean age, 21.2 ± 1.4 years) from 13 sports completed a reliable injury history questionnaire. Respondents indicated the total number of reported, unreported, and potentially unrecognized concussions as well as lower extremity injuries including ankle sprains, knee injuries, and muscle strains. Chi-square analyses were performed to identify the association between concussion and lower extremity injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were significant associations between concussion and lateral ankle sprain ( P = 0.012), knee injury ( P = 0.002), and lower extremity muscle strain ( P = 0.031). There were also significant associations between reported concussions and knee injury ( P = 0.003), unreported concussions and knee injury ( P = 0.002), and unrecognized concussions and lateral ankle sprain ( P = 0.001) and lower extremity muscle strains ( P = 0.006), with odds ratios ranging from 1.6 to 2.9."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There was a positive association between concussion history and lower extremity injuries (odds ratios, 1.6-2.9 elevated risk) among student-athletes at the conclusion of their intercollegiate athletic careers."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Clinicians should be aware of these elevated risks when making return-to-participation decisions and should incorporate injury prevention protocols."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

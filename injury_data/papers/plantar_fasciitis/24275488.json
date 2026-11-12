@@ -1,0 +1,35 @@
+{
+  "pmid": "24275488",
+  "title": "Risk factors affecting chronic rupture of the plantar fascia.",
+  "year": "2014",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Prior to 1994, plantar fascia ruptures were considered as an acute injury that occurred primarily in athletes. However, plantar fascia ruptures have recently been reported in the setting of preexisting plantar fasciitis. We analyzed risk factors causing plantar fascia rupture in the presence of preexisting plantar fasciitis."
+    },
+    {
+      "label": "METHODS",
+      "text": "We retrospectively reviewed 286 patients with plantar fasciitis who were referred from private clinics between March 2004 and February 2008. Patients were divided into those with or without a plantar fascia rupture. There were 35 patients in the rupture group and 251 in the nonrupture group. The clinical characteristics and risk factors for plantar fascia rupture were compared between the 2 groups. We compared age, gender, the affected site, visual analog scale pain score, previous treatment regimen, body mass index, degree of ankle dorsiflexion, the use of steroid injections, the extent of activity, calcaneal pitch angle, the presence of a calcaneal spur, and heel alignment between the 2 groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the assessed risk factors, only steroid injection was associated with the occurrence of a plantar fascia rupture. Among the 35 patients with a rupture, 33 had received steroid injections. The odds ratio of steroid injection was 33."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Steroid injections for plantar fasciitis should be cautiously administered because of the higher risk for plantar fascia rupture."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective comparative study."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

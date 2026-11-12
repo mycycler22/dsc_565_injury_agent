@@ -1,0 +1,24 @@
+{
+  "pmid": "29708569",
+  "title": "Performance-Based Outcomes Following Lisfranc Injury Among Professional American Football and Rugby Athletes.",
+  "year": "2018",
+  "journal": "Orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Professional National Football League (NFL) and rugby athletes have high rates of Lisfranc injuries. Although favorable return-to-play rates have been previously reported, a thorough assessment of postinjury performance is lacking. Professional NFL and rugby athletes who sustained a Lisfranc injury were identified using a well-established protocol confirmed by multiple sources of the public record. Return-to-play rate and time to return were determined for each athlete. League participation and game performance were collected 1 season prior to injury and up to 3 seasons after injury. Statistical analysis was performed, with P≤.05 being significant. A total of 47 athletes (NFL=35, rugby=12) with Lisfranc injuries were identified, having 23 ligamentous injuries and 24 fractures. Thirty-five (75%) were treated operatively. Among NFL players, 29 (83%) returned to play, taking 10.0±2.9 months to do so. Overall, NFL players started fewer games 2 and 3 seasons following surgery (P=.002 and .035, respectively) and showed a significant decline in performance 1 season after return compared with preinjury levels (21%; P=.05). Offensive players had a significantly greater decline in statistical performance compared with defensive counterparts (P=.02). Although professional NFL athletes return to play at a high rate (83%) following Lisfranc injury, their league participation and performance is significantly decreased on return. Ligamentous and bony injuries have similar prognoses; however, offensive players show greater declines in performance compared with defensive players. To best guide therapy, players, coaches, and team physicians should be aware of the impact of Lisfranc injuries on career performance and longevity. [Orthopedics. 2018; 41(4):e479-e482.]."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Among NFL players, 29 (83%) returned to play, taking 10.0±2.9 months to do so."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

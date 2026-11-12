@@ -1,0 +1,19 @@
+{
+  "pmid": "26396934",
+  "title": "Aetiology and mechanisms of injury in medial tibial stress syndrome: Current and future developments.",
+  "year": "2015",
+  "journal": "World journal of orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Medial tibial stress syndrome (MTSS) is a debilitating overuse injury of the tibia sustained by individuals who perform recurrent impact exercise such as athletes and military recruits. Characterised by diffuse tibial anteromedial or posteromedial surface subcutaneous periostitis, in most cases it is also an injury involving underlying cortical bone microtrauma, although it is not clear if the soft tissue or cortical bone reaction occurs first. Nuclear bone scans and magnetic resonance imaging (MRI) can both be used for the diagnosis of MTSS, but the patient's history and clinical symptoms need to be considered in conjunction with the imaging findings for a correct interpretation of the results, as both imaging modalities have demonstrated positive findings in the absence of injury. However, MRI is rapidly becoming the preferred imaging modality for the diagnosis of bone stress injuries. It can also be used for the early diagnosis of MTSS, as the developing periosteal oedema can be identified. Retrospective studies have demonstrated that MTSS patients have lower bone mineral density (BMD) at the injury site than exercising controls, and preliminary data indicates the BMD is lower in MTSS subjects than tibial stress fracture (TSF) subjects. The values of a number of tibial geometric parameters such as cross-sectional area and section modulus are also lower in MTSS subjects than exercising controls, but not as low as the values in TSF subjects. Thus, the balance between BMD and cortical bone geometry may predict an individual's likelihood of developing MTSS. However, prospective longitudinal studies are needed to determine how these factors alter during the development of the injury and to find the detailed structural cause, which is still unknown. Finite element analysis has recently been used to examine the mechanisms involved in tibial stress injuries and offer a promising future tool to understand the mechanisms involved in MTSS. Contemporary accurate diagnosis of either MTSS or a TSF includes a thorough clinical examination to identify signs of bone stress injury and to exclude other pathologies. This should be followed by an MRI study of the whole tibia. The cause of the injury should be established and addressed in order to facilitate healing and prevent future re-occurrence."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

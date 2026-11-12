@@ -1,0 +1,20 @@
+{
+  "pmid": "41003605",
+  "title": "Incidence of Ulnar Collateral Ligament Surgery and Revision in Baseball Players: A Systematic Review and Meta-Analysis.",
+  "year": "2025",
+  "journal": "Sports (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Ulnar collateral ligament (UCL) injuries are a major concern in baseball because of repetitive valgus stress from overhead throwing, often leading to surgical intervention. In recent years, UCL reconstruction has become increasingly frequent. Although this procedure has a high success rate, revision surgery is often required. This systematic review and meta-analysis examined the incidence of UCL surgery and revision procedures in baseball players, explored potential risk factors, and identified areas for future research. A comprehensive search of PubMed, Google Scholar, CINAHL, Embase, and SportDiscus databases was conducted for studies published between 2014 and 2024. Studies reporting the incidence of primary and revision UCL reconstructions in baseball players were included. The quality of the included studies was assessed using the Methodological Index for Non-randomized Studies (MINORS). A meta-analysis using RevMan 5.4 software calculated the pooled proportions and 95% confidence intervals for UCL surgery and revision rates. Six studies met the inclusion criteria, including data from 27,366 baseball players. The pooled incidence of UCL surgery was 4.52% (95% CI: 4.20-4.84%), and the pooled incidence of revision surgery was 8.42% (95% CI: 5.49-11.35%). Statistical analyses showed high heterogeneity (I<sup>2</sup> = 100%, <i>p</i> < 0.00001). Sensitivity analyses were performed to assess the robustness of the results, both in the incidence of surgery and in the revision surgery. UCL surgery is a common procedure in baseball, and a notable proportion of athletes require revision. Further research is necessary to identify the risk factors and develop preventive strategies to reduce UCL injury rates."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

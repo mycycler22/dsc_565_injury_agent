@@ -1,0 +1,31 @@
+{
+  "pmid": "32586943",
+  "title": "Epidemiology of injury and illness in 153 Australian international-level rowers over eight international seasons.",
+  "year": "2020",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "To report the epidemiology of injury and illness in elite rowers over eight seasons (two Olympiads)."
+    },
+    {
+      "label": "METHODS",
+      "text": "All athletes selected to the Australian Rowing Team between 2009 and 2016 were monitored prospectively under surveillance for injury and illness. The incidence and burden of injury and illness were calculated per 1000 athlete days (ADs). The body area, mechanism and type of all injuries were recorded and followed until the resumption of full training. We used interrupted time series analyses to examine the association between fixed and dynamic ergometer testing on rowers' injury rates. Time lost from illness was also recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "All 153 rowers selected over eight seasons were observed for 48 611 AD. 270 injuries occurred with an incidence of 4.1-6.4 injuries per 1000 AD. Training days lost totalled 4522 (9.2% AD). The most frequent area injured was the lumbar region (84 cases, 1.7% AD) but the greatest burden was from chest wall injuries (64 cases, 2.6% AD.) Overuse injuries (n=224, 83%) were more frequent than acute injuries (n=42, 15%). The most common activity at the time of injury was on-water rowing training (n=191, 68). Female rowers were at 1.4 times the relative risk of chest wall injuries than male rowers; they had half the relative risk of lumbar injuries of male rowers. The implementation of a dynamic ergometers testing policy (Concept II on sliders) was positively associated with a lower incidence and burden of low back injury compared with fixed ergometers (Concept II). Illness accounted for the greatest number of case presentations (128, 32.2% cases, 1.2% AD)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Chest wall and lumbar injuries caused training time loss. Policy decisions regarding ergometer testing modality were associated with lumbar injury rates. As in many sports, illness burden has been under-recognised in elite Australian rowers."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

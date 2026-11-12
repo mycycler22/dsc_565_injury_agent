@@ -1,0 +1,35 @@
+{
+  "pmid": "28690460",
+  "title": "Analysis of Player Statistics in Major League Baseball Players Before and After Achilles Tendon Repair.",
+  "year": "2017",
+  "journal": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "No currently available literature evaluates the effect of Achilles tendon repair on professional baseball players in the Major League Baseball (MLB)."
+    },
+    {
+      "label": "QUESTIONS/PURPOSES",
+      "text": "The purpose of this study was to determine the impact of Achilles tendon rupture and repair on MLB players in terms of return to play and batting/fielding performance metrics."
+    },
+    {
+      "label": "METHODS",
+      "text": "Achilles tendon rupture data were retrospectively collected using information from the MLB disabled list, injury reports, MLB game summaries, player profiles, and publicly available news articles. Four pair-matched control MLB position players were selected for each of the players who underwent advanced analysis. Baseline characteristics were compared between injured players and controls using Fisher's exact or Student's <i>t</i> test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, the incidence of Achilles tendon rupture reported in MLB has increased substantially since 1996. Rate of return to play in MLB after Achilles tendon rupture and repair is 62% for position players (non-pitchers) who suffer the injury. There was no association of injury with any player metric. Compared with injury to the non-power side, injury to the power side was associated with fewer plate appearances, fewer triples, an increase in percentage of at-bats with strikeouts, and decreased speed score."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The incidence of Achilles tendon rupture in MLB has increased substantially since 1996. While comparison suggests that overall Achilles tendon injury does not have an effect on MLB player statistics in the years following surgical repair, subset analysis of injury to the rear (power-generating) leg may lead to a decline in those statistics which denote a player's speed and running ability."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

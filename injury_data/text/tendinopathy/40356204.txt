@@ -1,0 +1,36 @@
+Title: Long-term Prognosis of Athletes With Patellar Tendinopathy Receiving Physical Therapy: Patient-Reported Outcomes at 5-Year Follow-up. | Type: Journal Article, Randomized Controlled Trial | PMID: 40356204 | Year: 2025 | Injury query: tendinopathy
+[RESULTS] At a mean follow-up of 5 years, 76% of participants felt recovered.
+[FULLTEXT: Results:] Of 76 eligible participants, 58 (76%) responded (mean age, 30 years [SD, 4 years]; 28% female). At a mean follow-up of 5 years, 76% of participants felt recovered. Pain levels during sports (median, 7 points [IQR, 7-8 points] to 2 points [IQR, 1-4 points]) and VISA-P score (median, 57 [IQR, 45-66] to 82 [IQR, 74-97] points) significantly improved from baseline to 5 years (all P < .001). In total, 41 participants (71%) returned to their desired sports (68% to performance and 32% below preinjury level), 12 participants (21%) returned to participation in other sports, and 5 (9%) completely ceased sports participation. Participants who felt unrecovered had higher levels of pain and disability and lower return to performance (all P < .05). No prognostic factors were identified that were associated with self-perceived recovery.
+[FULLTEXT: Results] Of the 76 athletes included at baseline, 58 (76%) completed the online questionnaire at a mean follow-up of 5 years (SD, 0.2 years). At follow-up, the mean age was 30 years (SD, 4 years), 28% of the athletes were female, and the mean height and weight were 185 cm (SD, 10 cm) and 84 kg (SD, 14 kg), respectively. The baseline characteristics for these participants at the start of the JUMPER study are shown in Table 1. Of the 18 nonparticipants, 3 (17%) refused to participate in the follow-up assessment, and 15 (83%) did not respond to telephone or 2 email reminders within 4 weeks (Figure 1). There was no significant difference in baseline variables between responders and nonresponders (Appendix Table B1, available online). Most participants (95%) received or applied nonoperative treatment approaches between the end of the trial (6-month follow-up) and the 5-year follow-up. One participant received patellar tendon debridement surgery at 2.5 years (Table 2).
+[FULLTEXT: Self-Perceived Recovery] Of the 58 participants, 44 (76%) were defined as recovered at 5 years, with 16 (36%) stating complete recovery and 28 (64%) reporting significant improvement. Fourteen participants (24%) did not feel recovered. Among those who were categorized as nonrecovered, none reported a worse condition compared with baseline (Table 3).
+[FULLTEXT: Subgroup Analysis of Nonrecovered Participants] In the subgroup analysis (Table 6), participants who felt unrecovered had greater impairments in pain levels, disability, quality of life, and sports participation at 5 years compared with those who felt recovered (all P < .05).
+[FULLTEXT: TABLE: Self-Perceived Recovery Using the GROC With 7-Point Likert Scale (N = 58) a] Item | No. (%)
+Recovered | 44 (76)
+Completely recovered | 16 (28)
+Significantly improved | 28 (48)
+Nonrecovered | 14 (24)
+Slightly improved | 8 (14)
+Remained the same | 6 (10)
+Slightly worsened | 00 (0)
+Significantly worsened | 00 (0)
+Worse than ever | 00 (0)
+[FULLTEXT: TABLE: Subgroup Analysis of Participants With Self-Perceived Recovery and Nonrecovery for the Patient-Reported Outcomes at 5 Years a] Outcome at 5 years | Recovery (n = 44) | Nonrecovery (n = 14) | P Value
+Pain levels during ADL | 1 [0-2] | 4 [2-5] | <.001
+Pain levels during sports b | 1 [0-3] | 6 [5-7] | <.001
+VISA-P score | 90 [75-87] | 73 [63-78] | <.001
+EQ-5D-3L index | 0.987 [0.984-0.987] | 0.898 [0.846-0.984] | .002
+Sports participation |  |  | .027
+Return to performance | 25 (57) | 3 (21) | 
+Return to sport | 6 (14) | 7 (50) | 
+Return to participation | 9 (20) | 3 (21) | 
+Quit sports | 4 (9) | 1 (7) | 
+Frequency of sports activity | 3 [3-4] | 3 [2-3] | <.001
+Duration of sports activity | 2 [2-4] | 3 [2-3] | .926
+[FULLTEXT: TABLE: Univariable and Multivariable Models Evaluating the Association Between Baseline Factors and Self-Perceived Recovery Status a]  | Univariable | Multivariable
+ | OR (95% CI) | P Value b | OR (95% CI) | P Value
+Female sex | 1.24 (0.40-7.61) | .556 |  | 
+Age, y | 1.09 (0.93-1.30) | .308 |  | 
+BMI, kg/m2 | 1.26 (0.97-1.74) | .108 | 1.27 (0.97-1.77) | .112
+Symptom duration, wk | 1.00 (0.99-1.00) | .200 |  | 
+VISA-P score (0-100 points) | 1.03 (0.99-1.09) | .148 | 1.03 (0.99-1.09) | .158
+Quadriceps muscle strength, N/kg | 0.95 (0.53-1.72) | .862 |  | 

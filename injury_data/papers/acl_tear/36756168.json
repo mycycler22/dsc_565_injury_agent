@@ -1,0 +1,39 @@
+{
+  "pmid": "36756168",
+  "title": "Patient Decision Making in Anterior Cruciate Ligament Reconstruction: A Discrete Choice Experiment Examining Graft Preference.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Bone-patellar tendon-bone (BTB) and hamstring autografts are the most common grafts used for anterior cruciate ligament (ACL) reconstruction. Patient preferences should be accounted for as a part of shared decision making."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to perform a discrete choice experiment that evaluated patient preferences toward ACL autografts. We hypothesized that there would be no difference in patient preferences between groups."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients aged 18 to 25 years who underwent shoulder arthroscopy at a single institution between 2013 and 2019 were included in the study as a proxy for healthy controls. Patients with a history of ACL tear were excluded. A discrete choice experiment was developed from a literature search and used the following data points as they pertain to BTB or hamstring autograft: risk of developing a significant complication, return-to-play rate, risk of anterior knee pain with kneeling, and risk of additional surgery due to graft failure. Included patients completed a custom survey in which they were asked to choose between \"surgery A\" (hamstring) and \"surgery B\" (BTB)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 107 participants were included in the analysis. Of these participants, 39 (36.5%) chose surgery A (hamstring) and 68 (63.6%) chose surgery B (BTB). When comparing the hamstring group with the BTB group, there was no significant difference in age, sex, body mass index, race, level of education, or employment status. However, 80.5% of self-reported athletes preferred BTB (<i>P</i> = .008). When controlling for age, sex, and body mass index, patients in the BTB group were more likely to rate return to sport (risk ratio [RR] = 1.49 [95% CI, 1.18-1.98]; <i>P</i> = .001) and the risk of requiring additional surgery due to graft failure (RR = 1.26 [95% CI, 1.02-1.58]; <i>P</i> = .037) as highly important. Conversely, they were less likely than patients in the hamstring group to rate pain while kneeling (RR = 0.65 [95% CI, 0.98-1.05]; <i>P</i> < .001) and complication risk (RR = 0.75 [95% CI, 0.59-0.94]; <i>P</i> = .013) as important."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The study hypothesis was rejected, as patient values did affect ACL graft choice preference. Utilizing patient-selected values in a quantifiable way can benefit the shared decision-making process before ACL reconstruction."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

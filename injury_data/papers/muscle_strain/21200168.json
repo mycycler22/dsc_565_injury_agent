@@ -1,0 +1,32 @@
+{
+  "pmid": "21200168",
+  "title": "Platelet-enriched plasma and muscle strain injuries: challenges imposed by the burden of proof.",
+  "year": "2011",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To review the evidence for the clinical utilization of autologous plasma products in the management of muscle strain injuries."
+    },
+    {
+      "label": "METHOD",
+      "text": "Systematic review using EMBASE and MEDLINE (up to March 2010)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There is no level 1, 2, and 3 evidence for the use of autologous plasma products in muscle strain injuries. Furthermore, significant methodological limitations impact on the interpretation of the few published studies in this field."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although basic science and the use of recombinant growth factors in animal models support the concept of applying growth factors to acute muscle injuries, it is unclear if this evidence can be directly translated to reflect outcomes from platelet-enriched plasma. There remain a large number of unanswered questions, including the principle questions regarding safety and efficacy, which require appropriate scientific investigation. It is incumbent on sports physicians wishing to enhance athlete care, together with researchers, to search for these answers."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

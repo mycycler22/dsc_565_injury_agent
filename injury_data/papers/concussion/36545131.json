@@ -1,0 +1,31 @@
+{
+  "pmid": "36545131",
+  "title": "<i>R2Play</i> development: Fostering user-driven technology that supports return-to-play decision-making following pediatric concussion.",
+  "year": "2022",
+  "journal": "Frontiers in rehabilitation sciences",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To design a multi-domain return-to-play assessment system (<i>R2Play</i>) for youth athletes with concussion."
+    },
+    {
+      "label": "METHODS",
+      "text": "The <i>R2Play</i> system was developed using an overarching user-centered approach, the Design Thinking Framework, and research activities included: 1) structured brainstorming within our research team, 2) interviews with clinician and youth sports coaches, 3) building a testable prototype, and 4) interface testing through cognitive walkthroughs with clinician partners."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Clinician and coach participants provided feedback on the <i>R2Play</i> concept, which was integrated into the design process and provided future directions for research. Examples of feedback-driven design choices included reducing assessment time, increasing ecological validity by adding in background noise, and developing youth-friendly graphical results screens. Following refinement based on stakeholder feedback, the <i>R2Play</i> system was outlined in detail and a testable prototype was developed. It is made up of two parts: a clinician tablet, and a series of tablet \"buttons\" that display numbers and letters. Youth athletes run between the buttons to connect a \"trail\" in ascending alphanumeric order, 1-A-2-B, etc. Their performance across a series of levels of increasing difficulty is logged on the clinician tablet. Initial testing with five clinicians showed the system's interface to have excellent usability with a score of 81% (SD = 8.02) on the System Usability Scale."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Through this research, a prototype of the <i>R2Play</i> system was innovated and evaluated by clinician and coach stakeholders. Initial usability was excellent and directions for future iterations were highlighted. Outcomes suggest the potential benefits of using technologies to assist in complex clinical assessment, as well as utilizing a user-centered approach to design."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

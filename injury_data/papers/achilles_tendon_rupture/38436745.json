@@ -1,0 +1,41 @@
+{
+  "pmid": "38436745",
+  "title": "No difference in operative time, outcomes, cosmesis, or return to activity and/or sport after minimally invasive versus open repair of primary Achilles ruptures: a retrospective review.",
+  "year": "2024",
+  "journal": "European journal of orthopaedic surgery & traumatology : orthopedie traumatologie",
+  "pub_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To compare clinical outcomes and the rate of return to sport among patients that have undergone minimally invasive repair versus open approach of an acute Achilles tendon rupture."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients who underwent surgical repair of acute Achilles tendon rupture at a single urban academic institution from 2017 to 2020 with minimum 2-year follow-up were reviewed retrospectively. Preinjury sport participation and preinjury work activity information, the Achilles tendon Total Rupture Score (ATRS), the Tegner Activity Scale, Patient-Reported Outcomes Measurement Information System for mobility and pain interference were collected."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In total, 144 patients were initially included in the study. Of these, 63 patients were followed with a mean follow-up of 45.3 ± 29.2 months. The mean operative time did not significantly differ between groups (p = 0.938). Patients who underwent minimally invasive repair returned to sport at a rate of 88.9% at a mean of 10.6 ± 5.8 months, compared to return rate of open procedures of 83.7% at 9.5 ± 5.5 months. There were no significant differences in ATRS (p = 0.246), Tegner (p = 0.137) or VAS pain (p = 0.317) scores between groups. There was no difference in cosmetic satisfaction between PARS and open repair groups (88.4 vs. 76.0; p = 0.244)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patients who underwent minimally invasive repair of acute Achilles tendon ruptures demonstrate no significant differences with respect to cosmesis, operative time, patient-reported outcomes and the rate and level of return to activities when compared to an open approach."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Patients who underwent minimally invasive repair returned to sport at a rate of 88.9% at a mean of 10.6 ± 5.8 months, compared to return rate of open procedures of 83.7% at 9.5 ± 5.5 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

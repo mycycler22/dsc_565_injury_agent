@@ -1,0 +1,31 @@
+{
+  "pmid": "23015903",
+  "title": "Heel pain in the athlete.",
+  "year": "2009",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Heel pain, a relatively common problem in the athlete, can present a diagnostic and therapeutic dilemma. The purpose of this article is to review treatment techniques for common causes of heel pain in the athlete."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "Articles in the English literature through August 2008 were selected and reviewed in the context of the management of heel pain in the athlete. Clinical and surgical photographs are presented as an illustration of preferred techniques and pertinent pathologic findings."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Although nonoperative treatment remains the mainstay for most painful heel pathologies, a number of surgical interventions have shown encouraging results in carefully selected patients."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The management of heel pain in the athlete requires diagnostic skill, appropriate imaging evaluation, and a careful, initially conservative approach to treatment. Surgical treatment can be successful in carefully selected patients."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,52 @@
+{
+  "pmid": "42460513",
+  "title": "Effect of Hamstring Exercises on Morphological Parameters of the Hamstring Muscle: A Systematic Review With MRI and USI Findings.",
+  "year": "2026",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Hamstring muscle strain is a common sports injury associated with significant time loss and high recurrence rates among athletes. Eccentric exercises, particularly the Nordic hamstring exercise (NHE), are effective in reducing injury incidence, yet their morphological adaptations remain underexplored."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To examine exercise-induced morphological adaptations of the hamstring muscles and to provide an integrated perspective on changes in muscle architecture and size."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "In accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, PubMed, Scopus, Cochrane Library, and Web of Science were searched up to December 2024."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Randomized controlled trials including adults (≥18 years old), with or without hamstring injuries, that investigated hamstring-strengthening interventions and assessed postintervention muscle morphology using magnetic resonance imaging (MRI) or ultrasonography were included."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 1."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Information on sample characteristics, exercise prescription, intervention details, exercise type, assessment device, targeted muscles, measured parameters, and outcomes was extracted."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 14 studies, involving 382 participants, were included. Eccentric exercises demonstrated the most consistent adaptations, particularly increases in fascicle length (FL) and reductions in pennation angle (PA) in the biceps femoris long head (BFlh). Evidence for changes in muscle volume (MV) and cross-sectional area (CSA) was more heterogeneous across intervention types and imaging modalities. Muscle thickness showed limited or inconsistent changes across studies. Ultrasound (US) and MRI assessed different aspects of muscle morphology, limiting direct comparison across modalities. MRI-based studies more consistently demonstrated changes in MV and CSA, whereas US-based studies reported primarily architectural parameters such as FL and PA."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Eccentric and resistance-based training were associated with favorable morphological adaptations in the hamstring muscles. Among these, eccentric strengthening interventions, particularly NHE-based protocols, were associated most consistently with increases in FL and reductions in PA of the BFlh. These findings highlight the importance of targeted exercise prescription and underscore the role of imaging modalities such as US and MRI in monitoring hamstring muscle adaptations."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

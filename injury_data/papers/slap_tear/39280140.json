@@ -1,0 +1,31 @@
+{
+  "pmid": "39280140",
+  "title": "Inter-rater and intrarater reliability of superior labrum anterior to posterior lesion classification using magnetic resonance arthrography.",
+  "year": "2024",
+  "journal": "JSES international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The glenoid labrum is a fibrocartilaginous ring that affixes the joint capsule and ligaments of the glenohumeral joint. Superior labrum anterior to posterior (SLAP) lesions are a subset of injuries that affect the superior glenoid labrum, most common in laborers and overhead-throwing athletes. In 1990, Snyder et al classified SLAP lesions into one of four types. Later, Maffet et al expanded this scale to include three additional subclassifications. At present, arthroscopy is considered the gold standard for SLAP tear diagnosis. Classification under arthroscopy has demonstrated low to moderate inter-rater reliability. Magnetic resonance arthrography (MRa) is an alternate, less invasive test for diagnosing SLAP lesions. The reliability of MRa for diagnosing slap tears is uncertain."
+    },
+    {
+      "label": "METHODS",
+      "text": "Magnetic resonance arthrograms were identified using the Picture Archiving and Communication System (PACS). In total, 273 shoulder arthrograms were reviewed, and 20 were selected with the desired pathology. Three orthopedic surgeons and three musculoskeletal radiologists were asked to classify the SLAP lesions into one of seven categories (Snyder & Maffet classification systems). Data was collected on two separate occasions at an interval of at least two months. Inter-rater and intrarater reliability were calculated using Fleiss Kappa and Cohen's Kappa, respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between all raters, there was poor inter-rater reliability for each round of data collection (κ = .177, κ = .124 for rounds 1 and 2, respectively). Between orthopedic surgeons, there were poor levels of agreement (κ = -.056, κ = .114), whereas, between radiologists, there was fair to moderate agreement (κ = 0.479, κ = 0.340). Within orthopedic raters, κ values ranged from -0.059 to 0.125, indicating, at best, poor intrarater reliability. Within radiologists, κ values ranged from 0.545 to 0.553, indicating moderate agreement within raters. The analysis determined that none of the orthopedic values for inter or intrarater reliability could be deemed statistically different from zero."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Overall, classification using MRa resulted in significant disagreement between and within raters. Trained radiologists demonstrated higher overall levels of agreement than orthopedic surgeons. In summary, when using MRa to assess SLAP lesions, Snyder and Maffet classification demonstrates poor reliability by orthopedic surgeons and moderate reliability when used by musculoskeletal radiologists."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

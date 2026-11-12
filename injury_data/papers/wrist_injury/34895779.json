@@ -1,0 +1,35 @@
+{
+  "pmid": "34895779",
+  "title": "Epidemiology of Hand and Wrist Injuries in Collegiate-Level Athletes in the United States.",
+  "year": "2023",
+  "journal": "The Journal of hand surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Hand and wrist injuries are common among competitive athletes and can have a substantial impact on playing time and future participation. The purpose of this study was to provide epidemiological data from the National Collegiate Athletic Association Injury Surveillance Program to correlate injury diagnosis with the need for surgery and time loss."
+    },
+    {
+      "label": "METHODS",
+      "text": "Using the National Collegiate Athletic Association Injury Surveillance Program, this retrospective study extracted data of hand and wrist injuries for all 25 National Collegiate Athletic Association sports from the academic years 2004-2005 to 2013-2014. The \"severe\" category was defined as injuries resulting in the following: (1) surgery, (2) season-ending status, or (3) more than 30 days of playing time loss. The epidemiologic data included injury rate per 100,000 athlete exposures (defined as 1 athlete participating in 1 practice or competition) based on diagnoses and demographic information such as sports and sex. We used a Poisson regression model to estimate the incidence rate and 95% confidence interval."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 4,851 hand injuries were identified, with an injury rate of 41.2 per 100,000 athlete exposures. The most common diagnoses were metacarpal or phalangeal fractures (19.9%), lacerations or contusions (15.4%), and wrist sprains (14.7%). The surgical rate was 9.6%, and the season-ending rate was 5.8%. Severe injuries occurred in 17.5% of the hand and wrist injuries; within this subset, the most common diagnoses included metacarpal or phalangeal fractures (43.8%), scaphoid fractures (12.8%), and thumb ulnar collateral ligament tears (8.7%). Scaphoid fractures and metacarpal or phalangeal fractures had the highest surgical rate and season-ending rate among all the injuries."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The injury rate of hand and wrist injuries is comparable with those of other common sports injuries. Approximately one fifth of the injuries were considered severe, which led to a high surgical rate, and these had a considerable impact on the athletes' ability to finish the season."
+    },
+    {
+      "label": "TYPE OF STUDY/LEVEL OF EVIDENCE",
+      "text": "Outcome research level II."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

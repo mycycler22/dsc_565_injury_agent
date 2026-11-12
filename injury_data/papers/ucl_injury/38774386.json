@@ -1,0 +1,39 @@
+{
+  "pmid": "38774386",
+  "title": "Psychological Impact and Posttraumatic Stress Disorder Symptomatology After Ulnar Collateral Ligament Injuries in Baseball Players.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Significant psychological impact and prevalence of posttraumatic stress disorder (PTSD) have been well documented in patients sustaining anterior cruciate ligament injury."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine PTSD symptomatology in baseball players after sustaining elbow ulnar collateral ligament (UCL) injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male baseball players of various competition levels (high school through Minor League Baseball [MiLB]) who underwent surgery for a UCL injury between April 2019 and June 2022 participated in the study. Before surgery, patients completed the Impact of Event Scale-Revised (IES-R) to assess PTSD symptomatology. Subgroup analysis was conducted according to level of play and player position."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 104 male baseball players with a mean age of 19.4 years (range, 15-29 years) were included in the study; 32 players (30.8%) were in high school, 65 (62.5%) were in college, and 7 (6.7%) were in MiLB. There were 64 (61.5%) pitchers, 18 (17.3%) position players, and 22 (21.2%) 2-way players (both pitching and playing on the field). A total of 30 (28.8%) patients scored high enough on the IES-R to support PTSD as a probable diagnosis, and another 22 patients (21.2%) scored high enough to support PTSD as a clinical concern. Nineteen patients (18.3%) had potentially severe PTSD. Only 4 players (3.8%) were completely asymptomatic. Subgroup analysis revealed college players as significantly more symptomatic than high school players (<i>P</i> = .02), and 2-way players were found to be significantly less susceptible to developing symptoms of PTSD compared with pitchers (<i>P</i> = .04)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Nearly 30% of baseball players who sustained a UCL injury qualified for a probable diagnosis of PTSD based on the IES-R. Pitchers and college athletes were at increased risk for PTSD after UCL injury compared with 2-way players and high school athletes, respectively."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

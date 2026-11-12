@@ -1,0 +1,40 @@
+{
+  "pmid": "33301359",
+  "title": "Anterior Cruciate Ligament Injuries in the Older Athlete.",
+  "year": "2021",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Older adults are remaining active longer and continuing during later stages of life to participate in sports and activities that involve pivoting on 1 foot. The rate of anterior cruciate ligament (ACL) tears is increasing in people older than 40 years of age, which has caused a concomitant increase in the rate of surgical reconstruction."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "We searched the PubMed database for articles published in English between January 1980 and January 2018 using the terms <i>anterior cruciate ligament injury, ACL injury, ACL tear</i>, <i>anterior cruciate ligament reconstruction, ACLR, older, older athlete</i>, and <i>elderly</i>."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Clinical review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nonoperative treatment with activity modification and physical therapy may be an appropriate option for nonathletes older than 40 years of age with physically low-demand lifestyles. For patients with injuries that are unresponsive to nonoperative treatment or athletes participating in physically demanding activities, ACL reconstruction can improve function and facilitate return to sports. When evaluating whether a patient is a candidate for surgery, numerous variables should be considered, such as timing, graft choice, and postoperative rehabilitation."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Outcomes of ACL reconstruction in older athletes are similar to those of younger patients. To date, published evidence is inadequate to determine the long-term effects of nonoperative and operative treatment as well as the role of ACL reconstruction in the development of osteoarthritis in the older athlete."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

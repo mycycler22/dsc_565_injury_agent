@@ -1,0 +1,28 @@
+{
+  "pmid": "30531225",
+  "title": "Spondylolysis 2019 update.",
+  "year": "2019",
+  "journal": "Current opinion in pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Provide a comprehensive overview of lumbar spondylolysis, a frequent cause of lower back pain in children and adolescents, from evaluation to management."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "With the surge of structured sports participation in the pediatric population, spondylolysis is a common ailment that afflicts many young athletes due to rigorous competition that taxes the growing spine with repetitive extension and rotation."
+    },
+    {
+      "label": "SUMMARY",
+      "text": "Spondylolysis is a fracture through the pars interarticularis. When a child presents with lower back pain, spondylolysis should be at the top of the differential. A thorough history and physical examination are essential. In addition, radiographs of the lumbar spine, anterior posterior and lateral views, MRI and, selectively, computed tomography are useful adjuncts to uncover a pars injury. Timely diagnosis facilitates early treatment which includes rest, optimizing bone health, brace treatment, and physical therapy. If delayed or untreated, spondylolysis may result in nonunion or pars defect. If symptomatic, patients may need surgery to fuse the lumbar facet joints or repair the par interarticularis."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

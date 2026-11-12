@@ -1,0 +1,32 @@
+{
+  "pmid": "20108185",
+  "title": "[Sports and activities after achilles tendon injury of the recreational athlete].",
+  "year": "2009",
+  "journal": "Sportverletzung Sportschaden : Organ der Gesellschaft fur Orthopadisch-Traumatologische Sportmedizin",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is abundant literature on the treatment of Achilles tendon rupture; however data on sports and recreational activities after this injury is scarce."
+    },
+    {
+      "label": "PATIENTS AND METHODS",
+      "text": "71 patients were assessed in a prospective cross-sectional study after an average of 3 years after Achilles tendon rupture. 44 patients were treated non-operatively, using a functional algorithm, and 23 patients were treated operatively. Outcome parameters were the AOFAS-Score and the SF-36 Score. The strength of plantar-flexion was measured using the Isomed 2000 system, the structural integrity of the tendon was assessed sonografically."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Patients treated operatively had a higher complication rate than patients treated non-operatively (p = 0.05). Re-rupture rate was identically in both groups. No difference was noted between the two groups for the AOFAS score (92 vs. 90). Moreover the SF-36 score did not show any significant difference between the groups. However, if compared to the age-adjusted normative population significant lower scores were achieved. A significant reduction in practicing sports was detected, as well as a reduction of plantar flexion of the affected foot (p = 0.04)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Except for complication rate no significant difference could be detected between the groups. Thus operative treatment in the recreational athlete should only be considered, if no adaptation of the ends of the tendon is diagnosed during the initial or repeated ultrasound. Regardless of the therapeutic intervention chosen an Achilles tendon rupture leads to marked changes in sports- and recreational activities."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "36518839",
+  "title": "Deficits in Dynamic Balance and Hop Performance Following ACL Reconstruction Are Not Dependent on Meniscal Injury History.",
+  "year": "2022",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Athletes often exhibit persistent deficits in dynamic balance and hop performance in their involved limb following ACL reconstruction. However, it is unclear how meniscal injury history affects inter-limb asymmetry."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study was to compare inter-limb asymmetry in dynamic balance and hop performance in athletes with and without a history of concomitant meniscal injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Dynamic balance and hop test data were analyzed for 34 adolescent athletes who had undergone ACL reconstruction; 19 athletes had sustained an isolated ACL tear, while 15 had sustained an ACL tear along with a meniscus injury. Athletes who had sustained a meniscus injury were sub-divided into those who underwent a meniscal repair (n = 9) versus a partial meniscectomy (n = 6). Dynamic balance was assessed using the Y-Balance Test, while hop performance was assessed using the single and triple hop tests. Data were recorded at the time of return-to-sport testing (5-11 months post-surgery). For each variable, mixed-model analysis of variance, with a between-subjects factor of group (isolated ACL tear, meniscal repair, partial meniscectomy) and a within-subjects factor of limb (involved, uninvolved), was conducted."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The groups exhibited similar degrees of inter-limb asymmetry in dynamic balance and hop test performance, as there was not a group-by-limb interaction effect for the Y-Balance Test distances (p ≥ 0.43) or hop test distances (p ≥ 0.96). However, there was a main effect of limb for the anterior and posteromedial Y-Balance Test distances and the single and triple hop test distances (p ≤ 0.004). For each variable, performance was worse for the involved limb, compared to the uninvolved limb."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "It appears that deficits in dynamic balance and hop performance among adolescent athletes who have undergone ACL reconstruction are not dependent on meniscal injury/surgery history."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "3."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

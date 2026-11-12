@@ -1,0 +1,32 @@
+{
+  "pmid": "15911608",
+  "title": "The effect of sports specific training on reducing the incidence of hamstring injuries in professional Australian Rules football players.",
+  "year": "2005",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To assess in a single team of Australian Rules football players the effect of a specific intervention program on the incidence and consequence of hamstring muscle strain injuries."
+    },
+    {
+      "label": "METHOD",
+      "text": "A prospective study was performed with a single team being followed for four playing seasons for hamstring injury. Magnetic resonance imaging was used to confirm the diagnosis of hamstring muscle injury. After two playing seasons an intervention program was implemented with the number of athletes with hamstring injury, competition days missed, and incidence of hamstring match injuries per 1000 h of playing time being compared pre- and post-intervention. The intervention program involved stretching whilst fatigued, sport specific training drills, and an emphasis on increasing the amount of high intensity anaerobic interval training."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the seasons prior to the intervention, nine and 11 athletes sustained hamstring injury compared to two and four following intervention. Competition days missed reduced from 31 and 38 to 5 and 16 following intervention and match incidence decreased from 4.7 to 1.3 per 1000 h of playing time. A beneficial effect was demonstrated with a smaller number of players having hamstring injuries (p = 0.05), a lower number of competition games missed being recorded (p < 0.001), and a decrease in hamstring strain incidence per 1000 h of playing time (p = 0.01) following the intervention program."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Increasing the amount of anaerobic interval training, stretching whilst the muscle is fatigued, and implementing sport specific training drills resulted in a significant reduction in the number and consequences of hamstring muscle strain injuries."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

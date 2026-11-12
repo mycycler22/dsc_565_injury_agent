@@ -1,0 +1,25 @@
+{
+  "pmid": "30482337",
+  "title": "Office-based concussion evaluation, diagnosis, and management: pediatric.",
+  "year": "2018",
+  "journal": "Handbook of clinical neurology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "More children and adolescents are participating in competitive sports than ever before, causing an overall increase in sport-related injuries. Concussion is a common injury in the pediatric population and its prevalence has increased with increased visibility and awareness. This chapter will discuss the clinical presentation, evaluation, and management of concussions sustained by pediatric athletes, while addressing the distinctive factors that pertain to this population. Management of concussion should be tailored to patients' symptoms and should focus on an early and gradual return to both cognitive and noncontact low-risk physical activity. A multidisciplinary approach is often helpful in addressing more specific symptoms, which fall into the somatic, cognitive, vestibular, emotional, and sleep domains. A prolonged recovery is defined by symptoms lasting more than 4 weeks. Individualized return-to-play decisions should focus on the safety of the young athlete."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "A prolonged recovery is defined by symptoms lasting more than 4 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

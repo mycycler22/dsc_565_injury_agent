@@ -1,0 +1,37 @@
+{
+  "pmid": "37867759",
+  "title": "Fractures in professional footballers: 7-years data from 106 team seasons in the Middle East.",
+  "year": "2023",
+  "journal": "Biology of sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Epidemiological studies on fractures in European professional football (soccer) are in abundance. However, such data are lacking in Middle Eastern professional footballers and information on fracture treatment is scarce. The aim of this study is to describe the epidemiology of fractures across seven seasons in Qatar Stars League (QSL) footballers. A prospective study of fractures in professional male footballers over 7 consecutive seasons (2013 to 2020), involving 3255 players and 106 team' seasons. Time loss and injuries and illnesses were recorded using standardised digital tools in accordance with international consensus procedures. Fractures were recorded according to onset mechanism, location, diagnoses, treatment and return to play. A total of 108 players sustained fractures during 638,247 hours of player exposure (88.9% training and 11.1% matches), representing 2.7% of all time-loss injuries. The incidence was 0.17 fractures per 1000 h of exposure (match and training incidence of 0.9 and 0.07 fractures / 1000 h, respectively), equivalent to an average of one fracture per team per season. Fractures mostly occurred in the feet (28.2%), hands (21.1%), shoulders (11.3%) and head (i.e., face) (9.9%). Mean (median) absence was 71 (47 days), with 4.6% refractures. Only 34.3% of the fractures required surgery and nearly all players (98.1%) returned to play at the professional level. Almost all professional football players with fractures return to play at the same competitive level after an average of 10 weeks of absence (mean absence was 71 ± 81 (median: 47, Inter Quartile Range [14-93]) days). One in ten continue to play with symptoms and one in twenty may refracture. Long-term effects of fractures are still unknown."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Almost all professional football players with fractures return to play at the same competitive level after an average of 10 weeks of absence (mean absence was 71 ± 81 (median: 47, Inter Quartile Range [14-93]) days)."
+    }
+  ],
+  "pmcid": "10588583",
+  "fulltext_chunks": [
+    {
+      "section": "Return to play",
+      "text": "Despite a high percentage of players (63%) sustaining fractures causing severe absence (longer than 28 days), only two (1.9%) out of 108 players retired. Therefore, as with earlier studies, almost all professional players (98.1%) returned to play at the previous level, i.e., same level of the competition [23]. One player left the league after a prolonged absence of 403 days, 3 surgeries, and non-union, whereas the other left to play football abroad. Of the 9 players who had post-surgical complications, 8 (88.9%) returned to play whereas the remaining player retired upon discharge from treatment. The residual symptoms seen upon return to play in 10 players (9.3% of 108) did not affect their ability to train and play competitive matches. The high motivation, level of responsibility and financial needs in professional footballers and/or the competency of the team medical staff (including subspeciality musculoskeletal radiologists, orthopaedic surgeons, sports medicine physicians, physiotherapists and biomechanists) supporting them may have contributed to their ability to continue playing despite having symptoms [30]."
+    },
+    {
+      "section": "TABLE: Time loss (mean ± SD, median and Inter Quartile Range) and severity of fracture (%) according to fracture type, onset of injury, mechanism, and player position.",
+      "text": " | Total | Mean ± SD | Median (Percentile 25–75) | Minor (≤ 7 days) | Major (8–28 days) | Severe (> 28 days)\nN (%) | Days | Days | N (%) | N (%) | N (%)\nOrigin\nMatch | 66 (61.1%) | 77.0 ± 85.1 | 47 (14–124) | 10 (15.2%) | 14 (21.2%) | 42 (63.6%)\nTraining | 42 (38.9%) | 60.9 ± 75.0 | 47 (16–78) | 8 (19.0%) | 8 (19.0%) | 26 (61.9%)\nType\nNon-Stress Fracture | 97 (89.8%) | 70.2 ± 84.6 | 46 (14–93) | 17 (17.5%) | 22 (22.7%) | 58 (59.8%)\nStress fracture | 11 (10.2%) | 75.6 ± 44.5 | 68 (47–86) | 1 (9.1%) | 0 (0%) | 10 (90.9%)\nMechanism\nContact | 91 (84.3%) | 66.2 ± 79.3 | 45 (14–92) | 16 (17.6%) | 21 (23.1%) | 54 (59.3%)\nNon-Contact | 17 (15.7%) | 94.9 ± 90.1 | 78 (47–93) | 2 (11.8%) | 1 (5.9%) | 14 (82.4%)\nOnset of injury\nGradual | 16 (14.8%) | 44.1 ± 31.5 | 44.5 (10.5–74.5) | 3 (18.8%) | 2 (12.5%) | 11 (68.8%)\nSudden | 92 (85.2%) * | 75.4 ± 86.4 | 47 (14.5–104) | 15 (16.3%) | 20 (21.7%) | 57 (62.0%)\nPlayer position\nOutfield player | 92 (85.2%) * | 75.5 ± 84.7 | 47.5 (15.5–93.5) | 12 (13.0%) | 19 (20.7%) | 61 (66.3%) *\nGoalkeeper | 16 (14.8%) | 43.2 ± 51.7 | 17.5 (4–59.5) | 6 (37.5%) | 3 (18.8%) | 7 (43.8%)"
+    },
+    {
+      "section": "TABLE: Time loss (mean, SD and Median) according to treatment and fracture location.",
+      "text": " | No Surgery N = 71 (65.7%) | Surgery N = 37 (34.3%)\nTotal | Mean ± SD | Median (Percentile 25–75) | Total | Mean ± SD | Median (Percentile 25–75)\nN (%) | Days | Days | N (%) | Days | Days\nMain body part\nHead-face-Neck | 7 (9.9%) | 12 ± 8 | 14 | 5 (13.5%) | 29 ± 25 | 20\nLower limb* | 32 (45.1%) | 56 ± 37 | 51 | 20 (54.1%) | 185 ± 106 | 156\nTrunk | 5 (7.0%) | 42 ± 33 | 32 | 0 | — | —\nUpper limb | 27 (38.0%) | 29 ± 36 | 14 | 12 (32.4%) | 78 ± 73 | 57\nLocation\nAnkle | 3 (4.2%) | 21 ± 19 | 16 | 2 (5.4%) | 128 ± 45 | 128\nChest/Ribs/Upper Back | 3 (4.2%) | 19 ± 13 | 19 | 0 | — | —\nFoot* | 20 (28.2%) | 57 ± 43 | 52 | 6 (16.2%) | 113 ± 36 | 105\nForearm | 1 (1.4%) | 59 | 59 | 1 (2.7%) | 42 | 42\nHand* | 15 (21.1%) | 14 ± 18 | 6 | 6 (16.2%) | 60 ± 58 | 42\nHead | 7 (9.9%) | 12 ± 8 | 14 | 5 (13.5%) | 29 ± 25 | 20\nKnee | 4 (5.6%) | 62 ± 23 | 57 | 1 (2.7%) | 219 | 219\nLower Leg* | 5 (7.0%) | 62 ± 22 | 51 | 10 (27.0%) | 251 ± 107 | 248\nPelvis/Low Back | 2 (2.8%) | 75 ± 16 | 75 | 0 | — | —\nShoulder | 8 (11.3%) | 55 ± 52 | 46 | 4 (10.8%) | 49 ± 34 | 59\nThigh | 1 (1.4%) | 53 | 53 | 0 | — | —\nWrist | 2 (2.8%) | 28 ± 25 | 28 | 2 (5.4%) | 188 ± 99 | 188"
+    }
+  ]
+}

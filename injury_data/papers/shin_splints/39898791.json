@@ -1,0 +1,31 @@
+{
+  "pmid": "39898791",
+  "title": "Relationship between medial tibial stress syndrome and the adipose tissue along the posteromedial tibial border and the crural chiasma.",
+  "year": "2025",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Medial tibial stress syndrome (MTSS) is an overuse injury characterized by pain along the posteromedial tibial border. This region contains several soft tissues, including adipose tissue and the tibialis posterior and flexor digitorum longus tendons. However, few studies have investigated whether these tissues exhibit abnormalities in MTSS. This study aimed to use MRI to evaluate abnormalities in the bone marrow or soft tissues of patients with MTSS and those with a history of medial tibial pain."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eighteen patients with MTSS, 20 uninjured athletes, and 17 individuals with a history of medial tibial pain underwent T1-weighted, T2-weighted, and short T1 inversion recovery imaging. The presence of bone marrow, periosteal, and peritendinous edema and abnormalities in the adipose tissue along the posteromedial tibial border were evaluated. Fisher's exact test was applied to determine the relationship between abnormalities and clinical status."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Patients with MTSS exhibited abnormalities in the adipose tissue (27.3%), peritendinous edema (22.7%), bone marrow edema (22.7%), and periosteal edema (59.1%). However, the incidence of these abnormalities showed no statistically significant differences between the three groups. Athletes showed abnormalities in the bone marrow, periosteum or soft tissues, regardless of their clinical status."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Various tissues, including the adipose tissue and peritendon along the posteromedial tibial border, may contribute to MTSS, highlighting its complex pathology. Imaging assessments are important for diagnosing MTSS and should complement physical examination and evaluation of the patient's history."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

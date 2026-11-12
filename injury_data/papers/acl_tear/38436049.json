@@ -1,0 +1,47 @@
+{
+  "pmid": "38436049",
+  "title": "Sex Differences in Quadriceps Atrophy After Anterior Cruciate Ligament Tear.",
+  "year": "2025",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Female athletes lag behind their male counterparts in recovery from anterior cruciate ligament (ACL) injury. Quadriceps muscle size and strength are crucial factors for regaining function after ACL injury, but little is known about how these metrics vary due to biological sex."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Female patients have reduced vastus lateralis fiber cross-sectional area (CSA) and lower quadriceps strength after ACL injury than male patients."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 60 participants with recent ACL tear were evaluated for vastus lateralis muscle fiber CSA, isometric quadriceps peak torque, and quadriceps rate of torque development. Linear mixed models were fit to determine differences across sex and limb for each variable of interest."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The female group averaged almost 20% atrophy between limbs (<i>P</i> < 0.01), while the male group averaged just under 4% (<i>P</i> = 0.05). Strength deficits between limbs were comparable between female and male groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Immediately after ACL injury, female patients have greater between-limb differences in muscle fiber CSA but between-limb strength deficits comparable with those of male patients."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "These results indicate that the underpinnings of strength loss differ based on biological sex, and thus individual patients could benefit from a sex-specific treatment approach to ACL injury."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

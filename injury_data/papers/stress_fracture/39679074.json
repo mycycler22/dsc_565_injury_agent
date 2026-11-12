@@ -1,0 +1,35 @@
+{
+  "pmid": "39679074",
+  "title": "Medial Malleolar Stress Fracture Treatment and Return to Activity: A Systematic Review.",
+  "year": "2024",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Medial malleolar stress fractures (MMSFs) naturally appear to occur primarily in athletes participating in sports requiring prolonged running or repetitive jumping. Nonoperative and operative modalities have been described, yielding a wide range of outcomes and return to activity (RTA) rates."
+    },
+    {
+      "label": "HYPOTHESIS/PURPOSE",
+      "text": "To systematically review the current literature to identify reports of MMSFs to better understand the current state of treatment, outcomes, and RTA rate."
+    },
+    {
+      "label": "METHODS",
+      "text": "Studies published in PubMed, Embase, and the Cochrane Library reporting on patients sustaining MMSF from inception to October 2024 were identified. Human subjects, articles published in English, and studies reporting treatment (operative vs nonoperative), outcomes, RTA rates, and the incidence of any complications, were included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seventeen studies were identified, consisting of 68 patients, with 74% (n = 50/68) of patients being male. Weighted mean patient age was 26.1 (range, 9-73) years. Overuse injury mechanisms during sporting activities accounted for 94% (n = 64/68) of injuries, with soccer being the most commonly reported athletic activity (n = 18). Initial operative management was reported in 44% (n = 30/68) of patients at a weighted mean of 10.1 weeks from symptom onset, with an additional 14 patients undergoing operative treatment following a weighted mean 16.8-week trial of nonoperative management. Complications following treatment were reported in 4 (n = 4/30) patients treated initially with surgery and 2 (n = 2/38) patients initially treated nonoperatively. A total of 98% (n = 57/58) of patients reported successful return to preinjury activity levels at a weighted mean of 3.4 months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Medial malleolar stress fractures are reported to occur primarily in younger, adult patients, commonly as a result of overuse, especially in individuals participating in soccer. Operative management was performed in 65% (n = 44/68) of overall cases with a low rate of complication and a high rate of successful RTA following nonoperative and operative management."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

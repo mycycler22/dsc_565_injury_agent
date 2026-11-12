@@ -1,0 +1,35 @@
+{
+  "pmid": "38981776",
+  "title": "Adolescent athlete low back pain diagnoses, characteristics, and management: A retrospective chart review.",
+  "year": "2024",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The aim of this study was to characterise the presentation, treatment, and management of adolescent athlete low back pain (LBP) as diagnosed in a clinical setting. The objectives were to 1) identify diagnoses associated with LBP in adolescent athletes; 2) categorise the differences in LBP diagnosis and presentation by sport, sex, BMI, and age; and 3) examine treatment and management methods of LBP in adolescent athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective chart review."
+    },
+    {
+      "label": "METHODS",
+      "text": "This retrospective medical chart review was conducted in the Sports Medicine Division of Boston Children's Hospital (BCH), a tertiary paediatric academic hospital. Data were collected and analysed from 363 adolescent athletes who had experienced LBP between 2015 and 2020. Chi-squared tests for association were used to assess for associations between LBP diagnoses and age, sex, BMI, and sport. Statistical analysis was conducted using SAS software version 9.4 (SAS Institute, Cary NC)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Non-specific LBP was the most common LBP diagnosis amongst 363 adolescent athletes with LBP (34 %). This was closely followed by spondylolysis (28 %). There was a higher proportion of female athletes amongst participants diagnosed with facet-joint related pain (90 %) and SI-joint related pain (89 %) compared to the proportion of female athletes amongst participants diagnosed with spondylolysis (50 %). There was a high rate of diagnostic MRI usage in this cohort. Commonly used management techniques in this cohort were diagnostic MRI, physical therapy, relative rest, and bracing."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "An awareness of the sex-based differences in adolescent athlete LBP diagnoses may be useful for clinicians. It may be important to refine methods of diagnosis of LBP in this group, as there was a high rate of diagnostic MRI use. Future research should be directed towards the development of management guidelines specific to LBP in adolescent athletes to assist in the optimal management of this diagnosis."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

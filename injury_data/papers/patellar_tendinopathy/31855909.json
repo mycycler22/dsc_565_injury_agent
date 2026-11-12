@@ -1,0 +1,48 @@
+{
+  "pmid": "31855909",
+  "title": "Changes on Tendon Stiffness and Clinical Outcomes in Athletes Are Associated With Patellar Tendinopathy After Eccentric Exercise.",
+  "year": "2020",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Eccentric exercise is commonly used as a form of loading exercise for individuals with patellar tendinopathy. This study investigated the change of mechanical properties and clinical outcomes and their interrelationships after a 12-week single-legged decline-board exercise with and without extracorporeal shockwave therapy (ESWT)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Randomized controlled trial."
+    },
+    {
+      "label": "SETTING",
+      "text": "Outpatient clinic of a university."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Thirty-four male in-season athletes with patellar tendinopathy for more than 3 months were randomized into exercise and combined groups."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "The exercise group received a 12-week single-legged decline-squat exercise, and the combined group performed an identical exercise program in addition to a weekly session of ESWT in the initial 6 weeks."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Tendon stiffness and strain were examined using ultrasonography and dynamometry. Visual analog scale and Victoria Institute of Sports Assessment-patella (VISA-p) score were used to assess pain and dysfunction. These parameters were measured at preintervention and postintervention."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Significant time effect but no significant group effect on the outcome measures; significant reduction in tendon stiffness (P = 0.02) and increase in tendon strain (P = 0.00); and reduction of intensity of pain (P = 0.00) and dysfunction (P = 0.00) were observed. Significant correlations between changes in tendon stiffness and VISA-p score (ρ = -0.58, P = 0.05); alteration in tendon strain, pain intensity (ρ = -0.63, P = 0.03); and VISA-p score (ρ = 0.60, P = 0.04) were detected after the exercise program."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Eccentric exercise-induced modulation on tendon mechanical properties and clinical symptoms are associated in athletes with patellar tendinopathy."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "29479544",
+  "title": "Ulnar Collateral Ligament Reconstruction Versus Repair With Internal Bracing: Comparison of Cyclic Fatigue Mechanics.",
+  "year": "2018",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) injuries have increased significantly in recent years, and reconstruction has become the preferred treatment for UCL injury over ligament repair. In a recent study, UCL repair with internal bracing demonstrated significantly greater resistance to gap formation in biomechanical tests, even at low cycles of valgus loading."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to compare the fatigue and failure mechanics of traditional UCL reconstruction with UCL repair and internal bracing. We hypothesized that repaired specimens would have less gap formation, closer return to native gap formation, and greater maximum torque to failure versus traditionally reconstructed specimens."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ten matched pairs of cadaveric elbows were positioned at 90° of flexion and the native UCL subjected to 500 cycles of subfailure valgus loading. A simulated tear was created, and the 10 cycles were repeated. Each pair of specimens was next given repair with internal bracing on 1 side and a modified Jobe reconstruction on the contralateral side, followed by 100 manual cycles of flexion-extension, 500 cycles of valgus rotation, and, finally, rotation to failure."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The specimens that received the repair unexpectedly experienced significantly less gapping in the torn state than did those in the reconstruction group. At the 10th cycle, repaired UCL injuries had significantly less gap formation than the reconstructed UCLs. At the 100th and 500th cycles, repaired UCL injuries continued to experience significantly less gap formation as compared with the reconstructed injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "When compared with the gold standard reconstruction technique, UCL repair with internal bracing is more resistant to gap formation under fatigue loading. However, the unexpected early difference between the torn states may have confounded this finding. Time-zero failure properties of this repair technique are on par with those of traditional reconstruction, even after 500 cycles of valgus loading."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "UCL reconstruction has become a common procedure among adolescent and elite-level throwers. Recent data suggest that UCL repair may be a viable option for younger athletes with acute proximal or distal UCL tears, allowing a faster return to play."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

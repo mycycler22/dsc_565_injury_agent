@@ -1,0 +1,31 @@
+{
+  "pmid": "22067860",
+  "title": "Rugby players' awareness of concussion.",
+  "year": "2011",
+  "journal": "The Journal of craniofacial surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Concussion is a common issue in most contact sports, such as rugby, being one of the most troublesome injuries facing the sports medicine physician. The aim of this article was to survey the knowledge and beliefs concerning concussion in a sample of young rugby athletes in the northwest of Italy."
+    },
+    {
+      "label": "METHODS",
+      "text": "The athletes of 4 amateur rugby teams completed a questionnaire about their knowledge about the signs and symptoms of concussion and of return-to-play strategies and protocols."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-five athletes reported that they had not been informed by anyone about symptoms of concussion and its consequences. Among these, 7 players thought they could return to play immediately after a concussion during the very same match."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The surveyed group in this study presented a general lack of knowledge of concussion. Rugby athletes and coaches must be made aware about signs and symptoms of concussion to suspect this injury. It would be desirable that rugby players are educated regarding the potential risks of playing while symptomatic."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

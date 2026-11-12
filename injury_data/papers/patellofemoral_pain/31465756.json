@@ -1,0 +1,49 @@
+{
+  "pmid": "31465756",
+  "title": "Added Value of Gluteus Medius and Quadratus Lumborum Dry Needling in Improving Knee Pain and Function in Female Athletes With Patellofemoral Pain Syndrome: A Randomized Clinical Trial.",
+  "year": "2020",
+  "journal": "Archives of physical medicine and rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare the effects of exercise therapy alone and exercise therapy plus gluteus medius (GM) and quadratus lumbarum (QL) dry needling on pain and function in female athletes with patellofemoral pain (PFP)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Single-blind randomized controlled trial with follow-up."
+    },
+    {
+      "label": "SETTING",
+      "text": "Physiotherapy clinic."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Convenience sample of female athletes with PFP (N=40), who were randomly assigned to the exercise therapy (Ex group) or exercise-therapy+dry needling (Ex+DN group) group."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "The Ex group received exercise therapy for 4 weeks, and the Ex+DN group received exercise therapy in combination with dry needling directed at GM and QL trigger points for 4 weeks."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "In all participants, pain intensity, function (Kujala score, modified star excursion balance test, step-down test), and QL and GM pressure pain threshold (PPT) were recorded at baseline and at 4 and 6 weeks after the start of treatment. Analysis of variance (2 groups×3 times) was used to compare within- and between-group differences."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The group versus time interaction effect was significant for all variables (P<.05). Both groups showed significant improvements in pain, function, and PPT at weeks 4 and 6 compared to baseline (P<.05). Between-groups comparisons showed significantly greater improvements in pain, function, and PPT in the Ex+DN group (P<.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Targeting intervention to treat trigger points in the GM and QL muscles combined with exercise therapy had superior beneficial effects compared to exercise alone in managing PFP. Therefore, adding GM and QL muscle dry needling to exercise therapy may be advisable to enhance the effects of PFP rehabilitation."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

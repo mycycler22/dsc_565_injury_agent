@@ -1,0 +1,20 @@
+{
+  "pmid": "38945648",
+  "title": "Acute Concussion.",
+  "year": "2024",
+  "journal": "Physical medicine and rehabilitation clinics of North America",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussions are the most common type of traumatic brain injury. They result from external force to the head that causes a neuro-metabolic cascade to unfold. This can then lead to a variety of symptoms in the domains of physical, cognition, mood, and sleep. Concussions are a clinical diagnosis but it is important to rule out acute intracranial pathology through a detailed history and physical examination in addition to possible head imaging. Treatment should include an individualized approach that focuses on what domains are affected after concussion."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

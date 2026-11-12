@@ -1,0 +1,20 @@
+{
+  "pmid": "19117869",
+  "title": "Sport-related concussion.",
+  "year": "2009",
+  "journal": "Pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sport-related concussion is a common injury in children and adolescents. Athletes seldom report concussive symptoms, which makes the diagnosis a challenge. The management of sport-related concussion has changed significantly over the last several years. The previously used grading systems and return-to-play guidelines have been abandoned in favor of more individualized assessment and management. Neuropsychological testing is being used more frequently to assist in management. After recovery, it is recommended that an athlete's return-to-play progress in a gradual, stepwise fashion while being monitored by a health care provider. Proper assessment and management of a sport-related concussion is crucial, because repeat concussions can result in decreased neurocognitive functioning, increased symptomatology, and, at times, catastrophic outcomes."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

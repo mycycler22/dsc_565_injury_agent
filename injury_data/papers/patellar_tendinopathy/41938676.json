@@ -1,0 +1,19 @@
+{
+  "pmid": "41938676",
+  "title": "Bio-Mechano-Therapy for Refractory Patellar Tendinopathy in Athletes: A Randomized Comparative Study of Platelet-Rich Plasma, Extracorporeal Shock Wave Therapy, and Their Combination.",
+  "year": "2026",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Background Refractory patellar tendinopathy in competitive athletes frequently results in persistent pain and prolonged functional limitation despite structured rehabilitation programs. Platelet-rich plasma (PRP) and extracorporeal shock wave therapy (ESWT) have each demonstrated clinical efficacy; however, the potential synergistic effect of their combination, conceptualized as bio-mechano-therapy, remains insufficiently investigated in randomized clinical settings. Purpose To compare the clinical and structural outcomes of PRP alone, ESWT alone, and combined PRP plus ESWT therapy in athletes with refractory patellar tendinopathy. Study design This was a randomized comparative study with Level 2 evidence. Methods Ten competitive athletes with chronic patellar tendinopathy were randomly assigned to PRP alone (n = 5), ESWT alone (n = 2), or combined PRP+ESWT therapy (n = 3). All participants underwent a standardized eccentric rehabilitation program. Clinical outcomes included visual analog scale (VAS), Victorian Institute of Sport Assessment-Patella (VISA-P), International Knee Documentation Committee (IKDC), Lysholm score, and Knee injury and Osteoarthritis Outcome Score (KOOS Total). Structural changes were assessed using magnetic resonance imaging (MRI) and ultrasonography at baseline and one, three, and six months. Longitudinal clinical changes were analyzed using linear mixed-effects models including fixed effects for time, treatment group, and time-by-group interaction, with participants treated as random effects. Imaging improvement rates were compared using the Kruskal-Wallis test with Holm-adjusted post hoc analysis. Results Significant time effects were observed for all clinical outcomes (P < 0.01), whereas no significant time-by-group interactions were identified. Functional improvements were observed across all treatment groups, with no statistically significant between-group differences in patient-reported clinical scores. Quantitative imaging analyses demonstrated significant between-group differences in ultrasonographic hypoechoic lesion area and intratendinous lesion length at six months (P = 0.031 and P = 0.015, respectively), favoring the PRP+ESWT group. MRI-based assessments showed progressive structural improvement over time, with a significant between-group difference identified for axial lesion thickness at six months (P = 0.046), whereas sagittal lesion length and axial lesion width did not differ significantly among groups. Effect sizes for ultrasonographic outcomes were moderate to large (ε² = 0.34-0.37). All athletes returned to sport within six months, with no significant differences in return-to-play status among treatment groups. Conclusion Combined PRP and ESWT therapy demonstrated greater structural improvement on ultrasonographic assessment and numerically enhanced symptomatic recovery compared with monotherapy, although functional intergroup differences were not statistically significant. These findings suggest a potential synergistic interaction between biological stimulation and mechanotransductive loading in tendon healing. Clinical relevance Bio-mechano-therapy may represent a promising conservative treatment strategy for refractory patellar tendinopathy by promoting structural remodeling alongside clinical recovery in competitive athletes."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

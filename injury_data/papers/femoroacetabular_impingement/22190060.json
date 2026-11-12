@@ -1,0 +1,32 @@
+{
+  "pmid": "22190060",
+  "title": "Femoroacetabular impingement syndrome management: arthroscopy or open surgery?",
+  "year": "2012",
+  "journal": "International orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "This review explores the scientific evidence for clinical, functional and imaging outcomes after surgical management of Femoroacetabular Impingement (FAI) syndrome, and assesses the methodological quality of the published literature reporting this issue."
+    },
+    {
+      "label": "METHODS",
+      "text": "The medical literature databases of Pubmed, Medline, Ovid, Google Scholar and Embase were searched for articles published in English, Spanish, French and Italian, using a combination of the keywords 'femoro-acetabular impingement syndrome', 'postoperative outcomes', 'open surgery', and 'arthroscopic management'. To address three main questions, we extracted data on demographic features, operative techniques, postoperative rehabilitation regimens, imaging features, pre and postoperative hip scores. Complications and conversion to arthroplasty were also investigated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-one studies published have reported clinical, functional and imaging outcomes after open and arthroscopic management of FAI syndrome. The modified Coleman methodology score (CMS) averaged 56.2 (range, 30-81). From extracted data, it was shown that arthroscopy, open surgery and arthroscopic surgery followed by mini open surgery are comparable for functional results, biomechanics, and return to sport. Progression of OA and conversion to hip arthroplasty are dependent on preoperative status of cartilage and osteoarthritis and type of management. Debridement and osteoplasty provide better results than debridement only. Significantly improved outcomes have been recorded in patients undergoing labral refixation than resection. The Coleman methodology score showed great heterogeneity in terms of study design and outcome assessment, and generally low methodological quality."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Although open and minimally invasive procedures allow athletes to return to professional sports activity, they are contraindicated in patients with severe osteoarthritis and cartilage degeneration."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "41483130",
+  "title": "Long-term outcomes after hip arthroscopy for femoroacetabular impingement PASS, MCID, return to sport, and revision rates at a minimum five-year follow-up.",
+  "year": "2026",
+  "journal": "International orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Hip arthroscopy is widely used for treating femoroacetabular impingement (FAI), yet long-term data evaluating PASS, MCID thresholds, functional recovery, and revision rates remain limited. This study aimed to assess minimum five year outcomes following hip arthroscopy for FAI and to identify predictors of postoperative success."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this retrospective cohort study, 133 patients with a minimum of five years of follow-up were evaluated. Preoperative and postoperative outcomes included mHHS and VAS scores. Postoperative PROMs included iHOT-12, HOS-ADL, and HOS-Sport. PASS, MCID achievement, return to sport (RTS), return to work (RTW), revision arthroscopy, and conversion to total hip arthroplasty (THA) were recorded. MCID for ΔmHHS was determined using ROC analysis with PASS as the external anchor. Logistic regression identified predictors of PASS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean mHHS improved from 62.0 ± 12.9 preoperatively to 83.6 ± 12.8 at final follow-up (p < 0.001). VAS scores improved from 7.7 ± 1.9 to 3.1 ± 2.3 (p < 0.001). PASS was achieved by 72.2% of patients, and 83.1% met the MCID threshold of a 10-point increase in mHHS. Return-to-sport and return-to-work rates were 96.2% and 96.9%, respectively."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip arthroscopy for FAI provides durable clinical improvement at long-term follow-up, with high PASS and MCID achievement rates. RTS and RTW rates were excellent, and revision and THA conversion rates were comparable with contemporary long-term reports. Preoperative pain severity was the only independent predictor of PASS."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

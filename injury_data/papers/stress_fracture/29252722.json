@@ -1,0 +1,23 @@
+{
+  "pmid": "29252722",
+  "title": "Rib Stress Fracture in a Collegiate Softball Pitcher: A Case Report.",
+  "year": "2016",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "We present the case of a twenty-one-year-old right-hand-throwing, right-hand-batting female softball pitcher who presented with a three-month history of right rib pain. A bone scan showed increased uptake in the lateral aspect of the right seventh rib, consistent with a stress fracture. The patient was managed nonoperatively and made a full recovery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The forces created by the attachment of the serratus anterior during underhand throwing are the likely etiology of the injury in our patient. Physicians should maintain a high clinical index of suspicion for stress fracture in underhand athletes with lateral rib pain."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

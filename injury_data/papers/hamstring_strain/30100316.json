@@ -1,0 +1,32 @@
+{
+  "pmid": "30100316",
+  "title": "The effects of cryotherapy versus cryostretching on clinical and functional outcomes in athletes with acute hamstring strain.",
+  "year": "2018",
+  "journal": "Journal of bodywork and movement therapies",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Hamstring strain is a common sport injury that results in pain and functional limitation. Despite its high frequency in active populations, there is no agreement regarding the best method used for early intervention of hamstring strain. The aim of the present study was to compare the effects of cryotherapy and cryostretching on clinical and functional outcomes in athletes with acute hamstring strain."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Thirty seven elite athletes with an acute grade I or II hamstring strain were randomly assigned to either cryotherapy (n = 19) or cryostretching (n = 18) group, receiving 5 sessions of supervised treatment plus home-based intervention monitored by the therapist. Pre-treatment to post-treatment changes in pain, active and passive knee extension range of motion and functional status were compared between the two groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Compared to cryotherapy, cryostretching resulted in larger improvement of function and passive knee extension range of motion. Changes in active knee extension range of motion and pain severity were not significantly different between the two groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A rehabilitation protocol involving gentle stretching following cryotherapy is more effective than cryotherapy alone in the improvement of function and passive knee range of motion in patients with grade I and II hamstring strain."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

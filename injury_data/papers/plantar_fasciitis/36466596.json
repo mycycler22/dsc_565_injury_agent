@@ -1,0 +1,40 @@
+{
+  "pmid": "36466596",
+  "title": "Treatment Approaches for Plantar Fasciopathy in Elite Athletes: A Scoping Review of the Literature.",
+  "year": "2022",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Plantar fasciopathy is a common orthopaedic condition that affects athletes and limits their performance."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To conduct a scoping review of the literature to summarize the evidence provided so far for the management of plantar fasciopathy in elite athletes and identify potential gaps in the current knowledge."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Scoping review; Level of evidence, 5."
+    },
+    {
+      "label": "METHODS",
+      "text": "This scoping review followed the 6-stage methodological framework of Arksey and O'Malley and was registered in the Open Science Framework. PubMed, Scopus, and Web of Science were used to identify eligible articles. After charting of data, studies were pooled into 3 categories: epidemiological/diagnostic studies, outcome research focused on plantar fasciitis or partial tears, and studies on the rupture of the plantar fascia. The modified Coleman Methodology Score was used to assess the quality of included articles."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 742 initial studies, 10 were selected (109 patients): 8 level 4 articles and 2 level 5 articles. In 4 studies (91 athletes), potential risk factors were discussed but not investigated (ie, preexistent thickening of the fascia, spike shoes, varus hindfoot/knee alignment). In 3 studies (6 athletes) focusing on plantar fasciitis, the nonsurgical treatment led to a satisfactory but poorly documented outcome. In 3 studies (12 athletes), the rupture of the fascia was treated nonoperatively with contrasting results, while surgery was performed only in 2 cases. The mean modified Coleman Methodology Score was 19 (range, 3-42), demonstrating overall poor methodology."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The limited number of studies and their poor quality do not allow to define the gold standard treatment of plantar fasciopathy in elite athletes. Until high-quality studies are provided, clinicians have to rely on the available literature regarding the nonprofessional or nonathletic population to make the best evidence-based decision."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

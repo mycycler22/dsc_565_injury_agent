@@ -1,0 +1,37 @@
+{
+  "pmid": "20218423",
+  "title": "Anterior mid-tibial stress fractures. Results of surgical treatment.",
+  "year": "2009",
+  "journal": "Scandinavian journal of surgery : SJS : official organ for the Finnish Surgical Society and the Scandinavian Surgical Society",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND AIMS",
+      "text": "An anterior mid-tibial stress fracture is an uncommon, but possibly career threatening condition for an athlete. We wanted to evaluate the results of the surgical treatment of this notorious stress fracture and compare two different surgical methods."
+    },
+    {
+      "label": "MATERIAL AND METHODS",
+      "text": "Forty-nine anterior mid-tibial stress fractures were treated surgically in 45 patients during the years 1985-2005. All the patients were athletes, mainly runners. The mean age of the patients was 26 years. Thirty-four of the fractures occurred in men and 15 in women. The first method of treatment (anteromedial and lateral drilling) was used in 20 operations and the second method (laminofixation) in 29 operations."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Good results were achieved with drilling in only 50 % of the operations, where as with laminofixation good results were achieved in 93 % of operations. This difference was statistically significant (p = .002). Healing of the stress fracture after laminofixation occurred in less than 6 months. The length of the plate used in the laminofixation had no effect on the end result."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "An anterior mid-tibial stress fracture may often lead to delayed union or non-union in vigorously training athletes. Surgical treatment with laminofixation proved to be superior to tibial fracture site drilling."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Healing of the stress fracture after laminofixation occurred in less than 6 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,34 @@
+Title: Effect of Achilles Tendon Rupture on Player Performance and Longevity in National Basketball Association Players. | Type: Journal Article | PMID: 33294475 | Year: 2020 | Injury query: Achilles tendon rupture
+[RESULTS] Injured players demonstrated significant declines in games per season (GPS), minutes per game (MPG), and PER at 1 year and 3 years after RTS compared with preindex baseline (<i>P</i> < .05).
+[FULLTEXT: Results:] Of 47 players, 34 (72.3%) with Achilles tendon ruptures returned to play at the NBA level after surgical intervention. A total of 7 players were excluded from the study. No differences were found in demographic characteristics or PER (2 years before injury) between the remaining 27 players and matched controls. The injured players had significantly shorter careers compared with control players (3.1 ± 2.3 vs 5.8 ± 3.5 seasons, respectively; P < .05). Injured players demonstrated significant declines in games per season (GPS), minutes per game (MPG), and PER at 1 year and 3 years after RTS compared with preindex baseline (P < .05). Injured players, compared with control players, had reduced relative percentages of games started (GS) (50% vs 125%, respectively), MPG (83% vs 103%), and PER (80% vs 96%) at 1 year after return (P < .05), but reductions at extended 3-year follow-up were seen only in GPS (71% vs 91%) and GS (39% vs 99%) (P < .05).
+[FULLTEXT: Return to Sport] After Achilles tendon repair, NBA players’ average RTS time was 11.23 ± 4.07 months, with 85.2% of players returning the season after injury. Subsequently, players with Achilles tendon repairs, compared with the control group, played in significantly fewer seasons (3.13 ± 2.32 vs 5.84 ± 3.46, respectively) and played fewer GPS (42.33 ± 19.97 vs 56.56 ± 17.53) (P < .05) (Table 2). Table 3 demonstrates correlations between the time to RTS and demographic and injury characteristics. Athletes who returned more quickly were older (age, r = –0.41; P = .04) and had greater playing experience before the index season (seasons preindex, r = –0.39; P < .05). No other demographic factors significantly correlated with time to RTS. The amount of time to RTS did not significantly correlate with subsequent career longevity (seasons postindex, r = –0.12; P = .56).
+[FULLTEXT: TABLE: Demographic Characteristics of NBA Players Sustaining Achilles Tendon Tears vs Matched Controlsa]  |  |  |  | P Value
+ | Achilles, No RTS(n = 12) | Achilles, RTS(n = 27) | Control(n = 27) | RTS vs No RTS | Control vs Achilles Tear
+Age, y | 29.5 ± 3.48 | 28.22 ± 4.13 | 28.22 ± 4.13 | .34 | ≥.999
+Height, cm | 195.25 ± 8.70 | 200.57 ± 9.62 | 201.15 ± 9.63 | .11 | .25
+Weight, kg | 94.92 ± 16.76 | 103.00 ± 16.16 | 102.22 ± 14.28 | .18 | .10
+Body mass index, kg/m2 | 24.68 ± 2.14 | 25.45 ± 2.19 | 25.22 ± 1.85 | .33 | .11
+Years of experience | 6.67 ± 3.57 | 7.22 ± 4.21 | 8.13 ± 4.40 | ≥.999 | .004
+Player efficiency rating 2 y preindex | 12.05 ± 2.73 | 16.86 ± 5.35 | 15.42 ± 3.82 | .01 | .31
+Time of injury |  |  |  |  | 
+Preseason |  | 7 (26) | — |  | 
+1-20 games |  | 7 (26) | — |  | 
+21-40 games |  | 3 (11) | — |  | 
+41-60 games |  | 5 (19) | — |  | 
+61-82+ games |  | 5 (19) | — |  | 
+Position |  |  |  |  | .79
+Point guard |  | 5 (19) | 4 (15) |  | 
+Shooting guard |  | 5 (19) | 8 (30) |  | 
+Small forward |  | 6 (22) | 3 (11) |  | 
+Power forward |  | 5 (19) | 6 (22) |  | 
+Center |  | 6 (22) | 6 (22) |  | 
+[FULLTEXT: TABLE: Correlation of NBA Player Characteristics With Time to Return to Sporta]  | r | P Value
+Seasons postindex | –0.12 | .56
+Age | –0.41 | .04
+Height | –0.18 | .39
+Weight | –0.05 | .79
+Body mass index | 0.08 | .71
+Position | –0.14 | .48
+Mechanism of injury | 0.3 | .14
+Seasons preindex | –0.39 | <.05
+Quarter of injury | –0.35 | .08

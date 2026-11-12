@@ -1,0 +1,32 @@
+{
+  "pmid": "30518382",
+  "title": "Overuse injuries in sport: a comprehensive overview.",
+  "year": "2018",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The absence of a single, identifiable traumatic cause has been traditionally used as a definition for a causative factor of overuse injury. Excessive loading, insufficient recovery, and underpreparedness can increase injury risk by exposing athletes to relatively large changes in load. The musculoskeletal system, if subjected to excessive stress, can suffer from various types of overuse injuries which may affect the bone, muscles, tendons, and ligaments."
+    },
+    {
+      "label": "METHODS",
+      "text": "We performed a search (up to March 2018) in the PubMed and Scopus electronic databases to identify the available scientific articles about the pathophysiology and the incidence of overuse sport injuries. For the purposes of our review, we used several combinations of the following keywords: overuse, injury, tendon, tendinopathy, stress fracture, stress reaction, and juvenile osteochondritis dissecans."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overuse tendinopathy induces in the tendon pain and swelling with associated decreased tolerance to exercise and various types of tendon degeneration. Poor training technique and a variety of risk factors may predispose athletes to stress reactions that may be interpreted as possible precursors of stress fractures. A frequent cause of pain in adolescents is juvenile osteochondritis dissecans (JOCD), which is characterized by delamination and localized necrosis of the subchondral bone, with or without the involvement of articular cartilage. The purpose of this compressive review is to give an overview of overuse injuries in sport by describing the theoretical foundations of these conditions that may predispose to the development of tendinopathy, stress fractures, stress reactions, and juvenile osteochondritis dissecans and the implication that these pathologies may have in their management."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Further research is required to improve our knowledge on tendon and bone healing, enabling specific treatment strategies to be developed for the management of overuse injuries."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

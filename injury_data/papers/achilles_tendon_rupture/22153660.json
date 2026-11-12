@@ -1,0 +1,24 @@
+{
+  "pmid": "22153660",
+  "title": "Results of accelerated postoperative rehabilitation using novel \"suture frame\" repair of Achilles tendon rupture.",
+  "year": "2012",
+  "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The management of Achilles tendon rupture is a much-debated subject. In recent years, there has been much interest in early postoperative mobilization. We present the results of our Achilles tendon repair technique and accelerated rehabilitation program. The technique we propose uses the strength of a 1-loop polydioxanone \"suture frame\" to enable restoration of the tendon length, immediate positioning of the foot in a near-plantigrade position, and an accelerated rehabilitation program. We followed up 15 cases of Achilles tendon rupture treated with this technique. The initial follow-up was a review of case notes and a telephone questionnaire. All patients were subsequently invited for a clinical follow-up visit, and 11 patients (68.75%) attended. No cases of infection or repeat rupture occurred. The return to work (mean 5.6 weeks) and return to sport (mean 4.8 months) were relatively rapid. Regarding overall satisfaction on a scale of 0 to 10, the median was 9 (range 8 to 10). Of the 11 patients who attended the clinical follow-up visit, the mean American Orthopaedic Foot and Ankle Surgery ankle-hindfoot score was 94.5 points (range 83 to 100). The Achilles rupture repair scores (including isokinetic muscle strength) were good or excellent in all but 1 patient, whose result was fair. Of the 11 patients, 10 reported complete satisfaction with their outcome. Our technique with accelerated rehabilitation is safe and effective in the management of acute Achilles tendon rupture. It facilitates an early return to work and recreational sports, with excellent overall patient satisfaction."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The return to work (mean 5.6 weeks) and return to sport (mean 4.8 months) were relatively rapid."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

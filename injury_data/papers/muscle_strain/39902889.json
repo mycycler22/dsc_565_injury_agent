@@ -1,0 +1,32 @@
+{
+  "pmid": "39902889",
+  "title": "Genome-Wide Association Study on Muscle Stiffness Identified Novel Locus for Predisposition to Muscle Strain Injury.",
+  "year": "2025",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "We aimed to screen the entire genome for genetic variants associated with passive muscle stiffness, which has been suggested as a risk factor for muscle strain injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "This genome-wide association study (GWAS) on passive muscle stiffness included 350 physically active young Japanese individuals. Three hamstring constituents were measured using ultrasound shear wave elastography. Skeletal muscle transcriptomes were compared across the genotypes of GWAS-identified variants in 48 healthy Japanese individuals. Association between GWAS-identified variants and history of muscle strain injury was examined in 1428 Japanese athletes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Two loci on chromosome 11 demonstrated a genome-wide significant association with passive muscle stiffness of the biceps femoris long head (rs12807854 T/C: P = 5.19 × 10 -10 , rs78405694 T/C: P = 2.09 × 10 -8 ; linear regression analysis adjusted for sex, age, and stretching exercise habits). Skeletal muscle RNA sequencing revealed significantly elevated expression of extracellular matrix-related genes in muscles carrying stiffness-increasing alleles of these variants. Among athletes, rs12807854 T/C was significantly associated with a history of muscle strain injury ( P = 0.0254; logistic regression analysis adjusted for age, sex, competitive level, and main sport). Carriers of the C allele, associated with increased muscle stiffness, exhibited a heightened risk of muscle strain injury (odds ratio = 1.62; 95% confidence interval = 1.06-2.47 per C allele increase). By contrast, rs78405694 did not show a significant association with muscle strain injury in this population."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A novel locus associated with passive muscle stiffness and muscle strain injury was identified. Elucidating the detailed mechanisms linking the identified locus to passive muscle stiffness may lead to the development of new strategies to prevent muscle strain injuries."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

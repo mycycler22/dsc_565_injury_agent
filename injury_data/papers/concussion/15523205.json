@@ -1,0 +1,49 @@
+{
+  "pmid": "15523205",
+  "title": "Sport-related concussion: factors associated with prolonged return to play.",
+  "year": "2004",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To assess predictive value of concussion signs and symptoms based on return-to-play timelines."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Physician practice study without diagnosis that includes presentation, initial and subsequent treatment, and management of concussion."
+    },
+    {
+      "label": "SETTING",
+      "text": "National multisite primary care sports medicine provider locations."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Twenty-two providers at 18 sites; 101 athletes (91 men, 10 women in the following sports: 73 football, 8 basketball, 8 soccer, 3 wrestling, 2 lacrosse, 2 skiing, 5 others; 51 college, 44 high school, 4 professional, and 2 recreational)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASUREMENTS",
+      "text": "Duration of symptoms, presence of clinical signs, and time to return to play following concussion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "One hundred one concussions were analyzed. Pearson chi2 analysis of common early and late concussion symptoms revealed statistical significance (P < 0.05) of headache >3 hours, difficulty concentrating >3 hours, any retrograde amnesia or loss of consciousness, and return to play >7 days. There appeared to be a trend in patients with posttraumatic amnesia toward poor outcome, but this was not statistically significant."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "When evaluating concussion, symptoms of headache >3 hours, difficulty concentrating >3 hours, retrograde amnesia, or loss of consciousness may indicate a more severe injury or prolonged recovery; great caution should be exercised before returning these athletes to play."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Pearson chi2 analysis of common early and late concussion symptoms revealed statistical significance (P < 0.05) of headache >3 hours, difficulty concentrating >3 hours, any retrograde amnesia or loss of consciousness, and return to play >7 days."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

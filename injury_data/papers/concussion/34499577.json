@@ -1,0 +1,35 @@
+{
+  "pmid": "34499577",
+  "title": "The burden of unsubstantiated messaging: collegiate athletes' chronic traumatic encephalopathy mechanism beliefs.",
+  "year": "2021",
+  "journal": "Brain injury",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate factors associated with collegiate athletes' beliefs regarding chronic traumatic encephalopathy (CTE) mechanism."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 838 collegiate athletes (61.9% men) from seven institutions completed a 10-minute survey that captured information relative to demographics, diagnosed concussion history, formal sport-related concussion education, additional sources of concussion information, and beliefs about multiple concussions and premature return-to-play following a head impact as mechanisms for CTE."
+    },
+    {
+      "label": "RESULTS",
+      "text": "More than half of collegiate athletes believed that multiple concussions (58.2%) and premature return-to-play (59.1%) may cause CTE. Those who reported getting concussion information from sports news had higher odds of believing multiple concussions and premature return-to-play were CTE mechanisms compared to those who did not get information from sports news sources. Additionally, CTE mechanism beliefs were significantly greater in collegiate athletes who were male, had sustained a previous diagnosed concussion, or had acquired concussion information from the NCAA."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Sports news' reporting of CTE storylines, which highlight former male athletes with complex brain injury histories, may influence collegiate athletes' beliefs about concussion. Therefore, it is recommended that concussion awareness initiatives incorporate information related specifically to CTE to empower collegiate athletes with evidence-based, patient-oriented information and knowledge regarding this condition."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

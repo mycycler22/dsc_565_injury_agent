@@ -1,0 +1,40 @@
+{
+  "pmid": "30865844",
+  "title": "Return to Sport as an Outcome Measure for Shoulder Instability: Surprising Findings in Nonoperative Management in a High School Athlete Population.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Young age and contact sports have been postulated as risk factors for anterior shoulder instability. Management after shoulder instability is controversial, with studies suggesting that nonoperative management increases the risk of recurrence. Several studies examined return to play after an in-season instability episode, and few followed these patients to determine if they were able to successfully compete in a subsequent season. No study has evaluated this question in a high school athlete population."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare the likelihood of return to scholastic sport and complete the next full season without an additional time-loss injury among athletes with anterior shoulder instability in terms of treatment, instability type, and sport classification."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes were included in this study as identified by a scholastic athletic trainer as experiencing a traumatic time-loss anterior shoulder instability injury related to school-sponsored participation. The cohort was predominantly male (n = 108, 84%) and consisted mostly of contact athletes (n = 101, 78%). All athletes had dislocation or subluxation diagnosed by a board-certified physician who determined the athlete's course of care (nonoperative vs operative). Successful treatment was defined as completion of care and return to the athlete's index sport, with full participation for the following season. Chi-square and relative risk analyses were completed to compare success of treatment (nonoperative vs operative care) and instability type. Separate logistic regressions were used to compare the effect of sex and sport classification on the athletes' ability to return to sport. Statistical significance was set a priori as α = .05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Scholastic athletes (N = 129) received nonoperative (n = 97) or operative (n = 32) care. Nonoperatively treated (85%) and operatively treated (72%) athletes successfully returned to the same sport without injury for at least 1 full season ( P = .11). Players sustaining a dislocation were significantly more likely to fail to return when compared with those sustaining a subluxation (26% vs 89%, P = .013). Sex ( P = .85) and sport classification ( P = .74) did not influence the athlete's ability to return to sport, regardless of treatment type."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A high percentage of athletes with shoulder instability achieved successful return to sport without missing any additional time for shoulder injury. Those with subluxations were at almost 3 times the odds of a successful return compared with those sustaining a dislocation."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

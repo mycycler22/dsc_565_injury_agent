@@ -1,0 +1,39 @@
+{
+  "pmid": "27159298",
+  "title": "Site and Severity of the Increased Humeral Retroversion in Symptomatic Baseball Players: A 3-dimensional Computed Tomographic Analysis.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Humeral retroversion in baseball players is greater in the dominant shoulder than in the nondominant shoulder. However, the site and severity of the humeral rotational deformity remain unclear."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the site of side-to-side differences in humeral retroversion in baseball players and the severity of these changes through 3-dimensional computed tomographic (3D CT) bone models."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "From 2008 to 2014, we studied 25 baseball players (12 pitchers, 13 fielders) who underwent surgery for throwing-related injuries (shoulder injury, 15 players; elbow injury, 10 players). The mean age (±SD) at the time of surgery was 20.0 ± 5.9 years. A reconstructed 3D CT model of the entire humerus was divided into 15 segments of equal height (overall mean, 21.4 ± 1.0 mm). The side-to-side difference in humeral retroversion in each segment was calculated by superimposing the model of the dominant side over the mirror-image model of the nondominant side."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall mean increase in humeral retroversion was 13.0° ± 6.2° on the dominant side. Significant side-to-side differences in retroversion were present throughout the humerus. The largest side-to-side difference in humeral retroversion was seen at the insertions of the internal rotator muscles (2.5° ± 4.3°) and around the proximal physis (2.5° ± 1.4°). At the insertions of shoulder capsule and rotator cuff tendons, the superior half of the humeral head was more retroverted than the inferior half (P < .0001). The side-to-side difference in humeral retroversion was significantly greater in the pitchers (16.2° ± 5.1°) than in the fielders (10.0° ± 5.7°) (P = .009), particularly at the proximal physis."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Baseball players exhibited significant side-to-side differences in humeral retroversion at multiple sites throughout the humerus, including the proximal humerus near the epiphyseal plate and at the insertions of the internal rotator muscles, the middle of the humeral shaft, and the distal third of the humerus. Therefore, the increased humeral retroversion at multiple sites throughout the humerus needs to be considered when we perform physical examinations, provide treatment, or undertake biomechanical studies for any throwing-related injuries."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

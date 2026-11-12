@@ -1,0 +1,45 @@
+{
+  "pmid": "30265820",
+  "title": "Effect of Increased Scapular Internal Rotation on Glenohumeral External Rotation and Elbow Valgus Load in the Late Cocking Phase of Throwing Motion.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Scapular dyskinesis among throwers is thought to affect kinetic chain function and increase the load demands on the shoulder and/or elbow. However, the biomechanical relationship between scapular orientation and elbow valgus load, which is associated with ulnar collateral ligament (UCL) injury, has not been determined."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the effect of increased scapular internal rotation (IR) and glenohumeral external rotation (GHER) on elbow valgus load in a static simulation of the late cocking phase of throwing."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Seven fresh-frozen male cadaveric upper extremities were used with a custom testing system to simulate the late cocking phase. First, the authors evaluated the effect of increasing scapular IR on maximum GHER and forearm angle (forearm axis relative to the ground). Each parameter was evaluated at 20° to 40° (5° increments) of scapular IR by applying 2.2-N·m external rotation torque to the humerus and 0.75-N·m valgus torque to the forearm. Next, to evaluate elbow valgus stability, the humerus was locked in maximal GHER at 40° of scapular IR, and sequentially increasing torque (0.75-7.5 N·m by 0.75-N·m increments) was applied to the forearm. Valgus angle and joint gap were evaluated at each torque."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Increases in scapular IR ≥5° significantly decreased GHER ( P < .01). With increasing valgus torque, forearm angle also increased linearly ( R<sup>2</sup> = 0.85, P < .001). To compensate for the GHER deficit at 40° of scapular IR, a linear regression model showed that 25.3 N·m of valgus torque would be necessary to reach the original forearm position. In the intact condition, applying elbow valgus torque ≥5.25 N·m significantly increased valgus angle and the joint gap ( P < .01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Increased scapular IR significantly decreased GHER. Compensation for the GHER deficit significantly increased the elbow valgus load required to reach the same forearm position."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Increased scapular IR may increase the risk of elbow UCL injury among throwing athletes."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

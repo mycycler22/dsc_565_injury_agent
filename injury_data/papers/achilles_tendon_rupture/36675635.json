@@ -1,0 +1,34 @@
+{
+  "pmid": "36675635",
+  "title": "Local Tendon Transfers for Chronic Ruptures of the Achilles Tendon: A Systematic Review.",
+  "year": "2023",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Introduction: A rupture of the Achilles tendon with a delay in diagnosis or treatment for more than 6 weeks is considered a chronic tear. Local tendon transfer procedures can be used in chronic Achilles tendon ruptures. This study evaluated the outcome, return to sport, and complications of local tendon transfer in patients with chronic Achilles tendon rupture. Material and methods: The present study was conducted according to the PRISMA 2020 guidelines. PubMed, Google Scholar, Embase, and Web of Science databases were accessed in November 2022. Results: Data were retrieved from 23 articles (463 patients, mean age 50.9 ± 13.5 years). The mean duration of the follow-up was 58.3 ± 76.8 months. The VAS improved by 1.8/10 (p = 0.4), the AOFAS by 33.4/100 (p < 0.0001), and the ATRS by 32.5/100 (p = 0.0001) points. Patients were able to return to sport after a mean of 19.6 ± 16.4 weeks. A total of 79% of patients were able to return to their previous activities. The rate of complications was 13.3%. Conclusions: The use of local tendon transfer for chronic Achilles tendon ruptures using the FHL or PB tendon resulted in good clinical outcomes and a reliable return to daily activities and sports. The rate of complications reflects the chronicity of the condition and the technical complexity of the procedure. Level of evidence: IV."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Patients were able to return to sport after a mean of 19.6 ± 16.4 weeks."
+    }
+  ],
+  "pmcid": "9866603",
+  "fulltext_chunks": [
+    {
+      "section": "3.3. Study Characteristics and Results of Individual Studies",
+      "text": "A total of 463 patients were identified; 25.1% (120 of 463) were females. The mean length of the follow-up was 58.3 ± 76.8 months. The mean age was 50.9 ± 13.5 years, and the mean BMI was 26.8 ± 0.9 kg/m2. The generalities of the included studies are shown in Table 3."
+    },
+    {
+      "section": "3.4. Results of Syntheses",
+      "text": "All the patient-reported outcome measures (PROMs) significantly improved at the last follow-up (Table 4). The VAS reduced by 1.8/10 (p = 0.4), the AOFAS improved by 34.3/100 (p < 0.0001), and the ATRS improved by 41.3/100 (p = 0.0001) (Table 4). Calf circumference did not improve significantly (p = 0.08). Patients were able to return to their daily activities at a mean of 13.7 ± 8.3 weeks and to sports at a mean of 19.6 ± 16.4 weeks. A total of 79% of patients were able to return to practice the previous activity. The overall rate of complications was 12.7% (59 complications in 463 procedures) (Table 5)."
+    }
+  ]
+}

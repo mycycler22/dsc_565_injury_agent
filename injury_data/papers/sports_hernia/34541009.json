@@ -1,0 +1,40 @@
+{
+  "pmid": "34541009",
+  "title": "Surgical Outcomes of Inguinal-, Pubic-, and Adductor-Related Chronic Pain in Athletes: A Systematic Review Based on Surgical Technique.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Controversies remain regarding the surgical treatment of inguinal-, pubic-, and adductor-related chronic groin pain (CGP) in athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the outcomes of surgery for CGP in athletes based on surgical technique and anatomic area addressed."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "The PubMed and Embase databases were searched for articles reporting surgical treatment of inguinal-, pubic-, or adductor-related CGP in athletes. Inclusion criteria were level 1 to 4 evidence, mean patient age >15 years, and results presented as return-to-sport, pain, or functional outcomes. Quality assessment was performed with the CONSORT (Consolidated Standards of Reporting Trials) statement or MINORS (Methodological Index for Non-randomized Studies) criteria. Techniques were grouped as inguinal, adductor origin, pubic symphysis, combined inguinal and adductor, combined pubic symphysis and adductor, or mixed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 47 studies published between 1991 and 2020 were included. There were 2737 patients (94% male) with a mean age at surgery of 27.8 years (range, 12-65 years). The mean duration of symptoms was 13.1 months (range, 0.3-144 months). The most frequent sport involved was soccer (71%), followed by rugby (7%), Australian football (5%), and ice hockey (4%). Of the 47 articles reviewed, 44 were classified as level 4 evidence, 1 study was classified as level 3, and 2 randomized controlled trials were classified as level 1b. The quality of the observational studies improved modestly with time, with a mean MINORS score of 6 for articles published between 1991 and 2000, 6.53 for articles published from 2001 to 2010, and 6.9 for articles published from 2011 to 2020. Return to play at preinjury or higher level was observed in 92% (95% CI, 88%-95%) of the athletes after surgery to the inguinal area, 75% (95% CI, 57%-89%) after surgery to the adductor origin, 84% (95% CI, 47%-100%) after surgery to the pubic symphysis, and 89% (95% CI, 70%-99%) after combined surgery in the inguinal and adductor origin."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Return to play at preinjury or higher level was more likely after surgery for inguinal-related CGP (92%) versus adductor-related CGP (75%). However, the majority of studies reviewed were methodologically of low quality owing to the lack of comparison groups."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

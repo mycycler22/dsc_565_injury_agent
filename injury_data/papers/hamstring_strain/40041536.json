@@ -1,0 +1,39 @@
+{
+  "pmid": "40041536",
+  "title": "The Recognition, Utilization Rates, Barriers, and Application Accuracy of the Hamstring Strain Clinical Practice Guidelines.",
+  "year": "2025",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND PURPOSE",
+      "text": "Clinical practice guidelines (CPGs) are systematically developed statements designed to promote evidence-based practice, assist in decision-making, and reduce unwarranted deviations in practice. The purpose of this study was to describe the awareness and attitudes of physical therapists (PTs) towards using the Hamstring Strain Injury in Athletes (HSIA) CPG and determine the relationship between barriers, utility, and knowledge of practice guidelines with the behavioral characteristics and clinical care patterns of PTs."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Explorative survey."
+    },
+    {
+      "label": "METHODS",
+      "text": "Members of the American Academy of Sports Physical Therapy (AASPT) were surveyed regarding their perceived value and application of the HSIA CPG. Descriptive measures of central tendencies and nonparametric analysis were used to describe the data and identify differences. A forward stepwise regression was used to identify variables to explain if the level of CPG awareness and frequency of use were related to selected attitudes, beliefs, and barriers to utilization of the CPG."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighty-seven percent of respondents were aware of the CPG resource. Fifty-six percent had read, reviewed, and/or integrated the recommendations into clinical practice. The respondents had a substantial positive opinion regarding its necessity, assistance in decision-making, ease of implementation, ability to improve outcomes, and reduction of unwarranted practice variation. Only 15% of respondents believed the CPG did not provide adequate evidence to adopt its recommendations. Barriers to utilization were the CPG's ability to account for provider expertise and its shortcomings in universally applying its findings to all patients' needs and expectations. Given a specific hamstring injury vignette, respondents accurately chose evidence-based examination, intervention, and injury prevention strategies in the vast majority of cases."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The HSIA CPG is a valuable resource for PTs in managing athletic injuries. The guideline clearly describes the aims, objectives, population, and evidence that contributes to each recommendation and is being used to improve rehabilitative care."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "3b."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

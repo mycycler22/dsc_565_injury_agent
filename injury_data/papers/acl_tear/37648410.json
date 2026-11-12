@@ -1,0 +1,31 @@
+{
+  "pmid": "37648410",
+  "title": "Biomechanics and situational patterns associated with anterior cruciate ligament injuries in the National Basketball Association (NBA).",
+  "year": "2023",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Perform a comprehensive video analysis of all anterior cruciate ligament (ACL) injuries in National Basketball Association (NBA) athletes from 2006 to 2022 to determine the associated biomechanics, injury mechanism and game situation."
+    },
+    {
+      "label": "METHODS",
+      "text": "NBA players diagnosed with an ACL tear from 2006 to 2022 were identified and videos of each injury evaluated by two reviewers. Visual evaluation included assessment of joint kinematics at three time points: initial contact of the injured leg with the ground (IC), 33 milliseconds later (IC+33) and 66 milliseconds later (IC+66). Game situation was assessed qualitatively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Videos of 38 out of 47 (80.9%) ACL tears were obtained. 9 injuries were non-contact, while 29 involved indirect contact. Between IC and IC+33, average knee valgus increased from 5.1° to 12.0° and knee flexion increased from 12.6° to 32.6°. At all time points, the majority of injuries involved trunk tilt and rotation towards the injured leg, hip abduction and neutral foot rotation. The most common game situations for injury included the first step when attacking the basket following picking up the ball (n=13), landing following contact in the air (n=11) and jump stop (n=5)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Three major mechanisms predominate ACL tears in NBA players: the first step following picking up the ball when attacking, landing and jump stops. None of the injuries reviewed demonstrated direct contact to the knee, emphasising the importance of body kinematics in this injury pattern. The increase in knee valgus and knee flexion between IC and IC+33 should be noted as a possible precipitant to injury."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

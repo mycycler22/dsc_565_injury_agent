@@ -1,0 +1,39 @@
+{
+  "pmid": "39850774",
+  "title": "Hip Arthroscopy and Its Impact on Performance in National Hockey League Players Using Team-Based Advanced Performance Statistics.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ice hockey players have a high rate of hip pathology, which can lead to hip arthroscopy. Previous studies have not utilized team-based advanced performance statistics in the setting of hip arthroscopy in National Hockey League (NHL) players."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to use team-based advanced performance statistics to evaluate postoperative performance after hip arthroscopy in NHL players in comparison with their preoperative performance and matched controls of uninjured skaters. It was hypothesized that there would be no significant difference between preoperative and postoperative performance after hip arthroscopy in NHL players, as well as no difference when compared with matched controls of uninjured players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "There were 56 eligible NHL players found through public records who underwent hip arthroscopy over 12 seasons. Team-based advanced performance statistics including icetime, Corsi, Fenwick, goal, and expected goal percentages were recorded for the preinjury season, index season, and first 2 years after return to play (RTP). Relative percentages of each statistic were collected to allow for intrateam comparisons. A control group of NHL players without injury was collected and matched 1:2 by age, years of play, and draft round."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The RTP rate after hip arthroscopy at the NHL level was 89% for 1 season and 70% for 2 seasons. There were no significant decreases in performance in any advanced statistics after RTP after hip arthroscopy in comparison with the preinjury season or versus a matched control group of uninjured players. There was a significant decrease in games played in the injury season and the first year after RTP versus the preinjury season and versus a matched control group without differences thereafter."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The RTP rate after hip arthroscopy at the NHL level was 89% for 1 season and 70% for 2 seasons. There were no significant decreases in team-based advanced performance statistics after RTP from hip arthroscopy for NHL players versus their preinjury levels or versus a matched control group of uninjured players. This indicates that NHL players who RTP at the NHL level are likely able to return to their previous level of performance, albeit playing in fewer games the first season after surgery."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

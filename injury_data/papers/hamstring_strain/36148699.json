@@ -1,0 +1,31 @@
+{
+  "pmid": "36148699",
+  "title": "The British Athletics Muscle Injury Classification grading system as a predictor of return to play following hamstrings injury in professional football players.",
+  "year": "2022",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Investigate the British Athletics Muscle Injury Classification (BAMIC) grading system as a predictor of return to play (RTP) following primary hamstring strain injury (HSI) and its agreement with the Peetron's classification system in professional footballers."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective cohort study of 39 hamstrings strains in a professional English football club were identified. Two musculoskeletal radiologists reviewed historical MRI's and classified them against the BAMIC and Peetron's grading system. Classification, oedema length and cross-sectional area were compared against RTP."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Pearson's correlation coefficient demonstrated a weak but statistically significant correlation between BAMIC and RTP (r = 0.32; 95%CI 0.01 to 0.58; p = 0.05). Maximum length of intramuscular oedema demonstrated weak correlations with RTP (r = 0.3; 95%CI -0.02 to 0.56; p = 0.06). Percentage cross sectional demonstrated a weak correlation with RTP (r = 0.02; 95%CI -0.3 to 0.33; p = 0.91). Multiple regression demonstrated that 16% of the variance in RTP was explained by the model. Kappa for the agreement between BAMIC and Peetron's was 0.21 (95%CI 0 to 0.42)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A significant association between the grade of HSI on the BAMIC system and RTP was found. Findings suggest BAMIC could provide valuable prognostic information on the RTP."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

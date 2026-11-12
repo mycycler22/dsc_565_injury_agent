@@ -1,0 +1,41 @@
+{
+  "pmid": "30229237",
+  "title": "Iliopsoas Disorder in Athletes with Groin Pain: Prevalence in 638 Consecutive Patients Assessed with MRI and Clinical Results in 134 Patients with Signal Intensity Changes in the Iliopsoas.",
+  "year": "2018",
+  "journal": "JB & JS open access",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Although iliopsoas disorder is one of the most frequent causes of groin pain in athletes, little is known about its prevalence and clinical impact."
+    },
+    {
+      "label": "METHODS",
+      "text": "We retrospectively reviewed the cases of 638 consecutive athletes who had groin pain. Each athlete was assessed with magnetic resonance imaging (MRI). First, we identified the prevalence of changes in signal intensity in the iliopsoas. Then we classified the changes in signal intensity in the iliopsoas, as visualized on short tau inversion recovery MRI, into 2 types: the muscle-strain type (characterized by a massive high-signal area in the muscle belly, with a clear border) and the peritendinitis type (characterized by a long and thin high-signal area extending proximally along the iliopsoas tendon from the lesser trochanter, without a clear border). Finally, we compared the time to return to play for the athletes who had these signal intensity changes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Changes in signal intensity in the iliopsoas were detected in 134 (21.0%) of the 638 athletes. According to our MRI classification, 66 athletes had peritendinitis changes and 68 had muscle-strain changes. The time from the onset of groin pain to return to play was significantly shorter for the patients with muscle-strain changes on MRI than for those with peritendinitis changes (8.6 ± 8.3 versus 20.1 ± 13.9 weeks, respectively; p < 0.0001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Changes in MRI signal intensity in the iliopsoas were observed in 21.0% of 638 athletes who had groin pain. Distinguishing between muscle-strain changes and peritendinitis changes could help to determine the time to return to play."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The time from the onset of groin pain to return to play was significantly shorter for the patients with muscle-strain changes on MRI than for those with peritendinitis changes (8.6 ± 8.3 versus 20.1 ± 13.9 weeks, respectively; p < 0.0001)."
+    }
+  ],
+  "pmcid": "6132908",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Changes in signal intensity in the iliopsoas were detected in 134 (21.0%) of the 638 athletes. According to our MRI classification, 66 athletes had peritendinitis changes and 68 had muscle-strain changes. The time from the onset of groin pain to return to play was significantly shorter for the patients with muscle-strain changes on MRI than for those with peritendinitis changes (8.6 ± 8.3 versus 20.1 ± 13.9 weeks, respectively; p < 0.0001)."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "35561872",
+  "title": "Competitive Athletes Who Underwent Hip Arthroscopy With Capsular Repair Showed Greater Improvement in Patient-Reported Outcome Scores Compared With Those Who Did Not Undergo Repair.",
+  "year": "2022",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To compare minimum 2-year postoperative patient-reported outcome (PRO) scores and return to sport between competitive athletes undergoing primary hip arthroscopy for femoroacetabular impingement syndrome with interportal capsulotomy repair and competitive athletes with an unrepaired interportal capsulotomy."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data on all consecutive competitive athletes who underwent primary hip arthroscopy for femoroacetabular impingement syndrome between February 2012 and December 2018 were collected. Athletes were divided into 2 groups: those who underwent repair and those without repair. Athletes were considered eligible if they participated in sports within 1 year prior to surgery. Patients were eligible if the return-to-sport status and the following preoperative and minimum 2-year postoperative PROs were available: modified Harris Hip Score, Nonarthritic Hip Score (NAHS), Hip Outcome Score-Sport-Specific Subscale (HOS-SSS), and visual analog scale (VAS) score for pain. Patients were excluded if they underwent prior hip surgery, had Workers' Compensation, were unwilling to consent, had a Tönnis grade greater than 1, or had a previous hip condition. The percentages of patients achieving the minimal clinically important difference (MCID) and maximum outcome improvement satisfaction threshold were recorded. Athletes who underwent interportal capsulotomy repair were propensity score matched in a ratio of 2:1 to athletes without interportal capsulotomy repair according to age, sex, body mass index, sport level, and acetabular labrum articular disruption grade."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Forty-nine athletes (53 hips) without repair with an average follow-up time of 36.5 ± 10.2 months and age of 32.1 ± 13.3 years were matched to 79 athletes (84 hips) with repair with an average follow-up time of 41.3 ± 9.4 months and age of 30.1 ± 12.1 years. Athletes in the repaired group showed significantly greater improvements in the NAHS, HOS-SSS, and VAS score and significantly higher rates of achievement of the MCID for the HOS-SSS compared with athletes in the unrepaired group."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Competitive athletes who underwent primary hip arthroscopy with interportal capsulotomy repair showed a significantly greater magnitude of improvement in PRO scores (NAHS, HOS-SSS, and VAS score) and rates of achieving the MCID (HOS-SSS) compared with a propensity score-matched control group of competitive athletes with an unrepaired interportal capsulotomy."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective comparative therapeutic trial."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

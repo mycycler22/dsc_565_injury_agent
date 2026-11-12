@@ -1,0 +1,45 @@
+{
+  "pmid": "37611870",
+  "title": "Suture button fixation yields high levels of patient reported outcomes, return to sport, and stable fixation in isolated Lisfranc injuries: A systematic review.",
+  "year": "2023",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "IMPORTANCE",
+      "text": "Lisfranc injuries remain a significant, but often misdiagnosed, orthopaedic injury. Alongside the traditional methods of surgical fixation, including arthrodesis and open reduction and internal fixation with screws, suture button fixation is an emerging technique."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "The purpose of this study is to investigate the efficacy of suture button fixation for treatment of Lisfranc injuries through a systematic review."
+    },
+    {
+      "label": "EVIDENCE REVIEW",
+      "text": "A comprehensive literature review was conducted according to the preferred reporting items for systematic reviews using PubMed, Embase, Web of Science, and Cochrane databases for original, English-language studies observing outcomes of Lisfranc injury until August 19, 2022. The clinical studies with evidence level I-IV and at least a 12 month follow-up after the index surgery were included if they examined quantifiable outcomes of Lisfranc injury treated with suture button. Articles were excluded if they included case reports, systematic reviews, comments, editorials, surveys, animal studies, or biomechanical/cadaveric studies. Variables extracted from text and figures include demographic information, return to sport measures, patient reported outcomes, and complications."
+    },
+    {
+      "label": "FINDINGS",
+      "text": "Of the 10 studies included, there were 186 total patients with an age range of 13-72. In every study, all patients were able to return to sport or activity with a return time averaging from 10.8 to 25.9 weeks. Postoperative American Orthopaedic Foot and Ankle Society scores ranged from 83.5 to 97.0 while pain Visual Analogue Scale ranged from 0.6 to 2.5. Complications were reported in four studies at a rate of 7.7% including two cases of diastasis, two cases of paraesthesia, one case of button irritation, and one of postoperative degenerative joint disease, with no reported revisions."
+    },
+    {
+      "label": "CONCLUSIONS AND RELEVANCE",
+      "text": "In our systematic review, suture button fixation shows high levels of patient reported outcomes, return to sport, and stable fixation in isolated Lisfranc injuries. This surgical technique provides a physiologic reduction across the Lisfranc joint and reduces the need for reoperation including removal of hardware. However, further evidence such as large sample size high-quality randomized controlled trials is needed to draw a definitive conclusion regarding the best treatment for Lisfranc injuries."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, Systematic Review of Level III and IV studies."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [
+    {
+      "section": "FINDINGS",
+      "sentence": "In every study, all patients were able to return to sport or activity with a return time averaging from 10.8 to 25.9 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

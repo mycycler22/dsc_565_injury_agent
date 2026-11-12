@@ -1,0 +1,19 @@
+{
+  "pmid": "41513936",
+  "title": "Real-time wearable biomechanics framework for sports injury prevention and rehabilitation optimization.",
+  "year": "2026",
+  "journal": "Scientific reports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sports and activity-related musculoskeletal injuries are a major cause of long-term disability, underscoring the need for proactive detection and data-driven rehabilitation strategies. Recent advancements in wearable sensing enable continuous, non-invasive biomechanical monitoring for early risk identification and recovery optimization. This study presents a real-time wearable biomechanics framework integrating inertial measurement units (IMUs) and surface electromyography (sEMG) for injury-risk assessment and rehabilitation tracking. Field experiments were conducted with 50 athletes at Dring Stadium, Bahawalpur. The IMUs were positioned on the knee, hip, and shoulder joints, while sEMG electrodes measured biceps, triceps, and quadriceps muscle activations. Recorded joint-angle ranges averaged 125° (knee during running), 110° (knee during jumping), and 90° (shoulder during lifting); corresponding mean muscle forces were 150 N (quadriceps), 170 N (hamstrings), and 230 N (deltoid). A multi-stage optimization algorithm minimized prediction errors by jointly tuning sensor calibration and computational latency. The hybrid IMU–sEMG model achieved 92.3% accuracy, 90.5% recall, and an AUC of 0.93 for injury-risk classification, with an average real-time feedback latency of 188 ± 15 ms. Early detection of joint-angle asymmetry (> 10°) and muscle-force imbalance (> 15%) accurately predicted emerging anterior cruciate ligament (ACL) and muscle-strain risks. Real-time monitoring guided individualized rehabilitation loads and progressive recovery milestones. By combining wearable sensing, physics-informed biomechanical modeling, and adaptive machine-learning optimization, the proposed system delivers a quantitatively validated, reproducible, and scalable framework for injury prevention and rehabilitation. Supporting UN Sustainable Development Goal 3, this work advances musculoskeletal health monitoring through validated sensor integration and empirically tested AI models, offering measurable benefits across athletic and occupational applications."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

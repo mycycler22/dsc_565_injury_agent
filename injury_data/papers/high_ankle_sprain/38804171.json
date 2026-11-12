@@ -1,0 +1,53 @@
+{
+  "pmid": "38804171",
+  "title": "Distal Tibiofibular Syndesmosis Injuries in the National Football League (NFL): A Spectrum of Pathology That Correlates With Time to Return to Full Participation.",
+  "year": "2025",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Studies routinely evaluate high ankle sprains in isolation, but recent data suggest that these injuries are often associated with concomitant pathology, potentially influencing return to full participation."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "In National Football League (NFL) players, isolated high ankle sprains are rare and syndesmosis injuries with concomitant pathology will result in increased time to return to full participation."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Distal tibiofibular syndesmosis injuries sustained by NFL players between 2017 and 2019 were identified through NFL Injury Surveillance Database queries and verified with video analysis. Each injury underwent a comprehensive magnetic resonance imaging (MRI) review. Regression modeling was utilized to explore the influence of numerous imaging findings on time to return to full participation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 83 external rotation ankle injuries involving the syndesmosis. Isolated distal tibiofibular syndesmosis injuries were rare (n = 11; 13%) and more often associated with other ligamentous injury (deltoid ligament and lateral ligamentous complex) and/or fractures. Regression modeling resulted in clustering of 3 injury pattern groups for time to return to full participation across numerous imaging findings: syndesmosis injury-fracture combinations (250 days [interquartile range [IQR,] 142-266 days]), syndesmosis injury with complete deep deltoid tear or acute diastasis (175 days [IQR, 20-248 days]), and all other syndesmosis injuries (27 days [IQR, 18-46 days])."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In NFL athletes with external rotation ankle injuries, isolated distal tibiofibular syndesmosis injuries were rare and more often associated with concomitant pathology. Time to return to full participation was affected by an associated fracture and complete deep deltoid ligament tear or diastasis but no other relevant MRI variables such as lateral ligament complex involvement or the presence of osteochondral lesions or bone contusions."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Regression modeling resulted in clustering of 3 injury pattern groups for time to return to full participation across numerous imaging findings: syndesmosis injury-fracture combinations (250 days [interquartile range [IQR,] 142-266 days]), syndesmosis injury with complete deep deltoid tear or acute diastasis (175 days [IQR, 20-248 days]), and all other syndesmosis injuries (27 days [IQR, 18-46 days])."
+    }
+  ],
+  "pmcid": "11569699",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "There were 83 external rotation ankle injuries involving the syndesmosis. Isolated distal tibiofibular syndesmosis injuries were rare (n = 11; 13%) and more often associated with other ligamentous injury (deltoid ligament and lateral ligamentous complex) and/or fractures. Regression modeling resulted in clustering of 3 injury pattern groups for time to return to full participation across numerous imaging findings: syndesmosis injury-fracture combinations (250 days [interquartile range [IQR,] 142-266 days]), syndesmosis injury with complete deep deltoid tear or acute diastasis (175 days [IQR, 20-248 days]), and all other syndesmosis injuries (27 days [IQR, 18-46 days])."
+    }
+  ]
+}

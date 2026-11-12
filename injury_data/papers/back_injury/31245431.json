@@ -1,0 +1,39 @@
+{
+  "pmid": "31245431",
+  "title": "Lower Back Injuries in National Collegiate Athletic Association Football Players: A 5-Season Epidemiological Study.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Low back injuries are common in collegiate football players and can frequently lead to persistent pain, reinjuries, and time lost from participation."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the epidemiology of back injuries in National Collegiate Athletic Association (NCAA) football players during the 2009/2010 through 2013/2014 academic years utilizing the NCAA Injury Surveillance Program (ISP) database."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A convenience sample of NCAA varsity football teams was utilized to determine the rates and patterns of back injuries as well as to generate national injury estimates. The rates and distribution of back injuries were identified within the context of mechanism of injury, injury chronicity, and time lost from sport. Injury rates were calculated as the number of injuries divided by the total number of athlete-exposures (AEs). Incidence rate ratios were calculated to compare the rates of injury between season, event type, mechanism of injury, injury chronicity, and time lost from sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nationally, there were 267 low back injuries reported in the database. These were used to estimate 7076 back injuries over the 5-year period, approximately 82% of which were new injuries. The injuries occurred at a rate of 2.70 per 10,000 AEs. Overall, injuries were 3.12 times more likely to occur in competitions than in practices. Athletes were 4.67 times more likely to sustain a back injury during the preseason compared with the postseason but were 1.41 times more likely to sustain a low back injury during the preseason compared with the regular season. Both contact and noncontact were reported equally as the mechanism of injury (37.8% and 38.3%, respectively), and unspecified low back pain was the most common injury (64.2%). Only 1.6% of patients required surgery for their injury, and the majority of athletes (59.6%) returned to play within 24 hours."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There was a relatively high rate of lumbar back injuries at the collegiate level (2.70/10,000 AEs), the majority of which were new injuries. About 18% of reported injuries were reinjuries. Although very few required surgery, a careful examination and work-up should be conducted to evaluate each injury. Regimented physical therapy and reconditioning programs are recommended to avert reinjuries."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

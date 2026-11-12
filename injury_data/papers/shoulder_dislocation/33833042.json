@@ -1,0 +1,41 @@
+{
+  "pmid": "33833042",
+  "title": "Immobilisation in external rotation after first-time traumatic anterior shoulder instability reduces recurrent instability: a meta-analysis.",
+  "year": "2021",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "IMPORTANCE",
+      "text": "Cadaveric and MRI findings have demonstrated significantly less labral separation and displacement when the shoulder is placed in external rotation as compared with internal rotation."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of the current study is to meta-analyse the randomised controlled trials in the literature to compare immobilisation in external versus internal rotation after first-time anterior shoulder dislocation."
+    },
+    {
+      "label": "EVIDENCE REVIEW",
+      "text": "A literature search of MEDLINE, EMBASE and the Cochrane Library was performed based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Randomised controlled trials comparing immobilisation in external rotation versus internal rotation for first-time anterior shoulder dislocation were included."
+    },
+    {
+      "label": "FINDINGS",
+      "text": "Nine randomised controlled trials with 795 patients were included. The mean age of included patients was 29 years, 82.4% were male and the mean follow-up was 25.5 months. As compared with immobilisation in internal rotation, compliance was significantly higher (74.5% vs 67.4%, p=0.01), and the rate of recurrent dislocations was significantly lower (22.2% vs 33.4%, p=0.02) with immobilisation in external rotation. Additionally, in patients 20-40 years old the rate of recurrent dislocations was significantly lower in those treated with immobilisation in external rotation than internal rotation (12.1% vs 31.4%, p=0.006). Immobilisation in external rotation also resulted in a higher rate of return to preinjury level of play (60.1% vs 42.6%, p=0.0001)."
+    },
+    {
+      "label": "CONCLUSIONS AND RELEVANCE",
+      "text": "Immobilisation of the shoulder in external rotation after a traumatic first-time anterior shoulder dislocation results in a higher compliance rate, a lower recurrent dislocation rate and a higher rate of return to play as compared with immobilisation in internal rotation."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level I."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

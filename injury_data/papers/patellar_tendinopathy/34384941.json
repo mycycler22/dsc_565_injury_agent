@@ -1,0 +1,40 @@
+{
+  "pmid": "34384941",
+  "title": "Inertial flywheel vs heavy slow resistance training among athletes with patellar tendinopathy: A randomised trial.",
+  "year": "2021",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To compare the efficacy of inertial flywheel and heavy slow resistance training in reducing pain and improving function in patellar tendinopathy."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Randomised clinical trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fourty two participants (1 woman, 41 men) with longstanding (>3 months) patellar tendinopathy were randomised into inertial flywheel resistance (N = 21) or heavy slow resistance (N = 21) group. Both programmes consisted of three supervised inertial flywheel or heavy slow resistance exercise sessions per week in a fitness center during 12 weeks. Primary outcome was pain and function, assessed by the Spanish Victorian Institute of Sport Assessment for Patella (VISA-P) score at 6 and 12 weeks. Secondary outcomes were activity limitation using Patient Specific Functional Scale (PSFS), health status (EuroQol-5D), patient impression of change on pain and function, adherence, adverse events, pain provocation test for the patellar tendon (numerical rating score of pain between 0 and 10), physical test, patellar tendon thickness and doppler signal on ultrasound. Secondary outcomes were taken at 0 and 12 weeks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Both groups showed significant improvements in VISA-P scores from 0 to 12 weeks but there was not statistically significant between-group difference (P = 0.506). No adverse events or side effects occurred in any of the groups during the intervention period."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Inertial flywheel resistance three times a week during 12 weeks resulted in similar pain and function benefit at 12 weeks compared with the heavy slow resistance training among people with patellar tendinopathy. Flywheel training is another exercise option for managing people with patellar tendinopathy. CLINICALTRIALS."
+    },
+    {
+      "label": "GOV REGISTRY",
+      "text": "NCT03917849."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

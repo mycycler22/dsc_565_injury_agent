@@ -1,0 +1,31 @@
+{
+  "pmid": "34047242",
+  "title": "Analysis of common shoulder injuries in collegiate baseball players.",
+  "year": "2022",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Baseball players are highly susceptible to shoulder injuries due to repetitive overhead throwing. The purpose of this study was to investigate men's collegiate baseball shoulder injury rates and associated risk factors."
+    },
+    {
+      "label": "METHODS",
+      "text": "Using the NCAA Injury Surveillance Program (ISP) database, shoulder injury data for men's baseball players was analyzed from 2009-2010 through 2013-2014. Only the most common shoulder injuries were examined, including acromioclavicular (AC) sprain, anterior dislocation, biceps tear, biceps tendinitis, SLAP (superior labrum from anterior to posterior) tear, non-SLAP labral tear, rotator cuff tear, rotator cuff tendinitis, and shoulder impingement. Statistical analysis was performed using proportion ratios (PR). Statistical significance was initially defined as p < 0.05; a post-hoc Bonferroni adjustment was applied using a p < 0.005 threshold balancing the likelihood of false positive and false negative findings."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 138 shoulder injuries were identified of which 51.4% occurred during practice. Rotator cuff pathology represented 45.6% of all injuries, with rotator cuff tears significantly more likely to be season-ending injuries (PR 2.5, 95% CI 1.2-5.6, p = 0.019). Pitching or throwing was the mechanism of injury in 100% of players with rotator cuff tendonitis, 87.5% of SLAP tears, 70% of players with biceps tendinitis, and 67% of players with rotator cuff tears. Biceps tendinitis (PR 3.9, 95% CI 1.2-12.5, p = 0.024) and SLAP tears (PR 6.4, 95% CI 1.6-25.0, p = 0.008) were significantly more likely to be chronic. SLAP tears were significantly more likely to be recurrent (PR 5.5, 95% CI = 1.5-20.4, p = 0.010). Being a freshman or sophomore was significantly associated with a lower proportion of biceps tendinitis (PR = 0.2, 95% CI = 0.04-0.8, p = 0.028). All anterior shoulder dislocations occurred while running the bases or sliding, and AC sprains were significantly associated with contact (PR 20.6, 95% CI = 2.5-168.7, p = 0.0048)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Repetitive overhead throwing in college baseball is a common cause of overuse shoulder injuries. These athletes are especially susceptible to rotator cuff pathology, which is significantly more likely to cause season-ending injuries. While we have to interpret these results in light of both adjusted and unadjusted p-values, this information signifies the importance of shoulder injury prevention strategies by physicians and trainers taking care of collegiate baseball players."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

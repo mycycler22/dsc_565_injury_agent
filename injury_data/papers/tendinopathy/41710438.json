@@ -1,0 +1,20 @@
+{
+  "pmid": "41710438",
+  "title": "Eccentric Training for Tendinopathies in Athletes: A Scoping Review and Evidence Gap Map.",
+  "year": "2026",
+  "journal": "Journal of sports science & medicine",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathies are prevalent in athletic populations, particularly in sports requiring repetitive high-load activities. Eccentric training is widely recommended for rehabilitation, yet variability in protocols and inconsistent methodological reporting limit standardization. This scoping review aimed to map existing evidence on eccentric training for tendinopathies in athletes, characterize intervention parameters, evaluate clinical outcomes and safety, and identify methodological gaps to inform future practice and research. Searches of PubMed, Scopus, and Web of Science were conducted. Eligible studies included athletes with tendinopathy undergoing eccentric training interventions. Randomized and non-randomized controlled trials were considered. Data extraction included intervention design, tendon site, loading parameters, outcomes, and adverse events. Critical appraisal was performed using RoB 2 and ROBINS-I tools. Thirty-one studies were included. Most examined patellar tendinopathy in volleyball and basketball players or Achilles tendinopathy in runners and soccer athletes. Protocols varied substantially in load, frequency, and progression strategies. Pain monitoring was integral, often allowing exercise into moderate discomfort. Eccentric training consistently improved pain and function, with heavy slow resistance and adjunct modalities showing comparable or additive effects. Return-to-sport rates were high, and adverse events were minimal. However, performance outcomes, tendon structure, and safety reporting were inconsistently assessed. Eccentric training consistently reduces pain and improves function in athletes with tendinopathy. Evidence is less consistent regarding performance outcomes, tendon remodeling, and comparative superiority over alternative interventions. Standardized reporting of protocols, safety, and sport-specific adaptations is needed to strengthen recommendations for athletic rehabilitation."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

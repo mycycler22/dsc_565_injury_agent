@@ -1,0 +1,25 @@
+{
+  "pmid": "37965420",
+  "title": "Conservative Management of Acute Lateral Ligaments of the Ankle Injuries: An Analytical Literature Review.",
+  "year": "2023",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Injuries to the lateral ligaments of the ankle are among the most frequent sporting injuries. These injuries constitute a significant portion of all sports-related injuries. Nearly all cases involve damage to either the anterior talofibular ligament (ATFL) or the calcaneofibular ligament (CFL). While they are generally considered to be mild injuries, without adequate rehabilitation and treatment, these injuries often result in lingering symptoms for many patients for a period ranging from 6 weeks to 18 months. Subsequently, this analysis seeks to assess the non-surgical, conservative approaches currently employed in managing lateral ligament injuries of the ankle. Therefore, this assessment explores the variations and effectiveness of conservative treatment approaches based on the injury's severity and the mechanisms of trauma. The study conducted an analytical literature review that relied on diverse sources, including orthopedic books, e-books, articles, journals, and internet databases, to accomplish this. The main sources were obtained from reputable databases such as UpToDate, NCBI, and PubMed. Collectively, these sources provide definitions, outlines, evaluations, and discussions related to the topic. As such, they facilitated the formulation of an informed conclusion on the approach to treating lateral ligament injuries of the ankle complex. The reviewed literature shows that early and effective initial treatment involving pain management, prompt resumption of weight-bearing activities, limited immobilisation, and targeted physical therapy yields favorable outcomes for minor-grade sprains and is an effective preventive measure against recurrent injuries. Accordingly, athletes who experience regular ankle sprains should consider prophylactic bracing or taping to lower the risk of re-injury while enhancing their functionality. Notably, the existing functional and conservative management methods demonstrate and yield positive post-treatment outcomes. Nonetheless, the efficiency and effectiveness of these treatments depend on the specific nature of the injury and the unique traits of the individuals who sustain it. Consequently, these factors must be considered for when determining the appropriate treatment approach."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "While they are generally considered to be mild injuries, without adequate rehabilitation and treatment, these injuries often result in lingering symptoms for many patients for a period ranging from 6 weeks to 18 months."
+    }
+  ],
+  "pmcid": "10641652",
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "32606915",
+  "title": "A Pilot Study of Hip Corrective Taping Using Kinesio Tape for Pain and Lower Extremity Joint Kinematics in Basketball Players with Patellofemoral Pain.",
+  "year": "2020",
+  "journal": "Journal of pain research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "This pilot study aimed to determine the feasibility of hip corrective taping to improve self-reported knee pain and lower extremity joint kinematics in basketball players with patellofemoral pain."
+    },
+    {
+      "label": "PATIENTS AND METHODS",
+      "text": "A single group pre-test and post-test design. Collegiate basketball players with patellofemoral pain were recruited. Three-dimensional hip and knee joint kinematics were measured during two tasks, single-leg squat (SLS) and lay-up jump (LUJ), and each task was conducted under no-taping and taping conditions. Subjective report of pain was compared between no-taping and taping conditions only during SLS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twelve collegiate basketball players with patellofemoral pain (median age, 22.7 [2.5] years; mean height, 173.8 ± 7.4 cm; mean weight, 72.5 ± 12.8 kg) participated in this study. Compared with no-taping, the use of hip corrective taping significantly increased the hip abduction angle at the instant of the maximal vertical ground reaction force during LUJ (no-taping vs taping: 0.6° ± 6.3° vs 3.3° ± 5.1°, p = 0.029), and also caused a trend of decreased maximal hip internal rotation angle during SLS (no-taping vs taping: 8.0° ± 6.6° vs 4.7° ± 6.9°, p = 0.050). Hip corrective taping also improved self-reported knee pain during SLS (no-taping vs taping: 3.4 ± 1.7 vs 2.6 ± 1.0, p = 0.046)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip corrective taping may be used as an effective intervention for athletes with patellofemoral pain during basketball-related tasks."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

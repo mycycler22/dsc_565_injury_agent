@@ -1,0 +1,35 @@
+{
+  "pmid": "22875369",
+  "title": "Incidence and risk factors for medial tibial stress syndrome and tibial stress fracture in high school runners.",
+  "year": "2013",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Medial tibial stress syndrome (MTSS) and tibial stress fracture (SF) are common lower leg disorders in runners. A prospective study was done to identify the incidence of MTSS and SF in high school runners and to determine risk factors."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 230 runners participating in high school running teams were evaluated. All runners aged 15 years as first grade of high school were involved in the study. They were followed up for 3 years. The measured items included height, weight, body mass index (BMI), range of hip and ankle motion, straight leg raising (SLR), intercondylar and intermalleolar interval, Q-angle, navicular drop test, hip abductor strength and physical conditioning. Each runner was followed for 3 years to report occurrence of MTSS and SF."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total number of 102 MTSS (0.29 athlete exposures) and 21 SF (0.06 athlete exposures) were identified. In females, BMI significantly increased the risk of MTSS after adjustment for the other variables in this study (adjusted odds ratio, 0.51; 95 % confidence interval, 0.31-0.86). Increased internal rotation of the hip significantly increased the risk of MTSS (adjusted odds ratio, 0.91; 95 % confidence interval, 0.85-0.99). In males, limited SLR also significantly increased the risk of SF with adjustment for the other variables in this study (adjusted odds ratio, 1.38; 95 % confidence interval, 1.04-1.83)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A significant relationship was found between BMI, internal hip rotation angle and MTSS in females, and between limited SLR and SF in males."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Prospective cohort study, Level II."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

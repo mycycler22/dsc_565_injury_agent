@@ -1,0 +1,40 @@
+{
+  "pmid": "34915141",
+  "title": "Earlier Treatment Yields Superior Outcomes in Competitive Athletes Undergoing Primary Hip Arthroscopy.",
+  "year": "2022",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To report minimum 2-year patient-reported outcome scores (PROs) and return to sport (RTS) for competitive athletes undergoing primary hip arthroscopy for femoroacetabular impingement syndrome within 1 year of symptom onset and to compare these results with a propensity-matched control group of competitive athletes with symptoms for over 1 year."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data on professional, collegiate, high-school, and organized amateur athletes who underwent primary hip arthroscopy within 1 year of symptom onset between April 2008 and November 2017 were collected. RTS and minimum 2-year PROs were collected for the modified Harris Hip Score (mHHS), Non-arthritic Hip Score (NAHS), Hip Outcome Score-Sport Specific Subscale (HOS-SSS), International Hip Outcome Tool (iHOT-12), and visual analog pain scale (VAS). Rates of achieving minimal clinically important difference (MCID) were also evaluated. These patients were propensity-matched to a control group of competitive athletes with symptoms for over one year for comparison."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifty competitive athletes (51 hips, 54.9% female) were included in the study group with a mean follow-up of 70.9 ± 29.1 months and age of 23.6 ± 11.3 years. They demonstrated significant improvement from preoperative to latest follow-up for all recorded PROs (P < .001) and RTS at a rate of 72.9%. When outcomes were compared to the control group, the study group demonstrated similar preoperative scores for all PROs but significantly better minimum 2-year postoperative scores for NAHS (93.8 vs 85.1, P = .0001), HOS-SSS (89.1 vs 77.2, P = .001), iHOT-12 (87.7 vs 76.4, P = 0.011), and VAS (1.5 vs 2.4, P = 0.027). Rates of achieving MCID for HOS-SSS and mHHS were comparable between groups. Further, RTS rates were similar between groups (P = .301)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Competitive athletes undergoing primary hip arthroscopy with symptoms for less than 1 year demonstrated superior 2-year PROs compared to a propensity-matched control group with symptoms for over 1 year, but the rates achieving MCID and RTS were similar between groups."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective comparative study."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "CONCLUSION",
+      "sentence": "Competitive athletes undergoing primary hip arthroscopy with symptoms for less than 1 year demonstrated superior 2-year PROs compared to a propensity-matched control group with symptoms for over 1 year, but the rates achieving MCID and RTS were similar between groups."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

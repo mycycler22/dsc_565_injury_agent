@@ -1,0 +1,45 @@
+{
+  "pmid": "33740385",
+  "title": "Arthroscopic Management of Femoroacetabular Impingement in Adolescents: A Systematic Review.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement (FAI) is highly prevalent in adolescent athletes. There has been an increasing trend for arthroscopic surgery for FAI, and the results of several clinical studies on outcome after arthroscopic surgery for FAI are available."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To conduct a systematic review to investigate the role of arthroscopic management for FAI in adolescents."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "This systematic review was conducted according to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. In August 2020, PubMed, Scopus, Google Scholar, and EMBASE were accessed. All clinical trials concerning the arthroscopic treatment for adolescents with FAI were identified. Only studies on patients aged less than 18 years at the time of surgery reporting data over a minimum follow-up of 12 months were considered."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Data from 406 adolescents (470 procedures; mean age at surgery, 15.9 years; mean follow-up, 30.4 months) with FAI were retrieved. At a mean of 28.0 months of follow-up, 94% of the adolescents had already returned to sport. All the scores of interest were improved at the final follow-up: visual analog scale (<i>P</i> = .01), modified Harris Hip Score (<i>P</i> < .0001), Non-Arthritic Hip Score (<i>P</i> = .03), Hip Outcome Score-Activities of Daily Living (<i>P</i> = .01), Hip Outcome Score-Sport-Specific Subscale (<i>P</i> < .0001), and Tegner score (<i>P</i> < .0001). Complications occurred in 1.1% (5/470) of procedures, and revision arthroscopy was performed in 4.7% (22/470) of procedures."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic surgery in adolescents with FAI achieves excellent outcomes and a high rate of return to sport, with rates of complication and revision surgery of 1% and 5%, respectively."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "At a mean of 28.0 months of follow-up, 94% of the adolescents had already returned to sport."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

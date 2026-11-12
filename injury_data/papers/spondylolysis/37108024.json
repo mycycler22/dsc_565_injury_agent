@@ -1,0 +1,20 @@
+{
+  "pmid": "37108024",
+  "title": "Prevalence and Risk Factors of Musculoskeletal Disorders in Basketball Players: Systematic Review and Meta-Analysis.",
+  "year": "2023",
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Musculoskeletal disorders characteristically induce pain and limitations in mobility, ability, and overall functioning. In athletes, including basketball players, disorders such as back pain, postural changes, and spinal injuries are common. This systematic review aimed to evaluate the prevalence of back pain and musculoskeletal disorders in basketball players and ascertain the associated factors. Methods: The Embase, PubMed, and Scopus databases were searched for studies published in English without a time limit. Using STATA, meta-analyses were performed to estimate the prevalence of pain and musculoskeletal disorders of the back and spine. Results: Of the 4135 articles identified, 33 studies were included in this review, with 27 studies included in the meta-analysis. Of these, 21 were used for the meta-analysis of back pain, 6 articles were used for the meta-analysis of spinal injury, and 2 studies were used for the meta-analysis of postural changes. The overall prevalence of back pain was 43% [95% CI, -1% to 88%]; of these, the prevalence of neck pain was 36% [95% CI, 22-50%], the prevalence of back pain was 16% [95% CI, 4-28%], the prevalence of low back pain was 26% [95% CI, 16-37%], the prevalence of thoracic spine pain was 6% [95% CI, 3-9%]. The combined prevalence of spinal injury and spondylolysis was 10% [95% CI, 4-15%], with a prevalence of spondylolysis of 14% [95% CI, 0.1-27%]. The combined prevalence of hyperkyphosis and hyperlordosis was 30% [95% CI, 9-51%]. In conclusion, we found a high prevalence of neck pain, followed by low back pain and back pain, in basketball players. Thus, prevention programs are important to improve health and sports performance."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

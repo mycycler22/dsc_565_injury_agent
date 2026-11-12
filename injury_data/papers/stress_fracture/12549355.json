@@ -1,0 +1,20 @@
+{
+  "pmid": "12549355",
+  "title": "[Finite element analysis of human tibia in vitro].",
+  "year": "1998",
+  "journal": "Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This investigation was aimed at the fatigue fracture of tibia that often occurs in soldiers, as well as in dancers and athletes. The data of ground reaction force(GRF) of soldiers were measured using a force platform in three common gaits: marching, parading and running. The stress distribution in tibia under these GRFs were analyzed with a FE model. The results showed that the smallest GRF(744.8N) is in quick marching, the next (1156.4N) in parading and the largest (1391.6N) in running. The stress distribution under GRF was mot uniform in the tibia. The maximum stresses occurred at a site 1/3 tibia length below the knee where tibia fracture is often seen clinically. The maximum stresses were 110 MPa and 115 MPa in parading and running respectively. This means that the tibial tractures in soldiers are mostly associated with stress, i.e. the greater the stress is, the higher the incidence of stress fracture comes about."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

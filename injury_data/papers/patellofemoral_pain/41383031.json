@@ -1,0 +1,33 @@
+{
+  "pmid": "41383031",
+  "title": "Effect of taping on pain and function in athletes with Patellofemoral pain syndrome: a systematic review and meta-analysis.",
+  "year": "2026",
+  "journal": "The Journal of manual & manipulative therapy",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral Pain Syndrome is a common musculoskeletal condition characterized by anterior knee pain, especially among athletes and active individuals. Taping techniques such as Kinesio taping and rigid taping are widely used as conservative interventions. However, the effectiveness of taping on pain reduction and functional improvement remains debated."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To systematically review and synthesize the evidence on the effect of taping on pain and function in athletes with patellofemoral pain syndrome. Methods A comprehensive literature search was conducted across databases, including PubMed, Scopus, PEDro, and Web of Science. Randomized trials evaluating the effect of taping on pain with or without function in athletes with PFPS were included. Methodological quality was assessed by PEDro. Risk of bias was assessed by Cochrane's Risk of Bias Tool Version 2. Meta-analysis was conducted using Review Manager (RevMan 5.4)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Out of 39 records retrieved, 20 full-text articles were assessed, and 5 studies met the inclusion criteria. Qualitative and quantitative analysis (pain: Z = 1.94, <i>p</i> = 0.05, SMD = -1.71, 95% CI = -3.44 and function: Z = 2.0, <i>p</i> = 0.05, SMD = 1.06, 95% CI = 0.02) showed a significant reduction in pain and improvement in function with taping, especially when combined with exercise therapy. Rigid taping showed more significant results than Kinesio taping."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This review concludes that rigid taping provides short-term benefits in reducing pain and improving function in patients with PFPS, especially when integrated with exercise-based rehabilitation."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

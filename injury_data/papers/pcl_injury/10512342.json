@@ -1,0 +1,54 @@
+{
+  "pmid": "10512342",
+  "title": "Eccentric kinetic chain exercise as a conservative means of functionally rehabilitating chronic isolated insufficiency of the posterior cruciate ligament.",
+  "year": "1999",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the efficacy of a home eccentric kinetic chain exercise program in improving isokinetic strength, knee function, and symtomatology in athletes with isolated posterior cruciate ligament (PCL) injury."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Experimental design."
+    },
+    {
+      "label": "SETTING",
+      "text": "Allan McGavin Sports Medicine Centre, University of British Columbia, Vancouver, British Columbia, Canada."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "The study included 13 athletes with isolated PCL injury (n = 13) and 13 healthy sedentary subjects (n = 13). All participants were men and between 18 and 35 years of age. The group with isolated PCL injury all had been diagnosed at the Allan McGavin Sports Medicine Centre, all had been treated without surgery, and had been injured at least 6 months ago. Diagnosis was based on presentation of a positive posterior sag and posterior drawer."
+    },
+    {
+      "label": "INTERVENTION",
+      "text": "The group with isolated PCL injury (treatment group) underwent 12 weeks of eccentric kinetic chain exercise. The control group of healthy sedentary individuals did not undergo any form of rigorous training during the course of this study. Both groups were tested for isokinetic strength, knee function, and symptomatology at weeks 0, 6, and 12. Compliance was insured through frequent phone contact and progressive journal records of completion of daily exercise. Only those who completely executed the 12-week exercise program were included in the study."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Hamstring and quadriceps isokinetic torque (Nm) at constant velocities of 60 and 120 degrees per second (degrees/s), Tegner Hop Test (meters), and Lysholm Knee Scale scores."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A subject-versus-treatment data analysis clearly indicated significant increases in eccentric and concentric torque over the 12-week period in the treatment group. Tegner Hop Test and Lysholm Knee Scale scores also increased significantly after the eccentric squat exercise program. Quadriceps eccentric/concentric ratios at both testing velocities increased significantly after 12 weeks of rehabilitation. There were no significant differences in strength between extremities in the treatment group at any time during the course of this study. Before rehabilitation, there were no significant differences between eccentric and concentric torque values in either muscle group (quadriceps and hamstrings) of the treatment group. After the eccentric exercise program, the quadriceps in the injured extremity did exhibit significantly greater eccentric than concentric torque. The treatment group was significantly weaker than the control group in eccentric torque at both testing velocities at week 0. After the 12-week exercise program, however, there were no significant differences between groups in eccentric quadriceps strength."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The results of this investigation support the eccentric squat program as a viable means of functionally rehabilitating chronic PCL insufficiency."
+    }
+  ],
+  "injury_query": "PCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Quadriceps eccentric/concentric ratios at both testing velocities increased significantly after 12 weeks of rehabilitation."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

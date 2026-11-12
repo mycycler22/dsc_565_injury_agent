@@ -1,0 +1,41 @@
+{
+  "pmid": "38706672",
+  "title": "High variability among surgeons in evaluation, treatment, and rehabilitation of medial ulnar collateral ligament injuries.",
+  "year": "2024",
+  "journal": "JSES reviews, reports, and techniques",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "HYPOTHESIS AND/OR BACKGROUND",
+      "text": "The incidence of elbow medial ulnar collateral ligament (MUCL) injuries has been increasing, leading to advances in surgical treatments. However, it is not clear that there is consensus among surgeons regarding diagnostic imaging, the indications for acute surgery and postoperative rehabilitation. The purpose of this study is evaluate surgeon variability in the presurgical, surgical, and postsurgical treatment of MUCL injuries regarding the imaging modalities used for diagnosis, indications for acute surgical treatment, and postoperative treatment recommendations for rehabilitation and return to play (RTP). Our hypothesis is that indications for acute surgical treatment will be highly variable based on MUCL tear patterns and that agreement on the time to RTP will be consistent for throwing athletes and inconsistent for nonthrowing athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A survey developed by 6 orthopedic surgeons with expertise in throwing athlete elbow injuries was distributed to 31 orthopedic surgeons who routinely treat MUCL injuries. The survey evaluated diagnostic and treatment topics related to MUCL injuries, and responses reaching 75% agreement were considered as high-level agreement."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-four surgeons responded to the survey, resulting in a 77% response rate. There is 75% or better agreement among surveyed surgeons regarding acute surgical treatment for distal full thickness tears, ulnar nerve transposition in symptomatic patients or with ulnar nerve subluxation, postoperative splinting for 1-2 weeks with initiation of rehabilitation within 2 weeks, the use of bracing after surgery and the initiation of a throwing program at 3 months after MUCL repair with internal brace by surgeons performing 20 or more MUCL surgeries per year. There were a considerable number of survey topics without high-level agreement, particularly regarding the indications for acute surgical treatment, the time to return to throwing and time RTP in both throwing and nonthrowing athletes."
+    },
+    {
+      "label": "DISCUSSION AND/OR CONCLUSION",
+      "text": "The study reveals that there is agreement for the indication of acute surgical treatment of distal MUCL tears, duration of bracing after surgery, and the time to initiate physical therapy after surgery. There is not clear agreement on indications for surgical treatment for every MUCL tear pattern, RTP time for throwing, hitting and participation in nonthrowing sports."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "There is 75% or better agreement among surveyed surgeons regarding acute surgical treatment for distal full thickness tears, ulnar nerve transposition in symptomatic patients or with ulnar nerve subluxation, postoperative splinting for 1-2 weeks with initiation of rehabilitation within 2 weeks, the use of bracing after surgery and the initiation of a throwing program at 3 months after MUCL repair with internal brace by surgeons performing 20 or more MUCL surgeries per year."
+    }
+  ],
+  "pmcid": "11065763",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Twenty-four surgeons responded to the survey, resulting in a 77% response rate. There is 75% or better agreement among surveyed surgeons regarding acute surgical treatment for distal full thickness tears, ulnar nerve transposition in symptomatic patients or with ulnar nerve subluxation, postoperative splinting for 1-2 weeks with initiation of rehabilitation within 2 weeks, the use of bracing after surgery and the initiation of a throwing program at 3 months after MUCL repair with internal brace by surgeons performing 20 or more MUCL surgeries per year. There were a considerable number of survey topics without high-level agreement, particularly regarding the indications for acute surgical treatment, the time to return to throwing and time RTP in both throwing and nonthrowing athletes."
+    }
+  ]
+}

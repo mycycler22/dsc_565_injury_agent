@@ -1,0 +1,61 @@
+{
+  "pmid": "40386643",
+  "title": "Outcomes of Multiply Revised ACL Reconstruction with Quadriceps Tendon Autograft plus Lateral Extra-articular Tenodesis in Competitive Athletes.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The number of multiply revised anterior cruciate ligament reconstructions (rrACLRs) performed each year continues to increase. The most reliable graft type and surgical technique in the young, active patient remains to be determined."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the outcomes of rrACLR using quadriceps tendon (QT) autograft with lateral extra-articular tenodesis (LET)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was performed of all competitive athletes undergoing rrACLR with QT autograft and LET at a single institution with a minimum follow-up of 2 years. Patient demographics, physical examination, and radiological findings, and previous surgical details were documented. Patient outcomes were noted, including the International Knee Documentation Committee (IKDC) and Lysholm scores, ability to return to sport and return at the same level of play, retear rate, and other complications."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 19 rrACLRs were performed and met inclusion criteria in the 10-year study period. All participants were high school, collegiate, or professional athletes with a mean age of 22 years, and 63.2% were female. The mean follow-up was 42.3 months, and IKDC scores increased from 51.6 preoperatively to 74.7 at the final follow-up (<i>P</i> < .001). Likewise, the Lysholm score increased significantly from a preoperative value of 53.6 to 76.8 at the final follow-up (<i>P</i> < .001). Return to play was possible in 52.6% of the patients at a mean of 11.5 months, with 31.6% returning to the same or higher level of play. One (5.3%) patient experienced a recurrent ACL tear, and 2 (10.5%) experienced a contralateral tear. Arthrofibrosis requiring surgical intervention occurred in 26.3% of the athletes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Short- to midterm results demonstrated that competitive athletes who received an rrACLR using a QT autograft with LET had statistically significant improvements in both IKDC and Lysholm scores, with more than half of patients being able to return to sport and nearly a third returning at the same or higher level of play. In the setting of a third ACL reconstruction, quadriceps tendon autograft with LET is a reasonable option even in high-risk patients."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Return to play was possible in 52.6% of the patients at a mean of 11.5 months, with 31.6% returning to the same or higher level of play."
+    }
+  ],
+  "pmcid": "12084710",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 19 rrACLRs were performed and met inclusion criteria in the 10-year study period. All participants were high school, collegiate, or professional athletes with a mean age of 22 years, and 63.2% were female. The mean follow-up was 42.3 months, and IKDC scores increased from 51.6 preoperatively to 74.7 at the final follow-up (P < .001). Likewise, the Lysholm score increased significantly from a preoperative value of 53.6 to 76.8 at the final follow-up (P < .001). Return to play was possible in 52.6% of the patients at a mean of 11.5 months, with 31.6% returning to the same or higher level of play. One (5.3%) patient experienced a recurrent ACL tear, and 2 (10.5%) experienced a contralateral tear. Arthrofibrosis requiring surgical intervention occurred in 26.3% of the athletes."
+    },
+    {
+      "section": "Patient Selection and Outcomes",
+      "text": "Analysis of the records of patients undergoing rrACLR by a single fellowship-trained sports medicine surgeon (K.J.E.) between June 2012 and November 2019 was retrospectively performed. Patients were included in the study if they underwent reconstruction with a QT autograft with LET augmentation; were at least 18 years of age; were actively involved in high school, collegiate, or professional sports; and had at least 2 years of follow-up. Exclusion criteria included multiligamentous knee injuries, those with a posterior tibial slope ≥13°, and those who underwent concomitant procedures outside of meniscal debridement or repair. Included patients underwent chart review to evaluate demographics, operative dates, initial and revision graft selection, level of sport, return to sport and level returned to, and complications. PROs, including the International Knee Documentation Committee (IKDC) and Lysholm scores, were collected preoperatively and at 6 months, 1 year, and 2 years after surgery. Patients with incomplete PRO scores were contacted by telephone to complete the forms remotely."
+    },
+    {
+      "section": "Postoperative Outcome Scores",
+      "text": "IKDC and Lysholm outcome scores were obtained preoperatively to a mean follow-up of 42.3 months (Table 2, Figure 1). The IKDC score increased significantly from 51.6 preoperatively to 74.7 at the final follow-up (P < .001). Similarly, the preoperative Lysholm score was 53.6 and the score at the final follow-up was 74.3 (P < .001)."
+    },
+    {
+      "section": "Clinical Outcomes",
+      "text": "At the final follow-up, the knee flexion was measured to be a mean of 135.5° between all patients, and a positive pivot-shift test was exhibited in 4 (21.1%) patients. The mean posterior tibial slope of those who had a positive pivot-shift test was 8° (7°, 8°, 8°, and 10°). Within the patient population, 52.6% were able to return to play at a mean of 11.5 months. Specifically, 6 (31.6%) athletes returned to their same or higher level of play."
+    }
+  ]
+}

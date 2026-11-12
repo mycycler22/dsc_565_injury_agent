@@ -1,0 +1,25 @@
+{
+  "pmid": "9238304",
+  "title": "Epidemiology and site specificity of stress fractures.",
+  "year": "1997",
+  "journal": "Clinics in sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Clinically, stress fractures appear to be a common overuse injury among athletes and in military recruits undertaking basic training; however, there is a lack of sound epidemiologic studies describing stress fracture occurrence in athletes. Few have directly compared stress fracture rates between sports to establish which poses the greatest risk for this injury. Furthermore, incidence rates, expressed in terms of exposure, have rarely been reported for stress fractures in athletes. Nevertheless, available data suggest that runners and ballet dancers are at relatively high risk for stress fractures. Although a gender difference in rates is clearly evident in military populations, this is less apparent in athletes. Other participant characteristics, such as age and race, may also influence stress fracture risk. The most common site of stress fracture in athletes is the tibia, although the site reflects the nature of the load applied to the skeleton. Stress fracture morbidity, expressed as the time until return to sport or activity, varies depending on the site. Generally, a period of 6 to 8 weeks is needed for healing; however, stress fractures at certain sites, such as the navicular and anterior tibial cortex, are often associated with protracted recovery and, in some cases, termination of sporting pursuits."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Generally, a period of 6 to 8 weeks is needed for healing; however, stress fractures at certain sites, such as the navicular and anterior tibial cortex, are often associated with protracted recovery and, in some cases, termination of sporting pursuits."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

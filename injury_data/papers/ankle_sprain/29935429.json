@@ -1,0 +1,52 @@
+{
+  "pmid": "29935429",
+  "title": "Recurrent injury patterns in adolescent rugby.",
+  "year": "2018",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To establish patterns of subsequent injury in U18 rugby, to quantify the burden of within season injury recurrence."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Secondary analysis of prospective data."
+    },
+    {
+      "label": "SETTING",
+      "text": "28 Schools in Ireland."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "825 male rugby players (aged 15-18 years)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Subsequent injuries were classified as: new, local or recurrent (same site and type as index injury). All recurrent injuries were sub-grouped by body part and diagnosis. Burden was based on frequency, days lost and injury proportion ratios."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 426 injuries were eligible for analysis, of which, 121 were subsequent injuries. The majority of subsequent injuries involved a different body part than their index injury. There were n = 23 cases of within season recurrence. 78% of recurrences occurred within 2 months of return to play. Recurrent injuries comprised 5% of all injuries and their cumulative time loss was 1073 days. Recurrent injury to the ankle ligaments, lumbar muscles and concussions carried the greatest burden."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The burden of recurrent injury in U18 rugby is lower than in the professional game. However, this population could benefit from targeted secondary prevention efforts including reconsideration of return-to-play protocols for ankle sprain, lumbar muscles and potentially concussion."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "There were n = 23 cases of within season recurrence. 78% of recurrences occurred within 2 months of return to play."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Recurrent injuries comprised 5% of all injuries and their cumulative time loss was 1073 days."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

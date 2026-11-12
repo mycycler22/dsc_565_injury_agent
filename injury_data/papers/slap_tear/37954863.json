@@ -1,0 +1,39 @@
+{
+  "pmid": "37954863",
+  "title": "Intraobserver and Interobserver Reliability of the Snyder and Expanded SLAP Classification System: A Video Study.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Superior labral anterior and posterior (SLAP) tears are a common finding in overhead athletes. The original classification system produced by Snyder in 1990 contained 4 types of SLAP tears and was later expanded to 10 types. The classification has been challenging because of inconsistencies between surgeons making diagnoses and treatments based on the diagnosis. Furthermore, patient factors-such as age and sports played-affect the treatment algorithms, even across similarly classified SLAP tears."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To (1) assess the interobserver and intraobserver reliability of the Snyder and expanded SLAP (ESLAP) classification systems and (2) determine the consistency of treatment for a given SLAP tear depending on different clinical scenarios."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study (diagnosis); Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 20 arthroscopic surgical videos and magnetic resonance imaging scans of patients with SLAP tears were sent to 20 orthopaedic sports medicine surgeons at various stages of training. Surgeons were asked to identify the type of SLAP tear using the Snyder and ESLAP classifications. Surgeons were then asked to determine the treatment for a SLAP tear using 4 clinical scenarios: (1) in the throwing arm of an 18-year-old pitcher; (2) in the dominant arm of an 18-year-old overhead athlete; (3) a 35-year-old overhead athlete; (4) or a 50-year-old overhead athlete. Responses were recorded, and the cases were shuffled and sent back 6 weeks after the initial responses. Results were then analyzed using the Fleiss kappa coefficient (κ) to determine interobserver and intraobserver degrees of agreement."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There was moderate intraobserver reliability in both the Snyder and ESLAP classifications (κ = 0.52) and fair interobserver reliability for both classification systems (Snyder, κ = 0.31; ESLAP, κ = 0.30; <i>P</i> < .0001) among all surgeons. Additionally, there was only fair agreement (κ = 0.30; <i>P</i> < .0001) for the treatment modalities chosen by the reviewers for each case."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study demonstrated that SLAP tears remain a challenging problem for orthopaedic surgeons in diagnostics and treatment plans. Therefore, care should be taken in the preoperative discussion with the patient to consider all the possible treatment options because this may affect the postoperative recovery period and patient expectations."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

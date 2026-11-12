@@ -1,0 +1,39 @@
+{
+  "pmid": "34250162",
+  "title": "Trends in Patient, Physician, and Public Perception of Ulnar Collateral Ligament Reconstruction Using Social Media Analytics.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Social media posts regarding ulnar collateral ligament (UCL) injuries and reconstruction surgeries have increased in recent years."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To analyze posts shared on Instagram and Twitter referencing UCL injuries and reconstruction surgeries to evaluate public perception and any trends in perception over the past 3 years."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A search of a 3-year period (August 2016 and August 2019) of public Instagram and Twitter posts was performed. We searched for >22 hashtags and search terms, including <i>#TommyJohn</i>, <i>#TommyJohnSurgery</i>, and <i>#tornUCL</i>. A categorical classification system was used to assess the sentiment, media format, perspective, timing, accuracy, and general content of each post. Post popularity was measured by number of likes and comments."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 3119 Instagram posts and 267 Twitter posts were included in the analysis. Of the 3119 Instagram posts analyzed, 34% were from patients, and 28% were from providers. Of the 267 Twitter posts analyzed, 42% were from patients, and 16% were from providers. Although the majority of social media posts were of a positive sentiment, over the past 3 years, there was a major surge in negative sentiment posts (97% increase) versus positive sentiment posts (9% increase). Patients were more likely to focus their posts on rehabilitation, return to play, and activities of daily living. Providers tended to focus their posts on education, rehabilitation, and injury prevention. Patient posts declined over the past 3 years (-28%), whereas provider posts increased substantially (110%). Of posts shared by health care providers, 4% of posts contained inaccurate or misleading information."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The majority of patients who post about their UCL injury and reconstruction on social media have a positive sentiment when discussing their procedure. However, negative sentiment posts have increased significantly over the past 3 years. Patient content revolves around rehabilitation and return to play. Although patient posts have declined over the past 3 years, provider posts have increased substantially with an emphasis on education."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

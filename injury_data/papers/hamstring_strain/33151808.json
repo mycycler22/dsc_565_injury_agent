@@ -1,0 +1,47 @@
+{
+  "pmid": "33151808",
+  "title": "Match High-Speed Running Distances Are Often Suppressed After Return From Hamstring Strain Injury in Professional Footballers.",
+  "year": "2021",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "High-speed running is commonly implicated in the genesis of hamstring injury. The success of hamstring injury management is typically quantified by the duration of time loss or reinjury rate. These metrics do not consider any loss in performance after returning to play from hamstring injury. It is not known to what extent high-speed running is altered on return to play after such injury."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Match high-speed running distance will change after returning from hamstring injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Non-randomized cohort."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Match high-speed running distance in highest level professional football (soccer, Rugby League, Rugby Union, and Australian Rules) were examined for a minimum of 5 games prior and subsequent to hamstring strain injury for individual differences using a linear regression models approach. A total of 22 injuries in 15 players were available for analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Preinjury cumulative high-speed running distances were strongly correlated for each individual (<i>r</i><sup>2</sup> = 0.92-1.0; <i>P</i> < 0.0001). Pre- and postinjury high-speed running data were available for a median of 15 matches (range, 6-15). Variance from the preinjury high-speed running distance was significantly less (<i>P</i> = 0.0005) than the post injury values suggesting a suppression of high-speed running distance after returning from injury. On return to play, 7 of the 15 players showed a sustained absolute reduction in preinjury high-speed running distance, 7 showed no change, and 1 player (only) showed an increase. Analysis of subsequent (second and third injury) return to play showed no differences to return from the index injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Return to play was not associated with return to high-speed running performance for nearly half of the players examined, although the same number showed no difference. Persisting deficits in match high-speed running may exist for many players after hamstring strain injury."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Returning to play does not mean returning to (high-speed running) performance for nearly half of the high-level professional football players examined in this study. This suggests that successful return to play metrics should be expanded from simple time taken and recurrence to include performance."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

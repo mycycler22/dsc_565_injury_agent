@@ -1,0 +1,36 @@
+{
+  "pmid": "30268587",
+  "title": "Return to play after arthroscopic treatment for shoulder instability in elite and professional baseball players.",
+  "year": "2019",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "This study evaluated the clinical outcome of arthroscopic treatment for anterior shoulder dislocation in elite and professional baseball players."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study included 51 baseball players who underwent arthroscopic Bankart repair between 2008 and 2015. The follow-up duration was set at 24 months or longer, based on clinic visit or telephone survey. After surgery, players who played in 1 or more official games were considered to have returned to play (RTP), and those who participated in more than 10 official games were considered to have solidly returned to play (sRTP). The RTP and sRTP rates were analyzed by player position (pitcher, catcher, and in-fielder), and the period of RTP after surgery (rehabilitation period) was investigated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 51 baseball players (mean age, 20.9 years), 14 were pitchers, 6 were catchers, and 31 were in-fielders. Pitchers showed 64% RTP and 57% sRTP, catchers, 83% RTP and 83% sRTP, and in-fielders, 90% RTP and 90% sRTP. The overall RTP and sRTP rates were 82% and 80%, respectively. The average RTP period after surgery (rehabilitation period) was 8.4 months, with 9.6, 9.1, and 7.4 months for pitchers, catchers, and in-fielders, respectively."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The RTP after arthroscopic Bankart repair shows favorable results, with the nonthrowing shoulder and in-field position yielding the best results. Players undergoing arthroscopic Bankart repair and the surgeon should be aware of the possible outcomes based on the throwing/nonthrowing arm and various positions."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The average RTP period after surgery (rehabilitation period) was 8.4 months, with 9.6, 9.1, and 7.4 months for pitchers, catchers, and in-fielders, respectively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

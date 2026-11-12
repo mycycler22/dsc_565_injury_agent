@@ -1,0 +1,32 @@
+{
+  "pmid": "34180840",
+  "title": "Association Between Third-Generation Fluoroquinolones and Achilles Tendon Rupture: A Self-Controlled Case Series Analysis.",
+  "year": "2021",
+  "journal": "Annals of family medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "We investigated whether use of third-generation fluoroquinolones is associated with occurrence of Achilles tendon rupture using a case series analysis in which patients served as their own control."
+    },
+    {
+      "label": "METHODS",
+      "text": "We used administrative claims data to identify residents in a single Japanese prefecture who were enrolled in National Health Insurance and Elderly Health Insurance from April 2012 to March 2017 and experienced Achilles tendon rupture after receiving an antibiotic prescription. Antibiotics were categorized into 3 groups: first- and second-generation fluoroquinolones, third-generation fluoroquinolones, and nonfluoroquinolones. We used a conditional Poisson regression model to estimate the incidence rate ratio (IRR) of Achilles tendon rupture during the antibiotic exposure period relative to the nonexposure period for each patient. An exposure period was defined as 30 days from start of the prescription."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Analyses were based on 504 patients with Achilles tendon rupture who had received antibiotic prescriptions. Risk of rupture was not significantly elevated during exposure to third-generation fluoroquinolones (IRR = 1.05; 95% CI, 0.33-3.37) and nonfluoroquinolones (IRR = 1.08; 95% CI, 0.80-1.47). In contrast, risk was significantly elevated during exposure to first- and second-generation fluoroquinolones (IRR = 2.94; 95% CI, 1.90-4.54). Findings were similar across subgroups stratified by sex and by recent corticosteroid use."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our analysis showed that third-generation fluoroquinolone use was not associated with an increased risk of Achilles tendon rupture. These antibiotics may be a safer option for patients in whom this risk is elevated, such as athletes."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

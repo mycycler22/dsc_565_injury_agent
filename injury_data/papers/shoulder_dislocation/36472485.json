@@ -1,0 +1,40 @@
+{
+  "pmid": "36472485",
+  "title": "Distance to Dislocation and Recurrent Shoulder Dislocation After Arthroscopic Bankart Repair: Rethinking the Glenoid Track Concept.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The \"distance to dislocation\" (DTD) calculation has been proposed as 1 method to predict the risk of recurrent dislocation after arthroscopic Bankart repair for an \"on-track\" shoulder. Rates of recurrent dislocation at specific DTD values are unknown."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Among patients with \"on-track\" shoulder lesions who underwent primary arthroscopic Bankart repair, the rate of recurrent dislocation would increase as DTD values decrease."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "We performed a retrospective analysis of 188 patients with \"on-track\" shoulder lesions who underwent primary arthroscopic anterior labral repair between 2007 and 2019, with a minimum 2-year follow-up. Glenoid bone loss, Hill-Sachs interval, glenoid track, and DTD were determined from preoperative magnetic resonance imaging scans. The rate of recurrent dislocation was determined at 2-mm DTD intervals. Univariate and multivariate regression analyses were used to evaluate the relationship between recurrent dislocation, patient characteristics, and bone loss variables. A multivariate regression model was created to predict the probability of failure at continuous DTD values. A subgroup analysis of failure rate based on collision sports participation was also performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 29 patients (15.4%) sustained recurrent dislocations. Patient age (<i>P</i> = .046), multiple dislocations (<i>P</i> = .03), glenoid bone loss (<i>P</i> < .001), Hill-Sachs interval length (<i>P</i> < .001), and DTD (<i>P</i> < .001) were all independent predictors of failure. As the DTD decreased, the rate of recurrent dislocation increased. Below a DTD threshold of 10 mm, the recurrent dislocation rate increased exponentially. Up to a threshold of 24 mm, the failure rate for collision athletes remained >12.3%, independent of the DTD. Conversely, the failure rate among noncollision athletes decreased steadily as the DTD increased."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "For \"on-track\" shoulder lesions, as the DTD approached 0 mm (\"off-track\" threshold), the risk of recurrent dislocation after arthroscopic Bankart repair increased significantly. Below a DTD threshold of 10 mm, the risk of failure increased exponentially. The risk of recurrent dislocation for collision sports athletes remained elevated at higher DTD values than for noncollision athletes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

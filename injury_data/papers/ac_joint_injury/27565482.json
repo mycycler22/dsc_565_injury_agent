@@ -1,0 +1,40 @@
+{
+  "pmid": "27565482",
+  "title": "Sports activity after anatomic acromioclavicular joint stabilisation with flip-button technique.",
+  "year": "2017",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Sports activity after surgical AC joint stabilisation has not been comprehensively evaluated to date. The aim of this study was to determine rate, level and time to return to sports after AC joint stabilisation and to identify the influence of overhead sports on post-operative sports activity."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this retrospective case series, a total of 68 patients with a high-grade AC joint dislocation (Rockwood type V) were stabilised using a single TightRope technique. Fifty-five patients (80.9 %) with median age of 42.0 (range, 18-65) years completed questionnaires regarding sports activity before and after surgery. Clinical outcome and complications were also evaluated. Forty-three patients participated in sports regularly before injury. Their sports activity was rated according to Allain, and non-overhead and overhead sports were differentiated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At median follow-up of 24 (18-45) months, 41 of 43 patients (95.3 %) had returned to sports. 63 % returned to the same sports activity as before injury. 16.3 % needed to adapt the type of sports to reduce demanding activities. 11.6 % reduced the frequency and 32.5 % the intensity of sports. The median time to return to sports was 9.5 (3-18) months. Overhead athletes (Allain Type III and IV) had to reduce their sports activity significantly more often (11.8 vs. 53.8 %; p = 0.011) and needed more time to return to sports (9.5 vs. 4.5 months; p = 0.009)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "After stabilisation of AC joint dislocation, the majority of patients returned to sports after a substantial period of time. Overhead athletes, in particular, required more time and had to considerably reduce their sports activity. The findings impact therapeutic decision-making after AC joint injury and help with the prognosis and assessment of rehabilitation progress."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "AC joint injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Overhead athletes (Allain Type III and IV) had to reduce their sports activity significantly more often (11.8 vs. 53.8 %; p = 0.011) and needed more time to return to sports (9.5 vs. 4.5 months; p = 0.009)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

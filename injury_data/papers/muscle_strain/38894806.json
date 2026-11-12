@@ -1,0 +1,20 @@
+{
+  "pmid": "38894806",
+  "title": "The Role of Platelet-Rich Plasma Injection for Muscle Strains in Athletes.",
+  "year": "2024",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Muscle tears/strains are among the most common musculoskeletal injuries, posing a serious challenge for sports medicine. Aiming to reduce the time to return to play and the rate of reinjuries, apart from the traditional conservative treatments and rehabilitation protocols, new and innovative therapeutic options have emerged, particularly platelet-rich plasma (PRP). This study aims to present the available evidence regarding PRP injection for the treatment of muscle strains in athletes. Two databases were searched for articles published between January 2012 and December 2022 in Portuguese or English. The query used for the PubMed database was (\"Muscles/injuries\"[Mesh]) AND (\"Athletes\"[Mesh] OR \"Athletic Injuries\"[Mesh]) AND \"Platelet-Rich Plasma\"[Mesh], while for the Web of Science database the search was performed for \"Platelet-rich plasma\" AND \"Muscle injuries\" AND (\"Athletes\" OR \"Athletic injuries\"). Eleven studies involving athletes diagnosed with muscle injuries who received treatment with PRP injection alone, or in combination with traditional conservative treatment, compared to a control group, were included. Four randomized controlled trials, four systematic reviews/meta-analyses, two retrospective studies, and one comparative study were included. Current evidence from the highest-quality studies does not support the hypothesis of reduction of time to return to play and the rate of reinjuries after PRP injection, even though some studies reported positive results. However, the available evidence suggests that PRP might have a beneficial effect on the pain perceived by athletes following an acute muscle strain. It is challenging to arrive at definitive conclusions and translate these findings into a clinical context for treating muscle strains in athletes. The existing trials present several inconsistencies and limitations, with a heterogeneous set of patients and injuries, as well as the use of different and inconsistent methods for preparing, administering, and measuring the effects of PRP. To achieve consistent outcomes, standardizing PRP administration procedures is essential."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

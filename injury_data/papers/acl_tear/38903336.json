@@ -1,0 +1,19 @@
+{
+  "pmid": "38903336",
+  "title": "Anterior Cruciate Ligament Repair Leads to Improved Patient-Reported Outcomes Compared to Anterior Cruciate Ligament Reconstruction.",
+  "year": "2024",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Introduction Anterior cruciate ligament (ACL) tears occur frequently in young athletes, and ligament repair and reconstruction are surgical treatments. Although there are suggested benefits for both approaches, there is a lack of direct comparisons between ACL repair and reconstruction.This study aims to compare the mid-term functional outcomes and quality of life measures between patients that have undergone ACL repair versus reconstruction. Methods A retrospective review was conducted for demographic and operative report data of patients who underwent an ACL repair or reconstruction between 2012 and 2018. Patients were contacted over the phone and underwent a Patient-Reported Outcomes Measurement Information System (PROMIS) survey evaluating pain interference, mobility, and function. Patients were excluded from the study if there was an incomplete operative note, missing contact information, or failure to answer phone calls. Results A total of 74 eligible patients were included, with n = 54 in the ACL reconstruction group (73.0%) and n = 20 in the ACL repair group (27.0%). Reconstruction patients had a PROMIS (median (IQR)) physical function score of 22.50 (16.00-59.00), as compared to repair patients' physical function score of 60.00 (21.50-60.00). There was a significant difference favoring repair (p = 0.040). In addition, ACL reconstruction patients had a significantly higher rate of additional procedures, with 63.0% of reconstruction patients receiving an additional operation as compared to 30.0% of repair patients (p = 0.017). The surgery type did not show a significant effect on physical function scores, while additional procedures remained significant in the linear regression analysis. Conclusion Although ACL repair is associated with improved physical function scores as compared to reconstruction in the univariate analysis, surgery type did not show significance when controlling for other variables. Further studies are necessary to compare patients with similar injuries to account for differences in additional procedures, but the results remain promising in assisting with patient-driven treatment decisions."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

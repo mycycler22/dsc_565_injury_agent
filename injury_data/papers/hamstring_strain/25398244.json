@@ -1,0 +1,40 @@
+{
+  "pmid": "25398244",
+  "title": "The effect of previous hamstring strain injuries on the change in eccentric hamstring strength during preseason training in elite Australian footballers.",
+  "year": "2015",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries (HSIs) are the most common injury type in Australian football, and the rate of recurrence has been consistently high for a number of years. Long-lasting neuromuscular inhibition has been noted in previously injured athletes, but it is not known if this influences the athlete's adaptive response to training."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine if elite Australian footballers with a prior unilateral HSI (previously injured group) display less improvement in eccentric hamstring strength during preseason training compared with athletes without a history of HSIs (control group)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 99 elite Australian footballers (17 with a history of unilateral HSIs in the previous 12-month period) participated in this study. Eccentric hamstring strength was assessed at the start and end of preseason training using an instrumented Nordic hamstring device. The change in eccentric strength across the preseason was determined in absolute terms and normalized to the start of preseason strength. The start of preseason strength was used as a covariate to control for differences in starting strength."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The left and right limbs in the control group showed no difference in absolute or relative change (left limb: 60.7 ± 72.9 N and 1.28 ± 0.34 N, respectively; right limb: 48.6 ± 83.8 N and 1.24 ± 0.43 N, respectively). Similarly, the injured and uninjured limbs in the previously injured group showed no difference in either absolute or relative change (injured limb: 13.1 ± 57.7 N and 1.07 ± 0.18 N, respectively; uninjured limb: 14.7 ± 54.0 N and 1.07 ± 0.22 N, respectively). The previously injured group displayed significantly less increase in eccentric hamstring strength across the preseason (absolute change, 13.9 ± 55.0 N; relative change, 1.07 ± 0.20 N) compared with the control group (absolute change, 54.6 ± 78.5 N; relative change, 1.26 ± 0.39 N) for both absolute and relative measures (P < .001), even after controlling for differences in the start of preseason eccentric hamstring strength, which had a significant effect on strength improvement."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Elite Australian footballers with a unilateral history of HSIs displayed less improvement in eccentric hamstring strength across preseason training. The smaller improvements were not restricted to the previously injured limb as the contralateral limb also displayed similarly small improvements in eccentric strength. Whether this is the cause of or the result of an injury remains to be seen, but it has the potential to contribute to the risk of hamstring strain reinjuries."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

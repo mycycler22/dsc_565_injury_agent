@@ -1,0 +1,32 @@
+{
+  "pmid": "26724652",
+  "title": "Imaging prevalence of femoroacetabular impingement in symptomatic patients, athletes, and asymptomatic individuals: A systematic review.",
+  "year": "2016",
+  "journal": "European journal of radiology",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is a wide discrepancy in reported prevalence rates for cam, pincer, and mixed femoroacetabular impingement (FAI), particularly among distinct populations, namely asymptomatic or symptomatic subjects and athletes. No systematic analysis to date has yet compared studies among these groups to determine differences in radiographic signs of FAI."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of existing literature was performed to determine the prevalence of radiographic signs of FAI among athletes, asymptomatic subjects, and symptomatic patients. Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were applied to systematically search PubMed, MEDLINE, CINAHL, and Cochrane databases."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We identified 361 studies in our literature search. After considering the exclusion criteria, 60 were included in this systematic review: 15 in athletes, 10 in purely asymptomatic patients, and 35 in symptomatic, non-athlete populations. Cam impingement was significantly (p=0.0003) more common in athletes versus asymptomatic subjects but not compared to symptomatic patients (p=0.107). In addition, cam FAI was significantly more common in symptomatic versus asymptomatic cases (p=0.009). The percentage of patients with cam-type FAI showed significant differences across groups (p=0.006). No significant differences were found between pincer-type FAI morphology prevalence when comparing athletes to symptomatic patients. However, mixed-type FAI was significantly more common in athletes versus asymptomatic subjects (p=0.03) and in asymptomatic versus symptomatic subjects (p=0.015). The percentage of patients with mixed-type FAI showed significant differences across groups (p=0.041). The mean alpha angle was significantly greater in the symptomatic group versus either the asymptomatic or athlete group (p<0.001). Significant differences in mean alpha angles were noted across groups (p=0.0000)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Imaging suspicion of FAI is common among athletes, asymptomatic, and symptomatic populations. However, significant differences in type and imaging signs of FAI exist among these groups that need to be considered in patients' decision making."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

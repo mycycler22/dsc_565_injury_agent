@@ -1,0 +1,19 @@
+{
+  "pmid": "41864917",
+  "title": "Isokinetic shoulder rotator strength profiles in elite male Para athletes.",
+  "year": "2026",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "BACKGROUND: Shoulder rotator strength balance is crucial for joint stability and injury prevention, particularly in Para athletes who rely heavily on upper limbs. However, isokinetic data across Para sports remain limited. METHODS: Fifty-three elite male Para athletes (throwers, sitting volleyball, Para swimming, and Para judo) underwent bilateral isokinetic testing of shoulder external (ER) and internal rotators (IR) at 60°, 180°, and 300°/s using a Biodex System 4 dynamometer. Peak torque relative to body weight (PT/BW), ER/IR ratios, and bilateral strength asymmetry (BSA) were calculated. Paired t-tests compared dominant and non-dominant sides within each sport, and a separate mixed-design ANOVA assessed dominance and sport effects. RESULTS: Dominant shoulders showed greater ER strength at 60°/s in para-throwers, sitting volleyball, and Para judo athletes (p < 0.05), while sitting volleyball players exhibited higher non-dominant ER strength at 300°/s (p < 0.001). Dominant IR strength was higher at 60°/s in sitting volleyball and Para judo, and at 300°/s in throwers (p < 0.05), whereas Para swimmers showed greater non-dominant IR strength at 300°/s (p = 0.046). Within-group analysis revealed significantly higher dominant-side ER/IR ratios in Para swimmers and Para judokas at 300°/s (p < 0.05). The mixed ANOVA confirmed significant dominance effects at 180°/s (p = 0.030, partial η² = 0.097) and 300°/s (p = 0.028, partial η² = 0.097), while group and interaction effects were non-significant. Inter-limb asymmetry remained ≤ 15% across sports. CONCLUSIONS: Shoulder strength adaptations in elite Para athletes are primarily velocity-dependent rather than sport-specific. Functional asymmetries represent adaptive neuromuscular adjustments maintaining joint stability under asymmetric loads and provide reference data for training and injury prevention in Para sports."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

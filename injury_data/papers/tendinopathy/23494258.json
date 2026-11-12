@@ -1,0 +1,37 @@
+{
+  "pmid": "23494258",
+  "title": "Achilles and patellar tendinopathy loading programmes : a systematic review comparing clinical outcomes and identifying potential mechanisms for effectiveness.",
+  "year": "2013",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Achilles and patellar tendinopathy are overuse injuries that are common among athletes. Isolated eccentric muscle training has become the dominant conservative management strategy for Achilles and patellar tendinopathy but, in some cases, up to 45 % of patients may not respond. Eccentric-concentric progressing to eccentric (Silbernagel combined) and eccentric-concentric isotonic (heavy-slow resistance; HSR) loading have also been investigated. In order for clinicians to make informed decisions, they need to be aware of the loading options and comparative evidence. The mechanisms of loading also need to be elucidated in order to focus treatment to patient deficits and refine loading programmes in future studies."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "The objectives of this review are to evaluate the evidence in studies that compare two or more loading programmes in Achilles and patellar tendinopathy, and to review the non-clinical outcomes (potential mechanisms), such as improved imaging outcomes, associated with clinical outcomes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Comprehensive searching (MEDLINE, EMBASE, CINAHL, Current Contents and SPORTDiscus(™)) identified 403 studies. Two authors independently reviewed studies for inclusion and quality. The final yield included 32 studies; ten compared loading programmes and 28 investigated at least one potential mechanism (six studies compared loading programmes and investigated potential mechanisms)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "This review has identified limited (Achilles) and conflicting (patellar) evidence that clinical outcomes are superior with eccentric loading compared with other loading programmes, questioning the currently entrenched clinical approach to these injuries. There is equivalent evidence for Silbernagel combined (Achilles) and greater evidence for HSR loading (patellar). The only potential mechanism that was consistently associated with improved clinical outcomes in both Achilles and patellar tendon rehabilitation was improved neuromuscular performance (e.g. torque, work, endurance), and Silbernagel-combined (Achilles) HSR loading (patellar) had an equivalent or higher level of evidence than isolated eccentric loading. In the Achilles tendon, a majority of studies did not find an association between improved imaging (e.g. reduced anteroposterior diameter, proportion of tendons with Doppler signal) and clinical outcomes, including all high-quality studies. In contrast, HSR loading in the patellar tendon was associated with reduced Doppler area and anteroposterior diameter, as well as greater evidence of collagen turnover, and this was not seen following eccentric loading. HSR seems more likely to lead to tendon adaptation and warrants further investigation. Improved jump performance was associated with Achilles but not patellar tendon clinical outcomes. The mechanisms associated with clinical benefit may vary between loading interventions and tendons."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There is little clinical or mechanistic evidence for isolating the eccentric component, although it should be made clear that there is a paucity of good quality evidence and several potential mechanisms have not been investigated, such as neural adaptation and central nervous system changes (e.g. cortical reorganization). Clinicians should consider eccentric-concentric loading alongside or instead of eccentric loading in Achilles and patellar tendinopathy. Good-quality studies comparing loading programmes and evaluating clinical and mechanistic outcomes are needed in both Achilles and patellar tendinopathy rehabilitation."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

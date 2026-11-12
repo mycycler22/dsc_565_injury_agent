@@ -1,0 +1,32 @@
+{
+  "pmid": "42000385",
+  "title": "Distinct meniscus tears and bone bruise patterns in soccer players with anterior cruciate ligament injuries: A comparative study of noncontact and contact mechanisms.",
+  "year": "2026",
+  "journal": "The Knee",
+  "pub_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To compare meniscal tear characteristics and bone bruise distribution patterns between noncontact and contact anterior cruciate ligament (ACL) injuries in soccer players."
+    },
+    {
+      "label": "METHODS",
+      "text": "This retrospective cohort study reviewed all soccer players who underwent primary ACL reconstruction between 2013 and 2023. Patients were categorized as having noncontact or contact injuries based on detailed clinical documentation. Meniscal tear morphology and distribution were assessed arthroscopically. Bone bruises were evaluated on magnetic resonance imaging across the lateral and medial femoral condyles and tibial plateaus, subdivided into anterior, central, and posterior regions. Group comparisons were performed using chi-square and t-tests, with significance set at P < 0.05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Among the 246 athletes (98 males and 148 females; mean age 19 ± 6 years), 207 (84%) sustained noncontact and 39 (16%) contact injuries. Lateral meniscus posterior-horn tears were more frequent in noncontact injuries (86% vs. 57%, P = 0.01), whereas lateral radial mid-body tears occurred more often in contact injuries (36% vs. 5%, P < 0.01). Lateral posterior-root tears were observed solely in the noncontact group (15% vs. 0%, P = 0.01). Contact injuries showed a broader bruise distribution in the lateral femoral condyle and higher incidence of large, diffuse bruises than noncontact injuries (18% vs. 4%, P < 0.01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In soccer players with ACL injuries, noncontact mechanisms were predominant and more frequently associated with lateral posterior root tears and a characteristic tibiofemoral lateral bruise pattern. Contact mechanisms were more frequently associated with lateral radial mid-body tears and large lateral femoral condyle bruises. These findings provide insights into preoperative planning based on ACL injury mechanism."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

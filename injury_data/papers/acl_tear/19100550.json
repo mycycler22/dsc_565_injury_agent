@@ -1,0 +1,20 @@
+{
+  "pmid": "19100550",
+  "title": "The effect of isolated valgus moments on ACL strain during single-leg landing: a simulation study.",
+  "year": "2009",
+  "journal": "Journal of biomechanics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Valgus moments on the knee joint during single-leg landing have been suggested as a risk factor for anterior cruciate ligament (ACL) injury. The purpose of this study was to test the influence of isolated valgus moment on ACL strain during single-leg landing. Physiologic levels of valgus moments from an in vivo study of single-leg landing were applied to a three-dimensional dynamic knee model, previously developed and tested for ACL strain measurement during simulated landing. The ACL strain, knee valgus angle, tibial rotation, and medial collateral ligament (MCL) strain were calculated and analyzed. The study shows that the peak ACL strain increased nonlinearly with increasing peak valgus moment. Subjects with naturally high valgus moments showed greater sensitivity for increased ACL strain with increased valgus moment, but ACL strain plateaus below reported ACL failure levels when the applied isolated valgus moment rises above the maximum values observed during normal cutting activities. In addition, the tibia was observed to rotate externally as the peak valgus moment increased due to bony and soft-tissue constraints. In conclusion, knee valgus moment increases peak ACL strain during single-leg landing. However, valgus moment alone may not be sufficient to induce an isolated ACL tear without concomitant damage to the MCL, because coupled tibial external rotation and increasing strain in the MCL prevent proportional increases in ACL strain at higher levels of valgus moment. Training that reduces the external valgus moment, however, can reduce the ACL strain and thus may help athletes reduce their overall ACL injury risk."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

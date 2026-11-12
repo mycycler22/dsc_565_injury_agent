@@ -1,0 +1,19 @@
+{
+  "pmid": "42020553",
+  "title": "Biomechanical study of characteristics of dynamic stability of lower limbs in individuals with patellofemoral pain syndrome.",
+  "year": "2026",
+  "journal": "Scientific reports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study aimed to investigate the kinematic and kinetic characteristics of the lower limbs during the Y-Balance Test (YBT) between male badminton athletes with patellofemoral pain syndrome (PFPS) and healthy controls. A cross-sectional study was conducted involving forty university male badminton athletes with PFPS (n = 20) and healthy controls (n = 20). Reach distance, electromyographic signals, kinematic data, and ground reaction forces were collected during YBT performance. Joint angles, joint moments, and muscle forces at the point of maximum reach distance were calculated using OpenSim and statistically analyzed. PFPS participants exhibited a greater hip internal rotation angle in the anterior reach direction (p = 0.032). Weaker gluteus maximus activation was observed in the anterior and posterolateral directions (p = 0.045, p = 0.038), while reduced hamstring and quadriceps forces were identified in the posteromedial direction (p = 0.010, p = 0.025). A lower vastus medialis-to-vastus lateralis ratio was detected in the anterior and posteromedial directions (p = 0.023), whereas a higher hamstring-to-quadriceps ratio was found in the anterior test (p = 0.029). In the PFPS group, the anterior reach distance was negatively correlated with hip internal rotation angle (r = − 0.651, p = 0.009) and positively correlated with gluteus maximus (r = 0.591, p = 0.037), gluteus medius (r = 0.612, p = 0.024), and the vastus medialis-to-vastus lateralis ratio (r = 0.778, p = 0.016). In the posteromedial direction, reach distance showed strong positive correlations with hip external rotation angle (r = 0.768, p = 0.043), hamstring force (r = 0.771, p = 0.021), and quadriceps force (r = 0.592, p = 0.016). The results of the current study indicate that the reductions in YBT performance are closely associated with hip internal rotation angle, weak hip muscle force, and abnormal knee muscle force ratios, which may serve as potential diagnosis indicators for screening and preventing PFPS in male athlete populations. Data derived from healthy athletes may provide valuable reference benchmarks to guide clinicians in the rehabilitation management of individuals with PFPS."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

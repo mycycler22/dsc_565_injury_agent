@@ -1,0 +1,39 @@
+{
+  "pmid": "28945456",
+  "title": "Epidemiology of Posterior Glenohumeral Instability in a Young Athletic Population.",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "While several studies have observed the incidence of posterior glenohumeral instability in selected populations, there are no data from large-scale population-based studies with corresponding athletic exposure data to calculate incidence rates (IRs) and associated risk factors."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine risk factors for posterior glenohumeral instability within the physically active population at the United States Military Academy."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A longitudinal cohort study was performed over a 6-year period from 2006 to 2012 at the United States Military Academy utilizing the Cadet Illness and Injury Tracking System. Exposure data were collected from daily attendance data documented for every practice and game at the intramural, club, or varsity sport level. The primary outcomes calculated were the IRs of posterior glenohumeral joint instability per 1000 person-years at risk and per 1000 athlete-exposures. IR ratios and confidence intervals were calculated between male and female cadets and between intercollegiate and intramural athletes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between 2006 and 2012, there were 1348 shoulder injuries in total, with 633 instability events. During the study period, 113 posterior shoulder instability injuries (17.9% of instability events) and 26,408 person-years at risk were documented, for an overall IR of 4.28 per 1000 person-years. The overall IR of posterior instability was 0.08 per 1000 athlete exposures. In male athletes, 105 sustained a posterior shoulder instability event, for an IR of 4.67 per 1000 person-years. Female athletes were less likely to sustain a posterior instability event, accounting for only 8 events, for an IR of 2.04 per 1000 person-years. A total of 6670 athletes were at risk for posterior shoulder instability injury during the study period. A total of 55 injuries were documented, for an IR of 8.25 per 1000 person-years. Intercollegiate wrestlers had the highest IR: 34.15 per 1000 person-years. The sport with the highest injury rate among intramural sports was football, at 2.79 per 1000 person-years. Three athletes had a history of a posterior shoulder dislocation, while no significant difference was found for subluxation versus pain as the presenting symptom. Of the 113 posterior shoulder instability injuries, 77.0% required surgical stabilization. All injuries associated with weight lifting required surgical stabilization."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Among athletes, intercollegiate athletes are at an increased risk of posterior glenohumeral instability when compared with intramural athletes. Intercollegiate athletes and weight lifters demonstrate a high likelihood of requiring surgical treatment as compared with intramural athletes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

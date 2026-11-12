@@ -1,0 +1,24 @@
+{
+  "pmid": "40725574",
+  "title": "Midterm Outcomes of Medial Patellofemoral Ligament Reconstruction in Adolescent Athletes: Comparison Between Acute and Recurrent Patella Dislocation.",
+  "year": "2025",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background/Objectives</b>: Patellar instability in adolescents is a significant cause of short- and long-term morbidity and disability. Traditionally, patients with first-time patellar dislocation are managed nonoperatively, although most studies are not focusing on the adolescent athletic population. The primary objective of the current study was to compare patient-reported outcomes and complications in adolescent athletes who underwent surgery either after the first patellar dislocation or after the recurrence of the dislocation with a minimum postoperative follow-up of 48 months (48-75 months). <b>Methods:</b> A total of 39 adolescent athletes who underwent medial patellofemoral ligament (MPFL) reconstruction (Group A, after the first dislocation, and Group B, recurrent patella dislocation) were included in this study. In all the patients, the same MPFL reconstruction technique was applied using a semitendinosus autograft. The graft was fixed on the patella using a transverse tunnel and adjustable loop button fixation and, in the femur, using a tunnel and absorbable screw fixation. The tunnel was drilled obliquely to prevent penetration of the distal femoral physis. The preoperative and postoperative clinical and functional evaluations of the patients were conducted via the visual analog scale (VAS), the Lysholm Knee Scoring System, the Kujala Anterior Knee Pain Scale, and the Pediatric International Knee Documentation Committee (Pedi-IKDC), and the return to sports score was assessed via the Tegner Activity Scale (TAS). <b>Results:</b> At the latest follow-up, both groups demonstrated significant improvement in the Lysholm scores, with Group A achieving a mean of 92.57 ± 6.21 and Group B achieving a mean of 90.53 ± 8.21 (<i>p</i> = 0.062). Postoperatively, Group A achieved a mean Kujala score of 94.21 ± 9.23, whereas Group B reached 92.76 ± 12.39, with no statistically significant difference (<i>p</i> = 0.08). The Pedi-IKDC score improved postoperatively in both groups. In Group A, it increased from 67.98 ± 12.29 to 93.65 ± 4.1, and in Group B, from 56.21 ± 13.6 to 91.67 ± 6.21 (<i>p</i> = 0.067). The preoperative visual analog scale (VAS) score for pain was significantly lower in Group A (3.1 ± 1.13) than in Group B (4.2 ± 3.01, <i>p</i> < 0.01). At the latest follow-up, the VAS scores improved in both groups, with Group A reporting a mean score of 0.47 ± 1.01 and Group B 0.97 ± 1.32 (<i>p</i> = 0.083). The Tegner activity scores were similar between the groups preoperatively, with Group A at 7.72 ± 1.65 and Group B at 7.45 ± 2.09 (<i>p</i> = 0.076). Postoperatively, Group A had a mean score of 7.28 ± 2.15, whereas Group B had a mean score of 6.79 ± 3.70 (<i>p</i> = 0.065). The mean time to return to sports was significantly shorter in Group A (5.1 ± 1.3 months) than in Group B (7.6 ± 2.1 months) (<i>p</i> < 0.01). Overall, 84.61% of the patients returned to their previous activity level. Specifically, 95.2% (20/21) of patients in Group A achieved this outcome, whereas 72.22% (13/18) achieved it in Group B. Patient satisfaction was generally high, with 76% (16/21) of patients in Group A reporting being satisfied or very satisfied, compared with 77% (14/18) in Group B. <b>Conclusions:</b> MPFL reconstruction is a safe and effective procedure for both acute and recurrent patellar dislocation in adolescent athletes. While patients who underwent acute reconstruction returned to sport more quickly and showed higher absolute postoperative scores, the greatest overall improvement from preoperative to final follow-up was observed in those treated for recurrent instability. Both surgical approaches demonstrated high satisfaction rates and minimal complications, supporting MPFL reconstruction as a reliable option in both acute and recurrent cases."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean time to return to sports was significantly shorter in Group A (5.1 ± 1.3 months) than in Group B (7.6 ± 2.1 months) (<i>p</i> < 0.01)."
+    }
+  ],
+  "pmcid": "12295372",
+  "fulltext_chunks": []
+}

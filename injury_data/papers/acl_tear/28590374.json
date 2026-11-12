@@ -1,0 +1,35 @@
+{
+  "pmid": "28590374",
+  "title": "Return to Sport After Pediatric Anterior Cruciate Ligament Reconstruction and Its Effect on Subsequent Anterior Cruciate Ligament Injury.",
+  "year": "2017",
+  "journal": "The Journal of bone and joint surgery. American volume",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) graft failure and contralateral ACL tears are more frequent in children and adolescents than adults. The reasons for higher subsequent injury rates in this population are incompletely understood."
+    },
+    {
+      "label": "METHODS",
+      "text": "We analyzed a continuous cohort of patients who were <18 years of age. Subjects underwent isolated, primary ACL reconstruction with autograft between 2006 and January 1, 2014, and had a minimum 2-year follow-up. Return-to-sport characteristics were described, and multivariable Cox regression modeling was used to identify predictors of a second ACL injury. Candidate variables included patient factors (age, sex, physeal status, tibial slope, notch width index), surgical characteristics (graft type, surgical technique), measures of recovery (time to return to sport, duration of physical therapy), and patients' preoperative and postoperative sports involvement (primary and secondary sports, number of sports)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 112 subjects met inclusion criteria; of these patients, 85 (76%) had complete follow-up data and were analyzed. The mean age (and standard deviation) was 13.9 ± 2.1 years (range, 6 to 17 years); 77% had open physes. The mean follow-up was 48.3 ± 15.3 months. Seventy-seven patients (91%) returned to sports, and 84% returned to the same sport. The mean Marx activity score at the time of the latest follow-up was 13.7 ± 3.5 points. Patients were involved in fewer sports after ACL reconstruction, 1.48 ± 0.92 compared with 1.83 ± 1.01 sports before reconstruction (p = 0.002). Sixteen patients (19%) sustained an ACL graft rupture, 11 patients (13%) sustained a contralateral ACL tear, and 1 of these patients (1%) sustained both. The overall prevalence of a second ACL injury was 32%. Time to return to sport was the only significant predictor of a second ACL injury, with a slower return being protective (hazard ratio per month, 0.87 [95% confidence interval, 0.73 to 0.99]; p = 0.04)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Pediatric athletes return to sports at a high rate (91%) after ACL reconstruction. Unfortunately, the prevalence of a second ACL injury is high at 32%. Within this population, an earlier return to sport is predictive of a second ACL injury."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

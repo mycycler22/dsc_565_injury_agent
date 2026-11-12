@@ -1,0 +1,35 @@
+{
+  "pmid": "39006786",
+  "title": "Previous Knee Surgery, Anteromedial Portal Drilling, Quadriceps Tendon Autograft, and Meniscal Involvement Associated With Delayed Return to Sport After Anterior Cruciate Ligament Reconstruction in Amateur Athletes.",
+  "year": "2024",
+  "journal": "Arthroscopy, sports medicine, and rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To identify prognostic factors associated with a delayed return-to-sport (RTS) time in amateur athletes who return to full participation after a primary isolated anterior cruciate ligament (ACL) reconstruction."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was performed among athletes who underwent ACL reconstruction between October 2014 and October 2021. Inclusion criteria were any amateur athletes with an ACL reconstruction who had a documented RTS and greater than 1-year follow-up. Nonathletes, those with multiligamentous knee injury, and those missing documented RTS timelines were excluded. RTS was defined as participation in athletics at a level equivalent to or greater than the preinjury level participation. Demographic and prognostic factors, including previous knee surgery, meniscal involvement, level of participation, surgical approach, and graft type, were recorded along with RTS time and analyzed via Poisson regression."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In total, 91 athletes, average age 18.8 (± 6.7) years, who underwent ACL reconstruction at a single institution from 2014 to 2021 were identified with an average follow-up time of 4.6 (± 2.5) years (range 1.1, 9.0). Meniscal involvement (1.11; 95% confidence interval [CI] 1.08-1.15, <i>P</i> < .001) and previous knee surgery (1.43; 95% CI 1.29-1.58; <i>P</i> < .001) were related to a delayed RTS. Quadriceps tendon and bone-patellar tendon-bone autografts, as well as allograft, showed a significant association with a longer RTS time when compared with hamstring autograft (1.16, 95% CI 1.13-1.20, <i>P</i> < .001; 1.04, 95% CI 1.01-1.07, <i>P</i> = .020; 1.11, 95% CI 1.03-1.19, <i>P</i> = .004, respectively), as did anteromedial portal drilling, when compared with the outside in approach for femoral drilling (1.19, 95% CI 1.16-1.23, <i>P</i> < .001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Previous knee surgery, anteromedial femoral drilling, quadriceps tendon autograft, and meniscus tear were most associated with a delayed timeline for RTS among young athletes who were able to return."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, prognostic case series."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

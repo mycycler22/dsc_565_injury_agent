@@ -1,0 +1,31 @@
+{
+  "pmid": "35616599",
+  "title": "Effect of laterality and fatigue in peroneal electromechanical delay.",
+  "year": "2022",
+  "journal": "SICOT-J",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Extremity dominance is one of the intrinsic factors that have been identified for ankle sprains. Electromechanical delay (EMD) is an integral part of the peroneal motor response and, therefore, substantial in preventing ankle sprains. This study aimed to investigate the effect of laterality on EMD times before and after fatigue."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifteen healthy male volunteers participated in the study. Measurements were taken with the ankle in a neutral (0°) position, and all subjects followed an isokinetic fatigue protocol. Repeated ANOVA was used for statistical analysis, and the α level was set a priori at p ≤ 0.05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No significant difference was noted in EMD times between the dominant and non-dominant legs of the volunteers (p = 0.940). Fatigue caused a significant increase in EMD by 10-15 ms (p = 0.003), while the leg × fatigue interaction was not significant (p = 0.893)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In a non-injured athlete, both ankles seem to be under the same protection of the reactive response of the peroneal muscles. Therefore, athletes should be aware that both their extremities are equally exposed to the danger of an ankle injury. Also, fatigued ankles demonstrate longer EMD times, implying that improving resistance to fatigue may add another layer of protection that has the potential to prevent ankle sprain recurrence."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

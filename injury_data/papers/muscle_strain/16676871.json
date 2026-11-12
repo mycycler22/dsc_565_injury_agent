@@ -1,0 +1,39 @@
+{
+  "pmid": "16676871",
+  "title": "Assessment of physical examination and magnetic resonance imaging findings of hamstring injury as predictors for recurrent injury.",
+  "year": "2006",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective cohort study."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To examine clinical and magnetic resonance imaging (MRI) features of hamstring muscle injury to determine if any are predictive for recurrent injury."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring muscle strain injury and subsequent recurrent injury are common. Little information exists on factors that may increase the risk for recurrent injury."
+    },
+    {
+      "label": "METHODS AND MEASURES",
+      "text": "The subjects were athletes from 3 professional Australian Rules football teams (n = 162). Anthropometric measurements, clinical signs, convalescent interval, and MRI assessment and measurement were undertaken and recorded in athletes with hamstring muscle strain injury. Athletes were followed for the presence, or absence, of recurrent injury to the same-side posterior thigh over the same and subsequent playing seasons."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty athletes met criteria for hamstring injury. Twelve (40%) of 30 athletes had recurrent injury within the same season, with an additional 7 athletes having recurrent injury in the subsequent season. None of the features examined were associated with increased recurrent injury risk within the same playing season. Statistical analysis demonstrated that when combining the same with the subsequent playing season a larger size of initial hamstring injury, as measured by MRI, was associated with an increased risk for recurrent injury (P<.01). A measured transverse size of injury greater than 55% of the muscle, or calculated volume of injury greater than 21.8 cm3, resulted in an increased risk for hamstring recurrence of 2.2 (95% CI, 0.88-5.32) and 2.3 (95% CI, 0.94-5.81) times, respectively, when compared to athletes with hamstring injuries below these measurements."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A larger size of hamstring injury was indicative of higher risk for recurrent injury but only after the subsequent playing season was considered along with the same playing season. None of the other parameters tested, including a shorter convalescent interval and clinical features, were associated with an increased risk for recurrent injury. However, due to low sample size the certainty of these conclusions may be limited."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

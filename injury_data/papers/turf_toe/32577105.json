@@ -1,0 +1,41 @@
+{
+  "pmid": "32577105",
+  "title": "The Effect of Turf Toe Injuries on Player Performance in the National Football League.",
+  "year": "2019",
+  "journal": "The Iowa orthopaedic journal",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "\"Turf toe\" results from hyperdorsiflexion of the first metatarsophalangeal joint, injuring the plantar capsuloligamentous complex. We hypothesized that National Football League (NFL) player performance following turf toe injury would decrease in comparison to controls at the same position."
+    },
+    {
+      "label": "METHODS",
+      "text": "Demographics, return to play, and season performance data on players sustaining turf toe injuries in the NFL from 2010-2015 were collected. An Offensive Power Rating (OPR=[total yards/10]+[total touchdowns x6]) or Defensive Power Rating (DPR=total tackles+[total sacks x2]+[total interceptions x2]) was calculated for each player. Control data were collected for NFL players in 2013 with no history of turf toe injury. Statistical analysis was performed using Wilcoxon Rank Sum tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-four injured players and 436 controls were included. Nineteen players returned to play within the regular season of injury (mean 36.7 ± 28.9 days). Seventeen players were removed from team injury reports for turf toe within the regular season (mean 42.6 ± 26.2 days). Three players required season-ending surgery. Comparison of 1-year post- versus pre-injury revealed an insignificant median OPR difference (-18.9 IQR -43.4 to 10.3 vs. control -12.2 IQR -46.2 to 47.7, p = 0.328) and median DPR difference (-1.0 IQR -26.0 to 17.0 vs. control 2.0 IQR -15.0 to 18.0, p = NA). Comparison of 2-year data revealed no significant median OPR difference (-32.6 IQR -122.2 to 1.0 vs. control -20.7 IQR -72.6 to 44.7, p = 0.327) and median DPR difference (-5.0 IQR -19.0 to 6.0 vs. control -4.5 IQR -22.0 to 12.5, p= NA)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Turf toe results in significant loss of playing time. Despite the long recovery period, NFL players have similar performance following injury compared to controls. The effect of turf toe injuries on performance is variable.<b>Level of evidence: IV</b>."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Nineteen players returned to play within the regular season of injury (mean 36.7 ± 28.9 days)."
+    }
+  ],
+  "pmcid": "7047292",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Twenty-four injured players and 436 controls were included. Nineteen players returned to play within the regular season of injury (mean 36.7 ± 28.9 days). Seventeen players were removed from team injury reports for turf toe within the regular season (mean 42.6 ± 26.2 days). Three players required season-ending surgery. Comparison of 1-year post- versus pre-injury revealed an insignificant median OPR difference (-18.9 IQR -43.4 to 10.3 vs. control -12.2 IQR -46.2 to 47.7, p = 0.328) and median DPR difference (-1.0 IQR -26.0 to 17.0 vs. control 2.0 IQR -15.0 to 18.0, p = NA). Comparison of 2-year data revealed no significant median OPR difference (-32.6 IQR -122.2 to 1.0 vs. control -20.7 IQR -72.6 to 44.7, p = 0.327) and median DPR difference (-5.0 IQR -19.0 to 6.0 vs. control -4.5 IQR -22.0 to 12.5, p= NA)."
+    }
+  ]
+}

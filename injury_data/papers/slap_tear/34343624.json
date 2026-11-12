@@ -1,0 +1,40 @@
+{
+  "pmid": "34343624",
+  "title": "Open Subpectoral Biceps Tenodesis May Be an Alternative to Arthroscopic Repair for SLAP Tears in Patients Under 30.",
+  "year": "2022",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of the current study is to compare the outcomes of open subpectoral biceps tenodesis (BT) to arthroscopic repair (AR) for SLAP tears in patients under the age of 30 years."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of patients under the age of 30 years who underwent either isolated BT or AR for a diagnosis of a SLAP tear between 2011 and 2019 was performed. Patients were included if they were >16 years old at the time of surgery, had an isolated SLAP tear involving instability of the biceps-labral anchor (types II-IV), were skeletally mature, and had a minimum follow-up of 12 months. The American Shoulder & Elbow Surgeons score, visual analog scale, Subjective Shoulder Value, patient satisfaction, willingness to undergo surgery again, revisions, and return to play (RTP) were evaluated. A P value of <.05 was considered statistically significant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Our study included 103 patients in total; 29 patients were treated with BT, and 74 were treated with AR. The mean age was 24.8 years, and the mean follow-up duration was 60 months. At final follow-up, there was no difference between treatment groups in any of the functional outcome measures assessed (P > .05). Overall, there was no significant difference in the total rate of RTP (BT: 76.3%, AR: 85%; P = .53), timing of RTP (BT: 8.8 months, AR: 9.4 months; P = .61), and total rate of RTP among overhead athletes (BT: 84.2%, AR: 83.3%; P > .99). Among those undergoing AR, 9 required a revision procedure (11.5%) compared to none treated with BT (P = .11)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In patients under the age of 30 years with a symptomatic isolated SLAP tear, BT may be a reliable alternative to AR."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective comparative study."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "P = .53), timing of RTP (BT: 8.8 months, AR: 9.4 months;"
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

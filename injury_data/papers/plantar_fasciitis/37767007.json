@@ -1,0 +1,35 @@
+{
+  "pmid": "37767007",
+  "title": "The Foot and Ankle in Ultramarathon Runners: Results of the Ultrarunners Longitudinal TRAcking (ULTRA) Study.",
+  "year": "2023",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The foot and ankle play a critical role in ultramarathon running. Because foot and ankle injuries are the most common location of injury in this group, proper care is essential for prevention. In this sport, small issues can become big problems over such long distances, and understanding the preventative measures taken by ultramarathon runners may provide insight for other athletes looking to avoid similar problems. The purpose of this study was to examine the routine and preventative care of the foot and ankle, as well as injury rates, in this group of high-risk athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "The Ultrarunners Longitudinal TRAcking (ULTRA) Study is the largest known prospective longitudinal study of ultramarathon runners. In this portion of the study, participants reported general health status, running behavior and performance, as well as foot and ankle care, injuries, stretching frequency, and shoewear."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 734 ultramarathon runners participated in the study. This group ran a median of 40.2 km per week. Overall, 71.2% of active ultramarathon runners reported a foot or ankle injury in the previous 12 months. The most common injuries reported were plantar fasciitis (36.3%), Achilles tendinitis (24.0%), nonspecific foot pain (14.0%), and stress fractures (13.4%). Sit and reach flexibility test showed that 63.7% of runners could not reach past their toes. There were no significant correlations for sit and reach flexibility or stretching frequency with injury rate."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The high prevalence of foot and ankle injuries in ultramarathon runners does not appear to be influenced by arch type, foot strike pattern, orthotic usage, stretching behavior, or actual flexibility. A high percentage of the study runners used comfort as a shoe selection method, independent of alignment or foot strike pattern. These findings guide the clinician in shared decision making with runners about routine care, including injury prevention and shoe selection."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level II, prospective study."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "42379672",
+  "title": "Active Rehabilitation and Return to Play in Sports-Related Concussion.",
+  "year": "2026",
+  "journal": "Neurologic clinics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sport-related concussion affects approximately 1.6 to 3.8 million athletes annually in the United States. Management has evolved from historical practices of strict cognitive and physical rest to evidence-based approaches emphasizing early, individualized, active rehabilitation. Most adults recover within approximately 14 days, while children and adolescents may require up to 4 weeks, with initial symptom burden representing the strongest predictor of recovery duration. Early, progressive aerobic activity initiated within 24 to 72 hours postinjury accelerates recovery compared to prolonged rest."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Most adults recover within approximately 14 days, while children and adolescents may require up to 4 weeks, with initial symptom burden representing the strongest predictor of recovery duration."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

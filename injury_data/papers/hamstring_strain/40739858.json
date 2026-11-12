@@ -1,0 +1,48 @@
+{
+  "pmid": "40739858",
+  "title": "Effects of Flywheel Leg Curls on Muscle Structure and Function in Athletes with a History of Hamstring Strain Injury: A Randomized Controlled Trial.",
+  "year": "2026",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries (HSIs) have a high rate of recurrence, highlighting the need for effective tertiary prevention strategies. Flywheel resistance training appears effective in targeting muscular risk factors for HSI."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Flywheel leg curls will result in greater improvements in eccentric knee flexor strength and biceps femoris long head (BF<sub>LH</sub>) fascicle length compared with conventional leg curls."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Randomized controlled trial."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-six athletes with a history of HSI within the past 18 months participated in an 8-week preventive training program. Athletes were assigned randomly to perform leg curls using either conventional (CON) or flywheel (FLY) equipment. Primary outcomes included eccentric knee flexor strength and BF<sub>LH</sub> fascicle length. Secondary outcomes included isometric strength, maximal hip flexion active knee extension (MHFAKE), passive straight leg raise (PSLR), BF<sub>LH</sub> muscle thickness, and pennation angle. Reinjury occurrence was monitored over a 6-month period."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The FLY group showed significantly greater improvements in eccentric strength (19 ± 19% vs 6 ± 9%; <i>P</i> = 0.04) and BF<sub>LH</sub> fascicle length (9 ± 8% vs 2 ± 3%; <i>P</i> = 0.01) compared with the CON group. The FLY group also exhibited superior gains in isometric strength and flexibility (MHFAKE), whereas the CON group showed a larger increase in BF<sub>LH</sub> pennation angle. During follow-up, the CON group sustained 3 reinjuries, whereas the FLY group reported only 1 (reinjury risk ratio 3.0, 95% CI, 0.31-28.9)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes with a history of HSI who participated in a preventive training program including flywheel leg curls showed greater improvements in knee flexor strength, fascicle length, and flexibility, as well as a lower reinjury occurrence compared with those trained with conventional leg curls."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Flywheel resistance training offers enhanced muscular adaptations that may reduce the risk of reinjury in athletes with a history of HSI."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

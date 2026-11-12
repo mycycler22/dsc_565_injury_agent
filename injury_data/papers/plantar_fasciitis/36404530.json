@@ -1,0 +1,36 @@
+{
+  "pmid": "36404530",
+  "title": "Comparison of static balance and gait between subjects with plantar fasciitis and age-matched controls.",
+  "year": "2023",
+  "journal": "Journal of back and musculoskeletal rehabilitation",
+  "pub_types": [
+    "Observational Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Plantar fasciitis (PF) is a common condition amongst athletes as well as in non-sporting population. It is characterised by a sharp pain under the calcaneus during walking. The impact of pain due to PF on gait and static balance is examined in this observational study."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare gait and balance between individuals with PF and age-matched controls without PF."
+    },
+    {
+      "label": "METHOD",
+      "text": "A cross-sectional observational study was executed in an Outpatient Rehabilitation Centre. Twenty-nine participants were included, 14 with PF, and 15 age-matched healthy asymptomatic individuals. Main outcome measures were foot pain, foot function index (FFI), static balance measured with modified Romberg test, static balance measured on the TYMO® system, and gait with the G-Walk System."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Foot pain and FFI were adversely related to balance and gait parameters in subjects with PF. Static balance with eyes open and eyes closed on firm and soft surface measured on the TYMO® balance platform as well as gait parameters measured with the G-Walk system, were significantly lower in subjects with PF compared to age-matched healthy controls."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "PF negatively affects parameters of static balance measured with TYMO® system and gait parameters measured with the G-Walk System. However, the Romberg balance test did not detect differences between subjects with PF and age-matched healthy controls."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

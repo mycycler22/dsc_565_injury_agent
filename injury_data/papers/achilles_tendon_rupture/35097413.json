@@ -1,0 +1,35 @@
+{
+  "pmid": "35097413",
+  "title": "Clinical Outcomes and Cadaveric Biomechanical Analysis of Endoscopic Percutaneous Achilles Tendon Rupture Repair With Absorbable Suture.",
+  "year": "2020",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Percutaneous repair of acute Achilles tendon rupture (ATR) continues to gain in popularity. The primary aim of the study was to review the outcomes of a patient cohort undergoing a novel technique of endoscopic percutaneous Achilles tendon repair with absorbable suture. A secondary purpose of this study was to evaluate the basic biomechanical properties of the technique."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cohort of 30 patients who underwent percutaneous ATR repair was retrospectively analyzed with Achilles Tendon Rupture Scores (ATRS), complications, and additional outcome measures. For a biomechanical analysis portion of the study, 12 cadaveric specimens were paired and randomized to either novel percutaneous repair or open Kessler repair with absorbable suture. These specimens were subjected to 2 phases of cyclical testing (100 cycles 10-43 N followed by 200 cycles 10-86 N) and ultimate strength testing."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the clinical portion of the study we report excellent patient reported outcomes (mean ATRS 94.1), high level of return to sport, and high patient satisfaction. One partial re-rupture was reported but with no major wound or neurologic complications. In the biomechanical portion of the study we found no significant difference in tendon gapping between percutaneous and open repairs in phase 1 of testing. In phase 2, increased gapping occurred between percutaneous (17.8 mm [range 10.7-24.1, SD 6.4]) and open repairs (10.8 mm [range 7.6-14.9, SD 2.7, <i>P</i> = .037]). The ultimate load at failure was not statistically different between the 2 repairs."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A percutaneous ATR repair technique using endoscopic assistance and absorbable suture demonstrated low complications and good outcomes in a cohort of patients, with high satisfaction, and excellent functional outcomes including high rates of return to sport. Cadaveric biomechanical testing demonstrated excellent survival during testing and minimal increase in gapping compared with open repair technique, representing sufficient strength to withstand forces seen in early rehabilitation. A percutaneous Achilles tendon repair technique with absorbable suture may minimize risks associated with operative repair while still maintaining the benefit of operative repair."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, retrospective case series."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

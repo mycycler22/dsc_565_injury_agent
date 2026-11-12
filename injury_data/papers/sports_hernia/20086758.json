@@ -1,0 +1,24 @@
+{
+  "pmid": "20086758",
+  "title": "The 'sports hernia': a common cause of groin pain.",
+  "year": "1998",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Athletes who participate in sports that require repetitive twisting and turning at speed, such as soccer or ice hockey, may be at risk of developing a 'sports hernia'-disruption of the inguinal canal without a clinically detectable hernia. Insidious onset of unilateral groin pain is the most common symptom. Concurrent pathologies, such as osteitis pubis and adductor tenoperiostitis, may complicate diagnosis. Plain radiographs and a bone scan can aid differential diagnosis, but herniography is not recommended. Surgery is the preferred treatment. Structured rehabilitation should enable athletes to return to sports activity 6 to 8 weeks after surgery."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Structured rehabilitation should enable athletes to return to sports activity 6 to 8 weeks after surgery."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

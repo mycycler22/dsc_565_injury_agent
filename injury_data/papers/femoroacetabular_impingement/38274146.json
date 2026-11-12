@@ -1,0 +1,43 @@
+{
+  "pmid": "38274146",
+  "title": "Arthroscopic Decompression of the Anterior Inferior Iliac Spine.",
+  "year": "2023",
+  "journal": "JBJS essential surgical techniques",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Pathologic contact between the femoral neck and anterior inferior iliac spine (AIIS or subspine) often occurs concomitantly with femoroacetabular impingement, contributing to hip pain and dysfunction<sup>1-4</sup>. We perform arthroscopic AIIS decompression to alleviate this source of extra-articular impingement and eliminate a potential cause of persistent pain following primary hip arthroscopy<sup>5-7</sup>."
+    },
+    {
+      "label": "DESCRIPTION",
+      "text": "After identifying abnormal AIIS morphology on preoperative false-profile radiographs and/or 3D computed tomography, we utilize a beaver blade to make a small incision in the proximal capsule and rectus femoris tendon. This peri-capsulotomy window grants access to the subspine region. We then shuttle an arthroscopic burr into place within this window and begin debriding the subspine deformity under direct visualization. Fluoroscopy is utilized intraoperatively to ensure adequate resection, using intraoperative false-profile views achieved by canting the C-arm approximately 40°. Resection is considered adequate when the AIIS deformity is no longer readily apparent on false-profile views and when intraoperative range-of-motion testing confirms no further impingement with hip hyperflexion."
+    },
+    {
+      "label": "ALTERNATIVES",
+      "text": "Femoroacetabular impingement can be treated nonoperatively with use of physical therapy and activity modification<sup>8</sup>; however, outcomes following nonoperative treatment are inferior to those following hip arthroscopy, according to various studies<sup>9-12</sup>. There are no known alternative treatments specific to subspine impingement."
+    },
+    {
+      "label": "RATIONALE",
+      "text": "As patients with subspine deformities progress through hip flexion, the femoral neck collides with the AIIS, limiting range of motion. As such, subspine deformities have been shown to be more common in dancers and other high-flexion athletes<sup>13,14</sup>. Additionally, studies have demonstrated that low femoral version of <5° is associated with increased contact between the distal femoral neck and the AIIS. This pathologic contact can occur even in the absence of an obvious subspine deformity<sup>15</sup>. In both of these patient populations, surgeons should have a high suspicion for subspine impingement, and a subspine decompression should be performed during hip arthroscopy in order to maximize patient outcomes."
+    },
+    {
+      "label": "EXPECTED OUTCOMES",
+      "text": "This is a safe procedure that, if performed when indicated, can improve outcomes following primary hip arthroscopy. A recent systematic review found a pooled complication risk of 1.1%, a pooled revision risk of 1.0%, and significant postoperative improvements in patient-reported outcome measures<sup>16</sup>."
+    },
+    {
+      "label": "IMPORTANT TIPS",
+      "text": "Suspect subspine impingement in high-flexion athletes and patients with low femoral version, even in the absence of an obvious deformity.Ensure adequate visualization of the entire subspine deformity by creating a pericapsular window.Confirm thorough resection with use of fluoroscopic imaging intraoperatively, including false-profile views demonstrating absent subspine deformity."
+    },
+    {
+      "label": "ACRONYMS AND ABBREVIATIONS",
+      "text": "FAI = femoroacetabular impingementAP = anteroposterior, refers to the technique used to obtain one of the pelvic radiographs3D CT = three-dimensional computed tomographyLCEA = lateral center-edge angle, a measurement used to quantify severity of hip dysplasiaOR = operating roomAlpha = alpha angle, a measurement used to measure femoral head-neck offset and assess the severity of a cam deformityIc = iliocapsularisRFd = direct head of rectus femorisRFr = reflected head of rectus femorisCap = hip capsuleGMi = gluteus minimusmHHS = modified Harris Hip ScoreHOS-ADL = Hip Outcome Score - Activities of Daily LivingHOS-SSS = Hip Outcome Score - Sports Specific Subscale."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

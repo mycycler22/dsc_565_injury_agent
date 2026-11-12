@@ -1,0 +1,32 @@
+{
+  "pmid": "42110359",
+  "title": "Case Report: Unilateral resistance and impact loading during knee rehabilitation after grade-2 MCL injury was associated with hip-specific aBMD accrual in an elite female road cyclist.",
+  "year": "2026",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Low areal bone mineral density (aBMD) is prevalent in elite road cyclists due to non-weight-bearing training loads and, at times, low energy availability (EA). Real-world, site-specific skeletal responses to targeted loading during rehabilitation remain insufficiently characterized."
+    },
+    {
+      "label": "CASE PRESENTATION",
+      "text": "A 24-year-old WorldTour-level female road cyclist with low aBMD (Z-score ≤ -1.1) initiated a periodized resistance and impact loading program and daily vitamin D (800 IU). Three fasted-morning DXA and venous blood assessments (Oct-2024; Mar-2025; May-2025) were paired with training logs, dual-sided crank data, menstrual tracking, and weighed diet records. Five days after second DXA, a left grade-2 medial collateral ligament knee sprain precluded loading of the injured limb for ∼11 weeks; rehabilitation emphasized heavy unilateral resistance work of the contralateral limb while cycling volume was maintained."
+    },
+    {
+      "label": "RESULTS",
+      "text": "From baseline to pre-injury, lumbar and bilateral femoral aBMD increased (all ≥least significant change, LSC). During unilateral rehabilitation, only the trained femur accrued further aBMD (total hip +2.8%; neck +3.8%; both ≥LSC), whereas the injured femur was stable/slightly lower (≤LSC). Whole-body BMD rose further; and leg-specific lean mass diverged (+uninjured/-injured). Right-leg pedal dominance (∼52%-54%) was similar in the 2024 and 2025 seasons, making cycling-related asymmetry an unlikely explanation for the March-May divergence. Across the three sampling time points, cortisol, 25-hydroxyvitamin D, thyroid hormones, and sex hormones were within reference ranges. Menstrual bleeding reappeared in late November 2024 but remained irregular; EA before baseline was frequently low, and after baseline it was assessed once and appeared higher, but no temporal trend can be inferred."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Progressive resistance and impact loading were associated with rapid bilateral aBMD accrual pre-injury, and unilateral high-strain loading during knee rehabilitation after a grade-2 MCL sprain coincided with site-specific increases in femoral aBMD despite preserved cycling volume. These findings highlight rehabilitation periods as practical windows to deliver targeted bone-loading in non-weight-bearing endurance athletes and support the feasibility of brief, targeted bone-loading as an in-season maintenance strategy, while contributions from energetic and reproductive factors cannot be excluded."
+    }
+  ],
+  "injury_query": "MCL sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "9421865",
+  "title": "Stress fractures in female athletes. Diagnosis, management and rehabilitation.",
+  "year": "1997",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Stress fractures are a common overuse injury among athletes. The incidence of stress fractures among females is higher in the military, but this difference is not as evident in the athletic population. The history of the patient with stress fracture is typically one of insidious onset of activity-related pain. If the patient continues to exercise, the pain may well become more severe or occur at an earlier stage of exercise. As well as obtaining a history of the patient's pain and its relation to exercise, it is important to determine the presence of predisposing factors. On physical examination, the most obvious feature is localised bony tenderness. Occasionally, redness, swelling or periosteal thickening may be present at the site of the stress fracture. The diagnosis of stress fracture is primarily a clinical one; however, if the diagnosis is uncertain, various imaging techniques can be used to confirm the diagnosis. In the majority of stress fractures, there is no obvious abnormality on plain radiograph. Although the triple phase bone radiograph is extremely sensitive, the fracture itself is not visualised and it may be difficult to precisely locate the site, especially in the foot. The radionuclide scan will detect evolving stress fractures at the stage of accelerated remodelling, so the findings must be closely correlated with the clinical picture. The characteristic bone scan appearance of a stress fracture is of a sharply marginated area of increased uptake, usually involving one cortex of the bone. Computerised tomography scanning is a helpful addition if the fracture needs to be visualised, or to distinguish between a stress reaction and stress fracture. Magnetic resonance imaging (MRI) is being used increasingly as the investigation of choice for stress fractures. The typical findings on MRI are of periosteal and marrow oedema, as well as fracture line. The basis of treatment of a stress fracture involves rest from the aggravating activity. Most stress fractures will heal in a straightforward manner, and return to sport occurs within 6 to 8 weeks. The rate of resumption of activity should be influenced by symptoms and physical findings. When free of pain, the aggravating activity can be resumed and slowly increased. It is important that the athlete with a stress fracture maintain fitness during this period of rehabilitation. The most commonly used methods are cycling, swimming, upper body weights and water running. There are a number of specific stress fractures that require additional treatment because of a tendency to develop delayed union or nonunion. These include stress fractures of the neck of the femur, anterior cortex of the tibia, navicular and second and fifth metatarsals. An essential component of the management of stress fractures, as with any overuse injury, involves identification of the factors that have contributed to the injury and, where possible, correction or modification of some of these factors to reduce the risk of the injury recurring. Stress fractures are more common in female athletes with menstrual disturbances. This may be due to the effect on bone density. The role of hormonal replacement in the management of these athletes is unclear at this stage."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Most stress fractures will heal in a straightforward manner, and return to sport occurs within 6 to 8 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

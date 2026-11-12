@@ -1,0 +1,41 @@
+{
+  "pmid": "42814735",
+  "title": "Clinical outcomes of hyaluronic acid-sorbitol injection in athletes with patellofemoral pain: Evaluation of the potential influence of body mass index.",
+  "year": "2026",
+  "journal": "PloS one",
+  "pub_types": [
+    "Clinical Trial, Phase II",
+    "Clinical Trial, Phase III",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain (PFP) is a frequent cause of activity-related knee pain and functional limitation in athletic populations. Elevated body mass index (BMI) may contribute to patellofemoral joint loading, but evidence on hyaluronic acid-sorbitol injection outcomes in athletes with elevated BMI remains limited."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To describe longitudinal changes in knee function and symptoms over 6 months after intra-articular hyaluronic acid-sorbitol injection in athletes with PFP, and to explore whether baseline BMI was associated with post-injection improvement."
+    },
+    {
+      "label": "METHODS",
+      "text": "This prospective, single-arm, non-randomized interventional study included 60 athletes aged 30-55 years who received a single 4 mL intra-articular hyaluronic acid-sorbitol injection. IKDC and KOOS scores were assessed at baseline, 15 days, 3 months, and 6 months. Longitudinal changes were evaluated using linear mixed models, with generalized estimating equations as a sensitivity analysis; exploratory regression and subgroup analyses assessed the association between BMI and improvement."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Mean IKDC and KOOS scores increased from baseline to 6 months, with estimated changes of +18.58 points for IKDC (95% CI 16.81-20.36) and +19.28 points for KOOS (95% CI 17.52-21.04; both p < 0.001). At 6 months, 75.0% of participants reached the predefined IKDC threshold for clinically meaningful improvement and 83.3% reached the KOOS threshold. Participants with BMI ≥ 25 kg/m2 also showed within-group improvement. BMI was not independently associated with improvement rate after adjustment for baseline score; however, the small elevated-BMI subgroup (n = 22) limited these exploratory comparisons, and a clinically relevant difference could not be excluded. Minor local adverse events occurred in 4 of 60 participants and resolved with cryotherapy."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes with PFP, including those with elevated BMI, showed consistent improvement in knee function and symptoms over 6 months following hyaluronic acid-sorbitol injection. These findings support intra-articular hyaluronic acid-sorbitol as a feasible, well-tolerated option for athletes with PFP, regardless of body weight. Controlled trials are needed to confirm the treatment's contribution, given the single-arm design."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "CEI/0504/PI/2022; ClinicalTrials.gov NCT05450458."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

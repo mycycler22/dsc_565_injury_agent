@@ -1,0 +1,32 @@
+{
+  "pmid": "36877125",
+  "title": "Stress fracture of the manubrium sterni during parallel bar dips.",
+  "year": "2023",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Stress fractures are common in highly active people, such as athletes or those in the military. They occur frequently in the lower extremities but sternal stress fractures are rare injuries."
+    },
+    {
+      "label": "METHODS",
+      "text": "We present a case of a young male who reported no pain and a 'click' sound from the front of the chest while training with parallel bar dips with a grip that was wider than shoulder-width apart."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In this case, radiological evaluation was the most helpful tool to diagnose manubrium sterni stress fracture. We advised him to rest but he started exercises immediately because he had to participate in a military camp after the injury. The patient was treated conservatively. The treatment consisted of activity modification and supplemental drugs."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "We report a case of manubrium stress fracture that developed in a young male military recruit."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

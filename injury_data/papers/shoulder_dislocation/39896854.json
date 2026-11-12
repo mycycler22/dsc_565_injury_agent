@@ -1,0 +1,36 @@
+{
+  "pmid": "39896854",
+  "title": "Psychological readiness of return to sport after arthroscopic Bankart repair: A systematic review.",
+  "year": "2025",
+  "journal": "Journal of orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Surveys such as the Shoulder Instability-Return to Sport after Injury (SIRSI) scores can help identify athletes who are better prepared to return to sport (RTS) after arthroscopic Bankart repair (ABR). Therefore, the purpose of this systematic review was to clarify how psychologically ready athletes are to RTS after ABR, with the secondary purpose of evaluating the impact of psychological readiness on athletes' ability to RTSS after ABR."
+    },
+    {
+      "label": "METHODS",
+      "text": "The Ovid Medline, PubMed, and SportDiscus databases were searched from inception until January 2023 using keywords such as Bankart, anterior labral repair, shoulder stabilization, return to play, and return to sport. Original studies were included if both RTS outcomes after ABR and a psychological factor were reported, with potential psychological factors being psychological readiness to RTS and reasons of failing to RTS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 707 studies were screened and 16 met criteria for inclusion. The mean MINORS score of included studies was 13.3 ± 4.1. In patients who failed to RTS, most (74 %) patients failed due to recurrent shoulder instability, pain, or injury, while 26 % reported failing to RTS due to non-shoulder related causes such as apprehension and fear of reinjury. Eight studies evaluated post-operative SIRSI scores with a mean of 65.4 (95 % CI: 62.9-72.8) at an average of 5.4 years post-operatively."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Most athletes fail to RTS due to shoulder-related causes, with apprehension and fear of reinjury as common causes as shoulder-independent causes for failed RTS. The mean SIRSI score after ABR was 65.4, and athletes with higher post-operative SIRSI scores were more likely to RTS."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

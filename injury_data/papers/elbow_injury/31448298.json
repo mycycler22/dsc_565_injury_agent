@@ -1,0 +1,39 @@
+{
+  "pmid": "31448298",
+  "title": "Elbow Injuries in National Collegiate Athletic Association Athletes: A 5-Season Epidemiological Study.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Little research has focused on the rates and patterns of elbow injuries in National Collegiate Athletic Association (NCAA) student-athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the epidemiological patterns of elbow injuries in NCAA athletes during 5 seasons over the academic years 2009 through 2014 using the NCAA Injury Surveillance Program (NCAA-ISP) database."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A voluntary convenience sample of NCAA varsity teams from 11 sports was examined to determine the rates and patterns of elbow injuries. Rates and distributions of elbow injuries were identified within the context of sport, event type, time in season, mechanism, time lost from sport, surgical treatment, and injury type. Rates of injury were calculated as the number of injuries divided by the total number of athlete-exposures (AEs). An AE was defined as any student participation in 1 NCAA-sanctioned practice or competition with an inherent risk of exposure to potential injury. Injury rate ratios (IRRs) and injury proportion ratios (IPRs) were then calculated to compare the rates within and between sports by event type, season, sex, mechanism, surgical treatment, and time lost from sport. Comparisons between sexes were made using only sports data that had both male and female samples."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 373 elbow injuries were reported in the NCAA-ISP data set during the 2009-2010 through 2013-2014 academic years among 11 varsity sports. The overall rate of injury was 1.76 per 10,000 AEs. The rate of elbow injuries in men was 0.74 per 10,000 AEs, while women experienced injuries at a rate of 0.63 per 10,000 AEs. In sex-comparable sports, men were 1.17 times more likely to experience an elbow injury compared with women. Men's wrestling (6.00/10,000 AEs) and women's tennis (1.86/10,000 AEs) were the sports with the highest rates of elbow injuries by sex, respectively. The top 3 highest injury rates overall occurred in men's wrestling, baseball, and tennis. Elbow injuries were 3.5 times more likely to occur during competition compared with practice. Athletes were 0.76 times less likely to sustain an elbow injury during the preseason compared with in-season. Contact events were the most common mechanism of injury (67%). For sex-comparable sports, men were 2.41 times more likely than women to have contact as their injury mechanism (95% CI, 0.78-7.38). The majority of athletes missed less than 24 hours of participation time (67%), and only a minority (3%) of patients with elbow injuries went on to have surgical intervention. Elbow ulnar collateral ligament injuries were most common (26% of total injuries)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Analysis of the study data demonstrated a significant rate of elbow injuries, 1.76 injuries per 10,000 AEs in NCAA collegiate athletes. Higher injury rates can be expected in males within sex-comparable sports. Elbow injuries are most common in the setting of competitions and most commonly occur secondary to contact-type mechanisms. Injuries were more likely to occur during in-season play. The majority of injuries required less than 24 hours of time away from sport and did not require surgical intervention."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

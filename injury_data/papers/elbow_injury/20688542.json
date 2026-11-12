@@ -1,0 +1,36 @@
+{
+  "pmid": "20688542",
+  "title": "Acute, avulsion fractures of the medial epicondyle while throwing in youth baseball players: a variant of Little League elbow.",
+  "year": "2010",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "HYPOTHESIS",
+      "text": "The young throwing athlete is susceptible to medial elbow injury due to valgus overload. We hypothesized that this injury can occur during the throwing motion with an acute episode of medial elbow pain resulting in an inability to effectively participate in throwing activities. In addition, appropriate treatment of acute, medial epicondyle avulsion fractures in baseball players can result in an asymptomatic elbow with subsequent return to play within a year of injury."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "A case series of all youth baseball players with medial epicondyle avulsion fractures that occurred while throwing were identified. We studied several variables, including demographics, adherence to USA Baseball youth pitching recommendations, clinical history, radiographic findings, treatment, and outcome."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eight skeletally immature baseball players, who were a mean age of 13 years (range, 11-15 years), presented with medial epicondyle fractures that occurred while throwing. All 8 players experienced sudden pain during throwing, and all 5 players with appropriate age and position qualifications did not conform to the USA Baseball youth pitching recommendations. Anteroposterior radiographs documented average fracture displacement of 5.1 mm (range, 2.5-10 mm). Five of 8 players had 5 mm or less of displacement and were selected for nonoperative treatment. Three of 8 players had more than 5 mm of displacement and underwent open reduction and internal fixation. All players were able to return to play at an average of 7.6 months (range, 4-10 months)."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Medial epicondyle avulsion fractures can occur with a characteristic acute presentation while throwing in youth baseball players. Prevention may be possible when conforming to established USA Baseball youth pitching recommendations. Once an acute medial epicondyle avulsion fracture occurs, these injuries may be managed using published treatment algorithms, with successful return to play in less than 1 year."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "All players were able to return to play at an average of 7.6 months (range, 4-10 months)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

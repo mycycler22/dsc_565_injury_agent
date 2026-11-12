@@ -1,0 +1,35 @@
+{
+  "pmid": "34280288",
+  "title": "Epidemiology of Injuries in National Collegiate Athletic Association Men's Basketball: 2014-2015 Through 2018-2019.",
+  "year": "2021",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Basketball has remained a popular sport for players and spectators in the United States since before the first National Collegiate Athletic Association men's championship tournament in 1939."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "Routine examinations of men's basketball injuries are important for identifying emerging temporal patterns."
+    },
+    {
+      "label": "METHODS",
+      "text": "Exposure and injury data collected in the National Collegiate Athletic Association Injury Surveillance Program during 2014-2015 through 2018-2019 athletic seasons were analyzed. Injury counts, rates, and proportions were used to describe injury characteristics, and injury rate ratios were used to examine differences in injury rates."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall injury rate was 7.28 per 1000 athlete exposures, with competition rates twice those of practices (injury rate ratio = 2.07; 95% CI = 1.93, 2.22). Injuries to the ankle (22.2%), knee (13.0%), head/face (11.3%), and hand/wrist (10.1%) accounted for most reported injuries, with sprains (30.4%), contusions (14.3%), and strains (13.9%) most commonly reported. Ankle sprain rates initially trended upward and decreased between 2017-2018 and 2018-2019; concussion rates remained relatively stable during 2014-2015 through 2018-2019."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Findings suggest that common injury rates are trending downward relative to previous study findings."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

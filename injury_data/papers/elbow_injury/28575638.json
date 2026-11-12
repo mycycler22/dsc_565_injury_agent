@@ -1,0 +1,44 @@
+{
+  "pmid": "28575638",
+  "title": "Elbow Injuries in Professional Baseball: Epidemiological Findings From the Major League Baseball Injury Surveillance System.",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Elbow injuries cause significant disability for the throwing athlete. Scant data are available on the distribution and characteristics of these injuries in elite baseball players. No study exists that focuses solely on the epidemiological characteristics of elbow injuries in professional baseball players using a comprehensive injury surveillance system."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Professional baseball players have a high occurrence of elbow injuries influenced by factors including length of time playing, time period within the annual baseball season, and specific position played."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiological study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data on elbow injuries occurring during the 2011-2014 seasons were collected from Major League Baseball's Health Injury and Tracking System, a comprehensive injury surveillance system. Each specific type of elbow injury was evaluated with respect to overall injury rate, years as a professional player, mechanism of injury, treatment, average time lost, and return to play."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the study period, 3185 elbow injuries (n = 430 Major League; n = 2755 Minor League) occurred. The mean number of days missed and percentage requiring surgery were similar between Major and Minor League players. Overall, 20.0% (650/3185) of the injuries required surgical treatment. Pitchers were the most likely to incur an elbow injury (40.0% of injured athletes were pitchers), were the most likely to require surgery (34.2% of injured pitchers required surgery), and had the greatest mean number of days missed when treated nonsurgically (33.2 days). Medial injuries composed 42.1% (1342/3185) of all elbow injuries. Of all elbow surgeries performed during the study period, the highest percentage involved ligaments (372/650; 57.2%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Elbow injuries are a considerable source of disability in professional baseball players. Pitchers are most likely to incur these injuries, are most likely to require surgery, and have the highest mean number of days missed when treated nonsurgically. The most common injuries involve the medial elbow, with ligament injuries most often requiring surgery. This study represents the only investigation to date using a comprehensive injury surveillance system to examine elbow injuries in professional baseball players. It provides a basis for injury prevention and treatment recommendations, establishes the most thorough framework for determining elbow injury risk, and focuses continued research on elbow injury prevention in the elite baseball player."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Pitchers were the most likely to incur an elbow injury (40.0% of injured athletes were pitchers), were the most likely to require surgery (34.2% of injured pitchers required surgery), and had the greatest mean number of days missed when treated nonsurgically (33.2 days)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "40474355",
+  "title": "Return to Sport and Radiographic Postoperative Outcomes After Grade 3 Turf Toe Surgical Repair.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Turf toe is a plantar plate injury of the first metatarsophalangeal joint that commonly occurs in athletes participating in outdoor cutting sports. However, there is a lack of evidence-based consensus on treatment guidelines and surgical outcomes in the current literature."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to report on postoperative clinical outcomes and return to sport for athletic patients treated for both acute and chronic grade 3 turf toe injuries at the authors' institution. It was hypothesized that patients would have significant improvement in pre- to postoperative clinical outcomes and quickly return to sport after surgical repair."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "The records of patients who received plantar plate repair at the first metatarsophalangeal joint between February 2016 to July 2022 by 3 fellowship-trained foot and ankle orthopaedic surgeons were reviewed. Inclusion criteria included athletes of at least high school-level competition who underwent plantar plate repair for a primary diagnosis of turf toe injury. Excluded were patients with histories of ipsilateral forefoot surgeries, rheumatoid arthritis, or gout. In total, 28 patients were identified and screened for inclusion. Patient-reported outcomes via Patient-Reported Outcomes Measurement Information System (PROMIS) scores were collected preoperatively and at least 1 year postoperatively for all patients. Return-to-sport data were collected via telephone call. Bilateral preoperative and postoperative radiographs were analyzed to measure preoperative and postoperative sesamoid diastasis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The improvement in pre- to postoperative PROMIS scores was found to be significant for Physical Function, Pain Interference, Pain Intensity, and Global Physical Health. A total of 21 return-to-sport surveys were completed from the patient cohort. Nineteen of 21 (90.5%) of patients were able to return to preinjury levels of physical competition. The mean time to return to sport was 20.4 weeks (range, 12-32 weeks). Both medial and lateral sesamoids demonstrated a significant pre- to postoperative improvement in sesamoid diastasis. No difference in outcomes was observed between acute and chronic injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patients who received plantar plate repair for a grade 3 turf toe injury demonstrated significant improvement in patient-reported outcomes and were able to quickly return to sport at a high rate."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to return to sport was 20.4 weeks (range, 12-32 weeks)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

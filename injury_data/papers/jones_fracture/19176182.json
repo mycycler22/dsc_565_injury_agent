@@ -1,0 +1,39 @@
+{
+  "pmid": "19176182",
+  "title": "Comparison of 4.5- and 5.5-mm cannulated stainless steel screws for fifth metatarsal Jones fracture fixation.",
+  "year": "2009",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Complications including delayed and nonunions, and extensive time nonweightbearing with conservative treatment of fifth metatarsal Jones fractures, have led authors to recommend surgical fixation for this fracture in athletes who wish to return to activity quickly. The optimal surgical procedure, however, has not been determined. The purpose of this study was to evaluate the effectiveness of 5.5-mm cannulated screw fixation for fifth metatarsal stress fractures in athletes and compare them to an earlier cohort treated with a 4.5-mm screw."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Twenty athletes were treated surgically with a 5.5-mm cannulated screw and postoperatively wore a removable walking boot, applied cold compression, initiated immediate range of motion, and used crutches for 1 week. Fractures were evaluated for clinical and radiographic healing. These findings were compared to a group that used 4.5-mm screws."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Average radiographic healing was 96.7% and all fractures healed clinically. Athletes returned to sports in an average of 9.3 weeks. There were three re-injuries that were treated with 2 weeks in a walking boot. No patients have required screw removal or have experienced pain at the hardware site, besides the three re-injuries. When compared to the earlier study, no differences were found. However, there were no re-fractures in the 4.5-mm study, but there were three bent screws."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current study demonstrates the clinical effectiveness of the 5.5-mm screw. However, with the numbers available, we were unable to demonstrate significant improvement over the 4.5-mm screw and thus cannot conclude that a larger screw is more effective."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Athletes returned to sports in an average of 9.3 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

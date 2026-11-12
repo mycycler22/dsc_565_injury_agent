@@ -1,0 +1,35 @@
+{
+  "pmid": "42748773",
+  "title": "Epidemiology of sports- and recreation-related shoulder and elbow injuries in older adults presenting to emergency departments in the United States between 2010 and 2024.",
+  "year": "2026",
+  "journal": "Injury",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Participation in sports and recreational activity among adults aged 65 years and older continues to increase, yet contemporary data on shoulder and elbow injury patterns in this population remain limited. This study aimed to characterize national trends in demographics, diagnoses, seasonality, and sport-specific injury risk."
+    },
+    {
+      "label": "METHODS",
+      "text": "The National Electronic Injury Surveillance System was queried from 2010 to 2024 for adults aged ≥ 65 years presenting with sports- or recreation-related shoulder or elbow injuries. Demographics, diagnoses, injury mechanisms, temporal trends, and sport-specific fracture risk were evaluated. Logistic regression assessed sex-specific odds, and narrative text was analyzed using tidytext."
+    },
+    {
+      "label": "RESULTS",
+      "text": "An estimated 248,207 shoulder and 106,031 elbow injuries occurred nationally. Males accounted for 63.8% of shoulder and 60.3% of elbow injuries. Fractures (26.5%) and strains or sprains (24.0%) predominated in shoulder injuries, while fractures represented 32.1% of elbow cases. From 2010-2024, the proportion of these injuries increased, comprising approximately 8% of all emergency visits by 2024. Bicycling was the most common mechanism for both joints, followed by general exercise and weightlifting. Shoulder and elbow injuries peaked in summer months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Sports-related shoulder and elbow injuries in older adults are rising, with fractures contributing substantially to injury burden."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

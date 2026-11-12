@@ -1,0 +1,19 @@
+{
+  "pmid": "34402404",
+  "title": "Can the history of injury influence shoulder isokinetic torque parameters in volleyball players?",
+  "year": "2024",
+  "journal": "Sports biomechanics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The aim of the present study was to compare shoulder internal rotator and external rotator isokinetic parameters in concentric and eccentric contractions between volleyball players with and without a history of shoulder injury. Thirty male volleyball players participated of this study, divided into two groups: with a history of injury (WHI) in the dominant shoulder (11 athletes; age: 19.4 ± 3.6 years) and no history of injury (NHI) (19 athletes; age: 18.3 ± 2.9 years). The peak torque (PT) and concentric (Con) and eccentric (Ecc) PT angles in internal (IR) and external rotation (ER) at velocities of 60 and 180°/s were measured. The conventional (Con_ER:Con_IR), functional spiking (Ecc_ER:Con_IR), and cocking ratios (Ecc_IR:Con_ER) were calculated. No significant differences were found between groups for PT and PT angle, or for conventional, functional spiking, and cocking ratios. However, the spiking ratio was considered low (0.87) in the WHI group. Moreover, for the spiking ratio in the WHI group, PT at 60°/s occurred at different angles. We conclude that previous injury in shoulder did not affect the peak torque, as well as conventional, spiking or cocking ratio. However, the PT angles at 60°/s used to calculate the spiking ratio shifted due the prior injury."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

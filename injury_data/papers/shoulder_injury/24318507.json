@@ -1,0 +1,35 @@
+{
+  "pmid": "24318507",
+  "title": "Trends in the diagnosis of SLAP lesions in the US military.",
+  "year": "2015",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Shoulder pathology, particularly SLAP (superior labrum anterior-posterior) lesions, is prevalent in overhead athletes and physically active individuals. The aim of this study is to quantify the burden of SLAP lesions in the military and establish risk factors for diagnosis."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective analysis of all service members diagnosed with a SLAP lesion (International Classification of Disease, Ninth Revision code 840.70) in the Defense Medical Epidemiological Database between 2002 and 2009 was performed. Available epidemiological risk factors including age, sex, race, military rank, and branch of service were evaluated using multivariate Poisson regression analysis, and cumulative and subgroup incidence rates were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the study period, approximately 23,632 SLAP lesions were diagnosed among a population at risk of 11,082,738, resulting in an adjusted incidence rate of 2.13 per 1,000 person-years. The adjusted annual incidence rate for SLAP lesions increased from 0.31 cases per 1,000 person-years in 2002 to 1.88 cases per 1,000 person-years in 2009, with an average annual increase of 21.2 % (95 % CI 20.7 %, 22.0 %, p < 0.0001) during the study period. Age, sex, race, branch of military service, and military rank were independent risk factors associated with the incidence rate of SLAP lesion (p < 0.01). Male service members were over twofold more likely (IRR, 2.12; 95 % CI 2.01, 2.23) to sustain a SLAP lesion when compared with females. Increasing age category was associated with a statistically significant increase in the incidence rate for SLAP lesions in the present study (p < 0.001). After controlling for the other variables, those individuals of white race, enlisted ranks, or Marine Corps service experienced the highest incidence rates for SLAP."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This is the first study to establish the epidemiology of SLAP lesions within an active military cohort in the American population. Sex, age, race, military rank, and branch of military service were all independently associated with the incidence rate of SLAP lesions in this physically active population at high risk for shoulder injury."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "II."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "31265789",
+  "title": "Sacral Stress Fractures: A Rare but Curable Cause of Back Pain in Athletes.",
+  "year": "2019",
+  "journal": "Sports health",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Stress fractures of the sacrum are an uncommon cause of low back and buttock pain in athletes. They have been described in a few case reports, with the injury occurring most often in female distance runners. Given the rarity of this condition, there is a general lack of awareness of this injury, which may lead to a missed or delayed diagnosis."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 5."
+    },
+    {
+      "label": "METHODS",
+      "text": "The 5 cases were identified by performing a medical records search within the practices of the senior authors over a 3-year period from January 2016 to December 2018."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Three of 5 patients (1 male, 2 females) returned to regular activity after diagnosis and treatment. Two (1 male, 1 female) have yet to return to regular activity. Magnetic resonance imaging was the key modality in all diagnoses. All 3 female patients had components of the female athlete triad-menstrual irregularity, disordered eating, and decreased bone mineral density."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A high index of suspicion is required to make the correct diagnosis and initiate treatment for this rare condition given its association with low body mass index, vitamin D insufficiency, disordered eating, and malabsorption disorders. Appropriate treatment includes rest from the causative activity, nutritional support, and biomechanical optimization. In severe, chronic, or recurrent cases, referral for nutritional counseling, hormonal replacement therapies, and mental health support may be necessary."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Sacral stress fractures, though uncommon, should be included prominently in the differential diagnosis for runners with low back pain, especially if the athlete has a history of prior stress fracture or the female athlete triad."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

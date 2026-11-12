@@ -1,0 +1,4 @@
+Title: Sport-Specific Recovery Trajectories for NCAA Collegiate Athletes Following Concussion. | Type: Journal Article | PMID: 37962676 | Year: 2024 | Injury query: concussion
+[UNLABELED] Across all sports, median time to asymptomatic following SRC ranged from 5.9 (female basketball) to 8.6 days (male wrestling).
+[UNLABELED] Median RTP protocol duration ranged from 4.9 days (female volleyball) to 6.3 days (male wrestling).
+[UNLABELED] Median total RTP days ranged from 11.2 days (female lacrosse) to 16.9 days (male wrestling).

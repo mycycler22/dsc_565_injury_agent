@@ -1,0 +1,31 @@
+{
+  "pmid": "24807228",
+  "title": "Assessment of neuromuscular risk factors for anterior cruciate ligament injury through tensiomyography in male soccer players.",
+  "year": "2015",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the role of mechanical and contractile properties of skeletal muscles of the thigh, assessed through tensiomyography (TMG), as risk factors for anterior cruciate ligament (ACL) injury in male soccer players."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male soccer players with confirmed ACL tear included in this study underwent resting TMG assessment of thigh muscles of the uninjured side. The same values were obtained from a sex-, sports level-matched control group in both sides. The maximal displacement (Dm), delay time (Td), contraction time (Tc), sustained time (Ts), and half-relaxation time (Tr) were obtained for the following muscles in all subjects: vastus medialis (VM), vastus laterals (VL), rectus femoris (RF), semitendinosus (ST), and biceps femoris (BF). TMG values of the uninjured side in ACL-injured group were compared to mean values between both sides in the control subjects."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 40 ACL-injured and 38 control individuals. The vast majority of TMG parameters were higher in the uninjured side of ACL-injured individuals compared to the control group. The VL-Tr, RF-Tc, RF-Ts, RF-Tr, and BF-Dm values were significantly higher in the uninjured side compared to the control group. Quadriceps muscles demonstrated more significant between-group differences than hamstring muscles. Specifically, RF was the muscle where most significant between-group differences were found."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Resistance to fatigue and muscle stiffness in the hamstring muscles may be risk factors for ACL injury in male soccer players. In addition, a predominant impairment in TMG characteristics of the quadriceps over hamstrings may indicate an altered muscular co-contraction (imbalance) between both muscle groups, which might be another risk factor for ACL injury in this population. These findings should be taken into account when screening athletes at high risk of ACL injury and also to design adequate prevention programs for ACL injury in male soccer players."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

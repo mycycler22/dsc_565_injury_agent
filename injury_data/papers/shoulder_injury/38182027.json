@@ -1,0 +1,37 @@
+{
+  "pmid": "38182027",
+  "title": "Analysis of reasons for failure to return to sport after Latarjet surgery: a systematic review.",
+  "year": "2024",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The purpose of this study was to perform a systematic review of the literature to identify Shoulder Instability Return to Sport after Injury (SIRSI) scores in athletes who underwent open Latarjet surgery, determine the reasons why athletes failed to return to play (RTP) after Latarjet surgery, and compare SIRSI scores of those who did vs. did not RTP."
+    },
+    {
+      "label": "METHODS",
+      "text": "According to PRISMA guidelines, the PubMed, SportDiscus, and Ovid MEDLINE databases were queried to identify studies evaluating return to sport after Latarjet surgery. Study quality was assessed using the MINORS criteria. Studies were included if RTP after Latarjet surgery and a psychological factor were evaluated, with potential psychological factors including readiness to RTP and reasons for failure to RTP."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fourteen studies, 10 of level III evidence and 4 of level IV evidence, with 1034 patients were included. A total of 978 athletes were eligible to RTP. Of these, 792 (79%) successfully returned to play and 447 (56.4%) returned to play at their previous level of play. Mean RTP time was 6.2 months. Postoperative SIRSI scores averaged 71.2 ± 8.8 at a mean of 21 months' follow-up. Postoperative SIRSI scores for those able to RTP was 73.2, whereas athletes unable to RTP scored an average of 41.5. Mean postoperative SIRSI scores for those in contact sports was 71.4, whereas those in noncontact sports was 86.5. There were 31 athletes with a documented reason why they did not RTP, with postoperative shoulder injury being the most common reason (54.5%). Fear of reinjury and feeling \"not psychologically confident\" each represented 6.5% of the total."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes who RTP have higher average SIRSI scores than those who are unable to RTP. Of the athletes who documented why they did not RTP, more than half cited a shoulder injury as their reason for not returning to play, whereas fear of reinjury and lack of psychological readiness were other common reasons."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mean RTP time was 6.2 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

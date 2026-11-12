@@ -1,0 +1,39 @@
+{
+  "pmid": "40322523",
+  "title": "The Effect of Single Leg Romanian Deadlift on the Risk of Hamstring Strain Injuries in Track and Field Athletes: A Cohort Study.",
+  "year": "2025",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND PURPOSE",
+      "text": "Hamstring strain injury (HSI) is a particularly significant problem in track and field events. In recent years, it has been recommended that the Nordic hamstring exercise (NHE) be included as part of an HSI prevention program, along with warm-up. However, NHE has low compliance because of various disadvantages. Therefore, we focused on Single-leg Romanian Deadlift (SLRDL) as an alternative to NHE. The purpose of this study was to examine the effect of the SLRDL on the risk of HSI."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male and female high school track athletes were recruited to participate across control and intervention seasons. The intervention added the SLRDL (3 sets x 3 reps) to the standard warm-up. An athletic trainer recorded HSI based on established criteria and athlete-hours. HSI incidence per 1000 athlete-hours and severity (by return-to-training time) were compared between seasons. Athletes filled out a compliance questionnaire after the intervention season. Risk ratios (RR) were examined for each severity of HSI between the control season and the intervention season."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seventy-seven athletes from one high school track and field team participated. The risk of mild to moderate HSI was reduced between the control and intervention seasons (RR = 0.34, 95% confidence interval [CI]: 0.12-0.94) but no there was no significant effect on severe cases (RR = 2.84, 95% CI: 0.30-27.28). Compliance with SLRDL was 98.67%, indicating its potential as an easily implemented prevention program."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Despite the effect of the SLRDL in reducing the risk of mild to moderate NHE, the lower intensity of the SLRDL compared with NHE might have limited its effectiveness in reducing the risk of severe HSI. Further research is recommended to optimize HSI prevention programs, considering the use of the SLRDL as an introductory measure rather than a complete alternative to the NHE."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "3."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

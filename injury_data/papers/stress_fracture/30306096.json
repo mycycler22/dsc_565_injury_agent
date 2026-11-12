@@ -1,0 +1,40 @@
+{
+  "pmid": "30306096",
+  "title": "Stress Fractures of the Elbow in the Throwing Athlete: A Systematic Review.",
+  "year": "2018",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Stress fractures of the elbow are rare in throwing athletes and present a challenge from both a management and rehabilitation perspective. Although the incidence of stress fractures of the elbow is increasing, there is a lack of data in the literature focused on throwers."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate studies regarding the management and outcomes of stress fractures of the elbow in throwing athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was conducted by searching the Scopus, PubMed, and Cochrane Library electronic databases to identify studies reporting on the management and outcomes of stress fractures in overhead-throwing athletes. Management data included nonoperative and operative modalities, and outcome data included return to play, encompassing the timing and level of activity. Studies were excluded if the stress fracture of the elbow was not a result of a sport injury attributed to throwing or if the study failed to report whether an athlete returned to play."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fourteen studies met the inclusion criteria and were included in this analysis. There were 52 patients in total (50 male, 2 female) with a mean age of 19.7 years (range, 13-29.1 years). The olecranon was the most common location of the stress fracture (51 patients; 98.1%), followed by the distal humerus (1 patient; 1.9%). The majority of patients (n = 40; 76.9%) were treated operatively. Of the 40 patients who were treated surgically, 14 (35.0%) underwent a period of conservative treatment preoperatively that ultimately failed because of persistent nonunion or continued elbow pain. A total of 50 patients (96.2%) returned to sport either at or above their preinjury level. Of the 2 patients (3.8%) who did not return to sport, 1 did not return because of continued elbow pain postoperatively, and the other was lost to follow-up. Complications occurred in 9 patients (17.3%), all of whom were treated surgically."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "On the basis of this systematic review, the majority of elbow stress fractures were treated operatively and approximately one-third after a period of failed nonoperative management. The return-to-sport rate was high. Further, higher level studies are needed to optimize management and return-to-sport rates in this population."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

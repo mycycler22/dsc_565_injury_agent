@@ -1,0 +1,31 @@
+{
+  "pmid": "38569612",
+  "title": "Eccentric Hamstring Strength Imbalance among Football and Soccer Athletes.",
+  "year": "2024",
+  "journal": "Southern medical journal",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Hamstring strain injuries (HSI) are common among football and soccer athletes. Eccentric strength imbalance is considered a contributing factor for HSI. There is, however, a paucity of data on hamstring imbalances of soccer and American football athletes as they age and advance in skill level. High school athletes will display greater interlimb discrepancies compared with collegiate and professional athletes. In addition, soccer athletes will exhibit greater hamstring asymmetry than American football athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Hamstring testing was performed on soccer and American football athletes using the NordBord Hamstring Testing System (Vald Performance, Albion, Australia). Age, sex, weight, sport specialization, and sport level were recorded. Maximum hamstring forces (N), torque (N · m), and work (N · s) were measured. Hamstring imbalance (%) was calculated by dividing the absolute value of the difference in leg forces divided by their sum. One-way analysis of variance and independent sample <i>t</i> tests compared measurements between athlete groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 631 athletes completed measurements, including 88 high school male soccer, 25 college male soccer, 23 professional male soccer, 83 high school female soccer, 28 college female soccer, 288 high school football, and 96 college football athletes. High school soccer players displayed significantly greater imbalances for torque (<i>P</i> = 0.03) and work (<i>P</i> < 0.01) than football athletes. Imbalances for maximum force (<i>P</i> = 0.035), torque (<i>P</i> = 0.018), and work (<i>P</i> = 0.033) were significantly higher for male soccer athletes in high school compared with college- and professional-level athletes. Female high school soccer players had significantly higher imbalance in torque (<i>P</i> = 0.045) and work (<i>P</i> = 0.001) compared with female collegiate soccer players. Football athletes did not experience significant changes in force imbalances between skill levels."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "High school soccer athletes exhibit greater hamstring imbalances than football athletes. Higher levels of play in soccer, for both male and female athletes, correlate with less hamstring asymmetry."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

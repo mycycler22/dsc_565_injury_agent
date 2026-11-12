@@ -1,0 +1,53 @@
+{
+  "pmid": "24727933",
+  "title": "Major and Minor League Baseball Hamstring Injuries: Epidemiologic Findings From the Major League Baseball Injury Surveillance System.",
+  "year": "2014",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strains are a recognized cause of disability for athletes in many sports, but no study exists that reports the incidence and circumstances surrounding these injuries in professional baseball."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Professional baseball players have a high incidence of hamstring strains, and these injuries are influenced by multiple factors including history of hamstring injury, time period within the season, and activity of base running."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiologic study."
+    },
+    {
+      "label": "METHODS",
+      "text": "For the 2011 season, injury data were prospectively collected for every Major League Baseball (MLB) major and minor league team and recorded in the MLB's Injury Surveillance System. Data collected for this study included date of injury, activity in which the player was engaged at the time of injury, and time loss. Injury rates were reported in injuries per athlete-exposure (A-E). Athlete-exposures were defined as the average number of players on a team who were participating in a game multiplied by the number of games."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the major leagues, 50 hamstring strains were reported for an injury rate (IR) of 0.7 per 1000 A-Es and averaged 24 days missed. In the minor leagues, 218 hamstring strains were reported for an IR of 0.7 per 1000 A-Es and averaged 27 days missed. Base running, specifically running to first base, was the top activity for sustaining a hamstring strain in both major and minor leagues, associated with almost two-thirds of hamstring strains. Approximately two-thirds of these injuries in both the major and minor leagues resulted in more than 7 days of time loss. Approximately 25% of these injuries kept the player out for 1 month or longer. History of a previous hamstring strain in the prior year, 2010, was found in 20% of the major league players and 8% of the minor league players. In the major leagues, the month of May had a statistically significant higher frequency of hamstring injuries than any other month in the season (P = .0153)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hamstring strains are a considerable cause of disability in professional baseball and are affected by history of hamstring strain, seasonal timing, and running to first base."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "In the major leagues, 50 hamstring strains were reported for an injury rate (IR) of 0.7 per 1000 A-Es and averaged 24 days missed."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "In the minor leagues, 218 hamstring strains were reported for an IR of 0.7 per 1000 A-Es and averaged 27 days missed."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Approximately two-thirds of these injuries in both the major and minor leagues resulted in more than 7 days of time loss."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

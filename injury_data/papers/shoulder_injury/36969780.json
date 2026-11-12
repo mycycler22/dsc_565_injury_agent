@@ -1,0 +1,19 @@
+{
+  "pmid": "36969780",
+  "title": "Are Previous Joint Injuries Associated with Muscle Performance in Volleyball Athletes?",
+  "year": "2023",
+  "journal": "Revista brasileira de ortopedia",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Objective</b>  The aim of the present study is to determine whether previous shoulder and knee injuries were associated with isokinetic fatigue index and agonist/antagonist ratio of shoulder internal/external rotators and knee flexors/extensors in male volleyball athletes. <b>Methods</b>  The current study is a cross-sectional investigation of 49 male elite volleyball players competing at a high level in Brazil. Isokinetic fatigue index and agonist/antagonist profiles were assessed during the preseason. Additionally, in order to record previous injuries, the athletes answered a standardized questionnaire. We conducted a receiver operating characteristic (ROC) curve analysis to determine the association strength and the clinically relevant cut-off point for variables presenting statistical significance for the area under the curve (AUC) (α = 0.05). An independent t-test was used to compare isokinetic variables between athletes with and without previous injury (α = 0.05). <b>Results</b>  The results of the ROC curve analysis indicated that hamstring fatigue index values at 300 <sup>o</sup> /s were associated with the presence of previous knee injury (area under the curve [AUC] = 73%, <i>p</i>  = 0.004), and shoulder external rotators fatigue index values at 360°/s were not associated with the presence of previous shoulder injury (AUC = 68%, <i>p</i>  = 0.053). <b>Conclusions</b>  Elite volleyball athletes who reported previous knee injuries were prone to a higher fatigue index than those reporting no injuries. Knee flexor resistance training might be useful for those athletes who reported knee injuries in the previous season."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

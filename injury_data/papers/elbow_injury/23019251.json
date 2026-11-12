@@ -1,0 +1,39 @@
+{
+  "pmid": "23019251",
+  "title": "Shoulder range of motion deficits in baseball players with an ulnar collateral ligament tear.",
+  "year": "2012",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder range of motion (ROM) deficits are associated with elbow injury in baseball players."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare the ROM characteristics of baseball players with a diagnosed ulnar collateral ligament (UCL) tear with those of a group of age-, activity-, and position-matched healthy controls."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Sixty male competitive high school and collegiate baseball players participated. Thirty athletes (age [mean ± standard deviation], 18.20 ± 1.56 years) with a diagnosed UCL tear were compared with 30 (age, 18.57 ± 0.86 years) age-, activity-, and position-matched players without a UCL injury. Of the 60 participants, there were 44 pitchers, 4 catchers, 5 infielders, and 7 outfielders. Participants were measured for shoulder internal rotation (IR), external rotation (ER), and horizontal adduction (HA) at 90° of shoulder elevation. Participants were also measured for elbow extension in a seated position. Group comparisons were made between participants with and without a UCL injury using independent t tests with an α level set at P < .05. All measurements were taken bilaterally, and the differences (involved to uninvolved) were used to calculate means for all variables, including glenohumeral internal rotation deficit (GIRD), total rotational motion (TRM), HA, and elbow extension."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Baseball players with a UCL tear (UCLInj) exhibited significantly greater deficits in TRM compared with the control group of healthy baseball players (NUCLInj) (UCLInj = -6.67° ± 11.82°, NUCLInj = 0.93° ± 9.91°; P = .009). No group differences were present for GIRD (UCLInj = -12.53° ± 5.98°, NUCLInj = -13.63° ± 5.90°; P = .476), HA (UCLInj = -3.00° ± 5.01°, NUCLInj = -3.23° ± 5.15°; P = .860), or elbow extension (UCLInj = -2.63° ± 7.86°, NUCLInj = -1.17° ± 2.76°; P = .339). Pitchers with a UCL tear had significantly greater deficits in TRM (UCLInjPitch = -6.96° ± 11.20°, NUCLInjPitch = 1.29° ± 8.33°; P = .0087) and dominant shoulder ER (UCLInjPitch = 112.04° ± 14.35°, NUCLInjPitch = 121.85° ± 9.46°; P = .011) than pitchers without a UCL tear."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A deficit in TRM is associated with a UCL tear in baseball players. Although GIRD may be prevalent in throwers, it may not be associated with a UCL injury. When examining ROM in baseball players, it is important to assess both TRM and GIRD."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

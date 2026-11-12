@@ -1,0 +1,39 @@
+{
+  "pmid": "41318473",
+  "title": "Persistent neuromuscular deficits in the posterior kinetic chain following hamstring strain injury: EMG insights from nordic hamstring curl, kettlebell swing, and supine sliding leg curl.",
+  "year": "2025",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries (HSIs) are among the most common non-contact injuries in football, often resulting in prolonged rehabilitation, high recurrence rates, and persistent neuromuscular deficits. Although rehabilitation focuses on restoring strength and flexibility, alterations in posterior chain muscle activation patterns may remain undetected, potentially contributing to reinjury risk. This study aimed to compare posterior chain muscle activation patterns between football players with a history of hamstring injury and healthy controls during three functional exercises: Nordic Hamstring Curl (NHC), Kettlebell Swing (KS), and Sliding Single-Leg Curl (SSLC)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty-two male football players (mean age: 23.4 ± 3.1 years; 21 previously injured, 21 healthy controls) participated in the study. Surface electromyography (sEMG) was used to record activation of the biceps femoris long head (BF), gluteus maximus (GM), latissimus dorsi (LD), and iliocostalis lumborum (IL) during each exercise."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Mean activation values were Across all exercises, injured players demonstrated significantly lower muscle activation compared with healthy controls. In NHC, BF (- 23.9%, p < 0.001), GM (- 21.3%, p < 0.001), LD (- 15.4%, p = 0.005), and IL (- 14.6%, p = 0.001) activations were reduced in the injured group. During KS, reductions were observed in BF (- 28.7%, p < 0.001), GM (- 24.3%, p < 0.001), LD (- 17.3%, p = 0.008), and IL (- 16.8%, p = 0.007). In SSLC, BF (- 20.8%, p < 0.001), GM (- 19.7%, p < 0.001), LD (- 12.5%, p = 0.008), and IL (- 15.8%, p = 0.004) activations were significantly lower in injured participants."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The largest differences were found in BF and GM during hip-dominant exercises, with consistent but smaller deficits in LD and IL, indicating a widespread neuromuscular inhibition beyond the hamstring itself."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Football players with a history of hamstring injury present persistent deficits in posterior chain muscle activation, particularly in BF and GM, even after return to play. These impairments extend to trunk musculature (LD, IL), suggesting that rehabilitation should incorporate multi-segmental posterior chain retraining, especially in hip-dominant tasks, to mitigate reinjury risk."
+    },
+    {
+      "label": "CLINICAL TRIAL REGISTRATION",
+      "text": "The clinical trial was registered retrospectively on 09 June 2025 under the identifier NCT07171385."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

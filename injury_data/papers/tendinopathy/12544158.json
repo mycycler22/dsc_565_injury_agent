@@ -1,0 +1,43 @@
+{
+  "pmid": "12544158",
+  "title": "Clinical diagnosis of Achilles tendinopathy with tendinosis.",
+  "year": "2003",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate sensitivity, specificity, reproducibility, and predictive value of palpation of the painful arc sign and of the Royal London Hospital test in 10 patients with Achilles tendinopathy and in 14 asymptomatic subjects."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Test-retest study."
+    },
+    {
+      "label": "SETTING",
+      "text": "University teaching hospital."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Ten male athletes on the waiting list for exploration of one of their Achilles tendons for tendinopathy of the main body of the tendon attended a special clinic. Each was invited to bring at least one athlete of the same sex in the same discipline aged within 2 years of themselves with no history and no symptoms of Achilles tendinopathy. A total of 14 controls were thus recruited."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Pain and tenderness following performance of palpation, the painful arc sign, and the Royal London Hospital test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were no statistically significant differences at the 5% level among the effects of investigator or between morning and afternoon measurements for any of the three measurement methods. There was no evidence of a difference of the three assessment methods (p > 0.05). When the three methods were combined, the overall sensitivity was 0.586 (confidence interval [CI], 0.469-0.741), and the overall specificity was 0.833 (CI, 0.758-0.889)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In patients with tendinopathy of the Achilles tendon with a tender area of intratendinous swelling that moves with the tendon and whose tenderness significantly decreases or disappears when the tendon is put under tension, a clinical diagnosis of tendinopathy can be formulated, with a high positive predictive chance that the tendon will show ultrasonographic and histologic features of tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

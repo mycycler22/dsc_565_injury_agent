@@ -1,0 +1,32 @@
+{
+  "pmid": "39257473",
+  "title": "Spontaneous rupture of the plantar fascia: a case report.",
+  "year": "2024",
+  "journal": "Frontiers in rehabilitation sciences",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "The rupture of the plantar fascia is a rare but significant injury that predominantly affects athletes and individuals engaged in high-impact activities. Sudden increases in physical activity, direct trauma, corticosteroid injections, and chronic degeneration from plantar fasciitis can predispose individuals to rupture. It can involve a complete or partial tear of the plantar fascia fibers, leading to a loss of structural integrity and functional support. The tear may occur at the origin, mid-portion, or insertion of the fascia. Spontaneous ruptures of the plantar fascia (occurring without any predisposing factors) are rarely observed in clinical practice. No guidelines or other unequivocal recommendations are available for this pathological condition."
+    },
+    {
+      "label": "METHOD",
+      "text": "A healthy 35-year-old male who works in an office setting and is a recreational cyclist with a silent clinical anamnesis experienced a spontaneous rupture of the plantar fascia of the left foot with no history of trauma. He exhibited significant localized tenderness and swelling in the medial arch of the left foot with difficulty bearing weight on the affected foot. An MRI confirmed a partial rupture of the medial cord of the plantar fascia accompanied by surrounding inflammation. The patient underwent conservative treatment, which included rest, immobilization, physiotherapy (ultrasound therapy, high-power laser therapy, and transcutaneous electrical nerve stimulation), rehabilitation, and a gradual return to activity."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At the 12-week follow-up, the patient reported a significant reduction in pain and marked improvement in functional mobility (as confirmed by VAS and Foot Function Index scores). Physical examination showed no tenderness, and the patient could bear full weight on the foot without discomfort. A follow-up ultrasound demonstrated complete resolution of the plantar fascia rupture and no residual inflammation."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "This case underscores the effectiveness of an integrated rehabilitative approach and provides a framework for managing similar cases in clinical practice."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

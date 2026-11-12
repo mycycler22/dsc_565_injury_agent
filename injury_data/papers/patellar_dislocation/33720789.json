@@ -1,0 +1,47 @@
+{
+  "pmid": "33720789",
+  "title": "Return to Sport After Medial Patellofemoral Ligament Reconstruction: A Systematic Review and Meta-analysis.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar instability is frequently encountered in the athletic population. Medial patellofemoral ligament (MPFL) reconstruction is a common strategy to treat recurrent patellar dislocation and demonstrates good clinical outcomes."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose was to examine return to sport after MPFL reconstruction for patellar instability. We hypothesized that patients would resume athletic activity at a high rate and that a large proportion would return to their preoperative level of performance."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of the literature was conducted using PubMed and Cochrane Library databases to identify articles reporting return to sport after MPFL reconstruction for recurrent patellar dislocation. Athletes were defined as those reporting a preoperative sport. A random-effects model was used to evaluate return to sport rates, subsequent level, and rate of instability recurrence. Meta-regression was used to compare return to sport rates in patients undergoing MPFL reconstruction without osteotomy compared with those treated with simultaneous tibial tubercle osteotomy or trochleoplasty."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In total, 23 articles met inclusion criteria after full-text review. A total of 930 patients were analyzed, including 786 athletes. Women represented 61.3% of all patients. The overall mean age was 21.1 years (range, 9.5-60.0 years), with a mean follow-up time of 3.0 years (range, 0.8-8.5 years). The return to sport rate was 92.8% (95% CI, 86.4-97.6). Patients returned to or surpassed their preoperative level of activity in 71.3% (95% CI, 63.7-78.4) of cases. An osteotomy was performed on 10.5% of athletes. Return to sport did not differ significantly in patients undergoing MPFL reconstruction without osteotomy versus those receiving additional osteotomy (95.4% vs 86.9%; <i>P</i> = .22). Patients returned to sport at a mean of 6.7 months (range, 3.0-6.4 months) postoperatively. Osteotomy did not affect return time. Complications occurred at an overall rate of 8.8%. The most common complication was recurrence of instability (1.9%; 95% CI, 0.4-4.0). The Kujala score was reported by 13 studies, with pre- and postoperative combined means of 60.3 and 90.0, respectively."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MPFL reconstruction is an effective and reliable treatment in the setting of patellofemoral instability. Surgeons can counsel their patients that they can expect a high rate of return to sport after MPFL reconstruction surgery alone or with concomitant osteotomy."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Patients returned to sport at a mean of 6.7 months (range, 3.0-6.4 months) postoperatively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

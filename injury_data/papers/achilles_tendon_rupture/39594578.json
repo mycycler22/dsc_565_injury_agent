@@ -1,0 +1,20 @@
+{
+  "pmid": "39594578",
+  "title": "The Genetic Basis of Non-Contact Soft Tissue Injuries-Are There Practical Applications of Genetic Knowledge?",
+  "year": "2024",
+  "journal": "Cells",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Physical activity increases the risk of non-contact injuries, mainly affecting muscles, tendons, and ligaments. Genetic factors are recognized as contributing to susceptibility to different types of soft tissue injuries, making this broad condition a complicated multifactorial entity. Understanding genetic predisposition seems to offer the potential for personalized injury prevention and improved recovery strategies. The candidate gene analysis approach used so far, has often yielded inconclusive results. This manuscript reviews the most commonly studied genetic variants in genes involved in the musculoskeletal system's structure and recovery processes (<i>ACTN3</i>, <i>ACE</i>, <i>CKM</i>, <i>MLCK</i>, <i>AMPD1</i>, <i>IGF2</i>, <i>IL6</i>, <i>TNFα</i>, <i>CCL2</i>, <i>COL1A1</i>, <i>COL5A1</i>, <i>MMP3</i>, and <i>TNC</i>). Referring to the literature, it was highlighted that single-gene analyses provide limited insight. On the other hand, novel genetic testing methods identify numerous variants of uncertain physiological relevance. Distinguishing between functionally important variants, modifying variants, and the thousands of irrelevant variants requires advanced bioinformatics methods and basic multiomics research to identify the key biological pathways contributing to injury susceptibility. Tools like the Total Genotype Score (TGS) and Polygenic Risk Score (PRS) offer a more holistic view by assessing the combined effect of multiple variants. However, these methods, while useful in research, lack clinical applicability. In conclusion, it is too early to determine the clinical implications of genetic variability as a tool for improving well-established training and injury prevention methods, as the predictive power of genetic testing for injury predisposition is currently low."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

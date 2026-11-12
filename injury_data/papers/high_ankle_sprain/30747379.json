@@ -1,0 +1,40 @@
+{
+  "pmid": "30747379",
+  "title": "Criteria-Based Return to Sport Decision-Making Following Lateral Ankle Sprain Injury: a Systematic Review and Narrative Synthesis.",
+  "year": "2019",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this systematic review was to identify prospective studies that used a criteria-based return to sport (RTS) decision-making process for patients with lateral ankle sprain (LAS) injury."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review and narrative synthesis."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "The PubMed (MEDLINE), Web of Science, PEDro, Cochrane Library, SPORTDiscus (EBSCO), ScienceDirect, and Scopus databases were searched to 23 November 2018."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA FOR SELECTING STUDIES",
+      "text": "Studies were included if they prospectively applied a criteria-based RTS decision-making process for patients with LAS injury, but were excluded if they merely gathered outcome measures at the RTS time point. Studies were also excluded if patients were recovering from ankle fracture, high ankle sprain, medial ankle sprain, chronic ankle instability or complex ankle injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No studies were identified that used a criteria-based RTS decision-making process for patients with LAS injury. We were unable to conduct a quantitative synthesis or meta-analysis, therefore we provide a narrative synthesis of relevant questionnaires, as well as clinical and functional assessments commonly used in studies retrieved in the search."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There are currently no published evidence-based criteria to inform RTS decisions for patients with an LAS injury. Based on our narrative synthesis, we propose a number of variables that could be used to develop a criteria-based RTS decision paradigm. Future research should aim to reach consensus on these variables and apply them to actual RTS decisions within prospective study designs. Furthermore, we suggest that complex systems theory and the RTS continuum could be used to inform the development of an RTS decision-making paradigm for athletes with LAS injury."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

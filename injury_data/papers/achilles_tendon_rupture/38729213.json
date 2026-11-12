@@ -1,0 +1,20 @@
+{
+  "pmid": "38729213",
+  "title": "Molecular mechanisms of mechanosensing and plasticity of tendons and ligaments.",
+  "year": "2024",
+  "journal": "Journal of biochemistry",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendons and ligaments, crucial components of the musculoskeletal system, connect muscles to bones. In the realm of sports, tendons and ligaments are vulnerable tissues, with injuries such as Achilles tendon rupture and anterior cruciate ligament tears directly impacting an athlete's career. Furthermore, repetitive trauma and tissue degeneration can lead to conditions like secondary osteoarthritis, ultimately affecting the overall quality of life. Recent research highlights the pivotal role of mechanical stress in maintaining homeostasis within tendons and ligaments. This review delves into the latest insights on the structure of tendons and ligaments and the plasticity of tendon tissue in response to mechanical loads."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

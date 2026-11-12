@@ -1,0 +1,24 @@
+{
+  "pmid": "35549483",
+  "title": "Elbow Ulnar Collateral Ligament Injuries in Overhead Athletes: An Infographic Summary.",
+  "year": "2022",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Ulnar collateral ligament (UCL) injuries of the elbow are common in throwing athletes. Given that the UCL's primary function is to provide valgus stability during the deceleration phase of throwing, injury to the UCL will render throwing difficult to nearly impossible.<sup>15</sup> Injuries will occur more so in the sports of baseball, softball, and javlineers participating in track and field.<sup>5,10,14</sup> Data has indicated that valgus torque reaches 64 N-m and proximal forces as high as 1000 N to prevent elbow distraction. Further, angular velocity across elbow may reach 1900-2480 degrees/second.<sup>6,8</sup> Imaging modalities that have the greatest accuracy for diagnosis include magnetic resonance imaging (MRI), MRI-arthrogram, and stress ultrasonography.<sup>2,3,11,12</sup> Treatment of UCL injury depends on multiple factors. These include if the injury is a partial tear or complete tear and the location (distal versus proximal) of the partial tear.<sup>7</sup> Further, complete tears, as well as partial distal tears, are more likely to undergo surgical intervention.<sup>1,13</sup> Treatment decision-making is primarily dependent on following factors: location, severity, if the patient is a throwing athlete, and if the patient is in his or her last year of his/her throwing career due to the length of the rehabilitation process if surgery is pursued.<sup>15</sup> Return-to-play success rates when treated conservatively vary from anywhere from 42% to 100%. Conservative treatment includes rest, rehabilitation, platelet-rich plasma injections, and a throwing program.<sup>4</sup> Surgical treatment has evolved significantly with various reconstructive techniques and (when indicated) surgical repair with internal bracing. Return-to-play rates are high, ranging from 80% to 95% with low complication rates, but rehabilitation for reconstruction can range from 12-18 months or longer. Therefore, patients must be made aware of the commitment to the rehabilitation process if electing to undergo surgical reconstruction.<sup>9</sup>."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Return-to-play rates are high, ranging from 80% to 95% with low complication rates, but rehabilitation for reconstruction can range from 12-18 months or longer."
+    }
+  ],
+  "pmcid": "9214910",
+  "fulltext_chunks": []
+}

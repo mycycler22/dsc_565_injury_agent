@@ -1,0 +1,43 @@
+{
+  "pmid": "21821478",
+  "title": "Hip strength and knee pain in high school runners: a prospective study.",
+  "year": "2011",
+  "journal": "PM & R : the journal of injury, function, and rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine whether pre-injury hip muscle weakness is associated with the development of patellofemoral pain (PFP) in high school running athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Academic institution sports medicine center."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "High school running athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Baseline hip strength of high school running athletes was assessed at the beginning of the running season. Strength testing was repeated in athletes who developed PFP. Peak hip muscle strengths and strength ratios were compared between the injured and non-injured groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Six injuries occurred in 5 of the 98 subjects who completed the study. The baseline hip external-to-internal strength ratio was lower in injured than in uninjured subjects (P = .008). In the injured group, hip abduction and external rotation strengths decreased from pre-injury to post-injury (P = .002 and P = .01, respectively). Logistic regression analysis demonstrated that a greater baseline hip abduction strength (odds ratio = 5.35, 95% confidence interval [CI] 1.46-19.53; P < .01) and abduction-to-adduction strength ratio increased the risk of injury (odds ratio = 14.14, 95% CI 0.90-221.06; P = .05), and a greater pre-injury hip external-to-internal rotation strength ratio decreased the risk of injury (odds ratio < 0.01, 95% CI ≤ .01, 0.44; P = .02)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The findings of the current study suggest that stronger pre-injury hip abductors (particularly in relation to their hip adductors) and weaker pre-injury hip external rotators (particularly in relation to their hip internal rotators) are associated with the development of PFP. In addition, persons in whom PFP develops appear to lose hip abduction and external rotation strength when compared with their pre-injury strength. Finally, a higher hip external-to-internal rotation strength ratio may protect against the development of PFP."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

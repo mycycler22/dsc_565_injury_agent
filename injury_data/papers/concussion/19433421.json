@@ -1,0 +1,36 @@
+{
+  "pmid": "19433421",
+  "title": "Return to play after sports concussion in elite and non-elite athletes?",
+  "year": "2009",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To examine the published literature relating to the difference in concussion management strategies between elite and non-elite athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic literature review of concussion management."
+    },
+    {
+      "label": "INTERVENTION",
+      "text": "Pubmed, Medline, Psych Info, Cochrane Library and Sport Discus databases were reviewed using the MeSH keywords brain concussion and mild traumatic brain injury, combined with athletic injuries. Each were then refined by adding the keyword \"return to play\" (RTP). English language and human studies only were assessed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For the Medline search, using \"brain concussion\" as a keyword, 4319 articles were found; this was decreased to 111 when RTP was used to refine the search. When \"mild traumatic brain injury\" was used, 2509 articles were found; this decreased to 39 when RTP was used to refine the search. Following initial review, these articles form the basis of the discussion below."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The non-elite athlete may not have the same resources available as the elite athlete (such as the presence of trained medical staff during practice and competition, a concussion programme as part of sideline preparedness, the benefit of neuropsychological or postural testing, as well as consultants with expertise in concussion readily available) and as a result will generally be managed more conservatively. Younger athletes often have a greater incidence of concussion with longer recovery time frames; however, they are often managed with less expertise and with limited resources."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

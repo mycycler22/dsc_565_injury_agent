@@ -1,0 +1,20 @@
+{
+  "pmid": "20071919",
+  "title": "New techniques in concussion imaging.",
+  "year": "2010",
+  "journal": "Current sports medicine reports",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The symptoms and findings of a concussion reflect a complex series of events that occur in the brain after a concussive injury. Because sports-related concussions do not cause structural lesions that can be identified with traditional neuroimaging techniques, determining concussion severity and when the brain has recovered sufficiently to permit safe return to play is challenging. Current concussion management using symptom monitoring, physical examination, and neurocognitive testing is limited in its ability to assess the extent of injury and recovery. This article reviews several advanced neuroimaging techniques that have the potential to provide more objective data to assist clinicians in the care of the athlete with concussion."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

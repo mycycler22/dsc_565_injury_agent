@@ -1,0 +1,20 @@
+{
+  "pmid": "41752236",
+  "title": "Spondylolysis: A Narrative Review of Etiology, Diagnosis, and Management.",
+  "year": "2026",
+  "journal": "International journal of environmental research and public health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background:</b> Spondylolysis is a stress fracture of the pars interarticularis, most common in adolescents and athletes involved in sports requiring repetitive spinal loading, extension, and rotation. The condition is often underdiagnosed due to delays in presentation and diagnosis, particularly among non-orthopedic providers. <b>Aims:</b> This review aims to summarize the current understanding of spondylolysis, focusing on its etiology, diagnosis, management strategies, and identify gaps in research for future exploration. <b>Methods:</b> A structured literature search was conducted in PubMed to identify studies relevant to pediatric and adolescent spondylolysis, spondylosis, and spondylolisthesis, particularly in the context of athletic injuries. The initial search yielded 143 citations. Applying filters for English language publications within the past five years reduced this to 125 citations. Limiting to populations that were aged 18 years and under returned 50 studies. After screening the titles and abstracts, 12 non-specific or irrelevant articles (including letters to the editor) were excluded, leaving a final dataset of 38 articles for detailed review. In addition, foundational and landmark studies outside this window were included to provide historical and conceptual context, bringing the total evidence base to 50 papers. <b>Findings:</b> Spondylolysis most commonly affects the L5 vertebra, with a higher incidence in male athletes. Conservative treatments like physical therapy and bracing are effective, especially when initiated early. However, the efficacy of bracing remains debated, with limited evidence on long-term clinical benefits. Surgical intervention is considered for severe or non-responsive cases. Diagnostic methods, including CT and MRI, are preferred, with emerging techniques like ultrasound showing potential for non-ionizing, cost-effective, early detection. <b>Implications:</b> Early diagnosis and treatment are crucial for preventing progression to spondylolisthesis. While conservative treatments often yield favorable outcomes, more research is needed to compare the effectiveness of bracing and pharmacological interventions. Future studies should focus on long-term outcomes, cost-effective, non-ionizing diagnostic methods, and the role of emerging therapies like regenerative medicine. A multi-disciplinary approach is vital for optimal patient care, particularly in young athletes."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "36461053",
+  "title": "Risk factors for shoulder injuries in handball: systematic review.",
+  "year": "2022",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Handball is a sport with a high number of severe injuries. The shoulder is one of the most commonly injured joints, with an average prevalence of 17-41%."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The primary aim is to identify the most significant risk factors related to shoulder injuries in handball. The secondary aim is to propose recommendations based on the available evidence concerning potential injury prevention strategies."
+    },
+    {
+      "label": "METHODS",
+      "text": "Systematic searches of PubMed, MEDLINE, CINAHL, Proquest, SPORTDiscus, Web of Science, EMBASE, and Scopus were undertaken for peer reviewed articles published between 15 July 1995 and 15 July 2019. The same search strategy was repeated on 24 April 2022. Prospective cohort studies, written in English and published in a journal with a peer-review process aiming to investigate at least one modifiable or/and a non-modifiable potential risk factor for shoulder injuries, specifically in handball players, were included. Only papers published after 1995 were included. The methodological quality of the eligible studies was assessed using the modified version of the Downs and Black Checklist. The Best Evidence Synthesis (BES) approach was used for synthesizing and reporting the results."
+    },
+    {
+      "label": "RESULTS",
+      "text": "1849 studies were identified, of which 8 were included. A total of 2536 (males = 1354, females = 1182) participants of which 2522 were handball athletes, were included. Four of the eight studies were rated as high methodological quality studies (> 85%) while the rest were rated as medium (50-85%). The risk factors for shoulder injuries in handball identified in the studies were strength imbalances (n = 6), glenohumeral range of motion (ROM) imbalances (n = 5), scapular dyskinesis (n = 5), incorrect dosage of training load (n = 2), previous injury (n = 1), sex (n = 2), player's position, school grade, playing level (n = 1), altered shoulder joint position sense (n = 1)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Overall, from all the risk factors evaluated, there was strong evidence that the weakness of the shoulder external rotator muscles and the female sex increase the probability of shoulder injury in handball athletes. Nevertheless, the evidence for the other risk factors was moderate due to the methodological quality and the limited number of studies."
+    },
+    {
+      "label": "PROTOCOL REGISTRATION",
+      "text": "PROSPERO ID: CRD42020138233."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

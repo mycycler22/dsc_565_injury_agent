@@ -1,0 +1,40 @@
+{
+  "pmid": "31782066",
+  "title": "Does Acute Fatigue Negatively Affect Intrinsic Risk Factors of the Lower Extremity Injury Risk Profile? A Systematic and Critical Review.",
+  "year": "2020",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute fatigue is hypothesized to alter lower extremity injury risk profiles by affecting intrinsic risk factors (i.e. single leg postural control, hamstring strength). However, no systematic overview exists that merges the insights into prospective lower extremity injury risk profiling with the effect of acute fatigue on functional test performance."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The objective of this review is to identify the influence of acute fatigue on prospectively determined modifiable intrinsic risk factors for lower extremity injuries."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed (MEDLINE), Web of Science, PEDro, and Cochrane Library were searched until 29 May 2019. Studies were eligible when the study outcomes encompassed intrinsic modifiable risk factors for lower extremity injury, an acute fatigue intervention, and included healthy athletes or physically active people. Intrinsic modifiable risk factors were identified through recent systematic reviews and meta-analyses, and the referenced original research papers were used to determine outcome measures associated with increased injury risk."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Forty-three studies reported acute fatigue effects on modifiable risk factors, with eight studies matching all criteria for data-extraction. Acute fatigue can decrease single leg postural control, decrease ankle joint position sense, decrease isokinetic strength of hamstring and quadriceps muscles and can affect isokinetic hamstring:quadriceps ratios."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Acute fatigue affects prospective intrinsic modifiable risk factors for lower extremity injury, indicating an altered injury risk profile for lateral ankle sprain, patellofemoral pain syndrome and hamstring injuries. Future research should allow for individual fatiguability as a relevant outcome, and merge insights from athlete-centred injury risk profiling and fatigue."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

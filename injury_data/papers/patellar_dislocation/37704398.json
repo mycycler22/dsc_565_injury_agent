@@ -1,0 +1,31 @@
+{
+  "pmid": "37704398",
+  "title": "Recurrence and return to duty following patellar instability events in military personnel.",
+  "year": "2025",
+  "journal": "BMJ military health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Military service members experience patellar dislocations at a rate 10 times that of civilians. The purpose of this study was to determine the return to duty rate of active duty military personnel following first-time or recurrent patellar dislocation. Secondary goals were to identify patient variables and radiographic parameters associated with recurrent instability and requiring medical separation from military service."
+    },
+    {
+      "label": "METHODS",
+      "text": "The Military Health System Data Repository was used to identify all active-duty military personnel who sustained a patellar dislocation between 2013 and 2018. Medical records were searched for patient variables including demographics, clinical findings, radiographic findings, treatment, adverse outcomes and military disposition. Patient variables associated with recurrent instability and undergoing medical separation were determined using univariate analysis and multivariate logistic regression. A total of 207 patients met inclusion and exclusion criteria."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Following patellar instability event, 30% of the cohort underwent surgical treatment. Fourteen per cent (29 of 207) underwent medical separation from military service. Regardless of treatment, 9% (18 of 207) experienced recurrent dislocation and 3% (6 of 207) experienced recurrent instability without dislocation. On multivariate analysis, none of the studied patient variables were associated with recurrent instability or medical separation."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Among military personnel, return to duty rates are similar to return to sport rates in civilians. This study demonstrates no difference in risk of recurrent instability or medical separation based on anatomical factors, which is useful during shared decision-making regarding treatment options and goals."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "35234535",
+  "title": "Epidemiology and Revision Rates of Pediatric ACL Reconstruction in New York State.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There are limited epidemiologic data examining the incidence of pediatric anterior cruciate ligament reconstruction (ACLR) over the past decade."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine statewide population trends in the incidence of ACLR in a pediatric population."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Inpatient and outpatient claims for pediatric patients who underwent ACLR between 2009 and 2017 were identified in the New York Statewide Planning and Research Cooperative System database via International Classification of Diseases (ICD), Revision 9, Clinical Modification; ICD, Revision 10, Clinical Modification and Procedural Classification System; or Current Procedural Terminology codes. New York population data for each year between 2009 and 2017 were used from the New York State Department of Health to calculate the rates of ACLR per 100,000 people aged 3 to 19 years and determine the 95% confidence limits. The rates were then stratified by age, sex, and insurance. Two-year rates of revision and contralateral ACLR were also analyzed by sex."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between 2009 and 2017, 20,170 pediatric ACLRs were identified. The rates of pediatric ACLR increased steadily from 49.3 per 100,000 in 2009 (95% CI, 47.2-51.4) to a peak of 61.0 (95% CI, 58.6-63.4) in 2014 and decreased to 51.8 (95% CI, 49.6-54.1) by 2017. The age group 15 to 17 years had the highest rates of ACLR of all age groups, peaking at 198.5 (95% CI, 188.3-208.7) per 100,000. Analysis by sex showed that ACLR rates between males and females were not different. Males had a 2-year ipsilateral revision rate of 4.3%, while females had a rate of 3.3% (<i>P</i> = .0001). Females had a contralateral ACLR rate of 4.0%, while males had a rate of 2.6% (<i>P</i> = .0002)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Pediatric ACLR rates continued to rise until 2014, but there was a demonstrable decrease in rates after 2014. This decline in pediatric ACLR may point to the efficacy of injury prevention programs or changes in practice management. The high revision rate in males and high contralateral surgery rate in females can help guide patient counseling for return to play and complication risk."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "This study showed that ACLR in pediatric patients may be decreasing in recent years. There were differences in revision and contralateral ACLR by sex."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

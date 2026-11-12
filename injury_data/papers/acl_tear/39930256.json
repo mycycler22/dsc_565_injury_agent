@@ -1,0 +1,24 @@
+{
+  "pmid": "39930256",
+  "title": "Anterior Cruciate Ligament Tears among Football Players.",
+  "year": "2025",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Anterior Cruciate Ligament (ACL) tears are one of the most common causes of lost playing time in American football athletes. Recently, there has been a push to get athletes back to sport faster. As such, numerous studies have evaluated management and rehabilitation protocols for return to play after ACL injury in football players. The purpose of this review is to synthesize information, both classic and new, to aid orthopedic surgeons in treatment of football players with ACL injuries."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Recent studies have demonstrated that not all ACL injuries are alike. Management should be a shared decision-making process between athlete and surgeon. Studies have demonstrated low failure rates when using bone-patellar tendon-bone (BTPB) autograft which is the most common graft utilized for elite football athletes. Outcomes are continually being evaluated by multicenter study groups such as the Multicenter Orthopaedic Outcome Network which has established a thorough rehabilitation protocol focusing on athlete milestones. ACL tears in the football athlete are common and challenging injuries. Treatment revolves around ACL reconstruction, most commonly with BTPB autograft. Post-operative rehabilitation is essential and should focus on objective criteria rather than time elapsed. Return to play criteria rely upon symptoms, athlete confidence, strength, and both functional and football specific testing. Return-to-play timelines are individualized for each football athlete but recent trends have highlighted a more delayed return of at least 7-9 months. Rate of returning to play varies from 63-82% and depends upon many factors including level of play and position."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "28900059",
+  "title": "Neuroimaging of Sports Concussions.",
+  "year": "2017",
+  "journal": "Radiologic technology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussions resulting from sports activities have received attention in recent years, and failure to prevent head injury has undergone scrutiny. Although many factors contribute to sports concussion incidence, determining when an athlete can return to play is crucial to minimizing long-term effects of concussion. To date, neuroimaging plays a limited role in concussion evaluation, but conventional and advanced neuroimaging techniques are contributing to the body of research on their future use in evaluation."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

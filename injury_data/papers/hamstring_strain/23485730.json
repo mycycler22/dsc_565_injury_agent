@@ -1,0 +1,47 @@
+{
+  "pmid": "23485730",
+  "title": "Clinical and morphological changes following 2 rehabilitation programs for acute hamstring strain injuries: a randomized clinical trial.",
+  "year": "2013",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Randomized, double-blind, parallel-group clinical trial."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To assess differences between a progressive agility and trunk stabilization rehabilitation program and a progressive running and eccentric strengthening rehabilitation program in recovery characteristics following an acute hamstring injury, as measured via physical examination and magnetic resonance imaging (MRI)."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "Determining the type of rehabilitation program that most effectively promotes muscle and functional recovery is essential to minimize reinjury risk and to optimize athlete performance."
+    },
+    {
+      "label": "METHODS",
+      "text": "Individuals who sustained a recent hamstring strain injury were randomly assigned to 1 of 2 rehabilitation programs: (1) progressive agility and trunk stabilization or (2) progressive running and eccentric strengthening. MRI and physical examinations were conducted before and after completion of rehabilitation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-one subjects were enrolled, 29 began rehabilitation, and 25 completed rehabilitation. There were few differences in clinical or morphological outcome measures between rehabilitation groups across time, and reinjury rates were low for both rehabilitation groups after return to sport (4 of 29 subjects had reinjuries). Greater craniocaudal length of injury, as measured on MRI before the start of rehabilitation, was positively correlated with longer return-to-sport time. At the time of return to sport, although all subjects showed a near-complete resolution of pain and return of muscle strength, no subject showed complete resolution of injury as assessed on MRI."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The 2 rehabilitation programs employed in this study yielded similar results with respect to hamstring muscle recovery and function at the time of return to sport. Evidence of continuing muscular healing is present after completion of rehabilitation, despite the appearance of normal physical strength and function on clinical examination."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Therapy, level 1b-."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

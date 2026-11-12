@@ -1,0 +1,39 @@
+{
+  "pmid": "31205966",
+  "title": "Increasing Burden of Youth Baseball Elbow Injuries in US Emergency Departments.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Youth athletes are starting sports earlier and training harder. Intense, year-round demands are encouraging early sports specialization under the perception that it will improve the odds of future elite performance. Unfortunately, there is growing evidence that early specialization is associated with increased risk of injury and burnout. This is especially true of pediatric and adolescent baseball players."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this investigation was to analyze national injury trends of youth baseball players. We hypothesized that while the total number of baseball injuries diagnosed over the past decade would decrease, there would be an increase in adolescent elbow injuries seen nationally. A further hypothesis was that this trend would be significantly greater than other injuries to the upper extremity and major joints."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injury data from the National Electronic Injury Surveillance System, a United States Consumer Product Safety Commission database, were analyzed between January 1, 2006, and December 31, 2016, for baseball players aged ≤18 years. Data were collected on the location of injury, diagnosis, and mechanism of injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between 2006 and 2016, an estimated 665,133 baseball injuries occurred nationally. The mean age of the injured players was 11.5 years. The most common injuries diagnosed included contusions (26.8%), fractures (23.6%), and strains and sprains (18.7%). Among major joints, the ankle (25.6%) was most commonly injured, followed by the knee (21.3%), wrist (19.2%), elbow (17.7%), and shoulder (16.2%). The incidence of the ankle, knee, wrist, and shoulder injuries decreased over time, while only the incidence of elbow injuries increased. A linear regression analysis demonstrated that the increasing incidence of elbow injuries was statistically significant against the decreasing trend for all baseball injury diagnoses, as well as ankle, knee, wrist, hand, and finger injuries (<i>P</i> < .05). Additionally, the only elbow injury mechanism that increased substantially over time was throwing."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current investigation found that while the incidence of baseball injuries sustained by youth players is decreasing, elbow pathology is becoming more prevalent and is more commonly being caused by throwing. Given that the majority of elbow injuries among adolescent baseball players are overuse injuries, these findings underscore the importance of developing strategies to continue to ensure the safety of these youth athletes."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

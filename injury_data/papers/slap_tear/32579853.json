@@ -1,0 +1,40 @@
+{
+  "pmid": "32579853",
+  "title": "Biceps Tenodesis for Superior Labrum Anterior-Posterior Tear in the Overhead Athlete: A Systematic Review.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Superior labrum anterior-posterior (SLAP) lesion is a common shoulder injury, particularly in overhead athletes. While surgical management has traditionally consisted of SLAP repair, high rates of revision and complications have led to alternative techniques, such as biceps tenodesis (BT). While BT is commonly reserved for older nonoverhead athletes, indications for its use have expanded in recent years."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine functional outcomes and return-to-sport rates among overhead athletes after BT for SLAP tear."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was performed for any articles published before July 2019. The search phrase \"labral tear\" was used to capture maximum results, followed by keyword inclusion of \"SLAP tear\" and \"biceps tenodesis.\" Inclusion criteria included outcome studies of BT for isolated SLAP tear in athletes participating in any overhead sports, not limited to throwing alone. Abstracts and manuscripts were independently reviewed to determine eligibility. When clearly delineated, outcome variables from multiple studies were combined."
+    },
+    {
+      "label": "RESULTS",
+      "text": "After full review, 8 articles met inclusion criteria (99 athletes; mean age, 19.8-47 years), with baseball and softball players the most common among them (n = 62). Type II SLAP tear was the most common diagnosis, and 0% to 44% of athletes had a failed previous SLAP repair before undergoing BT. Only 1 study included patients with concomitant rotator cuff repair. Open subpectoral BT was most commonly used, and complication rates ranged from 0% to 14%, with wound erythema, traumatic biceps tendon rupture, brachial plexus neurapraxia, and adhesive capsulitis being reported. Combined reported postoperative functional scores were as follows: American Shoulder and Elbow Surgeons, 81.7 to 97; 12-Item Short Form Health Survey physical, 50 to 54; visual analog scale for pain, 0.8-1.5; Kerlan Jobe Orthopaedic Clinic, 66 to 79; and satisfaction, 80% to 87%. The overall return-to-sports rate for overhead athletes was 70% (60 of 86). For studies that clearly delineated outcomes based on level of play/athlete, the combined return-to-sports rate was 69% (11 of 16) for recreational overhead athletes, 80% (4 of 5) for competitive/collegiate athletes, and 60% (18 of 30) for professionals."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "BT in the overhead athlete offers encouraging functional outcomes and return-to-sports rates, particularly in the recreational athlete. It can be successfully performed as an index operation rather than SLAP repair, as well as in a younger patient population. Careful consideration should be given to elite overhead athletes, particularly pitchers, who tend to experience poorer outcomes."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

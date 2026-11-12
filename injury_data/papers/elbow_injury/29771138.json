@@ -1,0 +1,47 @@
+{
+  "pmid": "29771138",
+  "title": "Rate of Upper Extremity Injury in High School Baseball Pitchers Who Played Catcher as a Secondary Position.",
+  "year": "2018",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "  Many high school pitchers play another position after they have finished pitching for the day or on their rest days from pitching. Because of the cumulative demands on the arm, pitchers who also play catcher may have a greater risk of developing a throwing-related shoulder or elbow injury."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "  To compare the rate of throwing-related upper extremity injuries between high school baseball pitchers who also played catcher as a secondary position and those who did not play catcher."
+    },
+    {
+      "label": "DESIGN",
+      "text": "  Prospective cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "  Field laboratory."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "  A total of 384 male high school baseball pitchers were recruited from 51 high school teams. Pitchers who reported their secondary position as catcher were classified into the pitcher/catcher group and those who did not report playing catcher as a secondary position were classified into the other group."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "  Participants completed a demographic questionnaire preseason and then athlete participation and injury status were tracked during the subsequent season. Athlete-exposures were monitored and the shoulder and elbow injury proportion rates were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "  Athlete-exposures did not differ between groups ( P = .488). The pitcher/catcher group's risk of shoulder or elbow injury was 2.9 times greater than that of the other pitchers (15% versus 5%; injury proportion rate = 2.9; 95% confidence interval = 1.03, 8.12)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "  Pitchers who reported also playing catcher were at a greater risk of sustaining a throwing-related shoulder or elbow injury than the other pitchers. These findings suggest that pitchers should consider not playing catcher as their secondary position in order to allow adequate time for recovery and to decrease their overall throwing load. Serial physical examinations of pitchers/catchers during the season may be useful in determining if their physical characteristics are changing during the season because of the cumulative throwing load."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

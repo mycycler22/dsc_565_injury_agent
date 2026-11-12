@@ -1,0 +1,28 @@
+{
+  "pmid": "39524260",
+  "title": "Flag Sign: A Case Report of an Unusual Magnetic Resonance Imaging Finding of a Medial Meniscal Root Fragment in an Adolescent Water Polo Player.",
+  "year": "2024",
+  "journal": "Journal of orthopaedic case reports",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "A meniscus tear ranks among the most common sports-related injuries, especially among athletes. Sudden, twisting movements, such as pivoting to catch a ball, usually in contact sports, and can tear the meniscus. Magnetic resonance imaging (MRI) technology is extensively utilized for identifying meniscal tears. A flag sign on an MRI typically indicates a partial or complete meniscal root tear. We present a case where a \"flag sign\" was attributed to a medial meniscal root fragment in an adolescent water polo player."
+    },
+    {
+      "label": "CASE REPORT",
+      "text": "A 15-year-old male patient suffered a knee injury (mild swelling and pain) while playing as a goalkeeper in water polo. A physical examination revealed negative Lachman and positive medial McMurray tests. MRI images showed a typical flag sign, without any other concomitant injuries. An arthroscopic medial meniscectomy was performed. 8 months post-operatively the injuries were well healed. In this instance, the flag sign caused interference with the MRI evaluation of an anterior cruciate ligament (ACL) injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This case highlights the importance for clinicians to meticulously assess both the morphological changes in the meniscus and its relationship with the femoral condyle before arriving at a definitive diagnosis even in the athletes of non-contact sports. The meniscal \"flag sign\" mimics the ACL signal on MRI."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "9475969",
+  "title": "Second-impact syndrome.",
+  "year": "1998",
+  "journal": "Clinics in sports medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Second impact syndrome (SIS) occurs when an athlete who has sustained an initial head injury, most often a concussion, sustains a second head injury before symptoms associated with the first have fully cleared. While most commonly reported in football, the SIS can occur during any sport that can produce head blows. Any athlete still complaining of post-concussion symptoms after a head injury must not be allowed to return to play."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

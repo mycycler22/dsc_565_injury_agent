@@ -1,0 +1,32 @@
+{
+  "pmid": "39622358",
+  "title": "Principles of the superior labrum and biceps complex: an expert consensus from the NEER Circle.",
+  "year": "2025",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article",
+    "Consensus Statement"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The superior labrum and biceps complex is commonly implicated in shoulder pain and there remains discordance regarding the surgical management of superior labrum anterior to posterior (SLAP) tears. The purpose of this study was to establish an expert consensus regarding the management of superior labrum and biceps complex pathology."
+    },
+    {
+      "label": "METHODS",
+      "text": "The NEER Circle is an organization of shoulder experts recognized for their service to the American Shoulder and Elbow Surgeons (ASES) society. Consensus among 92 identified experts was sought with a series of surveys pertaining to the management of superior labrum and biceps complex (SBC) pathology. The initial survey featured questions crafted to determine the experience of the panel in treating SBC pathology. The second survey was designed to elicit opinions concerning the diagnosis and treatment of SBC pathology. The third survey aimed to establish consensus across 48 scenarios, tasking panelists with categorizing 4 surgical modalities as either preferred, acceptable, or not acceptable. The available options included débridement, SLAP repair, biceps treatment, or a combined repair and biceps treatment. In the final survey, the panelists were tasked with diagnosing SBC pathologies by assessing arthroscopic footage and evaluating treatment options within 45 scenarios. A minimum of 80% agreement was required to attain consensus, designating a treatment as either preferred or unacceptable."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Response rates ranged from 52.2% to 58.7%. Discordance exists regarding aspects of the physical examination, patient history, imaging, nonoperative management, and the surgical approach in SBC injuries. Of the 78 clinical scenarios, 26 reached consensus agreement. Treating the biceps was the favored approach in older, more sedentary patients with evidence of biceps tendinopathy. Performing a SLAP repair was favored in scenarios depicting younger, more active patients with signs of an unstable biceps anchor or mechanical symptoms. A SLAP repair was typically contraindicated in the setting of an older patient, concomitant rotator cuff tear, and/or a prior failed SLAP repair. The management of overhead throwing athletes, particularly those that are professionals, remained controversial, although SLAP repair is generally favored in younger pitchers."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The optimal management of superior labrum and biceps complex pathology requires a systematic approach based on the individual's age, occupational demands, and functional requirements. Age was the predominant factor influencing surgical decision making. SLAP repairs are generally favored in younger, active patients, whereas treating the biceps is preferred in lower-demand patients aged >30 years. Little consensus was observed regarding the management of competitive athletes."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

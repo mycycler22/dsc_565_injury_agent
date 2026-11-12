@@ -1,0 +1,38 @@
+{
+  "pmid": "39894338",
+  "title": "Similar patient-reported outcomes but lower redislocation and higher revision rates following primary Latarjet vs. primary arthroscopic Bankart repair in patients with 10%-20% glenoid bone loss at a minimum 2-year follow-up.",
+  "year": "2025",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The amount of glenoid bone loss is closely related to the success rate of surgical treatment following anterior shoulder dislocations. There is an ongoing debate on the most successful treatment in patients with a subcritical amount (10%-20%) of glenoid bone loss (GBL). This study aimed to compare patient-reported outcome measures (PROMs) following primary open Latarjet procedure and primary arthroscopic Bankart repair (ABR) in patients with 10%-20% GBL at a minimum 2-year follow-up."
+    },
+    {
+      "label": "METHODS",
+      "text": "This multicenter retrospective cohort study included 53 patients with traumatic anterior shoulder dislocations treated with Latarjet or ABR between 2011 and 2019. PROMs included the Western Ontario Shoulder Instability Index (WOSI) and Oxford Shoulder Instability Score (OSIS). Secondary outcomes included recurrence, complications, revision surgery, patient satisfaction, and return to sport (RTS)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean follow-up was 77 ± 31.7 months. Baseline characteristics were similar between ABR and Latarjet, except for time to follow-up (91 ± 30 vs. 61 ± 26 months, P < .001) and percentage GBL (15 ± 3 vs. 17 ± 3, P = .024). WOSI scores were higher in Latarjet patients compared with ABR; however, this difference was not statistically significant (220 vs. 457, P = .10). OSIS scores were similar following ABR and Latarjet (42 vs. 45, P = .33). Recurrence rates were higher in ABR patients (7 [24%] vs. 0 [0%] recurrences, P = .01), whereas revision rates were higher in Latarjet patients (4 vs. 0 revisions, P = .04). Patient satisfaction and complications were not different between the 2 procedures and neither achieved RTS and RTS to preinjury level."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The null hypothesis in which Latarjet and ABR show similar patient-reported outcomes could not be rejected based on the underpowered analysis. Patients treated with Latarjet did not have any recurrences vs. 7 in the ABR group (P = .01). However, revision rates were higher in Latarjet patients (4 vs. 0 revisions, P = .04)."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Baseline characteristics were similar between ABR and Latarjet, except for time to follow-up (91 ± 30 vs. 61 ± 26 months, P < .001) and percentage GBL (15 ± 3 vs. 17 ± 3, P = .024)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

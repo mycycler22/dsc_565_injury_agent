@@ -1,0 +1,35 @@
+{
+  "pmid": "41587266",
+  "title": "Sex-Based Differences in Cell Types and Gene Expression within the Anterior Cruciate Ligament.",
+  "year": "2026",
+  "journal": "The Journal of bone and joint surgery. American volume",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sex-based disparities remain a major challenge in musculoskeletal medicine. Women and men experience different anterior cruciate ligament (ACL) injury rates and severity, but the causes remain unclear. We hypothesized that cellular differences in human progenitor cells contribute to the higher ACL tear risk observed in females."
+    },
+    {
+      "label": "METHODS",
+      "text": "ACL samples were collected from 4 male and 5 female patients undergoing ACL reconstruction surgery. Live cells were collected through flow cytometry and sent for single-cell RNA sequencing. Significantly greater expression in either sex relative to the other was defined as a >25% increase in expression level (log 2 fold change > 0.32) and p < 0.05). Subpopulation characterization was performed with immunofluorescence on tissue sections."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We discovered sex-based differences in all of the native cell types within the ACL. In particular, fibroblast progenitor-like (TPPP3+) cells from female patients expressed genes associated with dysregulation and degradation of collagen more highly than progenitor cells from male patients."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "These results highlight a ligament progenitor population with a sex-dependent gene expression profile. This work suggests that sex-based differences in stem cell populations may drive differential injury rates and outcomes between male and female patients with musculoskeletal injuries."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "The differential gene expression among TPPP3+ progenitor-like cells provides a possible target population for studying ligamentous injury and regeneration. Differential expression of collagen and extracellular matrix-related genes provides evidence of specific genes that could be therapeutically targeted to strengthen the ACL and reduce the risk of rupture, particularly in female athletes."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

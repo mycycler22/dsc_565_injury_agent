@@ -1,0 +1,40 @@
+{
+  "pmid": "37531479",
+  "title": "Is ankle taping effective to limit the ankle dorsiflexion in a single-training session? An observational study in semi-professional basketball players.",
+  "year": "2023",
+  "journal": "Sao Paulo medical journal = Revista paulista de medicina",
+  "pub_types": [
+    "Observational Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle taping (AT) is effective in preventing ankle sprain injuries in most common sports and is employed in rehabilitation and prevention sports."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This study aimed to investigate the effectiveness of AT to restricting excessive frontal plane ankle movements in semi-professional basketball players throughout the training session."
+    },
+    {
+      "label": "DESIGN AND SETTING",
+      "text": "A cross-sectional study was performed at the Universidad Europea de Madrid."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty male and female semi-professional basketball players were divided into two groups. The ankle dorsiflexion range of motion (ROM) and interlimb asymmetries in a weight-bearing lunge position were evaluated at four time points: 1) with no tape, 2) before practice, at 30 min of practice, and 3) immediately after practice."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In male basketball players, no differences were observed in the right and left ankles between the baseline and 30 min and between baseline and 90 min of assessment. In female athletes, significant differences were reported between baseline and pre-training assessments for the right ankle and also significant differences between baseline and 90 min in both ankles."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Ankle taping effectively decreased the ankle dorsiflexion ROM in male and female basketball players immediately after application. However, ROM restriction was very low after 30 and 90 min, as assessed in a single basketball practice. Therefore, the classic taping method should be revised to develop new prophylactic approaches, such as the implementation of semi-rigid bracing techniques or the addition of active stripes during training or game pauses."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

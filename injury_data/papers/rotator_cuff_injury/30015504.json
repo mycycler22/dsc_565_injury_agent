@@ -1,0 +1,40 @@
+{
+  "pmid": "30015504",
+  "title": "Risk Factors and Outcomes of Revision Arthroscopic Posterior Shoulder Capsulolabral Repair.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Risk factors and outcomes of revision arthroscopic posterior capsulolabral repair of the shoulder are currently not well defined."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Athletes who require revision arthroscopic posterior unidirectional capsulolabral repair will have poorer outcomes and return to play when compared with those undergoing primary procedures, with risk factors including younger age, injury size, bone loss, and anchor number."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 297 shoulders that underwent arthroscopic posterior capsulolabral repair at minimum 2-year follow-up were reviewed. In addition to surgical data, the American Shoulder and Elbow Surgeons scoring system with subjective stability, range of motion, strength, and pain scores as well as return to sport were compared pre- and postoperatively between those who did and did not require revision surgery. Magnetic resonance arthrogram measurements of glenoid labral, chondral, and bone version and labral and bone width were also compared."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nineteen shoulders required revision surgery (6.4%) at 8.9-year follow-up. Significant risk factors included female sex ( P = .001), dominant shoulder ( P = .005), and concomitant rotator cuff injury ( P = .029). Patients with ≤3 anchors were more likely to require revision (odds ratio = 3.48). Smaller glenoid bone width was a risk factor for requiring future revision surgery ( P < .001), but glenoid labral, chondral, and bone version and labral width were not risk factors. All patients had significant improvements in American Shoulder and Elbow Surgeons, pain, range of motion, and strength scores after the original surgery; however, those who required revision surgery had less improvement ( P < .05). Stability improved significantly for nonrevisions ( P < .001) but did not for revisions ( P = .662). In the nonrevision group, 64.3% returned to sport at the same level, which was significantly higher than the 15.4% of the revision group ( P = .004). Overall, 78.6% of the nonrevision group and 61.6% of the revision group returned to sport at some level ( P = .280)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes underwent revision arthroscopic posterior capsulolabral repair at an incidence of 6.4%. Revision patients had significantly poorer outcome scores and return to play when compared with those who did not undergo revision surgery with risk factors being dominant shoulder surgery, female sex, concomitant rotator cuff injury, the use of 3 or fewer anchors, and smaller glenoid bone width. These data are essential for patient selection, optimal treatment techniques, and patient education as posterior shoulder instability failure requiring revision has not previously been evaluated."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

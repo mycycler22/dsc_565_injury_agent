@@ -1,0 +1,20 @@
+{
+  "pmid": "40393502",
+  "title": "Sports-related Hip Injuries.",
+  "year": "2025",
+  "journal": "Seminars in musculoskeletal radiology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sports-related injuries of the hip joint and surrounding structures are frequently encountered in athletes, encompassing a wide spectrum of osseous, intra-articular, and extra-articular pathologies. Early and accurate detection of typical injury patterns across various sports can expedite recovery. Delayed diagnosis often leads to prolonged return to play and progression of low grade to more severe injuries. These injuries, caused by repetitive stress or acute trauma, include fractures, hip dislocations, and intra-articular abnormalities, such as femoroacetabular impingement, labral tears, cartilage defects, and ligamentum teres tears. Extra-articular pathologies include apophyseal injuries, muscle strains, athletic pubalgia, greater trochanteric pain syndrome, or snapping hip syndrome, all of which can substantially impair athletic performance. Familiarity with hip anatomy and biomechanics, as well as the strengths of different imaging modalities, with magnetic resonance imaging often the preferred choice for many injuries, is essential for an efficient diagnostic work-up of the painful hip and reducing long-term complications."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

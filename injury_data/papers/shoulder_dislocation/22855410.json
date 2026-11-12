@@ -1,0 +1,32 @@
+{
+  "pmid": "22855410",
+  "title": "Analyzing shoulder translation with navigation technology.",
+  "year": "2012",
+  "journal": "International journal of computer assisted radiology and surgery",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Asymmetric stress imposed on the shoulder can lead to anterior shoulder instability in young athletes who perform repetitive overhead motions. A common treatment, surgical anterior capsule tightening, assumes that the instability is caused by abnormal anterior laxity. This study investigated the possibility that one element of overall imbalance, posterior capsular tightness, could be an underlying reason for shoulder instability. Surgical navigation technology, which is more accurate than whole-body motion-capture systems, was used to study anterior translational motions."
+    },
+    {
+      "label": "METHOD",
+      "text": "The study was used four cadaver shoulders, with the scapula and rotator cuff muscles intact. Opto-electronic surgical navigation localization devices were mounted on the scapula and humerus to accurately capture positions and orientations. The shoulders were passively moved through 7 motions, 5 of simple angulation and 2 combinations of clinical interest. Each motion was repeated in 4 different soft-tissue states: rotator cuff intact, capsule intact, and surgically induced capsular tightnesses of 5 and 10mm."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The shoulders had significantly greater anterior translation when the posterior capsule was artificially tightened (p < 0.05); this was particularly in movements that combined abduction with internal or external rotation, which are typical overhead sports motions. Overall translation was indifferent to whether the shoulders were intact or dissected down to the capsule, as was translation during flexion was indifferent to dissection state (p > 0.95)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Surgical navigation technology can easily be used to analyze cadaveric shoulder motion, with opportunities for adaptation to anesthetized patients. Results suggest that the inverse of artificial tightening, such as surgical release of the posterior capsule, may be an effective minimally invasive treatment of chronic shoulder dislocation subsequent to sports motions."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

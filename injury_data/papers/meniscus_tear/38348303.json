@@ -1,0 +1,31 @@
+{
+  "pmid": "38348303",
+  "title": "Multivariate Analysis of Risk Factors for Injury and Surgical Interventions in Ankle and Knee Injuries in NBA Athletes.",
+  "year": "2024",
+  "journal": "Open access journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Lower extremity ankle and knee injuries occur at a high rate in the National Basketball Association (NBA) often requiring surgical intervention. This study aimed to identify surgical rates and risk factors for surgical intervention using multivariate analysis in ankle and knee injuries in NBA player."
+    },
+    {
+      "label": "METHODS",
+      "text": "Player demographics, performance metrics, advanced statistics, and injury characteristics were recorded using publicly available data. To standardize injury events over multiple years, injury events per 1000 athlete exposure events (AE, one player participating in one game) were calculated. Descriptive analysis and multivariate logistic regression were completed to find associations with surgical intervention in ankle and knee injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 1153 ankle and knee injuries were included in the analysis with 73 (6.33%) lower extremity injuries treated with surgery. Knee injuries had a higher incidence of surgical intervention (0.23 AE) than ankle injuries (0.04 AE). The most frequent surgical knee injury was meniscus tear treated with meniscus repair (0.05 AE) and the most frequent ankle surgery was surgical debridement (0.01 AE) Multivariate logistic regression indicated lower extremity injuries that required surgery were associated with more minutes per game played (odds ratio [OR] 1.13; p = 0.02), a greater usage rate (OR 1.02 p < 0.001), the center position (OR 1.64; 95% [CI] 1.2-2.24; p = 0.002) and lower player efficiency rating (OR 0.96; 95% p < 0.001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Knee surgery was significantly more frequent than ankle surgery despite similar injury rates per 1000 exposures. The center position had the greatest risk for lower extremity injury followed by minutes played while a higher player efficiency rating was protective against surgical intervention. Developing strategies to address these factors will help in the management and prevention of lower extremity injuries requiring surgical intervention."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

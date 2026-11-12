@@ -1,0 +1,31 @@
+{
+  "pmid": "30356560",
+  "title": "Relationships among hamstring muscle optimal length and hamstring flexibility and strength.",
+  "year": "2017",
+  "journal": "Journal of sport and health science",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring muscle strain injury (hamstring injury) due to excessive muscle strain is one of the most common injuries in sports. The relationships among hamstring muscle optimal lengths and hamstring flexibility and strength were unknown, which limited our understanding of risk factors for hamstring injury. This study was aimed at examining the relationships among hamstring muscle optimal length and flexibility and strength."
+    },
+    {
+      "label": "METHODS",
+      "text": "Hamstring flexibility and isokinetic strength data and three-dimensional kinematic data for hamstring isokinetic tests were collected for 11 male and 10 female recreational athletes. The maximal hamstring muscle forces, optimal lengths, and muscle lengths in standing were determined for each participant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Hamstring muscle optimal lengths were significantly correlated to hamstring flexibility score and gender, but not to hamstring strength. The greater the flexibility score, the longer the hamstring muscle optimal length. With the same flexibility score, females tend to have shorter hamstring optimal muscle lengths compared to males. Hamstring flexibility score and hamstring strength were not correlated. Hamstring muscle optimal lengths were longer than but not significantly correlated to corresponding hamstring muscle lengths in standing."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hamstring flexibility may affect hamstring muscle maximum strain in movements. With similar hamstring flexibility, hamstring muscle maximal strain in a given movement may be different between genders. Hamstring muscle lengths in standing should not be used as an approximation of their optimal lengths in calculation of hamstring muscle strain in musculoskeletal system modeling."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

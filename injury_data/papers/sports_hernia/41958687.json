@@ -1,0 +1,39 @@
+{
+  "pmid": "41958687",
+  "title": "Evaluating the Association Between Core Muscle Injury Symptom Pattern and Concomitant Femoroacetabular Impingement Syndrome.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement (FAI) morphology may contribute to abnormal loading of the adductor-rectus abdominis (RA) aponeurosis and development of core muscle injury (CMI) in cutting-pivoting athletes. It is unclear whether CMI with combined RA and adductor longus (RA-AL) symptoms has a higher prevalence of FAI morphology than CMI with AL symptoms alone."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose was to determine (1) whether athletes with CMI with RA-AL or isolated AL symptoms differ in prevalence of FAI syndrome (FAIS) and (2) whether prevalence or severity of FAI morphology differs between these groups. It was hypothesized that athletes with RA-AL symptoms will have a higher prevalence of FAIS and more severe FAI morphology than those with AL symptoms alone."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes who underwent surgical treatment of a CMI between 2021 and 2025 at a single center were identified. Patients were categorized as RA-AL or AL based on symptoms and physical examination findings. FAIS status was determined by symptomatic impingement morphology and treated with hip arthroscopy and core muscle surgery. Impingement anatomy was assessed on radiographs via lateral center-edge angle, crossover ratio, ischial spine sign, head-neck offset ratio, anterior center-edge angle, and α angle."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 65 athletes with CMI were included (median age 21 years; IQR 18-43; 97% male); 42 (65%) had RA-AL and 23 (35%) had AL symptoms. No baseline demographic differences were identified between groups. The prevalence of symptomatic FAIS was 38% (25/65) overall and was lower (29%; 12/42) in the RA-AL group than the AL group (57%; 13/23) (<i>P</i> = .03). Almost all athletes with CMIs (98%; 64/65) demonstrated FAI morphology, irrespective of symptoms; 95% (62/65) had cam-type, 40% (26/65) had pincer-type, and 38% (24/65) had mixed impingement morphology. No differences in radiographic measurements or impingement type were found between groups (<i>P</i> > .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There is a very high prevalence of FAI morphology, particularly femoral cam morphology, in both RA-AL and AL symptomatic athletes with CMI, suggesting a likely role of FAI morphology in CMI development. Symptomatic FAI is more common in athletes with isolated AL symptoms versus RA-AL symptoms. Type and degree of radiographic FAI morphology were not associated with specific CMI symptom patterns."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

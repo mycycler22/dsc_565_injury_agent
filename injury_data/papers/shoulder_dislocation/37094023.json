@@ -1,0 +1,24 @@
+{
+  "pmid": "37094023",
+  "title": "Axillary Artery Transection and Brachial Plexus Injury After Open Inferior Glenohumeral Dislocation: A Case Report.",
+  "year": "2023",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "A judo athlete presented with an open inferior shoulder dislocation that occurred during competition. Examination revealed a transection of the axillary artery and neuropraxia of the posterior cord. Neuropraxia was resolved within 2 weeks. The axillary artery was repaired with a femoral vein graft. He regained full strength, range of motion, and function at 8 months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Inferior glenohumeral dislocations are rare, and their management can be complicated by vascular and neurological injuries. We emphasize the importance of examination, diagnosis, and treatment of neurovascular pathologies to avoid catastrophic outcomes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

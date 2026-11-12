@@ -1,0 +1,20 @@
+{
+  "pmid": "37218811",
+  "title": "Systematic Review of Safety of Selective Androgen Receptor Modulators in Healthy Adults: Implications for Recreational Users.",
+  "year": "2023",
+  "journal": "Journal of xenobiotics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Selective Androgen Receptor Modulators (SARMs) are not FDA approved, and obtaining SARMs for personal use is illegal. Nevertheless, SARM use is increasingly popular amongst recreational athletes. Recent case reports of drug-induced liver injury (DILI) and tendon rupture raise serious concerns for the safety of recreational SARM users. On 10 November 2022 PubMed, Scopus, Web of Science, and ClinicalTrials.gov were searched for studies that reported safety data of SARMs. A multi-tiered screening approach was utilized, and any study or case report of generally healthy individuals exposed to any SARM was included. Thirty-three studies were included in the review with 15 case reports or case series and 18 clinical trials (total patients N = 2136 patients, exposed to SARM N = 1447). There were case reports of drug-induced liver injury (DILI) (N = 15), Achilles tendon rupture (N = 1), rhabdomyolysis (N = 1), and mild reversible liver enzyme elevation (N = 1). Elevated alanine aminotransferase (ALT) was commonly reported in clinical trials in patients exposed to SARM (mean 7.1% across trials). Two individuals exposed to GSK2881078 in a clinical trial were reported to have rhabdomyolysis. Recreational SARM use should be strongly discouraged, and the risks of DILI, rhabdomyolysis, and tendon rupture should be emphasized. However, despite warnings, if a patient refuses to discontinue SARM use, ALT monitoring or dose reduction may improve early detection and prevention of DILI."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

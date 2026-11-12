@@ -1,0 +1,36 @@
+{
+  "pmid": "27302153",
+  "title": "Groin Injuries (Athletic Pubalgia) and Return to Play.",
+  "year": "2016",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Groin pain is a common entity in athletes involved in sports that require acute cutting, pivoting, or kicking such as soccer and ice hockey. Athletic pubalgia is increasingly recognized as a common cause of chronic groin and adductor pain in athletes. It is considered an overuse injury predisposing to disruption of the rectus tendon insertion to the pubis and weakness of the posterior inguinal wall without a clinically detectable hernia. These patients often require surgical therapy after failure of nonoperative measures. A variety of surgical options have been used, and most patients improve and return to high-level competition."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "PubMed databases were searched to identify relevant scientific and review articles from January 1920 to January 2015 using the search terms groin pain, sports hernia, athletic pubalgia, adductor strain, osteitis pubis, stress fractures, femoroacetabular impingement, and labral tears."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Clinical review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS AND CONCLUSION",
+      "text": "Athletic pubalgia is an overuse injury involving a weakness in the rectus abdominis insertion or posterior inguinal wall of the lower abdomen caused by acute or repetitive injury of the structure. A variety of surgical options have been reported with successful outcomes, with high rates of return to the sport in the majority of cases."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

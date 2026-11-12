@@ -1,0 +1,40 @@
+{
+  "pmid": "37515375",
+  "title": "Shoulder pain and injury risk factors in competitive swimmers: A systematic review.",
+  "year": "2023",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "To synthesize and assess the literature for shoulder pain and injury risk factors in competitive swimmers."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review with best-evidence synthesis."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "CINHAL, SportDiscus, Scorpus, PubMed, and Embase databases from 1966 to April 30 2022."
+    },
+    {
+      "label": "SEARCH AND INCLUSION",
+      "text": "Cohort, cross-sectional, and case-control studies investigating shoulder pain or injury risk factors in competitive swimmers were included. Quality of eligible studies were assessed using a modified Newcastle-Ottawa scale. Risk factors were divided into four categories: modifiable-intrinsic, modifiable-extrinsic, non-modifiable, and other/secondary."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 1356 studies identified, 24 full texts were evaluated for methodological quality, 22 met the criteria and were included in best evidence synthesis. There was no strong evidence supporting or refuting the association between 80 assessed variables and shoulder injury or pain. The swimmers' competitive level (nondirectional), and shoulder muscle recruitment profiles (e.g., increased activity of serratus anterior) exhibited moderate evidence supporting an association. Conversely, internal and external range of motion, middle finger back scratch test, training frequency, specialty stroke, height/weight, sex, and age all had moderate evidence opposing an association. Limited evidence was found for 58 variables, and conflicting for 8. The highest quality study (n = 201) suggested high acute-to-chronic workload ratio and reduced posterior shoulder strength endurance are associated with injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Due to the paucity of high-quality studies, future prospective studies are needed to reevaluate known risk factor associations over exploring additional potential risk factors. Swimming practitioners should be aware of the nondirectional association of a swimmer's competitive level and pain, as squad changes could impact injury incidence. Moreover, swimmers experiencing shoulder pain may show increased activity in shoulder stabilizers during specific movements. Importantly, shoulder strength-endurance may be the most clinically relevant modifiable intrinsic risk factor."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

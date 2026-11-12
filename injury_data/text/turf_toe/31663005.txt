@@ -1,0 +1,28 @@
+Title: Return to Sport After Turf Toe Injuries: A Systematic Review and Meta-analysis. | Type: Journal Article, Review | PMID: 31663005 | Year: 2019 | Injury query: turf toe
+[RESULTS] The median time to RTS for patients treated nonoperatively was 5.85 weeks (range, 3.00-8.70 weeks) compared with 14.70 weeks (range, 6.00-156.43 weeks) for patients treated surgically (<i>P</i> < .001); however, there was variability in the grade of injury between the 2 groups.
+[RESULTS] Similarly, patients who sustained grade II injuries returned to sport more quickly (8.70 weeks) than patients who had a grade I (13.04 weeks) or grade III injury (16.50 weeks) (<i>P</i> = .016).
+[RESULTS] The amount of time required to RTS was significantly influenced by the athlete's level of play (16.50 weeks for both high school and college levels; 14.70 weeks for professional level) (<i>P</i> = .018).
+[FULLTEXT: Results:] Of 858 identified studies, 12 met the criteria for the final meta-analysis. The studies included 112 athletes sustaining a total of 121 turf toe injuries; 63 (52.1%) of these injuries were treated surgically, while 58 (47.9%) were treated nonoperatively, and 53.7% were classified by the grade of injury (grade I, n = 1; grade II, n = 9; grade III, n = 55). Overall, 56 (46.3%) injuries could not be classified based on the data provided and were excluded from the final analysis. The median time to RTS for patients treated nonoperatively was 5.85 weeks (range, 3.00-8.70 weeks) compared with 14.70 weeks (range, 6.00-156.43 weeks) for patients treated surgically (P < .001); however, there was variability in the grade of injury between the 2 groups. Similarly, patients who sustained grade II injuries returned to sport more quickly (8.70 weeks) than patients who had a grade I (13.04 weeks) or grade III injury (16.50 weeks) (P = .016). The amount of time required to RTS was significantly influenced by the athlete’s level of play (16.50 weeks for both high school and college levels; 14.70 weeks for professional level) (P = .018).
+[FULLTEXT: Characteristics of Turf Toe Injuries by Time to RTS] Results of the bivariate analyses associated with RTS time are shown in Table 2. The 56 injuries we were unable to classify were excluded from the analysis.2,12 Another study did not record RTS for their 9 injuries.1 The median time to RTS for patients (n = 2) treated nonoperatively was 5.85 weeks versus 14.70 weeks for patients (n = 47) treated surgically (P < .001). Similarly, patients who sustained a grade II injury returned to sport quicker (8.70 weeks) than patients who had a grade I (13.04 weeks) or grade III injury (16.50 weeks) (P = .016). The amount of time required to RTS was significantly influenced by the athlete’s level of play (16.50 weeks for both high school and college levels, and 14.70 weeks for professional level) (P = .018). Because time to RTS differed significantly by grade of injury, we also examined differences in treatment by both competition level and grade. Here, we focused on the 47 athletes who underwent operative treatment. There were 17 professional athletes who were managed surgically: 1 was classified as grade I (5.9%), 3 were grade II (17.6%), and 13 were grade III (76.5%). For the 24 surgically treated college athletes, 2 were grade II (8.3%), and 22 were grade III (91.7%). There were 4 surgically treated high school athletes: all were grade III. The remaining cases did not report the grade of injury. When further evaluating by the grade of injury per the athlete’s level of play, the 1 grade I injury was a professional athlete with an RTS time of 13.04 weeks. The RTS time was not found to be statistically significantly different for grade II injuries at the high school (3.00 weeks), college (13.00 weeks), or professional levels (7.00 weeks) (P = .276). However, when only looking at grade III injuries, there was a statistically significant difference in RTS time by level of play (16.50 weeks for both high school and college levels, and 14.70 for professional level) (P = .005). The median time to RTS was not significantly different when evaluating between types of sport (6.00 weeks for basketball, 14.70 weeks for baseball, 14.70 weeks for football, 23.90 weeks for soccer, 13.04 weeks for taekwondo, and 26.07 weeks for track). Similarly, the RTS time was not significantly different by skilled football positions versus linemen (18.00 weeks for tailback and fullback vs 16.44 weeks for offensive and defensive lineman). However, it needs to be noted that the reported football position and type of sport were sparse in the literature.
+[FULLTEXT: TABLE: Time to Return to Sporta] Variable | n | RTS, Median (Range), wk | P
+Grade of injury |  |  | .016b
+Grade I | 1 | 13.04 (13.04-13.04) | 
+Grade II | 7 | 8.70 (3.00-26.07) | 
+Grade III | 41c | 16.50 (10.00-156.43) | 
+Level of competition |  |  | .018d
+High school | 5 | 16.50 (3.00-26.10) | 
+College | 25 | 16.50 (8.70-26.10) | 
+Professional | 17 | 14.70 (6.00-26.07) | 
+Treatmente |  |  | <.001b
+Nonoperative | 2 | 5.85 (3.00-8.70) | 
+Surgery | 47 | 14.70 (6.00-156.43) | 
+Sporte |  |  | N/Ad
+Basketball | 1 | 6.00 (6.00-6.00) | 
+Baseball | 1 | 14.70 (14.70-14.70) | 
+Football | 44 | 14.70 (3.00-156.43) | 
+Soccer | 1 | 23.90 (23.90-23.90) | 
+Taekwondo | 2 | 13.04 (13.04-13.04) | 
+Track | 1 | 26.07 (26.07-26.07) | 
+Football position |  |  | N/Ab
+Tailback and fullback | 1 | 18.00 (18.00-18.00) | 
+Offensive and defensive lineman | 19 | 16.44 (7.00-26.10) | 

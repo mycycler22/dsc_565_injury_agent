@@ -1,0 +1,20 @@
+{
+  "pmid": "39428642",
+  "title": "Systematic Review of Arthroscopic Bankart Repair Outcomes for Anterior Shoulder Instability.",
+  "year": "2024",
+  "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "BACKGROUND The shoulder is a complex joint that has the most extensive range of motion among all joints, resulting in more susceptibility to dislocation. The treatment for acute shoulder dislocation is closed reduction, which should be performed immediately. Arthroscopic Bankart repair (ABR) is a procedure for treating anterior shoulder instability. This systematic review aimed to evaluate the published literature on ABR for anterior shoulder instability. MATERIAL AND METHODS We searched electronic databases, including Google Scholar, PubMed, Science Direct, Scopus, and PubMed, to find literature about our topic published between 2018 and 2023. Different keywords were searched, including \"ABR, shoulder, instability, dislocation, treatment, management, recurrence, outcomes, and complications\". The inclusion criteria were English original articles with available full text. RESULTS Only 8 articles were included; the articles included a total of 398 patients with an age range of 15 to 55 years old. One study was conducted on male patients, and another was conducted on female patients, whereas the remaining studies were conducted on both sexes. Among the 8 studies, 4 studies conducted ABR alone, and all reported significant change with ABR. Four studies compared ABR with Latarjet, concomitant remplissage, and immobilization and reported that ABR is equivalent or better than these interventions. CONCLUSIONS ABR was effective in the management of shoulder instability, as it resulted in a lower rate of recurrence, low rate of complications, and high rate of return to sport, regardless of the suture type. However, it is superior or similar to other interventions, like Latarjet and concomitant remplissage."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

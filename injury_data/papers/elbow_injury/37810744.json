@@ -1,0 +1,39 @@
+{
+  "pmid": "37810744",
+  "title": "Shoulder and Elbow Injuries in National Basketball Association Athletes and Their Effects on Player Performance.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder and elbow function is essential to basic basketball actions. Outside of anterior shoulder instability, injuries in these joints are not well characterized in National Basketball Association (NBA) players."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the epidemiology and associated risk factors of shoulder and elbow injuries in NBA players and identify factors that influence player performance upon return to play."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Historical injury data from the 2015-2020 NBA seasons were retrieved from Pro Sports Transactions, a public online database. An injury was defined as a health-related concern resulting in an absence of ≥1 NBA games. Primary measures included pre- and postinjury player efficiency rating (PER) and true shooting percentage (TS%) with interquartile ranges (IQRs), stratified by extremity dominance. Multivariate logistic regression analyses with stepwise regression were performed to identify risk factors associated with return-to-play performance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 192 shoulder and elbow injuries were sustained among 126 NBA athletes, with incidence rates of 1.11 per 1000 game exposures (GEs) and 0.30 per 1000 GEs, respectively. Sprain/strain and general soreness were the most common injury types in both the shoulder and the elbow. In the 2 years after injury, baseline PER was achieved in all groups, except for players with dominant shoulder injuries (baseline PER, 16 [IQR, 14-18] vs 2-year PER, 13 [IQR 11-16]; <i>P</i> = .012). Younger age was associated with quicker return to baseline PER (odds ratio, 0.77 [95% CI, 0.67-0.88]). Shoulder and elbow injuries did not negatively influence TS% upon return to play (baseline TS%, 0.55% [IQR, 0.51%-0.58%] vs 1-year TS%, 0.55% [IQR, 0.52%-0.58%]; <i>P</i> = .13)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Dominant shoulder injuries negatively influenced PER during the first 2 seasons upon return to play in NBA players. Therefore, expectations that players with this type of injury immediately achieve baseline statistical production should be tempered. Shooting accuracy appears to remain unaffected after shoulder or elbow injury."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

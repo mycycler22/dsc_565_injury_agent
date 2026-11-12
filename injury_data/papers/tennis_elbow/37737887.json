@@ -1,0 +1,41 @@
+{
+  "pmid": "37737887",
+  "title": "[New treatment methods in competitive sports : What can we learn from the medical care of top athletes?].",
+  "year": "2023",
+  "journal": "Orthopadie (Heidelberg, Germany)",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "As elite sport becomes more professional, the medical-psychological care of athletes is an important factor in providing them with the best possible support and thus optimising their performance. Our experience in the fields of prevention, conservative and surgical treatment, and rehabilitation also provides valuable insights for the treatment of our patients in daily practice."
+    },
+    {
+      "label": "PREVENTION",
+      "text": "Designed to improve static and dynamic muscle strength, kinaesthetic sensitivity, and neuromuscular control, the FIFA 11+ injury prevention programme is a three-part warm-up programme that is widely used in coaching and recreational sports."
+    },
+    {
+      "label": "CONSERVATIVE TREATMENT",
+      "text": "Platelet-rich plasma (PRP) is probably the most widely used orthobiologic treatment modality for the conservative management of tendon, muscle and cartilage injuries. Its effectiveness depends on the underlying pathology and the affected body region. The best evidence exists for the treatment of patellar tendinitis (\"jumper's knee\") and epicondylitis humeri radialis (\"tennis elbow\")."
+    },
+    {
+      "label": "SURGICAL TREATMENT",
+      "text": "The treatment of ACL injuries in competitive athletes is challenging due to the high physical demands. Prompt surgical intervention, anatomical reconstruction and additional extra-articular stabilisation are associated with improved surgical outcomes. Graft selection must be individualised, adapted to the needs of the athletes and our patients."
+    },
+    {
+      "label": "REHABILITATION",
+      "text": "Electromyography (EMG) is a diagnostic tool to identify muscular imbalances in rehabilitation and, at the same time, to help reduce them through biofeedback training."
+    },
+    {
+      "label": "COGNITIVE TRAINING",
+      "text": "Training for the development of basic cognitive skills helps to optimise performance through its potentially positive influence on the executive functions of athletes."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

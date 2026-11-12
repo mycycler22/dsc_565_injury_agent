@@ -1,0 +1,19 @@
+{
+  "pmid": "38137169",
+  "title": "Bilateral Deficits in Dynamic Postural Stability in Females Persist Years after Unilateral ACL Injury and Are Modulated by the Match between Injury Side and Leg Dominance.",
+  "year": "2023",
+  "journal": "Brain sciences",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Previous research has documented brain plasticity after an anterior cruciate ligament (ACL) tear and suggests that these neural adaptations contribute to poorer motor control. Since both brain hemispheres show adaptations, we hypothesized that reduced dynamic stability occurs not only in the injured, but also the contralateral, uninjured leg. Further, given brain hemispheric specialization's impact on motor coordination, we hypothesized the need to consider the injury side. A total of 41 female athletes and 18 controls performed single-leg jump-landings. Dynamic postural stability was measured as time-to-stabilization (TTS). We found reduced medio-lateral dynamic stability for the ACL injured leg (<i>p</i> = 0.006) with a similar trend for the contralateral leg (<i>p</i> = 0.050) compared to the control group. However, when distinguishing between injuries to the dominant and non-dominant legs, we found increased medio-lateral TTS only if the injury had occurred on the dominant side where landings on injured (<i>p</i> = 0.006) and contralateral (<i>p</i> = 0.036) legs required increased TTS. Assessments of dynamic stability, e.g., in the context of return-to-sport, should consider the injury side and compare results not only between the injured and the contralateral leg, but also to uninjured controls. Future research should not pool data from the dominant-leg ACL with non-dominant-leg ACL injuries when assessing post-injury motor performance."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

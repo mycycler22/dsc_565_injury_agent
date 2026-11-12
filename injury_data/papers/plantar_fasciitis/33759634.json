@@ -1,0 +1,40 @@
+{
+  "pmid": "33759634",
+  "title": "Foot and Ankle Injections in Athletes.",
+  "year": "2022",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Injections are commonly used by health care practitioners to treat foot and ankle injuries in athletes despite ongoing questions regarding efficacy and safety."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "An extensive literature review was performed through MEDLINE, Google Scholar, and EBSCOhost from database inception to 2021. Keywords searched were <i>injections</i>, <i>athletes</i>, <i>sports</i>, <i>foot and ankle</i>, <i>corticosteroids</i>, <i>platelet-rich plasma</i>, and <i>placental tissue</i>. Search results included articles written in the English language and encompassed reviews, case series, empirical studies, and basic science articles."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Clinical review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Corticosteroids, platelet-rich plasma/autologous blood, anesthetic, and placental tissue injections are commonly used in the treatment of foot and ankle injuries. Primary indications for injections in athletes include plantar fasciitis, Achilles tendinosis, isolated syndesmotic injury, and ankle impingement with varying clinical results."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Despite promising results from limited case series and comparative studies, the data for safety and efficacy of injections for foot and ankle injuries in athletes remain inconclusive."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

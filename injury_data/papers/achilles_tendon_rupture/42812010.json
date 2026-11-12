@@ -1,0 +1,32 @@
+{
+  "pmid": "42812010",
+  "title": "Nonoperative treatment of Achilles tendon rupture with 6- versus 8-week protocol: a single-center cohort study from Finland.",
+  "year": "2026",
+  "journal": "Acta orthopaedica",
+  "pub_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND PURPOSE",
+      "text": " Although nonoperative treatment of Achilles tendon rupture (ATR) has become increasingly common, the optimal duration of immobilization and early functional rehabilitation remains uncertain. We aimed to compare outcomes of 8-week and 6-week nonoperative treatment protocols for ATR, with particular focus on re-rupture rates and treatment failure requiring surgery."
+    },
+    {
+      "label": "METHODS",
+      "text": " This register study included all university hospital-treated ATRs in the Northern Savo region, Finland, between 2014 and 2023. Patients were identified using ICD-10 and NOMESCO procedure codes. We compared outcomes between an 8-week nonoperative treatment protocol used in 2014-2018 and a 6-week protocol used in 2019-2023. Outcomes included patient demographics, treatment distribution, indications for surgery, and complications."
+    },
+    {
+      "label": "RESULTS",
+      "text": " Among 479 ATRs, 429/479 (90%) were treated nonoperatively. Operative treatment was mainly done in athletes. Operative treatment was performed in 32/251 (13%) patients in the 8-week protocol group and in 18/228 (7.9%) patients in the 6-week protocol group. Re-rupture rates were similar between the 8-week and 6-week protocols (7/251 [2.8%] vs 4/228 [1.8%] absolute risk difference -1.0 percentage point, 95% confidence interval -3.7 to 1.6). Operative treatment was mainly indicated for athletes, chronic ruptures, and re-ruptures, with a postoperative complication rate of 14%."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": " Outcomes regarding re-rupture and treatment failure following the 6-week nonoperative protocol were comparable to those observed with the 8-week protocol However, larger comparative studies in more diverse populations are needed to confirm the generalizability of these findings."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "41049672",
+  "title": "Athletes who return to sport after treatment for shoulder instability exhibit higher psychological readiness: a systematic review.",
+  "year": "2025",
+  "journal": "JSES international",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder instability is a common athletic injury, which can be treated surgically or nonsurgically. Studies estimating return to sport (RTS) rates following treatment vary widely. While there are many factors affecting RTS rates, recent studies have revealed that psychological factors significantly impact an athlete's ability to RTS. Therefore, multiple validated scales have been created to assess an athlete's psychological readiness to RTS after treatment for shoulder instability. The goal of this study is to review these psychological assessments currently being used for shoulder instability and determine whether athletes who RTS after being treated for shoulder instability have higher psychological readiness scores than those who do not."
+    },
+    {
+      "label": "METHODS",
+      "text": "A search was conducted in the PubMed, Scopus, and SPORTDiscus databases for all studies using any validated questionnaire to assess psychological outcomes and RTS rates after treatment for shoulder instability. Athlete characteristics, outcome measurements, and readiness scores were collected and compared between two groups: athletes who did RTS and athletes who did not RTS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nine studies including a total of 844 athletes were included. Of these, 579 athletes (68.60%) were able to RTS and 265 (31.40%) were not. The Shoulder Instability-Return to Sport after Injury scale was the most commonly used, appearing in eight studies. The Shoulder Instability-Return to Sport after Injury scores for athletes who did RTS ranged from 48.40 to 79.10, while scores for athletes who did not return ranged from 36.40 to 65.34. One study used the Tampa Scale of Kinesiophobia; the score for those who did RTS was 23.4 and 30.1 for those who did not."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes who RTS after treatment for shoulder instability have higher psychological readiness compared with those who do not return. Our results support previous findings that psychological factors are an important consideration when evaluating athletes for RTS after treatment for shoulder instability."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "35254862",
+  "title": "Pathologic Findings on Hip Arthroscopy in High-Level Athletes Competing in Flexibility Sports.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Athletes who compete in flexibility sports (FS) place unique demands on their hip joints because of the supraphysiologic range of motion required."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare the pathologic features, outcomes, and return-to-sports (RTS) rates of high-level athletes participating in FS who underwent hip arthroscopy for femoroacetabular impingement syndrome (FAIS) and labral tear against a propensity score-matched cohort of high-level athletes participating in non-flexibility sports (NFS)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data were prospectively collected and retrospectively reviewed for high-level athletes who underwent primary hip arthroscopy for FAIS from April 2008 to December 2018. Patients who participated in FS such as dancing, gymnastics, martial arts, figure skating, and cheerleading were propensity score matched by body mass index, age at time of surgery, sex, sports competition level, and labral treatment to a cohort of high-level athletes participating in all other sports, such as distance running, soccer, volleyball, and softball. Baseline patient characteristics, intraoperative findings, and surgical procedures were compared. Minimum 2-year patient-reported outcome measures were compared for the modified Harris Hip Score, Nonarthritic Hip Score, Hip Outcome Score-Sport Specific Subscale, and visual analog scale for pain and satisfaction. Rates of secondary surgery and RTS were compared."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 47 patients (50 hips) who participated in FS were included and propensity score matched to 130 patients (150 hips) who participated in NFS. Follow-up time was 37.5 ± 10.4 months (mean ± SD). Most patients (96.0%) were female with a mean age of 19.5 ± 7.3 years. FS athletes had significantly higher rates of femoral head cartilage lesions (Outerbridge ≥2; 12.0% vs 2.0%; <i>P</i> = .008) and ligamentum teres tears (48% vs 26%; <i>P</i> = .003). FS and NFS athletes demonstrated significant clinical improvements after surgery for all patient-reported outcome measures. Of the patients who attempted, 34 (75.6%) participating in FS were able to RTS while 11 (24.4%) were not because of ongoing hip issues. This was not significantly different than the NFS group (<i>P</i> = .073)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "High-level athletes who participated in FS and were treated for FAIS with hip arthroscopy exhibited higher rates of femoral head cartilage lesions and ligamentum teres tears requiring debridement when compared with a benchmark group of athletes who participated in other sports. Despite this, both groups demonstrated similar improvements in outcome scores and comparable rates of RTS at minimum 2-year follow-up."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

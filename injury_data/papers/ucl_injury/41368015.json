@@ -1,0 +1,61 @@
+{
+  "pmid": "41368015",
+  "title": "Outcomes After Ulnar Collateral Ligament Reconstruction and Repair in Nonthrowing Athletes.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Surgical management of ulnar collateral ligament (UCL) tears in nonthrowing athletes is less commonly performed, and the outcomes of that management have not been thoroughly described."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the clinical outcomes of surgical management of UCL injury in nonthrowing athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was conducted on all patients who underwent UCL reconstruction or repair across a 10-year period (2010-2020), with nonthrowing athletes who had >2-year follow-up being specifically identified. Demographic variables such as age, sport participation, concomitant procedures, and graft type, as well as postoperative outcomes such as complications, patient satisfaction, return to play (RTP), and patient-reported outcomes (PROs), were recorded for the whole cohort as well as stratified by repair and reconstruction group. Data were presented as mean with standard deviation or median with range and odds ratio calculated as appropriate."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 19 nonthrowing athletes undergoing either UCL reconstruction (n = 12) or repair (n = 7) met the inclusion criteria for the study. Sport participation included 5 cheerleaders, 4 wrestlers, 4 gymnasts, 2 lacrosse players, 1 boxer, 1 mixed martial arts fighter, and 1 football player (offensive lineman). The mean age for these patients was 20.1 ± 7.3 years with 52.6% of patients being female. The majority of tears were proximal (72.2%). Overall, 68.4% were able to RTP (58.3% UCL reconstruction; 85.7% repair) after 9.5 months (9.86 months UCL reconstruction; 9.0 months repair) with 76.9% (10/13) of the athletes returning to the same or higher level of competition."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study demonstrates that surgical management via either UCL reconstruction or repair can result in high rates of good-to-excellent PROs, high levels of patient satisfaction, and time to RTP that is earlier, albeit with a slightly lower overall rate of RTP, than that generally described in throwing athletes."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Overall, 68.4% were able to RTP (58.3% UCL reconstruction; 85.7% repair) after 9.5 months (9.86 months UCL reconstruction; 9.0 months repair) with 76.9% (10/13) of the athletes returning to the same or higher level of competition."
+    }
+  ],
+  "pmcid": "12683002",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 19 nonthrowing athletes undergoing either UCL reconstruction (n = 12) or repair (n = 7) met the inclusion criteria for the study. Sport participation included 5 cheerleaders, 4 wrestlers, 4 gymnasts, 2 lacrosse players, 1 boxer, 1 mixed martial arts fighter, and 1 football player (offensive lineman). The mean age for these patients was 20.1 ± 7.3 years with 52.6% of patients being female. The majority of tears were proximal (72.2%). Overall, 68.4% were able to RTP (58.3% UCL reconstruction; 85.7% repair) after 9.5 months (9.86 months UCL reconstruction; 9.0 months repair) with 76.9% (10/13) of the athletes returning to the same or higher level of competition."
+    },
+    {
+      "section": "Overall Cohort Characteristics and Outcomes",
+      "text": "Upon initial query, 427 patients undergoing primary UCL reconstruction or repair were identified. The substantial majority of these included baseball and softball players as well as javelin throwers. Thus, after careful chart review, a total of 19 nonthrowing athletes that underwent either UCL reconstruction or repair met the inclusion criteria. A total of 12 patients underwent UCL reconstruction and 7 underwent UCL repair. The nonthrowing sport participation of these patients included cheerleading (5), wrestling (4), gymnastics (4), lacrosse (2), boxing (1), mixed martial arts (1), and football lineman (1). The mean ± SD age was 20.1 ± 7.3 years and 52.6% of patients were female (Table 1). Data from MRI evaluation was available for 18 of the 19 patients and demonstrated that a majority of the tears were proximal (72.2%). There were no midsubstance tears identified by radiology report. A majority of tears were described as partial thickness (61.1%). Overall, the ASES score was 90.7 ± 16.2, Timmerman-Andrews score was 83.9 ± 12.6, and overall RTP rate was 68.4%. More specifically, 52.6% (10/19) of the athletes total athletes, including 76.9% (10/13) who reported return to competition reported returning to the same or higher level of competition."
+    },
+    {
+      "section": "Postoperative Outcomes",
+      "text": "Postoperative outcome scores were similar between groups including ASES (P = .53), QuickDASH (P = .49), and Timmerman-Andrews scores (P = .78). On a scale from 0 to 100 with 100 being entirely satisfied, satisfaction with surgery was similar between groups (P = .26) as was the rate at which patients reported they would choose to undergo surgery again (P≥ .99). All patients in the reconstruction group and 85.7% of those in the repair group reported symptoms improving or completely resolving after surgery (P = .33) (Table 3). Interestingly, 55.6% (5/9) of gymnasts or cheerleaders were unable to return to their respective sport. One wrestler (25.0%; 1/4) was unable to return to sport, but all lacrosse, mixed martial arts, football, and boxing athletes were otherwise able to return to some level of sport participation. Postoperatively, all patients underwent formal physical therapy rehabilitation (reconstruction, 5.21 ± 3.35 months; repair, 4.36 ± 3.64 months; P = .62). All had full ROM in flexion, extension, pronation, and supination, however, 1 patient had hyperextension (–20°) on physical examination after surgery (compared with 5° short of full extension preoperatively). Notably, while no patients in the reconstruction cohort reported suffering any subsequent elbow (including UCL-related symptoms) or shoulder injury after their UCL surgery, 1 patient in the repair cohort sustained a partial tear of the distal biceps tendon 3 years after initial surgery."
+    },
+    {
+      "section": "TABLE: Postoperative PROs and RTP Data After UCL Reconstruction and Repair a",
+      "text": " | UCL Reconstruction | UCL Repair | Odds Ratio (95% CI)\n | n = 12 | n = 7 | \nASES score | 99.2 [97.9-100] | 95.0 [83.3-100] | 1.00 (0.94-1.06)\nQuickDASH | 3.41 [0.00-4.55] | 4.55 [2.27-6.82] | 0.98 (0.86-1.11)\nTimmerman-Andrews elbow score, mean ± SD | 83.3 ± 14.7 | 85.0 ± 10.4 | 1.01 (0.94-1.09)\nSatisfaction | 100 [97.2-100] | 96.0 [80.5-100] | 0.96 (0.89-1.03)\nWould you undergo UCL surgery again?\nNo | 1 (8.3) | 1 (14.3) | Ref\nYes | 11 (91.7) | 6 (85.7) | 0.56 (0.01-24.7)\nSymptoms after surgery\nResolved completely | 6 (50.0) | 4 (57.1) | Ref\nImproved | 6 (50.0) | 2 (28.6) | Ref\nWorsened | 0 (0.00) | 1 (14.3) | 0.17 (0.01-4.88)\nRTP\nNo | 5 (41.7) | 1 (14.3) | Ref\nYes | 7 (58.3) | 6 (85.7) | 3.70 (0.40-118)\nTime to RTP, mo, mean ± SD | 9.86 ± 5.11 | 9.00 ± 7.95 | 0.98 (0.81-1.17)\nLevel of play returned to\nLower | 2 (28.6) | 1 (16.7) | Ref\nSame | 2 (28.6) | 3 (50.0) | 2.53 (0.12-116)\nHigher | 3 (42.9) | 2 (33.3) | 1.26 (0.06-58.0)"
+    }
+  ]
+}

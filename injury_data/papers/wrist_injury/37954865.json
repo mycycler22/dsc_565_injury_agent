@@ -1,0 +1,53 @@
+{
+  "pmid": "37954865",
+  "title": "Management of Hand and Wrist Injuries in NCAA Division I Football Players From a Single Institution: Factors Associated With Epidemiology, Surgical Intervention, and Return to Play.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Upper extremity injuries account for approximately 16.9% of football injuries in the National Collegiate Athletic Association (NCAA)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the epidemiology, management, and outcomes of hand/wrist injuries in collegiate football athletes so as to identify factors associated with surgical intervention and delayed return to play (RTP)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "We retrospectively reviewed hand/wrist injuries that occurred within a single NCAA Division I football team from January 1, 2003, to December 31, 2020. Data analyzed included player position, college seniority, injury characteristics, injury management, surgical procedures performed, and timing of RTP. A univariate analysis was performed to identify factors associated with increased risk for surgical intervention and delayed (>21 days) RTP after hand and wrist injury in this cohort."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 124 patients with 168 hand/wrist injuries were identified (9.9 wrist/hand injuries per year). Sprain of the thumb metacarpophalangeal (MCP) joint ulnar collateral ligament (UCL) was the most common diagnosis (19.6%). Surgery was required in 22% of injuries, with injury of the UCL of the thumb MCP joint (8/37) being the most common indication. Injuries occurring during competitive games (odds ratio = 4.29; 95% CI, 1.2-15.9) were associated with an increased risk for surgery. Most (70%) injuries did not lead to time missed from football, whereas the remaining 30% resulted in an average of 33 ± 36 days missed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Over 17 athletic seasons, the annual incidence of hand and wrist injury in these NCAA Division I football players was 9.9 injuries per year, with 22% requiring surgical treatment. Injury to the UCL of the thumb MCP joint was the most common injury and indication for surgery, and 30% of injuries resulted in approximately 1 month lost. Injuries sustained in games were associated with operative management and delayed RTP."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Most (70%) injuries did not lead to time missed from football, whereas the remaining 30% resulted in an average of 33 ± 36 days missed."
+    }
+  ],
+  "pmcid": "10638884",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Overall, 124 patients with 168 hand/wrist injuries were identified (9.9 wrist/hand injuries per year). Sprain of the thumb metacarpophalangeal (MCP) joint ulnar collateral ligament (UCL) was the most common diagnosis (19.6%). Surgery was required in 22% of injuries, with injury of the UCL of the thumb MCP joint (8/37) being the most common indication. Injuries occurring during competitive games (odds ratio = 4.29; 95% CI, 1.2-15.9) were associated with an increased risk for surgery. Most (70%) injuries did not lead to time missed from football, whereas the remaining 30% resulted in an average of 33 ± 36 days missed."
+    },
+    {
+      "section": "TABLE: Hand and Wrist Injuries Managed Operatively and Associated RTP a",
+      "text": "Injury Type | Surgical Management, n | Mean RTP Time, days b\nUlnar collateral ligament injury | 8 | 46\nScaphoid fracture | 7 | 67\nPhalanx fracture | 4 | 59\nProximal interphalangeal/distal interphalangeal dislocation | 3 | 30\nScapholunate ligament injury | 3 | 38\nMetacarpal fracture | 3 | 6\nRadial collateral ligament injury | 2 | 25\nTriangular fibrocartilage complex tear | 1 | 53\nTrigger finger | 1 | 5\nPerilunate dislocation | 1 | 149\nBennett fracture | 2 | 66\nBoutonniere deformity | 1 | 1\nUlna styloid fracture | 1 | 53"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "8238714",
+  "title": "Outpatient percutaneous screw fixation of the acute Jones fracture.",
+  "year": "1993",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Nine patients (8 men and 1 woman, ranging in age from 17 to 22 years) who sustained a Jones fracture were treated with percutaneous intramedullary screw fixation as outpatients. All of the patients were varsity athletes. Seven were Division I scholarship athletes. Beginning at 7 to 10 days after surgery, all patients were allowed weightbearing as tolerated with a CAM walker. Stationary bicycling, swimming, and Stairmaster were allowed at 2 to 3 weeks. The average return to running was 5.5 weeks (range, 3 to 10). The average return to full competition was 8.5 weeks (range, 7 to 12). No perioperative or postoperative complications occurred. Average followup was 2.5 years. All fractures attained clinical and radiographic union. We believe that outpatient percutaneous intramedullary screw fixation of the acute Jones fracture is a reasonable alternative for those active patients who would have difficulty with a non-weightbearing cast and crutches or who desire an expeditious return to activities. Time restraints are particularly critical for in-season or preseason athletes. With the outpatient screw fixation method, our patient population had predictable healing, and they returned to full sports participation within 12 weeks."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "With the outpatient screw fixation method, our patient population had predictable healing, and they returned to full sports participation within 12 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

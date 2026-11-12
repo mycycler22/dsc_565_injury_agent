@@ -1,0 +1,20 @@
+{
+  "pmid": "21888126",
+  "title": "Stress fractures: diagnosis, treatment, and prevention.",
+  "year": "2011",
+  "journal": "American family physician",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Stress fractures are common injuries in athletes and military recruits. These injuries occur more commonly in lower extremities than in upper extremities. Stress fractures should be considered in patients who present with tenderness or edema after a recent increase in activity or repeated activity with limited rest. The differential diagnosis varies based on location, but commonly includes tendinopathy, compartment syndrome, and nerve or artery entrapment syndrome. Medial tibial stress syndrome (shin splints) can be distinguished from tibial stress fractures by diffuse tenderness along the length of the posteromedial tibial shaft and a lack of edema. When stress fracture is suspected, plain radiography should be obtained initially and, if negative, may be repeated after two to three weeks for greater accuracy. If an urgent diagnosis is needed, triple-phase bone scintigraphy or magnetic resonance imaging should be considered. Both modalities have a similar sensitivity, but magnetic resonance imaging has greater specificity. Treatment of stress fractures consists of activity modification, including the use of nonweight-bearing crutches if needed for pain relief. Analgesics are appropriate to relieve pain, and pneumatic bracing can be used to facilitate healing. After the pain is resolved and the examination shows improvement, patients may gradually increase their level of activity. Surgical consultation may be appropriate for patients with stress fractures in high-risk locations, nonunion, or recurrent stress fractures. Prevention of stress fractures has been studied in military personnel, but more research is needed in other populations."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

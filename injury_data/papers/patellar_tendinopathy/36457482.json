@@ -1,0 +1,19 @@
+{
+  "pmid": "36457482",
+  "title": "Treatment of Jumper's Knee with Extracorporeal Shockwave Therapy: A Systematic Review and Meta-Analysis.",
+  "year": "2022",
+  "journal": "Journal of human kinetics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The aim of this systematic review and meta-analysis was to determine the therapeutic efficacy of extracorporeal shockwave therapy (ESWT) for athletes with patellar tendinopathy. We searched PubMed, EBSCOHost and Ovid for randomized controlled trials (RCTs) which evaluated the therapeutic efficacy of ESWT in athletes with jumper's knee. The methodological quality of RCTs was rated with the Physiotherapy Evidence Database scale. Data in the meta-analysis were expressed as standardized mean difference (SMDs) and 95% confidence intervals (CIs). Heterogeneity was assessed with I<sup>2</sup> statistics. Of 192 records identified, a total of seven articles met the inclusion criteria. The ESWT and control groups with any other conservative treatment did not differ significantly with respect to the Visual Analogue Scale (VAS) long-term scores obtained at ≥ 6 months of therapy completion (SMD: -0.33; 95% CI: -4.64 to 3.98; p = 0.87; I<sup>2</sup>= 98%). Furthermore, no significant differences were found between the ESWT and control groups regarding the pooled Victorian Institute of Sports Assessment for Patella (VISA-P) scores for long-term outcomes (SMD: 8.21; 95% CI: -39.3 to 55.73; p = 0.73; I<sup>2</sup>= 99%). The ESWT and control groups did not differ significantly on the VAS and VISA-P scores for long-term outcomes. In both cases, heterogeneity was considered to be high. Hence, no clear and generalized conclusions can be drawn regarding ESWT effectiveness in athletes with patellar tendinopathy."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

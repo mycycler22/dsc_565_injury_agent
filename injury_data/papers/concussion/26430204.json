@@ -1,0 +1,20 @@
+{
+  "pmid": "26430204",
+  "title": "Return to Play.",
+  "year": "2015",
+  "journal": "Pediatrics in review",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Based primarily on consensus and some research evidence, young athletes with musculoskeletal and cervical spine injuries should not return to play until they have full range of motion, resolution of pain, normal strength, psychological readiness, and the ability to demonstrate adequate sport-specific skills. Based primarily on consensus, young athletes with suspected concussion should not return to sport until they have returned to their baseline physical and cognitive activities and successfully completed a return-to-play protocol. Based on consensus and some research evidence, any young athlete with a significant eye injury, visual changes, or abnormal findings on ophthalmologic examination results should not return to play until evaluated by an ophthalmologist. A significant number of eye injuries can be prevented by the use of approved protective eyewear."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

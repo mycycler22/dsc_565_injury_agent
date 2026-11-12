@@ -1,0 +1,32 @@
+{
+  "pmid": "30529860",
+  "title": "A systematic review of shoulder injury prevalence, proportion, rate, type, onset, severity, mechanism and risk factors in female artistic gymnasts.",
+  "year": "2019",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Systematically review shoulder injury prevalence, proportion, rate, type, onset, severity, mechanism, risk factors in female artistic gymnasts."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed, Web of Science, Scopus, Cochrane Library were searched on 7/01/2017. Original studies reporting data for female artistic gymnasts only, of any age or level were included. Quality assessment was undertaken using Quality Assessment Tool for Observational Cohort and Cross-Sectional Studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifteen observational studies were included. Thirteen were poor/fair quality. Shoulder injury prevalence (0%-86.9%) was higher in international (29.2%) versus national (20%) gymnasts. As a proportion of all injuries, shoulder injuries made up 4.2%-7.5%. Rates (0.35-5.7/1000 athlete exposures) were greater during practice (5.0/1000) than competition (2.4/1000). Multidirectional instability (33.8%, 37.7%) and musculotendinous injury (26.6%-90.9%) were the most common injury. In four studies 66.2%-100% of total shoulder injuries were acute onset. Most (59.3%) shoulder injuries were minor, 7.4% required surgery and 80% caused symptoms post-retirement. Asymmetric bars were the most frequent mechanism of shoulder injury. One study reported excessive shoulder stretching, hyperlaxity and instability as significant (p < 0.001) potential risk factors."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Shoulder injuries are a problem among female artistic gymnasts. Interventional studies reporting age and competition level-specific data may guide prevention strategy implementation."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

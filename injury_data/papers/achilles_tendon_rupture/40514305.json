@@ -1,0 +1,39 @@
+{
+  "pmid": "40514305",
+  "title": "Endoscopic flexor hallucis longus transfer for acute Achilles tendon ruptures is associated with a high re-rupture rate: A prospective case series.",
+  "year": "2025",
+  "journal": "Foot and ankle surgery : official journal of the European Society of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Achilles tendon rupture (ATR) is one of the most common injuries to the musculoskeletal system. Recently, endoscopic FHL transfer has been successfully used to treat acute injuries in soccer players, with good return to play rates and good functional outcomes. The aim of this study is to analyze patient-reported questionnaires, functional capacity assessment (FCA), and re-rupture rates following endoscopic FHL transfer for acute ATR."
+    },
+    {
+      "label": "METHODS",
+      "text": "This is a prospective case series with 26 patients (15 men, 11 women, mean age 47.7 years) who suffered an ATR and underwent surgical reconstruction with a FHL endoscopic transfer, between March 2022 and December 2023. The minimum follow-up was 12 months. Postoperative assessments included the visual analogue pain scale (VAS), Victorian Institute of Sports Assessment - Achilles (VISA-A) score, Achilles total tendon rupture score (ATRS), AOFAS, EVA, as well as plantar flexion strength, hallux flexion strength, ankle mobility, single heel rise test and Lunge test and Achilles tendon resting angle."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Five out of 26 patients (19,2 %) had a re-rupture of the Achilles tendon between the second and the fourth postoperative week. Twelve months postoperatively, the pain measured by VAS was 0.5, the mean VISA-A score was 94.4 (95 % CI: 90.8-100), and the mean ATRS was 5.1. The plantar flexion strength and ankle mobility were significantly lower in the affected side when compared to the formerly unaffected side (p = 0.015 and p < 0.001, respectively). No wound healing problems or neurovascular or complications were observed."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Despite a cautious rehabilitation program, we observed an unacceptably re-rupture rate of 19.2 % in our sample when compared to other techniques. We therefore believe that this technique should not be used in very active patients who desire fast recovery after acute ATR because the risks may be too high."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Endoscopic FHL transfer appears to be associated with a high re-rupture rate when used to treat acute Achilles tendon ruptures."
+    },
+    {
+      "label": "EVIDENCE LEVEL",
+      "text": "IV, Case Series."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

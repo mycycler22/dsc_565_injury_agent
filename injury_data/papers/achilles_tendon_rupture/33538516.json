@@ -1,0 +1,36 @@
+{
+  "pmid": "33538516",
+  "title": "Epidemiology of Achilles Tendon Rupture in Italian First Division Football (Soccer) Players and Their Performance After Return to Play.",
+  "year": "2022",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate the epidemiology, incidence rate, incidence proportion, and prevalence of Achilles tendon ruptures (ATRs) in professional footballers and their performance after the injury."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Professional male footballers participating in Serie A in 11 consecutive seasons (2008/2009-2018/2019) were screened to identify ATRs through the online football archive transfermarkt.com. Exposure in matches and training was calculated. The number of matches played in the 5 seasons before and after ATRs was obtained, when possible, together with transfers to a different team or participation in lower Divisions."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "Eleven ATRs were found in 11 footballers with a mean age of 29.8 ± 4.4 years; 72% of ATR involved the nondominant leg; 58% occurred during matches and 42% during training, with no peculiar distribution along the playing season. The overall incidence proportion was 0.17% (0.11% during matches and 0.06% during training). The overall incidence rate was 0.007 injuries per 1000 hours of play (0.051 during matches and 0.003during training; P < 0.0001). All players returned to play soccer after a mean of 170 ± 35 days after ATRs and participated in an official match after a mean of 274 ± 98 days. However, 2 seasons after ATRs, 3 footballers were playing in a lower Division; 1 played less than 10 matches (compared with >25 matches in the 5 seasons before an ATR) and 1 had retired."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "An overall ATR rate of 0.007 per 1000 hours of soccer play and an incidence proportion of 0.17% were reported. All footballers return to play; however, up to 40% players decreased the level of play by reducing the number of games or participating in a lower Division 2 seasons after an ATR."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "MAIN RESULTS",
+      "sentence": "All players returned to play soccer after a mean of 170 ± 35 days after ATRs and participated in an official match after a mean of 274 ± 98 days."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

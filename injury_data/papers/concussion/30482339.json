@@ -1,0 +1,20 @@
+{
+  "pmid": "30482339",
+  "title": "The relationship of migraine and other headache disorders to concussion.",
+  "year": "2018",
+  "journal": "Handbook of clinical neurology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussion and migraine share many similar pathophysiologic mechanisms, including cortical spreading depression and failure in brain ion homeostasis. Migraine may predispose to concussion, and migraine and posttraumatic headache are common following concussion. This overlap may interfere with proper diagnosis following sport injury, thereby delaying either appropriate treatment or return-to-play. Posttraumatic headache is the most common symptom following concussion, and although symptoms are indistinguishable from migraine, persistent posttraumatic headache may be a unique entity that is more refractory to traditional headache management. There are few studies investigating the diagnosis and treatment of posttraumatic headache. This chapter provides a broad overview of migraine and other headache disorders in sport, with a specific focus on emerging treatment paradigms for posttraumatic headache."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

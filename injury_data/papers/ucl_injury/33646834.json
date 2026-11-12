@@ -1,0 +1,39 @@
+{
+  "pmid": "33646834",
+  "title": "Effect of Younger Starting Pitching Age on Humeral Retrotorsion in Baseball Pitchers With an Ulnar Collateral Ligament Injury.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Increased humeral retrotorsion (HRT) has been found to be a risk factor for ulnar collateral ligament (UCL) tears in baseball players. Recent work has demonstrated the age of 11 years as a potential watershed age for HRT development."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "In a group of baseball pitchers with UCL injuries, athletes who started pitching before the age of 10 years will demonstrate significantly more dominant limb humeral retrotorsion (DHRT) when compared with a group of baseball pitchers who reported starting pitching at 10 years or older."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 84 baseball pitchers with a diagnosed UCL injury were divided into 2 groups based upon the age at which participants began pitching: 33 players reporting a starting pitching age of 10 years or older (group 1) were compared with 51 baseball pitchers reporting a starting pitching age under 10 years (group 2). Participants' DHRT and nondominant limb humeral retrotorsion (NDHRT) were measured using diagnostic ultrasound. Independent <i>t</i> tests were run to compare mean group differences of all patient data, starting pitching age, age at time of injury, DHRT, NDHRT, and humeral retrotorsion difference (HRTdiff)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were no significant differences between groups with regard to age at time of injury, height, weight, or playing years' experience. There was a statistically significant difference in the participant-reported starting pitching age. Significant differences between groups were noted for DHRT (group 1: 20.0°± 9.4°, group 2: 14.5°± 10.3°, <i>P</i> = .015) and for NDHRT (group 1: 38.6°± 8.8°, group 2: 32.9°± 9.5°, <i>P</i> = .007). No significant differences between groups were found for HRTdiff (<i>P</i> = .940)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Baseball pitchers with a UCL injury who reported a starting pitching age younger than 10 years demonstrated significantly greater DHRT and NDHRT when compared with UCL-injured baseball pitchers who reported a starting pitching age at 10 years or later. The results of this study demonstrate that a younger starting pitching age results in increased HRT in players with UCL injuries."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

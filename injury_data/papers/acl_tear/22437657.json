@@ -1,0 +1,32 @@
+{
+  "pmid": "22437657",
+  "title": "Lessons learned from the last 20 years of ACL-related in vivo-biomechanics research of the knee joint.",
+  "year": "2013",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Technological advances in recent years have allowed the easy and accurate assessment of knee motion during athletic activities. Subsequently, thousands of studies have been published that greatly improved our understanding of the aetiology, surgical reconstruction techniques and prevention of anterior cruciate ligament (ACL) injuries. The purpose of this review is to summarize the evidence from biomechanical studies on ACL-related research."
+    },
+    {
+      "label": "METHODS",
+      "text": "High-impact articles that enhanced understanding of ACL injury aetiology, rehabilitation, prevention and adaptations after reconstruction were selected."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The importance of restoring internal tibial rotation after ACL reconstruction has emerged in several studies. Criteria-based, individualized rehabilitation protocols have replaced the traditional time-based protocols. Excessive knee valgus, poor trunk control, excessive quadriceps forces and leg asymmetries have been identified as potential high risk biomechanical factors for ACL tear. Injury prevention programmes have emerged as low cost and effective means of preventing ACL injuries, particularly in female athletes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "As a result of biomechanical research, clinicians have a better understanding of ACL injury aetiology, prevention and rehabilitation. Athletes exhibiting neuromuscular deficits predisposing them to ACL injury can be identified and enrolled into prevention programmes. Clinicians should assess ACL-reconstructed patients for excessive internal tibial rotation that may lead to poor outcomes."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

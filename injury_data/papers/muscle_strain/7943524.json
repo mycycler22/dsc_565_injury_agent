@@ -1,0 +1,24 @@
+{
+  "pmid": "7943524",
+  "title": "Biomechanical and histologic assessment of a controlled muscle strain injury treated with piroxicam.",
+  "year": "1994",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study was designed to observe the effect of the nonsteroidal antiinflammatory piroxicam on a controlled muscle strain injury in the rabbit model. The tibialis anterior tendons of 90 New Zealand White rabbits were detached at their distal insertions, and the right tendon was stretched to the yield point of the deformation curve. One group of 50 rabbits received piroxicam treatment and the others received no treatment. At 1, 2, 4, and 7 days the parameters of muscle function, tensile strength, and histology were examined. Muscle contractile force was significantly greater in the piroxicam-treated group at Day 1, but no difference was noted at any other time period. Tensile strength was not significantly different at any time period in either group. Histology revealed delayed degradation of damaged tissue and slowed regeneration of muscle tissue at the injury site in the piroxicam-treated group. Piroxicam and other anti-inflammatories are frequently given to athletes being treated for muscle strain injuries to control pain through their effect on the inflammatory process. This study demonstrates that piroxicam does not adversely influence the recovery of contractile and tensile strength in a followup period of 1 week. Therefore, antiinflammatory treatment may be beneficial early in the course of muscle injury."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "This study demonstrates that piroxicam does not adversely influence the recovery of contractile and tensile strength in a followup period of 1 week."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "22102102",
+  "title": "Profile of an American amateur rugby union sevens series.",
+  "year": "2012",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Rugby union will enter the Olympic arena as Rugby Sevens in 2016."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the injury rate, injury type, and nature of injuries sustained in an amateur American rugby union sevens tournament series."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "The rate, demographics, and characteristics of injury were evaluated in 1536 rugby union sevens players, from 128 sides, competing in 4 amateur 1-day tournaments in a USA Rugby local area rugby union."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Forty-eight injuries occurred over 4 tournaments, for an injury rate of 55.4 injuries per 1000 playing hours. Head and neck injuries were most common (33.3% of injuries), followed by upper extremity (31.3%), trunk (18.8%), lower extremity (14.6%), and physiologic injuries (2.1%). The most common type of injury was ligament sprain (25.0%); followed by concussion (14.6%), hematoma/contusion (12.5%), muscle strain (10.4%), and abrasion (8.3%). Tackling was the most common mechanism of injury (74.5%). Males were injured at a significantly higher rate than females (RR, 7.5, P < .01), but no significant difference was observed based on player position (P = .08)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Injuries are common among American amateur rugby athletes, with a substantial proportion involving the head and neck region."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Understanding injury patterns in an American rugby union will be important for formulating future injury prevention, assessment, and treatment protocols."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

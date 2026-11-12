@@ -1,0 +1,39 @@
+{
+  "pmid": "27492971",
+  "title": "Ethnic Differences in Bony Hip Morphology in a Cohort of 445 Professional Male Soccer Players.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Participation in high-impact athletic activities has recently been associated with a higher prevalence of cam deformity. Bony hip morphology has also emerged as an important factor in the development of hip osteoarthritis. However, it is unknown whether bony morphology differs between ethnicities in athletes participating in high-impact sports."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate whether the prevalence of specific bony hip morphological abnormalities differed between professional male soccer players of diverse ethnic backgrounds."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Professional male soccer players from an entire league attending preparticipation screening were invited to participate in this study. Ethnicity was registered, and standardized radiographs of anteroposterior pelvic and Dunn views were obtained. Cam and pincer deformity, and acetabular dysplasia were quantified using the alpha angle, triangular index, and lateral center-edge angle (LCEA). Regression analyses with generalized estimating equations were used to determine prevalence differences in bony hip morphology."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 445 male soccer players (890 hips; mean age ± SD, 25 ± 4.9 years) participated in the study, representing the following ethnic groups: Arabic (59%), black (24%), Persian (7%), white (6%), East Asian (2%), and other (2%). The prevalence of cam deformity (alpha angle >60°) ranged from 57.5% to 71.7% across 4 of the groups, but East Asians had a significantly lower prevalence (18.8%; P ≤ .032). A large cam deformity (alpha angle >78°) was more prevalent in white (33.3%) compared with black soccer players (17.8%; P = .041) and was absent in East Asian players. Pincer deformity (LCEA >40°) was uncommon (3%) in all ethnicities. The prevalence of acetabular dysplasia (LCEA <20°) ranged from 8.0% to 16.7%, apart from the white group, in which prevalence was only 1.9% (P = .03)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The prevalence of a cam deformity and acetabular dysplasia differed between ethnicities in this cohort of professional male soccer players. These findings suggest that there may be ethnic differences in both acetabular morphology and femoral bony response to athletic load."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

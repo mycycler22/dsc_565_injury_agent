@@ -1,0 +1,36 @@
+{
+  "pmid": "35937777",
+  "title": "The impact of nutrition on tendon health and tendinopathy: a systematic review.",
+  "year": "2022",
+  "journal": "Journal of the International Society of Sports Nutrition",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tendinopathy is a painful condition that is prevalent in athletes as well as the general human population, and whose management is challenging."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This systematic review aimed to evaluate the impact of nutrition on the prevention and treatment of tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "Searches were conducted in PubMed, EMBASE, Web of Science, and SPORTDiscus without restriction to year of publication. Studies examining the impact of exposure to nutrient intake in an adult human population on 1) prevalence/incidence of tendinopathy, 2) clinical outcomes of tendinopathy, 3) structural changes in the tendon by imaging modalities. Experimental and observational study designs written in English, Dutch, or German were eligible."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nineteen studies met the inclusion criteria. The effects of the habitual diet were investigated in one study. Four studies examined the effects of exposure to alcohol. Alcohol consumption can be a potential risk factor associated with Achilles tendinopathy and rotator cuff tears, although findings were inconsistent. The use of dietary supplements was examined in fourteen studies. Among these, collagen-derived peptides were most often part of the supplements evaluated. Combining training and dietary supplements seems to induce better clinical and functional outcomes in tendinopathy."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This review demonstrates the paucity of high-quality studies and a wide variety among studies regarding nutrients, tendon location, study population, and reported outcome measures. Individual studies showed promising clinical implications for the use of dietary supplements, particularly those containing collagen-derived peptides. However, giving any definitive dietary recommendations on the prevention and treatment of tendinopathy remains elusive."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

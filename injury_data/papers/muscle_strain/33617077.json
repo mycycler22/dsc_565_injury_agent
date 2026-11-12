@@ -1,0 +1,24 @@
+{
+  "pmid": "33617077",
+  "title": "The burden of injury in field hockey: A secondary analysis of prospective cohort data.",
+  "year": "2021",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Most studies report injuries based upon their incidence rate, or the number of injuries which occur in a sport per unit of time. While this is recommended across numerous consensus statements on reporting injury data in sport, it may be of benefit to consider injury burden also. Reporting injuries as the duration of injury per 1000 exposure hours highlights those injuries which will likely cause greater disruption within a team. Therefore, the primary aim of this study was to report the burden of injury in field hockey. This secondary analysis of epidemiological data employed two methods of data collection: self-reported through an online reporting software, and through contact with the team physiotherapist. Athletes reported injury-related symptoms for 4170 days in total, giving rise to an injury burden of 121.0/1000 h, of which 61.4/1000 h were days lost through injury. Injuries to the hamstring, as well as muscle strain injuries, caused the most significant injury burden in athletes (22.6 and 35.8/1000 h respectively). Reporting injuries as the duration of injuries per 1000 hours highlights those injuries which cause the most significant disruption within a squad. Future injury prevention strategies in field hockey should prioritize the injuries which are most burdensome."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Athletes reported injury-related symptoms for 4170 days in total, giving rise to an injury burden of 121.0/1000 h, of which 61.4/1000 h were days lost through injury."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

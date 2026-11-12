@@ -1,0 +1,48 @@
+{
+  "pmid": "41703942",
+  "title": "Which Criteria Are Used to Clear Athletes to Return to Sport After Achilles Tendon Repair? A Scoping Review.",
+  "year": "2026",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Achilles tendon (AT) rupture is a devastating and potentially career-ending injury. Compared with other severe lower extremity injuries, such as anterior cruciate ligament reconstruction, it is associated with lower return to sport (RTS) rates, longer absence from training and competition, reduced sport-specific performance in the 2 years after rupture, shorter career length, and persistent long-term functional deficits. Therefore, better knowledge of the RTS criteria after AT rupture may support the optimization of rehabilitation outcomes and improve long-term RTS success."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The purposes of this scoping review were to (1) map the scientific evidence regarding criteria used to clear patients to RTS after surgical AT repair, and (2) describe the predominant outcome measurements reported in the literature."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Web of Science, Scopus, and MEDLINE databases."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "A scoping review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews framework, including English-language studies published from 1995 to 2022 on \"athletes\" or \"sportive patients\" who underwent surgical AT repair."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Scoping review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 589 studies identified, 34 met the inclusion criteria: 3% were randomized controlled trials, 50% were case series, and 47% were cohort studies. None defined an outcome measurement as a criterion to RTS. The main outcomes were timeframe from surgery to RTS (53%), ankle range of motion (47%), Achilles Tendon Rupture Score (47%), calf circumference (44%), and heel-rise test (44%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "None of the 34 studies defined an outcome measurements as criteria for RTS. The main measurements focused on the early rehabilitation stage, with limited standardization and a lack of assessment for the mid- and late stages of rehabilitation. Defining RTS criteria after AT repair may help optimize rehabilitation and the RTS process."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

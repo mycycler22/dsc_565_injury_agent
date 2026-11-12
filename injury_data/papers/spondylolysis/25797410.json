@@ -1,0 +1,20 @@
+{
+  "pmid": "25797410",
+  "title": "Clinical tests to diagnose lumbar spondylolysis and spondylolisthesis: A systematic review.",
+  "year": "2015",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The aim of this paper was to systematically review the diagnostic ability of clinical tests to detect lumbar spondylolysis and spondylolisthesis. A systematic literature search of six databases, with no language restrictions, from 1950 to 2014 was concluded on February 1, 2014. Clinical tests were required to be compared against imaging reference standards and report, or allow computation, of common diagnostic values. The systematic search yielded a total of 5164 articles with 57 retained for full-text examination, from which 4 met the full inclusion criteria for the review. Study heterogeneity precluded a meta-analysis of included studies. Fifteen different clinical tests were evaluated for their ability to diagnose lumbar spondylolisthesis and one test for its ability to diagnose lumbar spondylolysis. The one-legged hyperextension test demonstrated low to moderate sensitivity (50%-73%) and low specificity (17%-32%) to diagnose lumbar spondylolysis, while the lumbar spinous process palpation test was the optimal diagnostic test for lumbar spondylolisthesis; returning high specificity (87%-100%) and moderate to high sensitivity (60-88) values. Lumbar spondylolysis and spondylolisthesis are identifiable causes of LBP in athletes. There appears to be utility to lumbar spinous process palpation for the diagnosis of lumbar spondylolisthesis, however the one-legged hyperextension test has virtually no value in diagnosing patients with spondylolysis."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

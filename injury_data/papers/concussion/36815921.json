@@ -1,0 +1,35 @@
+{
+  "pmid": "36815921",
+  "title": "Investigation of the knowledge of South African high school rugby coaches on concussion and the return-to-play protocol.",
+  "year": "2022",
+  "journal": "South African journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Coaches are pivotal in the management of concussed players. Assessing the knowledge of high school rugby coaches with regard to concussion management will enable relevant future education on this topic to be covered."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate the knowledge of South African high school rugby coaches on concussion symptom recognition, knowledge and stepwise return-to-play (RTP) protocols."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cross-sectional descriptive study involving 143 first team, high school rugby coaches was completed via an electronic questionnaire. Independent variables included coach demographics, qualifications, experience, BokSmart accreditation, and school size. Dependent variables included knowledge scores on concussion symptoms, general concussion knowledge, stepwise RTP and Maddocks questions. Relationships between total scores for different demographic groupings were established using non-parametric techniques."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The coaches had high general, symptom and overall concussion knowledge scores (77% - 80%) in contrast with low RTP scores (62%) and very low Maddocks questions knowledge scores (26%). The 35-44-year age group received top scores for symptom recognition (p=0.034) and total concussion knowledge (p=0.041). Larger category school coaches (p=0.008) and BokSmart accredited coaches (p=0.041) outperformed all other coaches in general concussion knowledge and total knowledge, respectively. However, respondents were not familiar with emotional symptoms or the importance of cognitive rest after a concussion. Educational programmes were the most popular knowledge source for coaches."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In general, coaches presented with good general concussion knowledge but lesser expertise on emotional symptoms, cognitive rest and RTP management. Modifiable predictors of knowledge included the expansion of BokSmart accreditation, focussing information sessions on smaller rugby size schools and the education of coaches younger than 35 years or older than 45 years of age."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

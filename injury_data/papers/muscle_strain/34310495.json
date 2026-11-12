@@ -1,0 +1,36 @@
+{
+  "pmid": "34310495",
+  "title": "Effectiveness of Hematoma Aspiration and Platelet-rich Plasma Muscle Injections for the Treatment of Hamstring Strains in Athletes.",
+  "year": "2022",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "The effect of platelet-rich plasma (PRP) treatment on recovery in acute hamstring injuries is controversial. Previous study results are inconsistent, and a standardized therapeutic approach has not been established yet."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess the treatment effect using a combination of hematoma aspiration and muscle strain PRP injection in partial hamstring muscle tears (grade 2 strains) in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Magnetic resonance imaging of athletes with grade 2 hamstring strains were reviewed from 2013 to 2018. From 2013 to 2015, athletes were treated conservatively, and from 2016 to 2018, with a combination of ultrasound-guided hematoma aspiration and PRP muscle strain injection. The outcome, including return-to-play (in days) and recurrence rate, was compared retrospectively between both groups (conservative vs aspiration/PRP) using ANOVA and Fisher's exact test. There was no significant difference in age, type of sport, and muscle involvement (including injury grade/location, hamstring muscle type, and length/cross-sectional area of the strain)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifty-five athletes (28 treated conservatively, 27 with hematoma aspiration/PRP injection) were included. Average return-to-play time (mean) was 32.4 d in the conservative group and 23.5 d in the aspiration/PRP group (P < 0.001). Recurrence rate of the hamstring strain was 28.6% (8/28) in the conservative treatment group and less than 4% (1/27) in the aspiration/PRP group (P = 0.025)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes with grade 2 hamstring strains treated with a combination of hematoma aspiration and PRP injection had a significantly shorter return-to-play and a lower recurrence rate compared with athletes receiving conservative treatment."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "23888287",
+  "title": "Vibration and pressure wave therapy for calf strains: a proposed treatment.",
+  "year": "2013",
+  "journal": "Muscles, ligaments and tendons journal",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Calf (lower leg) strains have a variety of treatment regimens with variable outcomes and return to activity (RTA) time frames. These injuries involve disruption of portions or the entire gastrocnemius-soleus myo-tendinous complex. Conservative treatment initially consists of rest, ice, compression, elevation (RICE). Immediately following calf injury, patients can utilize cryotherapy, massage, passive range of motion, and progressive exercise. In general, Grade I through Grade III calf strains can take up to 6 weeks before the athlete can return to training. It can also involve the loss of more than 50% of muscle integrity. Recently, vibration therapy and radial pressure waves have been utilized to treat muscular strains and other myo-tendinous injuries that involve trigger points. Studies have suggested vibration therapy with rehabilitation can increase muscle strength and flexibility in patients. Segmental vibration therapy (SVT) is treatment to a more focal area. Vibration therapy (VT) is applied directly to the area of injury. VT is a mechanical stimulus that is thought to stimulate the sensory receptors, as well as decrease inflammatory cells and receptors. Therefore, VT could be a valuable tool in treating athlete effectively and decreasing their recovery time. The purpose of this paper is to give the reader baseline knowledge of VT and propose a treatment protocol for calf strains using this technology along with radial pressure waves."
+    }
+  ],
+  "injury_query": "calf strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "In general, Grade I through Grade III calf strains can take up to 6 weeks before the athlete can return to training."
+    }
+  ],
+  "pmcid": "3711703",
+  "fulltext_chunks": []
+}

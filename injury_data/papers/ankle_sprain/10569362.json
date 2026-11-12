@@ -1,0 +1,25 @@
+{
+  "pmid": "10569362",
+  "title": "The prevention of ankle sprains in sports. A systematic review of the literature.",
+  "year": "1999",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "To assess the published evidence on the effectiveness of various approaches to the prevention of ankle sprains in athletes, we used textbooks, journals, and experts in the field of sports medicine to identify citations. We identified 113 studies reporting the risk of ankle sprains in sports, methods to provide support, the effect of these interventions on performance, and comparison of prevention efforts. The most common risk factor for ankle sprain in sports is history of a previous sprain. Ten citations of studies involving athletes in basketball, football, soccer, or volleyball compared alternative methods of prevention. Methods tested included wrapping the ankle with tape or cloth, orthoses, high-top shoes, or some combination of these methods. Most studies indicate that appropriately applied braces, tape, or orthoses do not adversely affect performance. Based on our review, we recommend that athletes with a sprained ankle complete supervised rehabilitation before returning to practice or competition, and those athletes suffering a moderate or severe sprain should wear an appropriate orthosis for at least 6 months. Both coaches and players must assume responsibility for prevention of injuries in sports. Methodologic limitations of published studies suggested several areas for future research."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Based on our review, we recommend that athletes with a sprained ankle complete supervised rehabilitation before returning to practice or competition, and those athletes suffering a moderate or severe sprain should wear an appropriate orthosis for at least 6 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

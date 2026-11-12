@@ -1,0 +1,36 @@
+{
+  "pmid": "31722842",
+  "title": "Concussion incidence and time-loss in Australian football: A systematic review.",
+  "year": "2020",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Australian football is associated with a risk of concussion. However, despite the extensive and varied nature of literature devoted to this issue, concussion incidence has not been systematically evaluated. To address this, we aimed to conduct a meta-analysis of concussion incidence in Australian football."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review. Prospero registration number: CRD42017064290."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search of 14 databases using the terms 'concussion', and 'Australian football' (and variations) was used to obtain records that reported concussion incidence per 1000 players hours across age, sex, and level-of-play. Data were grouped based on how time-loss was applied to the concussion definition."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Forty-two studies met inclusion criteria. Incidence rates based on a possible time-loss definition per 1000 player hours, ranged from 2.24 to 17.63 at the elite level, and 0.35 to 14.77 at the community/amateur level. Return-to-play details were reported by six studies and only two studies measured head-impacts in real-time. Several limitations were identified with this literature. First, insufficient return-to-play details precluded a meta-analysis of incidence rates. Second, no longitudinal studies across levels-of-play were found. Third, concussion incidence data for junior and female players were notably scarce."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There was limited scope to determine concussion burden (i.e., incidence and severity) and only preliminary data for player exposure to head-impacts. To address these limitations, injury surveillance should capture sufficient information to permit comparisons within and across levels-of-play. This will also help determine the influence of interventions aimed at reducing the frequency and severity of concussive-injuries."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

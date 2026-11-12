@@ -1,0 +1,40 @@
+{
+  "pmid": "40818659",
+  "title": "Functional and neuromuscular effects of rehabilitation in acute ankle sprain and chronic ankle instability.",
+  "year": "2026",
+  "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lateral ankle sprains (LAS) are common injuries that may progress to chronic ankle instability (CAI), characterized by recurrent sprains, proprioceptive deficits, and neuromuscular impairments."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This study evaluated the impact of rehabilitation on functional outcomes and electromyographic (EMG) parameters in patients with acute LAS and CAI."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective observational cohort study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between August 2022 and September 2023, 119 patients (73 with acute LAS, 46 with CAI) were assessed at baseline (T0) and after a three-months rehabilitation program (T1). Assessments included range of motion (ROM), muscle strength, surface EMG, balance tests (Y-Balance, Foot Lift, Side Hop, 6-m Hop), and the FAAM questionnaire. Rehabilitation consisted of individualized protocols integrating gym-based exercises and hydrotherapy, targeting ROM restoration, proprioceptive training, and muscle strengthening."
+    },
+    {
+      "label": "RESULTS",
+      "text": "LAS patients demonstrated significant baseline impairments in plantarflexion ROM (49.32 ± 13.37 vs. 61.76 ± 17.67; p = 0.01) and Foot Lift Test performance (168 ± 191.28 vs. 18.52 ± 58.38; p = 0.01). Post-rehabilitation, both groups showed improvements in ROM, strength, and functional scores. CAI patients achieved greater proprioceptive gains (Y-Balance, Side Hop), while LAS patients exhibited superior recovery in plantarflexion strength. However, EMG analysis revealed persistent neuromuscular deficits in both groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Despite clinical improvements, persistent EMG deficits, especially in CAI, indicate incomplete neuromuscular recovery. These findings highlight the limitations of standard rehabilitation protocols and underscore the need for personalized neuromuscular interventions and objective return-to-sport criteria. Future research should aim to refine diagnostic tools, standardize protocols, and incorporate technology-assisted rehabilitation to improve long-term outcomes."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

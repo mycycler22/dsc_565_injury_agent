@@ -1,0 +1,29 @@
+{
+  "pmid": "42258915",
+  "title": "Tennis leg: Diagnosis and management - A state-of-the-art review.",
+  "year": "2026",
+  "journal": "Foot (Edinburgh, Scotland)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Injuries at the medial gastrocnemius-soleus junction are common among athletes and physically active individuals. They typically result from sudden overstretching or repetitive microtrauma, leading to significant calf pain and functional limitations. Diagnosis is primarily clinical, with ultrasound or MRI used to assess injury severity. Most cases are managed conservatively, including rest, cryotherapy, anti-inflammatory therapy, and structured rehabilitation focusing on gradual stretching, eccentric strengthening, and proprioceptive training. Recovery generally occurs within 6-12 weeks, with return to activity guided by functional recovery rather than symptom resolution alone. A thorough understanding of the anatomy, pathophysiology, and evidence-based management strategies is essential to prevent complications, reduce recurrence, and facilitate a safe return to sport. ABSTRACT(CONCISE VERSION): Despite their prevalence in athletes, medial gastrocnemius-soleus junction injuries respond well to early conservative care, with most patients regaining full function. Diagnosis is based on clinical evaluation, supported by imaging when needed. Most cases are treated conservatively with rest, anti-inflammatory measures, and structured rehabilitation. Recovery typically occurs within 6-12 weeks, allowing safe return to activity while minimizing recurrence."
+    }
+  ],
+  "injury_query": "calf strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Recovery generally occurs within 6-12 weeks, with return to activity guided by functional recovery rather than symptom resolution alone."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "Recovery typically occurs within 6-12 weeks, allowing safe return to activity while minimizing recurrence."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "39640128",
+  "title": "Ankle Sprain Recurrence and Rehabilitation Among Athletes: A Case Study in the West Region of Cameroon.",
+  "year": "2024",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate the prevalence, risk factors, and impact of physiotherapy on ankle sprain recurrence among professional and amateur athletes in the West region of Cameroon."
+    },
+    {
+      "label": "METHODS",
+      "text": "Cross-sectional study from February to July 2024 in the West region of Cameroon sports clubs. Professional and amateur athletes practice their sport at least three times a week. The main outcomes are reported as the prevalence of the first ankle sprain, the prevalence of recurrence, and the factors associated with recurrence (bivariate analysis, significance set at P<0.05; 95% CI)."
+    },
+    {
+      "label": "RESULTS",
+      "text": " Among the 215 participants, the prevalence of first ankle sprain was 72.6% (156). Of these 156 athletes, only 70 received physiotherapy (44.9%) and only 56 athletes had functional recovery before restarting sport (35.9%). The main barrier to physiotherapy intervention was the lack of knowledge. The prevalence of recurrence was 61.5% (96/156), with significant associations found between recurrence and professional athlete status (aOR: 2.48; CI: 1.09-4.29; P<0.001) and hand-on-ball sports participation (aOR: 4.72; CI: 1.08-29.62; p=0.04). Conversely, physiotherapy intervention (aOR: 0.65; CI: 0.26-0. 98; p=0.01), functional recovery before return to play (aOR: 0.41; CI: 0.05-0.84; p<0.001), and moderate sports frequency (aOR: 0.81; CI: 0.28-0.91; p=0.03) demonstrated protective effects against recurrence."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Education and awareness campaigns are necessary to promote physiotherapy intervention and reduce the burden of ankle sprain recurrence among athletes in Cameroon and Sub-Saharan Africa."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "15867554",
+  "title": "Cumulative incidence of achilles tendon rupture and tendinopathy in male former elite athletes.",
+  "year": "2005",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To study the cumulative incidence of Achilles tendon rupture and tendinopathy among former top-level athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Historical cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Finland."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Male former elite athlete cohort members (n = 785; median age, 69 years when responding to the questionnaire; range, 54-97) and their matched controls (n = 416; median age, 68 years; range, 56-94)."
+    },
+    {
+      "label": "OUTCOME MEASUREMENTS",
+      "text": "Questionnaire-reported Achilles tendinopathy and tendon rupture diagnosed by physicians before the age of 45 years and within the subjects' lifetimes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Cumulative incidence of Achilles tendinopathy before the age of 45 was high for middle and long-distance runners (adjusted odds ratio, 31.2 compared with controls; P < 0.001), and cumulative incidence of Achilles tendon rupture was high for sprinters (odds ratio, 14.9; P < 0.001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Achilles tendon problems seem to constitute clinically significant and common problems in specific sports."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

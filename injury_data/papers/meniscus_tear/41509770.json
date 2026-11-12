@@ -1,0 +1,32 @@
+{
+  "pmid": "41509770",
+  "title": "Biomechanical Reinforcement of a Bucket-handle Lateral Meniscus Tear Using Circumferential Fiber Augmentation: A Case Report.",
+  "year": "2025",
+  "journal": "Journal of orthopaedic case reports",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Bucket-handle tears of the lateral meniscus (LM) are uncommon in young athletes and are particularly challenging when associated with a discoid meniscus. Restoration of meniscal hoop tension is critical for functional recovery and to prevent reinjury. This case describes the application of the circumferential fiber augmentation (CFA) technique, initially reported by Kita et al. (2024), for the repair of a bucket-handle tear in a discoid LM."
+    },
+    {
+      "label": "CASE REPORT",
+      "text": "A 20-year-old male sustained an acute twisting injury while playing soccer, resulting in a locked knee. Magnetic resonance imaging (MRI) revealed a displaced bucket-handle tear of a discoid LM. He underwent an all-inside meniscus repair using fiber-wire sutures combined with CFA using fibertape and transtibial pullout fixation with a knotless suture anchor."
+    },
+    {
+      "label": "OUTCOME",
+      "text": "At 6-month follow-up, the patient achieved a full range of motion with the Lysholm 95, IKDC 92, and KOOS-Pain 90. MRI confirmed complete meniscal healing without extrusion or signal alteration."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Application of CFA in bucket-handle meniscus repair may enhance fixation strength and prevent recurrent tearing in active young patients, especially in discoid variants. This represents an evolution in biological and mechanical augmentation for complex meniscal injuries."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

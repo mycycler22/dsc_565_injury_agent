@@ -1,0 +1,53 @@
+{
+  "pmid": "23016038",
+  "title": "Hamstring injuries in professional football players: magnetic resonance imaging correlation with return to play.",
+  "year": "2011",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Magnetic resonance imaging (MRI) allows for detailed evaluation of hamstring injuries; however, there is no classification that allows prediction of return to play."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To correlate time for return to play in professional football players with MRI findings after acute hamstring strains and to create an MRI scoring scale predictive of return to sports."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiologic study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty-eight professional football players (43 cases) sustained acute hamstring strains with MRI evaluation. Records were retrospectively reviewed, and MRIs were evaluated by 2 musculoskeletal radiologists, graded with a traditional radiologic grade, and scored with a new MRI score. Results were correlated with games missed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Players missed 2.6 ± 3.1 games. Based on MRI, the hamstring injury involved the biceps femoris long head in 34 cases and the proximal and distal hamstrings in 25 and 22 cases, respectively. When < 50% of the muscle was involved, the average number of games missed was 1.8; if > 75%, then 3.2. Ten players had retraction, missing 5.5 games. By MRI, grade I injuries yielded an average of 1.1 missed games; grade II, 1.7; and grade III, 6.4. Players who missed 0 or 1 game had an MRI score of 8.2; 2 or 3 games, 11.1; and 4 or more games, 13.9."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Rapid return to play (< 1 week) occurred with isolated long head of biceps femoris injures with < 50% of involvement and minimal perimuscular edema, correlating to grade I radiologic strain (MRI score < 10). Prolonged recovery (missing > 2 or 3 games) occurs with multiple muscle injury, injuries distal to musculotendinous junction, short head of biceps injury, > 75% involvement, retraction, circumferential edema, and grade III radiologic strain (MRI score > 15)."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "MRI grade and this new MRI score are useful in determining severity of injury and games missed-and, ideally, predicting time missed from sports."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "Rapid return to play (< 1 week) occurred with isolated long head of biceps femoris injures with < 50% of involvement and minimal perimuscular edema, correlating to grade I radiologic strain (MRI score < 10)."
+    }
+  ],
+  "pmcid": "3445213",
+  "fulltext_chunks": [
+    {
+      "section": "Correlation With Return to Play",
+      "text": "The location of hamstring injury (proximal, mid substance, or distal) did not correlate with the number of games missed. In addition, a cross-tabulation analysis was performed, which did not find any statistical difference between the 2 teams with regard to grade of injury and number of games missed. However, factors such as the percentage of muscle/tendon involvement, the number of muscles involved, and the amount of retraction were significant predictors of time to return (Table 6). While age did not show a specific correlation for number of games missed, it was included in the MRI score because older athletes tend to recover slower than younger athletes. For those players who had 100% of muscle/tendon involvement, the average number of games missed was 7 (range, 3-13). When more than 1 muscle/tendon was involved, the average number of games missed was 6 (range, 0-16). Another factor predictive of the number of games missed was muscle retraction. For those 10 players with retraction on the MRI, the average number of games missed was 5.5 (range, 1-13). For players who missed 0 or 1 game, retraction length averaged 0.1 cm, versus 1.1 cm for players who missed 2 or more games (univariate analysis, P = 0.013). Analysis by age revealed no statistical difference for number of games missed (univariate analysis, P = 0.84). The average age for those players who missed 0 or 1 game was 26.7 years, compared with 26.9 years for players who missed 2 or more games. T2 signal length was predictive of the number of games missed. For players who missed 0 or 1 game, the T2 signal length was 8.9 cm, compared to 13.0 cm for players who missed 2 or more games (univariate analysis, P = 0.017). In summary, those players with multiple-muscle/tendon involvement (> 1), a high percentage of muscle involvement (> 75%), long T2 sagittal plane signal, and retraction on MRI (Figure 1) had a prolonged return to play compared with those players who had 1 tendon/muscle involvement, < 25% muscle involvement, and no retraction (Figure 2)."
+    }
+  ]
+}

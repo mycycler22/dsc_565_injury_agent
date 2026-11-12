@@ -1,0 +1,47 @@
+{
+  "pmid": "33535886",
+  "title": "Early Sport Specialization Linked to Throwing Arm Function and Upper Extremity Injury History in College Baseball Players.",
+  "year": "2021",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Evidence suggests that shoulder and elbow injuries account for 31% to 37% of all National Collegiate Athletic Association (NCAA) baseball injuries, and up to 69% of NCAA baseball injuries are the result of noncontact and overuse mechanisms. Early sport specialization may contribute to the high rates of upper extremity injuries in college baseball players."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Higher specialization by age 13 years would be associated with worse subjective throwing arm function and a greater history of shoulder and elbow injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Survey data were collected from college baseball players (N = 129) during midseason of the spring 2019 baseball season. Participants were stratified in low, moderate, and high specialization groups based on a 3-criteria sports specialization questionnaire. Participants' throwing arm function was measured using the Functional Arm Scale for Throwers and the Kerlan-Jobe Orthopaedic Clinic shoulder and elbow questionnaires. Participants' history of a shoulder or elbow injury that resulted in missing ≥2 weeks of baseball activity at any point in their baseball career was also collected."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The high specialization group reported worse subjective throwing arm function on the Functional Arm Scale for Throwers questionnaire than the low (<i>P</i> = 0.03) and moderate (<i>P</i> = 0.01) specialization groups. The high specialization group was over 5 times more likely to report a history of shoulder injury than the moderate (odds ratio [OR] = 5.42; 95% CI [1.71, 17.2]; <i>P</i> = 0.004) and low (OR = 5.20; 95% CI [1.87, 14.5]; <i>P</i> = 0.002) specialization groups, and over 3 times more likely to report a history of elbow injury than the moderate specialization group (OR = 3.77; 95% CI [1.05, 13.6]; <i>P</i> = 0.04)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "College baseball players that were highly specialized by age 13 years reported worse subjective throwing arm function and were more likely to have a history of upper extremity injury than players that were moderate or low specialization."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Early specialization in baseball may be detrimental to long-term upper extremity health in college baseball players."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

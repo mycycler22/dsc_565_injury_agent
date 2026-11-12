@@ -1,0 +1,28 @@
+{
+  "pmid": "40285985",
+  "title": "Redefining Failure: Criteria for Unsuccessful Outcomes in Meniscus Repair.",
+  "year": "2025",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Meniscus repair plays a critical role in preserving knee function and delaying degenerative changes after a meniscus tear. Despite advancements in surgical techniques, there remains significant variability in how outcomes are defined and reported. This review examines the evolving interplay between traditional metrics of success such as reoperation rates, radiographic healing, etc., and the more subjective patient reported outcome measures (PROMs)."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Recent findings highlight the discrepancies between radiographic healing, symptomatic relief, and functional improvement. While reoperation rates remain a widely used failure criterion, they do not account for patients who avoid revision surgery despite persistent symptoms. MRI assessments can detect incomplete healing, but imaging abnormalities do not always correlate with clinical dysfunction. PROMs and return-to-sport (RTS) rates offer valuable insight into functional recovery, yet they vary across studies and may not always reflect anatomical failure. Emerging consensus supports a dual model: anatomical failure, which reflects structural compromise seen on imaging or second-look arthroscopy, and clinical failure, which includes persistent symptoms, limited function, or poor patient-reported outcomes regardless of imaging results. Meniscus repair failure should be assessed using a multidimensional approach, incorporating structural integrity, symptom persistence, functional performance, and patient satisfaction. Standardizing failure definitions will improve data comparability, enhance treatment strategies, and guide patient expectations. Future research should refine composite failure models and integrate meniscus-specific PROMs to optimize long-term outcomes. By redefining failure, clinicians can improve surgical success rates and provide more personalized, evidence-based care."
+    },
+    {
+      "label": "TAKEAWAY",
+      "text": "Not all healed menisci function well, and not all unhealed ones fail. By redefining failure, we can reframe success-and better serve patients."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

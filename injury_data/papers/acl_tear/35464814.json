@@ -1,0 +1,31 @@
+{
+  "pmid": "35464814",
+  "title": "ACL repair for athletes?",
+  "year": "2022",
+  "journal": "Journal of orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The current gold standard treatment for an anterior cruciate ligament (ACL) tear in an athlete is an arthroscopic ACL reconstruction with autografts. This restores the knee stability but is associated with unique complications like graft re-tear, kinesiophobia and graft donor site morbidity. ACL suture repair (ACLSR) is an attractive alternative method of surgical management of this injury."
+    },
+    {
+      "label": "CURRENT SCIENCE OF ACLSR",
+      "text": "The potential advantages of performing a repair are the preservation of native biology and proprioceptive function of ACL, elimination of a graft and preservation of bone stock. The purported benefits are better stability, reduction of kinesiophobia and faster rehabilitation. ACLSR is now performed only for proximal (femoral-sided) tears in the acute phase, when the tissue quality is good and using high-strength nonabsorbable sutures. There are several techniques for performing ACLSR but broadly speaking are either non-augmented, static augmented with suture tape, dynamic augmented or using bio-scaffolds."
+    },
+    {
+      "label": "CLINICAL OUTCOME OF ACLSR",
+      "text": "There is a lot of literature on ACLSRs including case series, cohort studies and randomized controlled trials. The results from these studies are encouraging but mostly pertain to patient reported outcome measures, are in small numbers and in the short-term. The results are also inconsistent across different studies and not specifically performed for the athletic population. Moreover, most of these studies are from the innovator or designer surgeons and groups and have not been independently validated."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Currently, there is insufficient evidence to recommend ACLSR as a preferred method of managing even acute proximal tears in athletes. Improved rates of return to sports, lower retear rate and lesser kinesiophobia needs to be proven in athletes."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

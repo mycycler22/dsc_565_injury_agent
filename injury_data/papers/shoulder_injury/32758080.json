@@ -1,0 +1,52 @@
+{
+  "pmid": "32758080",
+  "title": "Risk Factors of Overuse Shoulder Injuries in Overhead Athletes: A Systematic Review.",
+  "year": "2020",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Shoulder injuries are highly prevalent in sports involving the upper extremity. Some risk factors have been identified in the literature, but consensus is still lacking."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To identify risk factors of overuse shoulder injury in overhead athletes, as described in the literature."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "A systematic review of the literature from the years 1970 to 2018 was performed using 2 electronic databases: PubMed and Scopus."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Prospective studies, written in English, that described at least 1 risk factor associated with overuse shoulder injuries in overhead sports (volleyball, handball, basketball, swimming, water polo, badminton, baseball, and tennis) were considered for analysis."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Data were extracted from 25 studies. Study methodology quality was evaluated using the Modified Coleman Methodology Score."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Intrinsic factors, previous injury, range of motion (lack or excess), and rotator cuff weakness (isometric and isokinetic) highly increase the risk of future injuries. Additionally, years of athletic practice, body mass index, sex, age, and level of play seem to have modest influence. As for the effect of scapular dysfunction on shoulder injuries, it is still controversial, though these are typically linked. Extrinsic factors, field position, condition of practice (match/training), time of season, and training load also have influence on the occurrence of shoulder injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Range of motion, rotator cuff muscle weakness, and training load are important modifiable factors associated with shoulder injuries. Scapular dysfunction may also have influence. The preventive approach for shoulder injury should focus on these factors."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "35505804",
+  "title": "A proposed algorithm for the treatment of core muscle injuries.",
+  "year": "2021",
+  "journal": "Journal of hip preservation surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "In recent years, there has been increased awareness and treatment of groin injuries in athletes. These injuries have been associated with various terminologies including sports hernia, core muscle injury (CMI), athletic pubalgia and inguinal disruption, among others. Treatment of these injuries has been performed by both orthopaedic and general surgeons and may include a variety of procedures such as rectus abdominis repair, adductor lengthening, abdominal wall repair with or without mesh, and hip arthroscopy for the treatment of concomitant femoroacetabular impingement. Despite our increased knowledge of these injuries, there is still no universal terminology, diagnostic methodology or treatment for a CMI. The purpose of this review is to present a detailed treatment algorithm for physicians treating patients with signs and symptoms of a CMI. In doing so, we aim to clarify the various pathologies involved in CMI, eliminate vague terminology, and present a clear, stepwise approach for both diagnosis and treatment of these injuries."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

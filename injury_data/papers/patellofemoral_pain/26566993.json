@@ -1,0 +1,45 @@
+{
+  "pmid": "26566993",
+  "title": "Is Hip Abduction Strength Asymmetry Present in Female Runners in the Early Stages of Patellofemoral Pain Syndrome?",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The current literature indicates that hip abduction weakness in female patients is associated with ipsilateral patellofemoral pain syndrome (PFPS) as part of the weaker hip abductor complex. Thus, it has been suggested that clinicians should consider screening female athletes for hip strength asymmetry to identify those at risk of developing PFPS to prevent the condition. However, no study to date has demonstrated that hip strength asymmetry exists in the early stages of PFPS."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine whether hip abduction strength asymmetry exists in female runners with early unilateral PFPS, defined as symptoms of PFPS not significant enough to cause patients to seek medical attention or prevent them from running at least 10 miles per week."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study consisted of 21 female runners (mean age, 30.5 years; range, 18-45 years) with early unilateral PFPS, who had not yet sought medical care and who were able to run at least 10 miles per week, and 36 healthy controls comparably balanced for age, height, weight, and weekly running mileage (mean, 18.5 mi/wk). Study volunteers were recruited using flyers and from various local running events in the metropolitan area. Bilateral hip abduction strength in both a neutral and extended hip position was measured using a handheld dynamometer in each participant by an examiner blinded to group assignment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Patients with early unilateral PFPS demonstrated no significant side-to-side difference in hip abduction strength, according to the Hip Strength Asymmetry Index, in both a neutral (mean, 83.5 ± 10.2; P = .2272) and extended hip position (mean, 96.3 ± 21.9; P = .6671) compared with controls (mean, 87.0 ± 8.3 [P = .2272] and 96.6 ± 16.2 [P = .6671], respectively). Hip abduction strength of the affected limb in patients with early unilateral PFPS (mean, 9.9 ± 2.2; P = .0305) was significantly stronger than that of the weaker limb of control participants (mean, 8.9 ± 1.4; P = .0305) when testing strength in a neutral hip position; however, no significant difference was found when testing the hip in an extended position (mean, 7.0 ± 1.4 [P = .1406] and 6.6 ± 1.5 [P =.1406], respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The study data show that early stages of unilateral PFPS in female runners is not associated with hip abduction strength asymmetry and that hip abduction strength tested in neutral is significantly greater in the affected limb in the early stages of PFPS compared with the unaffected limb. However, when tested in extension, no difference exists. Further studies investigating the early stages of PFPS are warranted."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Unlike patients with PFPS seeking medical care, early PFPS does not appear to be significantly associated with hip abduction strength asymmetry."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

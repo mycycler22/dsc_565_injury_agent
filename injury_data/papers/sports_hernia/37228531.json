@@ -1,0 +1,37 @@
+{
+  "pmid": "37228531",
+  "title": "Return To Play Rate and Performance Following Surgical Repair of Athletic Pubalgia in Major League Soccer Players: A Retrospective Case-Control Study.",
+  "year": "2023",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Introduction Athletic pubalgia (AP) injuries requiring surgical repair in elite-level soccer players are significant injuries with the potential of impacting a player's playing time and performance. Currently, no data exists explicitly analyzing Major League Soccer (MLS) players' return to play (RTP) rates and performance following these surgeries. Methods A retrospective review of publicly available data of all MLS players who underwent surgery to repair an isolated AP injury from the league inception year of 1993 through 2021 was performed. Demographic data at the time of injury was collected. Athletes who successfully returned to play for at least two seasons in the MLS were matched to healthy controls in a 1:2 ratio by demographics and position. The index year was defined as the season, including pre- and post-season, that the surgery occurred. RTP date and performance metrics one and two years pre- and post-index year were collected. Statistical analysis was performed. Results Eighty-eight players underwent surgical repair for AP from 1993 through 2021. Eighty-five athletes were able to successfully RTP (96.5%). Twenty-five players met the inclusion criteria and were included in the final analysis. The average RTP time was 1.08±4.92 months. During the combined seasons following surgery, athletes in the AP group displayed a significant reduction in minutes played compared to the two combined seasons prior to surgery (4153±912.77 vs. 3405.36±1342.35 minutes; p=0.03). There was no significant reduction in performance metrics when compared to both prior season statistics and the matched cohort (p>0.05).  Conclusion There is a high RTP rate among MLS players who undergo isolated surgical repair of AP. Although there was a significant reduction in combined minutes played in the two ensuing seasons following surgery, athletes who RTP demonstrated equivalent performance metrics comparable to their pre-injury seasons as well as to a matched cohort."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The average RTP time was 1.08±4.92 months."
+    }
+  ],
+  "pmcid": "10205051",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Demographic data Eighty-eight players underwent surgical repair for AP from 1993 through 2021. Eighty-five athletes were able to successfully RTP (96.5%). Only twenty-five MLS players met the inclusion criteria and were subsequently matched to healthy controls, with all twenty-five players successfully returning to play. There were no significant differences between the AP group and controls regarding demographic data that was collected (Tables 1 and 2). The average RTP was 1.08±4.92 months. Game statistics When comparing the combined statistics for one and two years pre-injury to one and two years post-injury, there was a significant difference in the minutes played for the AP group (4153±912.77 minutes versus 3405.36±1342.34; p=0.03) (Table 3). The AP group also showed a significant decrease in minutes (2119.48±509.72 versus 1547.04±842.96; p=0.01) and SOG (17.48±15.72 versus 9.12±10.46; p=0.04) when comparing data from one year pre-injury to two years post-injury (Table 4). There were no significant differences between the AP group and controls in matches, minutes, goals, assists, shots, and SOG (all p-values >0.05) when comparing data from both pre- and post-injury (Tables 5 and 6)."
+    },
+    {
+      "section": "TABLE: Correlations of demographic characteristics with RTPRTP - return to play",
+      "text": "Characteristics | r | p-value\nAge | 0.051 | 0.810\nBMI | 0.106 | 0.615\nExperience | 0.221 | 0.288\nPosition | 0.236 | 0.256\nHeight | 0.293 | 0.155\nWeight | 0.306 | 0.137"
+    },
+    {
+      "section": "TABLE: Population demographics at the time of injuryRTP - return to play",
+      "text": "Characteristics | Athletic pubalgia (n=25) | Controls (n=50) | p-value\nPosition | n (%) | n (%) | 1\nDefender | 5 (20.0) | 10 (20.0) | \nForward | 8 (32.0) | 16 (32.0) | \nMidfielder | 12 (48.0) | 24 (48.0) | \n | Mean (SD) | Mean (SD)\nAge (years) | 27.16 (3.45) | 27.44 (2.95) | 0.715\nHeight (cm) | 179.32 (4.97) | 179.83 (6.20) | 0.723\nWeight (kg) | 75.95 (5.06) | 76.21 (6.14) | 0.854\nBMI (kg/m2) | 23.61 (1.10) | 23.56 (1.31) | 0.859\nExperience (years) | 5.52 (2.60) | 5.30 (2.68) | 0.736\nRTP (months) | 1.08 (4.92) | "
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "38655170",
+  "title": "The Epidemiology of Youth Sport-Related Shoulder Injuries: A Systematic Review.",
+  "year": "2022",
+  "journal": "Translational sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Youth around the globe place their shoulders at risk for injury when participating in sports. Shoulder injuries may vary in severity, produce the potential for time-loss from sport, and result in functional disability. We sought to explore sport-related shoulder injuries in youth by identifying injury rates, risk factors, injury mechanisms, and injury prevention strategies."
+    },
+    {
+      "label": "METHODS",
+      "text": "All relevant full-text articles were identified by searching MEDLINE, EMBASE, CINAHL, Sport Discus, and the Cochrane Controlled Trials Registry. No date restrictions were used. All full-text studies reporting original research describing sport-related shoulder injury among female and/or male youth from 5 to 18 years old were included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 3,889 studies screened, 97 described shoulder injury in youth sports. Shoulder injuries were identified in 24 unique sports. The median seasonal prevalence of shoulder injury was 10.9% (range 1.2-28.2%). The most common injury mechanisms identified were contacted with another player, contact with the playing environment, and falling to the ground. Risk factors for shoulder injury identified were side-to-side strength imbalances, weak external rotator muscles, and scapular dyskinesia. One study evaluated a successful training strategy to prevent shoulder injuries, but two other interventions demonstrated no effect."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Sport-related shoulder injuries are prevalent among youth athletes. Injury risk factors identified included modifiable intrinsic factors such as strength, range of motion, and training load. The most common injury mechanism was direct contact with either another person or an object in the playing environment. Innovative shoulder-specific strategies are needed to reduce shoulder injuries in this population. Trial Registration: PROSPERO ID: CRD42020189142."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

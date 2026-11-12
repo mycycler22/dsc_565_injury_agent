@@ -1,0 +1,8 @@
+Title: Turf toe: anatomy, diagnosis, and treatment. | Type: Journal Article | PMID: 23015979 | Year: 2010 | Injury query: turf toe
+[RESULTS] Grade II injury is a partial rupture of the plantar soft tissue structures of the hallux MTP joint, typically requiring about 2 weeks to recover.
+[RESULTS] Grade III injury is a complete rupture of the plantar structures of the hallux MTP joint, requiring at least 10 to 16 weeks to recover.
+[FULLTEXT: Results:] Grade I injury is a sprain or attenuation of the plantar capsular ligamentous complex of the hallux MTP joint; athletes are typically able to return to play as tolerated. Grade II injury is a partial rupture of the plantar soft tissue structures of the hallux MTP joint, typically requiring about 2 weeks to recover. Grade III injury is a complete rupture of the plantar structures of the hallux MTP joint, requiring at least 10 to 16 weeks to recover. Some complete ruptures require surgical repair.
+[FULLTEXT: TABLE: Summary of turf toe grading and treatment.a] Grade | Description/Findings | Treatment | Return to Play
+I | Attenuation of plantar structuresLocalized swellingMinimal ecchymosis | Symptomatic | Return as tolerated
+II | Partial tear of plantar structuresModerate swellingRestricted motion due to pain | Walking bootCrutches as needed | Up to 2 weeksMay need taping on return to play
+III | Complete disruption of plantar structuresSignificant swelling/ecchymosisHallux flexion weaknessFrank instability of hallux MTP | Long-term immobilization in boot or castORSurgical reconstruction | 10 to 16 weeks depending on sport and positionLikely to need taping on return to play

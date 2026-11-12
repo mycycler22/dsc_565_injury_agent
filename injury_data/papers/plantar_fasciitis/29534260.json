@@ -1,0 +1,20 @@
+{
+  "pmid": "29534260",
+  "title": "Two Genetic Variants Associated with Plantar Fascial Disorders.",
+  "year": "2018",
+  "journal": "International journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Plantar fascial disorder is comprised of plantar fasciitis and plantar fibromatosis. Plantar fasciitis is the most common cause of heel pain, especially for athletes involved in running and jumping sports. Plantar fibromatosis is a rare fibrous hyperproliferation of the deep connective tissue of the foot. To identify genetic loci associated with plantar fascial disorders, a genome-wide association screen was performed using publically available data from the Research Program in Genes, Environment and Health including 21,624 cases of plantar fascial disorders and 80,879 controls. One indel (chr5:118704153:D) and one SNP (rs62051384) showed an association with plantar fascial disorders at genome-wide significance (p<5×10<sup>-8</sup>) with small effects (odds ratios=0.93 and 1.07 per allele, respectively). The indel chr5:118704153:D is located within TNFAIP8 (encodes a protein induced by TNF alpha) and rs62051384 is located within WWP2 (which is involved in proteasomal degradation). These DNA variants may be informative in explaining why some individuals are at higher risk for plantar fascial disorders than others."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

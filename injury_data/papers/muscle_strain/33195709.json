@@ -1,0 +1,53 @@
+{
+  "pmid": "33195709",
+  "title": "Muscle Strains in the Lower Extremity of Japanese Professional Baseball Players.",
+  "year": "2020",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Predicting when athletes can return to play after muscle strains is not always simple because of difficulties in evaluating the severity of such injuries."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to evaluate the use of magnetic resonance imaging (MRI) to classify lower extremity muscle strains in Japanese professional baseball players. The hypothesis was that MRI grading can be used to diagnose the severity of muscle strains in the lower extremity and predict return to play in athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 55 muscle strains occurred in the lower extremity of players on a professional baseball team between the 2006 and 2015 seasons; all players had undergone MRI examination. Age, player position, location of injury, cause of injury, and duration until return to play (in days) were extracted from the medical records. MRI scans were classified using the following system: grade 0, no abnormal findings; grade 1a, T2-weighted high intensity only between muscles; grade 1b, T2-weighted high intensity between muscles and in muscle belly; grade 2, injury of musculotendinous junction; and grade 3, rupture of tendon insertion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The sites of injuries were distributed as follows: hamstrings (n = 33), quadriceps (n = 6), hip adductors (n = 6), and calves (n = 10). MRI findings revealed 9 muscle strains (16%), 19 grade 1a (34%), 19 grade 1b (34%), and 8 grade 2 muscle strains (16%). The length of time until return to training and competition, respectively, was 15 and 26 days for grade 1a injuries, 19 and 36 days for grade 1b injuries, and 55 and 69 days for grade 2 injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Players with grade 1 injuries took 4 to 5 weeks to return to play, whereas players with grade 2 injuries took 10 weeks to return. MRI can be useful for diagnosing lower extremity muscle strains and predicting the time to return to play."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The length of time until return to training and competition, respectively, was 15 and 26 days for grade 1a injuries, 19 and 36 days for grade 1b injuries, and 55 and 69 days for grade 2 injuries."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Players with grade 1 injuries took 4 to 5 weeks to return to play, whereas players with grade 2 injuries took 10 weeks to return."
+    }
+  ],
+  "pmcid": "7607777",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "The sites of injuries were distributed as follows: hamstrings (n = 33), quadriceps (n = 6), hip adductors (n = 6), and calves (n = 10). MRI findings revealed 9 muscle strains (16%), 19 grade 1a (34%), 19 grade 1b (34%), and 8 grade 2 muscle strains (16%). The length of time until return to training and competition, respectively, was 15 and 26 days for grade 1a injuries, 19 and 36 days for grade 1b injuries, and 55 and 69 days for grade 2 injuries."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "39380970",
+  "title": "Evaluation and Management of Glenohumeral Instability in Adolescent Patients: An Expert Consensus Statement.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Management of glenohumeral instability in the adolescent population can be both challenging and controversial. There are no current guidelines for optimal management of glenohumeral instability in this population (unidirectional or multidirectional), and the cutoff ages for transition to adult treatment are not known."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To develop consensus-based guidelines for the management of glenohumeral instability in adolescents."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Consensus statement."
+    },
+    {
+      "label": "METHODS",
+      "text": "A 26-question, multiple-choice survey was developed after 2 rounds of iterations and was submitted to the orthopaedic surgeons of the Pediatric Research in Sports Medicine (PRiSM) Society. The survey comprised 3 sections-demographics, practice setting, and decision-making-and included cutoff ages and management in 5 specific case scenarios. Consensus-based guidelines were generated with 66% response agreement. An indication score was then applied to each response related to more aggressive management to determine if variables related to consensus (or lack thereof) could be identified."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 54 responses were returned. Of the respondents, 59% were from academic practice, 84% were pediatric orthopaedic fellowship trained, and 46% performed >25 shoulder instability cases per year. In the setting of first-time anterior shoulder dislocation, nonoperative treatment was preferred for boys aged <14 years and girls aged <13 years. Besides age, proximal humerus physeal status, injury mechanism, sport, and presence of bony injury affected treatment selection. The presence of a Bankart lesion was an indication for stabilization in first-time dislocations for contact athletes with a closing or closed physis, but not in patients with an open physis or noncontact injury mechanisms. For recurrent anterior shoulder dislocation, stabilization was preferred irrespective of physis status. Initial nonoperative treatment was preferred for multidirectional instability."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In the setting of first-time anterior shoulder dislocation in patients with open physes, nonoperative treatment was preferred for boys <14 years and girls <13 years. Future multicenter prospective studies focusing on outcomes would help to validate current practice patterns, especially in scenarios for which no consensus was reached."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

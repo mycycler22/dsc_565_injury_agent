@@ -1,0 +1,31 @@
+{
+  "pmid": "39412831",
+  "title": "Epidemiology of ankle sprain and chronic ankle instability in elite adolescent dancesport athletes.",
+  "year": "2025",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Dancesport is performed in high-heeled shoes. Dancesport athletes may have a higher prevalence and incidence of ankle sprains, which can affect their performance. However, the occurrence of ankle sprains among dancesport athletes remains unclear. This study aimed to determine the prevalence and incidence of ankle sprains among elite dancesport athletes and to investigate the related information."
+    },
+    {
+      "label": "METHOD",
+      "text": "We conducted a mixed descriptive epidemiological study (cross-sectional and longitudinal) involving 198 elite adolescent dancesport athletes, using past medical records and questionnaires administered to the participants. Data on the occurrence of ankle sprains among all participants were compiled using medical records and information on injury mechanisms, missed days, severity types, and countermeasures for ankle sprains were collected. The prevalence of chronic ankle instability (CAI) among the participants was assessed using a questionnaire. Following the initial survey, we conducted a one-year follow-up study to investigate the incidence of ankle sprains, incidence rate per 1000 exposure hours, and recurrence of ankle sprains."
+    },
+    {
+      "label": "RESULT",
+      "text": "The cross-sectional study and longitudinal study included 198 participants and 92 elite dancesport athletes, respectively. The prevalence of ankle sprains and CAI was 49.5% and 45.1%, respectively. Of all ankle sprains, 88% were medial injuries. The most common injury mechanisms were turning (46.9%) and jumping (46.9%). The average number of missed days due to ankle sprains was 11.2 days. Most injuries were managed with rest, and only one male athlete underwent surgery due to an ankle sprain sustained during dancing. During the one-year follow-up, the incidence of ankle sprains, incidence rate per 1000 exposure hours, and recurrence rate of ankle sprains were 46.6% (male, 41.2%; female, 48.8%), 0.65 ankle sprains/1000 h, and 35.3%, respectively. No sex-related differences were observed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "It is crucial to focus on the occurrence of ankle sprains and CAI in dancesport athletes with high heels. Future research should clarify the impact of ankle sprains on dancesport performance and develop preventive measures to reduce the incidence and recurrence of these associated injuries."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

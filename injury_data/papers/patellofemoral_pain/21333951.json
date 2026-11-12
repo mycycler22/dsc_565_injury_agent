@@ -1,0 +1,47 @@
+{
+  "pmid": "21333951",
+  "title": "Overuse injuries in high school runners: lifetime prevalence and prevention strategies.",
+  "year": "2011",
+  "journal": "PM & R : the journal of injury, function, and rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate lifetime prevalence and risk factors for overuse injuries in high school athletes currently participating in long-distance running and provide recommendations for injury prevention strategies."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective study design."
+    },
+    {
+      "label": "SETTING",
+      "text": "Twenty-eight high schools in the San Francisco Bay Area."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "A total of 442 female and 306 male athletes, ages 13-18 years, who are on cross-country and track and field teams."
+    },
+    {
+      "label": "METHODS",
+      "text": "Online survey with questions that detailed previous injuries sustained and risk factors for injury."
+    },
+    {
+      "label": "MAIN OUTCOME MEASUREMENTS",
+      "text": "Previous overuse injuries and association of risk factors to injury (including training variables, dietary patterns, and, in girls, menstrual irregularities)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Previous injuries were reported by 68% of female subjects and 59% of male subjects. More injury types were seen in girls (1.2 ± 1.1 versus 1.0 ± 1.0, P < .01). Both genders had similar participation in running (2.5 ± 2.2 versus 2.3 ± 2.1 years), and previous injury prevalence followed a similar pattern: tibial stress injury (girls, 41%; boys, 34%), ankle sprain (girls, 32%; boys, 28%), patellofemoral pain (girls, 21%; boys, 16%), Achilles tendonitis (girls, 9%; boys, 6%), iliotibial band syndrome (girls, 7%; boys, 5%), and plantar fasciitis (girls, 5%; boys, 3%). Higher weekly mileage was associated with previous injuries in boys, (17.1 ± 11.9 versus 14.1 ± 11.5, P < .05) but not in girls (14.4 ± 10.2 versus 12.6 ± 11.8, not significant). A strong association between higher mileage and faster performances was seen in both groups. No association between previous injury and current dietary patterns (including disordered eating and calcium intake) or menstrual irregularities was seen."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The majority of athletes currently participating in high school cross-country and track and field have a history of sustaining an overuse injury, with girls having a higher prevalence of injury. A modest mileage reduction may represent a modifiable risk factor for injury reduction. Future research is needed to evaluate the effects of incorporating a comprehensive strength training program on the prospective development of overuse injury and performance in this population."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

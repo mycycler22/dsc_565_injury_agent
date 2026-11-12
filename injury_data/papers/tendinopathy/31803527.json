@@ -1,0 +1,43 @@
+{
+  "pmid": "31803527",
+  "title": "PAIN SENSITIVITY IN CHRONIC ACHILLES TENDINOPATHY.",
+  "year": "2019",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendinopathy is a common overuse injury sustained by athletes (including runners) that often becomes chronic. There is evidence that chronic musculoskeletal pain conditions exhibit signs of nervous system sensitization."
+    },
+    {
+      "label": "HYPOTHESIS/PURPOSE",
+      "text": "The objective of this study was to compare pain sensitivity (pressure pain threshold [PPT], heat pain threshold [HPT], and heat temporal summation [HTS]) between active healthy adults with and without chronic Achilles tendinopathy in order to determine if signs of peripheral and/or central sensitization exist in chronic Achilles tendinopathy."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Seventeen participants with chronic ( ≥ 3 months) Achilles tendinopathy (39.0 years ± 10.81) and 24 healthy controls (31.83 years ± 8.92) were included. All participants completed the Pain Catastrophizing Scale (PCS). Participants in the Achilles group also completed the Lower Extremity Functional Scale (LEFS) and the Victorian Institute of Sport Assessment-Achilles (VISA-A). Pain processing was quantified using PPT, HPT and HTS tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were no significant differences in PCS scores between groups. In the Achilles tendinopathy group, the mean VISA-A score was 58.5 ± 18.4; the mean LEFS was 63.7 ± 8.0. Primary hyperalgesia (decreased pain threshold at injury site) was detected in the Achilles tendinopathy group, as evidenced by lower PPT (p<0.0001) and lower HPT (p = 0.028). Mechanical secondary hyperalgesia, a sign of central sensitization, was found in the Achilles tendinopathy group at the tibialis anterior (p = 0.042) and non-involved Achilles (p = 0.025), but not at the thenar eminence (p = 0.276). The degree of HTS was not different between groups (p = 0.981)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Active participants with chronic Achilles tendinopathy showed signs of both peripheral and central sensitization; however, widespread hyperalgesia into the upper extremities and elevated temporal summation were not observed. Evidence of differences in pain sensitivity lend support to the theory for a multifactorial model of tendinopathy, which consists of an impaired motor system, local tendon pathology, and changes in the pain/nociceptive system. Physical therapy management of chronic Achilles tendinopathy may need to address potential changes in the nervous system. Interventions used to treat chronic tendinopathies should be investigated for their potential to resolve peripheral and central sensitization."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Therapy, level 2b."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

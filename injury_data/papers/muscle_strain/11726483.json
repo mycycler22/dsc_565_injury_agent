@@ -1,0 +1,32 @@
+{
+  "pmid": "11726483",
+  "title": "Clinical risk factors for hamstring muscle strain injury: a prospective study with correlation of injury by magnetic resonance imaging.",
+  "year": "2001",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To prospectively establish risk factors for hamstring muscle strain injury using magnetic resonance imaging (MRI) to define the diagnosis of posterior thigh injury."
+    },
+    {
+      "label": "METHOD",
+      "text": "In a prospective cohort study using two elite Australian Rules football clubs, the anthropometric characteristics and past clinical history of 114 athletes were recorded. Players were followed throughout the subsequent season, with posterior thigh injuries being documented. Hamstring intramuscular hyperintensity on T2 weighted MRI was required to meet our criteria for a definite hamstring injury. Statistical associations were sought between anthropometric and previous clinical characteristics and hamstring muscle injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "MRI in 32 players showed either hamstring injury (n = 26) or normal scans (n = 6). An association existed between a hamstring injury and each of the following: increasing age, being aboriginal, past history of an injury to the posterior thigh or knee or osteitis pubis (all p<0.05). These factors were still significant when players with a past history of posterior thigh injury (n = 26) were excluded. Previous back injury was associated with a posterior thigh injury that looked normal on MRI scan, but not with an MRI detected hamstring injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Hamstring injuries are common in Australian football, and previous posterior thigh injury is a significant risk factor. Other factors, such as increasing age, being of aboriginal descent, or having a past history of knee injury or osteitis pubis, increase the risk of hamstring strain independently of previous posterior thigh injury. However, as the numbers in this study are small, further research is needed before definitive statements can be made."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

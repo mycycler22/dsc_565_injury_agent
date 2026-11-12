@@ -1,0 +1,45 @@
+{
+  "pmid": "41647694",
+  "title": "Return to play and recovery metrics after arthroscopic Bankart repair with augmentations in rugby players.",
+  "year": "2026",
+  "journal": "JSES reviews, reports, and techniques",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is limited data on the relationship between recovery metrics, including psychological factors, and shoulder function in rugby players after arthroscopic Bankart repair. The purpose of this study was to investigate return to play (RTP) in rugby players who underwent shoulder stabilization for anterior shoulder instability and to assess the relationship between postoperative ranges of motion (ROMs) and various recovery metrics, including performance, pain, and psychological conditions."
+    },
+    {
+      "label": "METHODS",
+      "text": "We retrospectively investigated subjects who underwent arthroscopic shoulder stabilization at our institute from January 2012 to April 2022. Inclusion criteria were as follows: (1) rugby players with traumatic anterior shoulder instability and (2) arthroscopic Bankart repair with rotator interval closure and Hill-Sachs remplissage. Exclusion criteria were as follows: (1) revision surgery and (2) incomplete questionnaire at the final follow-up. A questionnaire at the final follow-up was used to evaluate the recovery metrics as a visual analog scale (VAS), including athletic performance, pain, and fear of contact. Regression analyses were performed to assess the relationship between the VAS scores and ROMs."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ninety-one shoulders in 82 patients met the inclusion criteria, and 32 shoulders were excluded due to revision surgery, one shoulder; incomplete questionnaire, 31 shoulders. The remaining 59 shoulders in 50 patients were included in this study. The patients consisted of 48 males and 2 females, with a mean age at surgery of 19 years (range, 14-36). The mean follow-up was 31 months (range, 13-56). The mean time to start contact practice was 7 ± 5 months (range, 3-36), and the mean time to RTP was 8 ± 5 months (range, 4-36). Forty-nine patients (98%) returned to their preinjury sports level. The median of VAS values were as follows: 91 for athletic performance (range, 25-100), 100 for pain (range, 10-100), and 70 for fear of contact (range, 10-100). ROM data were available in 52 shoulders. Multiple regression analyses showed significant relationships between total VAS scores and ROMs at postoperative three months (anterior elevation, <i>P</i> = .015; external rotation at the side, <i>P</i> = .002)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic shoulder stabilization resulted in a 98% RTP rate in rugby players. The VAS score for fear of contact was relatively low, even in patients with complete return. The total VAS value was correlated with ROMs at three months postoperatively. A rehabilitation protocol that simultaneously addresses psychological and physical aspects may be required for better RTP."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to start contact practice was 7 ± 5 months (range, 3-36), and the mean time to RTP was 8 ± 5 months (range, 4-36)."
+    }
+  ],
+  "pmcid": "12870764",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Ninety-one shoulders in 82 patients met the inclusion criteria, and 32 shoulders were excluded due to revision surgery, one shoulder; incomplete questionnaire, 31 shoulders. The remaining 59 shoulders in 50 patients were included in this study. The patients consisted of 48 males and 2 females, with a mean age at surgery of 19 years (range, 14-36). The mean follow-up was 31 months (range, 13-56). The mean time to start contact practice was 7 ± 5 months (range, 3-36), and the mean time to RTP was 8 ± 5 months (range, 4-36). Forty-nine patients (98%) returned to their preinjury sports level. The median of VAS values were as follows: 91 for athletic performance (range, 25-100), 100 for pain (range, 10-100), and 70 for fear of contact (range, 10-100). ROM data were available in 52 shoulders. Multiple regression analyses showed significant relationships between total VAS scores and ROMs at postoperative three months (anterior elevation, P = .015; external rotation at the side, P = .002)."
+    },
+    {
+      "section": "Sports return and recovery metrics",
+      "text": "The mean time to return to contact practice was 7 ± 5 months (range, 3-36), and the mean time to RTP was 8 ± 5 months (range, 4-36). Four shoulders (7%) experienced reinjury, and no shoulders underwent revision surgery. Three patients with recurrence returned to rugby after physiotherapy; however, one patient who did not receive sufficient physiotherapy was unable to return to the sport. Overall, 49 athletes (98%) returned to their preinjury sports level. The median of VAS values was as follows: 91 for athletic performance (range, 25-100), 100 for pain (range, 10-100), and 70 for fear of contact (range, 10-100) (Fig. 3). The median of the sum of the 3 VAS values (athletic performance, pain, and fear of contact) was 261 (range, 90-300).Figure 3Box plot for visual analog scale for athletic performance (A), pain (B), and fear of contact (C)."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "38800296",
+  "title": "Overview of Treatment Options for Mild Traumatic Brain Injury: A Literature Review.",
+  "year": "2024",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The incidence and prevalence of concussion, a type of mild traumatic brain injury (mTBI), have steadily increased among athletes, both students and professionals, across a wide variety of sports, including, but not limited to, swimming, tennis, football, and boxing. Recent data have demonstrated that sports are one of the leading causes of concussions among student athletes. While the exact mechanism of concussion onset has yet to be fully elucidated, data suggest that the pathophysiology involves rotational acceleration and deceleration of the brain, leading to axon tearing and disturbance in the metabolic cascade of glucose. Concussive events can have debilitating effects on an athlete, including chronic traumatic encephalopathy (gradual degeneration of brain tissue) that is related to personality changes, emotional disorders, and even dementia. Common symptoms associated with concussion include dizziness, nausea, vomiting, and headaches. The physical assessment consists of a combination of tools involving the mental status examination, vital signs, cervical spine exam, eye exam, and neurological testing. The use of osteopathic manipulative medicine (OMM), pharmacotherapy, hyperbaric oxygen therapy (HBOT), aerobic exercise, balance, and/or vestibular therapy are many common treatment approaches for concussion and post-concussion sequelae. This literature review aims to provide insight into concussions, the current treatment options available, and the new developments in concussions per the Amsterdam 2022 International Consensus Statement on Concussion in Sport published in 2023."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

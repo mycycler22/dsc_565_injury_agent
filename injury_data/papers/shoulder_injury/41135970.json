@@ -1,0 +1,45 @@
+{
+  "pmid": "41135970",
+  "title": "Prevention strategies and modifiable risk factors for upper extremity injury: a systematic review and meta-analysis for the Female, woman and/or girl Athlete Injury pRevention (FAIR) consensus.",
+  "year": "2025",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To examine injury prevention strategies and potentially modifiable risk factors (MRFs) for upper extremity (UE) injuries in female, woman and/or girl athletes (female/woman/girl)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review with meta-analysis, semiquantitative analyses and Grading of Recommendations Assessment, Development and Evaluation in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "MEDLINE (Medical Literature Analysis and Retrieval System Online), CINAHL (Cumulative Index to Nursing and Allied Health Literature), APA PsycINFO (American Psychological Association Psychological Information Database), SPORTDiscus (Sports Discus Database), EMBASE (Excerpta Medica Database), and ERIC (Education Resources Information Center) (30 October 2023) and Cochrane Systematic Review Database and the Cochrane Central Register of Controlled Trials (CENTRAL) (25 November 2023)."
+    },
+    {
+      "label": "ELIGIBILITY",
+      "text": "Primary data studies with comparison group(s) assessing the association of prevention strategies and/or MRFs for sport-related UE injury, with ≥1 female/woman/girl in each study group."
+    },
+    {
+      "label": "RESULTS",
+      "text": "55 studies (n=20 intervention, n=35 MRF) were included with 33 228 athletes (8642 female/woman/girl; 26%). Of these, 17 (31%) reported female/woman/girl-specific estimates and included five injury locations (n=3 general UE, n=12 shoulder, n=3 elbow, n=3 wrist/hand). One prevention strategy (n=5 shoulder-specific exercise programmes) and seven MRFs were identified, including less range of motion (n=6), less shoulder muscle strength (n=8), high training load (n=1), presence of scapular dyskinesis (n=3), high sport specialisation (n=2), equipment differences (n=1) and less sport-specific conditioning (n=1). Pooled data from three studies suggest that shoulder exercise programmes consisting of strength, stability/control and sport-specific exercises reduce shoulder injury rates by 51% (95% CI 0.30 to 079; I<sup>2</sup> 0.0%; very-low certainty evidence) across paediatric (≤18 years) and adult handball and volleyball players."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our understanding of female/woman/girl UE injury prevention is limited by heterogeneity across injury outcomes, interventions, MRFs and limited female/woman/girl athlete-specific data. Shoulder-specific strengthening and stability exercise programmes may be beneficial to reduce shoulder injury rates in female/woman/girl handball and volleyball players. Future research should prioritise female/woman/girl athletes to reduce the burden of UE injuries."
+    },
+    {
+      "label": "PROSPERO REGISTRATION NUMBER",
+      "text": "PROSPERO CRD42024494967."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

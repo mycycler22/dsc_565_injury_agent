@@ -1,0 +1,52 @@
+{
+  "pmid": "29651906",
+  "title": "Return to Sport Rates in Physically Active Individuals 6 Months After Arthroscopy for Femoroacetabular Impingement Syndrome.",
+  "year": "2019",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Six months is the expected time frame to return to sport (RTS) after hip arthroscopy for femoroacetabular impingement syndrome (FAIS)."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The primary aims of this study were to (1) report the RTS rate of physically active individuals 6 months after arthroscopic surgery for FAIS and (2) compare the self-reported hip function between those who were able to RTS against those who had not."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "The Ohio State University Wexner Medical Center."
+    },
+    {
+      "label": "PATIENTS",
+      "text": "A total of 42 physically active individuals scheduled for hip arthroscopy for FAIS."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Self-reported function, including preinjury and current activity levels and ability to participate in sport, were collected on 42 individuals with FAIS prior to surgery and at 6-month follow-up. Participants were allocated into 2 groups based on self-reported RTS status at 6-month follow-up. Separate 2-way analyses of variance were used to test the interaction of groups (those who did/did not RTS). Main effects were reported in the absence of statistically significant interactions (P ≤ .05)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Altogether, 28 of 42 participants (66%) returned for 6-month follow-up; 5 of the 14 participants (35.7%) lost to follow-up underwent contralateral hip surgery within the study time frame. At the 6-month follow-up, 16 of the remaining 28 participants (57.1%) reported that they had returned to sport, 5 of whom returned at their prior level of participation. There was no statistically significant interaction of group and time for either hip outcome score subscale (P ≥ .20). Self-reported hip function improved over time, regardless of group (P ≤ .001). Participants in the yRTS group demonstrated higher hip outcome score-sport scores than did the nRTS group, regardless of time (P = .04)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Though just over half of participants returned to sport 6 months after hip arthroscopy for FAIS, only 18% returned to their previous level of sports participation. Participants who returned to sport reported better function than those who did not, but self-reported hip function improved over time regardless of group. The most commonly reported reasons for not returning to sport were weakness (69.6%), fear (65.2%), and pain (56.5%)."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "Though just over half of participants returned to sport 6 months after hip arthroscopy for FAIS, only 18% returned to their previous level of sports participation."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

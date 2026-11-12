@@ -1,0 +1,35 @@
+{
+  "pmid": "42891790",
+  "title": "Clinical and functional predictors of delayed return to sport after first-time patellar dislocation in adolescents: A prospective cohort study.",
+  "year": "2026",
+  "journal": "Irish journal of medical science",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "First-time lateral patellar dislocation is common in adolescent athletes and may cause persistent functional impairment despite nonoperative treatment. Early predictors of delayed return to sport remain incompletely defined."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To identify early clinical and functional factors associated with delayed return to unrestricted preinjury-level sport after first-time lateral patellar dislocation in adolescents."
+    },
+    {
+      "label": "METHODS",
+      "text": "This prospective cohort study included 160 adolescents aged 12-18 years (97 females, 63 males) with first-time traumatic lateral patellar dislocation managed nonoperatively. Participants underwent standardized rehabilitation and were followed for 12 months. At 3 months, quadriceps limb-symmetry index (LSI), single-leg hop performance, Y-Balance asymmetry, patellar apprehension, Banff Patellofemoral Instability Instrument 2.0 (BPII 2.0), and Pediatric International Knee Documentation Committee scores were assessed. Delayed return to sport was defined as failure to resume unrestricted preinjury-level sport within 6 months. Associations were evaluated using multivariable logistic regression."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seventy-six participants (47.5%) experienced delayed return to sport. Compared with timely returners, they had lower quadriceps LSI, poorer hop performance, greater Y-Balance asymmetry, more frequent patellar apprehension, and worse patient-reported function. Independent predictors were each 10-percentage-point decrease in quadriceps LSI (adjusted odds ratio [aOR] 1.82, 95% CI 1.29-2.57), persistent patellar apprehension (aOR 2.71, 95% CI 1.31-5.62), and each 10-point decrease in BPII 2.0 score (aOR 1.51, 95% CI 1.13-2.02). The model showed good discrimination (AUC 0.80, 95% CI 0.73-0.86)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Reduced quadriceps symmetry, persistent apprehension, and poorer instability-specific function were independently associated with delayed return to sport, supporting multidimensional, criterion-based rehabilitation in adolescents."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

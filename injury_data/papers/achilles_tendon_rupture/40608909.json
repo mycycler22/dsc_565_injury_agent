@@ -1,0 +1,24 @@
+{
+  "pmid": "40608909",
+  "title": "Treatment of a 3-Level Achilles Tendon Injury in an Elite Ballet Dancer with Perioperative Ultrasound: A Case Report.",
+  "year": "2025",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Journal Article",
+    "Case Reports"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "We present the case of a 28-year-old female professional ballet dancer with a complex 3-level Achilles tendon injury where preoperative ultrasound was used to guide incision placement. With limited incisions, the patient underwent successful 3-level repair and has returned to dancing."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This was a rare case of a magnetic resonance imaging--confirmed 3-level acute Achilles tendon injury. Point-of-care ultrasound in the preoperative holding area was used for precise marking of each level allowing a minimally invasive surgical approach rather than a single, large incision. Multiple imaging modalities can be used to guide the surgical management of and limit incision size of complex injuries that otherwise may seem straightforward."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

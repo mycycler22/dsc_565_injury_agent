@@ -1,0 +1,39 @@
+{
+  "pmid": "29172635",
+  "title": "Midterm Clinical Results in Rugby Players Treated With the Bristow Procedure.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Although surgical shoulder stabilization by coracoid transfer is effective for collision athletes and has a low reinjury rate, no reports have described the midterm results of this procedure in specific patient cohorts of sufficient number or provided subjective assessments of these patients."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate midterm results after treatment of shoulder instability with the Bristow procedure in a large cohort of rugby players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study included 176 shoulders of 152 competitive rugby players who underwent shoulder stabilization surgery (Bristow procedure with Bankart repair) with a mean follow-up of 4 years (minimum of 2 years) in our institute. The primary outcome measure was the difference in the presurgical and postsurgical functional Rowe score and Western Ontario Shoulder Instability index (WOSI) score and factors affecting these scores. Complication rates and associated factors were also investigated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In total, 176 shoulders of 152 patients underwent the Bristow procedure with Bankart repair, and 93.2% of the players returned to their preinjury competition level at a mean of 6.3 months postoperatively. All Rowe and WOSI scores were significantly improved after surgery. The numbers of shoulders with functional failure as indicated by the Rowe score, WOSI score, and inability to return to the previous level of play were 28 (15.9%), 54 (30.7%), and 12 (6.8%), respectively. Multiple logistic regression analyses demonstrated that reinjury after surgery (odds ratio [OR] = 35.1) and the number of shoulder dislocations (OR = 11.2-11.4) negatively affected the competition level after return to play, while reinjury (OR = 11.1-17.8), the number of shoulder subluxations (OR = 1.1-2.9), injury in the dominant shoulder (OR = 1.2-2.2), and large bone defects (OR = 1.1-11.5) negatively affected functional scores. Reinjury after shoulder stabilization occurred in 6 of 176 shoulders (3.4%). Multiple logistic regression analysis demonstrated that reinjury after surgery occurred more frequently in players at lower versus higher grade levels of competition (OR = 21.0). Although differences were not significant, a trend was noted toward higher postoperative reinjury rates in forward players, those in the upper categories (professional and college), and those with injury in the nondominant shoulder."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The Bristow procedure provides good midterm outcomes for competitive collision athletes, while postsurgical reinjury, the number of preoperative dislocations and subluxations, and large bone defects negatively affect postsurgical shoulder function. This information may be useful for treatment of shoulder dislocations in collision athletes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

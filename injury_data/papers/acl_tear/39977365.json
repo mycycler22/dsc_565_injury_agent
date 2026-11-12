@@ -1,0 +1,40 @@
+{
+  "pmid": "39977365",
+  "title": "Anterior Cruciate Ligament Reconstruction Return to Sport Testing Passing Rates for Healthy People: A Systematic Review.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Return to sport (RTS) is a common goal after anterior cruciate ligament (ACL) reconstruction (ACLR) but carries a relatively high risk of reinjury with up to 20% to 25% of athletes experiencing graft rupture or contralateral ACL tear. While there is increased emphasis on establishing safe RTS criteria for athletes to return to previous activity levels, studies show that even healthy individuals have difficulty passing RTS testing."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To synthesize data concerning whether healthy individuals can pass ACLR RTS rehabilitation tests."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Following the established PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, the authors conducted a systematic literature search in May 2023. Three databases were used in the search (PubMed, EMBASE, and SPORTDiscus) to retrieve all studies that conducted ACLR RTS rehabilitation tests on healthy individuals. Tests included were isometric strength, isokinetic strength, hop, and balance tests. The search was performed in duplicate, and a quality assessment of all studies was included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 1724 studies were retrieved, of which 32 were included, involving 1552 controls with no history of ACL injury. From the studies analyzed, 5.3% to 42.2% of healthy participants failed 6 different hop tests, 15.2% failed the Star Excursion Balance Test, 37% failed the isometric knee flexion test, 50% failed the isometric knee extension test, and 23.7% to 28.9% failed the drop vertical jump test. An asymmetry index ≥10% was found in 6 of the 18 isokinetic tests and 2 of the 14 isometric tests. Hop testing was the most common test in the included studies (56.3%), followed by balance testing (31.3%), isometric strength testing (31.3%), isokinetic strength testing (25%), and drop vertical jump (6.3%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Many healthy individuals fail ACLR RTS tests, with some having an inherent variation from side to side that is >10%. The passing threshold for RTS testing should be a value that is practical yet helps reduce reinjury rates."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

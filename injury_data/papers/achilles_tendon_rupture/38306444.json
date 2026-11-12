@@ -1,0 +1,24 @@
+{
+  "pmid": "38306444",
+  "title": "Delayed Diagnosis of Complete Achilles Tendon Rupture in a Teenage Athlete: A Case Report of Nonoperative Treatment.",
+  "year": "2024",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "A 19-year-old female athlete experienced calf pain during sport. A complete Achilles tendon rupture was diagnosed 4 weeks after injury. Ultrasound revealed discontinuity of the Achilles tendon with 2.0 cm of diastasis, persisting in plantarflexion. Plantarflexion immobilization was initiated, and progressive dorsiflexion was used until 10 weeks from injury. At 1 year from injury, ankle magnetic resonance imaging revealed a contiguous tendon, the patient was pain-free, and had returned to high-level athletics with equivalent sport performance relative to her preoperative status."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Certain Achilles tendon ruptures in young people may be treated nonoperatively with good clinical outcomes, even if diagnosis and immobilization are delayed and tendon diastasis persists in maximum plantarflexion."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

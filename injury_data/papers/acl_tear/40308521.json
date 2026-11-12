@@ -1,0 +1,35 @@
+{
+  "pmid": "40308521",
+  "title": "Bridge-Enhanced Anterior Cruciate Ligament Restoration: Surgical Technique.",
+  "year": "2024",
+  "journal": "Video journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) repair has historically had poor outcomes and fell out of favor in the 1980s with the majority of surgeons opting to do an ACL reconstruction instead due to the high failure rate. The Bridge-Enhanced ACL Restoration or BEAR technique utilizes a de-cellularized, bovine-derived, type I collagen implant to aid in the ACL repair. The device is implanted to augment the healing of the ACL."
+    },
+    {
+      "label": "INDICATIONS",
+      "text": "The BEAR technique is indicated to augment ACL repair in cases of complete rupture where there is a residual tibial stump of sufficient length and good tissue quality."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In our experience to date, patients undergoing an ACL repair with BEAR recover range of motion quickly and have less quadriceps atrophy and less postoperative swelling than those undergoing ACL reconstruction requiring autograft harvest. We will continue to follow up our patient cohort to assess for re-rupture rate as they return to sport."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The BEAR technique is a promising development that enables ACL repair as an alternative option to reconstruction. This article describes our approach including tips and tricks to successfully perform this procedure."
+    },
+    {
+      "label": "PATIENT CONSENT DISCLOSURE STATEMENT",
+      "text": "The author(s) attests that consent has been obtained from any patient(s) appearing in this publication. If the individual may be identifiable, the author(s) has included a statement of release or other written form."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

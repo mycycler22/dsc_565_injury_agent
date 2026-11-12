@@ -1,0 +1,20 @@
+{
+  "pmid": "36929699",
+  "title": "Platelet-rich plasma injections as a treatment for Achilles tendinopathy and plantar fasciitis in athletes.",
+  "year": "2023",
+  "journal": "PM & R : the journal of injury, function, and rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Platelet-rich plasma (PRP) injections represent a growing interest in the use of biologic therapies for treatment of musculoskeletal injuries. One possible application of PRP is in the management of overuse injuries commonly experienced by athletes. The aim of this review is to evaluate and summarize existing evidence regarding the efficacy of PRP in the treatment of Achilles tendinopathy and plantar fasciitis in athletes. Although many lower quality single-armed studies have demonstrated clinical improvement in athletes treated for Achilles tendinopathy with PRP, higher quality randomized controlled trials (RCTs) have shown no clear benefit in athletes. Existing data suggest PRP significantly improves clinical outcomes for plantar fasciitis in the general population, but very few studies and no RCTs are available that specifically analyze outcomes in athletic populations. More research is needed to evaluate how platelet concentration, leukocyte and erythrocyte presence, and sport type may interact to affect clinical outcomes in athletes."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,58 @@
+{
+  "pmid": "35612823",
+  "title": "Surgical Management of Jones Fractures in Athletes: Orthobiologic Augmentation: A Systematic Review and Meta-analysis of 718 Fractures.",
+  "year": "2023",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The use of orthobiologics is expanding. However, the use of orthobiologic augmentation in primary fracture fixation surgery remains limited. Primary fracture fixation of the fifth metatarsal (Jones) in athletes is one of the rare situations where primary orthobiologic augmentation has been advocated."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the effect of orthobiologic augmentation on the outcome of surgically managed Jones fractures in athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, 2 independent team members searched several databases including PubMed, MEDLINE, Embase, Google Scholar, Web of Science, Cochrane Library, and ClinicalTrials.gov through March 2021 to identify studies reporting on surgically managed Jones fractures of the fifth metatarsal exclusively in athletes. The primary outcomes were the return to play (RTP) rate and time to RTP, whereas the secondary outcomes were time to union, union rate, and refractures. Data were presented by type of treatment (biologically augmented fixation or fixation alone)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the biologically augmented fixation group, successful RTP was reported in 195 (98.98%) of 197 fractures (odds ratio [OR], 97.5%; 95% CI, 95.8%-100%; <i>I</i><sup>2</sup> = 0), with a mean time to RTP of 10.3 weeks (95% CI, 9.5-11.1 weeks; <i>I</i><sup>2</sup> = 99%). In the group that received fixation without biological augmentation, successful RTP was reported in 516 (99.04%) of 521 fractures (OR, 98.7%; 95% CI, 97.8%-99.7%; <i>I</i><sup>2</sup> = 0], with a mean time to RTP of 9.7 weeks (95% CI, 7.84-11.53 weeks; <i>I</i><sup>2</sup> = 98.64%]. In the biologically augmented fixation group, fracture union was achieved in 194 (98.48%) of 197 fractures (OR, 97.6%; 95% CI, 95.5%-99.7%; <i>I</i><sup>2</sup> = 0%), with a mean time to fracture union of 9.28 weeks (95% CI, 7.23-11.34 weeks; <i>I</i><sup>2</sup> = 98.18%). In the group that received fixation without biological augmentation, fracture union was achieved in 407 (93.78%) of 434 fractures (OR, 97.4%; 95% CI, 96%-98.9%; <i>I</i><sup>2</sup> = 0%), with a mean time to fracture union of 8.57 weeks (95% CI, 6.82-10.32 weeks; <i>I</i><sup>2</sup> = 98.81%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Orthobiologically augmented surgical fixation of Jones fractures in athletes is becoming increasingly common, despite the lack of comparative studies to support this practice. Biologically augmented fixation of Jones fractures results in higher fracture union rates than fixation alone but similar rates of RTP and time to RTP. Although the current evidence recommends primary surgical fixation for the management of Jones fractures in athletes, further high quality comparative studies are required to establish the indication for orthobiologic augmentation."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "In the biologically augmented fixation group, successful RTP was reported in 195 (98.98%) of 197 fractures (odds ratio [OR], 97.5%; 95% CI, 95.8%-100%; <i>I</i><sup>2</sup> = 0), with a mean time to RTP of 10.3 weeks (95% CI, 9.5-11.1 weeks; <i>I</i><sup>2</sup> = 99%)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "In the group that received fixation without biological augmentation, successful RTP was reported in 516 (99.04%) of 521 fractures (OR, 98.7%; 95% CI, 97.8%-99.7%; <i>I</i><sup>2</sup> = 0], with a mean time to RTP of 9.7 weeks (95% CI, 7.84-11.53 weeks; <i>I</i><sup>2</sup> = 98.64%]."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "In the biologically augmented fixation group, fracture union was achieved in 194 (98.48%) of 197 fractures (OR, 97.6%; 95% CI, 95.5%-99.7%; <i>I</i><sup>2</sup> = 0%), with a mean time to fracture union of 9.28 weeks (95% CI, 7.23-11.34 weeks; <i>I</i><sup>2</sup> = 98.18%)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "In the group that received fixation without biological augmentation, fracture union was achieved in 407 (93.78%) of 434 fractures (OR, 97.4%; 95% CI, 96%-98.9%; <i>I</i><sup>2</sup> = 0%), with a mean time to fracture union of 8.57 weeks (95% CI, 6.82-10.32 weeks; <i>I</i><sup>2</sup> = 98.81%)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "1746391",
+  "title": "Weight-training injuries in children and adolescents.",
+  "year": "1991",
+  "journal": "American family physician",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Thousands of children and adolescents participate in weight lifting for recreation or as a means of training for sports. Weight lifting can cause serious musculoskeletal injuries, such as ruptured intervertebral discs, spondylolysis and spondylolisthesis, fractures and meniscal injuries of the knee. Deaths related to weight lifting have been reported. Although the incidence of weight-lifting injuries is not well documented in children and adolescents, several reports indicate that few injuries occur in carefully supervised programs. The most common cause of injury appears to be loss of form when heavy weights are lifted. Proper technique, good supervision and training programs appropriate to the athlete's level of physical and emotional maturity are important."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

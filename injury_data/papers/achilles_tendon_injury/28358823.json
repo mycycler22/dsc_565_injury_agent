@@ -1,0 +1,20 @@
+{
+  "pmid": "28358823",
+  "title": "Genome-wide association screens for Achilles tendon and ACL tears and tendinopathy.",
+  "year": "2017",
+  "journal": "PloS one",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achilles tendinopathy or rupture and anterior cruciate ligament (ACL) rupture are substantial injuries affecting athletes, associated with delayed recovery or inability to return to competition. To identify genetic markers that might be used to predict risk for these injuries, we performed genome-wide association screens for these injuries using data from the Genetic Epidemiology Research on Adult Health and Aging (GERA) cohort consisting of 102,979 individuals. We did not find any single nucleotide polymorphisms (SNPs) associated with either of these injuries with a p-value that was genome-wide significant (p<5x10-8). We found, however, four and three polymorphisms with p-values that were borderline significant (p<10-6) for Achilles tendon injury and ACL rupture, respectively. We then tested SNPs previously reported to be associated with either Achilles tendon injury or ACL rupture. None showed an association in our cohort with a false discovery rate of less than 5%. We obtained, however, moderate to weak evidence for replication in one case; specifically, rs4919510 in MIR608 had a p-value of 5.1x10-3 for association with Achilles tendon injury, corresponding to a 7% chance of false replication. Finally, we tested 2855 SNPs in 90 candidate genes for musculoskeletal injury, but did not find any that showed a significant association below a false discovery rate of 5%. We provide data containing summary statistics for the entire genome, which will be useful for future genetic studies on these injuries."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

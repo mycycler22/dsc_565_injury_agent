@@ -1,0 +1,3 @@
+Title: Effects of anterior cruciate ligament reconstruction on patellofemoral joint stress and lower extremity biomechanics at 12 weeks post-surgery and at time of return to sport in adolescent females. | Type: Journal Article | PMID: 32890941 | Year: 2020 | Injury query: patellofemoral pain
+[FINDINGS] At 12-weeks the surgical limb was significantly less than non-surgical limb (p < 0.001), additionally the surgical limb was significantly greater at time of return to sport than at 12 weeks (p < 0.001).
+[FINDINGS] Return to sport was significantly greater than 12 weeks and the surgical limb was significantly less than non-surgical limb (Surgical = 4.93 (SE 0325) MPa, Nonsurgical = 5.29 (SE 0.30) MPa).

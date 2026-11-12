@@ -1,0 +1,36 @@
+{
+  "pmid": "33307799",
+  "title": "Ruptures of the Plantar Fascia: A Systematic Review of the Literature.",
+  "year": "2022",
+  "journal": "Foot & ankle specialist",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Rupture of the plantar fascia is a rare condition. It can also occur spontaneously and with no history of disease of the plantar fascia, above all in athletes. This review aims to systematically analyze all cases described in the literature regarding the rupture of the plantar fascia, evaluating incidence, risk factors, and treatments, considering which procedures show the best outcomes and the highest success rate."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "A systematic review of PubMed, Google Scholar, and Cochrane review computerized databases was performed, focusing on articles about cases of rupture of the plantar fascia; 18 studies fulfilled all the criteria and were analyzed. There were no randomized controlled trials."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 155 patients (157 foot) were included in this systematic review. Considering all the studies included, 12 patients had a spontaneous rupture, 138 patients had a diagnosis of plantar fasciitis, and 130 patients were treated with local injections of corticosteroid before the rupture. Only 2 cases of bilateral rupture were reported. In all, 15 studies reported conservative treatment, with a total of 154 patients (156 feet) included. Operative treatment was reported in 3 studies, with 3 patients (3 feet) treated."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Ruptures of the plantar fascia are very rare in asymptomatic patients and more common in patients treated with injection of steroids in the plantar fascia. Conservative treatment, although not standardized in the literature, led to good outcomes in most cases. Chronic ruptures of the fascia should be considered for operative treatment."
+    },
+    {
+      "label": "LEVELS OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "40858887",
+  "title": "Metformin lotion as a novel approach to prevent tendinopathy induced by mechanical overuse.",
+  "year": "2025",
+  "journal": "Scientific reports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy is a common overuse injury with limited preventive options. This study evaluated a novel topical metformin lotion (ML) for its ability to prevent Achilles tendinopathy induced by intensive treadmill running (ITR) in mice. ML at concentrations of 3% and 6% was topically applied daily to the skin overlying the Achilles tendons for four weeks prior to the initiation of ITR. After the four-week topical ML pretreatment period prior to ITR induction, blood samples were collected for ELISA-based analysis of inflammatory markers (HMGB1, IL-1β, and PGE<sub>2</sub>), and tendons were examined using histological and immunofluorescent methods. ML inhibited the release of HMGB1 from cell nuclei into the tendon matrix, reduced serum levels of HMGB1, IL-1β, and PGE<sub>2</sub>, and exerted anti-degenerative effects by decreasing chondroid metaplasia, lowering the number of rounded cells, and enhancing collagen fiber organization. These beneficial effects of ML appeared to be mediated through increased AMPK activity, reduced TGF-β1 expression, decreased myofibroblast presence, lower collagen III levels, and elevated collagen I production. In conclusion, ML effectively prevents tendinopathy development, primarily by inhibiting HMGB1 and activating AMPK. These findings suggest that ML may serve as a convenient, effective, and non-invasive strategy to prevent tendinopathy in at-risk populations-such as athletes and military personnel-while minimizing systemic side effects."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

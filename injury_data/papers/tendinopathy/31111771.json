@@ -1,0 +1,19 @@
+{
+  "pmid": "31111771",
+  "title": "The Behavior of Tendon Progenitor Cells from Tendinopathic Tendons: Implications for Treatment.",
+  "year": "2020",
+  "journal": "Tissue engineering. Part A",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy remains a significant clinical challenge. Although there is some evidence that leukocyte-rich platelet-rich plasma can improve the symptoms of tendinopathy, more efficacious treatments will be required in the future to improve probability of successfully resolving this condition in athletes. Because optimal treatments are not currently available, there is a need to better understand the pathology of tendinopathy from the perspective of tendon progenitor cells (TPCs). TPCs isolated from normal and tendinopathy donors were characterized by their stem cell properties and proliferation capacities, along with their ability to become tenocytes under mechanical loading. The results showed a significant 2.6-fold increase in the viable cell population in tendinopathy versus normal donors. Although the percentage of self-renewing cells was similar, the total number of TPCs in tendinopathy was significantly higher (1.6-fold) than normal TPCs based on the colony formation assays. In contrast, TPCs from tendinopathy tissue showed significantly lower cellular proliferation rate by cumulative population doublings. Next, the expanded TPCs from both tissues successfully demonstrated the trilineage differentiation capabilities with specific gene markers, staining, and biochemical assays. To induce tenogenic differentiation, stretchable silicone wells were designed and fabricated, plus the creation of an adaptor platform used on a syringe pump for mechanical stretch. This economic design provided the adequate cyclic loading to drive tenogenic differentiation. With these devices, the stretch duration was optimized and showed the significant increase in scleraxis (<i>SCX</i>) and tenomodulin (<i>TNMD</i>) expression at 2.60 (fold change) and 3.86 (fold change in logarithm), respectively, by reverse transcription-quantitative polymerase chain reaction in normal TPCs after stretch. This assay also demonstrated the widespread cell reorientation following stretch in normal TPCs. In contrast, the mechanical loading did not increase the <i>SCX</i> gene expression; <i>TNMD</i> expression remained undetectable, and cell realignment was significantly less in tendinopathy TPCs. In addition, western blot analysis confirmed the elevated <i>TNMD</i> protein expression in normal TPCs following stretch and the lack of expression in tendinopathy TPCs. In summary, tendinopathy TPCs were unable to differentiate into tenocytes following mechanical stretch. Future studies may aim to reprogram tendinopathy TPCs to allow tenogenic induction. Impact Statement This article presents a model to distinguish between normal and tendinopathy progenitor cell behavior, which reveals insight into the pathophysiology of tendinopathy. With the design of a platform adaptor, mechanical stretch was applied to tendon progenitor cells (TPCs) that promoted tenogenic differentiation. This design provided programmable features for more flexible application with low cost. These devices successfully stimulated tenogenic differentiation of TPCs from normal, but not tendinopathic tendons under cyclic stretch. The scientific method provided in this article will allow testing of biologics, exosomes, and other treatment strategies to derive new, more efficient treatment of tendinopathy in the future."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

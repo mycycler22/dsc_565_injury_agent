@@ -1,0 +1,39 @@
+{
+  "pmid": "39371189",
+  "title": "Physical and Muscular Performance in a Professional Soccer Player with a Posterior Cruciate Ligament Injury Following an Isokinetic Exercise Program: A Case Report.",
+  "year": "2024",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND PURPOSE",
+      "text": "The comprehensive treatment for an athlete who sustains a complete posterior cruciate ligament (PCL) injury remains unclear. The purpose of this case report is to describe the effects of an isokinetic exercise program on muscle performance and physical function in a professional soccer player with a PCL injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case Report."
+    },
+    {
+      "label": "CASE DESCRIPTION",
+      "text": "A 23-year-old male professional soccer player injured his right knee (non-dominant) during a soccer match, with magnetic resonance imaging confirming a complete PCL rupture. The athlete completed 23 sessions of isokinetic treatment over nine weeks to improve physical function and muscle performance. The concentric mode was used to evaluate quadriceps and hamstrings performance isokinetically at angular velocities of 60 °/s, 120 °/s, and 300 °/s. The LEFS questionnaire was used to evaluate physical function. The assessment occurred before starting the treatment and at the end of nine weeks. An athlete with similar anthropometric characteristics was invited to participate and serve as a control, in order to better understand the athlete's assessment results."
+    },
+    {
+      "label": "OUTCOMES",
+      "text": "After nine weeks, peak torque normalized to body mass (PT/BM) improved to 4.0 N.m/kg for knee extensors (control: 3.6 Nm/kg) and 2.3 N.m/kg for knee flexors (control: 1.9 Nm/kg) at 60 °/s. This increase in PT was reflected in the hamstrings-to-quadriceps (H:Q) ratio post-treatment (57 %). At the end of treatment, the athlete returned to sports activities with 98.7 % restored physical function as measured by the LEFS (Score: 79 points)."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "The results demonstrated that the isokinetic treatment improved knee functional capacity, with increased PT/BM for knee extensors and flexors and enhanced torque-holding capacity, indicating improved muscle performance."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "5."
+    }
+  ],
+  "injury_query": "PCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "11558198",
+  "title": "Shoulder instability. Diagnosis and management.",
+  "year": "2001",
+  "journal": "Australian family physician",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The shoulder is the most commonly dislocated joint in the body. The most frequent complication of shoulder dislocation is recurrence, occurring most often in young athletes."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To summarise the functional anatomy of the shoulder joint, the structures damaged following shoulder dislocation and the methods to evaluate and treat shoulder instability."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Clinical history is effective for diagnosing obvious shoulder instability. The O'Brien's sign (for superior labral lesions), the sulcus sign (for capsular laxity) and the apprehension sign (for anterior instability) are helpful clinical tests for more subtle instabilities. Labral disruptions and capsular laxity can often be restored by minimally invasive (arthroscopic) methods. Rehabilitation aims to enhance the dynamic muscular and proprioceptive restraints to shoulder instability."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

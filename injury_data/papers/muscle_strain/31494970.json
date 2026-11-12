@@ -1,0 +1,48 @@
+{
+  "pmid": "31494970",
+  "title": "Calf muscle strain injuries in elite Australian Football players: A descriptive epidemiological evaluation.",
+  "year": "2020",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Calf muscle strain injuries (CMSI) show consistent rates of prevalence and re-injury in elite Australian Football players. An epidemiological evaluation is warranted to better understand the clinical presentation and recovery of CMSI."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "First, to describe the epidemiology of CMSI in elite Australian Football players. Second, to determine if recovery following injury is different according to: (a) injury type (index vs re-injury); (b) muscle injured (soleus vs gastrocnemius); and (c) mechanism of injury (running-related activity vs non running-related activity)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiological."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data retrieved from the Soft Tissue injury Registry of the Australian Football League were analyzed. Sixteen clubs submitted data on CMSI from 2014 to 2017. Data included: player characteristics, training and match history at the time of injury, MRI, and the time to reach recovery milestones."
+    },
+    {
+      "label": "RESULTS",
+      "text": "One hundred and eighty-four CMSI were included (149 index injuries; 35 re-injuries). Soleus injuries were most prevalent (84.6%). Soleus injuries took 25.4 ± 16.2 days to return to play, whereas gastrocnemius injuries took 19.1 ± 14.1 days (P = .097). CMSI sustained during running-related activities took approximately 12 days longer to recover than injuries sustained during non running-related activities (P = .001). Compared to index injuries, re-injuries involved older players (P = .03) and significantly more time was taken to run at >90% of maximum speed, return to full training, and return to play (P ≤ .001). Almost all of the observed re-injuries involved soleus (91.4%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Soleus injuries are more prevalent than gastrocnemius injuries in elite Australian Football players. Prognosis appears to be influenced by clinical factors, with CMSI sustained during running-related activities and re-injuries needing more time to recover."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Soleus injuries took 25.4 ± 16.2 days to return to play, whereas gastrocnemius injuries took 19.1 ± 14.1 days (P = .097)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "CMSI sustained during running-related activities took approximately 12 days longer to recover than injuries sustained during non running-related activities (P = .001)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

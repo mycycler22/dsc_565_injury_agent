@@ -1,0 +1,31 @@
+{
+  "pmid": "32067711",
+  "title": "Valgus stress ultrasound for medial ulnar collateral ligament injuries in athletes: is ultrasound alone enough for diagnosis?",
+  "year": "2020",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "We hypothesized that valgus stress ultrasound would be useful for both identifying medial ulnar collateral ligament (MUCL) tears and assessing the severity of the tears. Hence, we performed valgus stress ultrasound of the elbow in athletes with MUCL injuries, confirmed by magnetic resonance imaging (MRI), to determine whether ultrasound can be used as a diagnostic tool."
+    },
+    {
+      "label": "METHODS",
+      "text": "Stress ultrasound and MRI data from 146 athletes with medial elbow pain were compared prospectively. MRI findings for MUCL injuries were classified into 3 levels as follows: low-grade partial tear (≤50%), high-grade partial tear (>50%), and complete tear. The degree of joint laxity on stress ultrasound was evaluated by measuring joint gapping after applying a 2.5-kg load to the wrist. Joint gapping was measured at 30° and 90° of elbow flexion for the dominant arm and nondominant arm, and the differences between the dominant and nondominant arms were determined."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A higher degree of MUCL injury on MRI was associated with greater joint gapping in the medial elbow on stress ultrasound. At 30° of elbow flexion, the cutoff value for complete MUCL rupture was 0.5 mm (P < .001), with a sensitivity and specificity of 88.1% and 61.5%, respectively. At 90° of elbow flexion, the cutoff value for complete MUCL rupture was 1.0 mm (P < .001), with a sensitivity and specificity of 81.0% and 66.4%, respectively."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Stress ultrasound can be used to diagnose complete MUCL tears in athletes when joint gapping is greater than 0.5 mm at 30° of elbow flexion and greater than 1 mm at 90° of elbow flexion."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

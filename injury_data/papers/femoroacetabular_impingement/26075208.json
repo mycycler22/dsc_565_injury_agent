@@ -1,0 +1,44 @@
+{
+  "pmid": "26075208",
+  "title": "Rehabilitation Following Hip Arthroscopy - A Systematic Review.",
+  "year": "2015",
+  "journal": "Frontiers in surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Rehabilitation following hip arthroscopy is an integral component of the clinical outcome of the procedure. Given the increase in quantity, complexity, and diversity of procedures performed, a need exists to define the role of rehabilitation following hip arthroscopy."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "(1) To determine the current rehabilitation protocols utilized following hip arthroscopy in the current literature, (2) to determine if clinical outcomes are significantly different based on different post-operative rehabilitation protocols, and (3) to propose the best-available evidence-based rehabilitation program following hip arthroscopy."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Per PRISMA guidelines and checklist, Medline, SciVerse Scopus, SportDiscus, and Cochrane Central Register of Controlled Trials were searched."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Level I-IV evidence clinical studies with minimum 2-year follow-up reporting outcomes of hip arthroscopy with post-operative rehabilitation protocols described were included."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "All study, subject, and surgery parameters were collected. All elements of rehabilitation were extracted and analyzed. Descriptive statistics were calculated. Study methodological quality was analyzed using the modified Coleman methodology score."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighteen studies were included (2,092 subjects; 52% male, mean age 35.1 ± 10.6 years, mean follow-up 3.2 ± 1.0 years). Labral tear and femoroacetabular impingement were the most common diagnoses treated and labral debridement and femoral/acetabular osteochondroplasty the most common surgical techniques performed. Rehabilitation protocol parameters (weight-bearing, motion, strengthening, and return to sport) were poorly reported. Differences in clinical outcomes were unable to be assessed given heterogeneity in study reporting. Time-, phase-, goal-, and precaution-based guidelines were extracted and reported."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current literature of hip arthroscopy rehabilitation lacks high-quality evidence to support a specific protocol. Heterogeneity in study, subject, and surgical demographics precluded assimilation of protocols and/or outcomes to generate evidence-based guidelines. Strengths and limitations in the literature were identified. Future studies should recognize and report the essentials of rehabilitation following hip arthroscopy."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,41 @@
+{
+  "pmid": "41933260",
+  "title": "Incidence, Temporal Trends, and Surgical Shift of Achilles Tendon Rupture: A Systematic Review and Meta-analysis.",
+  "year": "2026",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon rupture is a severe injury affecting active and non-active populations, with considerable consequences on mobility, return to sport, and long-term function. Population-based incidence estimates provide important information for public health policy and resource allocation."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This systematic review and meta-analysis aimed to estimate the global incidence of Achilles tendon rupture, evaluate temporal trends over six decades, and analyze subgroup differences by sex, age, region, and sport participation. Additionally, we examined trends in surgical treatment over time."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review and meta-analysis was conducted in accordance with Preferred Reporting Items for Systematic review and Meta-Analyses (PRISMA) guidelines. Six databases (PubMed, CINAHL, Embase, Web of Science, Index Medicus, and Google Scholar) were searched through April 2025 to identify population-based studies reporting Achilles tendon rupture incidence. Only studies based on registries or representative samples were included. Random-effects models were used to pool incidence rates, and meta-regressions assessed time trends and subgroup differences. Incidence rates were calculated per 100,000 person-years and stratified by sex, age, country, geographic region, and sport participation. Surgical treatment trends were analyzed using quadratic meta-regression. Risk of bias was assessed using the Joanna Briggs Institute tool."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-eight studies reporting Achilles tendon ruptures from 1950 to 2022 were included, representing over 630 million individuals and 568,000 Achilles tendon rupture cases. The pooled global incidence was 15.7 per 100,000 person-years, spanning from 6.1 in 1979 to 31.1 per 100,000 person-years in 2021, with an average annual increase of 2.7% (95% confidence interval 2.0-3.3%). Male individuals exhibited a three-fold higher incidence than female individuals (pooled ratio 3.18; 95% confidence interval 2.50-4.04). Incidence peaked in male individuals aged 30-49 years (42.6 per 100,000 person-years) and in female individuals aged 40-49 years (17.2 per 100,000 person-years). Approximately 68% of Achilles tendon rupture were sport related. A significant shift in treatment patterns was observed: surgical repair rates peaked in 2003 and declined thereafter, indicating an increase in conservative treatment over the last 2 decades."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The incidence of Achilles tendon rupture has risen steadily over the last six decades, with the greatest burden observed among middle-aged physically active men. A majority of ruptures are sport related, highlighting the need for preventive interventions. Surgical treatment has declined since 2003, reflecting shifts toward conservative management. These findings underscore the importance of continued surveillance, targeted prevention, and individualized treatment strategies to reduce the growing burden of Achilles tendon rupture worldwide."
+    },
+    {
+      "label": "CLINICAL TRIAL REGISTRATION",
+      "text": "PROSPERO registration ID: CRD420251020247."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

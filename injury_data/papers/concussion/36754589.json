@@ -1,0 +1,31 @@
+{
+  "pmid": "36754589",
+  "title": "Higher rates of concussion following COVID-19 infection in high school athletes.",
+  "year": "2023",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare concussion rates (CRs) over one academic year in high school athletes with and without a COVID-19 infection prior to concussion."
+    },
+    {
+      "label": "METHODS",
+      "text": "Illness and concussion were prospectively reported for male and female high school athletes across six states over one academic year in the Players Health Rehab surveillance system. Concussion was truncated to 60 days following recovery and return to sport from COVID-19. CRs were estimated per 1000 athletes per academic year and stratified by those who tested positive for COVID-19 infection (with COVID-19) and those who did not (no COVID-19). Poisson regression analyses estimated rate ratio (RR) of concussion controlling for state, gender and an offset of the log athlete participation (with COVID-19 and no COVID-19)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 72 522 athletes, 430 COVID-19 infections and 1273 concussions were reported. The CR was greater in athletes who reported COVID-19 (CR=74.4/1000 athletes/year, 95% CI 49.6 to 99.3) compared with those who did not (CR=17.2, 95% CI 16.3 to 18.2). Athletes with recent COVID-19 had a threefold higher rate of concussion (RR=3.1, 95% CI 2.0 to 4.7)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes returning from COVID-19 had higher CRs than those who did not experience COVID-19. This may be related to ongoing COVID-19 sequelae or deconditioning related to reduced training and competition load during the illness and when returning to sport. Further research is needed to understand the association of recent COVID-19 infection and concussion in order to inform preventive strategies."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

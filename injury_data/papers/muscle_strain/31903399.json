@@ -1,0 +1,40 @@
+{
+  "pmid": "31903399",
+  "title": "Is It All About the Fascia? A Systematic Review and Meta-analysis of the Prevalence of Extramuscular Connective Tissue Lesions in Muscle Strain Injury.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The fascia has been demonstrated to represent a potential force transmitter intimately connected to the underlying skeletal muscle. Sports-related soft tissue strains may therefore result in damage to both structures."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To elucidate the prevalence of connective tissue lesions in muscle strain injury and their potential impact on return-to-play (RTP) duration."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Imaging studies describing frequency, location, and extent of soft tissue lesions in lower limb muscle strain injuries were identified by 2 independent investigators. Weighted proportions (random effects) were pooled for the occurrence of (1) myofascial or fascial lesions, (2) myotendinous lesions, and (3) purely muscular lesions. Study quality was evaluated by means of an adapted Downs and Black checklist, which evaluates reporting, risk of bias, and external validity."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 16 studies (fair to good methodological quality) were identified. Prevalence of strain injury on imaging studies was 32.1% (95% CI, 24.2%-40.4%) for myofascial lesions, 68.4% (95% CI, 59.6%-76.6%) for myotendinous lesions, and 12.7% (95% CI, 3.0%-27.7%) for isolated muscular lesions. Evidence regarding associations between fascial damage and RTP duration was mixed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Lesions of the collagenous connective tissue, namely the fascia and the tendinous junction, are highly prevalent in athletic muscle strain injuries. However, at present, their impact on RTP duration is unclear and requires further investigation."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

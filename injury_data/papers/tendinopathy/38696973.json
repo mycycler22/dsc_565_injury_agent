@@ -1,0 +1,35 @@
+{
+  "pmid": "38696973",
+  "title": "Sensitivity to change and responsiveness of provocative load tests among athletes with patellar tendinopathy.",
+  "year": "2024",
+  "journal": "Brazilian journal of physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Pain provocation tests are recommended for assessing pain severity and as an outcome measure for individuals with patellar tendinopathy."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate floor and ceiling effects, sensitivity to change, and responsiveness cut-offs of two provocative load tests among athletes with patellar tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes (N = 41) performed six repetitions for the single leg decline squat (SLDS) and resisted knee extension (KE) at baseline and 12 weeks. Participants rated their pain during each test on a visual analog scale (VAS). Sensitivity to change was assessed by calculating effect size (ES) and the standardized response mean (SRM). The responsiveness cut-offs were assessed using a combination of anchor and distribution- based methods to determine the minimal clinically important difference (MCID) for each test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A floor or ceiling effect was observed in only a small number of participants for both tests except for KE, for which approximately one third of participants had a floor effect at week 12. There was higher sensitivity to change for SLDS (ES: 1.93/SRM: 1.43) compared with KE (ES:0.96/SRM: 1.09). The MCID corresponded to a decrease of 1.6 points for SLDS and 1.0 for KE, while the distribution-based method estimated 1.2 points for SLDS and 1.1 for KE."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study found moderate to high sensitivity to change and established MCID values for the SLDS and KE test in athletes with patellar tendinopathy before and after rehabilitation. Both tests may be useful as pain on loading outcomes as athletes progress with their rehabilitation, but the KE test results in higher floor effects and has lower sensitivity to change."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

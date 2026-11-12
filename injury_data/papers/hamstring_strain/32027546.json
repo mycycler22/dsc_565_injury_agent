@@ -1,0 +1,20 @@
+{
+  "pmid": "32027546",
+  "title": "Bilateral differences in hamstring coordination in previously injured elite athletes.",
+  "year": "2020",
+  "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strain injuries (HSIs) involve tissue disruption and pain, which can trigger long-term adaptations of muscle coordination. However, little is known about the effect of previous HSIs on muscle coordination and in particular, after the completion of rehabilitation and in the absence of symptoms. This study aimed to determine if elite athletes with a prior unilateral HSI have bilateral differences in coordination between the hamstring muscle heads after returning to sport. Seventeen athletes with a unilateral history of biceps femoris (BF) injury participated in the experiment. Surface electromyography was recorded from three hamstring muscles [BF, semimembranosus (SM), and semitendinosus] during submaximal isometric torque-matched tasks at 20% and 50% of maximal voluntary contraction. The product of normalized electromyographic amplitude with functional physiological cross-sectional area (PCSA) and moment arm was considered as an index of individual muscle torque. The contribution of the injured muscle to total knee flexion torque was lower in the injured than the uninjured limb (-5.6 ± 10.2%, <i>P</i> = 0.038). This reduced contribution of BF was compensated by a higher contribution of the SM muscle in the injured limb (+5.6 ± 7.5%, <i>P</i> = 0.007). These changes resulted from a lower contribution of PCSA from the injured muscle (BF) and a larger contribution of activation from an uninjured synergist muscle (SM). In conclusion, bilateral differences in coordination were observed in previously injured athletes despite the completion of rehabilitation. Whether these bilateral differences in hamstring coordination could constitute an intrinsic risk factor that contributes to the high rate of hamstring injury recurrence remains to be investigated.<b>NEW & NOTEWORTHY</b> We used an experimental approach, combining the assessment of muscle activation, physiological cross-sectional area, and moment arm to estimate force-sharing strategies among hamstring muscles during isometric knee flexions. We tested athletes with a history of hamstring injury. We observed a lower contribution of the injured biceps femoris to the total knee flexor torque in the injured limb than in the contralateral limb. This decreased contribution was mainly due to selective atrophy of the injured biceps femoris muscle and was compensated by an increased activation of the semimembranosus muscle."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

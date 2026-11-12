@@ -1,0 +1,32 @@
+{
+  "pmid": "34081057",
+  "title": "Association of COA1 with Patellar Tendonitis: A Genome-wide Association Analysis.",
+  "year": "2021",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "It is unknown why some athletes develop patellar tendinopathy and others do not, even when accounting for similar workloads between individuals. Genetic differences between these two populations may be a contributing factor. The purpose of this work was to screen the entire genome for genetic markers associated with patellar tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "Genome-wide association (GWA) analyses were performed utilizing data from the Kaiser Permanente Research Board (KPRB) and the UK Biobank. Patellar tendinopathy cases were identified based on electronic health records from KPRB and UK Biobank. GWA analyses from both cohorts were tested for patellar tendinopathy using a logistic regression model adjusting for sex, height, weight, age, and race/ethnicity using allele counts for single nucleotide polymorphisms. The data from the two GWA studies (KPRB and UK Biobank) were combined in a meta-analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were a total of 1670 cases of patellar tendinopathy and 293,866 controls within the two cohorts. Two single nucleotide polymorphisms located in the intron of the cytochrome c oxidase assembly factor 1 (COA1) gene showed a genome-wide significant association in the meta-analysis."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Genetic markers in COA1 seem to be associated with patellar tendinopathy and are potential risk factors for patellar tendinopathy that deserve further validation regarding molecular mechanisms."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,51 @@
+{
+  "pmid": "41888070",
+  "title": "Position-Specific Injury Patterns in Academy-Level Male Youth Soccer Players: A 3-Season, Prospective Cohort Study.",
+  "year": "2026",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To report position-specific injury patterns in academy-level youth male soccer players."
+    },
+    {
+      "label": "DESIGN",
+      "text": "An observational study of injury patterns over three soccer seasons from 2019 to 2022."
+    },
+    {
+      "label": "SETTING",
+      "text": "Data collected from a single Major League Soccer Next Academy in the Midwest in conjunction with a tertiary pediatric referral center."
+    },
+    {
+      "label": "PATIENTS",
+      "text": "All athletes participating in the developmental academy during any of the three seasons studied."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "None."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Injury rate, type, location, and severity stratified by position."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The injury incidence rates for forwards, midfielders, defenders, and goalkeepers were 1.42, 1.23, 1.30, and 1.08 injuries per person-year, respectively. Most injuries were to the lower extremity. Six injuries of clinical importance were identified by the study team, of these, the most common injury among forwards and midfielders was ankle sprain at 32% and 35%, respectively, while among defenders and goalkeepers, it was hamstring strain (28%) and fracture (41%), respectively. Defenders were 11 times more likely to sustain hamstring strain than midfielders (P = 0.02) and goalkeepers were 26 times more likely to sustain a fracture (P < 0.001). In total, 50% of injuries in goalkeepers were classified as severe, requiring at least 28 days out of play."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Among academy-level male youth soccer players in the United States, forwards had the highest injury incidence, although goalkeepers were more likely to have severe injuries."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "The position-specific injury epidemiology furthers our understanding of injury patterns in soccer that can be used to augment injury prevention strategies for academy-level soccer players."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

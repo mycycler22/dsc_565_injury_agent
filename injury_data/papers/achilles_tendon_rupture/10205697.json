@@ -1,0 +1,31 @@
+{
+  "pmid": "10205697",
+  "title": "Sonographic incidence of tendon microtears in athletes with chronic Achilles tendinosis.",
+  "year": "1999",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To assess the number and distribution of tendon microtears in asymptomatic controls and athletes with chronic Achilles tendinitis or partial thickness tears using high resolution ultrasound."
+    },
+    {
+      "label": "METHODS",
+      "text": "The mean number of microtears in three random tendon cross sections were recorded per tendon third in 19 asymptomatic volunteers, 16 athletes with symptomatic chronic Achilles tendinitis, and eight athletes with partial Achilles tendon rupture."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Microtears were most numerous in the middle third section of the Achilles tendon. Some 67% of tendons in the control group had no microtears, and 28% showed a single microtear. Only 18% of the athletes with chronic Achilles tendinitis and none of the athletes with partial tendon rupture were without microtears in the middle third of their Achilles tendon. Of the tendons with chronic tendinitis, 13% had more than three microtears per section which increased to 87% in tendons exhibiting partial rupture."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There appears to be an association between microtear formation and Achilles tendon rupture."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

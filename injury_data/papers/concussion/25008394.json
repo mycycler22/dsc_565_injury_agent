@@ -1,0 +1,28 @@
+{
+  "pmid": "25008394",
+  "title": "Legal and ethical implications in the evaluation and management of sports-related concussion.",
+  "year": "2014",
+  "journal": "Neurology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To examine the ethical and legal issues physicians face when evaluating and managing athletes with sports-related concussions, and to offer guidance to physicians as they navigate these situations."
+    },
+    {
+      "label": "RESULTS",
+      "text": "This position paper reviews and compares the components of sports-related concussion laws, including education, removal from play, and clearance for return to play. It highlights the challenges privacy laws present relevant to providing care to concussed athletes and suggests ways to help physicians overcome these obstacles. The report also explores the ethical considerations physicians should bear in mind as they evaluate and manage concussed athletes, addressing them through a framework that includes considerations of professionalism, informed decision-making, patient autonomy, beneficence, nonmaleficence, conflicts of interest, and distributive justice."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Physicians caring for concussed athletes have an ethical obligation to ensure that their primary responsibility is to safeguard the current and future physical and mental health of their patients. Physicians have a duty to provide athletes and their parents with information about concussion risk factors, symptoms, and the risks for postconcussion neurologic impairments. Physicians should facilitate informed and shared decision-making among athletes, parents, and medical teams while protecting athletes from potential harm. Additionally, including concussion evaluation and management training in neurology residency programs, as well as developing a national concussion registry, will benefit patients by the development of policies and clinical guidelines that optimize prevention and treatment of concussive head injury."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

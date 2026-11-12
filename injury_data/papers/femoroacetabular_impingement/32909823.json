@@ -1,0 +1,47 @@
+{
+  "pmid": "32909823",
+  "title": "Cutting, Impingement, Contact, Endurance, Flexibility, and Asymmetric/Overhead Sports: Is There a Difference in Return-to-Sport Rate After Arthroscopic Femoroacetabular Impingement Surgery? A Systematic Review and Meta-analysis.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Previous studies have established a classification of sports based on hip mechanics: cutting, impingement, contact, endurance, flexibility, and asymmetric/overhead. No previous review has compared the outcomes of hip arthroscopy for femoroacetabular impingement syndrome (FAIS) using this classification."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine whether the rate of return to sport differs among cutting, impingement, contact, endurance, flexibility, and asymmetric/overhead athletes who undergo hip arthroscopy for FAIS. We also aimed to identify differences in patient characteristics, intraoperative procedures performed, and time to return to play among the 6 sport categories."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "Three electronic databases were searched for eligible articles. Two reviewers independently screened the titles, abstract, and full-text articles using prespecified criteria. Eligible articles were those that reported the rate of return to sport (defined by the number of hips) after hip arthroscopy for FAIS in athletes of all levels. Data collected were patient age, sex, body mass index, type of sport, rate and time to return to sport, and intraoperative procedures performed. A mixed effects model was used for meta-analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 29 articles and 1426 hip arthroscopy cases were analyzed with 185 cutting, 258 impingement, 304 contact, 207 endurance, 116 flexibility, and 356 asymmetric/overhead athletes. The mean age was similar among the 6 subgroups (<i>P</i> = .532), but the proportion of female athletes was significantly higher in flexibility, endurance, and asymmetric/overhead sports as compared with impingement and contact athletes. Flexibility athletes had the highest rate of return to sport after hip arthroscopy for FAIS (94.8%), whereas contact athletes had the lowest rate (88%). The longest mean ± SD time (8.5 ± 1.9 months) to return to sport was reported in cutting sports, while endurance athletes returned faster than the rest (5.4 ± 2.6 months). The difference in rate and time to return to sport, as well as the intraoperative procedure performed, did not reach statistical significance among the 6 subgroups. There was evidence of publication bias and study heterogeneity, and the mean Methodological Index for Non-randomized Studies score was 13 ± 2.6."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Flexibility athletes had the highest rate of return to sport after hip arthroscopy for FAIS, while endurance athletes returned the fastest. The difference in rate and time to return to sport and intraoperative procedures performed did not reach statistical significance among the 6 subgroups. These results are limited by the evidence of publication bias and should be interpreted with caution. Laboratory-based studies are necessary to validate the classification of sports based on hip mechanics."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The longest mean ± SD time (8.5 ± 1.9 months) to return to sport was reported in cutting sports, while endurance athletes returned faster than the rest (5.4 ± 2.6 months)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "31131372",
+  "title": "Pathogenesis and Management of Tendinopathies in Sports Medicine.",
+  "year": "2018",
+  "journal": "Translational sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Tendinopathy is a major clinical problem in sports medicine and is often difficult to treat. Traditional therapeutic approaches have focused on reducing inflammation, yet research suggests that little to no inflammation is present in the tendons that fail to heal. The purpose of this review was to evaluate the effectiveness of the available treatment options for tendinopathy and to inform best clinical practices."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A narrative review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive search of electronic databases (PubMed, Google Scholar and Web of Science) was conducted to identify relevant studies through June 2016. Studies were deemed relevant if they were published in English and contained original research on the management of tendinopathy in humans."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Studies varied in methodological quality and were often limited by small sample size and lack of sufficient control groups. Critical evaluation of the literature suggests that physical therapy with or without eccentric exercise should be considered a first-line treatment. Corticosteroids and nonsteroidal anti-inflammatory drugs provide short-term symptomatic relief, but long-term efficacy has not been demonstrated. Inconsistent results do not support the routine use of prolotherapy, platelet-rich plasma injections and topical nitric oxide patches. Operative intervention should be reserved until conservative measures fail or an obvious operative lesion is present."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "While numerous therapeutic modalities exist for tendinopathy in the athlete, the ideal treatment protocol has not been clearly defined. The development of new targeted therapies for tendinopathy is likely to follow a greater understanding of the cellular and molecular mechanisms that underlie its pathogenesis."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

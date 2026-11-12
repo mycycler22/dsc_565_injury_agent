@@ -1,0 +1,31 @@
+{
+  "pmid": "31615970",
+  "title": "Genomic Prediction of Tendinopathy Risk in Elite Team Sports.",
+  "year": "2020",
+  "journal": "International journal of sports physiology and performance",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The authors investigated the association between risk of tendinopathies and genetic markers in professional team sports."
+    },
+    {
+      "label": "METHODS",
+      "text": "The authors studied 363 (mean [SD]; 25 [6] y, 89% male) elite players (soccer, futsal, basketball, handball, and roller hockey) from a top-level European team (FC Barcelona, Spain). Of 363, 55% (cases) had experienced 1+ episodes of tendinopathy during 2008-2018 and 45% (controls) remained injury free. The authors first examined the association between single-nucleotide polymorphisms (SNPs) and tendinopathy risk in a hypothesis-free case-control genome-wide association study (495,837 SNPs) with additional target analysis of 58 SNPs that are potential candidates to influence tendinopathy risk based on the literature. Thereafter, the authors augmented the SNP set by performing synthetic variant imputation (1,419,369 SNPs) and then used machine learning-based multivariate modeling (support vector machine and random forest) to build a reliable predictive model."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Suggestive association (P < 10-5) was found for rs11154027 (gap junction alpha 1), rs4362400 (vesicle amine transport 1-like), and rs10263021 (contactin-associated protein-like 2). Carriage of 1+ variant alleles for rs11154027 (odds ratio = 2.11; 95% confidence interval, 1.07-4.19, P = 1.01 × 10-6) or rs4362400 (odds ratio = 1.98; 95% confidence interval, 1.05-3.73, P = 9.6 × 10-6) was associated with a higher risk of tendinopathy, whereas an opposite effect was found for rs10263021 (odds ratio = 0.42; 95% confidence interval, 0.20-0.91], P = 4.5 × 10-6). In the modeling approach, one of the most robust SNPs was rs10477683 in the fibrillin 2 gene encoding fibrillin 2, a component of connective tissue microfibrils involved in elastic fiber assembly."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The authors have identified previously undescribed genetic predictors of tendinopathy in elite team sports athletes, notably rs11154027, rs4362400, and rs10263021."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

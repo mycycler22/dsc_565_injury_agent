@@ -1,0 +1,20 @@
+{
+  "pmid": "28574940",
+  "title": "Management of Lumbar Conditions in the Elite Athlete.",
+  "year": "2017",
+  "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Lumbar disk herniation, degenerative disk disease, and spondylolysis are the most prevalent lumbar conditions that result in missed playing time. Lumbar disk herniation has a good prognosis. After recovery from injury, professional athletes return to play 82% of the time. Surgical management of lumbar disk herniation has been shown to be a viable option in athletes in whom nonsurgical measures have failed. Degenerative disk disease is predominately genetic but may be accelerated in athletes secondary to increased physiologic loading. Nonsurgical management is the standard of care for lumbar degenerative disk disease in the elite athlete. Spondylolysis is more common in adolescent athletes with back pain than in adult athletes. Nonsurgical management of spondylolysis is typically successful. However, if surgery is required, fusion or direct pars repair can allow the patient to return to sports."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "35993448",
+  "title": "Biomechanical Comparison of Fiber Tape Device Versus Transarticular Screws for Ligamentous Lisfranc Injury in a Cadaveric Model.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The preferred method of fixation and surgical treatment for ligamentous Lisfranc injuries is controversial. Transarticular screws, bridge plating, fusion, and flexible fixation have been described, yet none have demonstrated superiority. Furthermore, screw fixation and plating often require secondary surgery to remove implants, leading surgeons to seek alternative fixation methods."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare transarticular screws and a fiber tape construct under a spectrum of biomechanical loads by evaluating the diastasis at 3 joints in the Lisfranc complex."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eight matched pairs of fresh, previously frozen lower extremity cadaveric specimens were fixed with either 2 cannulated transarticular crossed screws or a fiber tape construct with a supplemental intercuneiform limb. The diastasis between bones was measured at 3 midfoot joints in the Lisfranc complex: the Lisfranc articulation, the second tarsometatarsal joint, and the intercuneiform joint. Measurements were obtained for the preinjured, injured, and fixation conditions under static loading at 50% donor body weight. Specimens then underwent cyclic loading performed at 1 Hz and 100 cycles, based on 100-N stepwise increases in ground-reaction force from 100 to 2000 N, to simulate postoperative loading from the partial weightbearing stage to high-energy activities. Failure of fixation was defined as diastasis ≥2 mm at the Lisfranc articulation (second metatarsal-medial cuneiform joint)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were no significant differences in diastasis detected at the Lisfranc articulation or the intercuneiform joint throughout all loading cycles between groups. All specimens endured loading up to 50% body weight + 1400 N. Up to and including this stage, there were 2 failures in the cannulated transarticular crossed-screw group and none in the fiber tape group."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The fiber tape construct with a supplemental intercuneiform limb, which does not require later removal, may provide comparable biomechanical stability to cannulated transarticular crossed screws, even at higher loads."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Ligamentous Lisfranc injuries are common among athletes. Therefore, biomechanical evaluations are necessary to determine stable constructs that can limit the time to return to play. This study compares the biomechanical stability of 2 methods of fixation for ligamentous injury through a wide spectrum of loading, including those experienced by athletes."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

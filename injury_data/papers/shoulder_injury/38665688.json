@@ -1,0 +1,20 @@
+{
+  "pmid": "38665688",
+  "title": "Isokinetic Shoulder Strength and its Associations to Injury in Tactical Populations: A Critical Review.",
+  "year": "2024",
+  "journal": "International journal of exercise science",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The aim of this review is to evaluate existing isokinetic testing protocols for the shoulder in tactical occupations, document their shoulder strength profiles, and determine any associations to shoulder injury. Four electronic databases were searched (Medline/Pubmed, Ovid/Emcare, CINAHL/Ebsco and Embase) using the keywords police OR law enforcement, firefighter, military, AND isokinetic. Articles were eligible if they had at least one cohort of a tactical population and included isokinetic testing of the glenohumeral joint. The search yielded 275 articles. After screening for duplicates and inclusion criteria, 19 articles remained for review, six of which assessed injury correlation. 17 articles evaluated military personnel and two examined firefighters. Articles were categorized by study design, population, isokinetic protocols, strength outcome measures and statistical measures. Concentric internal rotation (IR) and external rotation (ER) strength at 60 degrees/second were reported most frequently (84% of cases). There was a paucity of testing speeds, repetition ranges and contraction types evaluated when compared to existing literature in other populations with high shoulder injury occurrence such as overhead and collision athletes. Outside of military cohorts, there is limited data available to characterise the isokinetic strength profile of the shoulder in tactical occupations. Meta-analysis for injury association was unable to be performed due to independent variable and statistical heterogeneity. However, a best evidence synthesis suggested conflicting evidence to support the association of injury with isokinetic strength testing in tactical populations. Future studies should prioritise prospective designs utilising variable speeds, repetition schemes and contraction types to better capture the dynamic occupational demands in tactical groups."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "33834924",
+  "title": "The S-STARTS Test: Validation of a Composite Test for the Assessment of Readiness to Return to Sport After Shoulder Stabilization Surgery.",
+  "year": "2022",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The time elapsed since surgery is the primary criterion for allowing athletes to return to sport after shoulder stabilization surgery using the Latarjet procedure. The objective assessment of shoulder functional status through the return-to-sport continuum demands a scoring instrument that includes psychological and physical dimensions. This study aimed to statistically validate the Shoulder-SanTy Athletic Return To Sport (S-STARTS) score in patients who have undergone primary shoulder stabilization surgery."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "The S-STARTS score fulfils the criteria for statistical validation for assessing return-to-sport readiness after shoulder stabilization surgery."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Diagnostic study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifty patients and 50 controls completed the Shoulder Instability-Return to Sport after Injury questionnaire and performed 4 physical performance tests, from which 8 outcome measures were extracted to provide a composite score, named S-STARTS, according to a scoring procedure. The statistical validation of the S-STARTS score was based on construct validity, discriminant validity, sensitivity to change, internal consistency, reliability, agreement, and feasibility."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The 8 components of the S-STARTS score provided additional information (0.01 ≤ |<i>r</i>| ≤ 0.59). The S-STARTS score exhibited good reliability (intraclass coefficient of correlation [3,k] = 0.74), no ceiling or floor effects, and high discrimination and sensitivity to change. The S-STARTS score was significantly lower in patients than in controls (13.5 ± 3.8 points vs 16.1 ± 2.7 points, respectively; <i>P</i> < 0.001). A significant increase was reported between 4.5 and 6.5 months postoperatively (12.8 ± 2.3 points vs 17.2 ± 2.4 points, respectively; <i>P</i> < 0.001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The S-STARTS score meets statistical validation criteria for the assessment of shoulder functional status after shoulder stabilization surgery using the Latarjet procedure."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Using an S-STARTS score-based assessment to monitor an athlete's progression through the return-to-sport continuum may help clinicians and strength and conditioning coaches in return-to-sport decision-making."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "39685760",
+  "title": "State of the Art in Rehabilitation Strategies After Hip Arthroscopy for Femoroacetabular Impingement Syndrome: A Systematic Review.",
+  "year": "2024",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background/Objectives:</b> Femoroacetabular impingement (FAI) is a common cause of hip pain in athletes and active individuals, often requiring hip arthroscopy followed by a structured rehabilitation program. Effective rehabilitation is crucial for optimizing surgical outcomes and facilitating a return to sport. <b>Methods:</b> A systematic review following PRISMA guidelines was conducted to evaluate post-operative rehabilitation protocols after hip arthroscopy for FAI. Databases searched included PubMed, Embase, and Cochrane Library up to April 2024. Inclusion criteria focused on studies documenting rehabilitation post-arthroscopy for FAI, with a final selection of 14 studies encompassing 1105 patients. Data extraction focused on rehabilitation techniques, functional outcomes, and return-to-sport rates. The risk of bias was assessed using RoB2 and ROBINS-I tools. <b>Results:</b> Rehabilitation protocols were categorized into four phases, emphasizing manual therapy, strengthening, stretching, aquatic exercises, and sport-specific drills. The average return-to-sport rate was 90.3%. Manual therapy and aquatic programs were critical in early recovery, while strengthening and proprioception exercises were central to later stages. Variability in protocols across studies was noted. <b>Conclusions:</b> Post-operative rehabilitation following hip arthroscopy for FAI is essential for recovery. A phased, individualized approach, integrating manual therapy, aquatic exercises, and sport-specific training, yields positive outcomes. However, the heterogeneity of protocols suggests the need for standardized guidelines tailored to individual patient needs and activity levels."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

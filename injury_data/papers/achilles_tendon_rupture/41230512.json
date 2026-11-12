@@ -1,0 +1,32 @@
+{
+  "pmid": "41230512",
+  "title": "Minimally invasive versus open surgery for acute achilles tendon rupture: an umbrella review of systematic reviews and meta-analyses.",
+  "year": "2025",
+  "journal": "Frontiers in surgery",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon rupture is a common injury requiring surgical intervention. The choice between Minimally Invasive Surgery (MIS) and Open Surgery (OS) has been widely debated. This umbrella review synthesized the results of systematic reviews and meta-analyses comparing outcomes of MIS and OS for acute Achilles tendon rupture."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive search was conducted using PubMed, Embase, Cochrane Library, Web of Science, and Scopus. The AMSTAR-2 checklist was employed to assess the quality of the included systematic reviews and meta-analyses. Data on complication rates, surgical times, functional outcomes, and other patient-centric metrics were extracted and analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "An aggregate of 6,480 participants were drawn from 7 included studies (not de-duplicated across overlapping trials). The primary outcomes were re-rupture and validated functional recovery scores; key complications included infection and sural nerve injury; secondary endpoints included operative time and return-to-sport. Searches, selection, and extraction followed prespecified criteria. Because the unit of analysis was published evidence syntheses and the underlying randomized trials overlapped with heterogeneous outcome definitions, results were synthesized qualitatively rather than pooled quantitatively. Across reviews, minimally invasive and open repair showed broadly comparable clinical effectiveness, with differences contingent on technique, perioperative protocols, and follow-up windows."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MIS appears to offer significant advantages over OS for the repair of acute Achilles tendon ruptures, including reduced complication rates and faster recovery times, without compromising the effectiveness of the repair in preventing re-ruptures. However, the potential for nerve injury with MIS warrants careful consideration. Decisions regarding surgical techniques should be tailored to individual patient circumstances and the specific expertise of the surgical team."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

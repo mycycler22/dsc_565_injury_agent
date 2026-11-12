@@ -1,0 +1,46 @@
+{
+  "pmid": "39902974",
+  "title": "A Prospective, Randomized Trial of the Modified Jobe Versus Docking Techniques With Gracilis Autograft for Ulnar Collateral Ligament Reconstruction in the Elbow.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL)reconstruction (UCLR) has transformed UCL injury from career-ending to career-interruptive. The most common surgical techniques are the modified Jobe and docking techniques."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to perform a prospective, randomized comparison of the modified Jobe versus docking techniques in overhead athletes with respect to patient-reported outcomes (PROs), self-reported baseball-specific metrics, imaging, and complications. It was hypothesized that there would be no significant differences between techniques."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Randomized controlled trial; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "A single-surgeon, single-blinded, prospective, randomized trial was performed comparing the modified Jobe and docking techniques. Patients were blinded to surgical technique. UCLR was performed with uniform gracilis autograft and identical postoperative rehabilitation. Pre- and postoperative PROs (Kerlan-Jobe Orthopaedic Clinic [KJOC] score, Andrews-Timmerman score, and Conway-Jobe score) were obtained. Pre- and postoperative imaging included stress ultrasound (SUS) and magnetic resonance imaging (including magnetic resonance arthrography). Additional information included demographics, anthropometrics, intraoperative data, complications, and self-reported baseball-specific metrics."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighty patients were randomized, and >80% follow-up was obtained (65/80 [81%]). There were no significant differences with respect to demographics, anthropometrics, preoperative imaging, or preoperative PROs. Surgically, docking had shorter median tourniquet time (91.5 vs 98.0 minutes; <i>P</i> = .001). There were no differences in Andrews-Timmerman score at any time point. Docking demonstrated a higher median KJOC score at 2 years (93.05 vs 79.20; <i>P</i> = .021). There was no difference with respect to return to play (RTP) by the Conway-Jobe scale (80% good to excellent docking vs 69% good to excellent Jobe; <i>P</i> = .501) or time to RTP (13.92 months docking vs 12.85 months Jobe; <i>P</i> = .267). There were no differences in baseball metrics postoperatively. On postoperative SUS, modified Jobe showed greater graft thickness (7.70 vs 6.75 mm; <i>P</i> = .006). Postoperative MRI revealed no differences. There was no difference in complications (Jobe 5.0% vs docking 7.5%; <i>P</i> > .999)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current study identified high rates of good to excellent results with PROs for both techniques, including RTP rates and times. Docking had shorter tourniquet time and higher 2-year KJOC scores. There were no differences in self-reported baseball-specific metrics or postoperative imaging (except graft thickness for modified Jobe by SUS). As the first prospective, randomized trial evaluating the modified Jobe and docking techniques, this study is the definitive substantiation of these two surgical techniques for UCLR. It provides surgeons with confidence to utilize the technique with which they are most comfortable."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "There was no difference with respect to return to play (RTP) by the Conway-Jobe scale (80% good to excellent docking vs 69% good to excellent Jobe; <i>P</i> = .501) or time to RTP (13.92 months docking vs 12.85 months Jobe; <i>P</i> = .267)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

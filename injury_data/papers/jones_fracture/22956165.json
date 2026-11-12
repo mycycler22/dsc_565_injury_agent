@@ -1,0 +1,37 @@
+{
+  "pmid": "22956165",
+  "title": "Treatment and return to sport following a Jones fracture of the fifth metatarsal: a systematic review.",
+  "year": "2013",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The aim of this study is to better inform the sports surgeon of current evidence for the treatment of Jones fractures of the base of the 5th metatarsal. The study aimed to establish what the outcomes were for different treatments modalities. By doing this, the clinician will be better prepared to institute a logical, evidence-based approach to the treatment of their patients with this injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "A thorough literature search was performed from 1980 to present day. Studies were included based on set criteria and analysed for their validity, and their results were scrutinised. Jones fractures were segregated into acute fractures, delayed unions and non-unions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-six studies were included, of which 22 were level 4 evidence, with only 1 randomised controlled trial. Functional outcome data were limited to return to sports in most studies with few studies using established scoring systems. Return to sports following intra-medullary screw fixation for acute fractures ranged from 4 to 18 weeks. Acute fractures treated non-operatively had a union rate of 76 % (pooled), whereas in fractures treated with a screw it was 96 % (pooled). Delayed unions treated non-operatively had a union rate of 44 and 97 % treated operatively. Non-unions treated with screw fixation healed in 97 % of cases."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although supported by mostly level 4 evidence, intra-medullary screw fixation is more likely to lead to successful union of all types of Jones fractures compared to non-operative treatments. Early return to play in athletes prior to full radiological union is not advised in case of re-fracture."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Return to sports following intra-medullary screw fixation for acute fractures ranged from 4 to 18 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "17710178",
+  "title": "Descriptive epidemiology of collegiate women's softball injuries: National Collegiate Athletic Association Injury Surveillance System, 1988-1989 through 2003-2004.",
+  "year": "2007",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To review 16 years of National Collegiate Athletic Association (NCAA) injury surveillance data for women's softball and to identify potential areas for injury prevention initiatives."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "The NCAA Injury Surveillance System has tracked injuries in all divisions of NCAA softball from the 1988-1989 to the 2003-2004 seasons. This report describes what was found and why the findings are important for the safety, enhancement, and continued growth of the sport."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "Across all divisions, preseason practice injury rates were more than double the regular-season practice injury rates (3.65 versus 1.68 injuries per 1000 athlete-exposures, rate ratio = 2.2, 95% confidence interval [CI] = 2.0, 2.4, P < .01). The rate of injury in a game was 1.6 times that in a practice (4.30 versus 2.67 injuries per 1000 athlete-exposures, rate ratio = 1.6, 95% CI = 1.5, 1.7). A total of 51.2% of game injuries resulted from \"other-contact\" mechanisms, whereas 55% of practice injuries resulted from noncontact mechanisms. In games, ankle ligament sprains and knee internal derangements accounted for 19% of injuries. Twenty-three percent of all game injuries were due to sliding, most of which were ankle sprains. In practices, ankle ligament sprains, quadriceps and hamstring strains, shoulder strains and tendinitis, knee internal derangements, and lower back strains (combined) accounted for 38% of injuries."
+    },
+    {
+      "label": "RECOMMENDATIONS",
+      "text": "Ankle ligament sprains, knee internal derangements, sliding injuries, and overuse shoulder and low back injuries were among the most common conditions in NCAA women's softball. Preventive efforts should focus on sliding technique regardless of skill level, potential equipment changes, neuromuscular training programs, position-specific throwing programs, and mechanisms of low back injury. Further research is needed on the development and effects of these preventive efforts, as well as in the area of windmill-pitching biomechanics."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

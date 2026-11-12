@@ -1,0 +1,41 @@
+{
+  "pmid": "19404654",
+  "title": "Percutaneous suturing of the ruptured Achilles tendon with endoscopic control.",
+  "year": "2009",
+  "journal": "Archives of orthopaedic and trauma surgery",
+  "pub_types": [
+    "Clinical Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "A prospective study of modified percutaneous Achilles tendon repair performed between 1999 and 2005 under local infiltration anesthesia is presented; the study evaluated the results of percutaneous repair technique by visualization of the synovia under endoscopic control, followed by early functional postoperative treatment for surgical intervention of acute Achilles tendon ruptures."
+    },
+    {
+      "label": "PATIENTS",
+      "text": "Sixty-two patients (58 males, 4 females, mean age 32) were treated by percutaneous suturing with modified Bunnel technique under endoscopic control within 10 days after acute total rupture. Physiotherapy was initiated immediately after the operation and patients were encouraged to weight-bearing ambulation with a walking brace-moon boot as tolerated. Full weight-bearing was allowed minimum after 3 weeks postoperatively without brace."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The procedure was tolerated in all patients. There were no significant ROM limitation was observed. Two patients experienced transient hypoesthesia in the region of sural nerve that spontaneously resolved in 6 months. Fifty-nine patients (95%) including professional athletes returned to their previous sportive activities, while 18 of them (29%) had some minor complaints. The interval from injury to return to regular work and rehabilitation training was 11.7 weeks (10-13 weeks). At the latest follow-up (mean: 46 months; range: 12-78 months), all the patients had satisfactory results with a mean American Orthopedic Foot and Ankle Society's ankle-hindfoot score of 94.6. No re-ruptures, deep venous thrombosis or wound problems occurred."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The proposed method offers a reasonable treatment option for acute total Achilles tendon rupture with a low number of complications. The rerupture rate and return to preinjury activities are comparable to open and percutaneous without endoscopic control procedures."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Two patients experienced transient hypoesthesia in the region of sural nerve that spontaneously resolved in 6 months."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The interval from injury to return to regular work and rehabilitation training was 11.7 weeks (10-13 weeks)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

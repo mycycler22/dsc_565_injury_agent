@@ -1,0 +1,21 @@
+{
+  "pmid": "35630037",
+  "title": "Is Kinesio Taping Effective for Sport Performance and Ankle Function of Athletes with Chronic Ankle Instability (CAI)? A Systematic Review and Meta-Analysis.",
+  "year": "2022",
+  "journal": "Medicina (Kaunas, Lithuania)",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<i>Background and Objectives:</i> Ankle injuries are the most common type of injury in healthy active individuals. If not treated properly, recurrent sprains can lead to a condition of chronic ankle instability (CAI). The aim of the present review is to evaluate the effects of Kinesio Taping (or KT) on sports performances and ankle functions in athletes with CAI. <i>Materials and Methods:</i> This systematic review with meta-analysis was carried out following the criteria of the Prisma Statement system (registered on Open Science Framework, number: 10.17605/OSF.IO/D8QN5). For the selection of the studies, PubMed, Scopus and Web of Science were used as databases in which the following string was used: (\"kinesiology tape\" OR \"tape\" OR \"taping\" OR \"elastic taping\" OR \"kinesio taping\" OR \"neuro taping\") AND (unstable OR instability) AND (ankle OR (ankle OR \"ankle sprain\" OR \"injured ankle\" OR \"ankle injury\")). The Downs and Black Scale was used for the quality analysis. The outcomes considered were gait functions, ROM, muscle activation, postural sway, dynamic balance, lateral landing from a monopodalic drop and agility. Effect sizes (ESs) were synthesised as standardized mean differences between the control and intervention groups. Calculation of the 95% confidence interval (CI) for each ES was conducted according to Hedges and Olkin. <i>Results:</i> In total, 1448 articles were identified and 8 studies were included, with a total of 270 athletes. The application of the tape had a significant effect size on gait functions, ROM, muscle activation and postural sway. <i>Conclusions:</i> The meta-analysis showed a significant improvement in gait functions (step velocity, step and stride length and reduction in the base of support in dynamics), reduction in the joint ROM in inversion and eversion, decrease in the muscle activation of the long peroneus and decrease in the postural sway in movement in the mid-lateral direction. It is possible to conclude that KT provides a moderate stabilising effect on the ankles of the athletes of most popular contact sports with CAI."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

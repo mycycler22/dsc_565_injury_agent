@@ -1,0 +1,43 @@
+{
+  "pmid": "34888388",
+  "title": "Changes in Medial Elbow Joint Space When Elbow Valgus Stress Is Applied at Different Limb Positions and Loads In Vivo.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) injury is a common sports injury among overhead-throwing athletes and causes medial elbow pain and instability. UCL injury is generally diagnosed based on symptoms, physical findings, and image evaluation. To standardize the method for evaluating elbow valgus instability, more information is needed regarding changes in the medial elbow joint space (JS) in healthy elbows."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to measure the JS during the application of elbow valgus stress at different elbow flexion angles and loads and to clarify the presence of defensive muscle contractions during elbow valgus stress. It was hypothesized that the JS will differ according to different limb positions and loads and that defensive contractions will occur when elbow valgus stress is >90 N."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Elbow joints on the nondominant side were examined in 20 healthy male university students (mean age, 21 ± 0.2 years) at 30°, 60°, and 90° of elbow flexion. To create valgus stress on the elbow, loads of 30, 60, 90, 120, and 150 N were applied with a Telos stress device and with gravity stress on the forearm. The medial JS was measured ultrasonographically during the application of elbow valgus stress. Electrodes were attached to the pronator teres muscle, and defensive muscle contractions were measured using electromyography during the application of elbow valgus stress. Repeated-measures analysis of variance and paired <i>t</i> tests were used to compare the JS at each elbow angle and each valgus stress load, and the Bonferroni method was used as a post hoc test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At 30° of elbow flexion, the JS was significantly higher at 30 N versus 0 N and at 60 N versus 0 or 30 N (<i>P</i> ≤ .018 for all). At 60° of flexion, the JS was significantly higher at 30 N versus 0 N, at 60 N versus 0 and 30 N, and at 90 N versus 0, 30, and 60 N (<i>P</i> ≤ .024 for all). At 90° of elbow flexion, the JS was significantly higher at 30 N versus 0 N and at 60 N versus 0 and 30 N (<i>P</i> ≤ .028 for all). Defensive muscle contraction did not occur at any elbow flexion angles at elbow valgus stress ≤60 N."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The lack of muscular contraction at elbow valgus stress ≤60 N may reflect the function of the medial collateral ligament."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Elbow valgus stress ≤60 N allows for the evaluation of the joint opening."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

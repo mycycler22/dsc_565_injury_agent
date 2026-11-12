@@ -1,0 +1,20 @@
+{
+  "pmid": "38484771",
+  "title": "Return to Play Following Concussion: Role for Imaging?",
+  "year": "2024",
+  "journal": "Seminars in musculoskeletal radiology",
+  "pub_types": [
+    "Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This review surveys concussion management, focusing on the use of neuroimaging techniques in return to play (RTP) decisions. Clinical assessments traditionally were the foundation of concussion diagnoses. However, their subjective nature prompted an exploration of neuroimaging modalities to enhance diagnosis and management. Magnetic resonance spectroscopy provides information about metabolic changes and alterations in the absence of structural abnormalities. Diffusion tensor imaging uncovers microstructural changes in white matter. Functional magnetic resonance imaging assesses neuronal activity to reveal changes in cognitive and sensorimotor functions. Positron emission tomography can assess metabolic disturbances using radiotracers, offering insight into the long-term effects of concussions. Vestibulo-ocular dysfunction screening and eye tracking assess vestibular and oculomotor function. Although these neuroimaging techniques demonstrate promise, continued research and standardization are needed before they can be integrated into the clinical setting. This review emphasizes the potential for neuroimaging in enhancing the accuracy of concussion diagnosis and guiding RTP decisions."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

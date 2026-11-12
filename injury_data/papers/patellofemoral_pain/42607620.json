@@ -1,0 +1,35 @@
+{
+  "pmid": "42607620",
+  "title": "Assessing the performance of AI chatbots in answering common questions about Patellofemoral Pain Syndrome.",
+  "year": "2026",
+  "journal": "Musculoskeletal science & practice",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral Pain Syndrome (PFPS) is a highly prevalent musculoskeletal condition affecting young adults and athletes. Patients increasingly turn to AI chatbots for medical information, yet the reliability, safety, and readability of these tools for PFPS remain unclear."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate accuracy, clarity, completeness, consistency, readability, and health advice disclaimers in responses from four AI chatbots (ChatGPT, Gemini, Claude, Perplexity)."
+    },
+    {
+      "label": "METHODS",
+      "text": "On February 18, 2026, thirty common PFPS questions were submitted to four AI models. Anonymized responses were independently evaluated for: information quality (accuracy, clarity, completeness, consistency) using a 4-point Likert scale; readability via seven indices benchmarked against the sixth-grade level; and safety signaling by dichotomous coding of health advice disclaimers."
+    },
+    {
+      "label": "RESULTS",
+      "text": "All models achieved median scores of 4.00 for completeness (P = 0.296) and consistency (P = 0.1). Significant differences emerged in accuracy (P = 0.019) and clarity (P < 0.001) overall, though adjusted pairwise accuracy differences were non-significant. Perplexity (median 3.00) was significantly inferior in clarity compared to other models (median 4.00). No model met the sixth-grade readability benchmark (P < 0.001); Gemini and ChatGPT were most readable, while Claude and Perplexity produced the most complex text. Health advice disclaimers appeared in 46.7% of ChatGPT and 40.0% of Claude responses, but only 16.7% for Gemini and Perplexity."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "AI chatbots generate accurate, complete, and consistent PFPS information but uniformly fail readability benchmarks. Disclaimer rates remain low, particularly for Gemini and Perplexity. These findings suggest AI chatbots currently function better as supplementary educational tools, highlighting the need for linguistic simplification and improved safety signaling."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "42674918",
+  "title": "Running with Achilles tendinopathy: tendon forces throughout a prolonged run.",
+  "year": "2026",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The objectives were: 1) to determine if Achilles tendon forces change throughout a 30-minute run and 2) to characterize joint-level contributions to total support moment throughout the run in runners with Achilles tendinopathy in the return-to-sport phase of rehabilitation."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Laboratory-based cross-sectional study with repeated measures."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eighteen runners (6 females; mean (standard deviation) age: 44 (13) years; height: 173 (9) cm; body mass: 73 (11) kg) in the return-to-sport phase of Achilles tendinopathy rehabilitation participated. Each participant ran for 30 minutes on a force-instrumented treadmill within a three-dimensional motion capture environment. Marker trajectories and force data were sampled at 6 timepoints throughout the run. Achilles tendon force estimates as well as relative contributions of the hips, knees, and ankles to total support moment were determined at each timepoint."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were no significant limb-by-time interactions, or between-limb differences, but there was a significant time effect for peak Achilles tendon force, which decreased throughout the run. For relative contributions to total support moment, there were no between-limb differences. However, throughout the run, hip extension contribution decreased while knee extension contribution increased."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Runners with Achilles tendinopathy in the return-to-sport phase of rehabilitation do not demonstrate side-to-side differences in tendon forces or contributions to total support moment. However, there are minor changes in peak tendon forces as well as hip and knee contributions to total support moment during a comfortable 30-minute run."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

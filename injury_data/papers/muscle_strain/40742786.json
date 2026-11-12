@@ -1,0 +1,32 @@
+{
+  "pmid": "40742786",
+  "title": "Detecting muscle strain in professional football players through plasma myoglobin levels.",
+  "year": "2025",
+  "journal": "The Journal of sports medicine and physical fitness",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Muscle issues such as soreness, cramps, and strains are common consequences of sports exercise, making it critical to accurately identify the nature of muscle discomfort. It is important for not only medical professionals but also athletes and sports enthusiasts to independently identify and manage the risk of muscle strain."
+    },
+    {
+      "label": "METHODS",
+      "text": "This prospective observational study explores the effectiveness of measuring blood myoglobin (MB) levels as a method for detecting muscle strains among athletes. The study involved 30 male professional footballers monitored over one season. MB levels were measured the morning after players reported muscle pain. The analysis involved comparing these levels between two groups: one diagnosed with muscle strain through physical examination and magnetic resonance imaging (strain group), and the other with muscle soreness or cramps (non-strain group)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The strain group, consisting of nine players, showed significantly higher MB levels (124±87.7 ng/mL) compared to the non-strain group, which included 15 players (49.9±29.6 ng/mL, P<0.01). A cutoff value of 60.3 ng/mL was determined via receiver operating characteristic analysis for suspected muscle strain cases. Subsequent logistic regression revealed that MB levels exceeding this threshold were associated with a 32.0-fold increase in the likelihood of muscle strain (P=0.005)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This finding suggests that blood myoglobin measurement can serve as a reliable tool for athletes to independently recognize the occurrence of muscle strains, even in settings without immediate medical oversight."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

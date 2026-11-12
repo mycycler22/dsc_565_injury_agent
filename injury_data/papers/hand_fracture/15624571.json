@@ -1,0 +1,29 @@
+{
+  "pmid": "15624571",
+  "title": "Low-intensity pulsed ultrasound in the treatment of traumatic hand fracture in an elite athlete.",
+  "year": "2004",
+  "journal": "American journal of physical medicine & rehabilitation",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "We report a case of complex traumatic hand fracture successfully treated with low-intensity ultrasound in an elite soccer goalkeeper. A single 20-min daily application of low-intensity pulsed ultrasound (frequency, 1.5 Mhz; intensity, 30 mW/cm2) provided by Exogen's Sonic Accelerated Fracture Healing System was administered for 24 days on end. Plain radiographs, ultrasonography, and computed tomographic scans were performed to diagnose and to follow-up the evolution of the fracture during the treatment. After 24 days, the athlete was allowed to recommence his specific sport activity with a modified soccer glove and functional taping. After 2 months, radiographs demonstrated the complete healing, with no displacement, of the fracture sites."
+    }
+  ],
+  "injury_query": "hand fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "A single 20-min daily application of low-intensity pulsed ultrasound (frequency, 1.5 Mhz; intensity, 30 mW/cm2) provided by Exogen's Sonic Accelerated Fracture Healing System was administered for 24 days on end."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "After 2 months, radiographs demonstrated the complete healing, with no displacement, of the fracture sites."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

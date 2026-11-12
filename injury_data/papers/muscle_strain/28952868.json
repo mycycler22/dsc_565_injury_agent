@@ -1,0 +1,48 @@
+{
+  "pmid": "28952868",
+  "title": "Comparison of Thigh Muscle Strain Occurrence and Injury Patterns Between Male and Female High School Soccer Athletes.",
+  "year": "2018",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Thigh muscle strains are among the most common injuries in high school soccer for both males and females. Similar results have been reported among college soccer players, specifically for hamstring strains. In college soccer, males have a higher injury rate than women, although they share common injury characteristics. Currently, no studies exist comparing the injury rate or injury characteristics of thigh muscle strains between sexes playing high school soccer."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare thigh muscle strain injury rates and injury event characteristics among sexes participating in high school soccer."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "SETTING",
+      "text": "A total of 100 nationally representative high schools that participated in the High School Sports-Related Injury Surveillance System, Reporting Information Online."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "High school soccer athletes who had a thigh muscle strain."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Injury rates of thigh muscle strains were calculated between sexes. The occurrence of the following variables during a thigh muscle injury was compared between sexes: grade level, age, level of play, event type, time of practice, time of competition, basic injury mechanism, soccer activity, player position, field location, practice type, and time of season."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Males had a lower injury rate of thigh muscle strains during competition than females (rate ratio = 0.66; 95% confidence interval, 0.47-0.93). No differences between sexes existed in the distribution of first-time or recurrent event characteristics. When combining sexes, recurrent strains (93%) occurred more frequently on the offensive side of the field than first-time strains (59%), P < .001. The majority of strains occurred among the varsity players (71%), during running activities (60%) and practices (58%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Males were less likely to sustain a thigh muscle strain during competitions, but no other differences existed between sexes. The events surrounding all thigh muscle strains may be described with some common properties. Consideration of these characteristics may assist in the development of preventive and rehabilitative programs as well as direct future research on thigh muscle strains among high school soccer players."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

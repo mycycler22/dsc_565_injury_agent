@@ -1,0 +1,31 @@
+{
+  "pmid": "40134507",
+  "title": "Dietary habits and knee and shoulder injury incidence in adolescent male and female handball players: the Swedish Handball Cohort.",
+  "year": "2025",
+  "journal": "BMJ open sport & exercise medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To assess the association between (1) dietary habits and knee/shoulder injury incidence in male and female adolescent handball players and (2) menstrual dysfunction and injury incidence in females."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study is based on seasons 2020-2022 of the Swedish Handball Cohort including 1144 participants (1703 player seasons) free from a substantial knee and shoulder injury. Participants self-reported meal frequency, meal timing, nutritional intake and menstrual function (season 2022/2023) at baseline. Weekly follow-ups throughout the season assessed training and matches, and substantial knee/shoulder injuries. Cox regression analyses estimated a hazard rate ratio (HRR) with the first event of a knee/shoulder injury (combined), with minutes of handball training and matches as the timescale."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In females, adjusted analyses generated an HRR for knee/shoulder injuries of 1.46 (95% CI 1.08, 1.98) for moderate-high nutritional quality compared with low quality and an HRR of 1.38 (95% CI 1.02, 1.86) for ≥2 unfavourable dietary habits compared with 1 unfavourable dietary habit. For poor meal timing, adjusted analyses generated an HRR of 1.20 (95% CI 0.90, 1.61) compared with adequate timing in females. In males, adjusted analyses generated an HRR of 1.23 (95% CI 0.69, 2.17) for low meal frequency and an HRR of 0.83 (95% CI 0.60, 1.15) for poor meal timing."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In adolescent female handball players, moderate-high nutritional quality and ≥2 unfavourable dietary habits are associated with higher knee/shoulder injury incidence; whereas, no or unprecise associations were found for other dietary habits in females and males and for menstrual dysfunction in females."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

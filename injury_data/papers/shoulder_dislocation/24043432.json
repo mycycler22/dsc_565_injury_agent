@@ -1,0 +1,36 @@
+{
+  "pmid": "24043432",
+  "title": "Rotator cuff tear and glenohumeral instability : a systematic review.",
+  "year": "2014",
+  "journal": "Clinical orthopaedics and related research",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The rotator cuff plays a significant role in the static and dynamic stability of the glenohumeral joint. Rotator cuff tears may occur after shoulder dislocations, whether in younger athletes or older patients with age-related tendon degeneration. Untreated tears may cause persistent pain, dysfunction, instability, and degenerative changes. A thorough understanding of when to look for rotator cuff tears after shoulder dislocations and how best to manage them may decrease patients' pain and improve function."
+    },
+    {
+      "label": "QUESTIONS/PURPOSES",
+      "text": "We systematically reviewed the available literature to better understand (1) when a rotator cuff tear should be suspected after a dislocation, (2) whether surgical or nonsurgical approaches result in better scores for pain and satisfaction in patients with rotator cuff tears resulting from shoulder dislocations, and (3) whether intraarticular lesions, rotator cuff tears, or both should be addressed when surgery is performed."
+    },
+    {
+      "label": "METHODS",
+      "text": "We systematically searched MEDLINE(®), CINAHL, and EMBASE for studies published from 1950 to 2012. We included studies reporting outcomes after treatment in patients with rotator cuff tears and shoulder dislocations. We excluded case reports, studies without any treatment, and studies about patients treated with arthroplasty. Five Level III and six Level IV studies were ultimately selected for review."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Patients with persistent pain or dysfunction after a shoulder dislocation often had a concomitant rotator cuff tear. Surgical repair resulted in improved pain relief and patient satisfaction compared to nonoperative management. Repair of the rotator cuff, along with concomitant capsulolabral lesions, helped restore shoulder stability. While these findings are based on Level III and IV evidence, better long-term studies with larger cohorts are needed to strengthen evidence-based recommendations."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Persistent pain and dysfunction after a shoulder dislocation should prompt evaluation of the rotator cuff, especially in contact or overhead athletes, patients older than 40 years, or those with nerve injury. Surgery should be considered in the appropriately active patient with a rotator cuff tear after dislocation. While the current literature suggests improved stability and function after surgical repair of the rotator cuff, higher-quality prospective studies are necessary to make definitive conclusions."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "26122533",
+  "title": "Sports-Related Concussion.",
+  "year": "2015",
+  "journal": "Current pain and headache reports",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sports-related concussions (SRC) are common in all ages and occur in all sports. The diagnosis based on clinical suspicion after more serious injury is ruled out. Symptoms of concussion are due to a temporary and reversible neurometabolic cascade resulting in blood flow changes, neuronal excitotoxicity, ionic shifts, and mitochondrial changes. Symptoms are nonspecific, and commonly include headache, cognitive complaints, photophobia, and phonophobia. Loss of consciousness is rare in SRC and has limited influence on recovery and prognosis. Imaging has a limited role in the management of concussion and should be used to evaluate for more serious intracranial pathology. Treatment is based on symptoms and an understanding of the typical, rapid (7-10 days) recovery. No athlete should return to play until their symptoms have resolved and they have completed a supervised, step-wise return to play protocol. The article covers the most recent literature on the diagnosis and management of SRC, including evidence-based recommendations and expert-based consensus opinion. The article will also discuss issues regarding medical retirement, legislation, and future concepts in concussion diagnosis and management."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Treatment is based on symptoms and an understanding of the typical, rapid (7-10 days) recovery."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

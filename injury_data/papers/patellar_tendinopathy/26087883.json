@@ -1,0 +1,35 @@
+{
+  "pmid": "26087883",
+  "title": "Factors associated with the presence of patellar tendon abnormalities in male athletes.",
+  "year": "2016",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate the association between lower limb alignment, range of motion/flexibility and muscle strength with the presence of patellar tendon abnormalities in male athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "This was a cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty-one male basketball and volleyball athletes were assessed for ankle dorsiflexion range of motion, shank-forefoot alignment, iliotibial band flexibility, hip external rotators and abductors isometric torque, passive hip internal rotation range of motion and frontal plane knee and patellar alignment (McConnell and Arno angles). Ultrasonographic evaluations of hypoechoic areas of the patellar tendons were performed in longitudinal and transverse planes. A receiver operating characteristic curve was used to determine clinically relevant cut-off point for each variable. When the area under the curve was statistically significant, Prevalence Ratio (PR) and 95% confidence intervals were calculated to indicate the strength of the association between the independent variable and the presence of patellar tendon abnormalities."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Receiver operating characteristic curve showed that iliotibial band flexibility (p=0.006), shank-forefoot alignment (p=0.013) and Arno angle (p=0.046) were associated with patellar tendon abnormalities. Cut-off points were established and only the Prevalence Ratio of iliotibial band flexibility (cut-off point=-0.02°/kg; PR=5.26) and shank-forefoot alignment (cut-off point=24°; PR=4.42) were statistically significant."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes with iliotibial band or shank-forefoot alignment above the clinically relevant cut-off point had more chance to have patellar tendon abnormalities compared to athletes under the cut-off point values. These results suggest that such factors could contribute to patellar tendon overload, since patellar tendon abnormalities indicate some level of tissue damage. Both factors might be considered in future prospective studies."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,52 @@
+{
+  "pmid": "35762861",
+  "title": "Pelvic Avulsion Fractures in Adolescent Athletes: Analyzing the Effect of Delay in Diagnosis.",
+  "year": "2022",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate whether delay in the diagnosis of pelvic avulsion fractures in young athletes leads to prolonged treatment and prolonged return toward sport activities, whether fractures at certain locations are associated with a greater risk of diagnostic delay, and what reasons may exist for delay in diagnosis."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective chart review of young patients who presented with pelvic region avulsion fracture to a community-based sports medicine clinic over a 19-year period."
+    },
+    {
+      "label": "SETTING",
+      "text": "Private practice, primary care sports medicine clinic."
+    },
+    {
+      "label": "PATIENTS",
+      "text": "Patients younger than 20 years diagnosed with pelvic region avulsion fracture."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "None, this was a retrospective study."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Clearance for return toward sport activities."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Two hundred twenty-five cases were reviewed for reasons for delay in diagnosis; 208 cases met criteria for the duration of treatment and return to play activities portions of the study. The mean time from date of injury diagnosis was 19.59 days, and the mean duration from date of injury to clearance for return to play advancement was 67.20 days. Duration of treatment varied slightly depending on timing of diagnosis, whereas duration from date of injury to clearance for return to play advancement varied greatly depending on diagnostic delay. Those who did not sense a \"pop\" at the time of injury were more likely to experience diagnostic delay, as were athletes with ischial tuberosity fractures. The most common cause of diagnostic delay was patient/family decision on when to seek care; misdiagnosis as a muscle strain was also common."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Diagnostic delay of adolescent pelvic avulsion fractures may unnecessarily prevent athletes from returning to play within an optimal time frame. Our observations highlight a need for educating athletes and their families on when to seek initial or follow-up medical care as well as educating medical providers regarding the diagnosis of pelvic avulsion fractures."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time from date of injury diagnosis was 19.59 days, and the mean duration from date of injury to clearance for return to play advancement was 67.20 days."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

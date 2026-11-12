@@ -1,0 +1,31 @@
+{
+  "pmid": "9386291",
+  "title": "The utility of contrast-enhanced MRI in diagnosis of muscle injuries occult to conventional MRI.",
+  "year": "1997",
+  "journal": "Journal of computer assisted tomography",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Our goal was to define the utility of contrast-enhanced MRI in the diagnosis of occult muscle injuries on T2 and STIR sequences."
+    },
+    {
+      "label": "METHOD",
+      "text": "We retrospectively reviewed the pre- and postcontrast MR studies of four professional athletes with a clinical diagnosis of suspected muscle injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The four cases demonstrated muscle strain injuries not visualized on the conventional T2 and STIR sequences but visualized on the postcontrast MR studies as areas of localized enhancement."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "We recommend the intravenous administration of gadolinium in the setting of clinically suspected muscle injuries not visualized on T2 and STIR sequences."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

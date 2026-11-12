@@ -1,0 +1,20 @@
+{
+  "pmid": "32067546",
+  "title": "Neuromuscular training for the prevention of ankle sprains in female athletes: a systematic review.",
+  "year": "2020",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Ankle sprains are a common sports-related injury, and female athletes are more likely to sustain this injury than their male counterparts. Previous reviews have evaluated the efficacy of prevention programs in reducing ankle sprains in athletes, but no reviews have specifically focused on female athletes. The objective of this systematic review was to examine the sex-specific effectiveness of neuromuscular training (NMT) programs in reducing the risk of ankle sprains in female athletes. A search of PubMed, Ovid Medline, Embase, and Web of Science databases was performed using the terms: <i>(proprioception OR proprioceptive OR balance OR neuromuscular OR stability OR sensorimotor) AND training AND (ankle sprain OR ankle injury OR inversion injury OR ankle instability) AND (sport* OR athlet* or basketball OR volleyball OR soccer OR handball OR tennis OR netball OR hockey OR softball OR gymnastics OR danc* OR ballet OR cheerlead*) AND (female OR women OR girl)</i>. Studies selected for inclusion were written in English, evaluated female athletes in organized athletics or reported female-specific data for mixed-sex cohorts, included a non-NMT comparison, and used ankle injury rate outcome measures. Seven articles were selected for inclusion, which evaluated a combined 5,187 female basketball, handball, volleyball, soccer, and floorball players. Two studies reported significant differences between NMT participants and controls, concluding the greatest effects were observed in preventing non-contact ankle sprains. The remaining 5 studies, although not statistically significant, revealed an evident trend toward the efficacy of ankle injury prevention with NMT programs. Current available evidence supports the efficacy of NMT in preventing ankle sprains in female athletes. When designing NMT programs, investigators should consider utilizing comprehensive approaches that incorporate strength, balance, plyometric, and agility training as the studies with significant findings created comprehensive NMT programs. Further investigations into sport- and female-specific programs are warranted."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

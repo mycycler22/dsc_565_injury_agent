@@ -1,0 +1,35 @@
+{
+  "pmid": "42428577",
+  "title": "Good clinical but inferior functional outcomes following surgical patellar stabilisation: A prospective study.",
+  "year": "2026",
+  "journal": "Journal of experimental orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate serial changes in isokinetic knee muscle strength before and after medial patellofemoral ligament reconstruction (MPFL-R) and to assess whether subjective clinical outcomes reflect objective functional recovery."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this prospective study, 39 patients (mean age 25.2 ± 9.0 years) undergoing MPFL-R for recurrent patellar instability were evaluated preoperatively and at 6 and 12 months postoperatively. Subjective outcomes were assessed using the knee injury and osteoarthritis outcome score (KOOS) and the Kujala score. Objective functional recovery was evaluated with isokinetic testing of knee extensors and flexors at 60°/s and 180°/s using a Biodex dynamometer. Strength and limb symmetry were compared over time between the operated and nonoperated limbs."
+    },
+    {
+      "label": "RESULTS",
+      "text": "KOOS and Kujala scores improved significantly at 12 months compared with preoperative values (both <i>p</i> < 0.001), indicating marked subjective clinical improvement. Isokinetic testing showed significant increases in peak torque of both extensors and flexors in the operated limb over time. However, a persistent quadriceps strength deficit of the operated limb compared with the contralateral limb remained at 12 months, particularly for knee extensors. In contrast, hamstring strength deficits decreased significantly, indicating better recovery of flexor strength."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although MPFL-R results in significant improvements in patient-reported outcomes, objective isokinetic testing reveals persistent quadriceps strength deficits up to 12 months postoperatively. These findings suggest that subjective clinical scores may overestimate functional recovery. Objective strength assessment should be incorporated into return-to-sport decision-making following MPFL reconstruction."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level II."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "32108557",
+  "title": "Dorsal muscle fatigue increases thoracic spine curvature in all-out recreational ergometer rowing.",
+  "year": "2021",
+  "journal": "European journal of sport science",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The purpose of this study was to investigate fatigue-related changes in spinal kinematics, kinetics, and muscle activity of back muscles during a 2000 m all-out ergometer rowing performance. We analyzed ten male subjects with experience in both rowing and CrossFit exercises. We applied a novel kinematic method to describe spine curvature, determined bending moments at the spine using inverse dynamics and collected EMG data. We identified significant increases in spine curvature of the thoracic spine (i.e. vertebrae Th6 to Th11). Significant increases in peak moments were found only at the upper spine (i.e. Th2). We found no significant changes in EMG amplitudes, while the frequency analysis showed significant decreases in the mean frequencies (MNF) for the M. latissimus dorsi, the M. trapezius descendens and the M. deltoideus posterior. No significant changes on MNF were found for the Mm. erector spinae. We hypothesize that the significant increase in curvature for the thoracic spine is connected to the fatigued back muscles, especially the Mm. trapezius descendens, and might lead to an unbalanced loading of intervertebral discs and other structures. These findings are particularly important for athletes and coaches in CrossFit as strenuous rowing intervals are combined with technical exercises with high loads on the back and spine (e.g. power and Olympic lifting) leading to impaired muscular stabilization and potentially to an increased injury risk."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

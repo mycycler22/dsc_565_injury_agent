@@ -1,0 +1,57 @@
+{
+  "pmid": "41509705",
+  "title": "Arthroscopic Debridement of Proximal Patellar Tendinopathy in Athletes.",
+  "year": "2026",
+  "journal": "Video journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Proximal patellar tendinopathy is common in athletes, with a reported incidence up to 45% in jumping athletes, and can often be treated nonoperatively. If surgery is required, open debridement is often performed, but arthroscopic debridement has several advantages-including higher rates and earlier return to sports."
+    },
+    {
+      "label": "INDICATIONS",
+      "text": "Patients with (1) symptoms of anterior knee pain or pain with patellar tendon loading activities, (2) who have not responded to nonoperative treatment, and (3) have proximal partial articular-sided fraying of the patellar tendon on magnetic resonance imaging (MRI)."
+    },
+    {
+      "label": "TECHNIQUE DESCRIPTION",
+      "text": "The patient is positioned supine, and standard arthroscopy equipment is used. The anterolateral portal is created more laterally than the standard portal, and the anteromedial portal is created under vision more medially than the standard. The ligamentum mucosum and Hoffa's fat pad are debrided until the proximal part of the patellar tendon is visualized. A spinal needle is placed through the tendinopathy part of the tendon based on preoperative MRI. The tendon is debrided with a shaver from the anteromedial and later anterolateral portal until healthy intact patellar tendon fibers are visualized. Bony resection of the inferior pole of the patella is performed to avoid impingement."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Arthroscopic partial patellar tendon debridement has been shown to lead to superior outcomes compared to open debridement, with a treatment success of 91%, a return to sports of 96%, a return to the previous level of 77%, and a mean time to return to sports of 3.9 months. Inferior pole resection has been shown to be superior compared to no resection."
+    },
+    {
+      "label": "DISCUSSION/CONCLUSION",
+      "text": "Arthroscopic debridement of proximal patellar tendinopathy with partial tearing is a minimally invasive and successful procedure and should be considered for athletes after failure of nonoperative treatment."
+    },
+    {
+      "label": "PATIENT CONSENT DISCLOSURE STATEMENT",
+      "text": "The author(s) attests that consent has been obtained from any patient(s) appearing in this publication. If the individual may be identifiable, the author(s) has included a statement of release or other written form of approval from the patient(s) with this submission for publication."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Arthroscopic partial patellar tendon debridement has been shown to lead to superior outcomes compared to open debridement, with a treatment success of 91%, a return to sports of 96%, a return to the previous level of 77%, and a mean time to return to sports of 3.9 months."
+    }
+  ],
+  "pmcid": "12775278",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Arthroscopic partial patellar tendon debridement has been shown to lead to superior outcomes compared to open debridement, with a treatment success of 91%, a return to sports of 96%, a return to the previous level of 77%, and a mean time to return to sports of 3.9 months. Inferior pole resection has been shown to be superior compared to no resection."
+    },
+    {
+      "section": "Results",
+      "text": "The first 6 weeks of rehabilitation consist of full weightbearing and range of motion as tolerated and closed-chain exercises. From 6 to 12 weeks, light patellar tendon loading will be started to allow the patellar tendon to adapt to increasing loads. After 12 weeks, progressive loading and functional activities are progressed. General return to sports is recommended after 3 months and explosive loading after 4 months, although the literature has shown this might be performed earlier."
+    }
+  ]
+}

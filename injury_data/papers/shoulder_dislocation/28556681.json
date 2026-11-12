@@ -1,0 +1,48 @@
+{
+  "pmid": "28556681",
+  "title": "Epidemiology of Shoulder Dislocations in High School and Collegiate Athletics in the United States: 2004/2005 Through 2013/2014.",
+  "year": "2018",
+  "journal": "Sports health",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder dislocations occur frequently in athletes across a variety of sports. This study provides an updated descriptive epidemiological analysis of shoulder dislocations among high school and college athletes and compares injury rates and patterns across these age groups."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "There would be no difference in injury rates/patterns between high school and college athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Shoulder dislocation data from the High School Reporting Information Online (RIO) and the National Collegiate Athletic Association (NCAA) Injury Surveillance Program (ISP) databases were analyzed from the 2004/2005 through 2013/2014 (NCAA) or 2005/2006 through 2013/2014 (RIO) academic years in 11 different sports. Rate ratios (RRs) and injury proportion ratios (IPRs) were calculated to make comparisons between age groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the study period, 598 shoulder dislocations were reported during 29,249,482 athlete-exposures (AEs) among high school athletes, for an overall shoulder dislocation rate of 2.04 per 100,000 AEs; 352 shoulder dislocations were reported during 13,629,533 AEs among college athletes, for an overall injury rate of 2.58 per 100,000 AEs. College athletes had a higher rate of shoulder dislocation than high school athletes (RR, 1.26; 95% CI, 1.11-1.44). However, the injury rate in football was lower in collegiate than high school athletes (RR, 0.52; 95% CI, 0.43-0.62). Surgery was performed to correct 28.0% of high school and 29.6% of college shoulder dislocations. Shoulder dislocations resulted in longer return-to-play times than other shoulder injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Overall, shoulder dislocation rates were higher among collegiate than high school athletes. This may be due to greater contact forces involved in sports at higher levels of play, although the increased rate in high school football warrants additional research."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Higher shoulder dislocation rates within collegiate athletics are likely due to the higher level of intensity at this level of play, with stronger and faster athletes resulting in more forceful collisions."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "34213365",
+  "title": "Factor Structure of the Shoulder Instability Return to Sport After Injury Scale: Performance Confidence, Reinjury Fear and Risk, Emotions, Rehabilitation and Surgery.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Rates of return to play after shoulder dislocation vary between 48% and 96%, and there has been scant attention given to the psychosocial factors that influence return to play after a shoulder injury."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To establish the factor structure of the Shoulder Return to Sport after Injury (SI-RSI) scale and examine how the SI-RSI is associated with the Western Ontario Shoulder Instability Index (WOSI)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "The SI-RSI is designed to measure psychological readiness to return to play after shoulder dislocation and was administered to participants who had at least 1 episode of shoulder dislocation and were planning or had returned to sports. The WOSI was also completed by the participants, and descriptive data were gathered. Reliability (Cronbach α) and factor analysis of the SI-RSI were undertaken. Correlations between the SI-RSI and WOSI were made, and differences between various patient subgroups (first-time dislocations vs multiple episodes of instability, surgery vs no surgery, return to sports vs no return) were analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The SI-RSI had high internal consistency (Cronbach α = 0.84) and was shown to have 4 distinct factors that represented the following constructs: performance confidence, reinjury fear and risk, emotions, and rehabilitation and surgery. Moderate correlations were seen between SI-RSI and WOSI scores. Participants who had undergone surgery scored significantly lower on the reinjury fear and risk subscale of the SI-RSI (<i>P</i> = .04). Those who had sustained multiple dislocations were significantly more concerned about having to undergo rehabilitation and surgery again (<i>P</i> = .007). Participants who had returned to sports had significantly greater fear and thought they were more at risk of reinjury (<i>P</i> = .02)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes return to sports after a shoulder dislocation despite reporting high levels of fear and concern for their shoulder. High levels of fear and concern may underpin why rates of recurrent shoulder instability are so high. Four distinct elements of psychological readiness appeared to be present in this patient group."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

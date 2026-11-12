@@ -1,0 +1,41 @@
+{
+  "pmid": "30054341",
+  "title": "Modifiable risk factors for patellar tendinopathy in athletes: a systematic review and meta-analysis.",
+  "year": "2018",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To perform a systematic review and meta-analysis identifying (1) potential modifiable risk factors and (2) associated modifiable factors for patellar tendinopathy in athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A systematic review and meta-analysis was conducted. Risk of bias was assessed using the Newcastle-Ottawa Scale and grouped based on study design. Meta-analytic statistics were performed for items reported by five or more studies. A strength of evidence rating is provided for items not appropriate for meta-analysis."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "PubMed, Web of Science, Scopus and Cinahl were searched on 14 November 2017."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA",
+      "text": "Quantitative, original research reporting potential modifiable risk factors or associated factors, comparing athletes with patellar tendinopathy with a group without the injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "862 records were screened and 31 articles were included (6 prospective, 25 cross-sectional). There was a lack of strong evidence for any potential modifiable risk factor or associated factors. There was limited or conflicting evidence that decreased ankle dorsiflexion range of motion, decreased posterior thigh and quadriceps flexibility, greater volume of jump training, more volleyball sets played per week, greater countermovement jump (CMJ) height and greater activity volume are potential modifiable risk factors. Meta-analysis supported greater activity volume (Cohen's d=0.22, 95% CI 0.06 to 0.39, p=0.008), higher body weight (0.36, 0.17 to 0.55, p<0.001) and greater CMJ height (0.31, 0.07 to 0.56, p=0.01) as associated modifiable factors."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There is a lack of strong evidence for any potential modifiable risk factors or associated factors. Factors with lower levels of support may be of interest in designing prevention programmes but require further research in high-quality, prospective studies."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

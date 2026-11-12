@@ -1,0 +1,31 @@
+{
+  "pmid": "30340804",
+  "title": "Effectiveness of ultrasonography screening and risk factor analysis of capitellar osteochondritis dissecans in adolescent baseball players.",
+  "year": "2018",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Capitellar osteochondritis dissecans (COCD) is a common elbow injury in young baseball athletes. It may be asymptomatic at the early stage and may progress if left untreated. This study investigated the effectiveness of ultrasonography (US) screening for COCD in adolescent baseball players and identified risk factors of COCD."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cross-sectional analysis study was conducted among baseball athletes aged 12 to 18 years. US screening of the throwing elbow was performed in all participants, and additional magnetic resonance imaging (MRI) was arranged for those with abnormal screening results. The prevalence of COCD was calculated according to MRI results. The US findings were compared with MRI findings. Data for characteristics, joint range of motion, and quality of pain were collected and analyzed using a logistic regression model to identify the risk factors of COCD."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 299 adolescent baseball players were screened, and 17 were found to have COCD according to US findings. MRI was performed in 15 of these 17 players, and the MRI findings further confirmed COCD in 10 players (66.7%). The presence of elbow pain while at rest, body height, and age at introduction to baseball were predictors of COCD."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although the effectiveness of diagnosing stage 1 COCD is satisfactory, US is a helpful tool for detecting stage 2 and higher-stage COCD. Elbow resting pain, lower body height, and introduction to baseball at a younger age are risk factors for COCD."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

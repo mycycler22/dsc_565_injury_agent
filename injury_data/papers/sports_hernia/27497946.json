@@ -1,0 +1,31 @@
+{
+  "pmid": "27497946",
+  "title": "Sports hernia repair with adductor tenotomy.",
+  "year": "2017",
+  "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Sports hernias, or athletic pubalgia, is common in athletes, and primarily involves injury to the fascia, muscles, and tendons of the inguinal region near their insertion onto the pubic bone. However, management varies widely, and rectus and adductor tenotomies have not been adequately described. The purpose of this manuscript is to demonstrate a suture repair and a rectus and adductor longus tenotomy technique for sports hernias."
+    },
+    {
+      "label": "METHODS",
+      "text": "After magnetic-resonance-imaging confirmation of sports hernias with rectus and adductor tendonitis, 22 patients underwent a suture herniorrhaphy with adductor tenotomy. The procedure is performed through a 4-cm incision, and a fascial release of the rectus abdominis and adductor tenotomy is performed to relieve the opposing vector forces on the pubic bone."
+    },
+    {
+      "label": "RESULTS",
+      "text": "All 22 patients returned to their respective sports and regained their ability to perform at a high level, including professional status. No further surgery was required."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In athletes with MRI confirmation of rectus and adductor longus injuries, tenotomies along with a herniorraphy may improve outcomes. A suture repair to reinforce the inguinal floor prevents mesh-related complications, especially in young athletes."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

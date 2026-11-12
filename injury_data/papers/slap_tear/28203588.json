@@ -1,0 +1,39 @@
+{
+  "pmid": "28203588",
+  "title": "Return to Play and Prior Performance in Major League Baseball Pitchers After Repair of Superior Labral Anterior-Posterior Tears.",
+  "year": "2016",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The published return-to-play (RTP) rates for Major League Baseball (MLB) pitchers who have undergone surgical repair of superior labrum anterior-posterior (SLAP) tears vary widely and are generally accepted to be lower in the subset of competitive throwers. The efficacy of surgical treatment for MLB players is largely unknown."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine the RTP rate and performance of MLB pitchers who have undergone SLAP tear repair between 2003 and 2010."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiological study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of MLB pitchers undergoing SLAP repair was performed using the MLB disabled list. Data collected included the following player statistics: earned run average (ERA), walks plus hits per inning pitched (WHIP), and innings pitched (IP). The mean values for performance variables both before and after surgery were compared. A definition of return to prior performance (RTPP) was established as an ERA within 2.00 and WHIP within 0.500 of preoperative values."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-four MLB players met inclusion criteria, of which 62.5% were able to RTP at the MLB level after SLAP repair surgery. Of those able to RTP, 86.7% were able to RTPP. However, the overall rate of RTPP, including those unable to RTP, was 54.2%. Mean performance analysis of the RTP group revealed a statistically significant decrease in IP for MLB pitchers throwing a mean 101.8 innings before injury and 65.53 innings after injury (<i>P</i> = .004)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Of those pitchers able to RTP, chances of a full recovery were good (86.7%). Our results indicate the need for future research aimed at proper surgical selection of who will return to play, as they will likely achieve full recovery. We believe this information can help surgeons advise high-level overhead-throwing athletes about expected outcomes for surgical treatment of SLAP tears."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

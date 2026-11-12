@@ -1,0 +1,20 @@
+{
+  "pmid": "41492609",
+  "title": "Current Non-operative Management of Shoulder Pathologies: A Narrative Review.",
+  "year": "2025",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Shoulder disorders, including rotator cuff-related pain, adhesive capsulitis, impingement, glenohumeral osteoarthritis (GHOA), acromioclavicular (AC) pathology, instability, and biceps/superior labrum anterior to posterior (SLAP) lesions, are prevalent causes of pain, disability, and healthcare utilization. Contemporary care emphasizes non-operative strategies as first-line management, with surgery reserved for refractory symptoms or specific structural indications. The researcher conducted a systematized narrative review of adult non-operative management for common shoulder pathologies. Targeted searches of Medical Literature Analysis and Retrieval System Online (MEDLINE) (via PubMed), the Cochrane Library, and guideline repositories (American Academy of Orthopaedic Surgeons (AAOS)/American Shoulder and Elbow Surgeons (ASES)/American Physical Therapy Association (APTA)/American College of Rheumatology (ACR)) were performed from 2010 to October 2025. The researcher prioritized clinical practice guidelines, Cochrane and systematic reviews (including network meta-analyses), and randomized trials. Studies focused on non-operative interventions with patient-centered outcomes were qualitatively synthesized by pathology; no quantitative pooling was performed. Exercise-based rehabilitation is the cornerstone across conditions, producing clinically meaningful pain and functional gains and, in subacromial pain, outcomes comparable to surgery. For adhesive capsulitis, intra-articular corticosteroid, hydrodilatation, and suprascapular nerve block yield short-term benefits that are greatest when paired with mobilization and stretching. In GHOA, individualized range of motion (ROM) maintenance and strengthening, activity adaptation, and time-limited injections (corticosteroid; hyaluronic acid with variable evidence) dominate care; platelet-rich plasma remains investigational. For instability, early ROM followed by rotator cuff/scapular strengthening and proprioceptive training is standard, with bracing for select athletes. Acute low-grade AC injuries respond to brief sling use."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

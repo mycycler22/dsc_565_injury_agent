@@ -1,0 +1,29 @@
+{
+  "pmid": "34143413",
+  "title": "Return to Play After a Hamstring Strain Injury: It is Time to Consider Natural Healing.",
+  "year": "2021",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Return to play (RTP) criteria after hamstring strain injuries (HSIs) help clinicians in deciding whether an athlete is ready to safely resume previous sport activities. Today, functional and sport-specific training tests are the gold standard in the decision-making process. These criteria lead to an average RTP time between 11 and 25 days after a grade 1 or 2 HSI. However, the high re-injury rates indicate a possible inadequacy of the current RTP criteria. A possible explanation for this could be the neglect of biological healing time. The present review shows that studies indicating time as a possible factor within the RTP-decision are very scarce. However, studies on biological muscle healing showed immature scar tissue and incomplete muscle healing at the average moment of RTP. Twenty-five percent of the re-injuries occur in the first week after RTP and at the exact same location as the index injury. This review supports the statement that functional recovery precedes the biological healing of the muscle. Based on basic science studies on biological muscle healing, we recommend a minimum period of 4 weeks before RTP after a grade 1 or 2 HSI. In conclusion, we advise a comprehensive RTP functional test battery with respect for the natural healing process. Before deciding RTP readiness, clinicians should reflect whether or not it is biologically possible for the injured tissue to have regained enough strength to withstand the sport-specific forces. In an attempt to reduce the detrimental injury-reinjury cycle, it is time to start considering (biological healing) time."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "These criteria lead to an average RTP time between 11 and 25 days after a grade 1 or 2 HSI."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "Based on basic science studies on biological muscle healing, we recommend a minimum period of 4 weeks before RTP after a grade 1 or 2 HSI."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "38296023",
+  "title": "Return to Play and Functional Outcomes Following Treatment of Acute Achilles Tendon Ruptures: A Systematic Review and Meta-Analysis.",
+  "year": "2024",
+  "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Return to play (RTP) and functional outcomes are critical to treatment success for acute Achilles tendon rupture (AATR). This systematic review and meta-analysis explored treatment superiority essential in optimal treatment selection concerning individual patients and their expectations regarding RTP and functional outcomes. This study was in accordance with the preferred reporting items for systematic reviews and meta-analyses guidelines. The included studies were assessed regarding the level and quality of evidence. Fixed-effects models were employed for I<sup>2</sup> < 25% and random-effects models for I<sup>2</sup> ≥ 25%. The RTP rate meta-analysis of surgical vs conservative treatment revealed no significant difference. This was similar to the subgroup analysis of open repair and conservative treatment. The RTP rate and Achilles Tendon Total Rupture Score (ATRS) meta-analysis of open repair + earlier rehabilitation (ER) vs + later rehabilitation (LR) also revealed no significant differences. The mean time to RTP meta-analysis of open repair + ER vs + LR showed that open repair + ER was significantly favored (-4.19 weeks; p = .002). The ATRS meta-analysis of conservative treatment with ER vs with LR revealed no significant difference. This meta-analysis has revealed that the RTP rates following treatment of AATR are high. Therefore, the decision for surgical vs conservative treatment or open repair + ER vs + LR for AATR should not be selected based on the expectation of RTP. However, open repair + ER can be advocated over + LR for reduced mean time to RTP."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean time to RTP meta-analysis of open repair + ER vs + LR showed that open repair + ER was significantly favored (-4.19 weeks; p = .002)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "3661809",
+  "title": "A review of nonoperative treatment of Jones' fracture.",
+  "year": "1987",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sir Robert Jones, in 1902, described a transverse fracture of the proximal diaphysis of the fifth metatarsal, which he treated conservatively with good results. Since that time, classification into acute and chronic categories by several authors has been proposed and most agree with the relatively high incidence of non-union. Controversy exists concerning operative versus nonoperative primary treatment especially in athletes. The purpose of this study was to determine if nonoperative treatment could be used effectively in treating these fractures. A retrospective study of nine patients with 10 Jones' fractures was completed. The cases were categorized as acute or chronic by clinical history and radiographic appearance. The average age was 23.6 years. There were eight males and one female. In this group, competitive athletes sustained chronic fractures, while acute fractures occurred in nonathletes. Treatment consisted of a short leg nonweightbearing cast until radiographic and clinical healing occurred, followed by 6 weeks of limited activity. Mean clinical and radiographic union of chronic fractures was 9.4 weeks; acute fractures, 22 weeks. All competitive athletes returned to their preinjury level of competition at an average of 12 weeks following initiation of treatment. There was one refracture. Our data indicate that nonoperative treatment of early chronic or subacute fractures without intramedullary sclerosis can compare favorably with surgical treatment procedures reported in other studies in returning athletes to play postinjury. We suggest serious consideration be given to the method herein as a form of primary treatment of the early chronic Jones' fracture without intramedullary sclerosis."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Treatment consisted of a short leg nonweightbearing cast until radiographic and clinical healing occurred, followed by 6 weeks of limited activity."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "41957841",
+  "title": "Lower Limb Bone Stress Injuries in Elite Female Cricket Players.",
+  "year": "2026",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To retrospectively review lower limb bone stress injuries in elite female Australian cricket players to improve understanding and explore workload and energy availability as a risk factor."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective case series."
+    },
+    {
+      "label": "SETTING",
+      "text": "National, State, and Territory Cricket teams over 7 seasons (July 2016-June 2023)."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Forty-seven elite Australian female cricket players with a lower limb bone stress injury and 47 matched controls."
+    },
+    {
+      "label": "INDEPENDENT VARIABLES",
+      "text": "Session frequency, volume of high speed running volume, low energy availability."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Bone stress injuries to the lower limb or pelvis, confirmed on imaging (magnetic resonance imaging), that were symptomatic, and time to return to play."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Sixty-eight lower limb bone stress injuries were sustained by 47 players, of which 26 players were pace bowlers. The average incidence was 7.0 injuries per 100 players per season. The tibia (47%) and metatarsals (22%) were most commonly affected. Median days to return to full training/match availability was 107 (interquartile range 59-196). In the 36 weeks preceding injury diagnosis, injured players tended to record less sessions than uninjured controls (independent samples P = 0.012), however, not significant between matched player pairs (P = 0.332). The volume of high speed running and total scores for low energy availability were not different between injured and uninjured players (paired P = 0.943, P = 0.900, respectively)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Elite female cricket players are susceptible to lower limb bone stress injuries, particularly pace bowlers. Workload and low energy availability are not clear risk factors in isolation."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

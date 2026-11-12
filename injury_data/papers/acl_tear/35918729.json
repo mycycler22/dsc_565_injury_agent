@@ -1,0 +1,31 @@
+{
+  "pmid": "35918729",
+  "title": "Reactive strength index during single-limb vertical continuous jumps after anterior cruciate ligament reconstruction: cross-sectional study.",
+  "year": "2022",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The association of the reactive strength index (RSI) during single-limb vertical continuous jumps (SVCJs) with single-limb hop tests in athletes after anterior cruciate ligament reconstruction (ACLR) is unclear. Thus, this study aimed to confirm the measurement properties of the RSI during SVCJs in athletes with ACLR at the phase of determining the timing of their return to sport."
+    },
+    {
+      "label": "METHODS",
+      "text": "RSI during SVCJs and single-limb hop (single, triple, and crossover) tests were measured for post-ACLR and healthy athletes. The limb symmetry index (LSI) was calculated using the measurements of each parameter. For each test, patients were divided into two subgroups according to their LSI score (≥ 90%, satisfactory; < 90%, unsatisfactory). Fisher's exact test was used to examine the association of single-limb hop tests with RSI during the SVCJs."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 21 post-ACLR and 17 healthy athletes completed all the tests. RSI during SVCJs was significantly lower on the involved limb than on the uninvolved limb in post-ACLR athletes (P < 0.001). The LSI of RSI during SVCJs of post-ACLR athletes was significantly lower than that of the healthy athletes (P < 0.01). Among the post-ACLR athletes, < 30% of those with LSIs > 90% in the single-limb hop tests had an LSI > 90% of the RSI during SVCJs."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "RSI during SVCJs of post-ACLR athletes was significantly lower on the involved limb than on the uninvolved limb, and the asymmetry was more remarkable in the SVCJs than in the single-limb hop tests."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

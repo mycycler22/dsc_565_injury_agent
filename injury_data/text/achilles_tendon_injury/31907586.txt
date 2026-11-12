@@ -1,0 +1,4 @@
+Title: Epidemiology of Achilles tendon injuries in collegiate level athletes in the United States. | Type: Comparative Study, Journal Article | PMID: 31907586 | Year: 2020 | Injury query: Achilles tendon injury
+[RESULTS] N = 52 injuries were classified as severe injuries which have higher median time loss (48 days) and higher operative rate (65.4%).
+[RESULTS] For severe Achilles injuries, female athletes had higher operative (77.8% vs. 58.8%) and higher time loss compared to male athletes (96 days vs. 48 days).
+[CONCLUSION] About 73.1% were season-ending injuries, and the remaining athletes have a median time loss of 48 days.

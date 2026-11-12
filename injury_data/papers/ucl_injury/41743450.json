@@ -1,0 +1,39 @@
+{
+  "pmid": "41743450",
+  "title": "Effect of Ulnar Collateral Ligament Reconstruction on Off-Speed Pitch Performance in Major League Baseball Pitchers.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) reconstruction (UCLR) is commonly performed in Major League Baseball (MLB) pitchers, and there remain limited data on off-speed pitch performance in those that return to play after reconstruction."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to evaluate the effect of primary UCLR on curveball (CB) and change-up (CU) pitch performance in terms of velocity along with novel pitching metrics including spin rate, hard-hit rate, and whiff rate. It was hypothesized that post-UCLR off-speed pitch spin rates, velocity, and whiff rate would decrease significantly compared with pre-UCLR levels, while hard-hit rates would increase."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Pitchers who underwent UCLR and returned to MLB level of play were identified from public records from 2016 to 2019. The Statcast system was used to collect spin rate, velocity, hard-hit, and whiff rate data for CB and CU pitches for preinjury seasons, as well as the first 2 seasons after return from UCLR. A matched-pair analysis was performed by matching each pitcher to an uninjured healthy pitcher from the same draft class and round."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 29 pitchers met inclusion criteria and threw the pitches of interest. There were no statistically significant changes in CB or CU mean spin rate, pitch velocity, hard-hit rate, or whiff rate when comparing preinjury levels with the first and second seasons played after reconstruction. There were no significant differences in any pitching metrics when comparing the UCLR cohort with the healthy matched-pair cohort. The mean total number of CU pitches significantly decreased in the first season after UCLR (154.0 vs 67.9; <i>P</i> = .04) and compared with the matched-pair cohort at 1 year (67.9 vs 233.2; <i>P</i> = .001). Pitchers also threw fewer total pitches in the first season after returning from UCLR compared with preinjury baselines and healthy matched pairs."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The results of this study demonstrate that pitchers who undergo UCLR and return to the MLB level can expect similar off-speed pitch performance in comparison with their preinjury levels and with pitchers without UCL injury."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

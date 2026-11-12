@@ -1,0 +1,36 @@
+{
+  "pmid": "41477109",
+  "title": "Bridge Enhanced ACL Repair (BEAR) versus Bone Patella Tendon Bone (BPTB) ACL reconstruction among young athletes: A systematic review and meta-analysis.",
+  "year": "2026",
+  "journal": "Journal of orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Anterior cruciate ligament (ACL) tears are among the leading causes of injuries among young athletes and are traditionally treated with surgical intervention. Recently, the Bridge Enhanced ACL Restoration (BEAR) procedure has gained popularity among surgeons as an alternative to ACL reconstruction (ACLR). Previously, BEAR has been compared to hamstring ACLR; however, little has been reported in comparison to bone-patella-tendon-bone (BPTB) ACLR, auto-, and allograft."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine differences in the International Knee Documentation Committee (IKDC) scores of patients undergoing the BEAR procedure compared to BPTB for ACL tears."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive search was conducted utilizing PRISMA 2020 guidelines. The search yielded 261 studies. Using Rayyan.ai, after the initial inclusion and exclusion, 14 studies underwent a full-text review. Inclusion criteria were randomized clinical trials for patients receiving either BEAR or BPTB with IKDC scores at 12- and 24-months. Statistical analysis was performed for random-effects meta-analysis using SPSS for the extracted IKDC scores."
+    },
+    {
+      "label": "RESULTS",
+      "text": "5 studies were included in the meta-analysis. At 12 months, comparison of BEAR (Cohen's d = 3.14) and BPTB (Cohen's d = 2.68) demonstrated no statistical difference. BEAR was found to have a higher clinical significance with an effect size difference of 0.48. A 24-month analysis yielded no clinical or statistical significance for BEAR (Cohen's d = 3.56) compared to BPTB (Cohen's d = 3.39)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Both BEAR and BPTB ACLR seemed to obtain comparable IKDC scores for addressing ACL injuries at 12- and 24-months post-procedure."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "39943472",
+  "title": "Adaptive Exoskeleton Device for Stress Reduction in the Ankle Joint Orthosis.",
+  "year": "2025",
+  "journal": "Sensors (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Treating ankle fractures in athletes, commonly resulting from training injuries, remains a significant challenge. Current approaches to managing both non-surgical and postoperative foot and ankle disorders have focused on integrating sensory systems into orthotic devices. Recent analyses have identified several gaps in rehabilitation strategies, especially regarding gait pattern reformation during recovery. This work aims to enhance rehabilitation effectiveness for patients with ankle injuries by controlling load distribution and monitoring joint flexion/extension angles, as well as the reactive forces during therapeutic exercises and walking. We developed an exoskeleton device model using SolidWorks 2024 software, based on data from two patients: one healthy and one with an ankle fracture. Pressure measurements in the posterior limb region were taken using the F-Socket system and a custom electromechanical sensor designed by the authors. The collected data were analyzed using the butterfly parameterization method. This research led to the development of an adaptive exoskeleton device that provided pressure distribution data, gait cycle graphs, and a diagram correlating foot angles with the duration of exoskeleton use. The device demonstrated improvement in the patients' conditions, facilitating a more normalized gait pattern. A reduction in the load applied to the ankle joint was also observed, with the butterfly parameter confirming the device's correct operation."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

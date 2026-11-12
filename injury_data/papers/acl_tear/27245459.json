@@ -1,0 +1,43 @@
+{
+  "pmid": "27245459",
+  "title": "The Intracellular Effect of Relaxin on Female Anterior Cruciate Ligament Cells.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Female collegiate athletes with serum relaxin concentrations above 6.0 pg/mL have been shown to have more than 4 times increased risk for anterior cruciate ligament (ACL) tears. However, the intracellular effect of relaxin on ACL cells has not been elucidated."
+    },
+    {
+      "label": "HYPOTHESES",
+      "text": "The hypotheses were that relaxin binding to receptors on female ACL cells will result in (1) an increase in matrix metalloproteinase (MMP) and decrease in tissue inhibitor of metalloproteinase (TIMP) gene expression, (2) a decrease in collagen and alpha smooth muscle actin (αSMA) expression, (3) inhibition of transforming growth factor β1 (TGFβ1)-induced fibrosis, and (4) an increase in cyclic adenosine 3',5'-monophosphate (cAMP) production and that these changes will not be observed in male ACL cells."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ligament cells from ACL tissue were isolated from 7 male and 7 female human donors and expanded in vitro. The cells were incubated with escalating concentrations of relaxin-2, as well as with TGFβ1 or 17β-estradiol in certain groups. Cells were then lysed and analyzed for MMP1 (collagenase-1), MMP3 (stromelysin-1), MMP13 (collagenase-3), TIMP1, type I collagen, type III collagen, and/or αSMA mRNA expression using quantitative real-time polymerase chain reaction. Intracellular cAMP levels were assessed via an enzyme-linked immunoassay."
+    },
+    {
+      "label": "RESULTS",
+      "text": "ACL cells primed with estrogen and treated with 10 ng/mL and 100 ng/mL relaxin illustrated increased MMP1 expression (P = .012 and .006, respectively) and MMP3 expression (P = .005 and .001, respectively). Treatment with 100 ng/mL relaxin decreased αSMA expression (P = .001). When ACL tissue isolated from female donors with a history of oral contraceptive use was excluded from the analysis, 100 ng/mL of relaxin decreased type I collagen (P = .005) and type III collagen (P = .028) expression in cells primed with estrogen. Relaxin exhibited no significant effect on male-derived ACL cells."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Relaxin-2 significantly upregulated intracellular processes in human female ACL cells, but no effect was observed in male cells. Relaxin increased MMP (MMP1 and MMP3) and decreased αSMA and type I and III collagen expression, which may act to alter the structural integrity of the ACL tissue over time."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Female athletes with higher circulating relaxin levels may be more susceptible to ACL injury."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "25453930",
+  "title": "Percutaneous Tenolig(®) repair under intra-operative ultrasonography guidance in acute Achilles tendon rupture.",
+  "year": "2014",
+  "journal": "Orthopaedics & traumatology, surgery & research : OTSR",
+  "pub_types": [
+    "Evaluation Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute Achilles tendon rupture can be treated conservatively or surgically. Open surgery restores tendon continuity but carries a risk of skin complications. Tenolig(®) is a device designed for the percutaneous biological treatment of acute Achilles tendon rupture. Earlier studies found high rates of recurrent tears and nerve injury after Tenolig(®) repair."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "We hypothesised that intra-operative ultrasonography during Tenolig(®) repair would decrease the post-operative complication rate and improve functional outcomes."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "We studied 75 consecutive patients with a mean age of 39.9 years. The injury was sports-related in 82.8% of cases. Mean distance from the calcaneal tendon attachment to the tear was 5cm and mean time from injury to repair was 4.2 days. All patients underwent Tenolig(®) repair under ultrasound guidance followed by early rehabilitation therapy with partial weight bearing started after 3 weeks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Mean follow-up was 20.7 months and no patient was lost to follow-up. A single patient (1.3%) experienced rerupture and none had permanent sural nerve damage. Mean time to sports resumption was 8.6 months, with two-thirds of patients returning to their previous level of sporting activities. The mean AOFAS functional score was 95 and the mean ATRS score was 91.3."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Our experience suggests that intra-operative ultrasonography, a non-invasive, widely available, and accurate tool, provided improved control of Tenolig(®) suture position. Ultrasonography provided valuable guidance during this demanding procedure and allowed the very early initiation of rehabilitation therapy. Another crucial factor is patient education about the physical therapy programme. Attention to this point allowed us to obtain robust and reliable functional outcomes in a population predominantly composed of athletes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mean time to sports resumption was 8.6 months, with two-thirds of patients returning to their previous level of sporting activities."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

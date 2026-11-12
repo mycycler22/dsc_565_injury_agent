@@ -1,0 +1,40 @@
+{
+  "pmid": "36793564",
+  "title": "Examining the Peer-Reviewed Published Literature Regarding Low Back Pain in Rowing: A Scoping Review.",
+  "year": "2023",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Low back pain (LBP) is highly prevalent in the rowing population. The body of existing research variously investigates risk factors, prevention, and treatment methods."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this scoping review was to explore the breadth and depth of the LBP literature in rowing and to identify areas for future research."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Scoping review."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed, Ebsco and ScienceDirect were searched from inception to November 1, 2020. Only published, peer-reviewed, primary, and secondary data pertaining to LBP in rowing were included for this study. Arksey and O'Malley's framework for guided data synthesis was used. Reporting quality of a subsection of the data was assessed using the STROBE tool."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Following the removal of duplicates and abstract screening, a set of 78 studies were included and divided into the following categories: epidemiology, biomechanics, biopsychosocial, and miscellaneous. The incidence and prevalence of LBP in rowers were well mapped. The biomechanical literature covered a wide range of investigations with limited cohesion. Significant risk factors for LBP in rowers included back pain history and prolonged ergometer use."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A lack of consistent definitions within the studies caused fragmentation of the literature. There was good evidence for prolonged ergometer use and history of LBP to constitute risk factors and this may assist future LBP preventative action. Methodological issues such as small sample size and barriers to injury reporting increased heterogeneity and decreased data quality. Further exploration is required to determine the mechanism of LBP in rowers through research with larger samples."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

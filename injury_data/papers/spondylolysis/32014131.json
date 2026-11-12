@@ -1,0 +1,20 @@
+{
+  "pmid": "32014131",
+  "title": "Back Injuries.",
+  "year": "2020",
+  "journal": "Primary care",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "When searching for evidence-based answers about treating athletes with low back injury/pain, there are some difficulties. The first is defining who is an athlete. The second problem is that the lifetime prevalence of low back pain in the general population in our country approaches 100. Last, most studies published only deal with a narrow population of athletes, often performing very different types of physical activity. We searched the literature for studies that specifically evaluated athletes longitudinally. This article reviews the demographics, diagnostic challenges, history and physical examination, imaging choices, treatment, and controversies encountered when treating this population."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

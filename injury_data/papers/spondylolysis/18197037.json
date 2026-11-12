@@ -1,0 +1,28 @@
+{
+  "pmid": "18197037",
+  "title": "Adolescent back pain.",
+  "year": "2008",
+  "journal": "Current opinion in pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Adolescent back pain poses a distinct diagnostic challenge to the physician due to skeletal maturity and activity levels seen in adolescent patients. The purpose of this review is to focus on the musculoskeletal causes of adolescent back pain and to review the current literature on the etiology, diagnosis and treatment options."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Etiologies of adolescent back pain include a vast differential diagnosis, including traumatic, morphologic, infectious and neoplastic etiologies. Recent literature has focused on spondylolysis, back pack-related pain, disc herniations and back pain in adolescent athletes. Recent anatomic studies have demonstrated a distinct morphology to spondylytic spines attributing the etiology of spondylolysis in part to morphologic predispositions."
+    },
+    {
+      "label": "SUMMARY",
+      "text": "Increasing numbers of active adolescents will lead to increasing complaints of back pain seen by the primary care physician. Recent epidemiological studies have suggested a correlation between adolescent back pain and adult-onset back pain. A systematic approach to the adolescent with back pain is for arriving at a clear diagnosis and guiding appropriate treatments."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

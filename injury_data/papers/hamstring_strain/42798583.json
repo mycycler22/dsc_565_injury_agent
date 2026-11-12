@@ -1,0 +1,20 @@
+{
+  "pmid": "42798583",
+  "title": "Residual imaging abnormalities after acute hamstring strain injury: implications for return-to-sport decision-making.",
+  "year": "2026",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strain injuries remain a major cause of time loss and recurrent injury in sprint- and kicking-based sports. MRI and ultrasound are frequently used to confirm diagnosis, characterize anatomical severity, and support prognosis. At the return-to-play (RTP) stage, however, their value is less certain. Persistent imaging abnormalities may reflect incomplete healing, expected remodeling, or potentially relevant structural concerns. Available evidence, derived largely from a limited number of partly overlapping cohorts and predominantly nonoperatively managed non-complete tears, shows that residual edema-like signal, low-signal fibrosis, and persistent intramuscular tendon abnormalities are common at clinical recovery and do not by themselves establish unsafe RTP. Conversely, persistent or new connective tissue gaps and intermuscular edema have shown exploratory associations with reinjury, but these signals arise mainly from small cohorts and have not been independently validated as stand-alone clearance criteria. Evidence for ultrasound at RTP is especially limited; its principal role is targeted, standardized serial assessment of accessible lesions, whereas MRI better characterizes deep and tendon-related anatomy. Imaging should therefore modify rather than dictate RTP decisions and should be integrated with pain response, flexibility, strength, high-speed running exposure, sport-specific performance, previous injury, and psychological readiness. Current evidence does not establish that MRI or ultrasound can reliably distinguish incomplete healing from safe RTP in isolation. Prospective sport-specific studies should test the incremental value of imaging beyond clinical and functional models."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

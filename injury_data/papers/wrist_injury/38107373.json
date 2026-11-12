@@ -1,0 +1,35 @@
+{
+  "pmid": "38107373",
+  "title": "Strains/Sprains and Fractures Are the Most Common Hand and Wrist Injuries in National Basketball Association Athletes Who Return to Preinjury Player Efficiency and Equal or Greater True Shooting Percentage Within Two Years of Injury.",
+  "year": "2023",
+  "journal": "Arthroscopy, sports medicine, and rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To characterize the prevalence and incidence of in-game hand and wrist injuries in the National Basketball Association (NBA), to determine the factors associated with an equal or greater player efficiency rating (PER), and to determine the factors associated with an equal or greater true shooting percentage (TS%) 2 years after a hand and wrist injury using a large-scale national database of NBA players."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injury data from seasons 2015-2016 to 2020-2021, with exclusion of the 2019-2020 because of abbreviated play due to the coronavirus disease 2019, were extracted from a public online database, Pro Sports Transactions. Injury characteristics and NBA player demographic information were assessed using descriptive statistics. Poisson logistic regression analyses were performed to identify risk factors associated with equal or increased PER and TS% 2years after injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 214 reported hand and wrist injuries, and of these injuries, 173 (81%) were classified as structural. The most common injury types were a strain or sprain (0.63 per 1,000 game exposures), followed by fractures (0.37 per 1,000 game exposures). Older age (relative risk [RR] 0.89; 95% confidence interval [CI] 0.84-0.95) and more years played in the NBA were modestly associated with relative risk of having a decreased PER at 2 years after injury. Increased weight (RR 1.02; 95% CI 1-1.05) and increased body mass index (RR 1.14; 95% CI 1.01-1.29) were also modestly associated with having a decreased PER and TS%, respectively at 2 years after injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Strains/sprains and fractures are the most common hand and wrist injuries sustained by NBA players. Regardless of dominant or nondominant hand and wrist injuries, NBA players are likely to return to baseline overall player efficiency based on PER and TS% within 2 years of injury."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Our study characterizes hand and wrist injuries of NBA players and provides an understanding for these injuries on player performance at 2 years."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

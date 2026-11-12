@@ -1,0 +1,39 @@
+{
+  "pmid": "41244227",
+  "title": "Risk Factors for Shoulder Pain, Injury, and Dysfunction in Volleyball Athletes: A Prospective Cohort Study.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Risk factors for injury to the thrower's shoulder remain a controversial topic."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To prospectively investigate the relationship between risk factors and the outcomes of pain, injury, and dysfunction in the dominant shoulder of volleyball athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Professional and masters-level athletes were followed for 8 months. All participants underwent physical examination, goniometry, dynamometry, and ultrasound. Injured athletes underwent magnetic resonance imaging. We analyzed the association of 15 risk factors with shoulder pain, injury, and dysfunction. Pain was defined as any score >0 on a 10-point visual analog scale. Injury was defined as any event causing an absence of ≥1 day from volleyball activities. An American Shoulder and Elbow Surgeons (ASES) score below 100 was considered dysfunction."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 95 athletes were analyzed. The incidence rates of shoulder pain, injury, and dysfunction were 52.6%, 38.9%, and 47.3%, respectively. The most common injuries were subacromial bursitis (94%), superior labrum from anterior to posterior lesions (73%), and acromioclavicular joint arthritis (62%). Age, sex, glenohumeral internal rotation deficit, total range of motion, insufficient external rotation, category, player position, years of volleyball experience, and training and game overload were not significantly associated with the outcomes. Athletes with scapular dyskinesis had 4.2-fold increased odds of pain (95% CI, 1.7-10.4; <i>P</i> = .001), 3.5-fold increased odds of injury (95% CI, 1.3-9.2; <i>P</i> = .001), and lower ASES scores (<i>P</i> = .003). Those with a history of shoulder injury had 25.3-fold increased odds of pain (95% CI, 8.15-78.7; <i>P</i> < .001), 606-fold increased odds of reinjury (95% CI, 33.1-11085; <i>P</i> < .001), and lower ASES scores (<i>P</i> < .001). Athletes with strength imbalance at 90°/90° had 2.6-fold increased odds of injury (95% CI, 1.1-6.0; <i>P</i> = .03). Starters had 2.7-fold increased odds of injury (95% CI, 1.0-7.0; <i>P</i>=0.032) and lower ASES scores (<i>P</i> = .01). Decreased humeral retroversion was a protective factor against injury (OR, 0.2; 95% CI, 0.1-1.0; <i>P</i> = .03)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Scapular dyskinesis and a history of shoulder injury are risk factors for shoulder pain, injury, and dysfunction. Being a starter is a risk factor for injury and dysfunction. Strength imbalance is a risk factor for injury. Decreased humeral retroversion is a protective factor against injury."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

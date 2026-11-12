@@ -1,0 +1,45 @@
+{
+  "pmid": "21624671",
+  "title": "Treatment of athletes with symptomatic intra-articular hip pathology and athletic pubalgia/sports hernia: a case series.",
+  "year": "2011",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of the study was to evaluate the results of surgical treatment in athletes with associated intra-articular hip pathology and extra-articular sports pubalgia."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between December 2003 and September 2009, 37 hips (mean patient age, 25 years) were diagnosed with both symptomatic athletic pubalgia and symptomatic intra-articular hip joint pathology. There were 8 professional athletes, 15 collegiate athletes, 5 elite high school athletes, and 9 competitive club athletes. Outcomes included an evaluation regarding return to sports and modified Harris Hip Score, Short Form 12 score, and visual analog scale score."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We evaluated 37 hips at a mean of 29 months (range, 12 to 78 months) after the index surgery. Thirty-one hips underwent thirty-five athletic pubalgia surgeries. Hip arthroscopy was performed in 32 hips (30 cases of femoroacetabular impingement treatment, 1 traumatic labral tear, and 1 borderline dysplasia). Of 16 hips that had athletic pubalgia surgery as the index procedure, 4 (25%) returned to sports without limitations, and 11 (69%) subsequently had hip arthroscopy at a mean of 20 months after pubalgia surgery. Of 8 hips managed initially with hip arthroscopy alone, 4 (50%) returned to sports without limitations, and 3 (43%) had subsequent pubalgia surgery at a mean of 6 months after hip arthroscopy. Thirteen hips had athletic pubalgia surgery and hip arthroscopy at one setting. Concurrent or eventual surgical treatment of both disorders led to improved postoperative outcomes scores (P < .05) and an unrestricted return to sporting activity in 89% of hips (24 of 27)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "When surgery only addressed either the athletic pubalgia or intra-articular hip pathology in this patient population, outcomes were suboptimal. Surgical management of both disorders concurrently or in a staged manner led to improved postoperative outcomes scoring and an unrestricted return to sporting activity in 89% of hips."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, therapeutic case series."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Of 16 hips that had athletic pubalgia surgery as the index procedure, 4 (25%) returned to sports without limitations, and 11 (69%) subsequently had hip arthroscopy at a mean of 20 months after pubalgia surgery."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Of 8 hips managed initially with hip arthroscopy alone, 4 (50%) returned to sports without limitations, and 3 (43%) had subsequent pubalgia surgery at a mean of 6 months after hip arthroscopy."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

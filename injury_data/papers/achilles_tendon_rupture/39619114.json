@@ -1,0 +1,35 @@
+{
+  "pmid": "39619114",
+  "title": "Achilles Tendon Ruptures in National Hockey League Players: Return to Sport and Performance Impact.",
+  "year": "2024",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Few studies assess rates of return to play and postinjury performance in National Hockey League (NHL) players who sustain Achilles tendon ruptures. Our objective was to determine the rate of return to play and performance impact among NHL players who undergo surgical repair of Achilles tendon tears."
+    },
+    {
+      "label": "METHODS",
+      "text": "NHL players who sustained an Achilles tendon rupture between 2001 and 2021 were identified using a publicly available injury database. Demographic and outcome data were collected for the 1-year period preceding and the 2-year period following surgery. Our primary outcome was expected wins above replacement per 60 minutes played. A position, draft year, and index season performance matched cohort was created. Pre- and postinjury outcomes were compared between cases and controls with a paired <i>t</i> test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We identified 15 cases (9 forwards, 5 defencemen, 1 goaltender). Fourteen of 15 (93%) players returned to play. Preinjury, postinjury year 1, and postinjury year 2 expected wins above replacement were 0.05, 0.05, 0.05 respectively (<i>P</i> > .05). There was no significant difference in performance between cases and controls at any time point."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Achilles tendon tears are associated with a high rate of return to play in the NHL and are not associated with a significant change in offensive, defensive, or overall performance-based metrics."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, case-control study."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

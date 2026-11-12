@@ -1,0 +1,35 @@
+{
+  "pmid": "38510157",
+  "title": "Comparing the immediate effects of different neural mobilization exercises on hamstring flexibility in recreational soccer players.",
+  "year": "2024",
+  "journal": "Hong Kong physiotherapy journal : official publication of the Hong Kong Physiotherapy Association Limited = Wu li chih liao",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries remain a challenge for both athletes and clinicians given the high incidence rate, slow healing, and persistent symptoms. Increased tension in the neural structures is a known causative factor for hamstring tightness for which neural mobilization has emerged as a significant adjunct to routine stretching techniques."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare the short-term effects of neural sliding and neural tensioning on hamstring length in male recreational soccer players with hamstring tightness."
+    },
+    {
+      "label": "METHODS",
+      "text": "Sixty-two participants between ages 18 and 30 years were randomly assigned to one of the two groups viz. neural sliding or neural tensioning. Participants in either group performed the given stretching protocol in three sets. The Active Knee Extension Test (AKET) and Sit and Reach Test (SRT) were recorded before intervention, immediately after intervention, and after 60 min. between- and within group-analysis was done using analysis of variance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between-group analysis showed that neural tensioning was more effective than neural sliding in improving hamstring length on both measures, however this difference was negligible. Within-group analysis demonstrated that the mean post-test scores on the AKET test and SRT were significantly greater than the pre-test scores in both groups (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo><</mo><mn>0</mn><mo>.</mo><mn>05</mn></math>). A reduction in the post-test scores was observed after 60 min, irrespective of the type of stretching (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mo><</mo><mn>0</mn><mo>.</mo><mn>05</mn></math>)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There was no difference in short-term effects of neural sliding or neural tensioning on hamstring flexibility in male recreational soccer players. Both groups showed improved flexibility immediately after the intervention with reduction in the effect after 60 min."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

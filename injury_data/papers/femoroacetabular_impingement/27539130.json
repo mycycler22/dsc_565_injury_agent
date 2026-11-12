@@ -1,0 +1,36 @@
+{
+  "pmid": "27539130",
+  "title": "Return-to-play rates following arthroscopic treatment of femoroacetabular impingement in competitive baseball players.",
+  "year": "2016",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Femoroacetabular impingement (FAI) has been increasingly recognized in cutting sports including soccer, hockey and football. More recently, the prevalence among overhead athletes has also been recognized. The purpose of this study was to review impingement patterns, return-to-play rates and clinical outcome following arthroscopic treatment of FAI among high-level baseball players."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between 2010 and 2014, 70 competitive baseball players (86 hips; age 22.4 ± 4.5 years) were identified. Demographics and return-to-play rates were recorded. Patient-reported outcome scores, including the Modified Harris Hip Score (mHHS), the Hip Outcome Score-Activity of Daily Living (HOS-ADL), the Sport-specific Subscale (HOS-SSS), and the International Hip Outcome Tool (iHOT-33), were collected pre-operatively at 6 months and 1year (n = 34, 49% of cohort)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The cohort included professional (27.1%), college (57.1%), high-school (8.6%) and club-team athletes (7.1%). Infielder (37.5%), pitcher (22.9%) and catcher (16.7%) were the most common positions. Average follow-up was 16.8 months (range 12.1-34.2). There was no relationship between playing position and impingement pattern (p ≥ 0.459), or between symptom laterality and handedness, batting position or playing position (p ≥ 0.179). One patient required revision surgery (infection). Return to sport rate was 88%, at a mean of 8.6 ± 4.2 months, with 97.7% returning at/above their pre-injury level of play. There was significant improvement in all outcome measures: mHHS (60.1 ± 11.9 to 93 ± 9.5), HOS-ADL (71.3 ± 16.7 to 96.3 ± 3.6), HOS-SSS (51.3 ± 24.8 to 92.3 ± 8.2) and iHOT-33 (40.7 ± 19.9 to 85.9 ± 14) (p < 0.001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic treatment of FAI in competitive baseball players resulted in high return-to-play rates at short-term follow-up, with significant improvements in clinical outcome scores."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Return to sport rate was 88%, at a mean of 8.6 ± 4.2 months, with 97.7% returning at/above their pre-injury level of play."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

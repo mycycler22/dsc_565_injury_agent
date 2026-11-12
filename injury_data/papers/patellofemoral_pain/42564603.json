@@ -1,0 +1,47 @@
+{
+  "pmid": "42564603",
+  "title": "Bilateral Femoral Cartilage Morphology in Athletes With Unilateral Patellofemoral Pain: Associations With Pain Severity and Self-Reported Function.",
+  "year": "2026",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Under the high physical demands of sports, patellofemoral pain (PFP) in 1 knee may be associated with bilateral alterations in femoral cartilage morphology and quality. However, at the time of this study, no one had investigated bilateral femoral cartilage profiles in athletes with unilateral PFP."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To (1) compare quantitative and qualitative measures of bilateral femoral cartilage between athletes with unilateral PFP and pain-free athletes and (2) examine the associations of pain severity and self-reported function with femoral cartilage profiles in athletes with PFP."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Laboratory."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "A total of 132 knees in 66 athletes, including 33 athletes with unilateral PFP (median [interquartile range (IQR)] age = 20.0 years [20.0-22.0 years], height = 175.6 ± 9.5 cm, median [IQR] mass = 74.0 kg [63.5-83.0 kg]) and 33 pain-free athletes (median [IQR] age = 20.0 years [19.0-21.0 years], height = 174.5 ± 10.7 cm, median [IQR] mass = 67.0 kg [60.5-77.5 kg])."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Pain severity (visual analog scale) and self-reported function (Knee Injury and Osteoarthritis Outcome Score) were obtained. Quantitative ultrasonographic measures of femoral cartilage-cross-sectional area (CSA) and thickness (medial condyle, intercondylar, and lateral condyle)-were evaluated. Femoral cartilage ultrasonography images were assessed qualitatively using a previously validated grading scheme."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Compared with pain-free athletes, athletes with unilateral PFP exhibited bilaterally smaller CSA (89.96 versus 81.35 mm<sup>2</sup>; <i>F</i> <sub>1,64</sub> = 4.47, <i>P</i> = .04), medial condyle thickness (2.46 versus 1.97 mm; <i>F</i> <sub>1,64</sub> = 13.69, <i>P</i> < .001), intercondylar thickness (2.56 versus 2.27 mm; <i>F</i> <sub>1,64</sub> = 4.65, <i>P</i> = .04), and lateral condyle thickness (2.46 versus 2.15 mm; <i>F</i> <sub>1,64</sub> = 8.37, <i>P</i> = .005); however, no differences were observed in ultrasonographic grading. Higher pain severity, but not self-reported function, was associated with smaller bilateral femoral cartilage CSA and thickness in athletes with PFP (ρ range, -0.487 to -0.356; <i>P</i> < .05). Hierarchical regression revealed that pain intensity uniquely explained 11% to 23% of the variance in bilateral femoral cartilage CSA and thickness (Δ<i>F</i> range, 4.96-9.93; <i>P</i> < .05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes with unilateral PFP may experience bilaterally smaller femoral cartilage morphology than pain-free athletes. Higher pain severity in 1 knee appeared to be associated with smaller femoral cartilage CSA and thickness across both limbs, underscoring the importance of bilateral evaluation and management in athletes with PFP."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "41957767",
+  "title": "Morphology-based classification program of Achilles tendon ruptures using magnetic resonance imaging: a mapping study.",
+  "year": "2026",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "BACKGROUND: Achilles tendon rupture (ATR) is a common and disabling injury, especially among athletes, and typically requires surgical intervention for optimal recovery. The assessment of tendon stump morphology, traditionally reliant on two-dimensional ultrasound imaging, can be limited in its accuracy and fails to provide a comprehensive understanding of tendon shape and structure, which impedes surgical planning (minimally invasive versus open surgery). While magnetic resonance imaging (MRI) offers more detailed and three-dimensional visualization, no standardized classification system has been established based on MRI for guiding clinical treatment decisions. METHODS: This retrospective observational study was conducted between 2020 and 2023. We analyzed the records of 1,525 patients diagnosed with ATRs. After excluding patients without MRI or those whose scans did not meet our high-resolution criteria, 262 patients were included. MRI scans were independently reviewed by two musculoskeletal radiologists and two orthopedic surgeons, with discrepancies resolved by consensus, to generate three-dimensional models of the tendon rupture morphology. Boundary lines of the ruptured tendons were extracted and processed in the coronal and sagittal planes. Based on this detailed mapping, a novel classification system was developed and assessed for inter- and intra-rater reliability, and surgical procedures were analyzed in relation to tendon stump morphology. RESULTS: MRI was successfully utilized to assess the morphology of ATR tendon stumps, revealing detailed three-dimensional mapping that revealed consistent patterns in tendon shape and location. The mapping led to the proposal of a novel classification system, which categorizes tendon stumps into four types: Type A (neat, 9.2%), Type B (partially neat, 68.7%), Type C (irregular, 20.2%), and Type D (insertion, 1.9%). The classification demonstrated substantial inter- and intraobserver reliability (mean Cohen’s kappa = 0.846 and 0.847, respectively). Surgical approaches are tailored based on these classifications, with minimally invasive surgery preferred for neat or partially neat stumps (Type A and Type B), and open repair for irregular stumps (Type C and Type D), with anchor devices used to reattach the tendon to the calcaneus (Type D). CONCLUSION: This study is the first to systematically map the location and morphology of Achilles tendon stumps via magnetic resonance imaging. Based on these findings, we proposed a reproducible classification system, although prospective validation against surgical and functional outcomes is still required."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

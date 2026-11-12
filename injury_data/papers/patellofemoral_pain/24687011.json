@@ -1,0 +1,36 @@
+{
+  "pmid": "24687011",
+  "title": "High knee abduction moments are common risk factors for patellofemoral pain (PFP) and anterior cruciate ligament (ACL) injury in girls: is PFP itself a predictor for subsequent ACL injury?",
+  "year": "2015",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Identifying risk factors for knee pain and anterior cruciate ligament (ACL) injury can be an important step in the injury prevention cycle."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "We evaluated two unique prospective cohorts with similar populations and methodologies to compare the incidence rates and risk factors associated with patellofemoral pain (PFP) and ACL injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "The 'PFP cohort' consisted of 240 middle and high school female athletes. They were evaluated by a physician and underwent anthropometric assessment, strength testing and three-dimensional landing biomechanical analyses prior to their basketball season. 145 of these athletes met inclusion for surveillance of incident (new) PFP by certified athletic trainers during their competitive season. The 'ACL cohort' included 205 high school female volleyball, soccer and basketball athletes who underwent the same anthropometric, strength and biomechanical assessment prior to their competitive season and were subsequently followed up for incidence of ACL injury. A one-way analysis of variance was used to evaluate potential group (incident PFP vs ACL injured) differences in anthropometrics, strength and landing biomechanics. Knee abduction moment (KAM) cut-scores that provided the maximal sensitivity and specificity for prediction of PFP or ACL injury risk were also compared between the cohorts."
+    },
+    {
+      "label": "RESULTS",
+      "text": "KAM during landing above 15.4 Nm was associated with a 6.8% risk to develop PFP compared to a 2.9% risk if below the PFP risk threshold in our sample. Likewise, a KAM above 25.3 Nm was associated with a 6.8% risk for subsequent ACL injury compared to a 0.4% risk if below the established ACL risk threshold. The ACL-injured athletes initiated landing with a greater knee abduction angle and a reduced hamstrings-to-quadriceps strength ratio relative to the incident PFP group. Also, when comparing across cohorts, the athletes who suffered ACL injury also had lower hamstring/quadriceps ratio than the players in the PFP sample (p<0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In adolescent girls aged 13.3 years, >15 Nm of knee abduction load during landing is associated with greater likelihood of developing PFP. Also, in girls aged 16.1 years who land with >25 Nm of knee abduction load during landing are at increased risk for both PFP and ACL injury."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

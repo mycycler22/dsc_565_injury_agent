@@ -1,0 +1,32 @@
+{
+  "pmid": "42573533",
+  "title": "Clinical practice on treatment of primary traumatic anterior shoulder dislocation: a multidisciplinary guideline.",
+  "year": "2026",
+  "journal": "Acta orthopaedica",
+  "pub_types": [
+    "Journal Article",
+    "Practice Guideline"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND PURPOSE",
+      "text": " Primary traumatic anterior shoulder dislocations are common and can have long-term personal implications for quality of life and the use of the arm for occupational activities and sport participation. A patient care pathway has been reported to contribute to improved quality of care and a reduction in re-dislocations. We developed clinical practice guidelines intended to provide healthcare professionals with an updated pathway for the optimal diagnosis and management of traumatic primary anterior shoulder dislocations."
+    },
+    {
+      "label": "METHODS",
+      "text": " The clinical practice guidelines were developed by a multidisciplinary committee for the following topics: (i) diagnostic evaluation, (ii) reduction technique, (iii) pain management during reduction, (iv) immobilization, (v) physical therapy, (vi) risk factors for recurrent dislocation, and (vii) primary surgical shoulder stabilization."
+    },
+    {
+      "label": "RESULTS",
+      "text": " On admission, dislocations require prompt treatment after diagnostic imaging. The choice of reduction technique is based on individual experience, favoring a biomechanical approach without analgesics. If reduction fails, procedural sedation and analgesia are recommended. To confirm reduction and rule out complications, imaging is repeated, and 1 week of relative immobilization is initiated. Following the acute phase, physical therapy targets early restoration of function, coordination, and proprioception. Risk factors of recurrence include young age and male sex, and surgical intervention may be discussed in the case of age < 40 years, contact athletes, and significant bone loss. The recommendations given are mostly based on data of low GRADE evidence, supplemented with expert opinion."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "These guidelines emphasize the importance of timely, efficient, and safe management in the emergency department. Pre- and post-reduction diagnostics are crucial for safe reduction and appropriate management. In the case of complications or recurrent instability, timely management enhances long-term outcomes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

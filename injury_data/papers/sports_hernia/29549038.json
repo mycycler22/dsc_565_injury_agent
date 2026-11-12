@@ -1,0 +1,48 @@
+{
+  "pmid": "29549038",
+  "title": "Athletic pubalgia: Return to play after targeted surgery.",
+  "year": "2018",
+  "journal": "Orthopaedics & traumatology, surgery & research : OTSR",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Surgery for athletic pubalgia usually consists in abdominal wall repair combined with routine bilateral adductor tenotomy. We currently confine the surgical procedure to the injured structure(s) (abdominal wall only, adductor tendon only, or both) to limit morbidity and expedite recovery. Outcomes of this à la carte approach are unclear. The objectives of this retrospective study were to determine the return to play (RTP) time, evaluate the potential influence of injury location, and assess the frequency of recurrence or contralateral involvement."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "À la carte surgery for athletic pubalgia is associated with similar RTP times as the conventional procedure and is not followed by recurrence."
+    },
+    {
+      "label": "MATERIAL AND METHODS",
+      "text": "Consecutive adults younger than 40 years of age who underwent surgery for athletic pubalgia with injury to the abdominal wall and/or adductor attachment sites between 2009 and 2015 were included. Patients with intra-articular hip disorders, isolated pubic symphysis involvement, or herniation were not eligible. The diagnosis was established clinically then confirmed by at least one imaging technique (ultrasonography plus either a radiograph of the pelvis or magnetic resonance imaging of the pelvis). The criterion for performing surgery was failure of appropriate conservative therapy followed for at least 3 months."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 27 included patients, eight had abdominal wall involvement only, seven adductor tendon involvement only, and 12 both. Overall, 25 (92.6%) patients returned to play at their previous level, after a mean of 112±38 days (range, 53-223 days), and experienced no recurrence during the 1-year follow-up. Mean RTP time was significantly shorter in the group with abdominal wall injury only (91.1±21.0 days) compared to the groups with adductor tendon injury only (101.7±42.0 days) or combined injuries (132.5±39.0) (p=0.02)."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "In patients with athletic pubalgia, à la carte surgery confined to the injured structure(s) produces excellent RTP outcomes. RTP time is shortest in patients with isolated lower abdominal wall injuries."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV, retrospective study with no control group."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Overall, 25 (92.6%) patients returned to play at their previous level, after a mean of 112±38 days (range, 53-223 days), and experienced no recurrence during the 1-year follow-up."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Mean RTP time was significantly shorter in the group with abdominal wall injury only (91.1±21.0 days) compared to the groups with adductor tendon injury only (101.7±42.0 days) or combined injuries (132.5±39.0) (p=0.02)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

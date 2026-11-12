@@ -1,0 +1,20 @@
+{
+  "pmid": "6221850",
+  "title": "Sports nuclear medicine. Bone imaging for lower extremity pain in athletes.",
+  "year": "1983",
+  "journal": "Clinical nuclear medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Increased participation in sports by the general public has led to an increase in sports-induced injuries, including stress fractures, shin splints, arthritis, and a host of musculotendinous maladies. Bone scintigraphy with Tc-99m MDP has been used with increasing frequency in detecting stress fractures, but this study can miss certain important conditions and detect other lesions of lesser clinical significance. This paper demonstrates the spectrum of findings on bone scanning in nonacute sports trauma and offers suggestions for the optimal use of Tc-99m MDP for detecting the causes of lower extremity pain in athletes."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

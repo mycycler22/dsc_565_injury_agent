@@ -1,0 +1,19 @@
+{
+  "pmid": "31173695",
+  "title": "Prevalence and patterns of shoulder injuries in Major League Baseball.",
+  "year": "2020",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background</b>: This study aims to explore the epidemiological patterns of shoulder injuries in professional baseball.<b>Methods</b>: The transaction lists of the 'Major League Baseball' website were screened for injuries from 2011 to 2016, inclusive. Only players that were placed on the 'Disabled List' were included in the study. Our database included the player's position, injury location, injury cause, and time spent on the Disabled List.<b>Results</b>: A total of 3090 injuries were recorded; 511 (17%) were shoulder injuries, making it the most vulnerable anatomic location in baseball (N = 511). Of the 511 shoulder injuries, 132 (25.8%) were due to inflammation, making it the most common cited cause of shoulder injury. Most shoulder injuries occurred in April with 125 (24%) injuries, while June and May came in second and third with 89 (17%) and 81 (16%) injuries, respectively. The pitcher was the player most prone to injury, as it constituted 78% of the injuries. The average time spent off by a shoulder injury was 69 days, which implicated substantial economic losses for the injured athlete's club.<b>Conclusion</b>: Shoulder injuries are prevalent in professional baseball. The overhead pitching motion puts the shoulder at risk and accounts for the high incidence of its injuries."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

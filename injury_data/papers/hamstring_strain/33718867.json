@@ -1,0 +1,19 @@
+{
+  "pmid": "33718867",
+  "title": "Development of a Novel Nordic Hamstring Exercise Device to Measure and Modify the Knee Flexors' Torque-Length Relationship.",
+  "year": "2021",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The Nordic hamstring exercise (NHE) has been shown to reduce hamstring injury risk when employed in training programs. This study investigates a novel device to modify the NHE torque-length relationship of the knee flexors, as targeting the hamstrings at a more extended length may have benefits for hamstring strain injury prevention and rehabilitation. Eighteen recreational male participants completed three bilateral NHE repetitions at a conventional 0° flat position, a 10° incline, and a 10° decline slope on a novel device (HA<i>L</i>HAM°). Measures of peak torque and break-torque angle explored the effect of inclination on the knee flexors' length-tension relationship. Relative thigh-to-trunk angle and angular velocity of the knee joint were used to assess influence of inclination on technique and exercise quality. Break-torque angle increased when performed at an incline (134.1 ± 8.6°) compared to both the decline (112.1 ± 8.3°, <i>p</i> <0.0001, <i>g</i> = 2.599) and standard flat NHE positions (126.0 ± 9.8°, <i>p</i> = 0.0002, <i>g</i> = 0.885). Despite this, altering inclination did not affect eccentric knee flexor peak torque (decline = 132.0 ± 63.1 Nm, flat = 149.7 ± 70.1 Nm, incline = 148.9 ± 64.9 Nm, <i>F</i> = 0.952, <i>p</i> = 0.389), angular velocity of the knee joint at break-torque angle (decline = 23.8 ± 14.4°, flat = 29.2 ± 22.6°, incline = 24.5 ± 22.6°, <i>F</i> = 0.880, <i>p</i> = 0.418) or relative thigh-to-trunk angle at break-torque angle (decline = 20.4 ± 10.4°, flat = 16.7 ± 10.8°, incline = 20.2 ± 11.2°, <i>F</i> = 1.597, <i>p</i> = 0.207). The report recommends the use of arbitrary metrics such as break-torque angle that can be replicated practically in the field by practitioners to assess proxy muscle length changes i.e., the angular range over which the torque can be produced. Inclination of the Nordic hamstring exercise leads to hamstring muscle failure at longer muscle lengths without reductions in the maximal force exuded by the muscle. Therefore, the NHE performed on an incline may be a more effective training intervention, specific to the proposed mechanism of hamstring strain injury during sprinting that occurs whilst the muscle is rapidly lengthening. Using a graded training intervention through the inclinations could aid gradual return-to-play rehabilitation."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

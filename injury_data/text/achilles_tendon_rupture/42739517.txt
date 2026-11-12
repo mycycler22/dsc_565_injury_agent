@@ -1,0 +1,15 @@
+Title: Return to Sport and Return to Self-Reported Preinjury Level After Surgical Repair of Acute Achilles Tendon Rupture: A 2-Year Prospective Cohort Analysis. | Type: Journal Article | PMID: 42739517 | Year: 2026 | Injury query: Achilles tendon rupture
+[UNLABELED] Our purpose was to assess RTS and self-reported relative performance level after surgical management of acute Achilles tendon ruptures. <b>Method:</b> In this retrospective analysis of a prospective cohort, the RTS rate and the return to self-reported preinjury level (RTPIL) in patients treated surgically for acute Achilles tendon rupture between November 2020 and September 2023 with at least 2 years of follow-up were reported.
+[UNLABELED] The mean delay to RTS was 11.6 months (SD 7.6).
+[UNLABELED] The median time to RTS was approximately 14 months (95% CI, 10.0-18.0).
+[UNLABELED] Median follow-up was 24.8 months. <b>Conclusions:</b> In conclusion, self-reporting of RTS and RTPIL yields low rates, and caution should be used in overly optimistic preoperative counselling.
+[FULLTEXT: 3. Results] The RTS rate at last follow-up was 76.9% (50/65, 95% CI: 64.8–86.5). The RTPIL rate was 44,6% (29/65, 95% CI: 32.3–57.5) (Table 2). The mean delay to RTS among patients who returned to sport was 11.6 months (SD 7.6 months). At the last follow-up, the median ATRS was 89 [IQR: 77.0–95.0], the median ALR-RSI was 80 [IQR: 62.5–95.0], the median FAAM activity was 91.7 [IQR: 85.7–97.6], the median FAAM sport was 85.9 [IQR: 68.8–96.9], the median TAS was 7 [IQR: 5–7] and the median UCLA was 10 [IQR: 9–10] (Table 3). There were three postoperative complications: two re-ruptures (2.8%) and one infection (1.4%). Median follow-up was 24.8 months. For RTS at any level, 17.5% of patients had resumed some level of sport at 6 months, increasing to 43.9% at 12 months, 70.2% at 24 months, and 78.7% at 48 months. The median time to RTS was approximately 14 months (95% CI, 10.0–18.0). The probability of not yet having returned to sport was 0.82 (95% CI, 0.73–0.93) at 6 months and 0.21 (95% CI, 0.12–0.39) at 48 months (Figure 2). Kaplan–Meier analysis showed a gradual increase in the proportion of patients returning to their preinjury status over time. At 6 months postoperatively, 14.5% of patients had resumed sport at the same level, increasing to 29.7% at 12 months, 48.1% at 24 months, and 56.8% at 48 months. This estimate differs from the raw RTPIL rate (44.6%, Table 2) due to censoring of patients with shorter follow-up. The median time to RTPIL could not be estimated, as fewer than 50% of patients had reached this outcome during follow-up. The estimated probability of not yet returning to the same level was 0.85 (95% CI, 0.77–0.95) at 6 months and 0.43 (95% CI, 0.28–0.68) at 48 months (Figure 3).
+[FULLTEXT: TABLE: Return to sport and self-reported preinjury level rate.] Return to Sport | n = 65
+No | 15 (23%)
+Yes | 50 (77%)
+If yes, | 
+Time to return in months, mean (sd) | 11.6 (7.6)
+Level of return | 
+Lower | 21 (42%)
+Same | 22 (44%)
+Higher | 7 (14%)

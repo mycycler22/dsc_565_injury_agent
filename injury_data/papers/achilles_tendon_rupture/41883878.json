@@ -1,0 +1,35 @@
+{
+  "pmid": "41883878",
+  "title": "Pickleball-Associated Achilles Tendon Ruptures: Shifting Achilles Repair Demographics.",
+  "year": "2026",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Pickleball has emerged as the fastest-growing sport in the United States, with participation increasing nearly 1000% since 2019 and now surpassing 36 million players. Within the same period, tennis participation has risen by 33%. Pickleball's rapid rise, accelerated by the COVID-19 pandemic, has paralleled anecdotal reports of musculoskeletal injury, yet little is known regarding Achilles tendon rupture (ATR) risk in this population. Tennis, a sport with similar biomechanics, has long been studied in relation to ATR, but comparative data for pickleball is lacking. The purpose of this study is to compare ATR proportional frequency sustained during pickleball, tennis, and all other sports to identify patterns of risk and inform athlete counseling."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was conducted from January 2018 through December 2022 to identify patients who underwent Achilles tendon repairs within a large, independent orthopaedic group (>100 surgeons). Procedures were identified through the <i>Current Procedural Terminology</i> (<i>CPT</i>) code 27650. Patients aged 18-75 years with acute ATR who were treated operatively were included. Exclusion criteria were chronic tears requiring graft augmentation, revision procedures, failed nonoperative management, <2 months of follow-up, or incomplete clinical documentation. Mechanism of injury was recorded and categorized as pickleball, tennis, or other sports. A total of 1035 ATRs were identified and reviewed, with 1028 patients undergoing operative repair of an acute ATR. This included 942 other sports, 46 tennis, and 40 pickleball injuries. The primary outcome was the percentage of surgical volume of pickleball-related ATRs compared with tennis and other sports, stratified by age and year of injury. Secondary outcomes included major complications and minor complications. Data were analyzed using χ<sup>2</sup>/Fisher exact tests and Wilcoxon rank-sum tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Pickleball ATRs occurred in significantly older patients (median 60 years) compared with tennis (45 years) and other sports (37 years) (<i>P</i> < .0001). The sex distribution and comorbidities were similar across groups. BMI was lower in tennis and pickleball vs other sports (<i>P</i> = .0004). Age distribution demonstrated that 82.5% of pickleball ruptures occurred in patients >50 years vs 32.6% in tennis and 18.9% in other sports. Pickleball-related ATRs increased from 0.5% in 2018 to 6.7% in 2021. There was no difference in complication rates between patients with pickleball-related ATRs and all other sports (15.0% vs 15.7%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Pickleball-associated Achilles tendon ruptures represent a distinct demographic pattern, predominantly affecting adults >50 years of age, with a marked increase in cases following 2020, suggesting a correlation with the start of the COVID-19 pandemic. With the numbers available, no significant difference in postoperative complication rates was detected; however, the relatively small number of pickleball injuries limits statistical power and precludes definitive conclusions regarding comparative safety or injury patterns compared with tennis or other sports."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective cohort study."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

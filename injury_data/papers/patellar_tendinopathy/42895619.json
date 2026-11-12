@@ -1,0 +1,32 @@
+{
+  "pmid": "42895619",
+  "title": "Extracorporeal shockwave therapy in common tendinopathies.",
+  "year": "2026",
+  "journal": "Wiener medizinische Wochenschrift (1946)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Extracorporeal shockwave therapy (ESWT) was initially used for urologic issues only. After Valchanou and Michailov started applying it in orthopedics in 1991, they focused on treatment of pseudarthrosis and delayed fracture healing. Some years later, shockwave therapy was also used for tendinopathies. Today, ESWT is the first-choice treatment for tendinopathies and is unsurpassed in terms of effectivity and side effects."
+    },
+    {
+      "label": "METHODS",
+      "text": "This article discusses common regions of lower extremity tendinopathies (greater trochanter pain syndrome, quadriceps tendinopathy, patellar tendinopathy, Achilles tendinopathy) in a narrative review of the evidence-based literature and guidelines of leading shockwave societies such as the International Society for Medical Shockwave Treatment (ISMST) and the Deutschsprachige internationale Gesellschaft für Extrakorporale Stosswellentherapie (DIGEST). Additional case studies are also presented."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Extracorporeal shockwave therapy shows excellent results in the evidence-based literature and in clinical application. No other conservative treatment option in orthopedics is described as intensively in the evidence-based literature as shockwave therapy. ESWT seems to be more effective when it is accompanied by an eccentric loading/physiotherapy program."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Extracorporeal shockwave therapy enables tendon regeneration, long-term improvement, and faster return to sport, with predictable side effects and excellent tolerance."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

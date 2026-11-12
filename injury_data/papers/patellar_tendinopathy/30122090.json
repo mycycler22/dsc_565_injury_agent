@@ -1,0 +1,43 @@
+{
+  "pmid": "30122090",
+  "title": "Ultrasound examination and patellar tendinopathy scores in asymptomatic college jumpers.",
+  "year": "2018",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate the prevalence of hypoechoic areas by US and its' association with VISA-P scores among asymptomatic jumpers while highlighting sex comparisons."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Pre-participation exam at a National Collegiate Athletic Association (NCAA) division I college."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Thirty-one college athletes who engage in jumping sports."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Hypoechoic images of patellar tendon captured by ultrasound examination were compared to a self-reported knee functional survey, the Victorian Institute of Sport Assessment for patellar tendinopathy (VISA-P) scale (0-100)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "With a total of 31 athletes (13 males and 18 females), prevalence rate of the hypoechoic areas of patellar tendon was 19.4% (6/31) in the right knee and 29.0% (9/31) in the left knee. There was no proportional difference in a comparison of prevalence rate of hypoechoic area [(+) or (-)] by sex in either right or left knee. The VISA-P scores were significantly lower in US (+) than US (-) in the right knee (p = 0.003, Cohen's d = 1.675), but not the left knee (p = 0.250, Cohen's d = 0.512). The receiver operating characteristics curve analysis indicated the most sensitive and specific VISA-P values based on status [(+) or (-)] of hypoechoic area was 89.5 with 86.4% and 77.7% of sensitivity and specificity."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In short, hypoechoic areas were detected by US examination among self-reported asymptomatic jumpers. There was an association between hypoechoic areas and VISA-P scores in the right knee, but not in left knee. VISA-P scores may be used as a screening tool for the presence of hypoechoic areas."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

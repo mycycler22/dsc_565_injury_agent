@@ -1,0 +1,32 @@
+{
+  "pmid": "42482945",
+  "title": "Case Report: Bilateral congenital fourth metacarpal shortening in a competitive softball athlete with preserved function.",
+  "year": "2026",
+  "journal": "Frontiers in surgery",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Congenital shortening of the fourth metacarpal (brachydactyly type E) is an uncommon anatomical variant that may occur in isolation or with syndromic conditions. Prior case reports have documented this finding in adults, but none have assessed functional outcomes in the context of high-level athletic participation."
+    },
+    {
+      "label": "CASE PRESENTATION",
+      "text": "A 67-year-old woman presented to the emergency department on two separate occasions after falling on her left and right wrists. Radiography and computed tomography revealed a non-displaced triquetral fracture (left) and a non-displaced scaphoid fracture (right), with incidental bilateral symmetric shortening of the fourth metacarpals. Radiographic archives spanning more than a decade have confirmed stable morphology, thereby supporting a congenital etiology. The patient reported no history of hand dysfunction and had competed in softball at the high school level and internationally as part of her national team. Following conservative management, the patient regained a full, pain-free range of motion bilaterally."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "This case is the first report of bilateral congenital shortening of the fourth metacarpal in a lifelong competitive athlete, demonstrating that this variant is compatible with high-level athletic participation without self-reported functional limitations. Radiographic stability for more than a decade and preserved function into late adulthood extend the evidence base for the long-term benignity of this condition. Formal grip dynamometry and validated functional scores were not available, which is acknowledged as a limitation of this study."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Conservative management with reassurance is appropriate for asymptomatic patients. Recognition of this radiographic appearance can prevent misinterpretation as traumatic shortening or growth plate injury."
+    }
+  ],
+  "injury_query": "scaphoid fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

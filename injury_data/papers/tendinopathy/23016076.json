@@ -1,0 +1,31 @@
+{
+  "pmid": "23016076",
+  "title": "Examination and treatment of hamstring related injuries.",
+  "year": "2012",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "There is a wide spectrum of hamstring-related injuries that can occur in the athlete. Accurate diagnosis is imperative to prevent delayed return to sport, injury recurrence, and accurate clinical decision making regarding the most efficacious treatment."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "This review highlights current evidence related to the diagnosis and treatment of hamstring-related injuries in athletes. Data sources were limited to peer-reviewed publications indexed in MEDLINE from 1988 through May 2011."
+    },
+    {
+      "label": "RESULTS",
+      "text": "An accurate diagnostic process for athletes with posterior thigh-related complaints should include a detailed and discriminative history, followed by a thorough clinical examination. Diagnostic imaging should be utilized when considering hamstring avulsion or ischial apophyseal avulsion. Diagnostic imaging may also be needed to further define the cause of referred posterior thigh pain."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Differentiating acute hamstring strains, hamstring tendon avulsions, ischial apophyseal avulsions, proximal hamstring tendinopathies, and referred posterior thigh pain is critical in determining the most appropriate treatment and expediting safe return to play."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

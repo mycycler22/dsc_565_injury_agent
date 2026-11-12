@@ -1,0 +1,36 @@
+{
+  "pmid": "35093586",
+  "title": "Association between knee pain location and abnormal imaging or arthroscopic findings: A systematic review.",
+  "year": "2022",
+  "journal": "Annals of physical and rehabilitation medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Assessment of pain location is an essential component of the differential diagnosis of knee pain because pain location is thought to indicate pathology. Previous studies have questioned whether abnormal imaging findings are related to the presence of pain, but none has systematically reviewed the association between knee pain location and the location of abnormal imaging or arthroscopic findings."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To systematically review the association between the location of knee pain and the location of abnormal imaging or arthroscopic findings."
+    },
+    {
+      "label": "METHODS",
+      "text": "Databases were searched up to November 2021 for articles in English that investigated the association between pain location reported using pain mapping and the location of abnormal imaging or arthroscopic findings. Risk of bias was assessed with the modified Newcastle-Ottawa scale. Results were sub-grouped by pathology and data analysis was performed as appropriate."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Among 7730 articles identified, 10 (n = 2034 participants) met the inclusion criteria. Three sub-pathologies were evaluated: patellar tendinopathy (n = 2), knee osteoarthritis (n = 7), and degenerative meniscal tears (n = 1). The primary analysis found poor sensitivity and specificity of patellar tendon hypoechogenic areas and local patellar tendon pain in adult (n = 55) and adolescent athletes (n = 114). The location of pain and the location of abnormal imaging findings was associated in 2 studies of knee osteoarthritis (n = 166). Five articles reported no relationship (n = 1563). No association was reported between the location of pain and the location of arthroscopic findings in degenerative meniscus tears (n = 193). All articles included were rated at low risk of bias."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Sensitivity and specificity of the presence of patellar tendon hypoechogenic areas and localised patellar tendon pain was poor. Pain location was not associated with the location of abnormal imaging findings in knee osteoarthritis or to abnormal arthroscopic findings in degenerative meniscus tears."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

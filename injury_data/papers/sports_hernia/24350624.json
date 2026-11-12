@@ -1,0 +1,29 @@
+{
+  "pmid": "24350624",
+  "title": "Effect of pubic bone marrow edema on recovery from endoscopic surgery for athletic pubalgia.",
+  "year": "2015",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Athletic pubalgia (sportsman's hernia) is often repaired by surgery. The presence of pubic bone marrow edema (BME) in magnetic resonance imaging (MRI) may effect on the outcome of surgery. Surgical treatment of 30 patients with athletic pubalgia was performed by placement of totally extraperitoneal endoscopic mesh behind the painful groin area. The presence of pre-operative BME was graded from 0 to 3 using MRI and correlated to post-operative pain scores and recovery to sports activity 2 years after operation. The operated athletes participated in our previous prospective randomized study. The athletes with (n = 21) or without (n = 9) pubic BME had similar patients' characteristics and pain scores before surgery. Periostic and intraosseous edema at symphysis pubis was related to increase of post-operative pain scores only at 3 months after surgery (P = 0.03) but not to long-term recovery. Two years after surgery, three athletes in the BME group and three in the normal MRI group needed occasionally pain medication for chronic groin pain, and 87% were playing at the same level as before surgery. This study indicates that the presence of pubic BME had no remarkable long-term effect on recovery from endoscopic surgical treatment of athletic pubalgia."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The presence of pre-operative BME was graded from 0 to 3 using MRI and correlated to post-operative pain scores and recovery to sports activity 2 years after operation."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "Periostic and intraosseous edema at symphysis pubis was related to increase of post-operative pain scores only at 3 months after surgery (P = 0.03) but not to long-term recovery."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "36399159",
+  "title": "Intrinsic Risk Factors for Ankle Sprain Differ Between Male and Female Athletes: A Systematic Review and Meta-Analysis.",
+  "year": "2022",
+  "journal": "Sports medicine - open",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle sprains remain prevalent across most team sports. However, despite divergent ankle sprain injury rates in male and female athletes, little is known about potential sex-specific risk factors for ankle sprain."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To systematically investigate the sex-specific risk factors for ankle sprain."
+    },
+    {
+      "label": "METHODS",
+      "text": "Combinations of the key terms were entered into PubMed, Web of Science, Embase and Cochrane Library databases, and prospective studies reporting ankle sprain risk factors in males or females were included for meta-analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Sixteen studies were eligible for inclusion, for a total of 3636 athletes (735 female) and 576 ankle sprains (117 female). Out of 21 prognostic factors, previous ankle sprain injury (odds ratio = 2.74, P < .001), higher body mass index (SMD = 0.50, P < 0.001), higher weight (SMD = 0.24, P = 0.02), lower isometric hip abduction strength (SMD = - 0.52, P < 0.0001) and lower dynamic balance performance (SMD = - 0.48 to - 0.22, P < 0.001-0.04) were identified as risk factors in male athletes. In female athletes, out of 18 factors eligible for meta-analysis, only lower concentric dorsiflexion strength was identified as a risk factor (SMD = - 0.48, P = 0.005)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This meta-analysis provides novel evidence for different risk factor profiles for ankle sprain injuries between female and male athletes. Further studies, particularly in female athletes, are needed to strengthen the evidence."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

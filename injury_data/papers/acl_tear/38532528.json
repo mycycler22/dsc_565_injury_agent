@@ -1,0 +1,53 @@
+{
+  "pmid": "38532528",
+  "title": "Subjective Causes for Failure to Return to Sport After Anterior Cruciate Ligament Reconstruction: A Systematic Review and Meta-analysis.",
+  "year": "2025",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "While current literature has explored the outcomes of athletes who return to sport (RTS) after anterior cruciate ligament (ACL) injuries, less is known about the outcomes of those who are unsuccessful in returning to sport."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the rate of athletes who did not RTS after primary ACL reconstruction (ACLR) and to identify the specific subjective reasons for failure to RTS."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "A comprehensive search of the PubMed/MEDLINE, Scopus, and Web of Science databases was conducted through April 2021."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Eligible studies included those explicitly reporting the rate of failure for RTS after ACLR as well as providing details on reasons for athletes' inability to return; 31 studies met the inclusion criteria."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 2 to 4."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "The reasons for failure to RTS referred to in our study are derived from those established previously in the studies included. Data were collected on the number of athletes, mean age, mean follow-up time, type of sport played, failure to RTS rate, and specific reasons for failure to return."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The weighted rate of failure to RTS after ACLR was 25.5% (95% CI, 19.88-31.66). The estimated proportion of psychosocial-related reasons cited for failure to RTS was significantly greater than knee-related reasons for failure RTS (55.4% vs 44.6%, <i>P</i> < 0.01). The most cited reason for failure to RTS was fear of reinjury (33.0%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study estimates the rate of failure to RTS after ACLR to be 25.5%, with the majority of athletes citing fear of reinjury as the major deterrent for returning to sports. We highlight how factors independent of surgical outcomes may impact an athlete's ability to return to play given that the predominant reason for no RTS after ACLR was unrelated to the knee."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

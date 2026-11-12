@@ -1,0 +1,28 @@
+{
+  "pmid": "30197715",
+  "title": "Current Concepts in the Evaluation and Management of Type II Superior Labral Lesions of the Shoulder.",
+  "year": "2018",
+  "journal": "The open orthopaedics journal",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Superior labrum tears extending from anterior to posterior (SLAP lesion) are a cause of significant shoulder pain and disability. Management for these lesions is not standardized. There are no clear guidelines for surgical versus non-surgical treatment, and if surgery is pursued there are controversies regarding SLAP repair versus biceps tenotomy/tenodesis."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This paper aims to briefly review the anatomy, classification, mechanisms of injury, and diagnosis of SLAP lesions. Additionally, we will describe our treatment protocol for Type II SLAP lesions based on three groups of patients: throwing athletes, non-throwing athletes, and all other Type II SLAP lesions."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The management of SLAP lesions can be divided into 4 broad categories: (1) nonoperative management that includes scapular exercise, restoration of balanced musculature, and that would be expected to provide symptom relief in 2/3 of all patients; (2) patients with a clear traumatic episode and symptoms of instability that should undergo SLAP repair without (age < 40) or with (age > 40) biceps tenotomy or tenodesis; (3) patients with etiology of overuse without instability symptoms should be managed by biceps tenotomy or tenodesis; and (4) throwing athletes that should be in their own category and preferentially managed with rigorous physical therapy centered on hip, core, and scapular exercise in addition to restoration of shoulder motion and rotator cuff balance. Peel-back SLAP repair, Posterior Inferior Glenohumeral Ligament (PIGHL) release, and treatment of the partial infraspinatus tear with debridement, PRP, or (rarely) repair should be reserved for those who fail this rehabilitation program."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

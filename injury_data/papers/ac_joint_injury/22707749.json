@@ -1,0 +1,52 @@
+{
+  "pmid": "22707749",
+  "title": "Epidemiology of acromioclavicular joint injury in young athletes.",
+  "year": "2012",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acromioclavicular (AC) joint injuries, particularly sprains, are common in athletic populations and may result in significant time lost to injury. However, surprisingly, little is known of the epidemiology of this injury."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To define the incidence of AC joint injuries and to determine the risk factors for injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiological study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A longitudinal cohort study was performed to determine the incidence and characteristics of AC joint injury at the United States Military Academy between 2005 and 2009. All suspected AC joint injuries were reviewed by an independent orthopaedic surgeon using both chart reviews as well as assessments of radiological imaging studies. Injuries were graded according to the modified Rockwood classification system as well as dichotomized into low-grade (Rockwood types I and II) and high-grade (Rockwood types III, IV, V, and VI) injuries for analysis. Injury mechanisms, return-to-play timing, and athlete-exposures were documented and analyzed. χ(2) and Poisson regression analyses were performed, with statistical significance set at P < .05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the study period, 162 new AC joint injuries and 17,606 person-years at risk were documented, for an overall incidence rate of 9.2 per 1000 person-years. The majority of the AC joint injuries were low-grade (145 sprains, 89%) injuries, with 17 high-grade injuries. Overall, male patients experienced a significantly higher incidence rate for AC joint injuries than female patients (incidence rate ratio [IRR], 2.18; 95% confidence interval [CI], 1.21-4.31). An AC joint injury occurred most commonly during athletics (91%). The incidence rate of AC joint injury was significantly higher in intercollegiate athletes than intramural athletics when using athlete-exposure as a measure of person-time at risk (IRR, 2.11; 95% CI, 1.31-3.56). Similarly, the incidence rate of AC injury was significantly higher among male intercollegiate athletes when compared to female athletes (IRR, 3.56; 95% CI, 1.74-8.49) when using athlete-exposure as the denominator. The intercollegiate sports of men's rugby, wrestling, and hockey had the highest incidence rate of AC joint injury. Acromioclavicular injuries resulted in at least 1359 total days lost to injury and an average of 18.4 days lost per athlete. The average time lost to injury for low-grade sprains was 10.4 days compared with high-grade injuries at 63.7 days. Of the patients with high-grade injuries, 71% elected to undergo coracoclavicular/AC reconstructions. The rate of surgical intervention was 19 times higher for high-grade AC joint injuries than for low-grade injuries (IRR, 19.2; 95% CI, 7.64-48.23; P < .0001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Acromioclavicular separations are relatively common in young athletes. Most injuries occur during contact sports such as rugby, wrestling, and hockey. Male athletes are at greater risk than female athletes. Intercollegiate athletes are at greater risk than intramural athletes. The average time lost to sport due to AC joint injury was 18 days, with low-grade injuries averaging 10 days lost. High-grade injuries averaged 64 days lost to sport, and 71% elected to undergo surgical repair/reconstruction."
+    }
+  ],
+  "injury_query": "AC joint injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Acromioclavicular injuries resulted in at least 1359 total days lost to injury and an average of 18.4 days lost per athlete."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "The average time lost to sport due to AC joint injury was 18 days, with low-grade injuries averaging 10 days lost."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "High-grade injuries averaged 64 days lost to sport, and 71% elected to undergo surgical repair/reconstruction."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

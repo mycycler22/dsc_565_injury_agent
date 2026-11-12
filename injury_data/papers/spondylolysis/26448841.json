@@ -1,0 +1,32 @@
+{
+  "pmid": "26448841",
+  "title": "Low Back Pain in Athletes.",
+  "year": "2015",
+  "journal": "Asian journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Low Back Pain (LBP) in athletes is common and has a broad spectrum of differential diagnoses that must be taken in to account when a clinician approaches the patient with LBP. The physicians should take into account spinal and extra spinal causes of low back pain in athletes."
+    },
+    {
+      "label": "EVIDENCE ACQUISTION",
+      "text": "A literature review was performed for the years 1951 through 2013. Keywords used were Low Back Pain and Athletes. We searched MEDLINE, EMBASE, OVID, PUBMED, the Cochrane Library, ELSEVIER, and the references of reviewed articles, for English-language of Low Back Pain in Athletes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The two most common causes of LBP arising from spine in athletes are degenerative disc disease and spondylolysis with or without listhesis. Although most athletes, respond well to conservative treatment, surgical treatment is indicated when conservative treatment failes."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The major concern in athletes with LBP is return to play and previous level of their activity after treatment. There is insufficient evidence regarding this issue in literature to define the optimal time of return to play following treatment."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

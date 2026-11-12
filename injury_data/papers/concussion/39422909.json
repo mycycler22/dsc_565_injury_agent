@@ -1,0 +1,45 @@
+{
+  "pmid": "39422909",
+  "title": "Missing School Days Following Sport-Related Concussion in High School Athletes.",
+  "year": "2024",
+  "journal": "JAMA network open",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "IMPORTANCE",
+      "text": "Sport-related concussions (SRC) can significantly impact students' attendance and academic performance, highlighting the importance of gradual return-to-learn protocols for recovery. Understanding the association between missed school days and recovery, especially across genders, is vital for effective concussion management in high school athletes."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To describe missed school days in high school athletes with SRC and to determine associations between missed school days and authorized clearance to return to competition; secondarily, to determine whether school days missed differed by gender."
+    },
+    {
+      "label": "DESIGN, SETTING, AND PARTICIPANTS",
+      "text": "Cohort study among student athletes participating in athletics sponsored by the Michigan High School Athletic Association (MHSAA) during academic years 2015 to 2023. SRC was a participant eligibility criterion and was defined as a head injury during participation in a MHSAA-sanctioned event. Data were analyzed from August 2015 to June 2023."
+    },
+    {
+      "label": "EXPOSURES",
+      "text": "Primary exposure was missed school days; additional exposures included gender, year of season, concussion history, event type, sport level, contact level, and athletic trainer involvement."
+    },
+    {
+      "label": "MAIN OUTCOME AND MEASURE",
+      "text": "The primary outcome was time to full unrestricted clearance following SRC."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The analysis included a total of 20 934 individuals with SRC (13 869 boys [66.25%]). Gender (χ23 = 167.40; P < .001), season (χ221 = 57.41; P < .001), event type (χ23 = 99.29; P < .001), sport level (χ29 = 68.15; P < .001), contact level (χ26 = 56.73; P < .001), and initial evaluation (χ23 = 147.13; P < .001) were independently associated with missed school days. Athletes took a median (IQR) of 11 (7-16) days to return to full unrestricted clearance. Relative to no missed school days, there was a significant mean increase of 57% (incidence rate ratio, 1.57; 95% CI, 1.52-1.62) in time to full unrestricted clearance for 3 or more missed school days. The estimated mean days to return to sport were 12.15 (95% CI, 12.00-12.30) for 0 missed school days, 12.68 (95% CI, 12.39-12.96) for 1 missed school day, 15.47 (95% CI, 15.06-15.87) for 2 missed school days, and 19.08 (95% CI, 18.55-19.62) for 3 or more missed school days."
+    },
+    {
+      "label": "CONCLUSIONS AND RELEVANCE",
+      "text": "This cohort study found that high school athletes typically missed 2 or fewer school days after SRC, suggesting that concussion management teams adhered to current recommendations of 24 to 48 hours of initial rest. The dose association, with more missed school days associated with slower return to play, suggests athletes' missing more school days (eg, ≥3) may be associated with severity of concussion and warrant additional support to return to school and/or sport."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

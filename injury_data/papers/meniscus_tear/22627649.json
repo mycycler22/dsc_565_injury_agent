@@ -1,0 +1,47 @@
+{
+  "pmid": "22627649",
+  "title": "Changes in self-reported knee function and health-related quality of life after knee injury in female athletes.",
+  "year": "2012",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To document the changes in self-reported health-related quality of life and knee function in a cohort of young female athletes who have sustained a knee injury."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective cohort."
+    },
+    {
+      "label": "SETTING",
+      "text": "An outpatient sports medicine clinic and university student health service."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "A convenience sample of 255 females (age = 17.4 ± 2.4 years) who injured their knee participating in sport or recreational activities. Injuries were categorized as anterior cruciate ligament tears, anterior knee pain, patellar instability, meniscus tear, collateral ligament sprain, and other."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Knee function was assessed with the 2000 International Knee Documentation Committee (IKDC) knee survey. Health-related quality of life was assessed with the SF-12 version 2.0 (acute) survey (SF-12)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Dependent variables included the paired differences in the 2000 IKDC and SF-12 subscales, and composite scores from preinjury to diagnosis. Paired differences were assessed with paired t tests (P < 0.05) reported as the mean ± SD."
+    },
+    {
+      "label": "RESULTS",
+      "text": "International Knee Documentation Committee scores at diagnosis were significantly lower than preinjury scores (P < 0.001). SF-12 scores were lower (P < 0.001) at diagnosis for each subscale (physical functioning, role physical, bodily pain, general health, vitality, social function, role emotional, and mental health) as well as the physical and mental composite scores."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In addition to negatively affecting knee function, sport medicine providers should be aware that knee injuries can negatively impact the health-related quality of life in these athletes immediately after injury."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

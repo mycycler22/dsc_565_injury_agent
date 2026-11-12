@@ -1,0 +1,36 @@
+{
+  "pmid": "39959126",
+  "title": "Effectiveness of self-management programmes for athletes with patellofemoral pain syndrome: A systematic review.",
+  "year": "2025",
+  "journal": "South African journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain syndrome (PFPS) is a common condition that can severely hinder an athlete's ability to perform and compete at their full potential and overall well-being. The emergence of self-management programmes presents a potential treatment avenue for athletes with PFPS. Self-management programmes aim to empower patients through education, symptom monitoring, tailored exercises, and gradual activity progression while respecting pain thresholds. Despite their potential benefits, limited data evaluates the effectiveness of self-management programmes specifically tailored for athletes with PFPS."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To assess the effectiveness of self-management programmes in improving pain and functional ability among athletes with PFPS."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search was conducted across PubMed/MEDLINE, Cochrane Library, CINAHL, and PsycINFO databases. Randomised and non-randomised controlled trials comparing self-management interventions to other treatments or control groups for improving pain and functional ability among athletes with patellofemoral pain syndrome were included. Studies including athletes with PFPS (defined as pain persisting for ≥12 weeks) were eligible. Four reviewers independently extracted data and assessed quality using the Physiotherapy Evidence Database (PEDro) scale."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Three trials involving 139 participants met the eligibility criteria. Identified self-management programmes comprised exercises, mindfulness training, and educational programmes tailored to athletes. Two of the eligible studies identified found that exercise consisting of the combination of mindfulness and/or dry needling reported an enhanced recovery rate in the studied population with regards to PFPS. The other study reported no added benefit whether exercise or education was used as a modality for the self-management of PFPS."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "While some studies showed promising results for self-management programmes involving exercises and mindfulness in managing patellofemoral pain syndrome among athletes, the overall evidence could be more extensive and consistent. High-quality controlled trials with consistent methodology and athletic populations are needed to identify the most effective self-management approaches for patellofemoral pain syndrome in athletes."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

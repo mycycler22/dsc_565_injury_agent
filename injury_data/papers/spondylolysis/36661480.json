@@ -1,0 +1,39 @@
+{
+  "pmid": "36661480",
+  "title": "Risk Factors for Symptomatic Bilateral Lumbar Bone Stress Injury in Adolescent Soccer Players: A Prospective Cohort Study.",
+  "year": "2023",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lumbar bone stress injury (BSI) is a high-risk long time-loss injury for adolescent soccer players. However, the risk factors for lumbar BSI are unclear."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To identify the risk factors for bilateral lumbar BSI for adolescent soccer players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Adolescent soccer players underwent orthopaedic examination, whole-body dual energy x-ray scan, lumbar magnetic resonance imaging (MRI), and muscle tightness testing at baseline. Lumbar lordosis (LL), sacral slope, maturity stage of lumbar vertebral body, and bone marrow edema (BME) at the L5 were examined via MRI. In addition, bone mineral density and content; trunk lean body mass via dual energy x-ray scan; and bilateral muscle tightness including the iliopsoas, hamstrings, and quadriceps were measured. Lumbar BSI was diagnosed as positive bilateral BME and extension-based lumbar pain. All participants were examined twice, one at 6 months and one at 1 year, after the baseline examination. Multivariate logistic regression analysis was performed to identify the risk factors for bilateral lumbar BSI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 69 (26.3%) players were diagnosed with bilateral lumbar BSI. Asymptomatic BME (odds ratio [OR], 4.260; 95% CI, 2.153-8.431), apophyseal stage of the lumbar vertebral body (OR, 3.438; 95% CI, 1.698-6.959), sacral slope relative to LL ≥5° (OR, 4.067; 95% CI, 2.021-8.181), and hamstring tightness ≥50° (OR, 3.221; 95% CI, 1.385-7.489) were significantly associated with bilateral lumbar BSI."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The incidence of bilateral lumbar BSI was common at 26.2%. Asymptomatic BME, sacral anterior tilt relative to LL, immature lumbar epiphyses, and hamstring tightness were found to be risk factors for bilateral lumbar BSI. The results of this study suggest that regular MRI examination could facilitate the early detection of BME, and improvement in hamstring flexibility and lumbosacral alignment may prevent bilateral lumbar BSI in young athletes."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

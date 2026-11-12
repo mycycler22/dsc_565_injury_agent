@@ -1,0 +1,32 @@
+{
+  "pmid": "29560032",
+  "title": "Are collision athletes at a higher risk of re-dislocation after an open Bristow-Latarjet procedure? A systematic review and meta-analysis.",
+  "year": "2018",
+  "journal": "Shoulder & elbow",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The primary aim of the present study was to review, summarize and compare the redislocation risk for collision athletes and noncollision athletes after an open Bristow-Latarjet procedure. Our secondary aim was to summarize return to sport, satisfaction, pain and complications."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a systematic review in PubMed and EMBASE of articles until 1 July 2016. We included all studies describing Bristow-Latarjet like procedures as a result of glenohumeral instability, mentioning redislocation rates in collision athletes with >2 years of follow-up. We pooled the data using random-effects meta-analysis for redislocation risk-differences (RD) between collision and noncollision athletes, and assessed heterogeneity with <i>I</i><sup>2</sup> and Tau<sup>2</sup> tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "From 475 titles and abstracts, 11 studies were included and eight studies were meta-analyzed. The pooled RD to develop a postoperative redislocation between collision athletes and noncollision athletes was -0.00 (95% confidence interval: -0.03 to 0.03, <i>p</i> = 0.370). Return to sports rates were high (67-100%), and patients reported high satisfaction scores (93-100% satisfied) and low pain scores (mean visual analogue scale score of 1.6); however, postoperative complication rates varied from 0.8% to 19.2%."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Collision athletes are not more at risk for redislocation rates after an open Bristow-Latarjet procedure compared to noncollision athletes. Overall postoperative outcomes were good, although numerous complications occurred."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

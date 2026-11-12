@@ -1,0 +1,31 @@
+{
+  "pmid": "35598837",
+  "title": "Initial kinematic chain injuries increase hazard of subsequent arm injuries in professional baseball pitchers.",
+  "year": "2022",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Currently, there are few studies that have evaluated the relationship between a lower extremity or trunk injury (kinematic chain) and subsequent arm injury. The purpose of this study was (1) to investigate the relationship between initial kinematic chain (lower extremity or trunk) injury and subsequent arm injury; and (2) to investigate the relationship between initial shoulder or elbow injury and subsequent arm injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "A 7-year prospective injury risk study was conducted with Minor League Baseball pitchers. Pitches, pitching appearances, athlete exposures (AEs), and arm injuries (≥1-day time loss) were documented throughout the season. Cox survival analyses with 95% confidence intervals (95% CIs) were performed. Confounders controlled for included age, body mass index, arm dominance, pitching role, previous arm injury, number of pitching appearances, and seasonal pitch load."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 297 pitchers participated (total player days = 85,270). Arm injury incidence was 11.4 arm injuries/10,000 AEs, and kinematic chain incidence was 5.2 injuries/10,000 AEs. Pitchers who sustained a kinematic chain injury demonstrated a greater hazard (2.6 [95% CI: 1.2, 5.6], P = .019) of sustaining an arm injury. Pitchers who sustained an initial shoulder injury demonstrated a greater hazard (9.3 [95% CI: 1.1, 83], P = .047) of sustaining a subsequent shoulder or elbow injury compared with pitchers who sustained an initial elbow injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Pitchers who sustained an initial lower extremity or trunk injury demonstrated an increased subsequent arm injury hazard compared with pitchers who did not. Pitchers who sustained an initial shoulder injury demonstrated a greater hazard of sustaining a subsequent arm injury compared with pitchers who sustained an initial elbow injury. However, this secondary analysis should be interpreted with caution. Clinicians should monitor risk with workload accumulation, which may be related to pitching compensatory strategies in a fatigued state. Pitchers who sustain a shoulder injury should be evaluated and perform both shoulder and elbow rehabilitation strategies before return to sport."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "39161556",
+  "title": "Beach Sprints Rowing: Injury and Illness Prevalence at the 2022 World Championships.",
+  "year": "2024",
+  "journal": "BMJ open sport & exercise medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Injury and illness surveillance helps establish the infrastructure to provide adequate medical support at regattas and is the foundation for developing prevention strategies."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To assess the prevalence and characteristics of injuries in the 4 weeks before the start of the 2022 World Rowing Beach Sprints Finals (WRBSF) (the '<i>Prevalence Survey'</i>) and describe the incidence and nature of new-onset injuries and illnesses incurred during the WRBSF (the '<i>Incidence Survey'</i>)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes completed: (1) a prevalence survey recording injuries the 4 weeks before the WRBSF and (2) a recording of injuries and illnesses that occurred during the 3-day regatta."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifty-nine of 152 eligible WRBSF athletes completed the prevalence injury survey. Twenty-three (38.9%) reported experiencing at least one injury within the 4 weeks before the WRBSF. The most prevalent anatomical injury sites were the forearm (11.86%), lumbar spine (10.17%), knee (8.47%), ankle (6.78%) and hand/fingers (6.78%). During the competition, only two illness occurrences were reported; both were respiratory infections. Two athletes reported injuries: a hamstring strain and a concussion."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Rowers presenting to the WRBSF described injuries leading up to the event that were similar to those common in classic rowing. Rowers at the event suffered injuries of the lower limb that were different from classic rowing and may be related to the addition of running to this event. An event concussion should be considered as a more likely injury in this type of rowing and future events should be prepared to manage such an injury."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

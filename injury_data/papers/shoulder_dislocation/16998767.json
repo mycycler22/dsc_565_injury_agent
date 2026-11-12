@@ -1,0 +1,37 @@
+{
+  "pmid": "16998767",
+  "title": "[Nordic pole walking injuries--nordic walking thumb as novel injury entity].",
+  "year": "2006",
+  "journal": "Sportverletzung Sportschaden : Organ der Gesellschaft fur Orthopadisch-Traumatologische Sportmedizin",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Nordic pole Walking (NW) as trend sport is associated with beneficial effects on the cardiovascular system. Data regarding the injury and overload injury rates are pending."
+    },
+    {
+      "label": "METHODS",
+      "text": "137 athletes (74 % females, 53 +/- 12 years, weight 73 +/- 13 kg, height 169 +/- 11 cm) were prospectively ask using a two-sided questionnaire. Mean NW experience was 212.8 weeks with 2.9 +/- 1.8 hours/week. The overall exposure was 29 160 h."
+    },
+    {
+      "label": "RESULTS",
+      "text": "NW injury rate was 0.926/1000 h. Falls were evident in 0.24/1000 h. The upper extremity was involved more frequently (0.549/1000 h) than the lower extremity (0.344/1000 h). The most severe injury was a concomitant shoulder dislocation and luxation of the proximal interphalangeal joint of the index finger after a fall. The most frequent injury in NW was a distorsion of the ulnar collateral ligament of the thumb (0.206/1000 h) after fall. Shoulder injuries account for 0.171/1000 h with 0.069/1000 h shoulder dislocations. Distal radius fractures were rare as ankle sprains and shinspints (0.034/1000 h). Muscle injuries were encountered only at the gastrocnemius muscle (0.137/1000 h). No knee ligament injuries were noted. In 5%, NW injuries caused interruption of the performance, with all patients returning to sport within 4 weeks on the same level as before."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Nordic Walking is safe. Most frequently, a Nordic walking thumb is encountered during a fall with the athlete holding on to the NW pole until the very last moment before the hand hits the ground with the pole handle as hypomochlium that forces the thumb into abduction and extension. Modifications of the grip construction as well as information of the athlete and behaviour changes may be preventive measures."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "In 5%, NW injuries caused interruption of the performance, with all patients returning to sport within 4 weeks on the same level as before."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

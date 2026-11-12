@@ -1,0 +1,39 @@
+{
+  "pmid": "38660019",
+  "title": "Impact of Climate on Stress Ultrasound Findings of the Elbow Ulnar Collateral Ligament in Professional Baseball Pitchers: An 18-Year Study.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The ulnar collateral ligament (UCL) is the primary soft tissue stabilizer to valgus stress in the elbow and is placed under this valgus stress during the throwing motion. Although there are known risk factors for UCL injury, it is unknown whether the UCL undergoes adaptive changes in athletes from different climates."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare elbow stress ultrasound (SUS) findings between professional baseball pitchers from warm climates versus cold climates and assess significant differences in adaptive and morphologic changes in the UCL."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Dynamic SUS evaluations were performed over 18 years on the dominant and nondominant arms of 643 professional pitchers from warm and cold climates as determined by the player's country/state of origin. Studies were compared with respect to relative UCL thickness (<i>dominant arm</i> vs <i>nondominant arm)</i>, relative glenohumeral joint laxity (<i>joint space distance under stress</i> vs <i>joint space distance at rest</i>), and the presence of morphologic changes such as tears or calcifications. In addition, a subgroup analysis was performed to compare the progression of SUS findings over 3 years in players with sequential yearly data."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Players from warmer climates had significantly greater relative UCL thicknesses than players from colder climates (1.75 vs 1.50 mm, respectively; <i>P</i> = .047). There were no differences between these 2 groups in terms of relative ulnohumeral joint laxity (<i>P</i> = .201), presence of morphologic changes (<i>P</i> = .433), 3-year progression of relative UCL thickness (<i>P</i> = .748), or relative joint laxity (<i>P</i> = .904)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Professional pitchers from warm climates had a greater side-to-side difference in UCL thickness between the dominant and nondominant arms. This may be due to the potential for year-round throwing among baseball players from warm climates. There was no difference in laxity, thickness progression, laxity progression, or the presence of additional morphologic changes."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

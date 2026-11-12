@@ -1,0 +1,35 @@
+{
+  "pmid": "42206389",
+  "title": "Impact of Achilles tendon rupture on performance and career outcomes in NFL players: a matched cohort study.",
+  "year": "2026",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the impact of Achilles tendon ruptures (ATRs) on return to play, longitudinal performance, and career longevity in National Football League (NFL) players using a matched cohort design."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective matched cohort study of 62 NFL players who sustained ATRs between 2008 and 2022, matched 1:1 to 62 non-injured controls by position, age (±1 year), height (±2 inches), weight (±10 lbs), and years in league (±1 year). Return-to-play (RTP) was assessed using multivariable logistic regression. Performance was measured using Approximate Value (AV) across three seasons before and after injury. Mixed-effects difference-in-differences modeling with placebo testing and survival analysis were the primary analytic methods."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Mean age at injury was 27.24 ± 3.46 years. The RTP rate was 80.6% (50/62). Defensive position was the only independent predictor of RTP (OR 8.30, 95% CI 1.48-42.08; <i>p</i> = .015). ATR was associated with a 20.7% injury-attributable performance decline beyond natural career aging (DiD β =  -1.24 AV; <i>p</i> = .043), with the largest decrement in the first post-injury season. Of 48 players with valid pre- and post-injury data, only 27.1% recovered to their pre-injury performance level. ATR independently increased the hazard of career termination by 68% (HR 1.68, 95% CI 1.18-2.39; <i>p</i> = .004), with injured players accruing 1.4 fewer active seasons over 10 years."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "ATRs in NFL players are associated with significant and persistent performance decline beyond natural career aging, despite a high RTP rate. Return to play does not equate to restoration of pre-injury performance or preservation of career longevity."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective matched cohort study."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

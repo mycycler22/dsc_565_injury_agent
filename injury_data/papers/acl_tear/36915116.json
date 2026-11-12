@@ -1,0 +1,35 @@
+{
+  "pmid": "36915116",
+  "title": "High-demand tasks show that ACL reconstruction is not the only factor in controlling range of tibial rotation: a preliminary investigation.",
+  "year": "2023",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Excessive range of tibial rotation (rTR) may be a reason why athletes cannot return to sports after ACL reconstruction (ACLR). After ACLR, rTR is smaller in reconstructed knees compared to contralateral knees when measured during low-to-moderate-demand tasks. This may not be representative of the amount of rotational laxity during sports activities. The purpose of this study is to determine whether rTR is increased after ACL injury compared to the contralateral knee and whether it returns to normal after ACLR when assessed during high-demand hoptests, with the contralateral knee as a reference."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ten ACL injured subjects were tested within three months after injury and one year after reconstruction. Kinematic motion analysis was conducted, analysing both knees. Subjects performed a level-walking task, a single-leg hop for distance and a side jump. A paired t-test was used to detect a difference between mean kinematic variables before and after ACL reconstruction, and between the ACL-affected knees and contralateral knees before and after reconstruction."
+    },
+    {
+      "label": "RESULTS",
+      "text": "RTR was greater during high-demand tasks compared to low-demand tasks. Pre-operative, rTR was smaller in the ACL-deficient knees compared to the contralateral knees during all tests. After ACLR, a greater rTR was seen in ACL-reconstructed knees compared to pre-operative, but a smaller rTR compared to the contralateral knees, even during high-demand tasks."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The smaller rTR, compared to the contralateral knee, seen after a subacute ACL tear may be attributed to altered landing technique, neuromuscular adaptation and fear of re-injury. The continued reduction in rTR one year after ACLR may be a combination of this neuromuscular adaptation and the biomechanical impact of the reconstruction."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "The trial was registered in the Dutch Trial Register (NTR: www.trialregister.nl , registration ID NL7686)."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

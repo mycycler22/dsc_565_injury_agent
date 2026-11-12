@@ -1,0 +1,39 @@
+{
+  "pmid": "39669714",
+  "title": "Evaluating Performance Among National Basketball Association Players After Jones Fractures: A Retrospective Cohort Study.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In professional basketball, Jones fractures are among the most common cause of lower extremity stress injury. Despite its prevalence, there is a paucity of research on the impact of Jones fractures on athletic performance in the National Basketball Association (NBA)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the impact of Jones fractures on return to play and performance among NBA players when compared with preinjury values and healthy matched controls."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "NBA injury reports were analyzed to identify 18 players who sustained a Jones fracture between 2011 and 2022. Reports were verified through public press releases, social media accounts, and player profiles. A publicly available database was used to collect player data including position, age, and years of NBA experience. Performance and advanced statistics were collected for seasons pre- and postinjury. Players were 1:1 matched with healthy controls based on age, player position, and career performance. Univariate and multivariable regression analyses were performed to compare advanced and per-game performance statistics between injured and healthy control players."
+    },
+    {
+      "label": "RESULTS",
+      "text": "NBA players who sustained a Jones fracture had a mean age of 23.9 ± 2.31 years at the time of injury. The mean NBA experience was 3.00 ± 2.35 years and mean preinjury minutes played per game was 19.64 ± 11.24. All players (18/18) were able to return to NBA-level competition the year following the injury. There was no change in player efficiency rating (PER), value added, and estimated wins added metrics when comparing pre- and postinjury performances among injured players. Injured players missed more games (<i>P</i> < .001) postinjury compared with the matched controls. Multivariate analysis revealed that for players with a height of <2 m, every additional centimeter of height significantly decreased postinjury PER by 1.08 (95% CI, 0.35-1.80; <i>P</i> < .01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Despite its severity, most NBA players who sustain Jones fractures can return to preinjury performance and level of competition. There was no statistically significant decline in advanced statistics in the following season after injury, with a significant decrease in games played when comparing injured players with their healthy controls."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

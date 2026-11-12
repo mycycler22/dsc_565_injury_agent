@@ -1,0 +1,45 @@
+{
+  "pmid": "27660661",
+  "title": "Accelerated rehabilitation after arthroscopic Bankart repair in professional footballers.",
+  "year": "2016",
+  "journal": "Shoulder & elbow",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Advances in arthroscopic surgery have resulted in biomechanically stronger repairs that might allow for accelerated rehabilitation protocols and hence faster return to play. Evidence for such regimes in the shoulder, particularly in elite athletes, is lacking."
+    },
+    {
+      "label": "METHODS",
+      "text": "This prospective single surgeon (PB) series included 34 professional footballers undergoing an accelerated rehabilitation programme following arthroscopic soft tissue stabilization subsequent to traumatic anterior shoulder dislocation. Data were collected on time to regain elevation range, external rotation range, return to play and rate of recurrence."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Mean follow-up time was 4.8 years (range 2 years to 10 years). Full range of forward elevation was regained at a mean of 5 weeks (range 3 weeks to 7 weeks) and external rotation range (in neutral) at a mean of 6 weeks (range 4 weeks to 8 weeks). Mean return to play time was 11 weeks (range 9 weeks to 14 weeks). Three players (9%) reported a recurrent episode of dislocation at a mean of 19 months."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "An accelerated rehabilitation programme resulted in a return to play time of 11 weeks compared to previously reported times of between 5 months and 9 months in the contact sports population. A recurrence rate of 9% compares favourably to other published studies following similar surgery (5.1% to 28.6%) but which employed more conservative postoperative rehabilitation regimes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mean return to play time was 11 weeks (range 9 weeks to 14 weeks)."
+    },
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "An accelerated rehabilitation programme resulted in a return to play time of 11 weeks compared to previously reported times of between 5 months and 9 months in the contact sports population."
+    }
+  ],
+  "pmcid": "5023051",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Mean follow-up time was 4.8 years (range 2 years to 10 years). Full range of forward elevation was regained at a mean of 5 weeks (range 3 weeks to 7 weeks) and external rotation range (in neutral) at a mean of 6 weeks (range 4 weeks to 8 weeks). Mean return to play time was 11 weeks (range 9 weeks to 14 weeks). Three players (9%) reported a recurrent episode of dislocation at a mean of 19 months."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "29304721",
+  "title": "Epidemiology of shoulder and elbow injuries in National Collegiate Athletic Association wrestlers, 2009-2010 through 2013-2014.",
+  "year": "2018",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Examination of the incidence of shoulder and elbow injuries in the collegiate wrestling population is limited. Therefore, we sought to determine the incidence of shoulder and elbow injuries in wrestlers competing in the National Collegiate Athletic Association (NCAA), and investigate the risk factors involved."
+    },
+    {
+      "label": "METHODS",
+      "text": "All shoulder and elbow injuries in wrestlers from the 2009-2010 through 2013-2014 academic years in the NCAA Injury Surveillance Program database were extracted. The incidence of different injuries, sports, activity, time-in-game, competition status, and injury characteristics was recorded. Risk-ratios were calculated to determine risk factors for injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Collegiate wrestlers had an incidence of 21.59 shoulder and elbow injuries per 10,000 athletic exposures (AEs). The most frequent injury types included elbow ulnar collateral ligament tears, shoulder impingement, and acromioclavicular joint sprains, although there was significant variability. Freshman collegiate wrestlers suffered a significantly higher percentage of shoulder and elbow injuries than more senior athletes, signifying an association between experience and injury risk. There was a 4-fold higher incidence of injury during competition. Injuries were significantly more likely to occur later in the match, with a 2.5-fold increased risk compared with early. While 26.8% of wrestlers were out of play for at least 14 days, only 5.9% of all injuries required surgery. Lastly, Division I collegiate wrestlers had the highest overall injury rate."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Collegiate wrestlers have a high incidence of shoulder and elbow injury, with specific risk factors identified here. This at-risk patient population should be monitored closely for signs of fatigue, which may leave them susceptible to injury. Further prospective investigation of wrestling injuries with a special attention to injury prevention in higher risk athletes are needed to further validate these findings."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

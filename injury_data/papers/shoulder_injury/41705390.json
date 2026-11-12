@@ -1,0 +1,35 @@
+{
+  "pmid": "41705390",
+  "title": "Shoulder morphology and throwing shoulder pain: Associations with humeral retroversion angle and posterior glenohumeral distance.",
+  "year": "2026",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To examine the association between shoulder joint morphology and a history of throwing shoulder pain."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male collegiate and corporate league baseball players (n = 21; 20.2 ± 1.5 years) underwent bilateral shoulder imaging using open magnetic resonance imaging (MRI) in simulated abduction-external rotation positions replicating the late cocking phase. The posterior glenohumeral distance (PGHD) and humeral retroversion angle were measured. Side-to-side measures were calculated as the %PGHD and the difference in the humeral retroversion angle; higher values indicated greater morphological changes in the posterior glenoid rim and increased humeral retroversion in the throwing shoulder, respectively. Structural equation modelling examined the relationships among the %PGHD, the difference in the humeral retroversion angle, and a history of throwing shoulder pain."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The difference in the humeral retroversion angle was 8.0° ± 4.9°, and the %PGHD was 187.1% ± 76.2%. A history of throwing shoulder pain was present in 8 of 21 athletes. A larger %PGHD was significantly associated with a smaller difference in the humeral retroversion angle (β = -0.506, p = 0.012), which, in turn, was significantly associated with a history of throwing shoulder pain (β = -0.885, p < 0.001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Reduced humeral retroversion may be accompanied by morphological changes in the posterior glenoid rim, which may be associated with an increased risk of throwing shoulder injury. MRI‑based morphological assessment is useful as a research tool to understand the pathomechanisms of throwing‑related shoulder injury and to validate potential clinical markers."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, cross-sectional observational study."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

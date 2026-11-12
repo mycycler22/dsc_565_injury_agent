@@ -1,0 +1,31 @@
+{
+  "pmid": "35839520",
+  "title": "Effects of concussion on technical performance in professional Australian football.",
+  "year": "2023",
+  "journal": "Science & medicine in football",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "There is limited research on the on-field performance of previously concussed athletes. The aim of this exploratory study was to investigate athlete technical performance pre- and post-concussion in Australian Football."
+    },
+    {
+      "label": "METHODS",
+      "text": "Using publicly available data, male athletes who sustained a concussion during the 2016-19 professional Australian Football League seasons were analysed across five games pre- and post-concussion (concussion events n = 41, age 25.4 ± 3.5 years; control n = 39, age 25.2 ± 3.6 years). Mean technical performance metrics (goals, time-on-ground percentage, kicks, ground ball and disposal efficiency, contested marks) over the five games pre- and post-concussion, as well as within-athlete performance variability measures (standard deviation and coefficient of variation) were analysed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Results showed no significant group-by-time interactions, nor effect of time (pre-post) for any technical performance metric. Similarly, the within-athlete standard deviation and coefficient of variation of technical performance metrics showed no group-by-time interaction, nor effect for time."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This retrospective study has shown that athlete performance averaged over five games is not affected post-concussion in elite men's Australian Football. Further prospective studies controlling for contextual match factors based on opposition and environmental conditions may be required to identify potential in-game technical performance changes following return-to-play from concussion."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

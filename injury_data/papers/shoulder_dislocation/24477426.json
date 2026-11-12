@@ -1,0 +1,37 @@
+{
+  "pmid": "24477426",
+  "title": "[Shoulder dislocation in athletes. Current therapy concepts].",
+  "year": "2014",
+  "journal": "Der Orthopade",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder dislocation is a common injury in athletes participating in contact and overhead sports. Optimal treatment is still a subject of controversial debate."
+    },
+    {
+      "label": "STUDY AIM",
+      "text": "Presentation of current concepts for therapy of shoulder dislocation in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A selective literature search in PubMed was carried out."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Surgical and non-surgical therapy options are described in the literature and can be successful in certain situations. A gold standard has yet to be defined."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "For decision-making numerous patient and sports-related factors need to be considered. There is a current trend towards early surgical stabilization in young athletes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

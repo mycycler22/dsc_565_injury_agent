@@ -1,0 +1,48 @@
+{
+  "pmid": "19593417",
+  "title": "Generalized joint laxity associated with increased medial foot loading in female athletes.",
+  "year": "2009",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "The relationship between generalized joint laxity and plantar pressure distribution of the foot and the potential implications for lower extremity injury have not been studied."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the relationship between generalized joint laxity and dynamic plantar pressure distribution. We hypothesized that individuals with greater generalized joint laxity, or hypermobility, would have greater dynamic medial midfoot pressure and loading during walking than nonhypermobile individuals."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Case control."
+    },
+    {
+      "label": "SETTING",
+      "text": "Institutional biomechanics laboratory."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "Participants included 112 female soccer players between 11 and 21 years of age."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Each participant was tested for generalized joint laxity using the Beighton and Horan Joint Mobility Index (BHJMI; range, 0-9) and was categorized as having either high (BHJMI score >or=4) or low (BHJMI score <4) generalized joint laxity. Peak pressure and maximum force were calculated from a dynamic, barefoot plantar pressure distribution system."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Peak pressure and maximum force were greater in the 27 participants categorized as having high generalized joint laxity than in the 85 participants categorized as having low generalized joint laxity. The midfoot region exhibited greater loading in participants with high generalized joint laxity than in the other participants. We found an effect of BHJMI classification in the medial midfoot; peak pressure in the dominant (F(1,109) = 11.262, P = .001) and nondominant (F(1,109) = 14.32, P < .001) sides and maximum force in the dominant (F(1,109) = 7.88, P = .006) and nondominant (F(1,109) = 9.18, P = .003) sides were greater in the high generalized joint laxity group than in the low generalized joint laxity group."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes classified as having high generalized joint laxity demonstrated increased midfoot loading. Delineation of risk factors for medial collapse of the foot, which include hypermobility in athletes, may help clinicians evaluate and prevent lower extremity injury with treatments, such as orthoses."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

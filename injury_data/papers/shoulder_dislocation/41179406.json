@@ -1,0 +1,32 @@
+{
+  "pmid": "41179406",
+  "title": "The impact of social determinants of health on shoulder instability and likelihood of surgery: a systematic review.",
+  "year": "2025",
+  "journal": "JSES reviews, reports, and techniques",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Arthroscopic Bankart repair following shoulder dislocation results in a lower rate of recurrence and faster return to play when compared to nonoperative treatment in patients with first-time shoulder dislocations. The purpose of this study was to determine if specific social determinants of health are associated with a decreased likelihood of undergoing arthroscopic Bankart repair in patients with shoulder instability."
+    },
+    {
+      "label": "METHODS",
+      "text": "A literature search was performed in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines using PubMed, Web of Science, and Embase. Two independent reviewers performed an assessment of the resulting 334 studies, and 23 were selected for full-text review. Inclusion criteria consisted of peer-reviewed journal articles published in the United States from 2010 to present. Publications that were not peer-reviewed (eg, conference abstracts, podium presentations, and commentaries) and systematic reviews were excluded. Covidence was used for data extraction. Risk of bias assessment was performed on the final studies using the Newcastle-Ottawa scale, AXIS tool, and Quality of Health Economic Studies instrument. All studies were designated as high quality or met >80% criteria for low risk of bias."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nine studies across 5 journals met inclusion criteria, evaluating a total of 43,054 patients with shoulder instability. Among the 7 studies that included a gender breakdown, 18,350 (42.6%) of patients were female. There were 5 cohort studies (56%), 2 cross-sectional studies (22%), 1 survey study (11%), and 1 economic and decision analysis (11%). Six studies (67%) evaluated insurance status, 6 (67%) evaluated race and ethnicity, and 3 (33%) evaluated income status. Three studies (33%) included other factors such as social deprivation index and distressed community index. Black race and Hispanic ethnicity, public insurance, lower income quartile, and increased social deprivation were associated with lower rates of arthroscopic Bankart repair. Higher surgical costs were associated with public insurance and below-median income. Patients with public insurance had longer wait times between injury presentation and surgery."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Minority race or ethnicity, public insurance status, lower income, and increased social deprivation were found to decrease accessibility and reduce the likelihood of undergoing Bankart repair in patients with shoulder instability. In addition, public insurance was associated with longer wait times between injury presentation and surgery. A delay in treatment for patients with shoulder instability may increase the risk of recurrent instability and the development of additional intra-articular pathology, which can, in turn, lead to worse clinical outcomes."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

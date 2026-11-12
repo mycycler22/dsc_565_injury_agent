@@ -1,0 +1,62 @@
+{
+  "pmid": "34552993",
+  "title": "Surgical Management of Proximal Fifth Metatarsal Fractures in Elite Athletes: A Systematic Review.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "As a result of the high physical demand in sport, elite athletes are particularly prone to fifth metatarsal fractures. These injuries are typically managed surgically to avoid high rates of delayed union and allow for quicker return to play (RTP)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To review studies showing clinical and radiographic outcomes, RTP rates, and complication rates after different surgical treatment modalities for fifth metatarsal fractures exclusively in elite-level athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search was conducted within the PubMed, Scopus, and Cochrane databases from January 2000 to January 2020. Inclusion criteria consisted of clinical outcome studies after operative management of fifth metatarsal fractures in elite athletes. Exclusion criteria consisted of nonoperative management, high school or recreational-level athletic participation, nonclinical studies, expert opinions, and case series with <5 patients."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 12 studies met inclusion and exclusion criteria, comprising 280 fifth metatarsal fractures treated surgically. Intramedullary screw fixation was the most common fixation construct (47.9%), and some form of intraoperative adjunctive treatment (calcaneal autograft, iliac crest bone graft, bone marrow aspirate concentrate, demineralized bone matrix) was used in 67% of cases. Radiographic union was achieved in 96.7% of fractures regardless of surgical construct used. The overall mean time to union was 9.19 weeks, with RTP at a mean of 11.15 weeks. The overall reported complication rate was 22.5%, with varying severity of complications. Refracture rates were comparable between the different surgical constructs used, and the overall refracture rate was 8.6%."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Elite athletes appeared to have a high rate of union and reliably returned to the same level of competition after surgical management of fifth metatarsal fractures, irrespective of surgical construct used. Despite this, the overall complication rate was >20%. Specific recommendations for optimal surgical management could not be made based on the heterogeneity of the included studies."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The overall mean time to union was 9.19 weeks, with RTP at a mean of 11.15 weeks."
+    }
+  ],
+  "pmcid": "8450619",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 12 studies met inclusion and exclusion criteria, comprising 280 fifth metatarsal fractures treated surgically. Intramedullary screw fixation was the most common fixation construct (47.9%), and some form of intraoperative adjunctive treatment (calcaneal autograft, iliac crest bone graft, bone marrow aspirate concentrate, demineralized bone matrix) was used in 67% of cases. Radiographic union was achieved in 96.7% of fractures regardless of surgical construct used. The overall mean time to union was 9.19 weeks, with RTP at a mean of 11.15 weeks. The overall reported complication rate was 22.5%, with varying severity of complications. Refracture rates were comparable between the different surgical constructs used, and the overall refracture rate was 8.6%."
+    },
+    {
+      "section": "Outcomes Evaluated",
+      "text": "The most common outcome measures evaluated were the presence of radiographic union, time to union, and return to sport. Union, defined as complete bony healing on radiographs or computed tomography (CT) imaging, was achieved in 269 of 280 treated fifth metatarsal fractures (96.7%). Of the 12 studies, 6 used only plain radiographs; the other 6 used either strictly CT or a combination of radiographic and CT imaging based on individualized clinical assessment. Among the 7 studies that reported time to union data, the mean time to union was 9.19 weeks (range, 5.1-30.3 weeks). Among the 11 studies that reported RTP data, the mean time to return was 11.15 weeks (range, 3-40 weeks). In all 12 studies, only 2 athletes were explicitly described as unable to return to the same level of competition. A summary of outcome measures reported in each study is provided in Table 5."
+    },
+    {
+      "section": "TABLE: Postoperative Rehabilitation Protocola",
+      "text": "Lead Author (Year) | Intervention | Postoperative Footwear; NWB Time | Protocol Basics\nBernstein3 (2018) | ORIF, plantar plating + bone graft | Fracture boot; 14 d | Wk 0 to 2, active/passive ROM. Wk 3 to 6, progressive WB with resisted training. Wk 6 to 12, carbon fiber orthotic with full release for cutting/pivoting at 12 wk.\nDearden8 (2020) | 5th MT biplanar, rotational osteotomy | Aircast boot; 10 d | D 0 to 10, NWB. D 10, Air cast boot applied, 50% WB. D 21, swimming allowed. D 42, transition to training shoe. Jogging at 12 wk and expected return to full sports at 16 wk.\nHunt17 (2011) | IM screw fixation ± bone graft | Splint or cast; 28 d | Wk 0 to 4, NWB. Wk 4, transition to CAM boot. Transition to running shoes with custom orthotic when clinically asymptomatic and show radiographic consolidation. Running initiated after radiographic union.\nLareau21 (2016) | IM screw fixation + bone graft | CAM boot; 14 d | Wk 0 to 2, NWB. Wk 2, WB in CAM boot. Transition to accommodative shoe when clinically asymptomatic. Transition to running shoe when radiographs demonstrated bridging bone. Wk 6, run progression protocol and sport-specific integration with custom orthosis.\nLarson22 (2002) | IM screw fixation ± bone graft | Walker boot/splint; 14 d | Wk 0 to 2, NWB. Wk 2, WB in CAM boot with progressive WB as tolerated. Return to full activity when clinically asymptomatic and demonstrate radiographic progression.\nLee27 (2011) | ORIF, modified tension band ± bone graft | Short leg splint; 42 d | Wk 0 to 6, NWB. Wk 6, transition to walking boot with progressive WB. Return to full activity when clinically asymptomatic and demonstrate full radiographic union on radiograph and CT.\nMiller28 (2019) | IM screw fixation + bone graft | Short boot; 14 d | Wk 0 to 2, NWB. Wk 2 to 4, partial WB in boot. Wk 4 to 6, full WB in boot. At 6 wk, underwent biomechanical assessment and placed in orthosis with recommendation to wear until 1 y postoperatively.\nO’Malley32 (2016) | IM screw fixation + bone graft | Short leg splint; 14 d | Wk 0 to 2, NWB in splint. Wk 2 to 4, partial WB in boot with crutches. Wk 4 to 6, full WB in boot + water therapy. Return to play when clinically asymptomatic and radiographic union.\nPecina34 (2011) | IM screw fixation | Short leg cast; 21 d | Wk 0 to 3, NWB in cast. Wk 3, WB as tolerated in hard-soled shoe. Wk 6, began running and jumping. Return to sports when clinically asymptomatic and radiographic progression toward union.\nTomic43 (2013) | External fixation | Adapted sport shoe; 1 d | D 1, 25% WB with crutches + adapted sport shoe. D 2, if no pain, then advanced to 50% WB, ankle ROM. D 3 to 7, progressive WB to full; if pain occurred, WB reduced to the previous level for 2 d. Goal of return to competitive sport in 7 wk.\nTsukada45 (2012) | IM screw fixation + bone graft | Splint or cast; 28 d | Wk 0 to 2, NWB in splint/cast. Wk 3 to 4, NWB without external stabilization. Wk 5 to 6, progressive WB with full WB at wk 6. Running permitted once union was achieved, with gradual increase in activity until competition.\nYoung51 (2020) | ORIF, plantar plating ± bone graft | Splint or cast; 28 d | Wk 0 to 4, heel WB in cast/splint. Wk 4, transitioned to hard-soled shoe with shank with progressive WB. Running regimen began when clinically asymptomatic and union on radiograph and CT. Return to sport based on individual team protocols."
+    },
+    {
+      "section": "TABLE: Outcome Measures (Radiographic Union and Return to Play)a",
+      "text": "Lead Author (Year) | Interventionb | Radiographic Union (n = 269/280; 96.7%), % | Time to Union, wk, mean (range)b | Time to RTP, wk, mean (range)c\nBernstein3 (2018) | ORIF, plantar plating + bone graft | 100.0 | 6.5 (5.1-9.1) | 12.3 (10.1-16.3)\nDearden8 (2020) | 5th MT biplanar, rotational osteotomy | 100.0 | All patients had achieved clinical and radiographic union by 12 wk.d | All players had returned to competition level sporting activity at 20 wk.d\nHunt17 (2011) | IM screw fixation ± bone graft | 100.0 | All patients had achieved clinical and radiographic union by 16 wk.d | 12.3 (6-16) (RTP not influenced by specific bone graft used)\nLareau21 (2016) | IM screw fixation + bone graft | 100.0 |  | 8.7 (5.9-13.6)\nLarson22 (2002) | IM screw fixation ± bone graft | 83.3 |  | 7.67 (3-12)\nLee27 (2011) | ORIF, modified tension band ± bone graft | 88.0 | 14.1 (5.7-30.3) | \nMiller28 (2019) | IM screw fixation + bone graft | 97.3 | 12.7 | 10.5\nO’Malley32 (2016) | IM screw fixation + bone graft | 100.0 | 7.5 (6-10) | 10 (7-12.5)\nPecina34 (2011) | IM screw fixation | 100.0 |  | 9 (5-14)\nTomic43 (2013) | External fixation | 100.0 | 5.8 (5.4-6.4) | 6.7 (6.4-6.9)\nTsukada45 (2012) | IM screw fixation + bone graft | 100.0 | 8.4 (6-12) | 12.1 (9-17)\nYoung51 (2020) | ORIF, plantar plating ± bone graft | 100.0 | 9.3 (8-16) | 22.2 (12-40)"
+    }
+  ]
+}

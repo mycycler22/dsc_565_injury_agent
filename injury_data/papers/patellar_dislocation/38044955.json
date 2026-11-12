@@ -1,0 +1,35 @@
+{
+  "pmid": "38044955",
+  "title": "Is combined MPFL reconstruction and tubercule tibial osteotomy superior to isolated reconstruction? A systematic review and meta-analysis.",
+  "year": "2023",
+  "journal": "Journal of clinical orthopaedics and trauma",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "There is no consensus for management of patellar instability, even in the case of malalignment. The purpose of the review is to evaluate outcomes in the literature of MPFL reconstruction with and without tibial tubercle osteotomy."
+    },
+    {
+      "label": "METHODS",
+      "text": "Two databases PubMed and Scopus were searched for studies comparing MPFL reconstruction with and without concomitant tibial tuberosity osteotomy. PRISMA guidelines were followed. Data on functional outcomes via Kujala score, redislocation rates and return to sport rates were reported."
+    },
+    {
+      "label": "RESULTS",
+      "text": "9 studies included data from 806 knees: 463 submitted to isolated MPFL reconstruction, and 343 submitted to the combined surgery. Patients submitted to the combined procedure had all TT-TG values superior to 18, while the ones with isolated reconstruction had more heterogeneous values, varying between 13 and 20 mm. 77.78% of the studies reported on postoperative Kujala scores, with a mean value of 83.53 in patients who underwent MPFL reconstruction alone and 83.72 in those who underwent the combined procedure. The mean difference between the two groups was -0.83, with the improvement of the score statistically significant in 22.22% of the studies, regardless of the surgery. Concerning redislocation rate, odds ratio comparing both procedures was 0.84 (p = 0.67)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The principal finding is that the MPFL reconstruction with or without TTO resulted in similar functional outcomes, assessed by the Kujala score, and low complications concerning recurrent patellar dislocation. More robust literature is needed in the setting of a high TT-TG distance."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

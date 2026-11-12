@@ -1,0 +1,31 @@
+{
+  "pmid": "24792072",
+  "title": "Assessment of gastrocnemius tensiomyographic neuromuscular characteristics as risk factors for anterior cruciate ligament injury in male soccer players.",
+  "year": "2015",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "There is a large number of publications evaluating neuromuscular risk factors for anterior cruciate ligament (ACL) injury in athletes. However, most of them have involved the female athlete and, in addition, the gastrocnemius muscles have been less investigated by far compared with the quadriceps and hamstring. The purpose of this study was to investigate the role of the gastrocnemius muscles as neuromuscular risk factors for ACL injury in male soccer players, through tensiomyography (TMG)."
+    },
+    {
+      "label": "METHODS",
+      "text": "All competitive male soccer players with confirmed ACL tear included in this study underwent resting TMG assessment of gastrocnemius medialis (GM) and gastrocnemius lateralis muscles of the uninjured side. The same values were obtained from a sex-, and sports level-matched control group in both sides. The maximal displacement (D m), delay time (T d), contraction time (T c), sustained time (T s), and half-relaxation time (T r) were obtained for both muscles. TMG values of the uninjured side in ACL-injured group were compared with the mean values between both sides in the control subjects."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were no significant between-group differences in demographic characteristics. Most TMG parameters of the gastrocnemius muscles were not significantly different between the two groups. Only the GM-T r (p = 0.02) and GM-D m (p = 0.006) were significantly higher in the ACL-injured group compared with control group."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Neuromuscular characteristics in terms of mechanical and contractile properties of the gastrocnemius muscles may not be significant risk factors for ACL injury in male soccer players."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

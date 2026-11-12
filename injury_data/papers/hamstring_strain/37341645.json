@@ -1,0 +1,36 @@
+{
+  "pmid": "37341645",
+  "title": "SUPER rehabilitation of hamstring strain injuries in soccer players: Delphi consensus study.",
+  "year": "2024",
+  "journal": "Physiotherapy theory and practice",
+  "pub_types": [
+    "Journal Article",
+    "Consensus Statement"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Hamstring strain injuries (HSI) are one of the most common injuries for soccer players and there is a need for new clinical-based studies on the rehabilitation of these injuries."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This study aimed to create a consensus on physiotherapy and rehabilitation approaches used in HSI by physiotherapists with super league experience in Turkey."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-six male physiotherapists (duration of experience in professional life, on athlete health, and in the super league: 12.84 ± 6.04 years, 12.19 ± 5.96 years, 8.71 ± 5.31 years, respectively) from different institutions participated in the study. The research was carried out in three rounds using the Delphi method."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Data collected using LimeSurvey and Google Forms were analyzed using the Microsoft Excel and SPSS 22 software. The response rates over the three rounds were 100%, 96%, and 96%, respectively. The 10 main items that were agreed upon in Round 1 were divided into 93 sub-items. Their numbers in the second and third Rounds were 60 and 53, respectively. At the end of Round 3, the highest consensus was on eccentric exercise, dynamic stretching, interval running, and movement-enhancing field training. All sub-items at this round were classified as SUPER (S: Soft tissue restoration techniques; U: Using supportive approaches; P: Physical fitness exercises; E: Electro-hydro-thermal methods; and R: Return to sport activities)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "SUPER rehabilitation provides a new conceptual framework in terms of approaches used by clinicians in rehabilitation for athletes with HSI. Recognizing the lack of evidence for the various approaches involved, clinicians can modify their practice and researchers can explore whether these approaches are scientifically correct."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

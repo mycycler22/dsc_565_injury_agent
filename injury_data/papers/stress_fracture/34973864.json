@@ -1,0 +1,24 @@
+{
+  "pmid": "34973864",
+  "title": "Less Invasive Surgery With Autologous Bone Grafting for Proximal Fifth Metatarsal Diaphyseal Stress Fractures.",
+  "year": "2022",
+  "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Surgery with autologous bone grafting for proximal fifth metatarsal diaphyseal stress fracture has a potential to decrease nonunion, but it is not performed widely as the primary surgery because of donor-site morbidity. We have devised and performed a less invasive surgical procedure with autologous bone grafting and aimed to investigate the clinical and radiologic outcomes of this procedure. The data for 73 patients who underwent primary intramedullary screw fixation with autologous bone grafting from the fifth metatarsal base for proximal fifth metatarsal diaphyseal stress fractures were investigated retrospectively. The clinical and radiologic outcomes were evaluated. The mean time to bone union, starting running, and return to play was 11.8, 6.3, and 13.4 weeks, respectively. Bone union was achieved in 76 of the 78 cases. Intramedullary screw fixation with autologous bone grafting from the fifth metatarsal base showed good outcomes. It may be a useful surgical option for patients with proximal fifth metatarsal diaphyseal stress fractures."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean time to bone union, starting running, and return to play was 11.8, 6.3, and 13.4 weeks, respectively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "34988235",
+  "title": "Injury Patterns, Risk Factors, and Return to Sport in Brazilian Jiu Jitsu: A Cross-sectional Survey of 1140 Athletes.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Brazilian jiu jitsu (BJJ) is a growing martial art that focuses on grappling techniques."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To quantify the 3-year incidence of BJJ-related injuries and detect common injury patterns as well as risk factors among those practicing BJJ. It was hypothesized that there would be a high incidence of injuries, they would be caused by submissions in sparring situations, and they would occur predominantly at the extremities."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Active BJJ athletes were invited to take an English-language online survey developed by orthopaedic surgeons together with BJJ athletes and a sports scientist. Data were recorded regarding athlete demographics, sporting activity level, injuries within the past 3 years that caused at least a 2-week time loss, injury mechanisms, and return to sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 1140 responses were received from 62 different countries; 88.9% of all athletes were male, and 63.9% were regular competitors. Within the investigated cohort, 1052 injuries were recorded in 784 athletes, for an injury incidence of 308 per 1000 athletes per year. The lower extremity (45.7%) and upper extremity (30.2%) were predominant sites of injury, with injuries to the knee (27.1%) being the most common. The most frequent knee injuries were meniscal injuries (n = 65), anterior cruciate ligament (ACL) tears (n = 36), and medial collateral ligament injuries (n = 36). ACL tears were especially associated with long time frames for return to sport. Most injuries occurred during sparring (77.6%) and were caused by submissions (29.7%) and takedowns (26.4%). Competing regularly (<i>P</i> = .003), older age (<i>P</i> < .001), and higher belt rank (<i>P</i> = .003) were significant risk factors for injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Injury incidence was high among BJJ athletes surveyed, with 2 out of 3 athletes reporting at least 1 injury within a 3-year period that caused a 2-week absence from training. Most injuries occurred during sparring, and we believe that a high potential for injury reduction lies in drawing awareness to common injury patterns and sites in athletes."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

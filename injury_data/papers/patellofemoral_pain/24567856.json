@@ -1,0 +1,35 @@
+{
+  "pmid": "24567856",
+  "title": "The impact of sagittal plane hip position on isometric force of hip external rotator and internal rotator muscles in healthy young adults.",
+  "year": "2014",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE/BACKGROUND",
+      "text": "Hip external rotator (ER) and internal rotator (IR) muscle weakness is theorized to be associated with lower extremity injury in athletes including knee ligament tears and patellofemoral pain. Previous studies investigating hip musculature strength have utilized various sagittal plane hip positions for testing. The relationship between results at these different positions is unknown."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eighty healthy, pain-free young adults participated in the study: 40 female, mean age 22.90 (± 2.32) years, and 40 male, mean age 23.50 (± 2.15) years. Peak isometric torque of bilateral hip ER and IR were tested at 90° and 0° of hip flexion with an instrumented dynamometer. Peak muscle forces were calculated. Peak forces were normalized by body mass. Mean normalized force was calculated for dominant and non-dominant limbs for ER and IR in both positions. Male and female data were analyzed separately with paired t-tests (2-tailed). Reference values for average muscle force and torque were calculated for dominant and non-dominant limbs for both hip positions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Hip IR normalized peak force was greater at 90° compared to 0° flexion position bilaterally in both genders (p < .01). Hip ER normalized peak force was greater at 90° compared to 0° flexion in dominant limbs of both genders and in non-dominant limbs of males (p < .01). Non-dominant hip ER normalized force in females was greater at 90° versus 0° flexion; however, it was not significant (p = .092). Post hoc analysis of normalized average force (average over 5-second contraction) yielded similar results."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Clinicians and researchers should use consistent positioning for testing of hip ER and IR strength. This will improve certainty of determining if a patient's strength has changed or if differences between groups are present. Reference values reported will be useful in order to determine if weakness is present and to set goals, particularly in cases of bilateral involvement."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "2b."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "41194948",
+  "title": "Ankle Sprains in Nonprofessional Athletes: Influence of Sport Type, History, and Leg Dominance.",
+  "year": "2025",
+  "journal": "Medical journal of the Islamic Republic of Iran",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle sprains are common injuries in sports involving jumping and rapid directional changes. This study aimed to assess the incidence of ankle sprains among nonprofessional athletes in futsal, volleyball, and basketball and to identify associated risk factors-including sport type, previous ankle injuries, and leg dominance."
+    },
+    {
+      "label": "METHODS",
+      "text": "This cross-sectional study included 72 nonprofessional university athletes, with 24 participants each from futsal, volleyball, and basketball teams. Participants were selected using simple random sampling. Data collected included demographic information, ankle sprain incidence, history of previous injuries, and leg dominance. Logistic regression and odds ratios (OR) were utilized to analyze relationships between variables."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall incidence of ankle sprains was 43%, with lateral sprains being the most common type. A previous history of ankle injuries was reported by 54% of participants. Basketball players had the highest incidence (58%), followed by volleyball (37.5%) and futsal (33.3%). No significant association was found between sport type and ankle sprain occurrence in either crude or adjusted analyses (crude <i>P</i> = 0.171; adjusted <i>P</i> = 0.181-0.201). However, a history of previous ankle injuries was a strong predictor of future sprains (crude OR = 33; <i>P</i> < 0.001; adjusted OR = 25; <i>P</i> = 0.002). Leg dominance showed a limited effect, with only 23% of injuries occurring on the dominant side (crude <i>P</i> = 0.462; adjusted <i>P</i> = 0.601)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The findings indicate that sport type does not significantly influence ankle sprain occurrence; however, a previous history of ankle sprains is a strong predictor of future injuries."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

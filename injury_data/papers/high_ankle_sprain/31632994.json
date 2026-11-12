@@ -1,0 +1,39 @@
+{
+  "pmid": "31632994",
+  "title": "High Ankle Sprains in Professional Ice Hockey Players: Prognosis and Correlation Between Magnetic Resonance Imaging Patterns of Injury and Return to Play.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hockey players sustain a greater incidence of ankle syndesmosis injuries than other athletes. These injuries have a higher morbidity and more unpredictable recovery than lateral ankle sprains. Magnetic resonance imaging (MRI) has been used to establish the diagnosis but has not been evaluated for its ability to predict return to play."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "We hypothesized that patterns of injury defined on MRI could be used to predict return to play in a cohort of professional hockey players with syndesmosis sprains."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A prospectively collected National Hockey League (NHL) database was analyzed from the 2006-2007 to 2011-2012 seasons to assess return to play after an injury. A separate retrospective review of ankle MRI scans from professional hockey players with a documented high ankle sprain sustained between 2007 and 2012 was performed. Injuries were classified on MRI as complete or partial tears of the anterior-inferior tibiofibular ligament (AITFL), posterior-inferior tibiofibular ligament (PITFL), anterior talofibular ligament (ATFL), posterior talofibular ligament (PTFL), calcaneofibular ligament (CFL), and deltoid ligament. Fractures, bone contusions, and osteochondral lesions were also recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 105 NHL athletes sustained high ankle sprains over the 5 seasons studied. Of these athletes, 85 were unable to play and missed a median of 8 games (range, 0-65 games). A retrospective MRI evaluation of 21 scans identified complete AITFL tears in 13 (62%) and high-grade partial tears in 5 (24%) cases. In contrast, the PITFL was partially torn in 9 (43%) and normal in 12 (57%) cases. Bone contusions were seen in 71% of cases and lacked a consistent pattern. The most commonly associated ligamentous injury was of the ATFL, which was injured in 52% of cases (11/21; 3 complete and 8 partial). There was no difference in the mean number of days lost when players were stratified by patterns of injury (incomplete/complete AITFL tear ± additional ligamentous injury, bone contusion, syndesmosis width)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A high ankle sprain resulted in significant variations in time of recovery among professional hockey players. A torn AITFL and bone bruising were the most common patterns of injury. Although MRI can be used to confirm the diagnosis of a syndesmosis injury, it did not predict return to play in this population."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

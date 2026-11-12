@@ -1,0 +1,32 @@
+{
+  "pmid": "25137368",
+  "title": "Eccentric hamstring strength and hamstring injury risk in Australian footballers.",
+  "year": "2015",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Are eccentric hamstring strength and between-limb imbalance in eccentric strength, measured during the Nordic hamstring exercise, risk factors for hamstring strain injury (HSI)?"
+    },
+    {
+      "label": "METHODS",
+      "text": "Elite Australian footballers (n = 210) from five different teams participated. Eccentric hamstring strength during the Nordic exercise was obtained at the commencement and conclusion of preseason training and at the midpoint of the season. Injury history and demographic data were also collected. Reports on prospectively occurring HSI were completed by the team medical staff. Relative risk (RR) was determined for univariate data, and logistic regression was employed for multivariate data."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-eight new HSI were recorded. Eccentric hamstring strength below 256 N at the start of the preseason and 279 N at the end of the preseason increased the risk of future HSI 2.7-fold (RR, 2.7; 95% confidence interval, 1.3 to 5.5; P = 0.006) and 4.3-fold (RR, 4.3; 95% confidence interval, 1.7 to 11.0; P = 0.002), respectively. Between-limb imbalance in strength of greater than 10% did not increase the risk of future HSI. Univariate analysis did not reveal a significantly greater RR for future HSI in athletes who had sustained a lower limb injury of any kind within the last 12 months. Logistic regression revealed interactions between both athlete age and history of HSI with eccentric hamstring strength, whereby the likelihood of future HSI in older athletes or athletes with a history of HSI was reduced if an athlete had high levels of eccentric strength."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Low levels of eccentric hamstring strength increased the risk of future HSI. Interaction effects suggest that the additional risk of future HSI associated with advancing age or previous injury was mitigated by higher levels of eccentric hamstring strength."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

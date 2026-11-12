@@ -1,0 +1,31 @@
+{
+  "pmid": "29774866",
+  "title": "Femoral neck stress fracture in a young female recruit: case report.",
+  "year": "2018",
+  "journal": "SICOT-J",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Femoral neck stress fractures are uncommon and depending on their location, can be at high risk for non-union and significant morbidity.  Their prevalence is higher among runners and military recruits, and women seem to be at higher risk."
+    },
+    {
+      "label": "METHODS",
+      "text": "A 27-year-old female, who was enrolled in military recruit, reported left side groin pain after a strenuous running exercise. Due to persistent pain an X-Ray was ordered, which revealed no signs of acute lesions. Further imaging studies with CT scan and MRI identified a compression-type femoral neck stress fracture."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The patient was submitted to conservative treatment consisting of restricting from full weight-bearing. Six weeks after she initiated partial weight-bearing, becoming asymptomatic at seven months. Follow-up imaging studies revealed union of the fracture."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "This diagnosis should be considered when evaluating military and athlete populations. Early recognition of these injuries is crucial because complication and morbidity rates are high."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "33026835",
+  "title": "Age-Associated Pathology and Functional Outcomes After Hip Arthroscopy in Female Patients: Analysis With 2-Year Follow-up.",
+  "year": "2020",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Previous research has demonstrated a statistically significant relationship between hip arthroscopy outcomes and age."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the link, if any, between hip arthroscopy outcomes and intraoperative pathology as well as with patient age and sex."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Of 272 female patients aged ≥14 years undergoing primary hip arthroscopy for femoroacetabular impingement between August 2010 and September 2017, and with 2-year patient-reported outcome scores, a total of 194 (71.3%) were included for final analysis. These patients were separated into 3 age-based cohorts: <30 years (n = 44), 30 to 45 years (n = 74), and >45 years (n = 76). Their data were then analyzed and compared with respect to patient characteristic information, intraoperative pathology, and functional outcome scores for statistical significance, which was set at <i>P</i> < .05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "When an analysis of variance was conducted for the 3 age groups at 2-year follow-up, there was a statistically significant difference for modified Hip Harris Score (<i>P</i> = .0003; <30 years, 88.26 ± 13.1 [mean ± SD]; 30-45 years, 82.68 ± 18.0; >45 years, 75.03 ± 19.5). The results of an analysis of variance comparing 2-year Non-arthritic Hip Score were also statistically significant (<i>P</i> = .0002; <30 years, 89.9 ± 13.7; 30-45 years, 85.8 ± 15.8; >45 years, 78.1 ± 17.2). Results of logistic regression demonstrated that the odds of a cam-type lesion decreased by 0.971 for every additional year in age among female patients. The odds of achieving the patient-acceptable symptomatic state decreased by a factor of 0.96 for each additional year in age (<i>P</i> < .0004)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Surgical treatment of femoroacetabular impingement in females led to improved functional outcomes at 2 years of follow-up, although older female patients did worse after hip arthroscopy as compared with their younger counterparts. There may be an age-dependent decrease in incidence of cam-type lesions in female patients."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

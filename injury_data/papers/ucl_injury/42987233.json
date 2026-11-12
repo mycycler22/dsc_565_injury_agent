@@ -1,0 +1,24 @@
+{
+  "pmid": "42987233",
+  "title": "Anomalous Triceps Muscle Slip as an Unusual Cause of Ulnar Nerve Entrapment in a Division I Baseball Pitcher: A Case Report.",
+  "year": "2026",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Journal Article",
+    "Case Reports"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "A 19-year-old right-hand-dominant Division I baseball pitcher presented with medial elbow pain, velocity decline, and ulnar-sided numbness after a bullpen session. MRI demonstrated partial tearing of the ulnar collateral ligament (UCL). Electromyography was unremarkable. After failure of conservative management, surgical exploration revealed an anomalous triceps slip overlying the ulnar nerve. The muscle was excised, and the nerve was transposed anteriorly with concurrent UCL repair. He returned to the mound at 7 months and pitched a full season, remaining asymptomatic at 12 months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Anomalous triceps musculature is a rare cause of dynamic nerve compression in throwing athletes."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

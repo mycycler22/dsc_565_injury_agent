@@ -1,0 +1,19 @@
+{
+  "pmid": "33859886",
+  "title": "A Study on the Incidence of Hand or Wrist Injuries in CrossFit Athletes.",
+  "year": "2021",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Purpose The purpose of this study was to investigate the reported rates and characteristics of injuries among CrossFit athletes with specific attention to the hand and wrist. We further sought to identify trends and associations of these injuries by examining demographic data. Methods A questionnaire was created to capture self-reported information on the incidence of hand or wrist injuries and their associations in CrossFit athletes. It was distributed between April 2020 and July 2020 to athletes training at CrossFit affiliated gyms in the New York and Pennsylvania regions. Bivariate logistic regression analysis was used to identify factors correlated with an injury. Results A total of 270 responses (97.5% response rate) were available for final analysis. The median age of respondents was 34 years and 72.2% had been participating in CrossFit for at least two years. CrossFit athletes reported injury rates of 62.2% while engaged in CrossFit training and 20.4% reported an injury specific to the hand or wrist. The majority of hand or wrist injuries occurred after one year of CrossFit training (65.4%). The majority of reported initial injuries occurred to the wrist (75.4%); subsequently, 29.1% reported reinjuring the same region. While 58.2% reported not yet having healed or taking longer than one month to feel fully healed, 72.8% reported returning to unmodified training within one month. Only 15 respondents reported seeking medical attention from a physician for their injury. Physicians generally recommended a training break of over one month, but only two patients reported taking a break this long. Male sex and length of participation in CrossFit were associated with an increased risk of developing a hand or wrist injury. Discussion Hand and wrist injuries represent a significant proportion of injuries among CrossFit athletes. CrossFit practitioners are potentially returning to unmodified training too early following injury, leaving them susceptible to further injury. Physicians and therapists must consider these findings and address both therapies and preventative measures for these types of injuries with their patients."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

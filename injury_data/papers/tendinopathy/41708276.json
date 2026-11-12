@@ -1,0 +1,50 @@
+{
+  "pmid": "41708276",
+  "title": "Effects of percutaneous platelet-rich plasma injection on return-to-play after acute hamstring muscle injury: a systematic review and meta-analysis.",
+  "year": "2026",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate the effectiveness and safety of platelet-rich plasma (PRP) for acute hamstring injuries, with attention to return-to-play (RTP) time, reinjury rates and adverse events."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review and meta-analysis of randomised controlled trials (RCTs). Risk of bias was assessed using the Cochrane tool; certainty of evidence was evaluated using GRADE (Grading of Recommendations Assessment, Development and Evaluation)."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Databases included Embase, MEDLINE, Web of Science, Elsevier and Cochrane Central searched through March 2025."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA",
+      "text": "RCTs comparing PRP to control treatments for acute hamstring injuries were included. Non-randomised and chronic tendinopathy studies were excluded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Six RCTs (n=277) were included. PRP reduced RTP time versus control (mean difference -8.6 days; 21.4 vs 30.0 days; 95% CI -3.04 to -0.03; p=0.045), though heterogeneity was high (I²=94.1%). Reinjury (15% vs 16%; p=0.722) and adverse event rates (1% vs 0%; p=0.687) did not differ. Certainty of evidence was rated as low to moderate due to risk of bias and imprecision."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "PRP may shorten RTP in acute hamstring injuries, especially when image-guided. Reinjury risk appears unchanged. Further trials are needed to confirm these findings and standardise biological use in muscle injuries."
+    },
+    {
+      "label": "PROSPERO REGISTRATION NUMBER",
+      "text": "CRD420251109346."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "PRP reduced RTP time versus control (mean difference -8.6 days; 21.4 vs 30.0 days; 95% CI -3.04 to -0.03; p=0.045), though heterogeneity was high (I²=94.1%)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

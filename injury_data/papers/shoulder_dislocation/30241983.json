@@ -1,0 +1,31 @@
+{
+  "pmid": "30241983",
+  "title": "The kinematics of 1-on-1 rugby tackling: a study using 3-dimensional motion analysis.",
+  "year": "2019",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Although past studies using video analysis indicated that the arm tackle and head-in-front shoulder tackle are possible risks for shoulder dislocation, the underlying mechanisms of tackling-related shoulder dislocation have not been sufficiently investigated. This study aimed to analyze the kinematic aspects of these tackling motions in 1-on-1 tackles in an experimental setting using a 3-dimensional motion-capture system."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 65 one-on-one tackles were recorded using a marker-based, automatic, digitizing motion-capture system. A documented tackle was classified into 1 of 3 types, which was decided based on the first point of contact on the ball carrier and the head position at the time of impact: shoulder tackle (reference tackle), arm tackle, and head-in-front tackle. The orientations of the head, trunk, and shoulder at impact were calculated and statistically compared with each other."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The distribution of tackles recorded in this study was as follows: 38 shoulder, 23 arm, and 4 head-in-front tackles. In comparison with the shoulder tackle as a reference, shoulder abduction on the side of impact was higher in both the arm and head-in-front tackles, while shoulder external rotation was lower in the head-in-front tackles. In the latter type of tackle, significant decreases in neck extension and ipsilateral neck rotation were also indicated."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The kinematics in both the arm tackle and the head-in-front tackle is significantly different from that in the shoulder tackle and may represent a distinct risk factor for shoulder dislocation."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

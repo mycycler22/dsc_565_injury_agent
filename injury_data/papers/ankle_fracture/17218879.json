@@ -1,0 +1,31 @@
+{
+  "pmid": "17218879",
+  "title": "Prevalence of musculoskeletal disorders at the NFL Combine--trends from 1987 to 2000.",
+  "year": "2007",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The National Football League holds an annual combine where individual teams evaluate college football players likely to be drafted. As part of the combine, the players are evaluated with a medical history, physical exam, and review of imaging studies, and then they are rated medically as to their ability to participate in the NFL. The purpose of this study was to review the prevalence of musculoskeletal disorders in this population and to test the hypothesis that fewer players were medically disqualified over calendar time from 1987 to 2000."
+    },
+    {
+      "label": "METHODS",
+      "text": "The available summary data for all players reviewed at the annual combine by the medical staff of one NFL team from 1987 to 2000 was analyzed, including each player's position, collegiate division, medical rating, and their diagnoses and surgical procedures."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 5047 complete records were available for analysis. The average number of diagnoses per player was 2.45, and the average number of procedures was 0.53. The most common diagnoses were ankle sprain, burner, hand/wrist soft-tissue injury, knee MCL injury, and AC-joint injury. The most common procedures were meniscectomy, knee arthroscopy, ACL reconstruction, shoulder stabilization, and ORIF ankle fracture. Overall, 5.63% of the players were rejected for medical reasons. The risk of failure dropped during the study period (P < 0.0002). Over time, fewer players with a history of ACL reconstruction received a failing grade (P = 0.0005)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The percentage of athletes with a failing grade, particularly those with a history of ACL reconstruction, decreased over the study period. Knowing the trends in prevalence of injury and treatment for these athletes may help optimize their care and aid the development of injury-prevention and treatment strategies."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

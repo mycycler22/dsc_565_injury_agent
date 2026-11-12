@@ -1,0 +1,31 @@
+{
+  "pmid": "23015874",
+  "title": "Low back pain in young athletes.",
+  "year": "2009",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Low back pain in young athletes is a common complaint and should be taken seriously. It frequently results from a structural injury that requires a high degree of suspicion to diagnose and treat appropriately."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "A Medline search was conducted from 1996 to May 2008 using the search terms \"low back pain in children\" and \"low back pain in athletes.\" Known texts on injuries in young athletes were also reviewed. References in retrieved articles were additionally searched for relevant articles. Sources were included if they contained information regarding diagnosis and treatment of causes of low back pain in children."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Low back pain is associated with sports involving repetitive extension, flexion, and rotation, such as gymnastics, dance, and soccer. Both acute and overuse injuries occur, although overuse injuries are more common. Young athletes who present with low back pain have a high incidence of structural injuries such as spondylolysis and other injuries to the posterior elements of the spine. Disc-related pathology is much less common. Simple muscle strains are much less likely in this population and should be a diagnosis of exclusion only."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Young athletes who present with low back pain are more likely to have structural injuries and therefore should be investigated fully. Muscle strain should be a diagnosis of exclusion. Treatment should address flexibility and muscle imbalances. Injuries can be prevented by recognizing and addressing risk factors. Return to sport should be a gradual process once the pain has resolved and the athlete has regained full strength."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

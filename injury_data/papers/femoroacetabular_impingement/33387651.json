@@ -1,0 +1,32 @@
+{
+  "pmid": "33387651",
+  "title": "Prevalence of early hip OA features on MRI in high-impact athletes. The femoroacetabular impingement and hip osteoarthritis cohort (FORCe) study.",
+  "year": "2021",
+  "journal": "Osteoarthritis and cartilage",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare early hip osteoarthritis (OA) features on magnetic resonance imaging (MRI) in high-impact athletes with and without hip and/or groin pain, and to evaluate associations between early hip OA features, the International Hip Outcome Tool (iHOT33) and Copenhagen Hip and Groin Outcome Score (HAGOS)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "This case-control study evaluated data of the femoroacetabular impingement and hip osteoarthritis cohort (FORCe). One hundred and eighty-two symptomatic (hip and/or groin pain >6 months and positive flexion-adduction-internal-rotation (FADIR) test) and 55 pain-free high-impact athletes (soccer or Australian football (AF)) without definite radiographic hip OA underwent hip MRI. The Scoring Hip Osteoarthritis with MRI (SHOMRI) method quantified and graded the severity of OA features. Each participant completed the iHOT33 and HAGOS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Hip and/or groin pain was associated with higher total SHOMRI (0-96) (mean difference 1.4, 95% CI: 0.7-2.2), labral score (adjusted incidence rate ratio (aIRR) 1.33, 95% CI: 1.1-1.6). Differences in prevalence of cartilage defects, labral tears and paralabral cysts between symptomatic and pain-free participants were inconclusive. There was a lower prevalence of effusion-synovitis in symptomatic participants when compared to pain-free participants (adjusted odds ratio (aOR) 0.46 (95% CI: 0.3-0.8). Early hip OA features were not associated with iHOT33 or HAGOS."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A complex and poorly understood relationship exists between hip and/or groin pain and early hip OA features present on MRI in high-impact athletes without radiographic OA. Hip and/or groin pain was associated with higher SHOMRI and labral scores."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

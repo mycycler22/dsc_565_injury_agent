@@ -1,0 +1,31 @@
+{
+  "pmid": "35324395",
+  "title": "Characterizing femoroacetabular impingement in professional Nordic Skiers.",
+  "year": "2023",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Studies have shown a high prevalence of femoroacetabular impingement (FAI) among elite athletes yet there is a paucity of data on FAI in Nordic skiers. The purpose of this study was to determine the prevalence of radiographic FAI in professional Nordic Combined Skiers and Ski jumpers compared to controls and assess functional outcomes including hip range of motion (ROM) and pain in patients with radiographic evidence of FAI compared to those without it."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cohort of elite Nordic Skiers underwent medical history, physical examination, and pelvic radiographs at their visit with a fellowship-trained sports medicine physician. On pelvis radiographs, Alpha angle>55 degrees was deemed cam-positive, and positive crossover signs, Tönnis<0, or LCEA>40 were deemed pincer positive. Further stratification was performed by sex, ski event type, hip pain, presence of cam lesions, and presence of pincer lesions. Spearman correlation matrix was performed to measure the association between radiographic measurements and ROM."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nineteen Nordic skiers and nineteen age, sex, and BMI matched controls were included in the study. There were no significant differences in age, sex, BMI, and hip pain between groups. While Nordic skiers demonstrated decreased ROM bilaterally on external rotation compared to controls, skiers had larger ROM bilaterally on extension, abduction, adduction compared to controls. Skiers were significantly more likely to have bilateral crossover sign and alpha angles>55 compared to controls. Subgroup analysis showed that Cam positive patients had higher flexion and adduction ROM and pincer positive patients had significantly higher flexion and abduction ROM compared to patients without cam and pincer lesions respectively. Patients with hip pain had significantly lower right hip abduction ROM compared to patients without hip pain. No significant correlations were seen between radiographic measurements and ROM."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Similar to other elite 'hip heavy' sport athletes, Nordic skiers gave a notably higher prevalence of radiographic cam and pincer type morphology and significantly higher ROM compared to nonathletic controls. Clinicians evaluating Nordic skiers should be aware of these baseline findings with respect to a possible elevated long-term risk of symptomatic FAI in these athletes as well as other conditions related to radiographic FAI."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

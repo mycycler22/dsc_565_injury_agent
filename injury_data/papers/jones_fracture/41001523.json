@@ -1,0 +1,32 @@
+{
+  "pmid": "41001523",
+  "title": "Three-Dimensional Bone Morphology for Identifying Risk Factors for Jones Fractures using Statistical Shape Modeling: A Retrospective Study.",
+  "year": "2025",
+  "journal": "Research square",
+  "pub_types": [
+    "Journal Article",
+    "Preprint"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Jones fractures are fifth metatarsal stress fractures frequently seen in athletes and often lead to delayed union, non-union, and refracture. Identifying risk factors for Jones fractures is essential for prevention. While two-dimensional (2D) imaging has provided insights, it cannot adequately assess three-dimensional (3D) bone morphology. Statistical shape modeling (SSM) enables comprehensive 3D evaluation of anatomical variations, although its role in Jones fractures remains unclear. This study aimed to identify 3D morphological factors associated with Jones fractures using SSM and assess postoperative morphological changes."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this retrospective comparative study, we analyzed 20 patients with Jones fractures and 20 matched controls. All patients underwent headless compression screw fixation. Computed tomography was used to create 3D models of the fifth metatarsal. Segmentation and alignment were performed, followed by SSM with ShapeWorks. Principal component analysis (PCA) identified shape variations. Statistical comparisons were made between preoperative fracture cases and controls and between preoperative and postoperative cases."
+    },
+    {
+      "label": "RESULTS",
+      "text": "SSM identified six significant PCA modes, accounting for 78.3% of shape variation. The second mode showed significant differences between fracture patients and controls (p = 1.32e-04), demonstrating greater adduction of the metatarsal base, reduced articular surface, proximally extended tuberosity, and straighter, thicker shaft in fracture cases. No significant postoperative morphological changes were observed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Distinct 3D morphological characteristics of the fifth metatarsal-including base adduction, proximal tuberosity extension, and shaft straightening-may increase susceptibility to Jones fractures. The absence of postoperative changes suggests that surgical fixation does not alter these features."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

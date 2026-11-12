@@ -1,0 +1,27 @@
+{
+  "pmid": "37935147",
+  "title": "Shin pain in athletes.",
+  "year": "2023",
+  "journal": "Australian journal of general practice",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Both serious athletes and patients attempting to maintain or improve their health through exercise are at risk of a number of conditions that are not frequently mentioned during medical training. Most of these are related to overuse."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this article is to improve general practitioners' knowledge of a specific group of exercise-related conditions that occur in the anterior aspect of the lower limb below the knee, commonly referred to as the shin region."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Many having been previously grouped under the relatively meaningless term 'shin splints', these conditions include, among others, bone stress reactions and fractures and chronic exertional compartment syndromes. Some resolve with rest and a gradual return to activity, whereas others are difficult to treat conservatively and might benefit from early referral."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "29276206",
+  "title": "Utility of STIR-MRI in Detecting the Pain Generator in Asymmetric Bilateral Pars Fracture: A Report of 5 Cases.",
+  "year": "2018",
+  "journal": "Neurologia medico-chirurgica",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Lumbar spondylolysis usually occurs as a stress fracture in the pars interarticularis of the vertebra. It is a prevalent sports-related disorder and a common cause of low back pain. We encountered five athletes (4 males, 1 female) with severe low back pain. Mean age was 14.5 years. All five patients were found to have bilateral pars fracture. In all cases, staging based on the findings from computed tomography scan of the right and left pars fracture was different. On short tau inversion recovery magnetic resonance imaging (STIR-MRI) of the comparatively newer more recently injured side, high signal intensity changes were obvious and dominant at the intra- and extraosseous area, which would indicate tissue edema and/or bleeding. Furthermore, the imaging findings corresponded to the side of the low back pain. In conclusion, STIR-MRI can effectively distinguish between painful pars fracture and painless pars fracture."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

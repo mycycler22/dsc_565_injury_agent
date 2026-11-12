@@ -1,0 +1,35 @@
+{
+  "pmid": "33025824",
+  "title": "Jones Fracture Treatment: A Novel Surgical Technique and Case Series.",
+  "year": "2022",
+  "journal": "Foot & ankle specialist",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Jones fractures remain a challenging treatment entity in orthopaedics. Biomechanical stresses, including increased fifth metatarsal (5MT) lateral angle deviation (MLAD), are associated with increased fracture and refracture rates. Current fixation techniques produce good outcomes; however, they do not address metatarsal morphology, which can predispose to refracture. This study describes a novel surgical technique and case series utilizing intramedullary screw fixation and distal metatarsal corrective osteotomy for the management of Jones fractures."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective case series was undertaken, including 22 consecutive Jones fracture patients operated on by a single surgeon. Patient demographics, imaging, and operative information were obtained, with return to sport/previous function and radiological outcomes, including fracture union being the outcomes of interest. The surgical technique utilizes a distal osteotomy of the 5MT followed by retrograde guidewire and drilling utilizing the osteotomy. A cannulated screw is passed antegrade along the entire length of the 5MT with manual MLAD correction. Autograft or bone substitute (Augment) was then injected at the fracture site."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Median age was 30 years (Q1, Q3: 18, 49 years). Median time from injury to operation was 13 weeks (Q1, Q3: 9, 30 weeks), and clinical follow-up period was 37 months (Q1, Q3: 14, 74 months). Radiological union was achieved at a median of 12 weeks (Q1, Q3: 8, 15 weeks) with clinical union at 11 weeks (Q1, Q3: 8, 14 weeks). All but one patient returned to preinjury functional levels, including 6 professional athletes who returned to preinjury national competition. No refractures were identified."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The technique described in this study is a viable and safe means of managing Jones fractures. The technique may be particularly useful in patients with excessive MLAD."
+    },
+    {
+      "label": "LEVELS OF EVIDENCE",
+      "text": "Level IV: Retrospective case series."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

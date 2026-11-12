@@ -1,0 +1,36 @@
+{
+  "pmid": "23918443",
+  "title": "The predictive validity of a single leg bridge test for hamstring injuries in Australian Rules Football Players.",
+  "year": "2014",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring muscle strain injuries (HMSI) are the greatest injury problem in kicking sports such as Australian Rules Football. Reduced hamstring muscle strength is commonly perceived to be a risk factor for hamstring injury; however, evidence is inconclusive. Testing hamstring strength with the hip and knee at functional angles and assessing endurance parameters may be more relevant for examining the risk of hamstring injury."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The primary aim of this prospective study was to examine if reduced hamstring muscle strength assessed with the single leg hamstring bridge (SLHB) was a risk factor for hamstring injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "Hamstring muscle strength of 482 amateur and semielite players from 16 football clubs, mean age 20.7 (range 16-34 years), was tested during the 2011 preseason. Players were then monitored throughout the 2011 playing season for HMSI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 28 hamstring injuries, 16 right and 12 left, were recorded. Players who sustained a right HMSI during the season had a significantly lower mean right SLHB score (p=0.029), were older (p=0.002) and were more likely to have sustained a past right hamstring injury (p=0.02) or right knee injury (p=0.035). For left-sided hamstring injury, the injured group was more likely to be left leg dominant (p=0.001), older athletes (p=0.002) and there was a trend towards a history of left hamstring injury (p=0.07)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This study demonstrated a significant deficit in preseason SLHB scores on the right leg of players that subsequently sustained a right-sided hamstring injury. Age, previous knee injury and a history of hamstring injury were other risk factors supported in this study. Low hamstring strength appears to be a risk factor for hamstring injury; however, due to the confounding variables and low injury rate in this study, further studies are required."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

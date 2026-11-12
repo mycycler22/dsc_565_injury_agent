@@ -1,0 +1,32 @@
+{
+  "pmid": "38728753",
+  "title": "Return to play after head injury in adolescent sports: evaluating football versus other sports.",
+  "year": "2024",
+  "journal": "Journal of neurosurgery. Pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Increased adolescent sports participation has raised concerns about higher rates of concussions, a prevalent injury among young athletes with potential long-term effects. Discrepancies in concussion recovery and management protocols across various sports underscore a critical issue in youth athletics. This study aimed to examine the relationship between sport type and the number of games missed following a concussion to inform targeted management strategies."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data from 7445 postinjury ImPACT tests for athletes aged 12-22 years, collected from 2009 to 2019, were analyzed across different sports: baseball, basketball, cheerleading, football, ice hockey, lacrosse, soccer, softball, swimming, track and field, volleyball, and wrestling. The number of days and normalized missed games (NMG), a metric accounting for the different number of games in a season for different sports, were used to evaluate the effect of concussions across different sports. ANOVA, t-tests, and linear regression analyses were performed to model the effect of sport type on games missed in a season while controlling for sex, age, concussion history, diagnosed learning disability (DLD), and attention-deficit/hyperactivity disorder (ADHD)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Multivariable linear regression analysis demonstrated that football participation significantly increased NMG (β 1.681, 95% CI 0.807-2.554; p < 0.001) and days missed (β 1.637, 95% CI 1.044-2.231; p < 0.001) after head injury. Concussion diagnoses were also found to significantly increase NMG (β 2.344, 95% CI 1.629-3.059; p < 0.001) and days missed (β 1.560, 95% CI 1.074-2.045; p < 0.001), as well as history of prior concussion (NMG: β 7.791, 95% CI 7.368-8.215; p < 0.001; days missed: β 5.232, 95% CI 4.945-5.520; p < 0.001). In contrast, factors such as age, sex, DLD, ADHD, and concussions causing loss of consciousness did not significantly affect NMG or days missed. ANOVA with Tukey Honest Significant Difference indicated that compared with football, ice hockey (mean difference [MD] 5.4 days, p = 0.011) and track and field (MD 4.1 days, p = 0.006) were associated with significantly more days being missed after head injury. Conversely, basketball (MD -3.0, p < 0.001) and volleyball (MD -2.6, p = 0.005) were associated with fewer missed games."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Adolescents playing football missed fewer days and games after concussion than other contact and noncontact sports, including ice hockey and track and field, raising questions about variations in return-to-play protocols and cultural attitudes within sports. Further research is needed to determine the factors affecting games missed across sport types in adolescent athletics and return-to-play protocols."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

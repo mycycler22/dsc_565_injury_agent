@@ -1,0 +1,35 @@
+{
+  "pmid": "40308286",
+  "title": "Medial Patellofemoral Ligament Reconstruction.",
+  "year": "2021",
+  "journal": "Video journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar instability is a relatively common condition in the young, active population and causes disruption of the medial patellofemoral ligament (MPFL). MPFL reconstruction is often performed to restore this medial stabilizer and reduce the risk of recurrent instability."
+    },
+    {
+      "label": "INDICATIONS",
+      "text": "Isolated MPFL reconstruction has been shown to reduce the risk of recurrent patellar dislocation. It is indicated in our patients who have had more than 1 dislocation in the absence of other significant bony malalignment or cartilage defects that require concurrent surgery."
+    },
+    {
+      "label": "TECHNIQUE DESCRIPTION",
+      "text": "Diagnostic arthroscopy is first performed to evaluate the patellar and trochlear cartilage surfaces. A medial approach to the patella is then performed and the 2 free limbs of the allograft are secured to the patella at the 9 to 11 (or 1 to 3) o'clock position. A small approach to the femoral insertion site of the MPFL is performed and confirmed with fluoroscopy, and the graft is secured to the femur with a biotenodesis screw. Postoperative examination confirms improved stability of the patella, and the patient performs a gradual return to play protocol."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Recent studies have demonstrated overall good clinical outcomes after MPFL reconstruction, with improved patellar stability and high patient satisfaction. One systematic review found an 85% rate of return to sport with a low risk (7%) of recurrent subluxation or dislocation."
+    },
+    {
+      "label": "DISCUSSION/CONCLUSION",
+      "text": "MPFL reconstruction is a reliable option for improving patellar stability in patients with recurrent dislocations. We believe our technique, which optimizes the fixation and footprint of the graft on the patella and allows for easy visualization of femoral anatomy on fluoroscopy, can improve the reproducibility of the procedure and provide optimal clinical outcomes."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

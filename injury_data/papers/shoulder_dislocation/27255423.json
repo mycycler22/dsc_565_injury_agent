@@ -1,0 +1,66 @@
+{
+  "pmid": "27255423",
+  "title": "A Clinical Review of Return-to-Play Considerations After Anterior Shoulder Dislocation.",
+  "year": "2016",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Shoulder dislocations are common in contact sports, yet guidelines regarding the best treatment strategy and time to return to play have not been clearly defined."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "Electronic databases, including PubMed, MEDLINE, and Embase, were reviewed for the years 1980 through 2015."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Clinical review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Much has been published about return to play after anterior shoulder dislocation, but almost all is derived from expert opinion and clinical experience rather than from well-designed studies. Recommendations vary and differ depending on age, sex, type of sport, position of the athlete, time in the sport's season, and associated pathology. Despite a lack of consensus and specific recommendations, there is agreement that before being allowed to return to sport, athletes should be pain free and demonstrate symmetric shoulder and bilateral scapular strength, with functional range of motion that allows sport-specific participation. Return to play usually occurs 2 to 3 weeks from the time of injury. Athletes with in-season shoulder instability returning to sport have demonstrated recurrence rates ranging from 37% to 90%. Increased bone loss, recurrent instability, and injury occurring near the end of season are all indications that may push surgeons and athletes toward earlier surgical intervention."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Most athletes are able to return to play within 2 to 3 weeks but there is a high risk of recurrent instability."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Return to play usually occurs 2 to 3 weeks from the time of injury."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Most athletes are able to return to play within 2 to 3 weeks but there is a high risk of recurrent instability."
+    }
+  ],
+  "pmcid": "4922522",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Much has been published about return to play after anterior shoulder dislocation, but almost all is derived from expert opinion and clinical experience rather than from well-designed studies. Recommendations vary and differ depending on age, sex, type of sport, position of the athlete, time in the sport’s season, and associated pathology. Despite a lack of consensus and specific recommendations, there is agreement that before being allowed to return to sport, athletes should be pain free and demonstrate symmetric shoulder and bilateral scapular strength, with functional range of motion that allows sport-specific participation. Return to play usually occurs 2 to 3 weeks from the time of injury. Athletes with in-season shoulder instability returning to sport have demonstrated recurrence rates ranging from 37% to 90%. Increased bone loss, recurrent instability, and injury occurring near the end of season are all indications that may push surgeons and athletes toward earlier surgical intervention."
+    },
+    {
+      "section": "Return to Play",
+      "text": "Very few clinical studies have been conducted to evaluate return to play for athletes with anterior shoulder instability. With exception to the data provided by Wheeler et al,33 Buss et al,6 and Dickens et al,9 most recommendations are based on expert opinion and anecdotal experience. There is no consensus on treatment or timing to return to play. Buss et al6 found that athletes undergoing nonoperative treatment for shoulder instability episodes missed an average of 10.2 days (range, 0-30 days) of sports participation, with 27 of 30 athletes returning to play within 2 to 3 weeks. Thirty-seven percent of these athletes experienced at least 1 instability episode during return to competition that season, but only 1 was unable to complete the season. In a recent prospective study, Dickens et al9 found that 73% of NCAA athletes were able to return to sport after an instability episode and did so at a median of 5 days after injury. Of those who returned, 36% did not have a recurrence, 30% had a recurrence but could complete the season, and 33% had a recurrence and were not able to complete the season. They found that athletes who initially sustained a subluxation were 5.3 times more likely to return to sport than those with a dislocation. Those with recurrent subluxations returned to play sooner (median, 3 days) than those with dislocations (median, 7 days), but there was much greater variability in the time to return to play for recurrent dislocations. The Simple Shoulder Test score at the time of injury was linearly related to the time to return to play.9 There is no consensus on the criteria that should allow an athlete to return to sport. As a general practice, concurrent with most studies, athletes are allowed to return to play when they can demonstrate symmetric range of motion and strength and perform sport-specific exercises without pain and limitations.6,9,33 It is common practice, especially in contact and nonoverhead throwing athletes, to return to play wearing a shoulder stabilization brace to limit overhead motion and extreme abduction and external rotation.5,6,9 Buss et al6 reported that the athletes in their series who wore a brace on return to sport “reported an improved sense of stability compared to playing without a supplemental device.” Although bracing is common practice and associated with subjective improvement in stability, the only study to evaluate the effectiveness of bracing in preventing a recurrence found no difference in recurrent instability events in competitive, contact athletes with and without a brace.9 The study neither delineated the specific sport of each athlete, nor did it state whether they were first-time dislocators or repeat dislocators. Further studies modeled to evaluate the effectiveness of bracing are needed to help determine the value of bracing."
+    },
+    {
+      "section": "Return to Play after Surgery",
+      "text": "Myriad protocols and guidelines have evolved to allow a timely return to sport after the various types of shoulder stabilization surgeries. Despite differences in surgical techniques, there are some general principles to consider in the rehabilitation process. Many of the principles used to guide return to sports after nonoperative treatment also apply to athletes attempting to return to their sport after surgical stabilization. Typically, the time range for return to play after surgery is 4 to 6 months,2,24 but it may be longer in some cases. While the specifics of the rehabilitation protocol may vary among surgeons, athletes will generally follow a progressive, multiphase supervised physical therapy rehabilitation program.2,7,24,34 The first phase consists of sling immobilization in internal rotation for at least 4 weeks, Codman exercises,34 and isometric muscle contractions. The next phase, lasting approximately 4 weeks, consists of progressive passive range of motion followed by active-assisted range of motion exercises without resistance (limited to 45° external rotation). The third, approximately 4-week phase focuses on restoration of full active range of motion with progressively greater resistance exercises (deltoid, periscapular muscles, and rotator cuff). After this, plyometric exercises are added and the remaining rehabilitation aims to restore terminal external rotation, proprioceptive feedback, and sport-specific motion. Return to full activity sports is restricted until at least 4 months and after abduction and external rotation strength are symmetrical on manual muscle testing.2,24 In a study of 58 high school, collegiate, and professional American football players treated with open shoulder stabilization, Pagnani and Dome24 found that 89.7% were able to return to playing football for at least 1 year. Recently, Plath et al28 reported on return to sport of athletes across a variety of sports after arthroscopic Bankart repair for chronic glenohumeral instability. All 57 patients were able to return to at least 1 sporting or recreational activity after surgery, with 66% stating that the repair had strongly (33%) improved their sporting and recreational “proficiency” compared with preoperatively.28"
+    },
+    {
+      "section": "TABLE: Absolute and relative indications for early surgery a",
+      "text": "Absolute Associated injury >50% rotator cuff tear Glenoid osseous defect >25% Humeral head articular surface osseous defect >25% Proximal humerus fracture requiring surgery Irreducible dislocation Interposed tissue or nonconcentric reduction Failed trial of rehabilitation Inability to tolerate shoulder restrictions Inability to perform sport-specific drills without instability\nRelative >2 shoulder dislocations during the season Overhead or throwing athletes Contact sport athletes Injury near the end of the season Age <20 years"
+    }
+  ]
+}

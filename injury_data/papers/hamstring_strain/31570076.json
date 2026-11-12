@@ -1,0 +1,25 @@
+{
+  "pmid": "31570076",
+  "title": "Denervation Edema of Hamstring Muscles Following Acute Strain Injury.",
+  "year": "2019",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "A 20-year-old male American football player sustained a first-time, left hamstring strain injury (HSI) during competition. Magnetic resonance imaging indicated involvement of the biceps femoris long head (BFLH) and semitendinosus (ST). Following 3 weeks of rehabilitation, the athlete returned to competition without further incident. Fourteen weeks after injury, magnetic resonance imaging was repeated as part of an ongoing study monitoring HSI recovery. Despite full athletic function, imaging revealed atrophy and increased signal intensity of the BFLH and a portion of the ST. Further testing and examination indicated subacute denervation edema. <i>J Orthop Sports Phys Ther 2019;49(10):761. doi:10.2519/jospt.2019.8598</i>."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Following 3 weeks of rehabilitation, the athlete returned to competition without further incident."
+    }
+  ],
+  "pmcid": "7045722",
+  "fulltext_chunks": []
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "31523693",
+  "title": "Epidemiology of Shoulder and Elbow Injuries Among US High School Softball Players, 2005-2006 Through 2016-2017.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Injury prevalence has been well described among baseball athletes; similarly, a better understanding of injuries in softball athletes is needed."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine shoulder and elbow injury epidemiology among high school softball athletes in the United States."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiological study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injury data were obtained from the National High School Sports-Related Injury Surveillance System, which captures data from a large national sample of US high schools. Annually, a random sample of 100 high schools provided a representative sample with respect to the 4 US Census geographic regions and 2 school sizes (cutoff point, 1000 students). Athletic trainers from participating schools reported data for athlete-exposures (AEs; practice or competition) and shoulder and elbow injuries from 2005-2006 through 2016-2017."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 239 shoulder injuries and 85 elbow injuries occurred within 2,095,329 AEs. The overall shoulder injury rate was 1.14 per 10,000 AEs, whereas the overall elbow injury rate was 0.41 per 10,000 AEs. Injuries to the shoulder were more likely to occur during competition as compared with practice (rate ratio, 1.28; 95% CI, 0.99-1.65). Half of the shoulder (50.4%) and elbow 48.9% injuries were due to an overuse/chronic mechanism. Of the athletes sustaining an injury, 86.8% with shoulder injuries and 93.0% with elbow injuries returned to play within 21 days. Only 16.7% of shoulder injuries and 17.5% of elbow injuries were sustained by pitchers."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Shoulder and elbow injury rates, time to return, and percentage of injuries among pitchers were far lower in high school softball than previously reported values for high school baseball. There were relatively low incidences of shoulder and elbow injuries in high school softball as compared with baseball, with few injuries requiring lengthy time to return to play."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Of the athletes sustaining an injury, 86.8% with shoulder injuries and 93.0% with elbow injuries returned to play within 21 days."
+    }
+  ],
+  "pmcid": "6732867",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 239 shoulder injuries and 85 elbow injuries occurred within 2,095,329 AEs. The overall shoulder injury rate was 1.14 per 10,000 AEs, whereas the overall elbow injury rate was 0.41 per 10,000 AEs. Injuries to the shoulder were more likely to occur during competition as compared with practice (rate ratio, 1.28; 95% CI, 0.99-1.65). Half of the shoulder (50.4%) and elbow 48.9% injuries were due to an overuse/chronic mechanism. Of the athletes sustaining an injury, 86.8% with shoulder injuries and 93.0% with elbow injuries returned to play within 21 days. Only 16.7% of shoulder injuries and 17.5% of elbow injuries were sustained by pitchers."
+    }
+  ]
+}

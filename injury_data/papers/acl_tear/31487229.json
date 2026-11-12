@@ -1,0 +1,47 @@
+{
+  "pmid": "31487229",
+  "title": "Weight Gain After ACL Reconstruction in Pediatric and Adolescent Patients.",
+  "year": "2020",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Adolescent athletes who sustain an anterior cruciate ligament (ACL) tear have significantly reduced activity levels during recovery. Activity level is linked to body mass index (BMI); however, it is unclear how recovery from an ACL reconstruction (ACLR) affects relative BMI and whether these changes persist after return to activity."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Patients' BMI percentile will significantly increase after ACLR, but will trend toward baseline after return to activity."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of 666 pediatric and adolescent patients who underwent ACLR was performed. Body mass was assessed by evaluating change in BMI percentile at 8 standard-of-care time windows relative to BMI percentile at time of surgery. Linear regression and bivariate and multivariate analyses were used to assess the effect of time window and other demographic factors on the change in BMI percentile. These analyses were rerun after dividing patients by clinical obesity categorization (underweight, normal, overweight, or obese) at time of surgery to assess the effect of preinjury body mass levels."
+    },
+    {
+      "label": "RESULTS",
+      "text": "BMI percentile of all BMI categories tended to increase postoperatively, peaking 6 to 9 months after surgery, with a median increase of 1.83 percentile points. After this peak, BMI approached baseline but remained elevated at 0.95 percentile points 2 years postoperatively. Beginning 3 months after surgery, the normal-weight group had significantly larger changes in BMI percentile at each time window, peaking at 4.15 points above baseline at 9 months. This BMI increase among normal-weight patients persisted in the second postoperative year, with a median percentile increase of 2.63 points."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Pediatric and adolescent patients, especially those with a normal BMI, undergo significant changes to their BMI during recovery from ACLR."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Patients' failure to return to their presurgical BMI percentile 2 years postoperatively suggests that ACLR may have long-reaching and often unappreciated effects on body mass."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

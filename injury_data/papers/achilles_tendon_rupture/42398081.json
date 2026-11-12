@@ -1,0 +1,40 @@
+{
+  "pmid": "42398081",
+  "title": "Augmentation in Achilles tendon repair: evidence versus enthusiasm.",
+  "year": "2026",
+  "journal": "British medical bulletin",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The routine use of augmentation in the surgical management of primary acute Achilles tendon rupture remains controversial. Biological, mechanical, and synthetic augmentation strategies have been adopted in clinical practice, yet their superiority over standard repair has not been established."
+    },
+    {
+      "label": "SOURCES OF DATA",
+      "text": "A narrative review of peer-reviewed comparative studies, randomized controlled trials, systematic reviews, and meta-analyses retrieved from PubMed and MEDLINE, supplemented by the authors' clinical expertise."
+    },
+    {
+      "label": "AREAS OF AGREEMENT",
+      "text": "Standard surgical repair of acute Achilles tendon rupture, whether open or minimally invasive, reliably achieves high patient satisfaction, restoration of function, and acceptable return-to-sport rates. Patient-reported outcome measures and re-rupture rates are consistently comparable between augmented and non-augmented repairs across available randomized and controlled studies."
+    },
+    {
+      "label": "AREAS OF CONTROVERSY",
+      "text": "Individual studies have occasionally reported statistically significant improvements in surrogate parameters following augmentation, but these rarely exceed minimally clinically important difference thresholds. Complication rates may be higher with augmentation, and endoscopic flexor hallucis longus transfer for acute ruptures has been associated with elevated re-rupture risk."
+    },
+    {
+      "label": "GROWING POINTS",
+      "text": "Minimally invasive percutaneous repair techniques continue to evolve and provide reliable outcomes without augmentation. The intrinsic regenerative capacity of the Achilles tendon remains the dominant determinant of outcome regardless of operative strategy."
+    },
+    {
+      "label": "AREAS TIMELY FOR DEVELOPING RESEARCH",
+      "text": "Well-powered randomized controlled trials with patient-centered outcomes are needed to evaluate whether any augmentation strategy offers clinically meaningful benefit in defined subgroups, such as patients with pre-existing tendinopathy, delayed presentation, or large-gap defects."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

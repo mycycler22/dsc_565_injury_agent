@@ -1,0 +1,31 @@
+{
+  "pmid": "38950429",
+  "title": "Assessing readability of online patient educational material on concussion and return to play.",
+  "year": "2024",
+  "journal": "Neurosurgical focus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Concussions are self-limited forms of mild traumatic brain injury (TBI). Gradual return to play (RTP) is crucial to minimizing the risk of second impact syndrome. Online patient educational materials (OPEM) are often used to guide decision-making. Previous literature has reported that grade-level readability of OPEM is higher than recommended by the American Medical Association and the National Institutes of Health. The authors evaluated the readability of OPEM on concussion and RTP."
+    },
+    {
+      "label": "METHODS",
+      "text": "An online search engine was used to identify websites providing OPEM on concussion and RTP. Text specific to concussion and RTP was extracted from each website and readability was assessed using the following six standardized indices: Flesch Reading Ease (FRE), Flesch-Kincaid Grade Level, Gunning Fog Index, Coleman-Liau Index, Simple Measure of Gobbledygook Index, and Automated Readability Index. One-way ANOVA and Tukey's post hoc test were used to compare readability across sources of information."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 59 concussion and RTP articles, and readability levels exceeded the recommended 6th grade level, irrespective of the source of information. Academic institutions published OPEM at simpler readability levels (higher FRE scores). Private organizations published OPEM at more complex (higher) grade-level readability levels in comparison with academic and nonprofit institutions (p < 0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The readability of OPEM on RTP after concussions exceeds the literacy of the average American. There is a critical need to modify the concussion and RTP OPEM to improve comprehension by a broad audience."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

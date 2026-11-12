@@ -1,0 +1,36 @@
+{
+  "pmid": "39718487",
+  "title": "Do physical or imaging changes explain the effectiveness of progressive tendon loading exercises? A causal mediation analysis of athletes with patellar tendinopathy.",
+  "year": "2025",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate whether the effectiveness of progressive tendon loading exercises (PTLE) on patellar tendinopathy is mediated through changes in physical or imaging properties."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Mediation analyses based on a randomized clinical trial (n = 76) in patellar tendinopathy comparing PTLE with eccentric exercise therapy (EET)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Pain-related disability on Victorian Institute of Sports Assessment-Patella (VISA-P, 0 to 100) and pain (Visual Analogue Score) after single-leg decline squat (VAS-SLDS, 0 to 10) at 24 weeks were outcome measures. Selected mediators, including the physical (quadriceps muscle strength, ankle dorsiflexion range, jumping performance) and imaging domains (ultrasonographic tendon thickness and degree of neovascularization), were measured at 12 weeks. Directed acyclic graphs were performed to identify critical confounders. Causal mediation analysis was used to estimate natural indirect, natural direct and total effects by a simulation approach under the counterfactual framework."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Complete data from 61 of 76 participants were included. There was no evidence showing that the beneficial effect of PTLE on VISA-P or VAS-SLDS outcomes was mediated by changes in any of the selected physical or imaging variables. The indirect effects for all mediators were unsubstantial (estimates ranging from -1.63 to 1.53 on VISA-P and -0.20 to 0.19 on VAS-SLDS), with all 95 % confidence intervals containing zero."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The beneficial effect of PTLE on patellar tendinopathy was not mediated by changes in physical properties, tendon thickness or degree of neovascularization. Healthcare professionals may consider exploring other potential factors when managing patients with patellar tendinopathy, but further large-scale research is needed to confirm these results and to identify alternative treatment targets."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

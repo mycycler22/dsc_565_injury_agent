@@ -1,0 +1,51 @@
+{
+  "pmid": "27632880",
+  "title": "Relationship of Knee Motions With Static Leg Alignments and Hip Motions in Frontal and Transverse Planes During Double-Leg Landing in Healthy Athletes.",
+  "year": "2017",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Excessive knee valgus and tibial external rotation relative to the femur during weight bearing motions, such as jump-landing, reportedly increases the risk of developing chronic knee pain, such as patellofemoral pain. Excessive deviations from normal ranges of several static lower extremity alignment measures and dynamic hip motions may also increase the risks for patellofemoral pain."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the relationship between lower extremity alignments and hip motions to frontal and transverse plane knee motions during double-leg landings."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Correlational study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Laboratory."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "69 healthy, competitive athletes (27 men, 42 women; height, 166.5 ± 9.5 cm; weight, 61.3 ± 9.9 kg; age, 20.7 ± 1.0 y) participated in this study."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Prone and supine hip version, quadriceps angle, and tibiofemoral angle were measured. Frontal and transverse knee and hip angles at peak knee extensor moment during landing were calculated."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "2 separate stepwise multiple regression analyses were conducted to predict frontal and transverse plane knee motions using 4 static lower extremity alignment measures and hip motions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Greater hip adduction and prone hip anteversion, and lesser hip internal rotation and supine hip anteversion, were related to greater knee valgus motions (R<sup>2</sup> = .475, P < .01). Greater hip adduction was related to greater knee external rotation (R<sup>2</sup> = .205, P < .01)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Some targeted static lower extremity alignments and hip motions are associated with frontal and transverse knee motions. However, stronger relationships of hip motions with knee motions than static lower extremity alignments provided evidence that improving hip movements may help improve patellofemoral pain in those with lower extremity malalignments."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

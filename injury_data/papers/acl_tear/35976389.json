@@ -1,0 +1,35 @@
+{
+  "pmid": "35976389",
+  "title": "High revision arthroscopy rate after ACL reconstruction in men's professional team sports.",
+  "year": "2023",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The study analysed unique data on anterior cruciate ligament (ACL) injuries among German professional male team sports over five consecutive seasons with the aim of improving medical outcomes in the future. Sport-specific differences in injury occurrence, concomitant injuries, timing of ACL reconstruction, graft type selection and short-term complications were examined."
+    },
+    {
+      "label": "METHODS",
+      "text": "This retrospective study analysed trauma insurance data on all complete ACL tears from players with at least one competitive match appearance in the two highest divisions of German male basketball, ice hockey, football and handball. Each complete ACL tear registered by clubs or physicians between the 2014/15 and 2018/19 seasons with the German statutory accidental insurance for professional athletes (VBG) as part of occupational accident reporting was included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In total, 189 out of 7517 players (2.5%) sustained an ACL injury, mainly in handball (n = 82; 43.4%) and football (n = 72; 38.1%) followed by ice hockey (n = 20; 10.6%) and basketball (n = 15; 7.9%).Seventeen players (9.0%) also sustained a second ACL injury. Thus, 206 ACL injuries were included in the analysis. The overall match incidence of ACL injuries was 0.5 per 1000 h and was highest in handballs (1.1 injuries per 1000 h). A total of 70.4% of ACL injuries involved concomitant injury to other knee structures, and 29.6% were isolated ACL injuries. The highest rate of isolated ACL injuries was seen in ice hockey (42.9%). All ACL injuries, except for one career-ending injury, required surgery. In the four analysed team sports, hamstring tendons (71.4%) were the most commonly used grafts for ACL reconstruction; football had the highest percentage of alternative grafts (48.7%). During rehabilitation, 22.9% of all surgically treated ACL injuries (n = 205) required at least two surgical interventions, and 15.6% required revision arthroscopy. The main cause of revision arthroscopy (n = 32; 50.0%) was range-of-motion deficit due to arthrofibrosis or cyclops formation."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The present study shows an overall high rate of revision arthroscopy after ACLR (15.6%), which should encourage surgeons and therapists to evaluate their treatment and rehabilitation strategies in this specific subpopulation. Hamstring tendon grafts are most commonly used for ACL reconstruction but have the highest revision and infection rates. Handball shows the highest ACL injury risk of the four evaluated professional team sports. Concomitant injuries occur in the majority of cases, with the highest share of isolated ACL injuries occurring in ice hockey."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

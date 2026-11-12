@@ -1,0 +1,37 @@
+{
+  "pmid": "24622506",
+  "title": "Sport specialization's association with an increased risk of developing anterior knee pain in adolescent female athletes.",
+  "year": "2015",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine if sport specialization increases the risk of anterior knee pain in adolescent female athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Female basketball, soccer, and volleyball players (N = 546) were recruited from a single county public school district in Kentucky consisting of 5 middle schools and 4 high schools. A total of 357 multisport and 189 single-sport (66 basketball, 57 soccer, and 66 volleyball) athlete subjects were included due to their diagnosis of patellofemoral pain (PFP) on physical exam. Testing consisted of a standardized history and physician-administered physical examination to determine the presence of PFP. This study compared self-reported multisport athletes with sport-specialized athletes participating in only 1 sport. The sports-participation data were normalized by sport season, with each sport accounting for 1 season of exposure. Incidence rate ratios and 95% confidence intervals (CI) were calculated and used to determine significant differences between athletes who specialized in sport in early youth and multisport athletes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Specialization in a single sport increased the relative risk of PFP incidence 1.5-fold (95% CI 1.0-2.2, P = .038) for cumulative PFP diagnoses. Specific diagnoses such as Sinding Larsen Johansson/ patellar tendinopathy (95% CI 1.5-10.1, P = .005) and Osgood Schlatter disease (95% CI 1.5-10.1, P = .005) demonstrated a 4-fold greater relative risk in single-sport compared with multisport athletes. Incidence of other specific PFP diagnoses such as fat pad, plica, trauma, pes anserine bursitis, and iliotibial-band tendonitis was not different between single-sport and multisport participants (P > .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Early sport specialization in female adolescents is associated with increased risk of anterior knee-pain disorders including PFP, Osgood Schlatter, Sinding Larsen-Johansson compared with multisport athletes."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

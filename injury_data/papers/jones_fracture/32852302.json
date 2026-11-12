@@ -1,0 +1,47 @@
+{
+  "pmid": "32852302",
+  "title": "Dynamic Loading Assessment at the Fifth Metatarsal in Elite Athletes With a History of Jones Fracture.",
+  "year": "2021",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "We hypothesize that athletes who have suffered Jones fractures will apply significantly higher loads at the fifth metatarsal base during athletic activities compared with matched uninjured athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Sixteen athletes were recruited to participate. Eight athletes had a history of Jones fracture, and 8 age, gender, and position-matched athletes without a history of foot injury were recruited as controls."
+    },
+    {
+      "label": "SETTING",
+      "text": "Institutional study at Stanford University."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Sixteen athletes with/without a history of foot injury from Stanford University."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Athletes performed a standardized series of movements while wearing calibrated, wireless pressure mapping insoles, and then again with their custom corrective insoles."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Peak pressure, mean pressure, maximum force, and force-time integral (ie, impulse) were recorded for each activity."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes with a history of Jones fracture showed a significantly increased peak pressure (183 ± 23 vs 138 ± 7 kPA), mean pressure (124 ± 14 vs 95 ± 4 kPA), and maximum force (15 ± 1.2 vs 12 ± 1.2%BW) at the fifth metatarsal base during walking and running compared with uninjured matched controls (all P < 0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes with a history of Jones fracture exert significantly increased peak and mean forces at the base of the fifth metatarsal during common athletic activities. Custom orthoses do not seem to offload this region in all cases. Increased loads may contribute to the development of stress injury to the fifth metatarsal during repetitive loading, and ultimately fracture of the bone."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

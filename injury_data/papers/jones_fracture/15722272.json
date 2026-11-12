@@ -1,0 +1,50 @@
+{
+  "pmid": "15722272",
+  "title": "Fifth metatarsal Jones fracture fixation with a 4.5-mm cannulated stainless steel screw in the competitive and recreational athlete: a clinical and radiographic evaluation.",
+  "year": "2005",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Evaluation Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Fifth metatarsal Jones fractures are common in the athletic population. Optimal screw selection for operative treatment has not been determined."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "A 4.5-mm cannulated screw used for fixation of the fifth metatarsal Jones fractures in athletes is an effective treatment approach."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "The authors studied 23 consecutive athletes (24 feet) who were treated surgically with a 4.5-mm cannulated screw for fifth metatarsal fractures (Jones fracture) with clinical and radiographic assessments."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There have been no refractures to date. Clinical healing was 100%. The mean percentage healing as shown on radiographs was 98.9%, with a range of 90% to 100%. All athletes returned to sport at a mean time of 7.5 weeks (range, 10 days to 12 weeks). Two athletes experienced a \"reinjury\" without need for operative treatment. All athletes were recommended to wear orthoses until their competitive careers were completed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Fixation with a stainless steel 4.5-mm cannulated screw gives 100% clinical healing and near-100% healing as shown on radiographs."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "The 4.5-mm cannulated screws can yield reliable and effective healing as evidenced by clinical assessment and radiographs of fifth metatarsal Jones fractures in athletes."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "All athletes returned to sport at a mean time of 7.5 weeks (range, 10 days to 12 weeks)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

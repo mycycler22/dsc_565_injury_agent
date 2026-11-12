@@ -1,0 +1,40 @@
+{
+  "pmid": "32680702",
+  "title": "Radiological healing of lumbar spine stress fractures in elite cricket fast bowlers.",
+  "year": "2021",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Review magnetic resonance imaging (MRI) of elite adult fast bowlers with a history of lumbar spine stress fracture for evidence of bone healing. The findings will determine whether bone healing can occur in this population, and whether MRI may be used as a tool to assess bone healing and inform clinical decision making."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort."
+    },
+    {
+      "label": "METHODS",
+      "text": "Participants were elite Australian fast bowlers who sustained a lumbar spine stress fracture confirmed on MRI and had at least one subsequent MRI. Two radiologists independently reviewed all images."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-one fractures from 20 male fast bowlers were reviewed. Median maximum fracture size was 6mm (range 2-25mm). Twenty-five fractures achieved bone healing, with a median 203 (IQR 141-301) days between the initial MRI (to confirm diagnosis) and the MRI when bone healing was observed. Fracture size and signal intensity of bone marrow oedema were positively associated with the number of days to the MRI when bone healing was observed (r<sup>2</sup>=0.245, p<0.001 and r<sup>2</sup>=0.292, p<0.001 respectively). Fractures which occurred at the same site as a previously united fracture took longer to heal than the first fracture (median 276 days to the MRI when bone healing was observed compared to 114 days for first fracture; p=0.036)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Lumbar spine stress fractures in elite adult fast bowlers are capable of achieving complete bone healing, as demonstrated in the majority of bowlers in this study. Larger fractures, greater bone marrow oedema, and history of previous injury at the same site may require longer healing time which may be monitored with MRI."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Fractures which occurred at the same site as a previously united fracture took longer to heal than the first fracture (median 276 days to the MRI when bone healing was observed compared to 114 days for first fracture; p=0.036)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "41049600",
+  "title": "Cleats May Be a Risk Factor for ACL Tears in Female Lacrosse and Soccer Players.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) tears are common in female athletes, with most injuries caused by noncontact mechanisms. Beyond the sex factor, it is important to identify modifiable risk factors for an ACL tear, such as the type of shoe and playing surface."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the association between shoe type and the risk of ACL injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of 256 female athletes was conducted: 128 female soccer and lacrosse athletes who had torn their ACLs and 128 age- and sport-matched athletes who had never torn their ACL. Sports, level of competition, mechanism of injury, type of shoe, type of stud in the shoe, and playing surface were identified."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In this study, 75% of participants who tore their ACLs were wearing cleats. In contrast, only 55.5% of the age-matched group with normal ACLs wore cleats. A significant association was found between ACL tear and the type of shoe they were wearing (<i>P</i> < .05). In athletes who tore their ACL, 46.4% of their cleats had conical studs, 14.4% had blades, and 15.2% had a mix of the 2, compared with those who have never torn their ACL, with 30.5% having conical studs, 18.8% blades, and 6.3% mixed. The odds of sustaining an ACL tear while wearing conical studs were 2.02 times higher than wearing blades (95% CI, 0.97-4.20) and 2.87 times higher than wearing turf shoes (95% CI, 1.58-5.23)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Female athletes who wore cleats were more likely to tear their ACL when compared with sport- and age-matched athletes who wore turf shoes. Wearing turf shoes as opposed to cleats appears to be associated with a reduced risk of ACL tears in high-level female athletes. Cleats with long, conical studs, especially around the perimeter of the cleat, were associated with increased odds for ACL tear and were more common in the 128 athletes in this study who tore their ACLs. Based on this information, we recommend further exploration for a shoe that prevents shoe wear from being an additional risk factor for ACL injuries in female athletes."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

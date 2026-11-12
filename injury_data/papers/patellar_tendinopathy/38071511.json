@@ -1,0 +1,31 @@
+{
+  "pmid": "38071511",
+  "title": "Injury and illness among Norwegian Olympic athletes during preparation for five consecutive Summer and Winter Games.",
+  "year": "2023",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To describe the patterns of health problems among Norwegian Olympic candidates during their preparations for five consecutive Olympic Games (London 2012, Sochi 2014, Rio de Janeiro 2016, PyeongChang 2018 and Tokyo 2020)."
+    },
+    {
+      "label": "METHODS",
+      "text": "This was a descriptive epidemiological study using the Oslo Sports Trauma Research Center Questionnaire on Health Problems to collect data on all self-reported health problems from Norwegian Olympic candidate athletes for 12-18 months prior to each Olympic Games. Team physicians and physiotherapists followed up the athlete reports, providing clinical care and classifying reported problems according to the International Olympic Committee 2020 consensus statement on methods for recording and reporting of epidemiological data on injury and illness in sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between 2011 and 2020, 533 athletes were included in the Norwegian Olympic team monitoring programme, with a 78% response to the weekly questionnaire. During this time, athletes reported 2922 health problems, including 1409 illnesses (48%), 886 overuse injuries (repetitive mechanism, 30%) and 627 acute injuries (traumatic mechanism, 21%). Diagnostic codes were recorded for 2829 (97%) of health problems. Athletes reported, on average, 5.9 new health problems per year (95% CI: 5.6 to 6.1), including 1.3 acute injuries (CI: 1.2 to 1.4), 1.7 overuse injuries (CI: 1.6 to 1.9) and 2.9 illnesses (CI: 2.7 to 3.0). Each year, female and male athletes lost an average of 40 and 26 days of training and competition due to health problems, respectively. The diagnoses with the highest health burden were anterior cruciate ligament rupture, respiratory infection, lumbar pain and patellar tendinopathy."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The injury burden was particularly high among female athletes and in team sports, whereas endurance sports had the greatest burden of illness. Our data provide a compelling argument for prioritising medical care and investing in prevention programmes not just during the Olympic Games, but also the preparation period."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

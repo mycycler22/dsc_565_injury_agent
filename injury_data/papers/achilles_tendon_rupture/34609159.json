@@ -1,0 +1,36 @@
+{
+  "pmid": "34609159",
+  "title": "Return to Play Following Achilles Tendon Rupture in NFL Players Based on Position.",
+  "year": "2023",
+  "journal": "Foot & ankle specialist",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The purpose of this study was to determine the return-to-play (RTP) rate and postinjury performance after Achilles tendon (AT) ruptures in National Football League (NFL) skill position players."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study included NFL skill positions with an AT rupture between the 2009-2010 and 2015-2016 seasons. Performance data were collected and compared against a matched control group. RTP was defined as playing in at least 1 game after repair."
+    },
+    {
+      "label": "RESULTS",
+      "text": "RTP rate was 57% for the study cohort. The tight ends (TEs) had the highest RTP rate at 71% while the wide receivers (WRs) had the lowest RTP rate at 38%. Compared with the control group, WRs with successful RTP had significantly less receptions per game (<i>P</i> = .01). For defensive players with RTP there were significant decreases in postrepair performance in tackles, passes defended, and fumbles forced/recovered compared with the control group."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A total of 57% of players achieved RTP with WRs and running backs (RBs) having the lowest RTP rates and TEs and linebackers (LBs) having the highest RTP rates. RBs, defensive backs (DBs), and LBs with successful RTP had decreased performance in all categories. This updated information may be helpful for athletes, physicians, scouts, and coaches in evaluating players with a history of AT rupture."
+    },
+    {
+      "label": "LEVELS OF EVIDENCE",
+      "text": "Analytic, level 3, retrospective cohort study, Epidemiologic study."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

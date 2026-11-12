@@ -1,0 +1,43 @@
+{
+  "pmid": "40674891",
+  "title": "Exploring the association of selected lower limb biomechanical variables on exacerbating pain, disability, and postural balance in female athletes with patellofemoral pain syndrome.",
+  "year": "2025",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "This study aimed to investigate the associations of selected lower limb biomechanical variables with pain severity, disability, and postural balance in female athletes with Patellofemoral Pain Syndrome (PFPS)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Biomechanics Laboratory."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "165 female athletes were assigned to the PFPS group and 160 as a healthy controls group."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Dynamic knee valgus (DKV) was measured via the Kinovea software program, tibial torsion was measured via a universal goniometer, and the navicular height was measured via a height caliper tool. Postural balance under dynamic stress was quantified via the Biodex Balance System, Pain severity via the numerical pain rating scale (NPRS), and disability via the anterior knee pain scale (AKPS)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "DKV and tibial torsion showed significant differences between groups. DKV positively correlated with pain (r = 0.451) and postural balance (r = 0.244, 0.341, and 0.351 for balance scores), and negatively with disability (r = -0.432). Tibial torsion negatively correlated with disability (r = -0.339). Navicular height had no significant correlation with the measured variables."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Lower limb biomechanics, especially DKV and tibial torsion, should be prioritized in performance screening for female athletes. This study highlights the importance of addressing biomechanical correction strategies into rehabilitation programs for female athletes with PFPS."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

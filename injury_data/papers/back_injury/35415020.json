@@ -1,0 +1,19 @@
+{
+  "pmid": "35415020",
+  "title": "Validating an inertial measurement unit for cricket fast bowling: a first step in assessing the feasibility of diagnosing back injury risk in cricket fast bowlers during a tele-sport-and-exercise medicine consultation.",
+  "year": "2022",
+  "journal": "PeerJ",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study aimed to validate an array-based inertial measurement unit to measure cricket fast bowling kinematics as a first step in assessing feasibility for tele-sport-and-exercise medicine. We concurrently captured shoulder girdle relative to the pelvis, trunk lateral flexion, and knee flexion angles at front foot contact of eight cricket medium-fast bowlers using inertial measurement unit and optical motion capture. We used one sample t-tests and 95% limits of agreement (LOA) to determine the mean difference between the two systems and Smallest Worth-while Change statistic to determine whether any differences were meaningful. A statistically significant (<i>p</i> < 0.001) but small mean difference of -4.7° ± 8.6° (95% Confidence Interval (CI) [-3.1° to -6.4°], LOA [-22.2 to 12.7], SWC 3.9°) in shoulder girdle relative to the pelvis angle was found between the systems. There were no statistically significant differences between the two systems in trunk lateral flexion and knee flexion with the mean differences being 0.1° ± 10.8° (95% CI [-1.9° to 2.2°], LOA [-22.5 to 22.7], SWC 1.2°) and 1.6° ± 10.1° (95% CI [-0.2° to 3.3°], LOA [-19.2 to 22.3], SWC 1.9°) respectively. The inertial measurement unit-based system tested allows for accurate measurement of specific cricket fast bowling kinematics and could be used in determining injury risk in the context of tele-sport-and-exercise-medicine."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

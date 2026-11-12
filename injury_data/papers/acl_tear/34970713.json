@@ -1,0 +1,24 @@
+{
+  "pmid": "34970713",
+  "title": "Disparities in ACL Reconstruction: the Influence of Gender and Race on Incidence, Treatment, and Outcomes.",
+  "year": "2022",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Anterior cruciate ligament (ACL) rupture is a common injury that has important clinical and economic implications. We aimed to review the literature to identify gender, racial and ethnic disparities in incidence, treatment, and outcomes of ACL injury."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Females are at increased risk for ACL injury compared to males. Intrinsic differences such as increased quadriceps angle and increased posterior tibial slope may be contributing factors. Despite lower rates of injury, males undergo ACL reconstruction (ACLR) more frequently. There is conflicting evidence regarding gender differences in graft failure and ACL revision rates, but males demonstrate higher return to sport (RTS) rates. Females report worse functional outcome scores and have worse biomechanical metrics following ACLR. Direct evidence of racial and ethnic disparities is limited, but present. White athletes have greater risk of ACL injury compared to Black athletes. Non-White and Spanish-speaking patients are less likely to undergo ACLR after ACL tear. Black and Hispanic youth have greater surgical delay to ACLR, increased risk for loss to clinical follow-up, and less physical therapy sessions, thereby leading to greater deficits in knee extensor strength during rehabilitation. Hispanic and Black patients also have greater risk for hospital admission after ACLR, though this disparity is improving. Females have higher rates of ACL injury with inconclusive evidence on anatomic predisposition and ACL failure rate differences between genders. Recent literature has suggested inferior RTS and functional outcomes following ACLR in females. Though there is limited and mixed data on incidence and outcome differences between races and ethnic groups, recent studies suggest there may be disparities in those who undergo ACLR and time to treatment."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

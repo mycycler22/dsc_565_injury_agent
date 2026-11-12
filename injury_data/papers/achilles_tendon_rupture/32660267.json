@@ -1,0 +1,36 @@
+{
+  "pmid": "32660267",
+  "title": "Association of Strength Following Achilles Tendon Repair With Return to Same Level of Play in High-Level Athletes.",
+  "year": "2020",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Rupture of the Achilles tendon is a common injury and the ability to return to the same level of sporting activity after treatment is an important outcome for patients. The objective of the current study was to examine the relationship between ankle strength and the ability to return to previous level of play following operative repair of an Achilles tendon rupture."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients aged 18 to 50 years at a minimum 1 year postoperation from surgical repair of an Achilles tendon returned for a study visit. Patients reported both preinjury and current activity level using the 10-point Tegner Activity Level Scale. Isokinetic strength testing was performed and the Isokinetic Strength Score (ISS) was calculated. Logistic regression analysis was used to determine the relationship between ISS and return to play by Tegner level. A total of 36 patients (mean 35 years old, 72% male) completed the study protocol at a mean 1.8 years postoperatively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Logistic regression revealed no association between ISS and return to play in the complete cohort. Subgroup analysis revealed that for 20 high-level athletes (preinjury Tegner ≥ 7), for every 16-point increase in ISS, the odds ratio (OR) for return to same level of play was 8.3 (<i>P</i> = .055) and the OR for return to within 1 Tegner level of play was 6.3 (<i>P</i> = .043). There was no association between ISS and return to previous activity in the 16 patients with lower preinjury levels of activity."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Improved ankle strength was associated with return to previous level of activity in patients participating in high-level athletic activity, suggesting that these patients were more dependent on recovery of ankle strength in the postoperative time period in order to return to their previous high level of play. In contrast, regaining strength may be less important for returning to normal activities for less active patients."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, comparative series."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

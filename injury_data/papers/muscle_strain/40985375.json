@@ -1,0 +1,25 @@
+{
+  "pmid": "40985375",
+  "title": "Gastrocnemius Muscle Strain Injury Characteristics in Elite Male Australian Football Players: A 10-Year Longitudinal Cohort Study.",
+  "year": "2025",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>OBJECTIVE:</b> To describe the injury type (index/recurrent), location (medial head/lateral head), mechanism, player demographics, and prognosis (recovery/recurrence) in gastrocnemius injuries affecting elite male players. <b>DESIGN:</b> Longitudinal cohort. <b>METHODS:</b> Injury data from 2014 to 2023 were extracted from the Soft Tissue Injury Registry of the Australian Football League. Data items were injury type and circumstances, player demographics, and prognostic outcomes (functional milestones and recurrence). Demographics, injury characteristics, and prognoses were described. Recovery (time to return to play) was compared (survival analysis) for injury type (index vs recurrent), location (medial head vs lateral head), mechanism, intrinsic factors, and training history. <b>RESULTS:</b> Eighty-two magnetic resonance imaging-confirmed gastrocnemius injuries were included (68 index, 14 recurrent). Medial head injuries were most prevalent (78%). The median (interquartile range) time to reach functional milestones was 3 days (3) to walk pain free, 14 days (11) to run at >90% of the maximum speed, 14 days (15.5) to return to full training, and 19 days (16) to return to play. A recent change in loading prior to injury (<i>P</i> = .02), a running-related mechanism (<i>P</i> = .03), and older age (<i>P</i> = .01) resulted in longer recovery. Acceleration was the most common running injury mechanism, occurring in 13 cases. Twenty-nine injuries lacked a specific inciting mechanism. Recurrences occurred <6 months after the index injury in 79% (n = 11) of cases. <b>CONCLUSION:</b> Gastrocnemius injuries predominantly affected the medial head. More than 1 in 6 cases were recurrent. <i>J Orthop Sports Phys Ther 2025;55(10):1-8. Epub 8 September 2025. doi:10.2519/jospt.2025.13526</i>."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The median (interquartile range) time to reach functional milestones was 3 days (3) to walk pain free, 14 days (11) to run at >90% of the maximum speed, 14 days (15.5) to return to full training, and 19 days (16) to return to play."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

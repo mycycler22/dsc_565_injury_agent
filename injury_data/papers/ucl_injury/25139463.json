@@ -1,0 +1,44 @@
+{
+  "pmid": "25139463",
+  "title": "Return to football and long-term clinical outcomes after thumb ulnar collateral ligament suture anchor repair in collegiate athletes.",
+  "year": "2014",
+  "journal": "The Journal of hand surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate return to play after complete thumb ulnar collateral ligament (UCL) injury treated with suture anchor repair for both skill position and non-skill position collegiate football athletes and report minimum 2-year clinical outcomes in this population."
+    },
+    {
+      "label": "METHODS",
+      "text": "For this retrospective study, inclusion criteria were complete rupture of the thumb UCL and suture anchor repair in a collegiate football athlete performed by a single surgeon who used an identical technique for all patients. Data collection included chart review, determination of return to play, and Quick Disabilities of the Arm, Shoulder, and Hand (QuickDASH) outcomes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 18 collegiate football athletes were identified, all of whom were evaluated for follow-up by telephone, e-mail, or regular mail at an average 6-year follow-up. Nine were skill position players; the remaining 9 played in nonskill positions. All players returned to at least the same level of play. The average QuickDASH score for the entire cohort was 1 out of 100; QuickDASH work score, 0 out of 100; and sport score, 1 out of 100. Average time to surgery for skill position players was 12 days compared with 43 for non-skill position players. Average return to play for skill position players was 7 weeks postoperatively compared with 4 weeks for non-skill position players. There was no difference in average QuickDASH overall scores or subgroup scores between cohorts."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Collegiate football athletes treated for thumb UCL injuries with suture anchor repair had quick return to play, reliable return to the same level of activity, and excellent long-term clinical outcomes. Skill position players had surgery sooner after injury and returned to play later than non-skill position players, with no differences in final level of play or clinical outcomes. Management of thumb UCL injuries in collegiate football athletes can be safely and effectively tailored according to the demands of the player's football position."
+    },
+    {
+      "label": "TYPE OF STUDY/LEVEL OF EVIDENCE",
+      "text": "Therapeutic IV."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Average time to surgery for skill position players was 12 days compared with 43 for non-skill position players."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Average return to play for skill position players was 7 weeks postoperatively compared with 4 weeks for non-skill position players."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

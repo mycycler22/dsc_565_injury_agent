@@ -1,0 +1,36 @@
+{
+  "pmid": "41390260",
+  "title": "Maturation of the proximal patellar tendon structure in the adolescent athlete: a longitudinal study.",
+  "year": "2026",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To examine changes in proximal patellar tendon structure during the adolescent growth spurt in athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective observational study."
+    },
+    {
+      "label": "METHODS",
+      "text": "173 adolescent athletes aged 11-15 years from specialised sporting programmes were recruited. Data collection occurred biannually for 2.5 years. Chronological age and maturity offset were calculated. Patellar tendons were scanned using ultrasound tissue characterisation, the proximal attachment was classified as having a hypoechoic area absent/present, and structure was quantified into four distinct echotypes (I-IV). Generalised additive models and generalised additive mixed modelling assessed associations between changes in echotype proportions and chronological age or maturity offset."
+    },
+    {
+      "label": "RESULTS",
+      "text": "147 of 173 participants had normal tendon structure (i.e., no hypoechoic area) at baseline and across the study. In these tendons, a stronger linear association with maturation offset, but not chronological age, was observed for all echotypes suggesting a subtle improvement in tendon structure (p ≤ 0.01). Nine tendons (n = 8 participants) were hypoechoic at baseline and had a significant association with maturation offset and aligned tendon structure (echotype I; p ≤ 0.01) but not for disorganised tendon structure (echotypes III, IV; p = 0.6). Another 17 tendons (n = 15 participants) developed a hypoechoic area across the study."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Proximal patellar tendon structure undergoes echotype changes during adolescence, which was linearly associated with maturity offset and not chronological age. Areas of disorganised patellar tendon structure in adolescents at baseline appeared unchanged despite continued exposure to high loads. Skeletal maturation appears a critical period in the development of a normal and abnormal, proximal patellar tendon attachment having implications for patellar tendinopathy prevention."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

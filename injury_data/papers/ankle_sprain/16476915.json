@@ -1,0 +1,41 @@
+{
+  "pmid": "16476915",
+  "title": "The effect of a balance training program on the risk of ankle sprains in high school athletes.",
+  "year": "2006",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle sprains are the most common musculoskeletal injuries that occur in athletes, and they have a profound impact on health care costs and resources."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "A balance training program can reduce the risk of ankle sprains in high school athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Randomized controlled clinical trial; Level of evidence, 1."
+    },
+    {
+      "label": "METHODS",
+      "text": "Seven hundred and sixty-five high school soccer and basketball players (523 girls and 242 boys) were randomly assigned to either an intervention group (27 teams, 373 subjects) that participated in a balance training program or to a control group (28 teams, 392 subjects) that performed only standard conditioning exercises. On-site athletic trainers recorded athlete exposures and sprains."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The rate of ankle sprains was significantly lower for subjects in the intervention group (6.1%, 1.13 of 1000 exposures vs 9.9%, 1.87 of 1000 exposures; P = .04). Athletes with a history of an ankle sprain had a 2-fold increased risk of sustaining a sprain (risk ratio, 2.14), whereas athletes who performed the intervention program decreased their risk of a sprain by one half (risk ratio, 0.56). The ankle sprain rate for athletes without previous sprains was 4.3% in the intervention group and 7.7% in the control group, but this difference was not significant (P = .059)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A balance training program will significantly reduce the risk of ankle sprains in high school soccer and basketball players."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "27756723",
+  "title": "Outcomes of Hip Arthroscopy in the Older Adult: A Systematic Review of the Literature.",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The indications for hip preservation surgery have expanded to include treatment of hip pathology in older adults. While several studies have examined the efficacy of hip arthroscopy in the setting of osteoarthritis, there has been no review of outcomes in older adults."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To review the outcomes of hip arthroscopy in older adults and identify factors associated with treatment failures."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed, EMBASE, and the Cochrane Library were searched through March 2016 for studies reporting outcomes of primary hip arthroscopy in patients older than 40 years. Inclusion in the review was based on age, patient-reported outcome (PRO) measures, and duration of follow-up. Two authors screened the results and extracted data for use in this review. Standardized mean difference was calculated to estimate effect size for PRO scores within studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eight studies with 401 total patients undergoing hip arthroscopy for femoroacetabular impingement (FAI) or labral tears were included in this review. Seven of the 8 studies reported favorable PRO scores and significant postoperative improvement with moderate to large effect size. The included studies demonstrated a trend toward higher effect sizes with an increasing percentage of labral repair compared to isolated labral debridement. The complication rate was comparable to that of previous reports involving younger patients; however, the overall reoperation rate was 20.8%. Conversion to hip arthroplasty ranged from 0% to 30%, with an overall conversion rate of 18.5% at a mean time of 17.5 months following arthroscopy. The most common risk factors for conversion to arthroplasty were low preoperative PRO scores and advanced arthritis."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip arthroscopy appears to be a safe and efficacious treatment for labral tears and FAI in older patients who do not have significant underlying degenerative changes. However, in this population, there is a significant proportion of patients who eventually require hip arthroplasty. Outcomes may be affected by type of treatment (ie, labral debridement vs repair). Additional high-quality studies are needed to understand how these factors affect outcomes."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

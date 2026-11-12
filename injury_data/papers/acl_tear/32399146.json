@@ -1,0 +1,36 @@
+{
+  "pmid": "32399146",
+  "title": "Neuroplasticity and Anterior Cruciate Ligament Injury.",
+  "year": "2020",
+  "journal": "Indian journal of orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Anterior cruciate ligament (ACL) tears are common, with a seemingly constant increase in their number, and potentially serious consequences for sports participation and long-term general and musculoskeletal health."
+    },
+    {
+      "label": "AREAS OF AGREEMENT",
+      "text": "Most players are able to return to cutting sport after ACL reconstruction, but some sustain further knee problems needing different approach to their rehabilitation."
+    },
+    {
+      "label": "GROWING POINTS",
+      "text": "Neurocognitive tasks, measuring reaction time, processing speed, visual memory and verbal memory, allow indirect assessment of cerebral performance. Situational awareness, arousal, and attentional resources may influence neurocognitive function, affecting the complex integration of vestibular, visual, and somatosensory information needed for neuromuscular control."
+    },
+    {
+      "label": "AREAS OF CONTROVERSY",
+      "text": "The underlying reasons for uncoordinated, high-velocity movements observed during non-contact injuries of the knee producing an ACL tear are not well understood. Fundamental neuropsychological characteristics are responsible for situational awareness, sensory integration, motor planning, and coordination, all of which control joint stiffness. There is a strong link between acquisition of motor skills and neuronal plasticity at cortical and subcortical levels in the central nervous system; these links may evolve over time and engage different spatially distributed interconnected brain regions. A cascade of neurophysiological alterations occurs after ACL injury."
+    },
+    {
+      "label": "AREAS TIMELY FOR DEVELOPING RESEARCH",
+      "text": "Training can improve function; hence, rehabilitation programmes which include perturbation training, agility training, vision training and sport-specific skill training are essential after ACL injuries and for injury prevention, and to optimize return to play."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "34797176",
+  "title": "Ulnar Neuritis and Its Affect on Outcomes of Elbow Ulnar Collateral Ligament Reconstruction.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "No study has specifically evaluated how ulnar neuritis and ulnar nerve transposition affect outcomes in baseball players undergoing ulnar collateral ligament (UCL) reconstruction (UCLR)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the effects of ulnar neuritis and ulnar nerve transposition in baseball pitchers undergoing UCLR in regard to return to sport, time to return to sport, and need for revision or additional surgery."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "At a single institution, all consecutive baseball pitchers undergoing UCLR between 2002 and 2015 were identified. Ulnar neuritis was diagnosed preoperatively by the following criteria: ulnar nerve symptoms, Tinel sign at the elbow, symptomatic subluxation, and numbness/paresthesia in an ulnar nerve distribution of the hand. The primary outcome of the study was return to sport. The secondary outcomes of the study were time to return to sport, length of playing career, and revision or additional surgery."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 578 UCLRs were performed in baseball players; of these, 500 UCLRs were performed in pitchers. Ulnar neuritis was diagnosed in 97 (19.4%) baseball pitchers presenting with UCL injury. There were no significant differences in patient characteristics or surgical techniques performed for reconstruction between baseball pitchers with and without ulnar neuritis. In review of injury characteristics, ulnar neuritis was significantly more likely to be diagnosed in pitchers with an acute onset of UCL injury (<i>P</i> = .03). Transposition of the ulnar nerve was more commonly performed in players with ulnar neuritis (47%) versus those without ulnar neuritis (10%; <i>P</i> = .0001). The players who had ulnar neuritis and underwent UCLR had a significantly lower odds of returning to sport (odds ratio, 0.45; <i>P</i> = .04); however, no significant difference was found for time to return to sport and length of playing career for those with and without ulnar neuritis (<i>P</i> = .38 and .51, respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The study suggests that ulnar neuritis, when present preoperatively in baseball pitchers undergoing UCLR, may adversely affect their ability to return to sport, whereas ulnar nerve transposition at the time of UCLR does not alter the ability to return to sport."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

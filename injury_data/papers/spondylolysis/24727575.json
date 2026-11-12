@@ -1,0 +1,48 @@
+{
+  "pmid": "24727575",
+  "title": "Changes in the spinopelvic parameters of elite weight lifters.",
+  "year": "2014",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To describe the changes in the spinopelvic parameters in weight lifters and evaluate the factors leading to spinal anatomical changes (eg, spondylolysis and listhesis)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Case-control study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Tertiary, institutional."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "The study group participants were practicing weight lifters in the athletes' village of the 2012 London Olympics. A total of 21 elite weight lifters were enrolled. Their data were compared with those of 45 healthy volunteers in the control group."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Comparative radiological evaluations were performed among the 21 elite weight lifters. Spinopelvic parameters (radiographic analysis), including total (TLL), upper (ULL), and lower (LLL) lumbar lordoses, sacral slope, pelvic tilt (PT) and incidence, lumbar index, and disc angles, were assessed."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "The proportional ratio of ULL and LLL to TLL (ULL/TLL and LLL/TLL) was measured to describe the proportion effect. These values were compared with those of the control group. Weight lifters with and those without anatomical changes were subdivided into a deformed and nondeformed group, respectively, and further analyzed for differences. The correlation between these spinal parameters and the amount and duration of weight lifting training was also analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Anatomical changes in the lumbar spine were seen in 6 weight lifters (28.6%, P = 0.01). The mean TLL, ULL, and LLL values (59.8, 22.6, and 37.2 degrees, respectively) were increased, whereas PT (10.3 degrees) was decreased in the athletes compared with the volunteers (P = 0.001, 0.005, 0.07, and 0.018, respectively). The ULL/TLL was higher in the deformed group than in the nondeformed group (P = 0.036). The duration and amount of weight lifting training were not correlated with the spinopelvic parameters measured in this study."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The elite weight lifters had increased lumbar lordosis and decreased PT compared with the healthy volunteers. The ULL/TLL ratio may be used as a predictive marker for lumbar deformation."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

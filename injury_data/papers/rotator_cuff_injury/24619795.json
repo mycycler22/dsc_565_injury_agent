@@ -1,0 +1,39 @@
+{
+  "pmid": "24619795",
+  "title": "What is the prevalence of senior-athlete rotator cuff injuries and are they associated with pain and dysfunction?",
+  "year": "2014",
+  "journal": "Clinical orthopaedics and related research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Older individuals with rotator cuff injuries may have difficulties not only with activities of daily living, but also with sports activities."
+    },
+    {
+      "label": "QUESTIONS/PURPOSES",
+      "text": "(1) How frequent and severe are rotator cuff abnormalities, as identified by ultrasound, in senior athletes? (2) To what degree does the severity of ultrasound-identified rotator cuff pathology correlate with pain and shoulder dysfunction?"
+    },
+    {
+      "label": "METHODS",
+      "text": "We assessed pain and shoulder function in 141 elite athletes older than 60 years of age (median age, 70 years; range 60-84) at the Senior Olympics who volunteered to participate. An ultrasound evaluation of the rotator cuff of the dominant shoulder was performed by an experienced musculoskeletal radiologist in all of these elite athletes. We then determined the relationship between ultrasound findings and shoulder pain and shoulder function as assessed with the Disabilities of the Arm, Shoulder and Hand (DASH) and American Shoulder and Elbow Surgeons (ASES) scores."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 20 shoulders with a normal cuff (14.2% [20 of 141], of which 5% [one of 20] were painful), 23 with tendinosis (16.3% [23 of 141], of which 30% [six of 20] were painful), 68 with a partial-thickness rotator cuff tear (48.2% [68 of 141], of which 32% [20 of 63] were painful), and 30 with a full-thickness rotator cuff tear (21.3% [30 of 141], of which 25% [seven of 28] were painful). Only 5% of athletes (one of 20) with a normal cuff on ultrasound evaluation reported shoulder pain, whereas 30% of athletes (33 of 111) with any degree of rotator cuff damage on ultrasound evaluation reported shoulder pain, This resulted in an odds ratio of 8.0 (95% confidence interval, 1.0-62.5). The proportion of patients who had pain was not different in those with different severities of rotator cuff pathology. Neither the ASES nor the DASH was different in those with different severities."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The frequency of full-thickness rotator cuff tears in senior athletes was 21.3% (30 of 141). Pain was a predictor of rotator cuff injury but not of its severity. The odds of having shoulder pain was eight times greater in those athletes with any rotator cuff damage as compared with those without any rotator cuff damage. Those with pain had poorer shoulder function but the ASES and DASH were poor predictors of the severity of rotator cuff pathology. Rotator cuff tears in older individuals are often not painful and may not need to be repaired for successful participation in athletics."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level II, prognostic study. See Guidelines for Authors for a complete description of levels of evidence."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,53 @@
+{
+  "pmid": "19295960",
+  "title": "A clinical method for identifying scapular dyskinesis, part 1: reliability.",
+  "year": "2009",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Shoulder injuries are common in athletes involved in overhead sports, and scapular dyskinesis is believed to be one causative factor in these injuries. Many authors assert that abnormal scapular motion, so-called dyskinesis, is related to shoulder injury, but evidence from 3-dimensional measurement studies regarding this relationship is mixed. Reliable and valid clinical methods for detecting scapular dyskinesis are lacking."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the interrater reliability of a new test designed to detect abnormal scapular motion."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Correlation design using ratings from multiple pairs of testers."
+    },
+    {
+      "label": "SETTING",
+      "text": "University athletic training facilities."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "A sample of 142 athletes (from National Collegiate Athletic Association Divisions I and III) participating in sports requiring intense overhead arm use."
+    },
+    {
+      "label": "INTERVENTION(S)",
+      "text": "Participants were videotaped from the posterior aspect while performing 5 repetitions of bilateral, weighted (1.4-kg [3-lb] or 2.3-kg [5-lb]) shoulder flexion and frontal-plane abduction. Videotapes from randomly chosen participants were subsequently viewed and independently rated for the presence of scapular dyskinesis by 6 raters (3 pairs), with each pair rating 30 different participants. Raters were trained to detect scapular dyskinesis using a self-instructional format with standardized operational definitions and videotaped examples of normal and abnormal motion."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Scapular dyskinesis was defined as the presence of either winging or dysrhythmia. Right and left sides were rated independently as normal, subtle, or obvious dyskinesis. We calculated percentage of agreement and weighted kappa (kappa(w)) coefficients to determine reliability."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Percentage of agreement was between 75% and 82%, and kappa(w) ranged from 0.48 to 0.61."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The test for scapular dyskinesis showed satisfactory reliability for clinical use in a sample of overhead athletes known to be at increased risk for shoulder symptoms."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

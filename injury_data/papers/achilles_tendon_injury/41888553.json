@@ -1,0 +1,19 @@
+{
+  "pmid": "41888553",
+  "title": "Rapamycin reduces peritendinous fibrosis but has a limited effect on intratendinous healing in a rodent Achilles tendon injury model.",
+  "year": "2026",
+  "journal": "Scientific reports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendon injuries are common, affecting both athletes and the general population. Healing is often poor, with deposition of fibrotic, disorganised scar-like tissue leading to continued pain, dysfunction and reinjury. The pathogeneses of many fibrotic diseases, including tendinopathies, are influenced by the mammalian target of rapamycin (mTOR) signalling pathway, which modulates processes required for cell growth and proliferation. Rapamycin, an mTOR inhibitor, is a promising therapeutic for several fibrotic diseases, and can facilitate musculoskeletal tissue repair. Therefore, we used a needle-induced injury model of Achilles tendon repair in Wistar rats (Rattus norvegicus) to test the hypothesis that rapamycin treatment during the early stages of tendon injury enhances tendon healing via the modulation of resident tendon cell populations. Results demonstrated that, while rapamycin treatment decreased peritendinous fibrosis and appeared to modulate cell recruitment as well as circulating levels of several microRNAs, it did not enhance healing of lesions within the tendon core, up to three weeks post-injury. Consequently, rapamycin is not an effective therapeutic for acute tendon injury in this rodent model. Future studies should establish if rapamycin is able to improve tendon healing in aged animals or with longer-term administration."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

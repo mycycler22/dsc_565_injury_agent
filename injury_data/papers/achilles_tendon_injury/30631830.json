@@ -1,0 +1,35 @@
+{
+  "pmid": "30631830",
+  "title": "Seasonal Variation of Achilles Tendon Injury.",
+  "year": "2018",
+  "journal": "Journal of the American Academy of Orthopaedic Surgeons. Global research & reviews",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon rupture (ATR) is a common injury with increasing incidence. Several risk factors have been identified; however, little is known about seasonal variations in injury prevalence. Previous reports have generated mixed results, with no clear consensus in the literature. The purpose of this investigation was to retrospectively review ATRs seen at a major academic orthopaedic surgery department in New York City to determine whether a statistically significant seasonal pattern of ATRs exists."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective chart review was conducted, identifying patients with an acute ATR. Patients were excluded if they had a chronic rupture, laceration, débridement for tendinitis, Haglund deformity, or other nonacute indications for surgery. Date and mechanism of injury were determined from the clinical record."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The highest rate of injury was seen in spring (<i>P</i> = 0.015) and the lowest in fall (<i>P</i> < 0.001), both of which were statistically significant. Overall, no statistically significant difference was noted in summer or winter, although more injuries were seen in summer. When only sports-related injuries are considered, a similar trend is seen, with most injuries occurring in spring (n = 48, <i>P</i> = 0.076) and fewest in fall (n = 25, <i>P</i> = 0.012); however, only the lower number in fall reaches statistical significance. No statistically significant difference was noted between seasons when only non-sports-related injuries were considered."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A statistically significant increase was noted in the incidence of ATRs in spring and a statistically significant decrease in fall. The need for recognition of risk factors and preventive education is increasingly important in the orthopaedic surgery community and for primary care physicians, athletic trainers, coaches, and athletes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Prognostic level IV."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

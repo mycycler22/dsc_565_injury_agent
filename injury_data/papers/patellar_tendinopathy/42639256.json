@@ -1,0 +1,36 @@
+{
+  "pmid": "42639256",
+  "title": "Ultrasound-guided percutaneous needle electrolysis for musculoskeletal injuries: A scoping review considering implications for athletic populations.",
+  "year": "2026",
+  "journal": "South African journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ultrasound-guided percutaneous needle electrolysis (PNE) is an emerging minimally invasive technique used for musculoskeletal (MSK) injury management. Despite its growing use in clinical practice, the literature reports mixed findings regarding efficacy, safety, and optimal application in athletic populations."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "This scoping review examines the current literature on PNE for MSK injuries in athletes, evaluating its effectiveness in reducing pain, improving functional recovery, and enhancing return-to-play outcomes. The review also explores its safety profile and comparative advantages over conventional rehabilitation strategies."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search was conducted in PubMed, Scopus, ScienceDirect, Google Scholar, and Web of Science. Peer-reviewed articles published between 2010 and 2024 were selected based on relevance to PNE, MSK injury management, and athlete populations. Studies were analysed for intervention protocols, outcome measures, and follow-up durations. Eligible articles included randomised controlled trials, cohort studies, pilot studies, systematic reviews, and meta-analyses. Data were charted for study design, population, intervention protocols, outcome measures, and follow-up duration. Findings were synthesised descriptively in line with a scoping review approach."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighteen studies met the inclusion criteria, encompassing randomised controlled trials, cohort studies, pilot studies, systematic reviews, and meta-analyses. Findings indicate that PNE significantly reduces pain and enhances functional recovery, particularly when combined with eccentric exercise. The most commonly treated conditions include patellar tendinopathy, supraspinatus tendinopathy, and lateral epicondylitis. While adverse effects are generally mild (e.g., transient soreness, hematoma), variations in treatment protocols hinder standardisation."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "PNE demonstrates promise as an effective treatment for MSK injuries in athletes, particularly when integrated with rehabilitation programs. However, methodological heterogeneity and limited long-term data necessitate further research to establish standardised protocols and optimise treatment outcomes. Expanding the evidence base through high-quality trials will be essential for its broader implementation in sports medicine."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

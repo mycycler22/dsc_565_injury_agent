@@ -1,0 +1,41 @@
+{
+  "pmid": "38216071",
+  "title": "Functional Return-to-Sport Testing Demonstrates Inconsistency in Predicting Short-Term Outcomes Following Anterior Cruciate Ligament Reconstruction: A Systematic Review.",
+  "year": "2024",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To systematically review the relationship between functional testing at the time of return to sport (RTS) and short-term outcomes, such as second anterior cruciate ligament (ACL) tear and return to a preinjury level of sport, among athletes who underwent anterior cruciate ligament reconstruction (ACLR)."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic literature search was performed in MEDLINE, EMBASE, Scopus, and Web of Science to identify studies examining athletes who underwent functional RTS testing and were followed for at least 12 months following ACLR. Studies were screened by 2 reviewers. A standardized template was used to extract information regarding study characteristics, ACLR information, functional test results, and risk factors associated with retear or reduced RTS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 937 studies identified, 22 met the inclusion criteria. The average time between ACLR and RTS testing was 8.5 months. Single leg hop for distance performance had no association with retear risk in any study and no association with RTS rates in most studies. Quadriceps strength had conflicting results in relation to retear risk, whereas it had no relationship with RTS rates. Rates of reinjury and RTS were similar between patients who passed and did not pass combined hop and strength batteries. Asymmetric knee extension and hip moments, along with increased knee valgus and knee flexion angles, demonstrated increased risk of retear."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Individual hop and strength tests that are often used in RTS protocols following ACLR may have limited and inconsistent value in predicting ACL reinjury and reduced RTS when used in isolation. Combined hop and strength test batteries also demonstrate low sensitivity and negative predictive value, highlighting conflicting evidence to suggest RTS testing algorithm superiority."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, systematic review of Level I-IV studies."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The average time between ACLR and RTS testing was 8.5 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

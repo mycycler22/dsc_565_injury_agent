@@ -1,0 +1,41 @@
+{
+  "pmid": "12642264",
+  "title": "Shock wave application for chronic plantar fasciitis in running athletes. A prospective, randomized, placebo-controlled trial.",
+  "year": "2003",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Recent articles have reported success with repeated low-energy shock wave application for treatment of chronic plantar fasciitis in runners."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Shock wave treatment for chronic plantar fasciitis is safe and effective."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective, randomized, placebo-controlled trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty-five running athletes with intractable plantar heel pain for more than 12 months were enrolled; half were assigned to a treatment group that received three applications of 2100 impulses of low-energy shock waves, and half received sham treatment. Follow-up examinations were performed at 6 months and at 1 year by a blinded observer."
+    },
+    {
+      "label": "RESULTS",
+      "text": "After 6 months, self-assessment of pain on first walking in the morning was significantly reduced from an average of 6.9 to 2.1 points on a visual analog scale in the treatment group and from an average of 7.0 to 4.7 points in the sham group. The mean difference between groups was 2.6 points. After 12 months, there was a further reduction of pain in both groups, to an average 1.5 points in the treatment group, and to 4.4 points in the sham group."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Three treatments with 2100 impulses of low-energy shock waves were a safe and effective method for treatment of chronic plantar fasciitis in long-distance runners."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

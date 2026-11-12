@@ -1,0 +1,5 @@
+Title: Return to Play and Fracture Union After the Surgical Management of Jones Fractures in Athletes: A Systematic Review and Meta-analysis. | Type: Journal Article, Meta-Analysis, Systematic Review | PMID: 33740393 | Year: 2021 | Injury query: Jones fracture
+[RESULTS] The overall time to RTP was 9.6 weeks (95% CI, 8.5-10.7 weeks).
+[RESULTS] The time to RTP in the surgical group (IM screw fixation) was 9.6 weeks (95% CI, 8.3-10.9 weeks), which was significantly less than that in the nonoperative group of 13.1 weeks (95% CI, 8.2-18.0 weeks).
+[RESULTS] The overall time to union was 9.1 weeks (95% CI, 7.7-10.4 weeks).
+[RESULTS] The time to union with IM screw fixation (8.2 weeks [95% CI, 7.5-9.0 weeks]) was shorter than that with nonoperative treatment (13.7 weeks [95% CI, 12.7-14.6 weeks]).

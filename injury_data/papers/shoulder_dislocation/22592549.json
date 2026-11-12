@@ -1,0 +1,33 @@
+{
+  "pmid": "22592549",
+  "title": "Recovery of rotators strength after Latarjet surgery.",
+  "year": "2012",
+  "journal": "International journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The purposes of this study were to prospectively determine changes in rotator cuff strength before and after surgical shoulder stabilization by Bristow-Latarjet procedure and to better estimate time needed for rotator cuff strength recovery. 20 patients with recurrent anterior posttraumatic shoulder dislocation underwent internal (IR) and external (ER) rotator isokinetic evaluation before and 3, 6 and 21 months after Bristow-Latarjet surgery. In a seated position with 45° of shoulder abduction in the scapular plane, both shoulders were evaluated concentrically with a Con-Trex® isokinetic dynamometer at 180°∙s (- 1), 120°∙s (- 1) and 60°∙s (- 1). 3 months post-surgery, IR and ER strength of the operated shoulder were significantly lower than before surgery (- 28 ± 20% for IR, - 17 ± 17% for ER) (P<0.05). At 6 and 21 months post-surgery, IR and ER strength were comparable to strength before surgery; strength recovery is seen at 6 months post-surgery with long-term maintenance at 21 months. Given the weakness 3 months post-surgery, return to sports (including overhead and contact sports) should be discussed, and 6 months post-surgery may be a better point for an athlete to resume practicing sports. Isokinetic rotator cuff strength evaluation appears to be relevant in helping to determine the need of continuing strength rehabilitation. Pre-surgical evaluation contributes to the relevance of later comparisons."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The purposes of this study were to prospectively determine changes in rotator cuff strength before and after surgical shoulder stabilization by Bristow-Latarjet procedure and to better estimate time needed for rotator cuff strength recovery. 20 patients with recurrent anterior posttraumatic shoulder dislocation underwent internal (IR) and external (ER) rotator isokinetic evaluation before and 3, 6 and 21 months after Bristow-Latarjet surgery."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "At 6 and 21 months post-surgery, IR and ER strength were comparable to strength before surgery; strength recovery is seen at 6 months post-surgery with long-term maintenance at 21 months."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "Given the weakness 3 months post-surgery, return to sports (including overhead and contact sports) should be discussed, and 6 months post-surgery may be a better point for an athlete to resume practicing sports."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

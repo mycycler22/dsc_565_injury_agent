@@ -1,0 +1,47 @@
+{
+  "pmid": "33878175",
+  "title": "Performance After Concussion in National Hockey League Players.",
+  "year": "2021",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Concussions in ice hockey players are an interesting area of study due to the fast-paced and high-impact nature of the sport. Recently, researchers have focused on player performance after return from concussion to evaluate subclinical deficits that were previously missed."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To examine National Hockey League (NHL) player performance from 2013 to 2019 and compare performance before a concussion with performance immediately after recovering to assess the current NHL return-to-play protocol."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "The NHL Injury Viz and sports reporting websites."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "Players in the NHL who sustained concussions from 2013 to 2019."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Goals, assists, points, plus-minus, time on ice (TOI), and hits."
+    },
+    {
+      "label": "RESULTS",
+      "text": "When goals, assists, points, plus-minus, TOI, and hits were examined, only TOI was different after the players returned from injury, and this TOI difference was not substantively important."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "After concussion, NHL player performance did not change."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

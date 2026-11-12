@@ -1,0 +1,40 @@
+{
+  "pmid": "21335347",
+  "title": "Hamstring muscle strains in professional football players: a 10-year review.",
+  "year": "2011",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Investigations into hamstring strain injuries at the elite level exist in sports such as Australian Rules football, rugby, and soccer, but no large-scale study exists on the incidence and circumstances surrounding these injuries in the National Football League (NFL)."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Injury rates will vary between different player positions, times in the season, and across different playing situations."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between 1989 and 1998, injury data were prospectively collected by athletic trainers for every NFL team and recorded in the NFL's Injury Surveillance System. Data collected included team, date of injury, activity the player was engaged in at the time of injury, injury severity, position played, mechanism of injury, and history of previous injury. Injury rates were reported in injuries per athlete-exposure (A-E). An athlete-exposure was defined as 1 athlete participating in either 1 practice or 1 game."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Over the 10-year study period 1716 hamstring strains were reported for an injury rate (IR) of 0.77 per 1000 A-E. More than half (51.3%) of hamstring strains occurred during the 7-week preseason. The preseason practice IR was significantly elevated compared with the regular-season practice IR (0.82/1000 A-E and 0.18/1000 A-E, respectively). The most commonly injured positions were the defensive secondary, accounting for 23.1% of the injuries; the wide receivers, accounting for 20.8%; and special teams, constituting 13.0% of the injuries in the study."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hamstring strains are a considerable cause of disability in football, with the majority of injuries occurring during the short preseason. In particular, the speed position players, such as the wide receivers and defensive secondary, as well as players on the special teams units, are at elevated risk for injury. These positions and situations with a higher risk of injury provide foci for preventative interventions."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

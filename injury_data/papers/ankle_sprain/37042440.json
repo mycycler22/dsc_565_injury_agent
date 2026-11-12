@@ -1,0 +1,31 @@
+{
+  "pmid": "37042440",
+  "title": "Survey of physicians' and physiotherapists' ankle muscle strength assessment practices for safe return to sports after lateral ankle sprain: A short report.",
+  "year": "2023",
+  "journal": "Physiotherapy research international : the journal for researchers and clinicians in physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND PURPOSE",
+      "text": "Ankle muscle strength is an important criterion to consider and assess for return to play (RTP) after lateral ankle sprain (LAS). This study therefore focuses on the reported ankle muscle strength consideration for RTP by physicians and physiotherapists, both clinicians involved in RTP decisions, and how they assess it in daily practice. The primary aim is to compare reported clinical practice on ankle muscle strength evaluation between physicians and physiotherapists. Our secondary aims are: to assess the prevalence of use of qualitative versus quantitative assessment and; to determine if there are any differences in how clinicians with or without a Sports Medicine or Physiotherapy Education approach this assessment."
+    },
+    {
+      "label": "METHODS",
+      "text": "A survey on RTP criteria after LAS was completed by 109 physicians in a previous study. A number of 103 physiotherapists completed the same survey. A comparison between clinicians' answers was realized and additional questions on ankle muscle strength were analysed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Physiotherapists consider ankle strength for RTP more than physicians (p < 0.001). A large majority of physicians (93%) and physiotherapists (92%) reported assessing ankle strength manually and less than 10% use a dynamometer. Physicians and physiotherapists with Sports Medicine or Physiotherapy Education selected more quantitative assessment than those without (p < 0.001)."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Despite being recognized as an important criterion, ankle muscle strength is not always part of the RTP criteria after LAS in daily practice. The dynamometers are scarcely used by physicians and physiotherapists, whereas it could accurately quantify ankle strength deficits. Sports Medicine or Physiotherapy Education increases the use of quantitative ankle strength assessments by clinicians."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

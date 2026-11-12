@@ -1,0 +1,25 @@
+{
+  "pmid": "41843366",
+  "title": "Systematic review of injections for acute ankle sprains.",
+  "year": "2026",
+  "journal": "Musculoskeletal surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Lateral ankle sprains are a common injury that can result in morbidity in terms of pain and time away from work or sport. Although it is typically self-resolving, treatments to expedite or enhance healing may be beneficial. One modality utilized by health care practitioners is the injection of therapeutic compounds. The purpose of this study is to determine the impact of injections of local anesthetics, platelet-rich plasma (PRP), and hyaluronic acid (HA) on patients with lateral ankle sprains. Systematic Review; Level of evidence 3. A comprehensive literature search was conducted in PubMed, Embase, Web of Science, Scopus, and the Cochrane Library on December 17th, 2024, by the Health Sciences Research Librarian. A total of 10 studies were included. 5 pertained to local anesthetic injections and demonstrated a favorable impact on recovery time. 3 manuscripts used PRP with 2 of the 3 finding improvements in the intervention group relative to the control up to 24 weeks from the injury. 2 manuscripts pertained to hyaluronic acid injections and one of the studies found relative improvements compared to the control in terms of pain control. Injections of PRP, hyaluronic acid, and local anesthetics may be able to improve recovery time and pain control for lateral ankle sprains; however, there remains a need for high-quality research to make recommendations for clinical practice."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "A total of 10 studies were included. 5 pertained to local anesthetic injections and demonstrated a favorable impact on recovery time. 3 manuscripts used PRP with 2 of the 3 finding improvements in the intervention group relative to the control up to 24 weeks from the injury. 2 manuscripts pertained to hyaluronic acid injections and one of the studies found relative improvements compared to the control in terms of pain control."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

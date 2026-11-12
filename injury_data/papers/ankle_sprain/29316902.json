@@ -1,0 +1,36 @@
+{
+  "pmid": "29316902",
+  "title": "The effect of ankle tape on joint position sense after local muscle fatigue: a randomized controlled trial.",
+  "year": "2018",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle tape is widely used by athletes to prevent ankle sprain. Although there is growing evidence that ankle tape improve joint position sense, but yet it is not clear even if tape improve joint position sense after muscle fatigue, because fatigue impair joint position sense and raise the risk of ankle sprain. The aim of this study is to examine the effect of ankle tape on joint position sense after local muscle fatigue."
+    },
+    {
+      "label": "METHOD",
+      "text": "This trial is a randomized controlled trial. 34 healthy subjects participated in this trial. Subjects were randomized distributed into two groups: with tape and without tape. Active and passive absolute error and variable error mean values for two target positions of the ankle joint (15° inversions and inversion minus 5°) before and after fatigue protocol consisted of 30 consecutive maximal concentric/concentric contractions of the ankle evertors and invertors. In this trail joint position sense for all subjects was assessed using The Biodex System isokinetic dynamometer 3, this system is used also for fatigue protocol."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For the variable error (VE), significant mean effect was found for active joint position sense in 15° of inversion after muscle fatigue (P < 0, 05). It was a significant decrease in the work in the last third of inversion detected (P < 0, 05). There was no significant main effect found for fatigue index of eversion."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Ankle tape can improve joint position sense at the fatigue session when joint position sense becomes worse. As a result, ankle tape may be useful to prevent ankle sprain during playing sports. We suggest athletes and individuals at risk of ankle sprain to apply taping before high-load activity."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "The study was retrospectively registered on the ISRCTN registry with study ID ISRCTN30042335 on 12th December 2017."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "37781529",
+  "title": "Growth factors in the treatment of Achilles tendon injury.",
+  "year": "2023",
+  "journal": "Frontiers in bioengineering and biotechnology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achilles tendon (AT) injury is one of the most common tendon injuries, especially in athletes, the elderly, and working-age people. In AT injury, the biomechanical properties of the tendon are severely affected, leading to abnormal function. In recent years, many efforts have been underway to develop effective treatments for AT injuries to enable patients to return to sports faster. For instance, several new techniques for tissue-engineered biological augmentation for tendon healing, growth factors (GFs), gene therapy, and mesenchymal stem cells were introduced. Increasing evidence has suggested that GFs can reduce inflammation, promote extracellular matrix production, and accelerate AT repair. In this review, we highlighted some recent investigations regarding the role of GFs, such as transforming GF-β(TGF-β), bone morphogenetic proteins (BMP), fibroblast GF (FGF), vascular endothelial GF (VEGF), platelet-derived GF (PDGF), and insulin-like GF (IGF), in tendon healing. In addition, we summarized the clinical trials and animal experiments on the efficacy of GFs in AT repair. We also highlighted the advantages and disadvantages of the different isoforms of TGF-β and BMPs, including GFs combined with stem cells, scaffolds, or other GFs. The strategies discussed in this review are currently in the early stages of development. It is noteworthy that although these emerging technologies may potentially develop into substantial clinical treatment options for AT injury, definitive conclusions on the use of these techniques for routine management of tendon ailments could not be drawn due to the lack of data."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

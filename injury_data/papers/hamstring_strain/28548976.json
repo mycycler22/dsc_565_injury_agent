@@ -1,0 +1,32 @@
+{
+  "pmid": "28548976",
+  "title": "Effect of Prior Injury on Changes to Biceps Femoris Architecture across an Australian Football League Season.",
+  "year": "2017",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To assess in-season alterations of biceps femoris long head (BFlh) fascicle length in elite Australian footballers with and without a history of unilateral hamstring strain injury (HSI) in the past 12 months."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty elite Australian football players were recruited. Twelve had a history of unilateral HSI. Eighteen had no HSI history. All had their BFlh architecture assessed at approximately monthly intervals, six times across a competitive season."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The previously injured limb's BFlh fascicles increased from the start of the season and peaked at week 5. Fascicle length gradually decreased until the end of the season, where they were shortest. The contralateral uninjured limb's fascicles were the longest when assessed at week 5 and showed a reduction in-season where weeks 17 and 23 were shorter than week 1. Control group fascicles were longest at week 5 and reduced in-season. The previously injured limb's BFlh fascicles were shorter than the control group at all weeks and the contralateral uninjured limb at week 5. Compared with the control group, the contralateral uninjured limb had shorter fascicles from weeks 9 to 23."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes with a history of HSI end the season with shorter fascicles than they start. Limbs without a history of HSI display similar BFlh fascicle lengths at the end of the season as they begin with. All athletes increase fascicle length at the beginning of the season; however, the extent of the increase differed based on history of HSI. These findings show that a HSI history may influence structural adaptation of the BFlh in-season."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

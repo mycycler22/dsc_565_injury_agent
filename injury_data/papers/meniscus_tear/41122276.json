@@ -1,0 +1,39 @@
+{
+  "pmid": "41122276",
+  "title": "Associations Between Graft Choice and Return to Sports After Primary Anterior Cruciate Ligament (ACL) Reconstruction in Athletes.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) injuries commonly occur in athletes, and ACL reconstruction (ACLR) after ACL injury can predictably allow athletes to return to sports (RTS). However, the time to RTS can be variable and dependent on a variety of patient and surgical factors."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the associations between hamstring tendon (HT), quadriceps tendon (QT), and bone-patellar tendon-bone (BPTB) autograft choice and RTS data for athletes after primary ACLR."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Recreational and competitive athletes aged between 13 and 24 years, undergoing primary ACLR at an academic tertiary institution located in the central United States from 2010 to 2022, were included in the study. RTS outcome variables, including time from procedure to RTS clearance, return to previous level, return to competition, and reinjury (ACL retear and meniscus tear), if found to be significantly associated with autograft type, were subsequently assessed using Wilcoxon rank-sum tests with Bonferroni correction and logistic regression, with the HT autograft as the reference, to investigate the relationship between different autograft types and patients' recovery and clearance status. Graft failure was based on clinical history of reinjury, physical examination, magnetic resonance imaging, and/or revision surgery."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 200 patients who had ACLR were included in this study. Athletes with hamstring tendon autografts were cleared at 25.4 weeks postoperatively, while those treated with BPTB and QT autografts were cleared at 41.1 and 37.6 weeks, respectively (<i>P</i> < .001). Of 55 athletes treated with the HT, 53 (96.4%) returned to competition. Also, 43 of 43 (100%) of athletes treated with BPTB autografts, and 22 of 22 (100%) athletes treated with QT autografts returned to competition. Moreover, 34 of 88 (38.6%) of HT autografts, 8 of 83 (9.6%) BPTB autografts, and 3 of 28 (10.7%) QT autografts had a subsequent ACL graft failure (<i>P</i> < .001). After adjusting for sports level, QT and BPTB autografts continued to have reduced rates of reinjury and subsequent meniscal tear when compared with HT autografts."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "HT autograft patients, on average, were cleared sooner and more likely to suffer an ACL graft tear compared with BPTB or QT patients. However, all 3 graft choices demonstrated similar RTS rates. This study is important for shared decision-making between orthopaedic surgeons and athletes when determining the optimal, patient-specific graft for ACLR."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

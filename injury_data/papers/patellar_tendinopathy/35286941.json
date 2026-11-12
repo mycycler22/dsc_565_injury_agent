@@ -1,0 +1,33 @@
+{
+  "pmid": "35286941",
+  "title": "Interventions for prevention and in-season management of patellar tendinopathy in athletes: A scoping review.",
+  "year": "2022",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Patellar tendinopathy (PT) has a high prevalence in jumping athletes and presents a significant burden on athletes and clinicians due to its long-lasting duration and persistent symptoms. This scoping review aimed to map existing evidence on prevention and in-season management interventions for PT in athletes, evaluating intervention parameters and outcomes."
+    },
+    {
+      "label": "METHODS",
+      "text": "This scoping review was reported in accordance with the PRISMA-ScR. Databases searched included MEDLINE, CINAHL, AMED, EMBase, SPORTDiscus, and the Cochrane library (Controlled trials, Systematic reviews). All primary study designs investigating prevention or in-season management interventions for PT, while maintaining athletes in sport were considered for inclusion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "5987 articles were identified with 29 included in the review. Five studies investigated exercise-based prevention interventions on athletes at risk for PT, including two randomized controlled trials (RCTs), two cohort studies and one case-control study. 24 studies investigated in-season management or rehabilitation in athletes with PT, including 18 RCTs, three case reports, one cohort study, one case series, and one retrospective review. Of these 24 studies, 22 used various resistance training interventions, one used ESWT and one used patellar strapping and taping. The types of resistance training included eccentric, heavy-slow, isometric, inertial flywheel, blood-flow restriction, and isotonic training. Eccentric training was used in 9 studies, with single leg decline squats the most common exercise used in 7 studies. Outcome measures and intervention parameters were heterogenous throughout studies."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Despite a dearth of studies on preventative interventions for athletes with PT, resistance training may be a useful prophylactic method. Eccentric, heavy slow and isometric resistance training have been found to be feasible and clinically beneficial in-season. There are a lack of studies showing that ESWT offers any additional benefit over resistance training in competing athletes. Patellar strapping and taping may offer short-term pain relief during training and competition. Systematic reviews are required to make definitive recommendations for PT."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

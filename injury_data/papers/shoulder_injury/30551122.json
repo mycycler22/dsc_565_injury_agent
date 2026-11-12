@@ -1,0 +1,43 @@
+{
+  "pmid": "30551122",
+  "title": "Epidemiology of shoulder injury in sub-elite level water polo players.",
+  "year": "2019",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Investigate the patterns and circumstances of shoulder injury, in both male and female sub-elite water polo players, through evaluating the injury incidence, mechanism and subsequent training time lost."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort."
+    },
+    {
+      "label": "SETTING",
+      "text": "Sports institute."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "80 sub-elite water polo players."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Total injury number and incidence, mechanism of injury, lost training time and time from injury onset to seeking treatment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For the athlete self-report data set (2009-2013), 218 total injuries were reported with 54 (25%) being shoulder injuries. From 2014 to 2016, 133 physiotherapist-report injuries were recorded, the shoulder accounting for 21 (16%) of total injuries. The shoulder was the most frequently injured site and accounted for 25% of lost training days. Two thirds of shoulder injuries were due to overuse (67%). The average time between sustaining a shoulder injury and presenting to the team physiotherapist was 10 days."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Irrespective of data collection method, shoulder injuries were the most common injury for both male and female sub-elite water polo players. Future injury prevention strategies could address overuse through optimising throwing volumes, and include athlete education about injury management to determine whether reducing time delay between injury occurrence and seeking treatment improves outcomes."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

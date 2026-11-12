@@ -1,0 +1,47 @@
+{
+  "pmid": "38553685",
+  "title": "UCL Throwing Injuries in Nonprofessional Baseball Players: A 14-Year Retrospective Study.",
+  "year": "2025",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "This study evaluated treatment modality (surgical vs nonoperative) of medial ulnar collateral ligament (UCL) injuries in nonprofessional throwing baseball athletes by comparing type, severity, and location of UCL injury."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Baseball players with closed medial epicondyle physes and concomitant throwing-related UCL injury will be more likely to undergo surgical intervention than players with open medial epicondyle physes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Retrospective."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 5."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 119 baseball players with a mean age of 16.9 ± 2.5 years (range, 11-25 years) were included in the study. Datapoints included sex, age at time of injury, severity, and location of UCL injury, growth plate status, operative versus conservative management, and concomitant flexor forearm injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 75 players were treated conservatively; 43 underwent UCL reconstruction (UCL-R), and 1 had an unknown treatment outcome. No significant difference was found for age related to treatment type, UCL-R (17.2 ± 2.2) versus conservative treatment (16.8 ± 2.6). Athletes with closed medial epicondylar growth plates were more likely to undergo UCL-R than athletes with open medial epicondylar growth plates (<i>P</i> = 0.02). There were no significant differences between UCL injury location (42 distal, 37 proximal, 18 combined tear locations, 11 complete tears, and 11 intact UCLs with inflammation) by treatment type (<i>P</i> = 0.09). There was a significant difference for UCL severity (11 complete tears, 96 partial tears) by treatment type (<i>P</i> = 0.03)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Nonprofessional athletes with closed medial epicondylar growth plates and throwing-related UCL injuries were more likely to be treated surgically. Baseball athletes with partial tears, if skeletally immature, require further long-term evaluation."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Continued knowledge gains in this area of throwing medicine will further improve our treatment algorithms in nonprofessional baseball players."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

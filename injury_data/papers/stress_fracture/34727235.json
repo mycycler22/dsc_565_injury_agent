@@ -1,0 +1,32 @@
+{
+  "pmid": "34727235",
+  "title": "Sacral stress fractures in athletes.",
+  "year": "2022",
+  "journal": "European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Fatigue stress fractures are a common overuse injury, frequently associated with high load-bearing endurance activities such as running, military training and aerobic exercise. While these fractures can arise at any site, sacral stress fractures are poorly studied with evidence consisting mainly of case reports and limited case series. This review aims to analyze and summarize all reports published to date describing cases of sacral stress fracture in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed, Embase, Web of Science and the Cochrane Database were systematically searched for studies reporting on Stress Fractures of the Sacrum. Insufficiency fractures of the elderly were excluded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The literature review revealed 49 studies reporting on 124 cases of sacral stress fractures. Seventy-six patients (61%) were professional or collegiate level athletes, and 37 (30%) were military recruits or police officers in training. Seventeen female athletes were identified as suffering from low bone mineral density (25%), 9 of which reported menstrual irregularities. Thirteen female patients (19%) had a history of eating disorders."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "While most sacral stress fractures occur in normal bones exposed to abnormal repetitive loads, the high percentage of lower bone mineral density can blur the lines between fatigue fractures and insufficiency fractures. The causes of these fractures are multifactorial. High endurance sports and the features of the female athlete triad were found in high percentage of the cases. Conservative treatment is the mainstay of treatment, consisting of ceasing of training and a period of rehabilitation and gradual return to training and competition."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

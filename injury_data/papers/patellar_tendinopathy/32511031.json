@@ -1,0 +1,28 @@
+{
+  "pmid": "32511031",
+  "title": "Current pharmacological approaches to the treatment of tendinopathy.",
+  "year": "2020",
+  "journal": "Expert opinion on pharmacotherapy",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Tendinopathies are common in elite and recreational athletes: traditionally considered overuse injuries, they involve excessive tensile loading and subsequent breakdown of the loaded tendon. Many pharmacological treatments have been proposed for the management of tendinopathy, with no agreement regarding the overall best option available both for Achilles and patellar tendinopathy."
+    },
+    {
+      "label": "AREAS COVERED",
+      "text": "The present article reports the best scientific evidence regarding the efficacy and safety of different pharmacological treatments in different types of tendinopathy, focusing on Achilles and patellar tendinopathy, the conditions on which more studies have been published."
+    },
+    {
+      "label": "EXPERT OPINION",
+      "text": "No univocal evidence exists regarding the best non-operative management, which includes non-steroidal anti-inflammatory drugs, platelet-rich plasma, high volume image-guided injections, hyaluronic acid, and prolotherapy, for tendinopathy (in particular Achilles and patellar tendinopathies) as a suitable alternative to the commonly used eccentric loading rehabilitation regimen. It is unclear whether the combination of pharmacological substances with physical therapy would produce better results than physical therapy alone. There is an overall lack of published well-performed randomized controlled trials comparing the various options available for the management of tendinopathy, studying large cohorts of patients for adequately long follow-up periods and with well-validated standardized scores and scales."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

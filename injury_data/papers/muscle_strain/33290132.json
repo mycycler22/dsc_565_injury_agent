@@ -1,0 +1,36 @@
+{
+  "pmid": "33290132",
+  "title": "Epidemiology of injuries in track and field athletes: a cross-sectional study of specific injuries based on time loss and reduction in sporting level.",
+  "year": "2022",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To prevent the occurrence of injury in a sport, exact knowledge of injury patterns is needed. To synthesize sport-specific injuries in track and field comparing elite and recreational level athletes, as well as gender. Furthermore, analyze the time loss due to injury and reduction in athletic performance."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injury type-specific frequencies were recorded according to discipline, gender and performance level. Injury severity was assessed by time loss duration and performance reduction."
+    },
+    {
+      "label": "RESULTS",
+      "text": "64% of athletes suffered at least one injury. In the top 10 ranking, 83% (n = 524) were located in the lower extremities. A muscle strain of the thigh had the highest prevalence in sprint (34%, n = 41), jump (15%, n = 15) and middle-distance running (16%, n = 6). More injuries occurred during training (75%, n = 165) as compared to competition (25%, n = 56). The longest time loss was documented in throwing with a downtime of 36 weeks after a ligament injury of the elbow and 39 weeks after a muscle injury of the elbow. The injury with the highest number of athletes with a reduced level of performance was the foot ligament injury in sprint athletes at 100%."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Assessing time loss and performance reduction in athletics, there are discipline-specific injury patterns. This study points out the high prevalence of training injuries, highlighting the need for future investigations to adapt training management, improve medical care and rehabilitation with respect to every discipline."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The longest time loss was documented in throwing with a downtime of 36 weeks after a ligament injury of the elbow and 39 weeks after a muscle injury of the elbow."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

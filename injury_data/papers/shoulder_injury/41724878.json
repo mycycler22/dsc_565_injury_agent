@@ -1,0 +1,32 @@
+{
+  "pmid": "41724878",
+  "title": "Upper Extremity Return to Sport Functional Testing: A Systematic Review.",
+  "year": "2026",
+  "journal": "Sports medicine - open",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Upper extremity return to sport (RTS) assessments are not standardized with respect to which metrics to use, if the metrics are appropriate for all populations and levels of competition, and what constitutes good or poor test performance. Subsequently, clinicians may utilize suboptimal metrics to evaluate RTS readiness, or forgo objective criteria altogether. The purpose of this study was to examine the psychometric properties (reliability, agreement/measurement error, hypothesis testing/construct validity, criterion/predictive validity, responsiveness) of upper extremity functional tests used to assess RTS readiness."
+    },
+    {
+      "label": "METHODS",
+      "text": "This systematic review followed PRISMA guidelines, with all studies included assessed via the PEDro scale. Literature searches covering PubMed, Google Scholar and Medline databases were completed through November 2024. Studies focusing on the reliability and/or validity of upper extremity functional tests in athletes were included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 5166 studies were identified; 60 studies met criteria for data extraction. Among the identified tests, the Single Arm Shot Put test (SASP), Closed Kinetic Chain Upper Extremity Stability Test (CKCUEST), and the Upper Quarter Y-Balance test (UQY) were the most frequently investigated. The SASP emerged as consistently reliable (the preponderance reporting ICC > 0.90), with construct validity evidenced by correlations with upper extremity isokinetic torque and performance on other functional tests. The CKCUEST demonstrated good to excellent reliability across age, sex, and sport, including individuals with shoulder pain (ICC = 0.73-0.98). Construct validity was established via strong correlations with grip and isokinetic upper extremity strength (P < 0.01), and concurrent validity when compared to other upper extremity functional tests. The CKCUEST also demonstrates predictive validity for determining future upper extremity injury risk, and discriminant validity distinguishing individuals with and without current shoulder injury. The UQY yielded mixed reliability, with ICC = 0.47-0.97; additionally, numerous studies found no significant relationships between the UQY and other measures (strength and/or other upper extremity functional tests). The athletic shoulder test (ASH) is an emerging test designed to evaluate isometric strength of the upper body in 3 positions with the athlete prone. Across all testing positions, the ASH has excellent test-retest reliability (ICCs ranging from 0.94 to 0.98), and has demonstrated high concurrent validity when a sphygmomanometer or hand-held dynamometer is utilized instead of a force plate."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This is the first extensive systematic review examining the psychometric properties of commonly administered upper extremity functional tests used to determine RTS criteria, with 60 articles analyzed. The CKCUEST and SASP demonstrate consistent reliability and validity across multiple athletic populations. Understanding strengths and limitations of upper extremity functional tests aids clinicians in choosing appropriate assessments for RTS across age, sex, sport, and level, as well as healthy and injured athletes."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

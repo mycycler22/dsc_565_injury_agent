@@ -1,0 +1,32 @@
+{
+  "pmid": "23619561",
+  "title": "A longitudinal evaluation of maturational effects on lower extremity strength in female adolescent athletes.",
+  "year": "2013",
+  "journal": "Pediatric physical therapy : the official publication of the Section on Pediatrics of the American Physical Therapy Association",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Recent studies demonstrate that adolescent growth without corresponding strength adaptations may lead to the development of risk factors for patellofemoral pain and anterior cruciate ligament injuries. Our purpose was to investigate the longitudinal trajectories of lower extremity strength across maturational stages for a cohort of female student athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A nested cohort design was used to identify 39 subjects who had complete knee flexion, knee extension, and hip abduction strength data for 3 test sessions spaced approximately 1 year apart and during which they transitioned from prepubertal to a pubertal status."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Knee extension strength increased while hip abduction and hamstrings-to-quadriceps ratio strength decreased from prepubertal to pubertal stages (P < .05). No effects of time with respect to knee flexion strength or nondominant/dominant limb differences were found (P > .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "These data provide support that preadolescence is an optimal time to institute strength training programs aimed toward injury prevention."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

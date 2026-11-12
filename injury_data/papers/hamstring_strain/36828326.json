@@ -1,0 +1,19 @@
+{
+  "pmid": "36828326",
+  "title": "Differences in Peak Knee Flexor Force between Eccentric-Only and Combined Eccentric-Concentric Nordic Hamstring Exercise.",
+  "year": "2023",
+  "journal": "Sports (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "In many sports, the hamstring strain injury is a common injury. There is evidence that the Nordic hamstring exercise (NHE), a knee flexor exercise, can reduce hamstring injury risk in athletes. In research on hamstring injury prevention, eccentric-only NHE is typically performed, whereas in sports, it is relatively common for athletes to perform NHE eccentrically-concentrically. Further, NHE strength is generally assessed by measuring knee flexor force through an ankle brace, attached atop of a load cell. An alternative method might be to assess knee flexor force about the knee joint using a force plate. The aim of the study was to investigate differences in peak knee flexor force between eccentric-only and combined eccentric-concentric NHE. The purpose was also to determine the correlation between hamstring force measured at the ankle using a load cell (current gold standard) and force assessed about the knee joint using a force plate during NHE. Fifteen junior and senior elite soccer and track and field athletes (3 women and 12 men aged 17-27 years) performed eccentric NHE (ENHE) in which they leaned forward as far as possible until breakpoint and eccentric-concentric NHE (ECNHE) where they returned to the starting position. A linear encoder measured the position at which peak force occurred during the NHEs. Force assessed at the ankle differed significantly (678 vs. 600 N, <i>p</i> < 0.05), whereas force about the knee joint did not (640 vs. 607 N, <i>p</i> > 0.05) between ENHE and ECNHE (12 and 5% difference, respectively). The forward distance achieved by the participants in cm at breakpoint for ENHE was 37% higher than at the coupling phase for ECNHE (74 vs. 54 cm, <i>p</i> < 0.001). Very strong significant (<i>p</i> < 0.01) correlations were noted between peak force assessed at the ankle and about the knee joint for ENHE and ECNHE, <i>r</i> = 0.96 and <i>r</i> = 0.99, respectively. Our results suggest that ECNHE, where peak knee flexor force was reached with 37% less forward movement, may complement ENHE, i.e., during hamstring injury rehabilitation, where a position of great knee extension may not be well tolerated by the athlete. Further, assessing knee flexor force about the knee joint using a force plate may provide an alternative to measuring force at the ankle using a load cell when testing NHE strength."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

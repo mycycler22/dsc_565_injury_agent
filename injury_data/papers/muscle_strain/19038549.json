@@ -1,0 +1,19 @@
+{
+  "pmid": "19038549",
+  "title": "Biomechanical response to hamstring muscle strain injury.",
+  "year": "2009",
+  "journal": "Gait & posture",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strains are common injuries, the majority of which occur whilst sprinting. An understanding of the biomechanical circumstances that cause the hamstrings to fail during sprinting is required to improve rehabilitation specificity. The aim of this study was to therefore investigate the biomechanics of an acute hamstring strain. Bilateral kinematic and ground reaction force data were captured from a sprinting athlete prior to and immediately following a right hamstring strain. Ten sprinting trials were collected: nine normal (pre-injury) trials and one injury trial. Joint angles, torques and powers as well as hamstring muscle-tendon unit lengths were computed using a three-dimensional biomechanical model. For the pre-injury trials, the right leg compared to the left displayed greater knee extension and hamstring muscle-tendon unit length during terminal swing, an increased vertical ground reaction force peak and loading rate, and an increased peak hip extensor torque and peak hip power generation during initial stance. For the injury trial, significant biomechanical reactions were evident in response to the right hamstring strain, most notably for the right leg during the proceeding swing phase after the onset of the injury. The earliest kinematic deviations in response to the injury were displayed by the trunk and pelvis during right mid-stance. Taking into account neuromuscular latencies and electromechanical delays, the stimulus for the injury must have occurred prior to right foot-strike during the swing phase of the sprinting cycle. It is concluded that hamstring strains during sprinting most likely occur during terminal swing as a consequence of an eccentric contraction."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

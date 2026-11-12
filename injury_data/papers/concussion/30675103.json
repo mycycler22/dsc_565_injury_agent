@@ -1,0 +1,32 @@
+{
+  "pmid": "30675103",
+  "title": "Unifying Pathophysiological Explanations for Sports-Related Concussion and Concussion Protocol Management: Literature Review.",
+  "year": "2019",
+  "journal": "Journal of experimental neuroscience",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "There is a plethora of theories about the pathophysiology behind a sport-related concussion. In this review of the literature, the authors evaluated studies on the pathophysiology of sport-related concussion and professional athlete return-to-play guidelines. The goal of this article is to summarize the most common hypotheses for sport-related concussion, evaluate if there are common underlying mechanisms, and determine if correlations are seen between published mechanisms and the most current return-to-play recommendations."
+    },
+    {
+      "label": "METHODS",
+      "text": "Two authors selected papers from the past 5 years for literature review involving discussion of sport-related concussion and pathophysiology, pathology, or physiology of concussion using mutually agreed-upon search criteria. After the articles were filtered based on search criteria, pathophysiological explanations for concussion were organized into tables. Following analysis of pathophysiology, concussion protocols and return-to-play guidelines were obtained via a Google search for the major professional sports leagues and synthesized into a summary table."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Out of 1112 initially identified publications, 53 met our criteria for qualitative analysis. The 53 studies revealed 5 primary neuropathological explanations for sport-related concussion, regardless of the many theories talked about in the different papers. These 5 explanations, in order of predominance in the articles analyzed, were (1) tauopathy, (2) white matter changes, (3) neural connectivity alterations, (4) reduction in cerebral perfusion, and (5) gray matter atrophy. Pathology may be sport specific: white matter changes are seen in 47% of football reports, tauopathy is seen in 50% of hockey reports, and soccer reports 50% tauopathy as well as 50% neural connectivity alterations. Analysis of the return-to-play guidelines across professional sports indicated commonalities in concussion management despite individual policies."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Current evidence on pathophysiology for sport-related concussion does not yet support one unifying mechanism, but published hypotheses may potentially be simplified into 5 primary groups. The unification of the complex, likely multifactorial mechanisms for sport-related concussion to a few common explanations, combined with unique findings within individual sports presented in this report, may help filter and link concussion pathophysiology in sport. By doing so, the authors hope that this review will help guide future concussion research, treatment, and management."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

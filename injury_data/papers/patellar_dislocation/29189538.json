@@ -1,0 +1,36 @@
+{
+  "pmid": "29189538",
+  "title": "What's New in Pediatric Sports Conditions of the Knee?",
+  "year": "2018",
+  "journal": "Journal of pediatric orthopedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sports injuries are common in pediatric and adolescent patients and the evaluation and treatment of these injuries continues to evolve. The purpose of this review is to provide a comprehensive appraisal of the literature, highlighting recent updates on sports-related knee injuries in the pediatric athlete. We specifically examined literature on tibial spine fractures, osteochondritis dissecans (OCD) of the knee, and patellar instability. Because of the volume of literature on the subject, pediatric, and adolescent anterior cruciate ligament injuries were not included in this review."
+    },
+    {
+      "label": "METHODS",
+      "text": "An electronic search of the PubMed, EMBASE, and Google Scholar databases was performed for keywords related to pediatric: tibial spine fractures, patellar instability, and osteochondritis dissecans (OCD). Search results were filtered by publication date to yield articles published electronically or in print on or after January 1, 2013. Papers were selected based on expert opinion and consensus by the authors and included if deemed to have contributed important findings to the above topics."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 31 articles were deemed to have contributed significant findings to the literature: 5 tibial spine, 17 patellar instability, and 9 OCD. The level of evidence for most studies was either level III or IV."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The optimal treatment for tibial spine fractures remains controversial. The evaluation of risk factors for recurrent patellar instability is important in determining the optimal treatment strategy following first-time patellar dislocation. Future multicenter studies on pediatric OCD have the potential to further understanding of this difficult problem. High-level, comparative outcomes research on a variety of pediatric sports related injuries is lacking and this review may help inform topics for future study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV-literature review."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

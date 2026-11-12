@@ -1,0 +1,40 @@
+{
+  "pmid": "25043128",
+  "title": "Return to play for neurosurgical patients.",
+  "year": "2014",
+  "journal": "World neurosurgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Concussion and sports-related cranial and spine injuries recently have garnered increased attention from the media, public, and sports' governing bodies. Although concussion has been well-studied, there are minimal data on return to play for structural neurosurgical lesions."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "We aimed to study current neurosurgical practice on return to play for structural neurosurgical lesions in order to eventually establish guidelines for these athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A survey was sent to all American Association of Neurological Surgeons members inviting them to submit information on athletes who presented with structural neurosurgical lesions. These included both operative and nonoperative lesions. Ten examples of relevant clinical scenarios were included. Neurosurgeons were surveyed about their practice of clearing these patients for return to play and about patient outcomes afterwards, including any clinical sequelae. Responses were tabulated and studied to search for trends in current practice. Nonstructural cases, such as concussion and cervical strain cases, were excluded. The Mann-Whitney U test was used to test for statistical difference in the time to return for spine versus cranial, instrumented versus noninstrumented spine, and pediatric versus adult cases."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ninety-eight respondents entered data on a total of 189 patients (118 surgical and 71 nonoperative/incidental). In the surgical category, 109 cases (41 cranial, 67 spine, and 1 peripheral nerve lesions) met inclusion criteria. There was a significant difference in time to return between spine (88% returned ≤6 months) versus cranial (50% returned >6 months, P<0.001), noninstrumented (55% returned ≤3 months) versus instrumented spine (92% returned >3 months, P=0.001), and adult (78% returned ≤6 months) versus pediatric cases (52% returned >6 months, P=0.021). Fifty nonoperative/incidental cases met inclusion criteria; 94% of athletes returning to play with nonoperative lesions had no reported clinical sequelae. All nonsurgical and 81% of surgical respondents required deficit resolution before return to play."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The results presented here are the first effort to study current practice on return to play for structural neurosurgical lesions. They establish an early foundation for neurosurgical guidelines on these patients."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "There was a significant difference in time to return between spine (88% returned ≤6 months) versus cranial (50% returned >6 months, P<0.001), noninstrumented (55% returned ≤3 months) versus instrumented spine (92% returned >3 months, P=0.001), and adult (78% returned ≤6 months) versus pediatric cases (52% returned >6 months, P=0.021)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

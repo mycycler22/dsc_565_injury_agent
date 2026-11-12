@@ -1,0 +1,20 @@
+{
+  "pmid": "30212023",
+  "title": "[An active medical intern with a painful lower leg].",
+  "year": "2018",
+  "journal": "Nederlands tijdschrift voor geneeskunde",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "A 23-year-old female athlete presented with progressive pain in her right lower leg since 3 months. Conventional radiography did not reveal a fracture. However, a CT-scan showed a proximal posteromedial tibial stress fracture, matching with the localisation of the pain."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

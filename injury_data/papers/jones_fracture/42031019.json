@@ -1,0 +1,33 @@
+{
+  "pmid": "42031019",
+  "title": "Screw characteristics and intramedullary fixation for Jones fractures and associated outcomes: A systematic review and meta-analysis.",
+  "year": "2026",
+  "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "A Jones fracture is a common injury in foot and ankle care. Open reduction internal fixation (ORIF) versus conservative treatment has a strong literature background supporting ORIF for the active patients. Standard treatment for fixation of the Jones fracture is intramedullary screw fixation. However, there is limited research on how screw characteristics influence outcomes. This systematic review aimed to compare the outcomes based on screw characteristics in the treatment of Jones fractures."
+    },
+    {
+      "label": "METHODS",
+      "text": "A search of the Cochrane, EBSCO, Scopus, and PubMed databases from 2000 to 2023 identified six retrospective studies, one prospective study, and one case series that evaluated outcomes of intramedullary screw fixation in Jones fractures."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The analysis found no statistically significant difference in return-to-play (RTP) weeks or complication rates when comparing different screw diameters. Additionally, there was no significant difference in complication rates between cannulated and solid screw fixation."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In treating Jones fractures with intramedullary screw fixation, neither screw diameter nor screw type (cannulated or solid) appears to impact complication rates or RTP outcomes. Further studies, particularly randomized controlled trials with larger sample sizes, are needed to confirm these findings and achieve greater homogeneity."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

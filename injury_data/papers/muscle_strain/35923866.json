@@ -1,0 +1,39 @@
+{
+  "pmid": "35923866",
+  "title": "Machine Learning for Predicting Lower Extremity Muscle Strain in National Basketball Association Athletes.",
+  "year": "2022",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In professional sports, injuries resulting in loss of playing time have serious implications for both the athlete and the organization. Efforts to quantify injury probability utilizing machine learning have been met with renewed interest, and the development of effective models has the potential to supplement the decision-making process of team physicians."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to (1) characterize the epidemiology of time-loss lower extremity muscle strains (LEMSs) in the National Basketball Association (NBA) from 1999 to 2019 and (2) determine the validity of a machine-learning model in predicting injury risk. It was hypothesized that time-loss LEMSs would be infrequent in this cohort and that a machine-learning model would outperform conventional methods in the prediction of injury risk."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Performance data and rates of the 4 major muscle strain injury types (hamstring, quadriceps, calf, and groin) were compiled from the 1999 to 2019 NBA seasons. Injuries included all publicly reported injuries that resulted in lost playing time. Models to predict the occurrence of a LEMS were generated using random forest, extreme gradient boosting (XGBoost), neural network, support vector machines, elastic net penalized logistic regression, and generalized logistic regression. Performance was compared utilizing discrimination, calibration, decision curve analysis, and the Brier score."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 736 LEMSs resulting in lost playing time occurred among 2103 athletes. Important variables for predicting LEMS included previous number of lower extremity injuries; age; recent history of injuries to the ankle, hamstring, or groin; and recent history of concussion as well as 3-point attempt rate and free throw attempt rate. The XGBoost machine achieved the best performance based on discrimination assessed via internal validation (area under the receiver operating characteristic curve, 0.840), calibration, and decision curve analysis."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Machine learning algorithms such as XGBoost outperformed logistic regression in the prediction of a LEMS that will result in lost time. Several variables increased the risk of LEMS, including a history of various lower extremity injuries, recent concussion, and total number of previous injuries."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

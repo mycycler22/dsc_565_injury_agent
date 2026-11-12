@@ -1,0 +1,19 @@
+{
+  "pmid": "33345066",
+  "title": "Player Monitoring in Professional Soccer: Spikes in Acute:Chronic Workload Are Dissociated From Injury Occurrence.",
+  "year": "2020",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study aimed to determine whether spikes in acute:chronic workload ratio (ACWR) are associated with injury incidence, and to examine the differences in external load due to greater or lesser exposure to matches and the long-term effects of the load during a chronic seasonal period. Fifteen professional soccer players belonging to the squad of a European Champions League club were enrolled in this study. External training and match load were assessed from all athletes using a global positioning system (GPS). We calculated the uncoupled ACWR for 10 consecutive competitive microcycles. Injuries were identified and determined by the days of absence. The differences in external load were determined using a linear mixed-model approach. In addition to the null hypothesis testing, the effect size was calculated. Thirteen athletes who did not suffer an injury exceeded several times the critical threshold of an ACWR > 1.5. This is equivalent to 1 player exceeding the critical threshold for ACWR in total distance (TD), 2 players for ACWR at distance covered above moderate speed (MSD), 2 players for ACWR at distance covered above high speed (HSD), 2 players for ACWR at distance covered above very high speed (VHSD), and 2 players for ACWR in DC at sprint per week. One athlete experienced a non-contact muscle strain injury and another a contact -injury manifested as a concussion; both athletes document an ACWR <1.5 within the 4 weeks prior to the injury event. Players with lesser participation in official games covered lower TD (-19.6%, very-large ES), MSD (-24.8%, very-large ES), HSD (-25.1%, moderate ES), VHSD (-25.5%, moderate ES), and DC at sprint (-30.6%, moderate ES) over the course of the 10-weeks period in comparison with the players with greater participation in official games. The present study demonstrated that spikes in the ACWR were not related to a subsequent injury occurrence in professional soccer players. Differences in participation in official games caused significant imbalances in the chronic external loads between players in a squad, which should be minimized in training sessions in order to prevent substantial changes in workload for those who usually do not play."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

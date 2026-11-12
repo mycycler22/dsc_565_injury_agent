@@ -1,0 +1,28 @@
+{
+  "pmid": "2405722",
+  "title": "Primary repair with semitendinosus tendon augmentation of acute anterior cruciate ligament injuries.",
+  "year": "1990",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "A retrospective review of 72 acute ACL injuries in 70 athletically active patients (50 recreational and 20 competitive athletes) treated with primary repair and semitendinosus tendon augmentation was conducted (mean follow-up time, 38.5 months). All patients had open primary multiple loop depth-varying suture repair and semitendinosus tendon augmentation at a mean injury to surgery interval of 9.1 days. Fifty-one cases (70.8%) were supplemented with an extraarticular procedure consisting in all cases of an iliotibial band lateral sling reinforcement. All patients underwent 6 weeks of postoperative immobilization followed by a graduated rehabilitation regimen lasting a mean 7.2 months. In 22 of the ACL tears, no other associated injury could be defined at arthrotomy, while in 27, significant medial collateral ligament injuries were noted. Lateral meniscal injuries (24) were more commonly noted than medial meniscal injuries (19). Good to excellent subjective results were reported in 82%, while 77.1% returned to preinjury sport level and participation without limitation. One patient developed \"giving way\" symptoms and overall, only four patients did not return to sports participation. Objective examination revealed 93.1% to have a 1+ or less Lachman test and 86.1% to have a negative pivot shift. Of 60 knees tested, 93.3% had KT-1000 side-to-side difference values (measured at 25 degrees +/- 5 degrees of flexion with an 89 N load) of less than or equal to 3 mm of anterior displacement. A 100 point Hospital for Special Surgery ligament rating score was used with 25 points assigned to subjective, 45 points to objective, and 30 points to functional assessment. The mean score at followup was 93.1. Analysis of results in patients with or without an extraarticular reinforcement revealed no difference in objective outcome. The incidence of patellofemoral pain was 27.8%. Thirty knees had some degree of loss of range of motion. Loss of terminal flexion was noted in 29, while 5 had loss of terminal extension. No correlation could be found between patellofemoral pain and diminished range of motion. Generalized ligamentous laxity was found in 37.1% of the patients; this was not associated with a poor result. This study suggests that primary repair with semitendinosus tendon augmentation of acute ACL injuries with a graduated rehabilitation regimen provides good subjective, and excellent functional and objective, results in active patients that were followed for more than 3 years."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "All patients underwent 6 weeks of postoperative immobilization followed by a graduated rehabilitation regimen lasting a mean 7.2 months."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "This study suggests that primary repair with semitendinosus tendon augmentation of acute ACL injuries with a graduated rehabilitation regimen provides good subjective, and excellent functional and objective, results in active patients that were followed for more than 3 years."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

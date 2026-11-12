@@ -1,0 +1,19 @@
+{
+  "pmid": "41142122",
+  "title": "Does shoe cushioning space affect patellofemoral pain risk? A study based on the integrated finite element model.",
+  "year": "2025",
+  "journal": "iScience",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Variations in toe box space (TBS) of shoes during stop-jumping landings may increase knee injury risk, especially patellofemoral pain syndrome (PFPS). This study aimed to investigate the potential influence of TBS on PFPS during stop-jumping landings. Twenty-eight male basketball athletes were recruited, wearing tight-fitting (TF) and loose-fitting (LF) shoes. Three-dimensional patellar displacement was measured using a high-speed dual fluoroscopic imaging system (DFIS). An integrated foot-ankle-shoe-knee finite element model was used to estimate internal knee stresses. The TF group demonstrated a restricted ankle dorsiflexion range of motion (<i>p</i> < 0.001) and increased knee adduction angle and moment (<i>p</i> < 0.001). Earlier activation of vastus lateralis (VL) relative to vastus medialis (VM) in the TF group contributed to greater lateral patellar displacement and higher Von-Mises stresses in the lateral patella. TF shoes may cause abnormal patellar tracking, elevating the likelihood of PFPS. This study may offer new insights into basketball footwear selection and theoretical support for reducing the risk of PFPS."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

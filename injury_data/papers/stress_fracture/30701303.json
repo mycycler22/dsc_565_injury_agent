@@ -1,0 +1,35 @@
+{
+  "pmid": "30701303",
+  "title": "[Stress fracture of athletes as a cause of groin pain].",
+  "year": "2019",
+  "journal": "Der Radiologe",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CLINICAL/METHODICAL ISSUE",
+      "text": "In this article, suitable imaging of stress reactions and stress fractures in athletes will be examined."
+    },
+    {
+      "label": "STANDARD RADIOLOGICAL METHODS",
+      "text": "Diagnostic procedures include X‑ray, computed tomography (CT), magnetic resonance imaging (MRI), and bone scintigraphy."
+    },
+    {
+      "label": "METHODICAL INNOVATIONS",
+      "text": "MRI represents the gold standard for these types of injuries."
+    },
+    {
+      "label": "PERFORMANCE",
+      "text": "Of all imaging techniques, MRI shows the highest sensitivity in terms of diagnostic and prognostic aspects in stress reactions and stress fractures."
+    },
+    {
+      "label": "PRACTICAL RECOMMENDATIONS",
+      "text": "Early performance of MRI to evaluate the staging, therapy and prognosis of the healing process is recommended."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

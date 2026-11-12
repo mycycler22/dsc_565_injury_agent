@@ -1,0 +1,21 @@
+{
+  "pmid": "18777733",
+  "title": "[Sports injuries and NSAID].",
+  "year": "2008",
+  "journal": "Revue medicale suisse",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sports medicine physicians often treat painful athletes with non steroidal anti-inflammatory drugs (NSAID). However, there is a lack of high-quality evidence to guide them and the adverse effects of those medications have clinical relevance. Moreover, their potential negative consequences on long-term healing process are slowly growing. This article reviews some practical management guidelines with NSAID drawn to assist sports physicians in frequent sports-related injuries. We do not recommend their use in muscle injuries, bone fracture or stress fracture, neither in tendinopathies. In all the cases, if used, length of NSAID treatment should always be kept as short as possible, with considerations of the specific type of injury, level of dysfunction and pain."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

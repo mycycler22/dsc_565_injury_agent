@@ -1,0 +1,25 @@
+{
+  "pmid": "38800197",
+  "title": "Consecutive Bilateral Iliac Stress Fracture in an Adult Male Runner.",
+  "year": "2024",
+  "journal": "Cureus",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Iliac stress fractures (ISF) are uncommon in sports, particularly among runners, and are attributed to repetitive loading and other predisposing factors. ISF poses diagnostic challenges due to nonspecific symptoms and the limited sensitivity of conventional imaging procedures. The reported case is about a 51-year-old male marathon runner with consecutive bilateral ISF. Initial symptoms included mechanical pain in the right buttock, leading to a diagnosis confirmed via pelvic MRI. Conservative management with eight weeks rest from sport activity was indicated with symptom resolution and return to sport. However, 20 days after returning to sport, the patient developed left-sided symptoms post-resumption of running, with MRI confirming a new ISF. An additional eight weeks of rest was prescribed, allowing the patient to resume sport at preinjury levels. ISF should be considered in runners presenting with gluteal pain, emphasizing the importance of early diagnosis. MRI emerges as a valuable tool for accurate diagnosis, guiding appropriate management strategies. Conservative management focusing on rest is paramount for favorable outcomes and optimizing runners' health and performance."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "However, 20 days after returning to sport, the patient developed left-sided symptoms post-resumption of running, with MRI confirming a new ISF."
+    }
+  ],
+  "pmcid": "11127697",
+  "fulltext_chunks": []
+}

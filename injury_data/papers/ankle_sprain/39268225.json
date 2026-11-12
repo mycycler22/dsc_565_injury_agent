@@ -1,0 +1,43 @@
+{
+  "pmid": "39268225",
+  "title": "Return to Play Assessment After Lateral Ankle Sprains - German Male Elite Youth Football (Soccer) Academy Baseline Data.",
+  "year": "2024",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lateral ankle sprain (LAS) is one of the most common types of injury in football (soccer). Normative baseline data of performance tests for Return to Play (RTP) decision are still lacking."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The primary aim of this study was to generate baseline values for uninjured elite youth football players for a multifactorial RTP assessment and compare with previously published data. A secondary aim was to investigate the use of the Limb Symmetry Index (LSI) as a method to determine whether an athlete passes a performance test or not."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Observational Cohort study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Baseline data of performance tests (Y-Balance [YBT-LQ], Heel Rise [HRT]; Singe Leg Squat [SLST]; Single Leg Drop Jump [SLDJ]; Side Hop [SHT]; Figure of 8 Hop [F-8]; Modified Agility T-Test [MAT]) were assessed in 20 elite youth football players, aged 16-21 years. Additionally, the traditional LSI (dividing the result of the non-dominant leg by the result of the dominant leg and multiplying by 100) and directionally corrected LSI (the worst value is divided by the better value and multiplied by 100) were calculated. The test values were compared to previously reported study results. LSI and side-to-side comparisons between dominant and non-dominant leg sides were analyzed using the Wilcoxon test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Male elite youth football players achieved better results in the dynamic performance tests (SHT, F-8, and MAT) compared to reference values of the cohorts previously described in the literature: YBT-LQ total score (cm) dominant (dom) 99.3±8.3, non-dominant (ND) 99.5±10.4; HRT (average number) dom. 27.1±5.4, ND 25.2±5.1); SLDJ height (cm) dom 15±5, ND 15±5 and contact time (sec) dom 0.29±0.08, ND 0.29±0.07, Reactive Strength Index (RSI) dom 0.52±0.12, ND 0.50±0.13); SHT (sec) dom 7.12±0.73, ND 7.39±0.93; F-8 (sec) dom 10.52±1.02, ND 10.37±1.04; and MAT (sec) 5.82±0.22. Directionally corrected LSI differed significantly from the traditional calculated LSI (p<0.05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The findings of this study highlight the need to determine specific baseline data for RTP testing in male elite youth football players after LAS. The traditional LSI should not be used as a \"stand alone method\" for determining RTP. LSI calculations should consider the direction of asymmetry to determine passing a performance test or not."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "3b."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

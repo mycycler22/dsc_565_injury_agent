@@ -1,0 +1,37 @@
+{
+  "pmid": "31561230",
+  "title": "Pediatric thoracolumbar spine surgery and return to athletics: a systematic review.",
+  "year": "2019",
+  "journal": "Journal of neurosurgery. Pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Spinal conditions and injuries in the pediatric population can necessitate surgical treatment. For many pediatric patients, a return to athletic activity after spinal surgery is a significant postoperative focus. However, there is a lack of standardized guidelines to determine criteria for safe return to play (RTP). To understand clinical criteria for patients to safely RTP, the authors conducted a systematic review of outcomes and the period of time before physicians recommend an RTP for pediatric patients undergoing spinal surgery."
+    },
+    {
+      "label": "METHODS",
+      "text": "English-language publications were searched systematically in the PubMed electronic database, and a review was conducted in accordance with the PRISMA guidelines. Additional relevant studies found via a supplementary literature search were also included. Studies assessing return to athletic activity in a pediatric population after spinal surgery were included. Studies without an RTP, postsurgical activity outcomes, or surgical intervention were excluded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A PubMed search identified 295 articles, with 29 included for the systematic review. In addition, 4 studies were included from a supplementary literature search. The majority of these studies were retrospective case series and cohort studies, and the remaining studies included questionnaire-based studies, prospective cohorts, and case-control studies. The most common spinal conditions or injuries included spondylolysis, and this was followed by adolescent idiopathic scoliosis. Overall, the most frequent recommendation for RTP for noncontact and contact sports was 6 months after surgery (range 1-12 months), and for collision sports it was 12 months after surgery. However, some physicians recommended never returning to collision sports after spinal intervention."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Most pediatric patients are able to return to some level of sports after spinal surgery. However, no standardized criteria have been proposed, and RTP recommendations vary according to the treating surgeon. In addition, limited data are published on the variation in timelines for RTP with regard to classifications of sports (noncontact, contact, and collision). Further analysis of specific spinal conditions and injuries with postoperative athletic recovery is needed."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Overall, the most frequent recommendation for RTP for noncontact and contact sports was 6 months after surgery (range 1-12 months), and for collision sports it was 12 months after surgery."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

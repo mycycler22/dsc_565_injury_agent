@@ -1,0 +1,44 @@
+{
+  "pmid": "24762232",
+  "title": "Fluoroquinolones and tendinopathy: a guide for athletes and sports clinicians and a systematic review of the literature.",
+  "year": "2014",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Fluoroquinolone antibiotics have been used for several decades and are effective antimicrobials. Despite their usefulness as antibiotics, a growing body of evidence has accumulated in the peer-reviewed literature that shows fluoroquinolones can cause pathologic lesions in tendon tissue (tendinopathy). These adverse effects can occur within hours of commencing treatment and months after discontinuing the use of these drugs. In some cases, fluoroquinolone usage can lead to complete rupture of the tendon and substantial subsequent disability."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To discuss the cause, pharmacology, symptoms, and epidemiology of fluoroquinolone-associated tendinopathy and to discuss the clinical implications with respect to athletes and their subsequent physiotherapy."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "We searched MEDLINE, Cumulative Index to Nursing and Allied Health (CINAHL), Allied and Complementary Medicine Database (AMED), and SPORTDiscus databases for available reports of fluoroquinolone-related tendinopathy (tendinitis, tendon pain, or rupture) published from 1966 to 2012. Search terms were fluoroquinolones or quinolones and tendinopathy, adverse effects, and tendon rupture. Included studies were written in or translated into English. Non-English-language and non-English translations of abstracts from reports were not included (n = 1)."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Eligible studies were any available reports of fluoroquinolone-related tendinopathy (tendinitis, tendon pain, or rupture). Both animal and human histologic studies were included. Any papers not focusing on the tendon-related side effects of fluoroquinolones were excluded (n = 71)."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Data collected included any cases of fluoroquinolone-related tendinopathy, the particular tendon affected, type of fluoroquinolone, dosage, and concomitant risk factors. Any data outlining the adverse histologic effects of fluoroquinolones also were collected."
+    },
+    {
+      "label": "DATA SYNTHESIS",
+      "text": "A total of 175 papers, including 89 case reports and 8 literature reviews, were identified."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Fluoroquinolone tendinopathy may not respond well to the current popular eccentric training regimes and may require an alternative, staged treatment approach. Clinicians, athletes, athletic trainers, and their medical support teams should be aware of the need to discuss and possibly discontinue these antibiotics if adverse effects arise."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "34391303",
+  "title": "A comparison between whole-body vibration and conventional training on pain and performance in athletes with patellofemoral pain.",
+  "year": "2021",
+  "journal": "Journal of bodywork and movement therapies",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Patellofemoral pain (PFP) is the most common cause of anterior knee pain in athletes, which affects their performance especially during single leg activities. The aim of this study was to compare the effects of whole-body vibration training (WBVT) and conventional training (CT) on pain and performance in athletes with PFP."
+    },
+    {
+      "label": "METHODS",
+      "text": "30 athletes with unilateral PFP were randomly assigned to the WBVT (6 women, 9 men) or CT (7 women, 8 men) group. All participants received training for 4 weeks in 12 sessions. The outcomes of pain and performance were measured at three points in time: baseline, immediately after training and 2 weeks after training. Pain was assessed with the Numeric Pain Rating Scale (NPRS). Performance was measured with the leg-press test and the Kujala Patellofemoral Score (KPS)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In both groups, pain intensity decreased significantly (p < 0.001) and the KPS and number of leg presses increased significantly (p < 0.001) with time. There was no significant difference between groups for changes in the pain score (p = 0.896), KPS (p = 0.463) or leg press (p = 0.796) results."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Whole-body vibration training had the same effect as exercise therapy on pain reduction and on improvements in performance in athletes with PFP."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "22795753",
+  "title": "Return to preinjury activity levels after surgical management of femoroacetabular impingement in athletes.",
+  "year": "2012",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "A systematic review was conducted to identify, assess, and summarize the available evidence pertaining to surgical intervention for femoroacetabular impingement (FAI) in athletes. Summary estimates of treatment effect (proportion with 95% confidence interval [CI]) were calculated specifically for the rate of return to sport."
+    },
+    {
+      "label": "METHODS",
+      "text": "Electronic databases (Medline, Embase, and Cochrane Library) were searched from inception to November 2011. The references of included articles were reviewed for eligible studies. The inclusion criteria were clinical studies, studies involving humans, minimum 6 months' follow-up, exclusive FAI treatment, and focus on athletes. Exclusion criteria were review articles, basic science investigations, radiologic studies, arthroplasty, and nonathlete clinical studies. A quality assessment of the included articles was conducted by 2 reviewers using a quality assessment tool developed by Yang et al. We used a random-effects model (DerSimonian-Laird method) to calculate weighted proportions. Percentages with 95% CIs are reported."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nine articles met the inclusion and exclusion criteria in this review. There was 72% agreement (95% CI, 0% to 94%) between the 2 independent reviewers for inclusion and quality assessment of the studies. A total of 418 athletes were surgically treated for FAI and were available for assessment. The rate of return to sport was 92% (95% CI, 87% to 96%), and the rate of return to the previous level of competition was 88% (95% CI, 80% to 94%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Despite the limitations of our systematic review, the findings suggest that surgical treatment for FAI resulted in a high return to preinjury activity levels of sports."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, systematic review of Level IV studies (case series)."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

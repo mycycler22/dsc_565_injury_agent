@@ -1,0 +1,44 @@
+{
+  "pmid": "31239202",
+  "title": "MRI findings are associated with time to return to play in first class cricket fast bowlers with side strain in Australia and England.",
+  "year": "2019",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate the reliability of reporting and relationship between MRI parameters at injury and time to return to play (RTP) in first class cricket fast bowlers with side strain in Australia and England."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eighty MRI scans of side strain injuries to 57 fast bowlers were sourced. Ten scans were reported by three experienced radiologists to determine intra- and inter-rater reliability. The relationship between six MRI parameters (muscle injured, presence of a muscle tear, rib level of injury, presence of blood fluid products/haematoma, periosteal stripping, rib oedema) and time to RTP was investigated with 39 scans reported by a single radiologist with known intra-rater reliability. The association between parameters and time to RTP was analysed with an ordinal logistic regression model."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Recovery time was prolonged with a mean of 39days (standard deviation: 14days) and 44% of bowlers requiring more than 6weeks to RTP. Reliability levels between parameters varied widely. The presence or absence of a muscle tear was the only MRI parameter associated with time to RTP. Players with a muscle tear were 8 times more likely to take more than 6weeks to RTP. The multifactorial model was predictive of recovery time in only 53% of this cohort, leaving 47% of total variance in time to RTP unexplained."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The presence of a muscle tear was associated with time to RTP in cricket fast bowlers with side strain injury in first class cricket in Australia and England."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Recovery time was prolonged with a mean of 39days (standard deviation: 14days) and 44% of bowlers requiring more than 6weeks to RTP."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Players with a muscle tear were 8 times more likely to take more than 6weeks to RTP."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

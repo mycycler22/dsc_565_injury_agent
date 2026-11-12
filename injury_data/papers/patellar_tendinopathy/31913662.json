@@ -1,0 +1,40 @@
+{
+  "pmid": "31913662",
+  "title": "Rethinking Patellar Tendinopathy and Partial Patellar Tendon Tears: A Novel Classification System.",
+  "year": "2020",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy is an overuse injury of the patellar tendon frequently affecting athletes involved in jumping sports. The tendinopathy may progress to partial patellar tendon tears (PPTTs). Current classifications of patellar tendinopathy are based on symptoms and do not provide satisfactory evidence-based treatment guidelines."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To define the relationship between PPTT characteristics and treatment guidelines, as well as to develop a magnetic resonance imaging (MRI)-based classification system for partial patellar tendon injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study (prognosis); Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "MRI characteristics and clinical treatment outcomes were retrospectively reviewed for 85 patients with patellar tendinopathy, as well as 86 physically active control participants who underwent MRI of the knee for other conditions. A total of 56 patients had a PPTT and underwent further evaluation for tear size and location. The relationship between tear characteristics and clinical outcome was defined with use of statistical comparisons and univariate and logistic regression models."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 85 patients, 56 had partial-thickness patellar tendon tears. Of these tears, 91% involved the posterior and posteromedial regions of the proximal tendon. On axial MRI views, patients with a partial tear had a mean tendon thickness of 10 mm, as compared with 6.2 mm for those without (<i>P</i> < .001). Eleven patients underwent surgery for their partial-thickness tear. All of these patients had a tear >50% of tendon thickness (median thickness of tear, 10.3 mm) on axial views. Logistic regression showed that tendon thickness >8.8 mm correlated with the presence of a partial tear, while tendon thickness >11.45 mm and tear thickness >55.7% predicted surgical management."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Partial-thickness tears are located posterior or posteromedially in the proximal patellar tendon. The most sensitive predictor for detecting the presence of a partial tear was patellar tendon thickness, in which thickness >8.8 mm was strongly correlated with a tear of the tendon. Tracking thickness changes on axial MRI may predict the effectiveness of nonoperative therapy: athletes with patellar tendon thickness >11.5 mm and/or >50% tear thickness on axial MRI were less likely to improve with nonoperative treatment. A novel proposed classification system for partial tears, the Popkin-Golman classification, can be used to guide treatment decisions for these patients."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

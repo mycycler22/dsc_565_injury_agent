@@ -1,0 +1,35 @@
+{
+  "pmid": "37653489",
+  "title": "Effect of instrument-assisted soft tissue mobilization combined with blood flow restriction training on function, pain and strength of patients with patellofemoral joint pain.",
+  "year": "2023",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain syndrome is a prevalent sports injury that affects athletes both in their daily lives and during training. This condition causes pain in the area where the kneecap and thigh bone meet, and it can be quite debilitating. Whether an athlete is simply going about their day or pushing themselves to the limit during a workout, patellofemoral pain can be a significant hindrance."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study is to investigate the impact of combining Instrument-Assisted Soft Tissue Mobilization (IASTM) treatment with blood flow restriction training on individuals with patellofemoral pain. Specifically, the study will assess improvements in pain levels, functional ability, strength, and joint mobility resulting from this treatment approach."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-six patients diagnosed with patellofemoral pain were selected as observation subjects and randomly divided into two groups: the IASTM combined with blood flow restriction training treatment group (n = 13) and the IASTM treatment group alone (n = 13). The treatment period was 4 weeks. In this study, we conducted a comparison and analysis of the knee's visual analogue pain scale (VAS), Lysholm score, and a modified version of the Thomas test (MTT) at three different time points.In this subject paper, we compared and analyzed the VAS score of the knee, Lysholm score of the knee, and MTT at three different time points-before treatment, immediately after the first treatment, and after four weeks of treatment. Additionally, we recorded data using a maximum isometric muscle strength testing system for the lower extremity extensors four weeks before and after treatment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In comparing the Lysholm scores within the groups, a significant difference was observed between the two groups following the initial treatment and after 4 weeks of treatment (p < 0.05). The scores increased, indicating a significant improvement in function. The VAS scores significantly differed after the first treatment and 4 weeks of treatment compared to before treatment (p < 0.05), indicating a significant improvement in pain. Additionally, after 4 weeks of treatment, the strength of the extensor muscle in the lower extremity significantly improved (p < 0.001). However, there was no significant difference in the strength test between the groups (p > 0.05). The MTT test revealed significant changes in the three joint angles before and after treatment (p > 0.05), suggesting an improvement in joint mobility. Overall, these results demonstrate the effectiveness of the treatment in improving pain and muscle strength in the lower extremity."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The combination of IASTM treatment and blood flow restriction has been shown to significantly reduce pain and improve periprosthetic soft tissue flexibility. Additionally, IASTM treatment alone was found to be more effective in improving knee pain and muscle flexibility, ultimately leading to increased knee strength in a pain-free state. In terms of the overall treatment outcome, it was found that the combined treatment was significantly more effective than the adjuvant soft tissue release treatment alone."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

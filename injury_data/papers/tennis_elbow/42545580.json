@@ -1,0 +1,35 @@
+{
+  "pmid": "42545580",
+  "title": "Short- to mid-term clinical outcomes and return to sport and work after arthroscopic debridement of the extensor carpi radialis brevis in patients with chronic lateral epicondylopathy.",
+  "year": "2026",
+  "journal": "Archives of orthopaedic and trauma surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "This study aimed to evaluate the short- to mid-term clinical outcomes following arthroscopic extensor carpi radialis brevis (ECRB) debridement in patients with chronic epicondylopathy humeri radialis (cEHR). We hypothesized that arthroscopic ECRB debridement would result in favorable short- to mid-term patient-reported outcomes, improving pain levels, strength, range of motion (ROM) and patient satisfaction."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective case series was conducted on patients who underwent arthroscopic ECRB debridement for cEHR with symptoms > 6 months. Patients were assessed at a minimum of 12 months postoperatively using the Mayo Elbow Performance Score (MEPS), Patient-Rated Tennis Elbow Evaluation (PRTEE), Disabilities of the Arm, Shoulder, and Hand (DASH) score, and Visual Analog Scale (VAS) for pain. Pre- and postoperative scores were compared using DASH and VAS. Maximum isometric wrist extension strength and postoperative ROM were measured bilaterally. Return to sport and work, patient satisfaction, and complications were documented."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 35 eligible patients, 30 completed follow-up (86% follow-up rate; mean age 48.4 ± 6.6 years; range: 36-65 years; 47% male). The mean duration of symptoms before surgery was 12 months (IQR 8-20, range 6-62). The mean follow-up duration was 28.13 ± 10.9 months (range 12-45). At final follow-up, median outcome scores were 100 (IQR 100-100; range 65-100) for the MEPS, 8.7 (IQR 0.8-13.9; range 0-39.2) for the DASH, 0 (IQR 0-1; range 0-7) for the VAS and 10.3 (IQR 0.8-26.8; 0-79.5) for the PRTEE. In comparison to preoperative values, VAS scores significantly improved (6 [IQR 2.75-7, range 9] vs. 0 [IQR 0-1, range 0-7], p < 0.01), as did DASH scores (46.6 ± 20 vs. 10.3 ± 10.5, p < 0.01). Post-operatively, all patients recovered full range of motion, with an arc of at least 140°. The median wrist extension strength in the operated arm was 98.6% (IQR: 87.4-107%, range: 69.5-121%) when compared to the healthy side, with no significant differences (p = 0.681). Overall, 80% of patients returned to sports at the same or a slightly reduced level, including 12% who achieved a higher activity level than before. The vast majority of patients (97%) successfully returned to their previous professional activities, while only a small proportion (3%) retired from a part-time manual labor position post-surgery, primarily due to age. Furthermore, 83% of patients indicated they would undergo the procedure again. One patient developed posterolateral rotational instability six months after index surgery and consequently required reconstruction of the lateral ulnar collateral ligament (LUCL)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic ECRB debridement for cEHR was associated with improved pain and function and high rates of return to sport and work at short- to mid-term follow-up."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV Retrospective case series."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "32299793",
+  "title": "Recalibrating the risk of hamstring strain injury (HSI): A 2020 systematic review and meta-analysis of risk factors for index and recurrent hamstring strain injury in sport.",
+  "year": "2020",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To systematically review risk factors for hamstring strain injury (HSI)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review update."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Database searches: (1) inception to 2011 (original), and (2) 2011 to December 2018 (update). Citation tracking, manual reference and ahead of press searches."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA FOR SELECTING STUDIES",
+      "text": "Studies presenting prospective data evaluating factors associated with the risk of index and/or recurrent HSI."
+    },
+    {
+      "label": "METHOD",
+      "text": "Search result screening and risk of bias assessment. A best evidence synthesis for each factor and meta-analysis, where possible, to determine the association with risk of HSI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The 78 studies captured 8,319 total HSIs, including 967 recurrences, in 71,324 athletes. Older age (standardised mean difference=1.6, p=0.002), any history of HSI (risk ratio (RR)=2.7, p<0.001), a recent HSI (RR=4.8, p<0.001), previous anterior cruciate ligament (ACL) injury (RR=1.7, p=0.002) and previous calf strain injury (RR=1.5, p<0.001) were significant risk factors for HSI. From the best evidence synthesis, factors relating to sports performance and match play, running and hamstring strength were most consistently associated with HSI risk. The risk of recurrent HSI is best evaluated using clinical data and not the MRI characteristics of the index injury."
+    },
+    {
+      "label": "SUMMARY/CONCLUSION",
+      "text": "Older age and a history of HSI are the strongest risk factors for HSI. Future research may be directed towards exploring the interaction of risk factors and how these relationships fluctuate over time given the occurrence of index and recurrent HSI in sport is multifactorial."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

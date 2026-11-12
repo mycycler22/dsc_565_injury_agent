@@ -1,0 +1,24 @@
+{
+  "pmid": "36867711",
+  "title": "Bone Transport Treatment of Osteomyelitis Due to Thermal Osteonecrosis After IM Nailing of Tibial Stress Fracture Nonunion: A Case Report.",
+  "year": "2023",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "We present a case of a female athlete who sustained a nonunion of a tibial stress fracture and was treated with intramedullary nailing (IMN). The patient developed osteomyelitis likely secondary to a thermal osteonecrosis during the index procedure and required resection of the necrotic tibia and bone transport using the Ilizarov technique."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The authors believe that all actions should be taken to avoid thermal osteonecrosis during reaming for tibial IMN, especially in patients with a small medullary canal. We believe that bone transport with the Ilizarov technique is an effective treatment method for patients who develop tibial osteomyelitis after treatment of tibial shaft fractures."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

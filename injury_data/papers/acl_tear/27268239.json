@@ -1,0 +1,39 @@
+{
+  "pmid": "27268239",
+  "title": "Does Age Influence the Risk of Incident Knee Osteoarthritis After a Traumatic Anterior Cruciate Ligament Injury?",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The development of radiographic knee osteoarthritis (OA) after an anterior cruciate ligament (ACL) rupture has long been studied and proven in the adolescent population. However, similar exhaustive investigations have not been conducted in mature-aged athletes or in older populations."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To identify whether an older adult population had an increased risk of incident radiographic knee OA after a traumatic knee injury compared with a young adult population."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients with ACL ruptures who underwent primary reconstruction were enrolled in a prospective, longitudinal single-center study over 15 years. The adult cohort was defined as participants aged ≥35 years who had a knee injury resulting in an ACL tear, the adolescent-young cohort suffered similar knee injuries and were aged ≤25 years, and a third cohort of participants aged 26 to 34 years who suffered a knee injury was included to identify the existence of any age-related dose-response relationship for the onset of radiographic knee OA. A Kaplan-Meier survival analysis was employed to determine the occurrence of incident radiographic OA across the study populations at 2, 5, 10, and 15 years after reconstruction. Significance at each time point was analyzed using chi-square tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 215 patients, including 112 adolescents (mean age, 20.4 years; 50.9% female), 71 patients aged 26 to 34 years (mean age, 29.2 years; 42.3% female), and 32 adults (mean age, 40.2 years; 59.4% female), were assessed for International Knee Documentation Committee (IKDC) grading on knee radiographs. It was found that 53.0% and 77.8% of adults at a respective 10 and 15 years after reconstruction had an IKDC grade of B or greater compared with 17.7% and 61.6% of the adolescent-young cohort. Chi-square testing found that adults developed OA earlier than adolescents at 5 and 10 years after reconstruction (P = .017 and P < .0001, respectively). However, survival analysis did not demonstrate that adults were more likely to develop radiographic knee OA at 15 years after reconstruction compared with the adolescent-young cohort (P = .4)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The age at which an ACL injury is sustained does not appear to influence the rate of incident radiographic knee OA, although mature-aged athletes are likely to arrive at the OA endpoint sooner."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

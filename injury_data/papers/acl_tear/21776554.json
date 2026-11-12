@@ -1,0 +1,34 @@
+{
+  "pmid": "21776554",
+  "title": "Ipsilateral graft and contralateral ACL rupture at five years or more following ACL reconstruction: a systematic review.",
+  "year": "2011",
+  "journal": "The Journal of bone and joint surgery. American volume",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Injury to the ipsilateral graft used for reconstruction of the anterior cruciate ligament (ACL) or a new injury to the contralateral ACL is a devastating outcome following successful ACL reconstruction, rehabilitation, and return to sport. Little evidence exists regarding the intermediate to long-term risk of these events."
+    },
+    {
+      "label": "METHODS",
+      "text": "The present study is a systematic review of Level-I and II prospective studies that evaluated the rate of rupture of the ACL graft and the ACL in the contralateral knee following a primary ACL reconstruction with use of a mini-open or arthroscopic bone-tendon-bone or hamstring autograft after a minimum duration of follow-up of five years."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Six studies met the inclusion and exclusion criteria. The ipsilateral ACL graft rupture rate ranged from 1.8% to 10.4%, with a pooled percentage of 5.8%. The contralateral injury rate ranged from 8.2% to 16.0%, with a pooled percentage of 11.8%."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This systematic review demonstrates that the risk of ACL tear in the contralateral knee (11.8%) is double the risk of ACL graft rupture in the ipsilateral knee (5.8%). Additional studies must be performed to determine predictors for these injuries and to improve our ability to avoid this devastating outcome."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

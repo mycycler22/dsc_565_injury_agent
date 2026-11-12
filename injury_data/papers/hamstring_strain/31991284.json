@@ -1,0 +1,45 @@
+{
+  "pmid": "31991284",
+  "title": "Effects of low-level laser therapy on hamstring strain injury rehabilitation: A randomized controlled trial.",
+  "year": "2020",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To evaluate the effects of low-level laser therapy (LLLT) on functional rehabilitation following hamstring strain injury (HSI) in amateur athletes treated with an exercise-based rehabilitation program."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Randomized controlled trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male athletes (18-40 years old) who sustained HSI were randomized in LLLT or placebo groups. All patients were engaged in the same exercise-based rehabilitation program until they met specific criteria to return to sport. Hamstring muscles were treated with LLLT or placebo immediately after each rehabilitation session. The primary outcome was time-to-return to sport. Secondary outcomes were the number of rehabilitation sessions, hamstring flexibility, hamstring strength, and re-injury rate."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-four athletes began rehabilitation, and 22 (11 per group) completed the study schedule. Participants of LLLT and placebo groups had similar age, body size, injury characteristics, and baseline levels of hamstring flexibility and strength. The two groups increased flexibility and strength similarly throughout the rehabilitation program. Time-to-return to sport was the same for athletes treated with LLLT (23 ± 9 days) and placebo (24 ± 13 days). There were no re-injuries within 6 months after return to sport."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "LLLT, as used in this study, did not optimize functional rehabilitation following HSI in amateur athletes treated with an exercise-based rehabilitation program."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Time-to-return to sport was the same for athletes treated with LLLT (23 ± 9 days) and placebo (24 ± 13 days)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "There were no re-injuries within 6 months after return to sport."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

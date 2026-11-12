@@ -1,0 +1,35 @@
+{
+  "pmid": "34740516",
+  "title": "Predictors of time to return to play and re-injury following hamstring injury with and without intramuscular tendon involvement in adult professional footballers: A retrospective cohort study.",
+  "year": "2022",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "In one English Premier League football club over four seasons, 1) describe the number of hamstring strain injuries (HSI) sustained using the British Athletics Muscle Injury Classification (BAMIC); 2) determine if intramuscular tendon HSI influenced the time to return to play (TTRTP) and reinjury rate; 3) determine the predictors of TTRTP and reinjury."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort design."
+    },
+    {
+      "label": "METHODS",
+      "text": "All first team players who sustained a HSI between 2014 and 2018 were included. Players underwent an MRI scan that was graded by a Radiologist using the BAMIC (0a-4) criteria. TTRTP, reinjury rate and information on suspected predictors were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-five HSI experienced by 24 players (age = 26 ± 4 years) were recorded over the 4 seasons. There was a difference in TTRTP between grades 1a and 2c (P = 0.007), but not between 2b and 2c (P = 0.845). Grade of HSI (P ≤ 0.001) and removal of the player (P < 0.001) were predictors of TTRTP, with each increase in grade resulting in an additional 3 days of TTRTP, and being removed, an additional 11 days. Grade and all other predictors did not influence reinjury rate, albeit higher odds were evident for previous HSI, experiencing the HSI during sprinting, passing a ball or stretching, and reported increase days of pain during walking."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "HSIs extending into the intramuscular tendon (2b cf. 2c) did not influence TTRTP or re-injury, albeit TTRTP was affected by the BAMIC grade and if the player was removed from activity."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

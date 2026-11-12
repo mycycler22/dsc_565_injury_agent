@@ -1,0 +1,19 @@
+{
+  "pmid": "41387925",
+  "title": "Interpretable wrapper-based machine learning framework for predicting patellofemoral pain syndrome using minimal clinical tests.",
+  "year": "2025",
+  "journal": "Scientific reports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Clinical screening for patellofemoral pain syndrome (PFPS), a leading cause of anterior knee pain in athletes and physically active populations, often involves numerous physical tests. Such lengthy examinations are further compounded when considering the regional interdependence model. This study assessed whether near-full predictive accuracy could be achieved with a much smaller, clinician-interpretable subset of variables. We analyzed data from 70 participants with 29 biomechanical features. Nine classifiers were evaluated using stratified nested cross-validation. Eight population-based wrapper optimizers each performed ten runs of 100 iterations, and a stable subset was identified via weighted voting of feature-selection frequencies. Logistic regression, the top baseline model, was retrained on this subset. It was compared with its full-feature version using Wilcoxon signed-rank tests. Model behavior was explained with explainable AI techniques. The full-feature logistic model achieved 99.7% accuracy, and the 16-feature model maintained 97.1% accuracy (AUC = 0.998) with Holm-adjusted [Formula: see text] for all metrics, indicating no significant loss. Four mobility angles were dominant in global SHAP scores: trunk rotation, lumbar extension, hip internal rotation, and lumbar lateral flexion. The reduced test battery is expected to shorten the assessment time. These findings demonstrate that wrapper-guided feature reduction preserves predictive performance while enhancing transparency and efficiency, offering a practical, low-cost decision aid for PFPS screening and a reproducible approach to interpretable modeling in small biomechanical datasets."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

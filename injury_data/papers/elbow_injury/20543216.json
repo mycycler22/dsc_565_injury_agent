@@ -1,0 +1,49 @@
+{
+  "pmid": "20543216",
+  "title": "Reliability of measuring humeral retroversion using ultrasound imaging in a healthy nonthrowing population.",
+  "year": "2010",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Studies have reported the difference in humeral retroversion (HR) between the dominant and nondominant side in throwing athletes. However, there are few data concerning HR for the rest of the population. In addition, the relationship between HR and external (ER) and internal rotation (IR) at 90 degrees shoulder abduction has not been thoroughly investigated."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate the reliability of ultrasound methodology to measure HR. In addition, using ultrasonography, the authors compare HR between the dominant and nondominant sides in healthy adult men and determine the relationship between HR and ER and IR at 90 degrees of shoulder abduction."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Laboratory."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Thirty-seven healthy male subjects (age 21.9 +/- 2.4 y, height 172.9 +/- 5.3 cm, weight 66.0 +/- 7.2 kg) with no history of shoulder or elbow injury, recruited from a convenience sample, volunteered for the study."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Subjects were bilaterally examined for HR, ER, and IR. HR was measured by ultrasonography."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The intrarater reliability of the ultrasound methodology was .91-.98, and the interrater reliability was .97. The HR angle on the dominant side (mean +/- SD: 68.5 degrees +/- 10.0 degrees) was significantly greater than that of the nondominant side (58.0 degrees +/- 8.4 degrees; P < .001). ER on the dominant side was significantly greater than on the nondominant side (P < .001), whereas IR on the dominant side was significantly smaller than on the nondominant side (P < .001). Total arc of motion for the dominant side was not significantly different from that of the nondominant side (P = .335)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In the current study, ultrasound methodology to measure HR showed high interrater reliability, as well as high intrarater reliability. In addition, this study indicates that healthy Japanese adult men have side-to-side differences in HR."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

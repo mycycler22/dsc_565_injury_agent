@@ -1,0 +1,24 @@
+{
+  "pmid": "21411824",
+  "title": "Clinical assessment of low-back-pain treatment outcomes in athletes.",
+  "year": "2011",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "PATIENT SCENARIO: A 21-year-old male rodeo athlete complains of acute low back pain (LBP) after a bareback event. The athlete wishes to compete in a rodeo event in 4 d. CLINICAL OUTCOMES ASSESSMENT: Given the questionable validity and reliability of traditional clinical examination techniques for LBP, a treatment subgroup classification system combined with clinical outcomes assessment provides greater insight into suitable clinical interventions and patient response to treatment. Four LBP treatment subgroups based on the patient's clinical presentation and symptoms have been established: manipulation, stabilization, specific exercise, and traction. Manipulation subgroup research has produced a valid clinical prediction rule (CPR). The Visual Analog Scale, Numeric Rating Scale (NRS), Oswestry Low Back Pain Disability Index (ODI), Roland Morris Disability Questionnaire, Short Form 36 (SF-36), and Global Rating of Change Scale are valid, reliable, and responsive outcomes instruments with established values for minimum clinically important difference (MCID). These instruments document important changes in disablement and health-related quality of life in patients with low back injury, as well as demonstrate treatment outcomes. CLINICAL DECISION MAKING: On examination the athlete presents with moderate pain and disability as measured by the NRS, ODI, and SF-36 and meets all 5 criteria for the manipulation subgroup, indicating a high likelihood of success with manipulative therapy when following the guidelines presented in the CPR. Expected outcomes values, based on MCID values, were met after 1 treatment. Preferred outcomes, based on physical activity requirements for sport, were met on day 4."
+    },
+    {
+      "label": "CLINICAL BOTTOM LINE",
+      "text": "LBP generators are difficult to establish using traditional clinical examination techniques. The combined use of clinical criteria, using an LBP subgroup system, and baseline outcomes measures should guide treatment. Benchmarks should be guided by established MCID values for each instrument."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

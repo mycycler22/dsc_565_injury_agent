@@ -1,0 +1,40 @@
+{
+  "pmid": "42110492",
+  "title": "Extracorporeal Shock Wave Therapy in Chronic Lateral Elbow Tendinopathy: A Systematic Review.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lateral elbow tendinopathy (LET) is a common musculoskeletal disorder caused by overuse, resulting in microtrauma to the extensor tendons. Because of its complex pathophysiology and high recurrence rate, LET poses significant treatment challenges. The effectiveness of extracorporeal shock wave therapy (ESWT) in treating LET remains controversial."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the therapeutic benefits of ESWT by comparing its effects to those of both placebo ESWT and conventional physical therapy."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 1."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of randomized controlled trials (RCTs) was conducted following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. The primary outcome measure was pain, assessed using the visual analog scale. Secondary outcome measures included maximal grip strength, Disabilities of the Arm, Shoulder and Hand score, Patient-Rated Tennis Elbow Evaluation (PRTEE) score, and Roles and Maudsley score. The risk of bias for each included study was assessed using the Cochrane risk of bias tool."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eleven RCTs were included, of which only 4 studies had a low risk of bias. Among these 4 studies, Aldajah et al (2022) demonstrated significant benefits of ESWT in pain reduction, muscle strength, and function. Guler et al (2018) observed improvements within the ESWT group, but no significant differences compared to placebo. Karaca et al (2022) found no significant differences in pain, grip strength, and PRTEE scores. Staples et al (2008) reported no statistically significant differences in pain and function between the ESWT and placebo groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Although some studies report positive effects of ESWT, the evidence remains inconclusive. Future research should focus on optimizing ESWT protocols, addressing potential biases, and identifying patient subgroups that would benefit most from this treatment. ESWT may be a valuable adjunct to physical therapy in managing chronic LET."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

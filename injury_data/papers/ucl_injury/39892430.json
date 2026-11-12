@@ -1,0 +1,37 @@
+{
+  "pmid": "39892430",
+  "title": "Current Definitions of Return to Play After Medial Ulnar Collateral Ligament Injuries and Surgery in Professional Baseball Players Prohibit Cross-Study Comparison: A Systematic Review.",
+  "year": "2025",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To assess the definitions of return to play (RTP) and return to same level of play (RTSP) used in literature describing ulnar collateral ligament (UCL) injuries in professional baseball players."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was performed using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. PubMed/MEDLINE, Embase, Web of Science, and Cochrane databases were queried to identify all articles that included UCL injuries between January 2002 and October 2022. Studies of only Major League Baseball (MLB) and Minor League Baseball (MiLB) players were included and summarized descriptively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We included 29 articles (24 reporting RTP, 23 reporting RTSP). Minimum level of play was not included in 46% of RTP definitions and 26% of RTSP definitions; when defined, return to MLB level only was most common in RTP definitions (25%) and return to either MLB or MiLB level was most common in RTSP definitions (39%). Time to return was frequently not included (96% of RTP and RTSP definitions); when defined, return within 2 full seasons after injury was the sole definition used. Duration of play after return was frequently not included (50% and 61%, respectively); when defined, a one game minimum was most used (42% and 17%, respectively). No study used performance measures (e.g., strikeouts, earned run average, etc.) to define RTP or RTSP."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Definitions of RTP and RTSP in the UCL injury literature for professional baseball players of all positions are vague, heterogenous, and prohibit cross-study comparison."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "The present study investigates the definitions for RTP and RTSP used across professional baseball UCL injury literature in hopes of identifying common threads to promote future cross-study comparison."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

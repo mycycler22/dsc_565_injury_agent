@@ -1,0 +1,21 @@
+{
+  "pmid": "24612006",
+  "title": "Ultrasound characteristics of the patellar and quadriceps tendons among young elite athletes.",
+  "year": "2015",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendons adapt in response to sports-specific loading, but sometimes develop tendinopathy. If the presence of ultrasound changes like hypoechoic areas and neovascularization in asymptomatic tendons precede (and predict) future tendon problems is unknown. The aim of this prospective cohort study was to investigate the relationship between the development of ultrasound changes in the patellar and quadriceps tendons and symptoms of jumper's knee, as well to examine the medium-term effects of intensive training on tendon thickness among adolescent athletes. Elite junior volleyball athletes were followed with semi-annual ultrasound and clinical examinations (average follow-up: 1.7 years). Of the 141 asymptomatic athletes included, 22 athletes (35 patellar tendons) developed jumper's knee. In a multivariate logistic regression analysis, a baseline finding of a hypoechoic tendon area (odds ratio 3.3, 95% confidence interval 1.1 to 9.2) increased the risk of developing symptoms of jumper's knee. Patellar tendon thickness among healthy athletes did not change (Wilk's lambda, P = 0.07) while quadriceps tendon thickness increased (P = 0.001). In conclusion, ultrasound changes at baseline were risk factors for developing symptoms of jumper's knee. Also, among healthy athletes, we observed a 7-11% increase in quadriceps tendon thickness, while there was no increase in patellar tendon thickness."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

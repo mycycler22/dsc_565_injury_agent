@@ -1,0 +1,40 @@
+{
+  "pmid": "30828579",
+  "title": "Risk Factors for Baseball-Related Arm Injuries: A Systematic Review.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Contributing factors for arm injuries among baseball players have been described. However, no review has systematically identified risk factors with findings from prospective cohort studies."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To systematically review prospective cohort studies that investigated risk factors for arm injury among baseball players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Electronic databases were searched for relevant English-language studies. Titles, abstracts, and full-text articles were screened by 2 blinded reviewers to identify only prospective cohort studies and randomized controlled trials. Two independent investigators screened each article for appropriate criteria."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fourteen prospective articles were selected for this review. Youth, high school, and professional baseball players (N = 2426) were pooled, and 43 risk factors were assessed in relation to general arm, shoulder, and elbow injuries. All studies evaluated players for at least 1 season. Deficits in preseason shoulder range of motion and strength were significant risk factors for general arm or shoulder injury among high school and professional players. Elbow and shoulder varus torque at peak external shoulder rotation during pitching, high pitch velocity, and shoulder rotational and flexion deficits were risk factors for elbow injuries among professional pitchers. Pitching >100 innings in 1 year, being aged 9 to 11 years, being a pitcher or catcher, training >16 hours per week, and having a history of elbow pain were significant risk factors for elbow injury among youth players."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "History of elbow pain and age had a high risk of associated elbow injury among youth players. Training or pitching load also increased elbow injury risk for youth athletes. Loss of shoulder range of motion appears to increase risk for elbow injury among professional athletes. Single time-point data collections per season, studies with the same sample population, and studies with self-reported injury and risk factor data may limit the interpretation of these findings. Health care professionals should use caution when assessing injury risk during evaluation and making decisions about the training workload and playing time of baseball players."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

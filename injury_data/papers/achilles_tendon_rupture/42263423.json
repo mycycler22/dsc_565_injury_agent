@@ -1,0 +1,31 @@
+{
+  "pmid": "42263423",
+  "title": "Accelerometry-derived physical activity following Achilles tendon rupture: A prospective cohort study.",
+  "year": "2026",
+  "journal": "Clinical biomechanics (Bristol, Avon)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "This study investigated physical activity during the first year after Achilles tendon rupture and explored relationship between accelerometry-derived physical activity and patient-reported outcomes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Participants used a waist-worn triaxial accelerometer for 7 days at 2 (n = 42), 6 (n = 39), and 12 months after rupture (n = 53). Data were extracted as steps/day and physical activity counts (min/day; sedentary, light, moderate, vigorous). Participants were asked about their return to sport and completed the University of California Los Angeles Activity Scale and Tegner score for pre-injury and 12-month status. Achilles tendon total rupture score was completed at 12 months. Linear mixed models were used to assess the association of time, sex, age, BMI and treatment (surgical/non-surgical) on daily physical activity. Correlations were calculated between 12-month accelerometry-derived physical activity and patient-reported outcomes."
+    },
+    {
+      "label": "FINDINGS",
+      "text": "Daily steps and vigorous physical activity increased from 2 to 6 months (mean difference 1417 steps [p < 0.001]; 1.0 min/day [p < 0.001], respectively), and moderate physical activity from 2 to 12 months (14.2 min/day [p = 0.001]). Higher age and BMI were associated with lower daily levels of physical activity at 12 months. At 12 months, Tegner score correlated with moderate physical activity (r = 0.394, p = 0.013). Achilles tendon total rupture score was 89 ± 11 points at 12 months. Participants resumed running 6.4 ± 2.5 months post-rupture."
+    },
+    {
+      "label": "INTERPRETATION",
+      "text": "Moderate-to-vigorous physical activity and daily steps increased to population-based normal levels reported in the literature by 6 and 12 months, respectively. The findings suggest that, compared to uninjured individuals, Achilles tendon rupture may not severely compromise overall health-promoting physical activity."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

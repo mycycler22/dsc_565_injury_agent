@@ -1,0 +1,19 @@
+Title: Development and Validation of the Ankle-GO Score for Discriminating and Predicting Return-to-Sport Outcomes After Lateral Ankle Sprain. | Type: Journal Article | PMID: 37434508 | Year: 2024 | Injury query: ankle sprain
+[RESULTS] The predictive value of the 2-month Ankle-GO score was fair for a RTS at the same or higher than preinjury level at 4 months (area under ROC curve, 0.77; 95% CI, 0.65-0.89; <i>P</i> < 0.01).
+[FULLTEXT: Results:] The internal consistency of the score was good (Cronbach’s alpha coefficient of 0.79) with no ceiling or floor effect. Test-retest reliability was excellent (intraclass coefficient correlation = 0.99) with a minimum detectable change of 1.2 points. The 2-month scores were significantly lower than 4-month and control group scores (7.7 ± 4, 13.9 ± 4.6, and 19.6 ± 3.4 points, respectively, P < 0.01). Ankle-GO values were also significantly higher in patients who returned to their preinjury level at 4 months compared with those who did not (P < 0.01). The predictive value of the 2-month Ankle-GO score was fair for a RTS at the same or higher than preinjury level at 4 months (area under ROC curve, 0.77; 95% CI, 0.65-0.89; P < 0.01).
+[FULLTEXT: Results] The mean raw values as well as the scores for each component of Ankle-GO are presented in Appendix Table A1 (available in the online version of this article). All included patients performed all of the tests at 2 and 4 months, for a completion rate of 100%.
+[FULLTEXT: Predictive Ability of Returning to Preinjury Level of Sport or Higher] Of the 64 patients included in the study, 32 (50%) returned to the preinjury level of sport at 4 months (Table 4). The capacity of Ankle-GO at 2 months to predict RTS at preinjury level at 4 months was good (AUC = 0.77; 95% CI, 0.64-0.88; P < 0.01). A Youden index of 0.38 was observed for a score of 8 points, which corresponds to a sensitivity of 72% and a specificity of 66% (Figure 2).
+[FULLTEXT: Predictive Ability for not Returning to Sport] Of the 64 patients included in the study, 12 (19%) did not RTS at 4 months (Table 4). The capacity of Ankle-GO at 2 months to predict no RTS at 4 months, regardless of the level of sport, was also good (AUC = 0.77; 95% CI, 0.65-0.89; P < 0.01). A Youden index of 0.44 was observed for a score of 7 points, which corresponded to a sensitivity of 67% and a specificity of 92% (Figure 3).
+[FULLTEXT: TABLE: Results obtained in relation to RTS at 2 and 4 months]  | 2 Months | 4 Months
+ | Same or Higher Level (n = 0) | Lower Level (n = 15) | No Sport(n = 49) | P | Same or Higher Level (n = 32) | Lower Level (n = 20) | No Sport (n = 12) | P
+Ankle-GO | NA | 10.3 ± 3.6c | 7.1 ± 4.1 | <0.01 | 17.2 ± 3.5 a | 12.4 ± 4.1 | 9.3 ± 3 | <0.01
+FAAMadl, % | NA | 92.1 ± 5.4c | 82.9 | 0.03 | 96.8 ± 4.4 a | 92.4 ± 5.9 c | 86.2 ± 10.5 | <0.01
+FAAMsport, % | NA | 73.8 ± 13.1 | 55.4 ± 22.9 | <0.01 | 89.3 ± 10.4 a | 75.9 ± 17 c | 62.5 ± 19.4 | <0.01
+ALR-RSI, % | NA | 60.3 ± 13.8c | 40.3 ± 21 | <0.01 | 80.9 ± 15.5 a | 58.8 ± 18.1 | 50.4 ± 21 | <0.01
+SLS, errors | NA | 2.7 ± 2.5 | 3.7 ± 3 | 0.25 | 1.6 ± 1.9 | 1.9 ± 1.8 | 2.2 ± 1.8 | 0.67
+mSEBT COMP, % | NA | 84.6 ± 6.4c | 78.7 ± 7 | <0.01 | 86.8 ± 6.5 b | 83.7 ± 7 | 81.4 ± 7 | 0.04
+mSEBT ANT, % | NA | 65 ± 4.7c | 59.4 ± 6.5 | <0.01 | 68.5 ± 4.9 b | 67.8 ± 5 | 65.1 ± 6.7 | 0.03
+mSEBT PM, % | NA | 95.3 ± 9.4c | 91.7 ± 8.3 | 0.16 | 96.9 ± 7.7 | 94.7 ± 7.7 | 92.7 ± 8.2 | 0.26
+mSEBT PL, % | NA | 93.4 ± 8.9 | 85.3 ± 10.2 | <0.01 | 93.6 ± 9.3 | 92.1 ± 11.9 | 88 ± 10.6 | 0.29
+SHT, s | NA | 20.4 ± 9.6 | 22.6 ± 11.5 | 0.51 | 11.3 ± 3.8 b | 14.3 ± 7.4 | 16.8 ± 5.6 | 0.01
+F8T, s | NA | 17 ± 5 | 22.1 ± 10 | 0.06 | 12.5 ± 2.5 b | 14.5 ± 4.8 | 17.1 ± 6.9 | 0.01

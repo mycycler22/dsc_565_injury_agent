@@ -1,0 +1,20 @@
+{
+  "pmid": "41786394",
+  "title": "Safe Return to Sport Following Concussion.",
+  "year": "2026",
+  "journal": "Clinics in sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Previous treatment of concussion included absolute cognitive and physical rest until asymptomatic, with no activity from beginning until the individuals were asymptomatic. This is no longer recommended, and new guidelines recommend starting daily activities, including walking within 24 hours of injury, with parameters surrounding symptom exacerbation and subthreshold exercise. With evidence surrounding the increased risk of musculoskeletal injury following a sport-related concussion, adding motor control and cognitive functional skills before returning to full sports participation is essential. Individualizing treatment plans is necessary for adding activity in a stepwise progression according to the athlete's signs and symptoms and the sport-specific requirements."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

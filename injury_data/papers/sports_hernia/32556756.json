@@ -1,0 +1,36 @@
+{
+  "pmid": "32556756",
+  "title": "Total extraperitoneal laparoscopic inguinal hernia repair with adductor tenotomy: a 10-year experience in the treatment of athletic pubalgia.",
+  "year": "2021",
+  "journal": "Surgical endoscopy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Athletic pubalgia, commonly referred to as a \"sports hernia,\" is a disease process characterized by groin pain produced by physical exertion often occurring in patients whose athletic activities require them to make rapid changes in direction. The groin pain is due to the traction-countertraction relationship between the adductor muscles and the weaker abdominal muscles. Hence, a few studies have shown inguinal hernia repair with adductor tenotomy to be an effective treatment for this pathology (Brody in Hernia 21:139-147, 2016, https://doi.org/10.1007/s10029-016-1520-8 ; Rossidis et al. in Surg Endosc 29:381-386, 2015, https://doi.org/10.1007/s00464-0143679-3 ). However, these studies are small and few in quantity but have demonstrated promising results. Thus, we sought to further study this combined surgical approach as a treatment for this multifactorial disease to improve our understanding and outcomes."
+    },
+    {
+      "label": "METHODS",
+      "text": "With IRB approval, we retrospectively reviewed the charts of all patients who underwent adductor tenotomy and inguinal hernia repair for the treatment of athletic pubalgia at Mount Sinai Medical Center, Miami Beach FL. Parameters gathered included basic demographics, past medical and surgical history, athletic activity, length of surgery, length of time between surgery and follow-up, intraoperative and postoperative complications, and time to return to athletic activities."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 93 patients underwent inguinal hernia repair with adductor tenotomy. These procedures were all performed by a single surgeon at two academic institutions. The average age of patients was 23.4 years. Athletic activities reported by the patients were as follows: American football (n = 36), soccer (n = 18), triathlon (n  = 11), track and field (n = 8), and baseball (n = 5). Less-represented activities included swimming (n = 3), tennis (n = 2), lacrosse (n = 1), golf (n = 1), and other (n = 8). Mean operative time was 72.4 min. Most patients were found to return to athletic activity in 28 days following a standardized physical therapy regimen (92.5%). Postoperative complications included recurrence of pain/symptoms (7.5%, n = 7), urinary retention (2.2%, n = 2), pain along the adductor magnus/brevis muscle group with more extraneous activity (1.1%,  n = 1), and adductor brevis hematoma 3 months following surgery and rehabilitation (1.1%, n = 1). Of the patients with recurrent pain, 2/7 reported contralateral pain."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Total extraperitoneal laparoscopic inguinal hernia repair with adductor tenotomy appears to be a relatively quick and safe procedure with few postoperative complications. The majority of treated athletes are able to return to full athletic activities within 28 days of operation. While a return of symptoms has been seen in some patients, it is frequently observed on the contralateral side."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Postoperative complications included recurrence of pain/symptoms (7.5%, n = 7), urinary retention (2.2%, n = 2), pain along the adductor magnus/brevis muscle group with more extraneous activity (1.1%,  n = 1), and adductor brevis hematoma 3 months following surgery and rehabilitation (1.1%, n = 1)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

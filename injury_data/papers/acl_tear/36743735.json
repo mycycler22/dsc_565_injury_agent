@@ -1,0 +1,39 @@
+{
+  "pmid": "36743735",
+  "title": "Effect of Increased Time to Surgery on the Ability of MRI to Rule Out Medial Meniscal Tears in Young Athletes With ACL Injury.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The prevalence of meniscal tears in patients with anterior cruciate ligament (ACL) injury increases with extended time between injury and ACL reconstruction."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to determine if there is a relationship between time from magnetic resonance imaging (MRI) to ACL reconstruction and the predictive value of MRI to diagnose meniscal tears in the young active population. It was hypothesized that increased time between MRI and ACL reconstruction would lead to a decrease in the negative predictive value of MRI in diagnosing meniscal tears, as more injuries may accrue over time in the ACL-deficient knee."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Included were patients aged 13 to 25 years at the authors' institution who underwent primary ACL reconstruction from January 2017 to June 2020. Time from MRI to surgery as well as descriptions of medial and lateral meniscal tears on both MRI and operative reports were documented. Time from MRI to surgery was divided into 4 intervals: 0 to 6 weeks, >6 weeks to 3 months, >3 to 6 months, and beyond 6 months. Multivariable analysis was used to determine the positive and negative predictive values of MRI in diagnosing a meniscal tear as compared with arthroscopic findings."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 432 patients were included with a mean age of 17.9 ± 3.4 years. The mean time from MRI to surgery was 70.5 ± 98 days. There was a significant decrease in the negative predictive value of MRI to identify a medial meniscal tear in patients who underwent ACL reconstruction >6 months after imaging (odds ratio, 0.16 [95% CI, 0.05-0.53]; <i>P</i> = .003). This same relationship was not shown for lateral meniscal tears, nor was any other predictor significant."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The utility of MRI to rule out a medial meniscal tear significantly diminished in the young athletic population when >6 months passed between MRI and ACL reconstruction. These data suggest these tears occur between the time of the MRI and surgery and that the medial meniscus is more susceptible than the lateral meniscus to new injury once the ACL has torn."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

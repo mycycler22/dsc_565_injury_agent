@@ -1,0 +1,36 @@
+{
+  "pmid": "16186706",
+  "title": "Athletic pubalgia: definition and surgical treatment.",
+  "year": "2005",
+  "journal": "Annals of plastic surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Athletic pubalgia, or \"sports hernia,\" affects people actively engaged in sports. Previously described in high-performance athletes, it can occur in recreational athletes. It presents with inguinal pain exacerbated with physical activity. Examination reveals absence of a hernia with pubic point tenderness accentuated by resisted adduction of the hip. Diagnosis is by history and physical findings. Treatment with an internal oblique flap reinforced with mesh alleviates symptoms."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review from December 1998 to November 2004 for patients with athletic pubalgia who underwent operative repair was performed. Descriptive variables included age, gender, laterality, sport, time to presentation, outcome, anatomy, and length of follow-up."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twelve patients, 1 female, with median age 25 years were evaluated. Activities included running (33%), basketball (25%), soccer (17%), football (17%), and baseball (8%). The majority were recreational athletes (50%). Median time to presentation was 9 months, with a median 4 months of follow-up. The most common intraoperative findings were nonspecific attenuation of the inguinal floor and cord lipomas. All underwent open inguinal repair, with 9 being reinforced with mesh. Four had adductor tenotomy. Results were 83.3% excellent and 16.7% satisfactory. All returned to sports."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Diagnosis of athletic pubalgia can be elusive, but is established by history and physical examination. It can be found in recreational athletes. An open approach using mesh relieves the pain and restores activity."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Median time to presentation was 9 months, with a median 4 months of follow-up."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

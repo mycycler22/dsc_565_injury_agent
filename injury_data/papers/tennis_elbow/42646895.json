@@ -1,0 +1,31 @@
+{
+  "pmid": "42646895",
+  "title": "Clinical, Functional, and Ultrasonographic Assessment of the Shoulder-Elbow Complex in Padel Players with Lateral Elbow Tendinopathy: A Pilot Observational Study.",
+  "year": "2026",
+  "journal": "Sports (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Lateral elbow pain (LEP) is traditionally considered a local tendinopathy; however, emerging evidence suggests that proximal shoulder function and kinetic chain adaptations may contribute to its development in overhead and racquet sport athletes such as padel players. This study compared shoulder strength, neuromuscular activation, elbow tendon morphology, and grip strength between padel players with lateral elbow pain and healthy controls, and between pain and non-pain sides within the symptomatic group."
+    },
+    {
+      "label": "METHODS",
+      "text": "A pilot study was conducted in padel players with unilateral LEP and matched healthy controls. Assessments included isometric shoulder internal and external rotator (IR/ER) strength, glenohumeral rotational range of motion, electromyographic activity (infraspinatus/deltoid posterior and upper trapezius/lower trapezius ratios), grip strength, and ultrasound evaluation of infraspinatus and common extensor tendon thickness."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No significant differences were observed between groups or sides in shoulder strength, IR/ER ratios, electromyographic activity, or grip strength (all <i>p</i> > 0.05). The symptomatic group showed greater infraspinatus muscle thickness than controls. Within the symptomatic group, the pain side demonstrated reduced glenohumeral IR (<i>p</i> = 0.04) and increased common extensor tendon thickness (<i>p</i> = 0.02-0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Padel players with LEP demonstrated largely preserved neuromuscular and strength profiles. However, reduced shoulder IR and increased tendon thickness suggest proximal mobility alterations and local tendon adaptations, supporting a kinetic chain interpretation of lateral elbow pain."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "6703178",
+  "title": "Prognosis in anterior shoulder dislocation.",
+  "year": "1984",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "All patients treated for a first-time anterior glenohumeral dislocation in Olmsted County, Minnesota, from 1970 through 1979 were identified. Of these 124 patients, 116 were available for study at a mean followup of 4.63 years (range 2 to 11). Of the 116 patients, 38 (33%) had recurrence of dislocation: 21 of the 32 (66%) patients less than 20 years old, 17 of the 43 (40%) patients 20 through 40 years old, and none of the 41 patients older than 40 years. Symptomatic instability remained a problem in 24 patients. Twenty-seven of 33 (82%) young athletes had recurrence of dislocation as compared with only 8 of 27 (30%) nonathletes of similar ages. Patients restricted from resuming sports participation for 6 weeks or more had significantly better results than those restricted for less than 6 weeks. The recurrence rate of dislocation is not as high as previously reported. However, the rate in athletes is much higher than that in nonathletes. Many patients continue to complain of symptomatic instability without actual redislocation. In our younger patients, we now advise immobilization for from 3 to 6 weeks, followed by extensive rehabilitation before return to athletic activity."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "In our younger patients, we now advise immobilization for from 3 to 6 weeks, followed by extensive rehabilitation before return to athletic activity."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

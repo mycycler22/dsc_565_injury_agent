@@ -1,0 +1,49 @@
+{
+  "pmid": "38191955",
+  "title": "Ultrasound shear wave seeds reduced following hamstring strain injury but not after returning to sport.",
+  "year": "2024",
+  "journal": "Insights into imaging",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The purpose of the study was to investigate differences in ultrasound shear wave speed (SWS) between uninjured and injured limbs following hamstring strain injury (HSI) at time of injury (TOI), return to sport (RTS), and 12 weeks after RTS (12wks)."
+    },
+    {
+      "label": "METHODS",
+      "text": "This observational, prospective, cross-sectional design included male and female collegiate athletes who sustained an HSI. SWS imaging was performed at TOI, RTS, and 12wks with magnetic resonance imaging. SWS maps were acquired by a musculoskeletal-trained sonographer at the injury location of the injured limb and location-matched on the contralateral limb. The average SWS from three 5 mm diameter Q-boxes on each limb were used for analysis. A linear mixed effects model was performed to determine differences in SWS between limbs across the study time points."
+    },
+    {
+      "label": "RESULTS",
+      "text": "SWS was lower in the injured limb compared to the contralateral limb at TOI (uninjured - injured limb difference: 0.23 [0.05, 0.41] m/s, p = 0.006). No between-limb differences in SWS were observed at RTS (0.15 [-0.05, 0.36] m/s, p = 0.23) or 12wks (-0.11 [-0.41, 0.18] m/s, p = 0.84)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The SWS in the injured limb of collegiate athletes after HSI was lower compared to the uninjured limb at TOI but not at RTS or 12 weeks after RTS."
+    },
+    {
+      "label": "CRITICAL RELEVANCE STATEMENT",
+      "text": "Hamstring strain injury with structural disruption can be detected by lower injured limb shear wave speed compared to the uninjured limb. Lack of between-limb differences at return to sport may demonstrate changes consistent with healing. Shear wave speed may complement traditional ultrasound or MRI for monitoring muscle injury."
+    },
+    {
+      "label": "KEY POINTS",
+      "text": "• Ultrasound shear wave speed can non-invasively measure tissue elasticity in muscle injury locations. • Injured limb time of injury shear wave speeds were lower versus uninjured limb but not thereafter. • Null return to sport shear wave speed differences may correspond to structural changes associated with healing. • Shear wave speed may provide quantitative measures for monitoring muscle elasticity during recovery."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "The SWS in the injured limb of collegiate athletes after HSI was lower compared to the uninjured limb at TOI but not at RTS or 12 weeks after RTS."
+    }
+  ],
+  "pmcid": "10774410",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Subject demographics are shown in Table 1. The median time between HSI and TOI SWS imaging was 4.0 (3.5–5.5) days. Median time to RTS 29.0 (18.8–49.3) days. A total of 16 athlete injuries from 15 unique athletes were included (one athlete had a subsequent HSI on the opposite limb). The biceps femoris long head was the most injured primary muscle across all unique injuries (14 of 16, 87.5%). One (6.3%) injury occurred in the semitendinosus muscle and one injury (6.3%) occurred in the semimembranosus muscle. Edema was present in 7 of the 8 (87.5%) RTS imaging sessions and 2 of the 4 (50%) imaging sessions at 12wks. Table 1Participant information for athletes included for ultrasound shear wave speed imagingCharacteristics of athletes included for shear wave speed imaging Number of unique athletes (total HSI)15 (16) Sex (female | male)1 | 14 Sport (football | track and field | basketball | soccer)6 | 9 | 0 | 0 Age (years)a19.5 (1.3) Height (m)a1.83 (0.07) Weight (kg)a85.1 (18.3) Body mass index (kg/m2)a25.3 (4.0)BAMIC classification of unique injuries (count)b Small myofascial tear (1a)3 Small muscular/musculotendinous junction tear (1b)1 Moderate myofascial tear (2a)4 Moderate muscular/musculotendinous junction tear (2b)0 Moderate-sized intratendinous tear (2c)0 Extensive myofascial tear (3a)0 Extensive muscular/musculotendinous tear (3b)0 Extensive intratendinous tear (3c)8aData are presented as mean (standard deviation)bOne athlete suffered a recurrent HSI resulting in 16 total unique injuries includedAbbreviations: BAMIC British Athletics Muscle Injury Classification Between-limb SWS for each unique HSI are shown in Fig. 3. A significant limb by time point interaction was detected for SWS (p = 0.02). Post hoc Tukey tests revealed a significant difference in SWS between limbs at TOI (mean difference: 0.23 [0.05, 0.41] m/s, p = 0.006) (Table 2). No differences in SWS were detected between limbs at RTS (0.15 [-0.05, 0.36] m/s, p = 0.23) or 12wks (-0.11 [-0.41, 0.18] m/s, p = 0.84).Fig. 3Between-limb shear wave speeds (SWS) for unique hamstring strain injury. Individual athlete SWS are plotted as circles. The least square means from the linear mixed effects model are plotted as red triangles. Significant between-limb differences in SWS were observed at time of injury (TOI), but not at return to sport (RTS) or 12 weeks after RTS (12wks)Table 2Least square means [95% confidence interval (CI)] of shear wave speed (SWS) estimatesTime pointLimbLeast square mean of SWS (m/s) [95% CI]Between-limb differencea in SWS (m/s) [95% CI]p-valueTOIInjured1.82 [1.68, 1.97]0.23 [0.05, 0.41]0.006Uninjured2.05 [1.91, 2.20]RTSInjured1.92 [1.76, 2.08]0.15 [-0.05, 0.36]0.23Uninjured2.08 [1.91, 2.24]12wksInjured2.14 [1.95, 2.33]-0.11 [-0.41, 0.18]0.84Uninjured2.03 [1.84, 2.22]aBetween limb difference calculated as \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$Uninjured-Injured$$\\end{document}Uninjured-Injured"
+    }
+  ]
+}

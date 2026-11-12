@@ -1,0 +1,35 @@
+{
+  "pmid": "36312707",
+  "title": "Patellar Tendon Injury: A Bibliometric Analysis of the Most-Cited Articles Demonstrates Relatively High Overall Level of Evidence.",
+  "year": "2022",
+  "journal": "Arthroscopy, sports medicine, and rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To identify and analyze the 50 most-cited articles in patellar tendon injury research."
+    },
+    {
+      "label": "METHODS",
+      "text": "The ISI Web of Science and SCOPUS databases were used to conduct a search for articles pertaining to patellar tendon injury. For the top 50 most-cited articles, bibliometric data (title, first and senior author, citation count, journal, publication year, citation density, country of origin, Level of Evidence [LOE]) and topic of article were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean number of citations was 172.0 ± 88.2 (range 101-546). There was a statistically significant correlation between publication year and citation density (r = 0.61, P < .01). The earliest article was the third most-cited article (362 citations), published by Blazina et al. in 1973, which discussed the epidemiology of patellar tendinopathy. The first and second most-cited articles (546 and 466 citations, respectively) covered surgical outcomes of patellar tendinopathy and prevalence of patellar tendinopathy among elite athletes. A total of 14 articles (28%) discussed nonoperative management, whereas only 5 articles discussed surgical management (10%). The most frequent LOE category was a LOE of IV (n = 18, 36%), but 19 studies (38%) were LOE I or LOE II."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Among the top 50 most-cited studies regarding patellar tendon injury, a relatively high number were of a high LOE (19 Level I or II, 38%), affirming that these articles in patellar tendon injury research are not only influential, but also of high-quality evidence."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "This bibliometric analysis provides an efficient tool for educators, researchers, and evidence-based practitioners to identify and evaluate the most influential articles in patellar tendon injury research."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

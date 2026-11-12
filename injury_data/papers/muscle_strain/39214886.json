@@ -1,0 +1,39 @@
+{
+  "pmid": "39214886",
+  "title": "Effect of Advanced Footwear Technology Spikes on Sprint Acceleration: A Multiple N-of-1 Trial.",
+  "year": "2024",
+  "journal": "Sports medicine - open",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In contrast with Advanced Footwear Technology-AFT running shoes for long-distance, little is known about AFT sprint spikes on performance and acceleration parameters. However, their use has become widespread since the Tokyo 2020 Olympics, and knowledge of their effects would seem to be an essential starting point before any clinical or socio-economic considerations."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "Our objectives were to determine intra- and inter-subject sprinting performance modifications with Nike<sup>®</sup> AFT spikes (NAS) compared to standard spiked-shoes (SS)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Healthy regional to national sprint athletes (n = 21, ≥ 750 pts World Athletics) performed 16 repetitions of 30-m sprints with either the NAS or SS condition during a single session, based on the multiple N-of-1 method, with pairwise randomisation and double-blind procedure. Time on 30-m sprints (Stalker radar), force-velocity profile (F<sub>0</sub>, V<sub>0</sub>, V<sub>max</sub>, P<sub>max</sub>, RF, D<sub>RF</sub> and FVP slope), and confounding factors (wind and shoe mass) were measured. Statistical analyses included a mixed linear regression model for group analyses, and randomisation test inversion and non-overlap-of-all-pair (NAP) methods for intra-individual analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "NAS improved 30-m time by a mean of - 0.02 s (SMD = 0.4, p = 0.014), with no interaction with any confounding factors. Significant changes were seen in velocity (V<sub>max</sub> : SMD = 0.9, p < 0.001; V<sub>0</sub>: SMD = 0.7, p < 0.001) and the horizontal ratio of force (RF<sub>max</sub>: SMD = 0.5, p = 0.043), with no changes observed in force production. Whatever the footwear, one unit of positive wind (+ 1 m.s<sup>- 1</sup> ) improved performance by - 0.03 s (p < 0.001). At an individual level, four athletes improved (NAP ≥ 0.69), and one had a statistical decrease in performance. Changes in F-V profiles were largely individual."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A positive effect on sprint acceleration characteristics was observed when using Nike<sup>®</sup> AFT spikes, due to an increase in velocity and the horizontal ratio of force. A major variability in inter-individual response justifies single-case experimental designs for research on the topic."
+    },
+    {
+      "label": "TRIAL REGISTRATION NUMBER",
+      "text": "NCT05881148."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "35627948",
+  "title": "Isotonic and Isometric Exercise Interventions Improve the Hamstring Muscles' Strength and Flexibility: A Narrative Review.",
+  "year": "2022",
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring weakness has been associated with an increased risk of hamstring strain, a common sports injury that occurs when athletes perform actions such as quick sprints. The hamstring complex comprises three distinct muscles: the long and short heads of the bicep femoris, the semimembranosus, and the semitendinosus."
+    },
+    {
+      "label": "METHODS",
+      "text": "The researchers collected the data from different electronic databases: PubMed, Google Scholar, and the Web of Science."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Many studies have been conducted on the numerous benefits of hamstring strength, in terms of athletic performance and injury prevention. Isotonic and isometric exercises are commonly used to improve hamstring strength, with each exercise type having a unique effect on the hamstring muscles. Isotonic exercise improves the muscles' strength, increasing their ability to resist any force, while isometric training increases strength and the muscles' ability to produce power by changing the muscle length."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "These exercises, when performed at low intensity, but with high repetition, can be used by the healthy general population to prepare for training and daily exercise. This can improve hamstring muscle strength and flexibility, leading to enhanced performance and reduced injury risk."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

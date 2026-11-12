@@ -1,0 +1,32 @@
+{
+  "pmid": "41872728",
+  "title": "Adaptation of Neural Common Drive to Motor Units of the Wrist Extensor Agonists in Chronic Lateral Epicondylitis.",
+  "year": "2026",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Chronic lateral epicondylitis (CLE) arises from overuse and repetitive strain on the extensor carpi radialis brevis (ECRB), particularly prevalent among racquet sport athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Given the compensatory workload on a weakened ECRB, this study specified how CLE influences muscle synergy through the neural common drive to motor units (MUs) in both the ECRB and extensor carpi radialis longus (ECRL). Eighteen patients with CLE (49.5 ± 9.2 yr) and eighteen healthy participants (48.8 ± 10.4 yr) took part in the study. The force dynamics and discharge characteristics of MUs in the agonists were compared between the patient and control groups during a graded force-increasing task."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Patients with CLE showed significantly greater task errors ( P = 0.005) with smaller mean frequency (MF) of force fluctuations ( P = 0.006) than healthy controls. In addition to reduced maximal voluntary contraction, patients exhibited a lower common drive index (CDI) within the ECRB ( P = 0.001) and between the ECRB and ECRL ( P = 0.007), with no significant difference observed in the CDI within the ECRL ( P > 0.05). The coefficient of variation of the CDI among MU pairs was significantly lower in the patient group for both within the ECRB (CV-CDI ECRB ) ( P < 0.001) and between the ECRB and ECRL (CV-CDI ECRB-ECRL ) ( P = 0.004). Functionally, the size of task errors was negatively correlated with CV-CDI ECRB and CV-CDI ECRB-ECRL ( P < 0.05), while mean frequency of force fluctuations was positively correlated with CV-CDI ECRB ."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Impaired force control in CLE is associated with altered variability and coordination of common synaptic input, highlighting the relevance of coordination-focused rehabilitation strategies."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

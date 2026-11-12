@@ -1,0 +1,32 @@
+{
+  "pmid": "39121692",
+  "title": "Gender differences in foot and ankle sporting injuries: A systematic literature review.",
+  "year": "2024",
+  "journal": "Foot (Edinburgh, Scotland)",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In response to the all-time high of female sports participation, there has been increasing scientific discourse and media interest in women's sporting injuries in recent years. In gender comparable sports the rate of foot and ankle injury for women is higher than for men. There are intrinsic and extrinsic factors which may explain this difference."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic literature search was performed according to the PRISMA guidelines of PubMed, Ovid EMBASE and OVID MEDLINE. Relevant key terms were used to narrow the scope of the search prior to screening. Case reports, review articles, paediatric patients, non foot and ankle injuries and combat sports were excluded. We used dual author, two pass screening to arrive at final included studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "2510 articles were screened after duplicate exclusion. 104 were included in this literature review. We identified lack of reporting gender difference in the literature.We identified that females have higher frequency and severity of injury. We provide an overview of our current understanding of ankle ligament complex injuries, stress fractures, ostochondral lesions of the talus and Achilles tendon rupture. We expand on the evidence of two codes of football, soccer and Australian rules, as a \"case study\" of how injury patterns differ between genders in the same sport. We identify gender specific characteristics including severity, types of injury, predisposing risk factors, anatomy, endocrinology and biomechanics associated with injuries. Finally, we examine the effect of level of competition on female injury patterns."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There is a lack of scientific reporting of gender differences of foot and ankle injuries. Female athletes suffer foot and ankle injuries at higher rates and with greater severity compared to males. This is an under-reported, yet important area of orthopaedics and sports medicine to understand, and hence reduce the injury burden for female athletes."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

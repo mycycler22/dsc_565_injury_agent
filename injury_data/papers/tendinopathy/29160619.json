@@ -1,0 +1,25 @@
+{
+  "pmid": "29160619",
+  "title": "Tendinopathy diagnosis and treatment monitoring using attenuated total reflectance-Fourier transform infrared spectroscopy.",
+  "year": "2018",
+  "journal": "Journal of biophotonics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy, an important sports injury afflicting athletes and general public, is associated with huge economic losses. The currently used diagnostic tests are subjective, show moderate sensitivity and specificity; while treatment failures persist despite advances in therapy. This highlights the need for tendinopathy diagnostic and treatment monitoring tools. This study investigates tendon injury, natural healing and effect of treatment using ATR-FTIR complemented with histopathology. Control (C), injured (I) and treated (T) rat tendons were extracted 3, 7, 14 and 28 days post-injury/treatment, representing phases of healing; and subjected to hematoxylin & eosin staining as well as spectroscopy. While C showed no change, I- and T-related histological changes could be clearly observed in stained sections. ATR-FTIR spectra highlighted the biochemical changes within groups. Multivariate analysis could classify C, I and T with 75%; different days between groups with 84%; and different days within group with 65% efficiency. Results suggest that such analysis can not only identify C, I or T but also different phases of healing. Difference between I and T at different time points also suggest change in rate of healing. Further studies may help develop this technique for clinical diagnosis and treatment monitoring in future."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Control (C), injured (I) and treated (T) rat tendons were extracted 3, 7, 14 and 28 days post-injury/treatment, representing phases of healing; and subjected to hematoxylin & eosin staining as well as spectroscopy."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

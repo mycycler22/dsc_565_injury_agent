@@ -1,0 +1,39 @@
+{
+  "pmid": "41466834",
+  "title": "A Novel Ultrasound Assessment Technique of the Ulnar Collateral Ligament to Account for the Valgus Stress Effect of Gravity on the Medial Elbow.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The ulnar collateral ligament (UCL) of the elbow is commonly injured in baseball athletes. When assessed in the supine abducted and externally rotated (ABER) position using stress ultrasonography (sUS), even before applying a valgus load, gravity pulls on the forearm, creating an initial valgus load that may distort the resting joint space measurement."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to measure the valgus stress effect of gravity on the resting joint space and determine if a varus-stressed joint space provides a better baseline measurement. It was hypothesized that there would be a greater resting joint space in the throwing arm in the ABER position as a result of UCL laxity but no difference in joint space under varus stress compared to the nonthrowing arm."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Bilateral elbows of asymptomatic male collegiate baseball players with no history of elbow injury were evaluated via sUS. Ulnohumeral joint space was measured at rest (gravity stress), under varus stress, and under manually applied valgus stress. Joint gap differences from rest to varus, rest to valgus, and varus to valgus were compared between throwing and nonthrowing arms. We also examined joint space measurements in throwing arms with and without ultrasonography-identified UCL abnormalities."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 50 athletes were included. Compared to nonthrowing arms, throwing arms had greater resting (3.4 ± 0.6 mm vs 2.9 ± 0.6 mm) and valgus-stressed (3.8 ± 0.7 mm vs 3.4 ± 0.6 mm) joint spaces, but the varus-stressed joint space did not differ between sides. Varus-to-valgus joint gap was significantly greater in throwing arms (1.3 ± 0.5 mm) versus nonthrowing arms (1.0 ± 0.4 mm), while rest-to-valgus differences were not significant. Valgus stress joint space (4.1 ± 0.7 mm vs 3.7 ± 0.7 mm, <i>P</i> = .07) and rest-to-valgus joint gap (0.6 ± 0.5 vs 0.3 ± 0.3, <i>P</i> = .08) were wider in throwing elbows with UCL abnormalities compared to those without, but these between-group differences did not reach significance."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Asymptomatic male collegiate baseball players' throwing arm had a significantly greater resting joint space when exposed to gravity stress than the nonthrowing arm in the ABER position, possibly as a result of adaptive UCL laxity. However, the bilateral similarity in varus-stressed measurements suggests it may serve as a better baseline for sUS assessments. Future research incorporating varus stress as a baseline in symptomatic athletes may improve the accuracy and clinical relevance of medial elbow laxity evaluations."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

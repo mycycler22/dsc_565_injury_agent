@@ -1,0 +1,43 @@
+{
+  "pmid": "37728131",
+  "title": "Anterior Cruciate Ligament Tears in the Adolescent Population: Injury Demographics and Risk of Reinjury Among High School Athletes.",
+  "year": "2023",
+  "journal": "Journal of pediatric orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The incidence of anterior cruciate ligament (ACL) injuries is increasing among the adolescent population with a peak occurring in the high school age range."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To characterize recent epidemiologic trends of ACL injuries, ACL reconstruction (ACLR), and retear rates in high school adolescents based on age, participating sport, and mechanism of injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Retrospective case series."
+    },
+    {
+      "label": "METHODS",
+      "text": "A prospectively maintained institutional database was retrospectively reviewed for all patients 18 or younger who underwent primary ACLR between 2015 and 2020. Odds ratios were calculated for baseline patient characteristics and their association with risk of retear. Multivariate regression analysis was also performed to identify the relationship between retear and specific categorical variables."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 482 patients were included, with a mean follow-up time of 13.0 ± 11.8 months. Patients were an average age of 16.1 ± 1.3 years old (range: 13 to 18 y). Initial presentation of ACL injuries in high school athletes often occurred at 16 years old regardless of the sport played. Based on age, high school freshmen and seniors are found to have an increased risk of ACL retear. One hundred three patients (21.6%) completed at least 2 or more years of follow-up after ACLR. Of these patients, 38.8% received a bone-tendon-bone (BTB) autograft, 36.9% hamstring autograft, 14.6% quadriceps tendon autograft, and 3.9% received hamstring allograft or other graft (eg, tibialis anterior and BTB allograft), respectively. There were 25 ipsilateral ACL retears that occurred in the patient cohort (5.2%). Thirteen (52%) of retears were females. Football and soccer were the most common sports played by patients with a retear of the ipsilateral knee (31.8% and 27.3%, respectively). Patients who were 13 to 14 or 18 years old ( P = 0.009 and 0.035, respectively) or who received a tibialis anterior/BTB allograft ( P = 0.002) were found to have increased risk of ACL retear compared with other age groups. When evaluating by sex, female soccer players had a greater risk of retear compared with male soccer players ( P = 0.007). When adjusting for multiple variables, (including age, sex, body mass index, primary reconstruction graft choice, sport, and length of follow-up), the odds of ipsilateral retear in patients who received hamstring autograft ( P = 0.02), sustained a contralateral ACL tear ( P = 0 .04), or a contact injury ( P = 0.01) were increased."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Initial presentation of ACL injuries in high school athletes often occurs at 16 years old regardless of the sport played. Based on age, high school freshmen and seniors are found to have an increased risk of ACL retear. However, the overall rate of ACL retear in high school athletes of all ages is low. Patients who underwent ACLR with hamstring tendon autograft had a greater risk of retear compared with other graft types. Female soccer players also had a greater risk of ACL retear. High school athletes must take caution when in the early high school years (underclassman) and more senior years (upperclassman), as susceptibility for ACL retears is elevated."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

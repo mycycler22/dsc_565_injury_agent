@@ -1,0 +1,41 @@
+Title: Fractures in professional footballers: 7-years data from 106 team seasons in the Middle East. | Type: Journal Article | PMID: 37867759 | Year: 2023 | Injury query: stress fracture
+[UNLABELED] Almost all professional football players with fractures return to play at the same competitive level after an average of 10 weeks of absence (mean absence was 71 ± 81 (median: 47, Inter Quartile Range [14-93]) days).
+[FULLTEXT: Return to play] Despite a high percentage of players (63%) sustaining fractures causing severe absence (longer than 28 days), only two (1.9%) out of 108 players retired. Therefore, as with earlier studies, almost all professional players (98.1%) returned to play at the previous level, i.e., same level of the competition [23]. One player left the league after a prolonged absence of 403 days, 3 surgeries, and non-union, whereas the other left to play football abroad. Of the 9 players who had post-surgical complications, 8 (88.9%) returned to play whereas the remaining player retired upon discharge from treatment. The residual symptoms seen upon return to play in 10 players (9.3% of 108) did not affect their ability to train and play competitive matches. The high motivation, level of responsibility and financial needs in professional footballers and/or the competency of the team medical staff (including subspeciality musculoskeletal radiologists, orthopaedic surgeons, sports medicine physicians, physiotherapists and biomechanists) supporting them may have contributed to their ability to continue playing despite having symptoms [30].
+[FULLTEXT: TABLE: Time loss (mean ± SD, median and Inter Quartile Range) and severity of fracture (%) according to fracture type, onset of injury, mechanism, and player position.]  | Total | Mean ± SD | Median (Percentile 25–75) | Minor (≤ 7 days) | Major (8–28 days) | Severe (> 28 days)
+N (%) | Days | Days | N (%) | N (%) | N (%)
+Origin
+Match | 66 (61.1%) | 77.0 ± 85.1 | 47 (14–124) | 10 (15.2%) | 14 (21.2%) | 42 (63.6%)
+Training | 42 (38.9%) | 60.9 ± 75.0 | 47 (16–78) | 8 (19.0%) | 8 (19.0%) | 26 (61.9%)
+Type
+Non-Stress Fracture | 97 (89.8%) | 70.2 ± 84.6 | 46 (14–93) | 17 (17.5%) | 22 (22.7%) | 58 (59.8%)
+Stress fracture | 11 (10.2%) | 75.6 ± 44.5 | 68 (47–86) | 1 (9.1%) | 0 (0%) | 10 (90.9%)
+Mechanism
+Contact | 91 (84.3%) | 66.2 ± 79.3 | 45 (14–92) | 16 (17.6%) | 21 (23.1%) | 54 (59.3%)
+Non-Contact | 17 (15.7%) | 94.9 ± 90.1 | 78 (47–93) | 2 (11.8%) | 1 (5.9%) | 14 (82.4%)
+Onset of injury
+Gradual | 16 (14.8%) | 44.1 ± 31.5 | 44.5 (10.5–74.5) | 3 (18.8%) | 2 (12.5%) | 11 (68.8%)
+Sudden | 92 (85.2%) * | 75.4 ± 86.4 | 47 (14.5–104) | 15 (16.3%) | 20 (21.7%) | 57 (62.0%)
+Player position
+Outfield player | 92 (85.2%) * | 75.5 ± 84.7 | 47.5 (15.5–93.5) | 12 (13.0%) | 19 (20.7%) | 61 (66.3%) *
+Goalkeeper | 16 (14.8%) | 43.2 ± 51.7 | 17.5 (4–59.5) | 6 (37.5%) | 3 (18.8%) | 7 (43.8%)
+[FULLTEXT: TABLE: Time loss (mean, SD and Median) according to treatment and fracture location.]  | No Surgery N = 71 (65.7%) | Surgery N = 37 (34.3%)
+Total | Mean ± SD | Median (Percentile 25–75) | Total | Mean ± SD | Median (Percentile 25–75)
+N (%) | Days | Days | N (%) | Days | Days
+Main body part
+Head-face-Neck | 7 (9.9%) | 12 ± 8 | 14 | 5 (13.5%) | 29 ± 25 | 20
+Lower limb* | 32 (45.1%) | 56 ± 37 | 51 | 20 (54.1%) | 185 ± 106 | 156
+Trunk | 5 (7.0%) | 42 ± 33 | 32 | 0 | — | —
+Upper limb | 27 (38.0%) | 29 ± 36 | 14 | 12 (32.4%) | 78 ± 73 | 57
+Location
+Ankle | 3 (4.2%) | 21 ± 19 | 16 | 2 (5.4%) | 128 ± 45 | 128
+Chest/Ribs/Upper Back | 3 (4.2%) | 19 ± 13 | 19 | 0 | — | —
+Foot* | 20 (28.2%) | 57 ± 43 | 52 | 6 (16.2%) | 113 ± 36 | 105
+Forearm | 1 (1.4%) | 59 | 59 | 1 (2.7%) | 42 | 42
+Hand* | 15 (21.1%) | 14 ± 18 | 6 | 6 (16.2%) | 60 ± 58 | 42
+Head | 7 (9.9%) | 12 ± 8 | 14 | 5 (13.5%) | 29 ± 25 | 20
+Knee | 4 (5.6%) | 62 ± 23 | 57 | 1 (2.7%) | 219 | 219
+Lower Leg* | 5 (7.0%) | 62 ± 22 | 51 | 10 (27.0%) | 251 ± 107 | 248
+Pelvis/Low Back | 2 (2.8%) | 75 ± 16 | 75 | 0 | — | —
+Shoulder | 8 (11.3%) | 55 ± 52 | 46 | 4 (10.8%) | 49 ± 34 | 59
+Thigh | 1 (1.4%) | 53 | 53 | 0 | — | —
+Wrist | 2 (2.8%) | 28 ± 25 | 28 | 2 (5.4%) | 188 ± 99 | 188

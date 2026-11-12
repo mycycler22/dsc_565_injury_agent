@@ -1,0 +1,44 @@
+{
+  "pmid": "35341336",
+  "title": "Return to Play After Biceps Tenodesis for Isolated SLAP Tears in Overhead Athletes.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Performing open subpectoral biceps tenodesis in overhead athletes with a superior labrum anterior to posterior (SLAP) tear may affect their ability to return to overhead sports."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate clinical outcomes in overhead athletes undergoing biceps tenodesis for the treatment of symptomatic, isolated SLAP tears involving the biceps-labral complex."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of overhead athletes who underwent biceps tenodesis for a SLAP tear was performed. The American Shoulder and Elbow Surgeons (ASES) score, visual analog scale (VAS) score for pain, subjective shoulder value (SSV), patient satisfaction, willingness to undergo surgery again, revision procedures, and return to play were evaluated. Psychological readiness to return to sport was evaluated using the SLAP-Return to Sport after Injury (SLAP-RSI) score. A <i>P</i> value of <.05 was considered to be statistically significant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The current study included 44 overhead athletes. The mean age was 34.9 years (range, 16-46 years), 79.5% were male, and the mean follow-up was 49.0 months (range, 18-107 months). Overall, 81.8% of patients returned to play their overhead sport after biceps tenodesis, and 59.1% of patients returned to the same or higher level of play. It took patients, on average, 8.7 months to return to play after biceps tenodesis. The mean SLAP-RSI score was 69.4, and 70.5% of patients passed the SLAP-RSI threshold of 56. The mean ASES score, VAS score, SSV, and satisfaction were 92.0, 0.8, 80.6, and 87.9%, respectively. No patients in our cohort required revision surgery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study found that athletes undergoing biceps tenodesis for the treatment of a symptomatic, isolated SLAP tear had a high rate of return to play, good functional outcomes, and a low rate of revision surgery."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "It took patients, on average, 8.7 months to return to play after biceps tenodesis."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

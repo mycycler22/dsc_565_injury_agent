@@ -1,0 +1,51 @@
+{
+  "pmid": "31454288",
+  "title": "Upper Extremity Musculoskeletal Characteristics and the Kerlan-Jobe Orthopaedic Clinic Questionnaire Score in Collegiate Baseball Athletes.",
+  "year": "2019",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Upper extremity (UE) musculoskeletal injuries are common in baseball athletes due to the increased demand placed on the UE. The link between risk factors for UE musculoskeletal injuries and baseball athletes' perceived UE function and pain, as measured by the Kerlan-Jobe Orthopaedic Clinic (KJOC) questionnaire, is unclear."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To (1) describe the musculoskeletal characteristics of the UE (posture, range of motion, flexibility, and isometric strength) in a population of baseball athletes and (2) determine the predictive capability of UE musculoskeletal characteristics for the KJOC score in these athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Athletic training room."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "A total of 37 male National Collegiate Athletic Association Division I baseball athletes (age = 20.10 ± 1.27 years, height = 186.96 ± 7.64 cm, mass = 90.60 ± 10.69 kg)."
+    },
+    {
+      "label": "INTERVENTION(S)",
+      "text": "Athletes self-reported all shoulder musculoskeletal injuries and completed the KJOC questionnaire. Postural assessment consisted of forward head and shoulder posture. Flexibility tests characterized glenohumeral internal and external rotation, posterior shoulder tightness, and pectoralis minor length. Strength tests involved the lower and middle trapezius, rhomboid, glenohumeral internal and external rotation, pectoralis major, serratus anterior, supraspinatus, and upper trapezius."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "All 10 KJOC questions were summed for an overall score out of 100. Questions 1 through 5 were summed for a pain score; questions 6 through 10 were summed for a function score. All data were assessed for normality. A stepwise multiple regression model was fit to determine if the predictor variables assessed could predict the KJOC score. We set the α level a priori at .05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For the KJOC total score, a 1-year history of shoulder injury accounted for 7.80% of the variance in the KJOC total score (<i>P</i> = .07). For KJOC questions 1 through 5, a history of UE injury in the year before testing and posterior shoulder tightness accounted for 14.40% of the variance in the KJOC total score (<i>P</i> = .047)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The link between a history of UE musculoskeletal injuries and the KJOC score highlights the need for continued focus on self-perceived pain and function after UE musculoskeletal injury."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

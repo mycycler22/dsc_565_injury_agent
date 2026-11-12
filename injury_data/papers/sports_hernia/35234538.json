@@ -1,0 +1,45 @@
+{
+  "pmid": "35234538",
+  "title": "Core Muscle Injury: Evaluation and Treatment in the Athlete.",
+  "year": "2023",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Pain in the groin region, where the abdominal musculature attaches to the pubis, is referred to as a \"sports hernia,\"\"athletic pubalgia,\" or \"core muscle injury\" and has become a topic of increased interest due to its challenging diagnosis. Identifying the cause of chronic groin pain is complicated because significant symptom overlap exists between disorders of the proximal thigh musculature, intra-articular hip pathology, and disorders of the abdominal musculature."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To present a comprehensive review of the pathoanatomic features, history and physical examination, and imaging modalities used to make the diagnosis of core muscle injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Narrative and literature review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive literature search was performed. Studies involving the diagnosis, treatment, and rehabilitation of athletes with core muscle injury were identified. In addition, the senior author's extensive experience with the care of professional, collegiate, and elite athletes was analyzed and compared with established treatment algorithms."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The differential diagnosis of groin pain in the athlete should include core muscle injury with or without adductor longus tendinopathy. Current scientific evidence is lacking in this field; however, consensus regarding terms and treatment algorithms was facilitated with the publication of the Doha agreement in 2015. Pain localized proximal to the inguinal ligament, especially in conjunction with tenderness at the rectus abdominis insertion, is highly suggestive of core muscle injury. Concomitant adductor longus tendinopathy is not uncommon in these athletes and should be investigated. The diagnosis of core muscle injury is a clinical one, although dynamic ultrasonography is becoming increasingly used as a diagnostic modality. Magnetic resonance imaging is not always diagnostic and may underestimate the true extent of a core muscle injury. Functional rehabilitation programs can often return athletes to the same level of play. If an athlete has been diagnosed with athletic pubalgia and has persistent symptoms despite 12 weeks of nonoperative treatment, a surgical repair using mesh and a relaxing myotomy of the conjoined tendon should be considered. The most common intraoperative finding is a deficient posterior wall of the inguinal canal with injury to the distal rectus abdominis. Return to play after surgery for an isolated sports hernia is typically allowed at 4 weeks; however, if an adductor release is performed as well, return to play occurs at 12 weeks."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Core muscle injury is a diagnosis that requires a high level of clinical suspicion and should be considered in any athlete with pain in the inguinal region. Concurrent adductor pathology is not uncommon."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Return to play after surgery for an isolated sports hernia is typically allowed at 4 weeks; however, if an adductor release is performed as well, return to play occurs at 12 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "29125444",
+  "title": "Online postconcussion return-to-play instructions.",
+  "year": "2018",
+  "journal": "Journal of neurosurgery. Pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "OBJECTIVE The authors of recent concussion guidelines have sought to form a consensus on injury management, but it is unclear if they have been effective in conveying this information to the public. Many parents and athletes obtain medical recommendations via the Internet. This review is aimed at evaluating consistency between online resources and published guideline statements in postconcussion return-to-play (RTP) decisions. METHODS Five websites were selected through a Google search for RTP after concussion, including a federal government institution (Centers for Disease Control and Prevention) website, a national high school association (National Federation of State High School Associations) website, a popular nationally recognized medical website for patients (WebMD), a popular parent-driven website for parents of children who participate in sports (MomsTeam), and the website of a private concussion clinic (Sports Concussion Institute), along with a university hospital website (University of Michigan Medicine). Eight specific items from the Zurich Sport Concussion Consensus Statement 2012 were used as the gold standard for RTP recommendations. Three independent reviewers graded each website for each of the 8 recommendations (A = states guideline recommendations appropriately; B = mentions guideline recommendation; C = does not mention guideline recommendation; F = makes inappropriate recommendation). RESULTS A grade of A was assigned for 45.8% of the recommendations, B for 25.0%, C for 25.0%, and F for 4.2%. All the websites were assigned an A grade for the recommendation of no RTP on the day of injury. Only 1 website (WebMD) mentioned medication usage in conjunction with the Zurich statement, and only 2 websites (Sports Concussion Institute and University of Michigan Medicine) mentioned appropriate management of persistent symptoms. None of these websites commented correctly on all 8 guideline recommendations. CONCLUSIONS Online resources are inconsistent in relaying guideline recommendations for RTP and provide a potential source of confusion in the management of concussion for athletes and their parents, which can result in inappropriate RTP decisions."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "23193146",
+  "title": "Intra-articular hip injuries in national hockey league players: a descriptive epidemiological study.",
+  "year": "2013",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Intra-articular hip injuries are thought to be common in professional ice hockey; however, injury incidence and missed playing time have not been previously documented. Furthermore, it is not known if injury incidence differs between player positions."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "The incidence of symptomatic intra-articular hip injuries in goaltenders is higher than that of other position players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A database containing the injury surveillance of National Hockey League (NHL) players from the years 2006 to 2010 was used to identify athletes who had sustained a hip or groin injury. From this database, players diagnosed with an intra-articular hip injury were identified. The incidence of intra-articular hip injuries per 1000 player-hours played and per 1000 player-game appearances was compared between goaltenders, defensemen, and forwards."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ninety-four hip injuries, accounting for 10.6% (94/890) of all hip and groin injuries, were identified as intra-articular in nature during the time of the surveillance. Most injuries occurred during the regular season (71.2%; 67/94) and during a game (44.6%; 42/94). Players who sustained intra-articular hip injuries had significantly higher total man-games missed compared with those with all other groin injuries (mean ± SD, 8.5 ± 23.0 vs. 1.2 ± 4.2 missed games; P = .0001). The most frequent intra-articular hip diagnoses made in this cohort were hip labral tear (69.1%), followed by hip osteoarthritis (13.8%), hip loose body (6.3%), and hip femoroacetabular impingement (5.3%). The incidence of intra-articular hip injuries per 1000 player-game hours was not different between goaltenders (1.97) and other on-ice players (defensemen, 1.43; forwards, 1.38) (relative risk [RR], 1.40; 95% CI, 0.86-1.40; P = .22). However, injuries per 1000 player-game appearances were significantly higher in goaltenders (1.84) compared with other on-ice players (defensemen, 0.47; forwards, 0.34) (RR, 4.78; 95% CI, 2.94-7.76; P < .0001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip labral tears are the most frequently encountered intra-articular hip injury in the NHL player and can lead to an average of 8 man-games missed per injury. Goaltenders were not at higher risk when measuring injuries per hours played but were at significantly greater risk of an intra-articular hip injury than other on-ice players (RR, 4.7) when measured per game played."
+    }
+  ],
+  "injury_query": "hip labral tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

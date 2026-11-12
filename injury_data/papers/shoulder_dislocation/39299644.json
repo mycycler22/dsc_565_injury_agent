@@ -1,0 +1,31 @@
+{
+  "pmid": "39299644",
+  "title": "Sex and age-specific analysis of basketball-related shoulder dislocations in the United States: a national injury data review.",
+  "year": "2025",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "HYPOTHESIS",
+      "text": "Basketball-related shoulder dislocations frequently present to emergency departments in the US. This study aimed to identify the primary mechanisms, distributions, and trends of these injuries."
+    },
+    {
+      "label": "METHODS",
+      "text": "All data were extracted from the National Electronic Injury Surveillance System, a public database representing approximately 100 US emergency departments. National Electronic Injury Surveillance System was queried for all basketball-related injuries and shoulder dislocations from January 1, 2013 to December 31, 2022. Clinical narratives were used to assign injury mechanisms and the presence of player contact."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between 2013 and 2022, 52,417 basketball-related shoulder dislocations were reported. A total of 30.9% of all basketball-related shoulder injuries were dislocations and 30.5% of all joint dislocations occurred at the shoulder. Basketball-related shoulder dislocations decreased significantly from 2013 to 2022 (P < .001). From 2019 to 2020, a 31.0% decrease was identified. The most common mechanism of shoulder dislocation was falling (36.9%). Males accounted for 92.5% of all shoulder dislocations. However, females were significantly more likely than males to dislocate their shoulders from player contact (15.5% of female dislocations vs. 10.0% of male dislocations, P < .001). Only 0.2% of all dislocations resulted in hospitalization. A total of 10.4% of dislocations resulted from contact with another player. Compared to other age groups, young adults (43.3%) and adolescents (42.7%) presented with the majority of shoulder dislocations. Children were more likely to dislocate their shoulder from sustaining a direct blow (25.5%), while all other age groups were more likely to have fallen. Children were also the most likely to sustain a dislocation involving player contact (23.9%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Basketball-related shoulder dislocations decreased significantly from 2013 to 2022. Females and children were significantly more likely to present with a dislocation by sustaining player contact. Across all demographics, teaching athletes how to break their falls safely may decrease rates of dislocation by minimizing impacts on a posteriorly outstretched arm."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "26707957",
+  "title": "Do isometric and isotonic exercise programs reduce pain in athletes with patellar tendinopathy in-season? A randomised clinical trial.",
+  "year": "2016",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Many athletes with patellar tendinopathy participate in sports with symptoms during or after activities. Current treatments do not decrease pain in-season; eccentric exercises in-season result in an increase in pain. This study examined if isometric and isotonic exercises relieved pain in competing athletes with patellar tendinopathy."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Randomised clinical trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Jumping athletes with patellar tendinopathy playing at least three times per week participated in this study. Athletes were randomised into an isometric or isotonic exercise group. The exercise programs consisted of four isometric or isotonic exercise sessions per week for four weeks. Pain during a single leg decline squat (SLDS) on a Numeric Rating Scale (NRS; 0-10) was used as the main outcome measure; measurements were completed at baseline and at 4-week follow-up."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-nine athletes were included in this study. Median pain scores improved significantly over the 4-week intervention period in both the isometric group (Z=-2.527, p=0.012, r=-0.63) and isotonic group (Z=-2.952, p=0.003, r=-0.63). There was no significant difference in NRS pain score change (U=29.0, p=0.208, r=0.29) between the isometric group (median (IQR), 2.5 (1-4.5)) and isotonic group (median (IQR), 3.0 (2-6))."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This is the first study to show a decrease in patellar tendon pain without a modification of training and competition load and the first study to investigate isometric exercises in a clinical setting. Both isometric and isotonic exercise programs are easy-to-use exercises that can reduce pain from patellar tendinopathy for athletes in-season."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

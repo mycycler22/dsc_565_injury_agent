@@ -1,0 +1,35 @@
+{
+  "pmid": "36125819",
+  "title": "Investigation of the Tissue Degenerative Impact of Increased BMI in Achilles Tendon via Strain Elastography and Finite Element Analysis.",
+  "year": "2023",
+  "journal": "Current medical imaging",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "This study is focused on establishing a relationship between poor muscle activity faced by obese individuals due to the change in stiffness of the intramuscular mass of the lower limb. This issue is also common among athletes and physically active teenagers."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The study is aimed at a subject assessment diagnosis technique named as Strain Elastography (SE) to measure muscle strain. Further, Finite Element Modelling (FEM) technique is used to investigate the strain and/or deformations generated in the Achilles Tendon (AT) models, which were categorized according to their Body Mass Index (BMI) through computationally applied loadings."
+    },
+    {
+      "label": "METHODS",
+      "text": "Total 54 volunteers with an average age of 21.85 ± 1.28 years were categorized into three groups according to their BMI (kg/m<sup>2</sup>); under BMI < 18.5 (n=14), normal BMI = 18.5-24.9 (n=20) and over BMI/obese > 25.0 (n=20). Additionally, multiple correlational analyses were performed between full range of BMI values and SE outcome."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The presence of significant difference (p<0.05) was measured between different categories for BMI, BFMI, FFMI, DLFC, tendon length, tendon thickness and SR. Moreover, multiple correlational analyses and scatter plot strengthen the results. For FEM simulations, the maximum deformation was observed at the proximal end of the tendon in all three groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "It can be concluded that change in tendon stiffness and the resulting change in tendon structure was visualized with increased BMI. Moreover, obese individuals are more prone to tendon injury due to the increment in tendon thickness which causes bulging of the AT due to higher loads."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

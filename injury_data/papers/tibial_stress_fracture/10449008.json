@@ -1,0 +1,31 @@
+{
+  "pmid": "10449008",
+  "title": "Ground reaction forces, bone characteristics, and tibial stress fracture in male runners.",
+  "year": "1999",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Tibial stress fracture is a common overuse running injury resulting from repetitive mechanical loading. This research project aimed to determine whether runners with a history of tibial stress fracture (TSF) differ in tibial bone geometry, tibial bone mass, and ground reaction force (GRF) parameters during running from those who have never sustained a stress fracture (NSF)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty-six male running athletes (23 TSF; 23 NSF) ranging in age from 18 to 42 yr were recruited for this cross-sectional study. A force platform was used to measure selected GRF parameters (peak and time to peak for vertical impact force, vertical active force, and horizontal braking force) during running at 4.0 m x s(-1). Tibial bone geometry (cross-sectional dimensions and area) was calculated from a computerized tomography (CT) scan at the junction of the middle and distal thirds. Dual energy x-ray absorptiometry (DXA) provided measurements of tibial bone area, bone mineral content (BMC), and bone mineral density (BMD)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The TSF group had significantly smaller tibial cross-sectional area (P = 0.02) and DXA tibial bone area (P = 0.02), after adjusting for height and weight, than the NSF group. There were no significant differences between groups for GRF, tibial BMC, or tibial BMD."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "These findings support the contention that bone geometry plays a role in stress fracture development and that male athletes with smaller bones in relation to body size are at greater risk for this bony injury."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "36189472",
+  "title": "Syndesmosis injuries in professional rugby players: associated injuries and complications can lead to an unpredictable time to return to play.",
+  "year": "2022",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Syndesmosis injuries are common and increasing in contact sports with a marked impact on players and teams alike. They can result in an unpredictable and often prolonged return to pre-injury level. We aim to evaluate the time to return to play (RTP) after syndesmosis injuries in professional male rugby players."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cohort study including all professional rugby players with syndesmosis injuries, treated both operatively and non-operatively by the senior author was performed. The follow up period was a minimum of 12 months or until RTP. Players with previous ankle injuries or associated ankle fractures were excluded. Outcome measures included players age, body mass index (BMI), field position, seven-a-side or 15-a-side match, mechanism of injury, clinical findings, radiological findings, return to training (RTT), and RTP dates."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For the period July 2015 to July 2019, a total of 13 professional male rugby players were included in the study. The leading mechanism of syndesmosis injury was in contact during a tackle. Six players had a grade 3 injury (40%), 4 players had a grade 2B injury (27%), 2 players had a grade 2A injury (13%) and 3 players had a grade 1 injury (20%). Two of the aforementioned players presented with new contralateral syndesmosis injuries during the study period. The median time for RTT and RTP was 97 days (IQR: 36) and 112 days (IQR: 54), respectively. All players with syndesmosis injuries were able to return to play. No discrepancy was found between seven-a-side and 15-a-side players regarding injury mechanism, injury severity, and RTP."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Most syndesmosis injuries in professional rugby players are acquired during a tackle. These injuries are often unstable, requiring surgical intervention, with an unpredictable recovery period. Injury severity, surgical complications, delayed diagnosis, and associated injuries can prolong this period. The subtype of rugby (seven-a-side and 15-a-side) does not affect the injury severity or return to play."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The median time for RTT and RTP was 97 days (IQR: 36) and 112 days (IQR: 54), respectively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

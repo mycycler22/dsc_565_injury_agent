@@ -1,0 +1,33 @@
+{
+  "pmid": "24129723",
+  "title": "[Evidence-based treatment of combined rotator cuff and SLAP lesions].",
+  "year": "2013",
+  "journal": "Zeitschrift fur Orthopadie und Unfallchirurgie",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "In the face of improved radiological and arthroscopic techniques the diagnosis and treatment of SLAP lesions has recently gained much interest. Originally described as an (isolated) injury of the overhead athlete, it was only recently that the association of SLAP and rotator cuff defects was described in up to 40 % of cases. This study addresses the question of the evidence-based treatment of such frequent, combined lesions."
+    },
+    {
+      "label": "METHODS",
+      "text": "Based on a systematic review of the online databases PubMed, EMBASE, CINAHL and Cochrane Library we identified clinical studies on the treatment of combined SLAP and rotator cuff lesions. Study quality was assessed using levels of evidence and a modified Jadad score. Clinical outcome was assessed through scores and range of motion assessments."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We included 7 studies of 374 patients with a mean age of 53 ± 11 years followed for 35 ± 13 months. Combined lesions have a significant negative effect on isolated rotator cuff or SLAP repair. Patients older than 45 years of age had a significantly better clinical result after biceps tenotomy than SLAP repair with concomitant rotator cuff repair. Biceps tenotomy plus rotator cuff repair showed significantly better range of motion for flexion and rotation than SLAP plus rotator cuff repair."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The frequent combination of SLAP and rotator cuff injury should be considered during assessment and informed consent of shoulder patients. While young patients and isolated SLAP lesions show excellent clinical results after elective repair, combined lesions should be treated with biceps tenotomy and/or debridement plus rotator cuff repair in patients older than 45 years."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

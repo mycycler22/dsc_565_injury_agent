@@ -1,0 +1,32 @@
+{
+  "pmid": "25587745",
+  "title": "Developing guidelines for return to play: consensus and evidence-based approaches.",
+  "year": "2015",
+  "journal": "Brain injury",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sports-related concussions are commonplace at all levels of play and across all age groups. The dynamic, evolving nature of this injury coupled with a lack of objective biomarkers creates a challenging management issue for the sports medicine team. Athletes who return to play following a concussion are known to be at higher risk for an additional brain injury, which necessitates a careful, informed return to play (RTP) process."
+    },
+    {
+      "label": "AIM",
+      "text": "The goal of this paper is to outline historical attempts at developing RTP guidelines and trace their evolution over time, culminating in a discussion of the process and outcomes of the most recent consensus statements/guidelines published by the international Concussion In Sport Group (CISG), the American Academy of Neurology (AAN), the National Athletic Trainers' Association, and the 2013 Team Physician Consensus Statement Update."
+    },
+    {
+      "label": "METHOD",
+      "text": "An evaluation of the pros and cons of these guidelines is presented along with suggestions for future directions. In addition, the Institute of Medicine recently conducted a comprehensive report outlining the current state of evidence regarding youth concussions, which provides specific recommendations for future research."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The different methodologies utilized in the development of consensus statements have distinct advantages and disadvantages, and both approaches add value to the everyday management of sports concussions. Importantly, the overall approach for management of sports concussion is remarkably similar using either consensus-based or formal evidence-based methods, which adds confidence to the current guidelines and allows practitioners to focus on accepted standards of clinical care. Moving forward, careful study designs need to be utilized to avoid bias in selection of research subjects, collection of data, and interpretation of results. Although useful, clinicians must venture beyond consensus statements to examine reviews of the literature that are published in much greater frequency than consensus statements."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "27234265",
+  "title": "Lumbar spondylolysis in the adolescent athlete.",
+  "year": "2016",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Spondylolysis is a common occurrence for adolescent athletes who have low back pain. The injury involves a defect in the pars interarticularis, occurring as a result of repeated hyperextension and rotation."
+    },
+    {
+      "label": "CLINICAL PRESENTATION",
+      "text": "Clinical findings might include tightness of the hip flexors and hamstrings, weakness of the abdominals and gluteals, and an excessive lordotic posture. The validity of several clinical tests were compared alongside magnetic resonance imaging, but were not able to distinguish spondylolysis from other causes of low back pain. Medical referral should be arranged so that medical imaging and diagnostic testing can be completed to insure a proper diagnosis."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Initial intervention includes rest from sport, which may vary from 2 weeks to 6 months. Bracing is also used to help minimize lumbar lordosis and lumbar extension. Exercises that focus on stabilization and spine neutral position should be incorporated in physical therapy intervention. Avoiding end ranges is important while performing exercises to minimize the translational and rotational stresses on the spine. Surgical interventions have also been recommended for athletes who have had persistent low back pain for more than six months with no relief from rest and bracing."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

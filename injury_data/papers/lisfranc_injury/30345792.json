@@ -1,0 +1,48 @@
+{
+  "pmid": "30345792",
+  "title": "Injury Pattern in Ligamentous Lisfranc Injuries in Competitive Athletes.",
+  "year": "2019",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND:",
+      "text": "We report data on the largest cohort to date of patients who sustained a ligamentous Lisfranc injury during sport. To date, the prevalence of concurrent intercuneiform ligament injuries in the competitive athlete with subtle Lisfranc instability has not been reported."
+    },
+    {
+      "label": "METHODS:",
+      "text": "Eighty-two patients (64 males, 18 females) sustained an unstable Lisfranc injury (49 left, 33 right) and met inclusion criteria. Injuries were classified as traditional dislocation (TRAD, first to second TMT ligament tear), medial column dislocation (MCD, second TMT, and medial-middle cuneiform ligament tear), or proximal extension dislocation (PE, first, second, and medial-middle cuneiform ligament tear) and the injury pattern confirmed at surgery. All athletes underwent open reduction with internal fixation (ORIF) of each unstable midfoot segment. Fisher exact tests and 2-tailed t tests were used to analyze statistical significance according to injury pattern, sport, gender difference, hindfoot angle alignment, and injured side ( P < .05)."
+    },
+    {
+      "label": "RESULTS:",
+      "text": "Average age of athletes was 21.0 ± 5.3 years old (range 12-40), and return to sports was 7.5 ± 2.1 months. Injury distribution was as follows: TRAD (n = 40), MCD (n = 17), and PE (n = 23). MCD trended toward a longer return to sport (8.4 ± 3.3 months, P = .074). Football was the most common sport at time of injury (n = 48). Wakeboard athletes (n = 5) were older (31.4 ± 3.2, P = .0002), and MCD tears were more prevalent among them ( P = .061). Basketball (n = 13) players were significantly younger (19.1 ± 2.5 years, P = .028) and returned to sports quicker (5.2 ± 0.7, P = .0002). Return to sport data indicated a typical population for athletes with Lisfranc injury in these sports."
+    },
+    {
+      "label": "CONCLUSION:",
+      "text": "Proximal extension disruption (intercuneiform ligament tear) occurred in 50% of these low-energy Lisfranc athletic injuries. MCD and PE may be more prevalent than previously understood. This is the first study to document the extent, pattern, and prevalence of associated intercuneiform ligament tears in the competitive athlete with a low-energy subtle, unstable Lisfranc injury."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE:",
+      "text": "Level IV, retrospective case series."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [
+    {
+      "section": "RESULTS:",
+      "sentence": "Average age of athletes was 21.0 ± 5.3 years old (range 12-40), and return to sports was 7.5 ± 2.1 months."
+    },
+    {
+      "section": "RESULTS:",
+      "sentence": "MCD trended toward a longer return to sport (8.4 ± 3.3 months, P = .074)."
+    },
+    {
+      "section": "RESULTS:",
+      "sentence": "Basketball (n = 13) players were significantly younger (19.1 ± 2.5 years, P = .028) and returned to sports quicker (5.2 ± 0.7, P = .0002)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "40309573",
+  "title": "Arthroscopic Patellar Tendon Debridement and Distal Pole Osteoplasty for Recalcitrant Patellar Tendinopathy.",
+  "year": "2022",
+  "journal": "Video journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Chronic patellar tendinosis is an overuse injury of the patellar tendon that commonly afflicts jumping athletes."
+    },
+    {
+      "label": "INDICATIONS",
+      "text": "For patients with refractory symptoms that do not respond to extensive physical therapy and rest, surgical management may be considered. Although both open and arthroscopic treatments have been described, arthroscopic treatment allows for more direct access to the diseased dorsal portion of the tendon and allows for faster return to activities and sport."
+    },
+    {
+      "label": "TECHNIQUE DESCRIPTION",
+      "text": "Arthroscopic treatment involves debridement of the diseased portion of the patella tendon and osteoplasty of the distal pole of the patella. The infrapatellar fat pad is first debrided using an arthroscopic shaver and radiofrequency ablation device to the level of the dorsal surface of the patellar tendon. Under direct arthroscopic visualization and corresponding to the location of edema noted on the magnetic resonance image, the diseased portion of the patellar tendon is gently debrided with an arthroscopic shaver. Next, an osteoplasty of the distal pole of the patella is performed to facilitate bleeding and healing of the diseased tendon as well as eliminate any mechanical impingement. Any calcifications within the enthesis can be removed using an arthroscopic biter and resector. An arthroscopic resector is then used to decorticate and smoothen the distal pole of the patella to the level of healthy, bleeding cancellous bone."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Significant improvements in pain and function have been reported with arthroscopic treatment for chronic patellar tendinosis. Patients can expect a 90% return to sport rate following the procedure, with return to preinjury function as soon as 3 to 5 months. This procedure is well tolerated with minimal complications reported."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Arthroscopic patellar tendon debridement and distal pole osteoplasty can be used to treat chronic patellar tendinosis refractory to nonoperative treatment. Improvements in pain and function have been reported with this technique, along with a faster return to sport compared with traditional open techniques."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Patients can expect a 90% return to sport rate following the procedure, with return to preinjury function as soon as 3 to 5 months."
+    }
+  ],
+  "pmcid": "11896889",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Significant improvements in pain and function have been reported with arthroscopic treatment for chronic patellar tendinosis. Patients can expect a 90% return to sport rate following the procedure, with return to preinjury function as soon as 3 to 5 months. This procedure is well tolerated with minimal complications reported."
+    }
+  ]
+}

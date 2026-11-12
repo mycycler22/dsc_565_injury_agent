@@ -1,0 +1,20 @@
+{
+  "pmid": "30014761",
+  "title": "Resting State Electroencephalography and Sports-Related Concussion: A Systematic Review.",
+  "year": "2019",
+  "journal": "Journal of neurotrauma",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sports-related concussion is associated with a range of short-term functional deficits that are commonly thought to recover within a two-week post-injury period for most, but certainly not all, persons. Resting state electroencephalography (rs-EEG) may prove to be an affordable, accessible, and sensitive method of assessing severity of brain injury and rate of recovery after a concussion. This article presents a systematic review of rs-EEG in sports-related concussion. A systematic review of articles published in the English language, up to June 2017, was retrieved via PsychINFO, Medline, Medline In Process, Embase, SportDiscus, CINAHL, and Cochrane Library, Reviews, and Trials. The following key words were used for database searches: electroencephalography, quantitative electroencephalography, qEEG, cranio-cerebral trauma, mild traumatic brain injury, mTBI, traumatic brain injury, brain concussion, concussion, brain damage, sport, athletic, and athlete. Observational, cohort, correlational, cross-sectional, and longitudinal studies were all included in the current review. Sixteen articles met inclusion criteria, which included data on 504 athletes and 367 controls. All 16 articles reported some abnormality in rs-EEG activity after a concussion; however, the cortical rhythms that were affected varied. Despite substantial methodological and analytical differences across the 16 studies, the current review suggests that rs-EEG may provide a reliable technique to identify persistent functional changes in athletes after a concussion. Because of the varied approaches, however, considerable work is needed to establish a systematic methodology to assess its efficacy as a marker of return-to-play."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

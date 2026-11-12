@@ -1,0 +1,47 @@
+{
+  "pmid": "26829609",
+  "title": "Impact of Patellar Tendinopathy on Knee Proprioception: A Cross-Sectional Study.",
+  "year": "2017",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine whether high-level athletes with patellar tendinopathy have diminished knee proprioceptive acuity."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "University research laboratory (institutional)."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Twenty-one basketball and volleyball players with patellar tendinopathy (13 men and 8 women; mean age 24.5 ± 3.6; body mass index = 22.5 ± 2.0 kg/m) and an equal number of athletes without symptoms of patellar tendinopathy injury were included in this study."
+    },
+    {
+      "label": "ASSESSMENTS",
+      "text": "Participants underwent knee proprioception assessments on a single day. Furthermore, age, sex, height, weight, VISA-P (Victorian Institute of Sport Assessment) questionnaire sports participation, medical history, knee injuries, previous treatment, and medication were obtained."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Knee proprioception was evaluated by assessing sense of resistance, using a weight discrimination protocol, and joint position sense (JPS)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No significant differences were observed in JPS at 30 and 60 degrees of knee flexion between groups (P = 0.165 and 0.481, respectively). In regard to the ability to discriminate weight, significant differences between the 2 groups were found with the tendinopathy group showing a higher percentage of error (P = 0.009), namely when the set of incremental weights varied by 10% from the standard weight."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes with patellar tendinopathy have a diminished perception of force signals required for weight discrimination, whereas JPS remains unaffected in these athletes."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

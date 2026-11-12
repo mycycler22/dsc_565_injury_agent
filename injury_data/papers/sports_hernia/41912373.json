@@ -1,0 +1,32 @@
+{
+  "pmid": "41912373",
+  "title": "Does Adding a Pilates Exercise Program Enhance Recovery Outcomes for Sports Hernia? A Randomized Controlled Trial.",
+  "year": "2026",
+  "journal": "Journal of integrative and complementary medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND OBJECTIVES",
+      "text": "Athletic pubalgia, commonly referred to as sports hernia, is a recognized cause of chronic groin pain in athletes. This study aimed to evaluate whether adding Pilates to a rehabilitation program that included low-level laser therapy (LLLT) and low-intensity ultrasound (LIUS) would provide superior outcomes in pain reduction and in functional mobility and hip function."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "In this randomized controlled trial, 88 male participants (18-45 years) diagnosed with sports hernia were randomly assigned to either an experimental group (Pilates + LLLT + LIUS) or a control group (LLLT + LIUS). Both groups received treatment three times per week for 6 weeks. Pain (primary outcome) was assessed using the Visual Analog Scale (VAS), functional mobility and hip function (secondary outcomes) were evaluated with the Lower Extremity Functional Scale (LEFS) and the Harris Hip Score (HHS), respectively, at baseline, after 6 weeks of intervention, and at a 6-week follow-up."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Both groups demonstrated significant improvements across all outcomes over time (<i>p</i> < 0.001). Compared with controls, the experimental group showed greater reductions in pain (VAS mean difference: -0.84; 95% CI: -1.26 to -0.42; <i>p</i> = 0.003); however, this did not exceed the minimal clinically important difference. In contrast, functional mobility (LEFS mean difference: +17.07; 95% CI: 14.88-19.26; <i>p</i> < 0.001) and hip function (HHS mean difference: +11.78; 95% CI: 9.10-14.46; <i>p</i> < 0.001) demonstrated both statistical and clinical significance in the experimental group compared with controls."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Incorporating Pilates into rehabilitation programs resulted in modest additional pain relief, yielding clinically meaningful improvements in functional mobility and hip function. Pilates can be considered a valuable complement to conventional modalities in sports hernia rehabilitation."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

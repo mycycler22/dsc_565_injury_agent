@@ -1,0 +1,28 @@
+{
+  "pmid": "16914990",
+  "title": "Sport-related concussion in the young athlete.",
+  "year": "2006",
+  "journal": "Current opinion in pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "The purpose of this review is to present an overview of sport-related concussion in the young athlete and review recent publications of clinical and scientific importance."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Recent findings show that young athletes are more susceptible to concussions than older athletes and more likely to develop second impact syndrome, as well as long-term negative cumulative consequences. Further, ongoing research suggests a more prolonged disturbance of brain function following a concussion than previously believed."
+    },
+    {
+      "label": "SUMMARY",
+      "text": "Given the increased vulnerability of the young athlete, current research suggests conservative management of concussion and return-to-play decisions. A decision tree diagram to assist the practitioner in making return-to-play recommendations for the young athlete is included in this review."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

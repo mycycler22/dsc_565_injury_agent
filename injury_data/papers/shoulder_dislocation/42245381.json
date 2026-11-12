@@ -1,0 +1,61 @@
+{
+  "pmid": "42245381",
+  "title": "Player Performance, Return-to-Play, and Recurrence Rates After Operative and Nonoperative Treatment for Anterior Shoulder Dislocation in Elite UEFA Professional Soccer Players: A Matched Cohort Analysis From 2010 to 2024.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder dislocation injuries may require prolonged recovery and absence from play, with risks of recurrent instability. The impact of shoulder dislocation on return-to-play (RTP) time and player performance in professional soccer athletes remains poorly defined."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the rate and timing of RTP, risk of recurrence, and player performance after shoulder dislocation in elite professional soccer athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive Epidemiology Study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Professional soccer athletes who sustained a shoulder dislocation between 2010 and 2024 across the 5 major European soccer leagues with a minimum 1-year follow-up were identified using publicly available records. Injured athletes were matched by position, age, height, season, experience, and preinjury minutes played and compared to uninjured controls. RTP rates, recurrence, field time, and performance up to 4 seasons after injury were assessed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 118 soccer athletes with shoulder dislocations were included (38% defenders, 23% attackers, 20% goalkeepers, and 19% midfielders). Mean age at time of injury was 26.2 ± 4.2 years. Overall, 87% returned to the same level within 2 seasons after shoulder dislocation. Injured athletes missed a median of 68 days and 10 games, with goalkeepers missing more days (124 vs 60, <i>P</i> < .001) and games (21 vs 8, <i>P</i> < .001) compared to outfield players. Recurrence occurred in 18% at a mean time of 2.6 ± 2.4 years, with a higher risk in athletes ≤25 years (26% vs 12%, <i>P</i> = .046). By treatment, 59% and 41% underwent operative and nonoperative management, respectively, with similar recurrence rates (17.1% vs 18.8%, <i>P</i> = .823) but longer time to recurrence in the operative group (3.82 ± 2.91 vs 1.41 ± 0.69 years, <i>P</i> = .009). Injured athletes played significantly fewer games, total minutes, and minutes per game during the index season and at 1 and 2 seasons after shoulder injury compared with matched controls. However, performance metrics and RTP rates in all seasons after injury remained comparable to matched controls across all positions and treatment groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Professional soccer athletes returned to play at a high rate and a median of 68 days after shoulder dislocation, with an 18% recurrence rate. Despite reduced field time for up to 2 seasons after injury, overall player performance and RTP were not adversely affected."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "By treatment, 59% and 41% underwent operative and nonoperative management, respectively, with similar recurrence rates (17.1% vs 18.8%, <i>P</i> = .823) but longer time to recurrence in the operative group (3.82 ± 2.91 vs 1.41 ± 0.69 years, <i>P</i> = .009)."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Professional soccer athletes returned to play at a high rate and a median of 68 days after shoulder dislocation, with an 18% recurrence rate."
+    }
+  ],
+  "pmcid": "13231038",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 118 soccer athletes with shoulder dislocations were included (38% defenders, 23% attackers, 20% goalkeepers, and 19% midfielders). Mean age at time of injury was 26.2 ± 4.2 years. Overall, 87% returned to the same level within 2 seasons after shoulder dislocation. Injured athletes missed a median of 68 days and 10 games, with goalkeepers missing more days (124 vs 60, P < .001) and games (21 vs 8, P < .001) compared to outfield players. Recurrence occurred in 18% at a mean time of 2.6 ± 2.4 years, with a higher risk in athletes ≤25 years (26% vs 12%, P = .046). By treatment, 59% and 41% underwent operative and nonoperative management, respectively, with similar recurrence rates (17.1% vs 18.8%, P = .823) but longer time to recurrence in the operative group (3.82 ± 2.91 vs 1.41 ± 0.69 years, P = .009). Injured athletes played significantly fewer games, total minutes, and minutes per game during the index season and at 1 and 2 seasons after shoulder injury compared with matched controls. However, performance metrics and RTP rates in all seasons after injury remained comparable to matched controls across all positions and treatment groups."
+    },
+    {
+      "section": "Return to Play",
+      "text": "Overall, 87.3% (n = 103/118) of players who sustained a shoulder dislocation returned to play successfully at the same level of competition. Of these, 69.5% (n = 82) returned in the same season of injury, and 84.7% (n = 100) returned within 1 season of injury. Injured athletes missed a median of 68 days (range, 4-222 days) and 10 games (range, 1-41 games). By player position, goalkeepers had a significantly lower rate of RTP in the same index season of injury (n = 11/23, 47.8%) compared with outfield players (n = 71/95, 74.7%; P = .012). Goalkeepers also missed significantly more days (median 124 [IQR, 85-159] vs 60 [IQR, 25-92], z = 4.80, P < .001) and games (median 21 [IQR, 13-30] vs 8 [IQR, 4-13], z = 4.67, P < .001) compared to outfield players. No significant differences were observed in RTP rates by player position at any time point after the index season. Player injury characteristics and RTP outcomes are summarized in Table 2."
+    },
+    {
+      "section": "TABLE: Injury Characteristics and Return to Play a",
+      "text": "Characteristic | Value\nPrimary shoulder dislocation (n = 118)\nDays missed | 68 [31-106]\nGames missed | 10 [5-16]\nPrimary treatment\nSurgical management | 69 (58.5)\nNonoperative management | 49 (41.5)\nReturn to play\nWithin same season of injury | 82 (69.5)\nWithin 1 season after injury | 100 (84.7)\nWithin 2 seasons after injury | 103 (87.3)\nWithin 3 seasons after injury | 103 (87.3)\nWithin 4 seasons after injury | 103 (87.3)\nRecurrence of shoulder dislocation\nPlayers with recurrence | 21 (17.8)\nTotal No. of shoulder redislocations | 24\nTime to redislocation, y | 2.63 ± 2.41\nDays missed | 56 [16-103]\nGames missed | 7 [3-20]\nSecondary treatment\nSurgical management | 14 (58.3)\nNonoperative management | 10 (41.6)"
+    }
+  ]
+}

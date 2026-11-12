@@ -1,0 +1,20 @@
+{
+  "pmid": "42976470",
+  "title": "Sports-Related Back Pain and Injuries: From Muscle Strain to Spondylolisthesis.",
+  "year": "2026",
+  "journal": "Southern medical journal",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Back pain is common in both the general population and young athletes, with risk increasing in sports that involve repetitive extension, rotation, and axial loading. Although most cases resolve with time, accurate diagnosis is essential to distinguish common musculoskeletal causes from more serious conditions. This article reviews key causes of athletic back pain, including muscle strain, mechanical low back pain, spondylolysis and spondylolisthesis, lumbar disc herniation, and sacroiliac joint dysfunction. It also examines diagnosis, treatment, and return to play considerations. Early recognition and appropriate management help ensure a safe and timely return to sport."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

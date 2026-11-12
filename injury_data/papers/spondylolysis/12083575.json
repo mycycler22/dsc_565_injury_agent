@@ -1,0 +1,24 @@
+{
+  "pmid": "12083575",
+  "title": "Spondylolysis: returning the athlete to sports participation with brace treatment.",
+  "year": "2002",
+  "journal": "Orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Between 1988 and 1995, 73 adolescent athletes treated with the Boston Overlap Brace for spondylolysis were reviewed to evaluate improvement in pain score and activity level. A favorable clinical outcome was achieved in 80%. Girls and boys who participated in high-risk sports were five times more likely to have an unfavorable clinical outcome than those who participated in low-risk sports (odds ratio = 5, 95% confidence interval = 2.4-7.5, P = .003). In addition, acute onset of pain and hamstring tightness were associated with a worse outcome. Athletes with symptomatic spondylolysis treated with an antilordotic brace can expect improvement in their clinical course and return to sports participation in 4-6 weeks."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Athletes with symptomatic spondylolysis treated with an antilordotic brace can expect improvement in their clinical course and return to sports participation in 4-6 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

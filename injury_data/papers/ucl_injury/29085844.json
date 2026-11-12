@@ -1,0 +1,39 @@
+{
+  "pmid": "29085844",
+  "title": "Trends in Sports-Related Elbow Ulnar Collateral Ligament Injuries.",
+  "year": "2017",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Elbow ulnar collateral ligament (UCL) injuries are common, particularly in adolescent athletes playing overhead sports. While the incidence and outcomes of surgical UCL injuries are well documented, the nonsurgical UCL injury patterns and injury management in this population are not yet known."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to retrospectively assess the injury severity and subsequent management of UCL injuries among competitive athletes aged 11 to 22 years. We hypothesized that nonsurgical UCL injuries would occur more frequently in younger athletes compared with older athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiological study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Electronic medical records (using International Classification of Diseases, 9th Revision and 10th Revision and Current Procedural Terminology codes) and keyword searches were used to identify all patients with sports-related UCL injuries between January 2000 and April 2016. A total of 136 records were included. Patients were stratified into 3 age brackets (age 11-13 years, n = 17; age 14-16 years, n = 49; age 17-22 years, n = 70). There were no prior elbow surgical interventions. The main outcome measures included the frequency and severity of UCL injuries and injury management (surgical, nonsurgical). Independent variables included age, UCL injuries per year, and sport classification."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 53 surgical and 83 nonsurgical UCL injuries. The number of nonsurgical cases increased 9-fold from 2000-2008 to 2009-2016. The UCL injuries were distributed as follows: 60 sprains, 39 partial tears, 36 ruptures, and 1 rerupture. Moreover, 7% of sprains, 51% of partial tears, and 78% of ruptures underwent UCL reconstruction. Nonsurgical management was most common in the youngest athletes (age 11-13 years, 100.0% of total injuries; age 14-16 years, 71.4% of total injuries; and age 17-22 years, 44.3% of total injuries) (<i>P</i> = .007). UCL injury volume was most commonly associated with javelin (odds ratio, 6.69; 95% CI, 0.72-61.62; <i>P</i> = .07) and baseball (odds ratio, 1.55; 95% CI, 0.69-3.51; <i>P</i> = .32)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Younger athletes sustained less severe UCL injuries more often than older athletes. Participation in javelin and baseball was associated with a greater likelihood of UCL injuries based on our dataset. This is the first study to provide data on the volume of nonsurgical UCL injuries among athletes in various sports."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

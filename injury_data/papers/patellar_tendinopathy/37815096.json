@@ -1,0 +1,45 @@
+{
+  "pmid": "37815096",
+  "title": "Association Between Physical Tests and Patients-Reported Outcomes in Athletes Performing Exercise Therapy for Patellar Tendinopathy: A Secondary Analysis of the JUMPER Study.",
+  "year": "2023",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Physical tests are commonly used in patellar tendinopathy to aid the clinical diagnosis, assess the prognosis, and monitor treatment. However, it is still unknown whether these physical measures are associated with patient-reported outcomes after exercise therapy."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To identify the prognostic value of baseline physical test results and to determine the association between physical response after exercise therapy and clinical improvement over 24 weeks."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study recruited 76 consecutive athletes with patellar tendinopathy who were randomized to 2 different programs of exercise therapy for 24 weeks. Athletes underwent a range of physical tests before and during exercise therapy (12 and 24 weeks), including isometric muscle strength (quadriceps and hip abductors), muscle flexibility (quadriceps, hamstrings, soleus, and gastrocnemius), vertical jump height, and visual analog scale (VAS) scores by palpation, after 3 jump trials, and after single-leg squat (VAS-SLS). The Victorian Institute of Sports Assessment-Patella (VISA-P) questionnaire was used as the primary patient-reported outcome. Linear mixed-effect models were used to assess the prognostic value of baseline physical tests. The change in VISA-P score was further dichotomized into clinical responsiveness (≥14 points) and nonresponsiveness (<14 points). Multiple linear and logistic regression models were performed to evaluate associations between physical response and clinical improvement."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 76 included patients, 67 (88%) had complete follow-ups. The estimated mean VISA-P score increased by 23 points (95% CI, 19-28 points) after 24 weeks. No association was found between any baseline physical test results and a 24-week change in VISA-P score (all <i>P</i><sub>interaction</sub> > .2, using the likelihood ratio test). Improvement in VAS-SLS after exercise therapy was not associated with VISA-P improvement after adjustment (β = -1.76; <i>P</i> = .01; Bonferroni-corrected <i>P</i> = .10; <i>R</i><sup>2</sup> = 36.3%). No associations were found between changes in other physical test results and clinical improvement (all <i>P</i> > .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In patients with patellar tendinopathy, physical test results including strength and flexibility in the lower limb, jump performance, and pain levels during pain-provoking tests were not identified as prognostic factors for patient-reported outcomes after exercise therapy. Similarly, changes in physical test results were not associated with changes in patient-reported outcomes after adjustments. These results do not support using physical test results to estimate prognosis or monitor treatment response."
+    },
+    {
+      "label": "REGISTRATION",
+      "text": "NCT02938143 (ClinicalTrials.gov identifier)."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

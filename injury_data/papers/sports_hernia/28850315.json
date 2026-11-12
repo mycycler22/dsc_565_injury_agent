@@ -1,0 +1,40 @@
+{
+  "pmid": "28850315",
+  "title": "Imaging of Groin Pain: Magnetic Resonance and Ultrasound Imaging Features.",
+  "year": "2017",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Evaluation of groin pain in athletes may be challenging as pain is typically poorly localized and the pubic symphyseal region comprises closely approximated tendons and muscles. As such, magnetic resonance imaging (MRI) and ultrasound (US) may help determine the etiology of groin pain."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "A PubMed search was performed using the following search terms: ultrasound, magnetic resonance imaging, sports hernia, athletic pubalgia, and groin pain. Date restrictions were not placed on the literature search."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Clinical review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS",
+      "text": "MRI is sensitive in diagnosing pathology in groin pain. Not only can MRI be used to image rectus abdominis/adductor longus aponeurosis and pubic bone pathology, but it can also evaluate other pathology within the hip and pelvis. MRI is especially helpful when groin pain is poorly localized. Real-time capability makes ultrasound useful in evaluating the pubic symphyseal region, as it can be used for evaluation and treatment."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MRI and US are valuable in diagnosing pathology in athletes with groin pain, with the added utility of treatment using US-guided intervention. Strength-of Recommendation Taxonomy: C."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

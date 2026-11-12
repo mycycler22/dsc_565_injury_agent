@@ -1,0 +1,31 @@
+{
+  "pmid": "37355594",
+  "title": "High return to sport rate and good patient-reported outcomes in recreational athletes following simple elbow dislocations.",
+  "year": "2023",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The purpose of this study was to investigate outcomes and return to sport metrics in recreational athletes who suffered simple elbow dislocations and were treated operatively or nonoperatively."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study included patients between the ages of 16 and 65 who were recreational athletes and had experienced a simple elbow dislocation, with at least 2 years having passed since the injury. Patient-reported outcomes including Mayo Elbow Performance Score (MEPS), Subjective Elbow Value (SEV), Oxford Elbow Score (OES) and Visual Analog Scale (VAS) were collected. Return to sport metrics were assessed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 44 patients (21 females, mean age 43.8 years [95% CI, 39.1-48.5]) who were recreational athletes before their injury completed follow-up at mean 7.6 years (95% CI, 6.7-8.5). There were 29 patients (65.9%) who were treated operatively. Mean MEPS was 93.3 (95% CI, 90.2-96.4), mean SEV was 94.9 (95% CI, 91.9-97.9) and mean OES was 43.3 (95% CI, 41.3-45.4). A total of 36 (81.8%) patients returned to their pre-injury sport. Mean time to return to sport was 21.7 (95% CI, 16.8-26.5) weeks. There was a significant difference in OES (P = .019) and SEV (P = .030) that favored the nonoperative group; however, no significant differences for MEPS, VAS, satisfaction, arc of motion and return to sport were present between groups. A total of five (11.4%) complications were observed and one (2.3%) required revision."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Good outcomes and a high return to sport rate can be expected in recreational athletes following operative and nonoperative treatment of simple elbow dislocations. However, as many as one-in-five patients may not return to pre-injury sport."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

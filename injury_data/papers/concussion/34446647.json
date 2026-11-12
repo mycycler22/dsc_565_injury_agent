@@ -1,0 +1,43 @@
+{
+  "pmid": "34446647",
+  "title": "Incidence of Concussion and Time to Return-to-Play in the National Rugby League.",
+  "year": "2022",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To examine the rates of concussion and recovery time over the course of 2 seasons of the National Rugby League (NRL)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "The NRL match play concussion injury surveillance system."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "All NRL players who participated in the 2017 and 2018 season."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "The (1) frequency of sideline injury surveillance identified head impact events in real-time during the games, (2) frequency of head injury assessments conducted by the medical staff, (3) frequency of medically diagnosed concussions, (4) number of days to medical clearance to return-to-play, and (5) number of games missed after concussion."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "There were 472 head injury assessments conducted during the games and 149 medically diagnosed concussions over the course of 2 NRL seasons (1 concussion every 2.70 games). The median number of days until medical clearance was 6 (M = 6.85, SD = 8.03, interquartile range = 4-7; range = 0-79 days). There was a statistically significant difference in the number of days to be medically cleared to return to full contact or match play between seasons (U = 3517.00, P = 0.001), and the percentage of players medically cleared to return-to-play at 5 days after injury was 60.6% in 2017 and 27.6% in 2018. Most players (87.9%) did not miss a game after injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There is approximately one concussion sustained for every 3 games in the NRL. Most players are medically cleared to return-to-play in 4 to 7 days."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

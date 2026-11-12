@@ -1,0 +1,39 @@
+{
+  "pmid": "37332531",
+  "title": "MRI Findings Associated With Anterior Cruciate Ligament Tears in National Football League Athletes.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) tears are a high-frequency injury requiring a lengthy recovery in professional American football players. Concomitant pathology associated with ACL tears as identified on magnetic resonance imaging (MRI) is not well understood in these athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the MRI findings of concomitant injuries associated with ACL tears among athletes in the National Football League (NFL)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Of 314 ACL injuries in NFL athletes from 2015 through 2019, 191 complete MRI scans from the time of primary ACL injury were identified and reviewed by 2 fellowship-trained musculoskeletal radiologists. Data were collected on ACL tear type and location, as well as presence and location of bone bruises, meniscal tears, articular cartilage pathology, and concomitant ligament pathology. Mechanism data from video review were linked with imaging data to assess association between injury mechanism (contact vs noncontact) and presence of concomitant pathology."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Bone bruises were evident in 94.8% of ACL tears in this cohort, most often in the lateral tibial plateau (81%). Meniscal, additional ligamentous, and/or cartilage injury was present in 89% of these knees. Meniscal tears were present in 70% of knees, lateral (59%) more than medial (41%). Additional ligamentous injury was present in 71% of all MRI scans, more often a grade 1/2 sprain (67%) rather than a grade 3 tear (33%), and most often involving the medial collateral ligament (MCL) (57%) and least often the posterior cruciate ligament (10%). Chondral damage was evident in 49% of all MRI scans, with ≥1 full-thickness defect in 25% of all MRI scans, most often lateral. Most (79%) ACL tears did not involve direct contact to the injured lower extremity. Direct contact injuries (21%) were more likely to have a concomitant MCL tear and/or medial patellofemoral ligament injury and less likely to have a medial meniscal tear."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "ACL tears were rarely isolated injuries in this cohort of professional American football athletes. Bone bruises were almost always present, and additional meniscal, ligamentous, and chondral injuries were also common. MRI findings varied by injury mechanism."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "41022866",
+  "title": "A deep learning algorithm for automatic 3D segmentation and quantification of hamstrings musculotendon injury from MRI.",
+  "year": "2025",
+  "journal": "Scientific reports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "In high-velocity sports, hamstring strain injuries are common causes of missed play and have high rates of reinjury. Evaluating the severity and location of a hamstring strain injury, currently graded by a clinician using a semiqualitative muscle injury classification score (e.g. as one method, British Athletics Muscle Injury Classification - BAMIC) to describe edema presence and location, aids in guiding athlete recovery. In this study, automated artificial intelligence (AI) models were developed and deployed to automatically segment edema, hamstring muscle and tendon structures using T2-weighted and T1-weighted magnetic resonance images (MRI), respectively. MR scans were collected from collegiate football athletes at time-of-hamstring injury and return to sport. Volume, length, and cross-sectional (CSA) measurements were performed on all structures and subregions (i.e. free tendon and aponeurosis). The edema and hamstring muscle/tendon AI models compared favorably with ground-truth segmentations. AI volumetric output correlated with ground truth for edema (R = 0.97), hamstring muscles (R ≥ 0.99), and hamstring tendon (R ≥ 0.42) structures. Edema volume and percentage of muscle impacted by edema significantly increased with clinical BAMIC grade (p < 0.05). Taken together, these results demonstrate a promising new approach for AI-based quantification of edema which reflects differing levels of injury severity and supports clinical validity. Main Body."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

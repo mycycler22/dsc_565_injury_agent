@@ -1,0 +1,31 @@
+{
+  "pmid": "35789776",
+  "title": "Are models of plantar heel pain suitable for competitive runners? A narrative review.",
+  "year": "2022",
+  "journal": "Journal of orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Plantar heel pain (PHP), or plantar fasciopathy, is a common condition in active and sedentary populations, contributing to short- and long-term reductions in quality of life. The condition's aetiology and pathophysiology are the subjects of a significant body of research. However, much of this research has been conducted with sedentary participants, and comparatively little research exists in a population of highly-trained athletes focused on performance outcomes. Models for PHP and proposed mechanisms, such as high body mass index or systemic disease, are mostly absent from an athletic population. Even less is known about the origins of pain in PHP. Pain is believed to be a complex multifactorial process and may be experienced differently by sedentary and highly active populations, particularly endurance athletes. Consequently, conservative through to surgical treatment for athletes is informed by literature for a different population, potentially hindering treatment outcomes."
+    },
+    {
+      "label": "AIMS",
+      "text": "The aim of this review, therefore, is to summarise what is known about PHP in athletic populations and propose potential directions for future research."
+    },
+    {
+      "label": "METHODS",
+      "text": "Embase, PubMed, and Scopus using MeSH search terms for PHP and competitive sport and common synonyms."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Two explanatory models for PHP were found. These primarily propose mechanical factors for PHP. It remains unclear how gait, body composition, and psychological factors may differ in an athletic population with and without PHP. Therefore, research in these three areas is needed to inform clinical and training interventions for this population."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

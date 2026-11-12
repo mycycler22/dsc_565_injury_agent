@@ -1,0 +1,40 @@
+{
+  "pmid": "28335617",
+  "title": "Operative Treatment of Traumatic Hallux Valgus in Elite Athletes.",
+  "year": "2017",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Traumatic hallux valgus is an increasingly common injury in the athletic population and represents a unique variant of turf toe. Failure to appropriately recognize and treat these injuries can lead to continued pain, decreased performance, progressive deformities, and ultimately degeneration of the hallux metatarsophalangeal joint. Limited literature currently exists to assist in the diagnosis, management, and operative treatment."
+    },
+    {
+      "label": "METHODS",
+      "text": "Nineteen patients were reviewed in this series, including 12 National Football League, 6 college, and 1 high school player who was a college prospect. The average age for all patients at the time of surgery was 24.4 years (range, 19-33 years). Return to play and complications were evaluated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, good operative results were obtained, with 74% of patients returning to their preinjury level of play at an average recovery time of 3.4 months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Traumatic hallux valgus is an increasingly common injury in the athletic population and represents a unique variant of turf toe. The impact of this injury cannot be overstated, as one-quarter of players were unable to return to play."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, case series."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Overall, good operative results were obtained, with 74% of patients returning to their preinjury level of play at an average recovery time of 3.4 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

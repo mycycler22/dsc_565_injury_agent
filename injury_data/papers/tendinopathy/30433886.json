@@ -1,0 +1,21 @@
+{
+  "pmid": "30433886",
+  "title": "Myths and Facts of In-Office Regenerative Procedures for Tendinopathy.",
+  "year": "2019",
+  "journal": "American journal of physical medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy carries a large burden of musculoskeletal disorders seen in both athletes and aging population. Treatment is often challenging, and progression to chronic tendinopathy is common. Physical therapy, nonsteroidal anti-inflammatory drugs, and corticosteroid injections have been the mainstay of treatment but are not optimal given that most tendon disorders seem to involve degenerative changes in addition to inflammation. The field of regenerative medicine has taken the forefront, and various treatments have been developed and explored including prolotherapy, platelet rich plasma, stem cells, and percutaneous ultrasonic tenotomy. However, high-quality research with standardized protocols and consistent controls for proper evaluation of treatment efficacy is currently needed. This will make it possible to provide recommendations on appropriate treatment options for tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

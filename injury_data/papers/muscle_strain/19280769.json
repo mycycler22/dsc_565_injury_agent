@@ -1,0 +1,25 @@
+{
+  "pmid": "19280769",
+  "title": "Atypical chest pain in athletes.",
+  "year": "2009",
+  "journal": "Current sports medicine reports",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Initial management of chest pain in athletes always should involve assessment for serious, life-threatening causes, such as myocardial infarction. However, atypical chest pain, or chest pain not due to myocardial ischaemia, is a common presentation in the athletic population. This review looks at the possible causes of atypical chest pain in athletes, focusing upon conditions that are more common in athletes than the general population or that have a link to exercise. Causes can be grouped due to the system involved (musculoskeletal, gastrointestinal, respiratory, cardiac) with more common causes including rib stress fractures, costochondritis, muscle strain, gastroesophageal reflux, and exercise-induced asthma. Psychogenic causes can be common in children/adolescents. Return to play is discussed, with some conditions such as myocarditis warranting a long (at least 6 months) absence from training, whereas others such as precordial catch require nothing more than reassurance."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Return to play is discussed, with some conditions such as myocarditis warranting a long (at least 6 months) absence from training, whereas others such as precordial catch require nothing more than reassurance."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

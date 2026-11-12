@@ -1,0 +1,31 @@
+{
+  "pmid": "34006579",
+  "title": "Limited intrarater and interrater reliability of acute ligamentous ankle injuries on 3 T MRI.",
+  "year": "2021",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine the diagnostic reliability of the Schneck grading system for acute ligamentous injuries of (1) the three major ligamentous ankle complexes, (2) the individual ankle ligaments and (3) the Sikka classification for syndesmosis injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "All acute ankle injuries in adult athletes (≥18 years), presenting to the outpatient department of a specialised Orthopaedic and Sports Medicine Hospital, within 7 days postinjury were screened for inclusion. Ankle injuries were excluded if imaging demonstrated a frank ankle fracture or if the 3 T MRI study could not be acquired within 10 days postinjury. Two radiologists graded the three major ligamentous complexes (lateral ankle complex, deltoid complex and syndesmosis complex) and their comprising individual ligaments according the four-grade Schneck grading system. Syndesmotic injuries were classified according the four-grade Sikka classification for consequent injury of the individual syndesmosis ligaments and the deltoid complex. Agreement and kappa (K) statistics were calculated to determine intrarater and interrater reliability."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between September 2016 and September 2018, a total of 92 MR scans were obtained (87 patients). Interrater and intrarater reliability of the Schneck grading system was moderate to substantial for the lateral ankle complex (K=0.47-0.76), fair to almost perfect for the syndesmosis complex (K=0.37-0.89) and fair to moderate for the deltoid complex (K=0.14-0.51). For the individual ligaments, kappa values ranged from moderate to substantial for the anterior talofibular ligament (ATFL) (K=0.55-0.73), fair to substantial for the calcaneofibular ligament (K=0.31-0.62) and fair to almost perfect for the anteroinferior tibiofibular ligament (AITFL) (K=0.36-0.89). Diagnostic reliability of the Sikka classification ranged from moderate to almost perfect (K=0.51-0.95)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Grading of the three major ligamentous complexes and of the individual ankle ligaments according the Schneck grading system resulted in limited diagnostic reliability. When dichotomised for the presence of complete discontinuity, the interrater reliability of the Schneck grading system improved to substantial and almost perfect for the ATFL and AITFL, respectively. Classification of syndesmosis injury according the Sikka classification resulted in moderate interrater reliability."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

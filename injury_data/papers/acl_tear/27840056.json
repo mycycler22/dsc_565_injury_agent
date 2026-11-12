@@ -1,0 +1,35 @@
+{
+  "pmid": "27840056",
+  "title": "Restricted Hip Rotation Is Correlated With an Increased Risk for Anterior Cruciate Ligament Injury.",
+  "year": "2017",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The primary purpose was to compare ipsilateral hip internal rotation (IR) in male and female athletes with or without an anterior cruciate ligament (ACL) tear. A secondary purpose was to compare radiographic markers of femoroacetabular impingement (FAI) in patients with or without an ACL tear."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this prospective case-control study, based on a power analysis, a convenience sample of 25 ACL-injured and 25 control patients matched by age and gender were examined over 14 months. The ACL injury group included preoperative patients 12-40 years old with an ACL rupture within the previous 3 months with no prior lower extremity injuries, ligamentous laxity, or arthralgias. Controls included patients presenting with an upper extremity complaint with no history of knee injury. In the outpatient clinic, hip axial rotation range of motion was measured with a goniometer on physical examination and hip radiographs were evaluated for morphologic variations consistent with FAI. Univariate analysis of variance was used to examine differences between groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Each group had 13 males and 12 females, average ages of 22.8 ± 7.2 years (ACL group) versus 24.5 ± 7.9 years (controls; P = .439). The average sum of hip rotation (internal plus external) in patients with an ACL tear was 60.3 ± 12.4° compared with 72.6 ± 17.2° in controls (P = .006). ACL-injured patients had decreased hip IR compared with controls, with respective mean measurements of 23.4 ± 7.6° versus 30.4 ± 10.4° (P = .009). For every 10° increase in hip IR, the odds of having an ACL tear decreased by a factor of 0.419 (P = .015)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Risk of ACL injury is associated with restricted hip IR, and as hip IR increases, the odds of having an ACL tear decreases. In addition, ACL injury is associated with FAI in a generalized population of male and female athletes, although causality cannot be determined and most ACL-injured patients do not exhibit hip complaints."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level II, prognostic, prospective cohort study."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

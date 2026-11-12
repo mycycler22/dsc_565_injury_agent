@@ -1,0 +1,40 @@
+{
+  "pmid": "40041538",
+  "title": "Risk Factors Associated with New Onset of Shoulder Pain and Injury Among the Athletic Population: A Systematic Review of the Literature.",
+  "year": "2025",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "There is a high incidence of shoulder injuries among overhead athletes. Identifying and understanding risk factors for these injuries, particularly those that can be modified, is a necessary step towards being able to effectively develop and implement shoulder specific injury prevention programs. Therefore, the purpose of this systematic review was to identify risk factors associated with a new onset of shoulder pain and injury among the athletic population."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic Review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of the literature was performed within PubMed, Embase, AMED, CINAHL, and EmCare databases. Studies were screened utilizing the following inclusion criteria; (a) athletes currently pain free or no history of pain at baseline, (b) athletes with shoulder and or arm pain originating from a musculoskeletal shoulder problem (c) risk factors captured prospectively (d) pathoanatomy and biomechanics in isolation or in addition to personal characteristics, etc. (e) reporting relative risk, odds ratios, and/or hazard ratios and (f) follow up ≥ 6 months. Due to data heterogeneity, only a descriptive data synthesis was performed. Data were extracted and underwent risk of bias assessment utilizing the Quality in Prognosis Studies (QUIPS) tool. PRISMA guidelines were utilized throughout."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nineteen papers were included. A total of four studies investigated baseball, five handball, three swimming, two tennis, two military, one cricket, one American football, and one with multiple sports, totaling 7,802 athletes. The risk of bias among the included studies was rated from moderate to low overall with no single study being identified as high risk of bias. All studies designs were a level of evidence of II except for two studies that were level III. The most significant risk factors included range of motion, reduced strength, history of local/regional musculoskeletal pain, previous injury, and training load. There are inconsistencies in how injury and pain are defined within studies."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Many risk factors are easily objectifiable and modifiable which may help in developing shoulder injury mitigation strategies. Three of the five significant risk factors for injury can be identified by objective pre-screening measures. While previous pain and injury cannot be mitigated, training loads should be closely monitored and adapted according to other risk factors and the athlete's response."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "2."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

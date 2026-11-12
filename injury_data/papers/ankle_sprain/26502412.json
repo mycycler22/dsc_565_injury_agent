@@ -1,0 +1,53 @@
+{
+  "pmid": "26502412",
+  "title": "Prevention of Lower Extremity Injuries in Basketball: A Systematic Review and Meta-Analysis.",
+  "year": "2015",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Lower extremity injuries are common in basketball, yet it is unclear how prophylactic interventions affect lower extremity injury incidence rates."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To analyze the effectiveness of current lower extremity injury prevention programs in basketball athletes, focusing on injury rates of (1) general lower extremity injuries, (2) ankle sprains, and (3) anterior cruciate ligament (ACL) tears."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "PubMed, MEDLINE, CINAHL, SPORTDiscus, and the Cochrane Register of Controlled Trials were searched in January 2015."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Studies were included if they were randomized controlled or prospective cohort trials, contained a population of competitive basketball athletes, and reported lower extremity injury incidence rates specific to basketball players. In total, 426 individual studies were identified. Of these, 9 met the inclusion criteria. One other study was found during a hand search of the literature, resulting in 10 total studies included in this meta-analysis."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 2."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Details of the intervention (eg, neuromuscular vs external support), size of control and intervention groups, and number of injuries in each group were extracted from each study. Injury data were classified into 3 groups based on the anatomic diagnosis reported (general lower extremity injury, ankle sprain, ACL rupture)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Meta-analyses were performed independently for each injury classification. Results indicate that prophylactic programs significantly reduced the incidence of general lower extremity injuries (odds ratio [OR], 0.69; 95% CI, 0.57-0.85; P < 0.001) and ankle sprains (OR, 0.45; 95% CI, 0.29-0.69; P < 0.001), yet not ACL ruptures (OR, 1.09; 95% CI, 0.36-3.29; P = 0.87) in basketball athletes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In basketball players, prophylactic programs may be effective in reducing the risk of general lower extremity injuries and ankle sprains, yet not ACL injuries."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

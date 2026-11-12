@@ -1,0 +1,28 @@
+{
+  "pmid": "33886525",
+  "title": "Ultrasonographic Technique, Appearance, and Diagnostic Accuracy for Common Shoulder Sports Injuries: A Narrative Review.",
+  "year": "2021",
+  "journal": "JBJS reviews",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "»",
+      "text": "Ultrasonography (US) is valued for its availability, tolerability, low cost, and utility in real-time dynamic evaluation. Its use in diagnosing upper-extremity shoulder injury has expanded, but several features require definition before more widespread adoption can be realized."
+    },
+    {
+      "label": "»",
+      "text": "In particular, the evaluation of rotator cuff tears (RCTs) with US has been extensively studied, and authors generally agree that US is comparable with magnetic resonance imaging for the detection of full-thickness RCTs, whereas partial-thickness RCTs are more difficult to accurately identify with US. Dynamic evaluation is particularly useful for pathologies such as subacromial impingement and glenohumeral instability."
+    },
+    {
+      "label": "»",
+      "text": "US has shown particular usefulness for the assessment of athletes, where there is additional motivation to delay more invasive techniques. US has demonstrated promising results as a diagnostic modality for common shoulder injuries in athletes, and it is an important imaging tool that complements a thorough history and physical examination."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

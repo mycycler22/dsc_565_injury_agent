@@ -1,0 +1,40 @@
+{
+  "pmid": "39724452",
+  "title": "High specificity of an AI-powered framework in cross-checking male professional football anterior cruciate ligament tear reports in public databases.",
+  "year": "2025",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "While public databases like Transfermarkt provide valuable data for assessing the impact of anterior cruciate ligament (ACL) injuries in professional footballers, they require robust verification methods due to accuracy concerns. We hypothesised that an artificial intelligence (AI)-powered framework could cross-check ACL tear-related information from large publicly available data sets with high specificity."
+    },
+    {
+      "label": "METHODS",
+      "text": "The AI-powered framework uses Google Programmable Search Engine to search a curated, multilingual list of websites and OpenAI's GPT to translate search queries, appraise search results and analyse injury-related information in search result items (SRIs). Specificity was the chosen performance metric-the AI-powered framework's ability to accurately identify texts that do not mention an athlete suffering an ACL tear-with SRI as the evaluation unit. A database of ACL tears in male professional footballers from first- and second-tier leagues worldwide (1999-2024) was collected from Transfermarkt.com, and players were randomly selected for appraisal until enough SRIs were obtained to validate the framework's specificity. Player age at injury and time until return-to-play (RTP) were recorded and compared with Union of European Football Associations (UEFA) Elite Club Injury Study data."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Verification of 231 athletes yielded 1546 SRIs. Human analysis of the SRIs showed that 335 mentioned an ACL tear, corresponding to 83 athletes with ACL tears. Specificity and sensitivity of GPT in identifying mentions of ACL tears in a player were 99.3% and 88.4%, respectively. Mean age at rupture was 26.6 years (standard deviation: 4.6, 95% confidence interval [CI]: 25.6-27.6). Median RTP time was 225 days (interquartile range: 96, 95% CI: 209-251), which is comparable to reports using data from the UEFA Elite Club Injury Study."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study shows that an AI-powered framework can achieve high specificity in cross-checking ACL tear reports in male professional football from public databases, markedly reducing manual workload and enhancing the reliability of media-based sports medicine research."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Median RTP time was 225 days (interquartile range: 96, 95% CI: 209-251), which is comparable to reports using data from the UEFA Elite Club Injury Study."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

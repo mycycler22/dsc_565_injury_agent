@@ -1,0 +1,35 @@
+{
+  "pmid": "34631252",
+  "title": "Fractures and Chronic Recurrence are Commonly Associated with Ankle Sprains: a 5-year Population-level Cohort of Patients Seen in the U.S. Military Health System.",
+  "year": "2021",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Whereas ankle-foot injuries are ubiquitous and affect ~16% of military service-members, granularity of information pertaining to ankle sprain subgroups and associated variables is lacking. The purpose of this study was to characterize and contextualize the burden of ankle sprain injuries in the U.S. Military Health System."
+    },
+    {
+      "label": "METHODS",
+      "text": "This was a retrospective cohort study of beneficiaries seeking care for ankle sprains, utilizing data from the Military Health System Data Repository from 2009 to 2013. Diagnosis and procedural codes were used to identify and categorize ankle sprains as isolated lateral, isolated medial, concomitant medial/lateral, unspecified, or concomitant ankle sprain with a malleolar or fibular fracture. Patient characteristics, frequency of recurrence, operative cases, and injury-related healthcare costs were analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 30,910 patients included, 68.4% were diagnosed with unspecified ankle sprains, 22.8% with concomitant fractures, (6.9%) with isolated lateral sprains, (1.7%) with isolated medial sprains and 0.3% with combined medial/lateral sprains. Pertaining to recurrence, 44.2% had at least one recurrence. Sprains with fractures were ~2-4 times more likely to have surgery within one year following injury (36.2% with fractures; 9.7% with unspecified sprains) and had the highest ankle-related downstream costs."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Fractures were a common comorbidity of ankle sprain (one in five injuries), and operative care occurred in 16.4% of cases. Recurrence in this cohort approximates the 40% previously reported in individuals with first-time ankle sprain who progress to chronic ankle instability. Future epidemiological studies should consider reporting on subcategories of ankle sprain injuries to provide a more granular assessment of the distribution of severity."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "3b."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,65 @@
+{
+  "pmid": "40937090",
+  "title": "Return to Sport and Performance Outcomes After Hand Fractures in Professional Baseball Players.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "About 7% of injuries in the Major League Baseball (MLB) involve the hand. Fractures of the hand are not uncommon in professional baseball players while fielding or from being hit by a pitch while batting; however, the outcomes of professional baseball players treated both operatively and nonoperatively are unclear."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to report the return-to-sport (RTS) rate, RTS time, and performance outcomes in professional baseball position players who sustained a hand fracture. The secondary purpose was to compare outcomes between positions and between operatively versus nonoperatively treated players. It was hypothesized that there would be a high RTS rate (>80%) after hand fractures, with no significant decline in offensive performance after RTS."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "The MLB Health and Injury Tracking System database was queried for all Major League and Minor League position players who sustained a metacarpal fracture or phalangeal fracture of any digit from 2011 to 2022. The primary outcomes of interest were RTS rate, RTS time from injury, and offensive performance statistics such as batting average and on-base percentage up to 1 year after injury. RTS outcomes were compared based on player position and operative versus nonoperative treatment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 801 professional baseball position players included, with 156 (19.5%) players treated operatively. Overall, 654 of 801 (81.6%) players were able to RTS at a mean of 58 ± 47 days from injury. Outfielders, infielders, and catchers were able to RTS at similar rates (84% vs 81% vs 80%; <i>P</i> = .440) and in a similar amount of time (58 vs 58 vs 56 days; <i>P</i> = .893). Players treated operatively versus nonoperatively were able to RTS at similar rates (83% vs 82%; <i>P</i> = .740); however, players treated operatively required more time to RTS (86 vs 51 days; <i>P</i> < .001). No significant differences in performance were observed when comparing preinjury to 1 year after injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Players treated operatively did require more time to RTS (86 vs 51 days); however, RTS rate did not differ between operatively versus nonoperatively treated players. At 1 year after injury, players performed similarly compared to preinjury baseline regardless of player position or type of treatment."
+    }
+  ],
+  "injury_query": "hand fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Overall, 654 of 801 (81.6%) players were able to RTS at a mean of 58 ± 47 days from injury."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Outfielders, infielders, and catchers were able to RTS at similar rates (84% vs 81% vs 80%; <i>P</i> = .440) and in a similar amount of time (58 vs 58 vs 56 days; <i>P</i> = .893)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Players treated operatively versus nonoperatively were able to RTS at similar rates (83% vs 82%; <i>P</i> = .740); however, players treated operatively required more time to RTS (86 vs 51 days; <i>P</i> < .001)."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Players treated operatively did require more time to RTS (86 vs 51 days); however, RTS rate did not differ between operatively versus nonoperatively treated players."
+    }
+  ],
+  "pmcid": "12421040",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "There were 801 professional baseball position players included, with 156 (19.5%) players treated operatively. Overall, 654 of 801 (81.6%) players were able to RTS at a mean of 58 ± 47 days from injury. Outfielders, infielders, and catchers were able to RTS at similar rates (84% vs 81% vs 80%; P = .440) and in a similar amount of time (58 vs 58 vs 56 days; P = .893). Players treated operatively versus nonoperatively were able to RTS at similar rates (83% vs 82%; P = .740); however, players treated operatively required more time to RTS (86 vs 51 days; P < .001). No significant differences in performance were observed when comparing preinjury to 1 year after injury."
+    },
+    {
+      "section": "Results",
+      "text": "There were 981 professional baseball players considered for inclusion, with 20 excluded due to non–work-related fractures and 160 pitchers excluded. Overall, 801 professional baseball position players were included from 2011 to 2022 with 263 outfielders, 352 infielders, and 186 catchers. The most common injury mechanisms were batting (49%) and fielding (29%), while the metacarpal (50%) and distal phalanx (19%) were the most common locations of fracture (Table 1). There were 156 (19.5%) players who were treated operatively and 645 treated nonoperatively (Table 1). Players who underwent operative treatment were more likely to experience fracture while fielding (35% vs 28%) and less likely while batting (38% vs 52%) (P = .021). Also, players who underwent operative treatment were more likely to fracture their proximal phalanx (19% vs 10%) and less likely to fracture their distal phalanx (10% vs 22%) (P < .001). Overall, 654 of 801 (81.6%) players were able to RTS at a mean of 57.7 ± 46.7 days after injury. Performance outcomes were found to differ throughout 1 year after injury (Table 2); however, AVG (P = .447), OBP (P = .132), SLG (P = .820), and OPS (P = .460) did not differ when directly comparing preinjury to 1-year postinjury performance."
+    }
+  ]
+}

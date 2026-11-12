@@ -1,0 +1,37 @@
+{
+  "pmid": "34554424",
+  "title": "Are Landing Patterns in Jumping Athletes Associated with Patellar Tendinopathy? A Systematic Review with Evidence Gap Map and Meta-analysis.",
+  "year": "2022",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy (PT) is common and debilitating for jumping athletes. Intriguingly, despite its high prevalence and many research studies, a causal explanation for PT presence remains elusive."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "Our objective was to investigate whether landing biomechanics among jumping athletes are associated with PT and can predict onset."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a systematic review with evidence gap map and meta-analysis. We searched three databases from inception to May 2021 for observational studies or trials evaluating landing biomechanics in jumping athletes with PT (JPTs). We assessed quality with a modified Downs and Black checklist, risk of bias with the Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) tool, and evidence levels with van Tulder's criteria and provided an evidence gap map."
+    },
+    {
+      "label": "RESULTS",
+      "text": "One prospective cohort (moderate quality), one cross-sectional cohort (moderate quality), and 14 case-control (four high-, seven moderate-, and three low-quality) studies, including 104 JPTs, 14 with previous PT, 45 with asymptomatic patellar tendon abnormality (PTA), and 190 controls were retained. All studies had a high risk of bias. Meta-analysis showed an association between lower ankle dorsiflexion and the presence of tendinopathy during drop and spike landings, and JPTs had reduced knee joint power and work during volleyball approach or drop landings (moderate evidence). Limited evidence suggested that JPTs had lower patellar tendon loads during drop landings. Strong or moderate evidence showed no relation between PT and sagittal plane peak knee and hip angles or range of motion; hip, knee, or ankle angles at initial contact (IC); knee angular velocities, peak trunk kinematics, or trunk angles at IC; sagittal plane hip, knee, or ankle moments; and peak vertical ground reaction force (vGRF) and vGRF impulse. Identified gaps were that no study simultaneously investigated athletes with previous PT, current PT, and PTA, and studies of joint angular velocities at IC, ankle and hip angular velocities after touchdown, leg stiffness, loading rate of forces, and muscle activation are lacking."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Despite the voluminous literature, large number of participants, multitude of investigated parameters, and consistent research focus on landing biomechanics, only a few associations can be identified, such as reduced ankle dorsiflexion-plantarflexion range. Further, the quality of the existing literature is inadequate to draw strong conclusions, with only four high-quality papers being found. We were unable to determine biomechanical factors that predicted PT onset, as longitudinal/prospective studies enabling causal inference are absent. The identified gaps indicate useful areas in which to explore causal relationships to inform intervention development. Therefore, high-quality prospective studies are essential to definitively determine whether landing biomechanics play a part in the development, recurrence, or management of PT and represent a potential therapeutic or preventive target alongside non-biomechanical factors."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

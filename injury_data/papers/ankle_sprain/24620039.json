@@ -1,0 +1,36 @@
+{
+  "pmid": "24620039",
+  "title": "Injuries in 13 international Athletics championships between 2007-2012.",
+  "year": "2014",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The International Association of Athletics Federation has systematically surveyed all Athletics injuries in their competitions since 2007 in order to develop strategies for health protection of their athletes."
+    },
+    {
+      "label": "AIMS",
+      "text": "Analysis of frequency and characteristics of injuries during 13 international Athletics championships from 2007 to 2012 regarding different types of championships and discipline categories."
+    },
+    {
+      "label": "METHODS",
+      "text": "The team physicians and the Local Organizing Committee reported daily all injuries on a standardised injury report form during each championship."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 1470 injuries were reported, equivalent to 81.1±4.2 injuries per 1000 registrations of which 36.7±2.9 were expected to result in absence from sports. The incidence of time-loss injuries was significantly higher in competition (29.0±2.6) than in training (5.8±1.9), and in outdoor (46.4±4.0) than in indoor (23.7±6.2) or youth/junior championships (13.2±4.0). While most in-competition time-loss injuries were reported during short distance events (32.5%), combined events had the highest incidence of in-competition time-loss injuries (106±26.5). The most frequent diagnosis was thigh strain (28.2%), followed by lower leg strain and ankle sprain. Injury location varied between different discipline categories: in long distances the lower leg, in Marathon the foot and in throws the upper extremity were mainly affected."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The incidence of injuries varied substantially between different types of Athletics championships and between discipline categories. Special attention should be paid to combined events, running disciplines and (thigh) strain to better understand the injury mechanisms and risk factors and develop related preventive measures."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

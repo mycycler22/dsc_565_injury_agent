@@ -1,0 +1,31 @@
+{
+  "pmid": "29114336",
+  "title": "Physical Exam and Evaluation of the Unstable Shoulder.",
+  "year": "2017",
+  "journal": "The open orthopaedics journal",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The clinical evaluation of the patient with shoulder instability can be challenging. The pathological spectrum ranges from the straightforward \"recurrent anterior dislocation\" patient to the overhead athlete with a painful shoulder but not clear instability episodes. Advances in shoulder arthroscopy and imaging have helped in understanding the anatomy and physiopathology of the symptoms. The aim of this general article is to summarize the main examination manoeuvres that could be included in an overall approach to a patient with a suspicion of instability."
+    },
+    {
+      "label": "MATERIAL AND METHODS",
+      "text": "In order to achieve the above-mentioned objective, a thorough review of the literature has been performed. Data regarding sensibility and specificity of each test have been included as well as a detailed description of the indications to perform them. Also, the most frequent and recent variations of these diagnostic tests are included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Laxity and instability should be considered separately. For anterior instability, a combination of apprehension, relocation and release tests provide great specificity. On the other hand, multidirectional or posterior instability can be difficult to diagnose especially when the main complain is pain."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A detailed interview and clinical examination of the patient are mandatory in order to identify a shoulder instability problem. Range of motion of both shoulders, clicking of catching sensations as well as pain, should be considered together with dislocation and subluxation episodes. Specific instability and hyperlaxity tests should be also performed to obtain an accurate diagnosis."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

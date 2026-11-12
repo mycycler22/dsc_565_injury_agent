@@ -1,0 +1,32 @@
+{
+  "pmid": "40697296",
+  "title": "Outcomes after ulnar collateral ligament injuries in non-throwing athletes: a systematic review.",
+  "year": "2025",
+  "journal": "JSES reviews, reports, and techniques",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) injuries are common among throwing athletes due to the biomechanical forces acting on the elbow during the throwing motion. However, little data exist on UCL injuries in non-throwing athletes. The purpose of this study is to examine the functional outcome and return to sport after operative treatment of UCL injuries in non-throwing athletes and thereby better inform treatment guidelines for this patient population."
+    },
+    {
+      "label": "METHODS",
+      "text": "This systematic review searched PubMed, EMBASE, and SPORTDiscus from database inception until November 1, 2024, for data regarding outcomes after UCL injuries in non-throwing athletes. Article types included case series, retrospective or prospective cohort studies, or randomized controlled trials. Article quality was graded via the Methodological Index for Non-Randomized Studies and certainty via the Grading of Recommendations, Assessment, Development and Evaluation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of six \"moderate-quality\" articles were included out of 945 articles initially retrieved. Non-throwing athletes (n = 95) had a frequency-weighted mean age of 19.9 ± 3.7 years with a frequency-weighted mean follow-up of 54.7 ± 2.4 months. Eleven sports were represented across four levels of competition from middle school to the professional level. From four studies, about 86% of athletes (n = 48 out of 56 athletes) returned to sport at the same or higher competitive level after operative treatment. Overall, patients had good functional outcomes at follow-up. Non-throwing athletes also had complication rates ranging from 0% to 18%, with only 2% of patients requiring a return to the operating room."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There is limited evidence available for outcomes in non-throwing athletes after UCL injury. However, the currently available research suggests that 86% of athletes may return to sport at the same or higher level and enjoy good functional outcomes with low complication rates. Additional research is needed to guide treatment for this patient population."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

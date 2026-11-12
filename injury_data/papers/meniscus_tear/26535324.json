@@ -1,0 +1,39 @@
+{
+  "pmid": "26535324",
+  "title": "Changes in Health-Related Quality of Life and Knee Function After Knee Injury in Young Female Athletes.",
+  "year": "2014",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Recent literature has called for greater attention to evidence-based practice in sports medicine with the documentation of overall status and impairments following injury. The prospective documentation of impairments associated with knee injuries in female athletes regarding their health-related quality of life (HRQoL) and knee function (KF) of high school and collegiate athletes is limited. Assessing the effect knee injuries have on young female athletes may allow clinicians to better understand the perspectives of the athletes who sustain these injuries."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To document the changes over 12 months in self-reported HRQoL and KF in young females who have sustained a knee injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A convenience sample of 242 females (mean age, 17.4 ± 2.4 years) who injured their knee participating in sport or recreational activities was utilized. Injuries were categorized as anterior cruciate ligament tears (ACL), anterior knee pain (AKP), patellar instability (PAT), meniscus tear (MNT), iliotibial band syndrome (ITB), collateral ligament sprain (COL), and other (OTH). HRQoL was assessed with the Short Form-12 v 2.0 survey (SF-12) physical component summary (PCS) and mental component summary (MCS). KF was assessed with the 2000 International Knee Documentation Committee survey (IKDC). Dependent variables included the paired differences in the 2000 IKDC as well as SF-12 composite scores from preinjury through 12 months postdiagnosis. Paired differences were assessed with repeated-measures analyses of variance (P ≤ .05)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "IKDC scores were lower through 12 months for ACL, AKP, and PAT; through 6 months for MNT; and through 3 months for COL and OTH. HRQoL PCS and MCS scores were lower through 3 to 12 months depending on the type of injury classification."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Knee injuries can negatively affect KF and HRQoL for up to 12 months in young females. Sports medicine providers need to be aware of these impacts as they work to effectively treat individuals with these injuries."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

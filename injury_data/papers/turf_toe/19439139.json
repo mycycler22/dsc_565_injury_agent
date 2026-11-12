@@ -1,0 +1,31 @@
+{
+  "pmid": "19439139",
+  "title": "Effect of turf toe on foot contact pressures in professional American football players.",
+  "year": "2009",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The relationship between turf toe and plantar foot pressures has not been extensively studied. Two hypotheses were tested in a cohort of professional American football players: first, that a history of turf toe is associated with increased peak hallucal and first metatarsophalangeal (MTP) plantar pressures; second, that decreased range of motion (ROM) of the first MTP correlates with increased peak hallucal and first MTP plantar pressures."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Forty-four athletes from one National Football League (NFL) team were screened for a history of turf toe during preseason training. Dorsal passive MTP ROM and dynamic plantar pressures were measured in both feet of each player. Anatomical masking was used to assess peak pressure at the first MTP and hallux."
+    },
+    {
+      "label": "RESULTS",
+      "text": "First MTP dorsiflexion was significantly lower in halluces with a history of turf toe (40.6 +/- 15.1 degrees versus 48.4 +/- 12.8 degrees, p = 0.04). Peak hallucal pressures were higher in athletes with turf toe (535 +/- 288 kPa versus 414 +/- 202 kPa, p = 0.05) even after normalizing for athlete body mass index (p = 0.0003). Peak MTP pressure was not significantly different between the two groups tested. First MTP dorsiflexion did not correlate with peak hallucal or first MTP pressures."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study showed that turf toe is associated with decreased MTP motion. In addition, increased peak hallucal pressures were found. Further study is warranted to determine whether these pressures correlate with the severity of symptoms or progression of turf toe to first MTP arthritis."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

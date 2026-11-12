@@ -1,0 +1,45 @@
+{
+  "pmid": "40605377",
+  "title": "Arthroscopic Bankart Repair Versus Immobilization for a First Episode of an Anterior Shoulder Dislocation Before the Age of 25 Years: A Randomized Controlled Trial With 6-Year Follow-up.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The risk of recurrence after a first episode of an anterior shoulder dislocation (ASD) is high with nonoperative treatment in younger patients. In a previous study, arthroscopic labral repair (Bankart repair) reduced the risk of secondary shoulder dislocations and improved functional outcomes versus nonoperative treatment at 2-year follow-up."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The aim of this study was to compare the results of arthroscopic Bankart repair and nonoperative treatment at a minimum of 6 years' follow-up in patients aged ≤25 years. The hypothesis was that acute surgery would decrease the risk of recurrence and improve functional outcomes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Randomized controlled trial; Level of evidence, 1."
+    },
+    {
+      "label": "METHODS",
+      "text": "We included patients aged between 18 and 25 years after a first episode of an ASD and divided them into 2 groups. The first group was treated surgically with arthroscopic Bankart repair in the initial 2 weeks after the dislocation, and the second group was treated nonoperatively. Both groups were immobilized for 3 weeks in internal rotation and followed the same physical therapy protocol. Follow-up was performed at a minimum of 6 years. The primary outcome measure was the recurrence of instability, defined as another ASD requiring closed reduction or a subluxation. Secondary outcome measures included the need for stabilization surgery; return to sport; and functional outcomes according to the quick version of the Disabilities of the Arm, Shoulder and Hand (QuickDASH), Walch-Duplay score, and Western Ontario Shoulder Instability Index (WOSI)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 20 patients included in each group. The mean age at the time of inclusion was 21.4 ± 1.8 years. A total of 37 patients were evaluated at a mean follow-up of 81.4 months (6.8 years). In the surgical group, the recurrence of instability (dislocation or subluxation) was significantly lower compared with the nonoperative group (n = 5 [27.8%] vs 17 [89.5%], respectively; <i>P</i> < .0005), and the rate increased in both groups compared with 2-year results (n = 2 [10%] vs 13 [65%], respectively; <i>P</i> = .003). Fewer patients had another episode of a dislocation in the surgical group compared with the nonoperative group (n = 4 [22.2%] vs 15 [79.0%], respectively; <i>P</i> < .003). In the surgical group, all dislocations occurred after 2 years' follow-up, while 6 patients in the nonoperative group already had dislocations at 2 years. The Walch-Duplay score (93.24 vs 76.05 points, respectively; <i>P</i> = .0004), WOSI score (12.12 vs 20.95 points, respectively; <i>P</i> = .009), and QuickDASH score (4.84 vs 16.14 points, respectively; <i>P</i> = .0088) were significantly better in the surgical group than in the nonoperative group. The rate of return to the same or better level of sport was 82% in the surgical group compared with 21% in the nonoperative group (<i>P</i> < .0009). Additionally, 11 patients (29.7%) required primary or secondary shoulder stabilization surgery: 2 (11.1%) in the surgical group and 9 (47.4%) in the nonoperative group (<i>P</i> < .04)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic labral repair (Bankart repair) reduced the risk of secondary shoulder dislocations and improved functional outcomes versus nonoperative treatment at 6-year follow-up. Surgical treatment after a first episode of a shoulder dislocation could be offered as a primary treatment option in a younger population."
+    },
+    {
+      "label": "REGISTRATION",
+      "text": "NCT03315819 (ClinicalTrials.gov)."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "35167914",
+  "title": "Posterior shoulder capsule of the dominant arm is stiffer in baseball players than that in nonthrowing population.",
+  "year": "2022",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Posterior shoulder capsule tightness is one of the factors for shoulder injuries in overhead athletes. Recent studies have shown the posterior capsule of the dominant arm to be stiffer than that of the nondominant arm in baseball players. However, whether posterior capsule tightness in the dominant arm is exclusive to overhead athletes remains unknown. This study aimed to investigate whether the posterior shoulder capsule of the dominant arm in baseball players is stiffer than that in nonthrowing population."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifteen male collegiate asymptomatic baseball players (baseball-player group) and fifteen male college students who did not partake in overhead sports (nonthrowing group) participated in this study. We measured the shear moduli of the middle and inferior posterior capsules, superior infraspinatus, inferior infraspinatus, teres minor, and posterior deltoid in the dominant arm by ultrasound shear wave elastography. We compared shear moduli between the two groups using an independent samples t-test and Mann-Whitney test. In addition, we investigated the correlation between the range of glenohumeral internal rotation and each shear modulus in each group using the Pearson correlation coefficient."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The shear moduli in the baseball-player group were significantly higher than those in the nonthrowing group in both the middle posterior capsule (baseball-player group: 36.1 ± 5.6 kPa vs. nonthrowing group: 29.0 ± 8.6 kPa; P = .018) and inferior posterior capsule (37.1 ± 9.6 kPa vs. 27.9 ± 6.8 kPa; P = .002). However, no difference in the shear moduli of individual muscle groups was identified. The glenohumeral internal rotation range exhibited a statistically significant negative correlation with the shear modulus of the inferior posterior capsule in the baseball-player group (Pearson correlation coefficient = -0.586, P = .022)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our findings suggest that the posterior shoulder capsule of the dominant arm in baseball players is stiffer than that in nonthrowing population."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

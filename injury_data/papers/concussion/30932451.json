@@ -1,0 +1,20 @@
+{
+  "pmid": "30932451",
+  "title": "Current Concepts in Concussion: Initial Evaluation and Management.",
+  "year": "2019",
+  "journal": "American family physician",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Mild traumatic brain injury, also known as concussion, is common in adults and youth and is a major health concern. Concussion is caused by direct or indirect external trauma to the head resulting in shear stress to brain tissue from rotational or angular forces. Concussion can affect a variety of clinical domains: physical, cognitive, and emotional or behavioral. Signs and symptoms are nonspecific; therefore, a temporal relationship between an appropriate mechanism of injury and symptom onset must be determined. Headache is the most common symptom. Initial evaluation involves eliminating concern for cervical spine injury and more serious traumatic brain injury before diagnosis is established. Tools to aid diagnosis and monitor recovery include symptom checklists, neuropsychological tests, postural stability tests, and sideline assessment tools. If concussion is suspected in an athlete, the athlete should not return to play until medically cleared. Brief cognitive and physical rest are key components of initial management. Initial management also involves patient education and reassurance and symptom management. Individuals recover from concussion differently; therefore, rigid guidelines have been abandoned in favor of an individualized approach. As symptoms resolve, patients may gradually return to activity as tolerated. Those with risk factors, such as more severe symptoms immediately after injury, may require longer recovery periods. There is limited research in the younger population; however, given concern for potential consequences of injury to the developing brain, a more conservative approach to management is warranted."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

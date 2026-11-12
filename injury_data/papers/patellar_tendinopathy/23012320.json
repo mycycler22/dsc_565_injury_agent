@@ -1,0 +1,37 @@
+{
+  "pmid": "23012320",
+  "title": "Responsiveness of the VISA-P scale for patellar tendinopathy in athletes.",
+  "year": "2014",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Evaluation Study",
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patient-reported outcome measures are increasingly used in sports medicine to assess results after treatment, but interpretability of change for many instruments remains unclear."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To define the minimum clinically important difference (MCID) for the Victorian Institute of Sport Assessment scale (VISA-P) in athletes with patellar tendinopathy (PT) who underwent conservative treatment."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ninety-eight athletes with PT were enrolled in the study. Each participant completed the VISA-P at admission, after 1 week, and at the final visit. Athletes also assessed their clinical change at discharge on a 15-point Likert scale. We equated important change with a score of ≥3 (somewhat better). Receiver-operating characteristic (ROC) curve analysis and mean change score were used to determine MCID. Minimal detectable change was calculated. The effect of baseline scores on MCID and different criteria used to define important change were investigated. A Bayesian analysis was used to establish the posterior probability of reporting clinical changes related to MCID value."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes with PT who showed an absolute change greater than 13 points in the VISA-P score or 15.4-27% of relative change achieved a minimal important change in their clinical status. This value depended on baseline scores. The probability of a clinical change in a patient was 98% when this threshold was achieved and 45% when MCID was not achieved."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Definition of the MCID will enhance the interpretability of changes in the VISA-P score in the athletes with PT, but caution is required when these values are used."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

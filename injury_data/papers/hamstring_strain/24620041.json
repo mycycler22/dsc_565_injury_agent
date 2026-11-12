@@ -1,0 +1,51 @@
+{
+  "pmid": "24620041",
+  "title": "Acute hamstring injuries in Swedish elite sprinters and jumpers: a prospective randomised controlled clinical trial comparing two rehabilitation protocols.",
+  "year": "2014",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain is a common injury in sprinters and jumpers, and therefore time to return to sport and secondary prevention become of particular concern."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare the effectiveness of two rehabilitation protocols after acute hamstring injury in Swedish elite sprinters and jumpers by evaluating time needed to return to full participation in the training process."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective randomised comparison of two rehabilitation protocols."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifty-six Swedish elite sprinters and jumpers with acute hamstring injury, verified by MRI, were randomly assigned to one of two rehabilitation protocols. Twenty-eight athletes were assigned to a protocol emphasising lengthening exercises, L-protocol, and 28 athletes to a protocol consisting of conventional exercises, C-protocol. The outcome measure was the number of days to return to full training. Re-injuries were registered during a period of 12 months after return."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Time to return was significantly shorter for the athletes in the L-protocol, mean 49 days (1SD±26, range 18-107 days), compared with the C-protocol, mean 86 days (1SD±34, range 26-140 days). Irrespective of protocol, hamstring injuries where the proximal free tendon was involved took a significantly longer time to return than injuries that did not involve the free tendon, L-protocol: mean 73 vs 31 days and C-protocol: mean 116 vs 63 days, respectively. Two reinjuries were registered, both in the C-protocol."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A rehabilitation protocol emphasising lengthening type of exercises is more effective than a protocol containing conventional exercises in promoting time to return in Swedish elite sprinters and jumpers."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Time to return was significantly shorter for the athletes in the L-protocol, mean 49 days (1SD±26, range 18-107 days), compared with the C-protocol, mean 86 days (1SD±34, range 26-140 days)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Irrespective of protocol, hamstring injuries where the proximal free tendon was involved took a significantly longer time to return than injuries that did not involve the free tendon, L-protocol: mean 73 vs 31 days and C-protocol: mean 116 vs 63 days, respectively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

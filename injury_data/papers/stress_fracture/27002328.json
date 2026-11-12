@@ -1,0 +1,20 @@
+{
+  "pmid": "27002328",
+  "title": "Stress fractures: pathophysiology, clinical presentation, imaging features, and treatment options.",
+  "year": "2016",
+  "journal": "Emergency radiology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Stress fracture, in its most inclusive description, includes both fatigue and insufficiency fracture. Fatigue fractures, sometimes equated with the term \"stress fractures,\" are most common in runners and other athletes and typically occur in the lower extremities. These fractures are the result of abnormal, cyclical loading on normal bone leading to local cortical resorption and fracture. Insufficiency fractures are common in elderly populations, secondary to osteoporosis, and are typically located in and around the pelvis. They are a result of normal or traumatic loading on abnormal bone. Subchondral insufficiency fractures of the hip or knee may cause acute pain that may present in the emergency setting. Medial tibial stress syndrome is a type of stress injury of the tibia related to activity and is a clinical syndrome encompassing a range of injuries from stress edema to frank-displaced fracture. Atypical subtrochanteric femoral fracture associated with long-term bisphosphonate therapy is also a recently discovered entity that needs early recognition to prevent progression to a complete fracture. Imaging recommendations for evaluation of stress fractures include initial plain radiographs followed, if necessary, by magnetic resonance imaging (MRI), which is preferred over computed tomography (CT) and bone scintigraphy. Radiographs are the first-line modality and may reveal linear sclerosis and periosteal reaction prior to the development of a frank fracture. MRI is highly sensitive with findings ranging from periosteal edema to bone marrow and intracortical signal abnormality. Additionally, a brief description of relevant clinical management of stress fractures is included."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

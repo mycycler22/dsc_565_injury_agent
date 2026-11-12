@@ -1,0 +1,36 @@
+{
+  "pmid": "32950673",
+  "title": "Players' perspectives on successfully returning to professional baseball after medial ulnar collateral ligament reconstruction.",
+  "year": "2021",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "As the incidence of ulnar collateral ligament reconstruction (UCLR) surgery continues to rise, an improved understanding of baseball pitchers' perspectives on the postoperative recovery process and return to pitching is needed. The purpose of this study was to analyze pitchers' perspectives on recovery after UCLR."
+    },
+    {
+      "label": "METHODS",
+      "text": "<sup>d</sup>During the 2018 baseball season, an online questionnaire was distributed to the certified athletic trainers of all 30 Major League Baseball (MLB) organizations. These athletic trainers then administered the survey to all players within their organization including MLB and 6 levels of Minor League Baseball. MLB or Minor League Baseball pitchers who had previously undergone UCLR and participated in a rehabilitation program (or were currently participating in one at time of the survey) were included in the study."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 530 professional pitchers who met inclusion criteria. The majority (81%) of pitchers began rehabilitation within 2 weeks of surgery, with 51% beginning within 1 week. The majority of pitchers began a long-toss throwing program at 5 and 6 months after surgery (27% and 21%), with 52% making their first throw off a mound between 7 and 9 months. The number of pitchers who participated in a weighted ball throwing program decreased significantly after surgery (20%-11%, P < .001). After UCLR, 56% of pitchers reported no changes regarding pitching mechanics or types of pitches thrown, 42% reported changed mechanics, and only 3% either decreased or stopped throwing a certain pitch type. Overall, 54% believed that their current throwing velocity was faster than their velocity before ulnar collateral ligament injury. Twenty percent of pitchers reported experiencing a setback that resulted in temporary stoppage of their rehabilitation program, the most common reason being flexor tightness or tendonitis (53%). Seventy-six percent reported that they were not concerned about sustaining another elbow injury; however, significantly less (61%; P < .001) stated that they would have UCLR again if necessary."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although UCLR is generally reported to have excellent clinical outcomes, 20% of pitchers experienced a significant setback during their rehabilitation and only 61% of pitchers, having gone through UCLR and the subsequent recovery, would be willing to undergo revision surgery and repeat the rehabilitation process if it were to become necessary. In addition, 42% of pitchers felt that they had to alter their throwing mechanics to return to pitching. Surgeons and athletic trainers should aim to understand the UCLR recovery process from the pitchers' perspective to better counsel future patients recovering from UCLR."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The majority (81%) of pitchers began rehabilitation within 2 weeks of surgery, with 51% beginning within 1 week."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

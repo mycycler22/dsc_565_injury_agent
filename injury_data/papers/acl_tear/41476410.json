@@ -1,0 +1,45 @@
+{
+  "pmid": "41476410",
+  "title": "Predictors of Anterior Cruciate Ligament Reinjury and Return to Sport in Adolescent Athletes: Increased Risk in Younger Age and Earlier Time to Return to Sport.",
+  "year": "2026",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The incidence of anterior cruciate ligament (ACL) injuries is increasing among the adolescent population, with a peak occurring in the high school age range."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To (1) characterize recent epidemiologic trends of ACL injuries and graft failure rates in high school adolescents, and (2) determine variables associated with sustaining a secondary ACL injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was performed for all patients ≤18 years who underwent primary ACL reconstruction (ACLR) between 2015 and 2020. Odds ratios were calculated for baseline patient characteristics and their association with the risk of recurrent tear. Multivariate Cox regression analysis was performed to identify the relationship between recurrent tear and specific categorical variables."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 431 patients were included, with a median follow-up of 64.9 months (range, 24-87 months). Recurrent primary graft failure was experienced in 9% of patients, and 11.1% sustained a contralateral ACL tear. The median time to postoperative graft failure was 14 months (interquartile range, 9-41.5 months). Patients with a secondary ACL injury (eg, graft failure or contralateral ACL injury) were younger than those who did not sustain a subsequent injury (mean age, 15.7 ± 1.8 years [graft failure] and 15.5 ± 1.3 [contralateral ACL injury] vs 16.2 ± 1.5 years, respectively; <i>P</i> = .007). Survival analysis demonstrated that younger age at primary ACLR and earlier time to return to sport (RTS) were significantly associated with an increased rate of secondary ACL injury (<i>P</i> < .05). With respect to combined secondary ACL injuries, as age at primary ACLR increases by 1 year, the rate of secondary ACL injury decreases by 27%. Similarly, for every subsequent 1-month delay in RTS, the risk of secondary ACL injury decreased by 13%."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Younger age and earlier time to RTS after ACL injury are independent risk factors associated with sustaining both primary ACL recurrent tear and contralateral ACL injury in the adolescent patient population. Counseling of adolescent athletes should include physical therapy compliance and allow for adequate healing and time to RTS."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The median time to postoperative graft failure was 14 months (interquartile range, 9-41.5 months)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

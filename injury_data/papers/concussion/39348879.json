@@ -1,0 +1,35 @@
+{
+  "pmid": "39348879",
+  "title": "Confidence to Return to Play After Concussion.",
+  "year": "2025",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "The sequelae of concussion may have psychological consequences that affect an athlete's ability to return to play (RTP). However, confidence of RTP readiness is rarely monitored after a concussion."
+    },
+    {
+      "label": "DESIGN",
+      "text": "This study examined the acute and longitudinal implications of concussion on an athlete's confidence to RTP, the relationship between self-reported symptoms and athlete confidence to RTP, and interactions between concussion symptoms, sex, sport type (contact vs noncontact), and confidence to RTP."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty-six college athletes (65% female) sustained a concussion and completed the Injury Psychological Readiness to Return to Sport (I-PRRS) scale at 3 timepoints: within 72 hours of injury (acute), within 72 hours of beginning the RTP protocol (pre-RTP), and within 72 hours of being fully cleared to RTP (post-RTP)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes reported acute low confidence after concussion (I-PRRS mean [SD] = 32.59 [18.45]), which improved over time (pre-RTP mean [SD] = 52.11 [9.60]; post-RTP mean [SD] = 57.45 [5.96]). Some athletes returned to competition (post-RTP) with lingering confidence concerns (ie, I-PRRS < 50; 95% CI = 0.03-0.26). Acute symptom severity was associated with worse confidence (P < .001). Sex and sport type (contact vs noncontact) had no relationship with confidence (P = .406, P = .3314, respectively). These results indicate that athletes lack confidence acutely (within 72 h) following concussion."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although confidence improves over time, those who report greater acute symptoms also exhibit decreased confidence, and some athletes are returning to play with lingering concerns about their confidence (I-PRRS < 50). This preliminary evidence of heterogeneous confidence following concussion encourages the assessment and monitoring of confidence throughout concussion rehabilitation."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

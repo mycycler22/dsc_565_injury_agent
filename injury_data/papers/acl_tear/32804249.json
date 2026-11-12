@@ -1,0 +1,35 @@
+{
+  "pmid": "32804249",
+  "title": "Contralateral ACL tears strongly contribute to high rates of secondary ACL injuries in professional ski racers.",
+  "year": "2021",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To analyse the effects of graft selection, sex, injury complexity and time to return to competition on the odds to suffer secondary ACL injury (either re-rupture or contralateral ACL tear) in professional alpine skiers."
+    },
+    {
+      "label": "METHODS",
+      "text": "The database of a specialised joint surgery clinic was screened for professional alpine skiers who had participated in competitions at the FIS race, European Cup and World Cup level prior to having to undergo a primary ACL reconstruction, and who had returned to the same competitional level at least one year prior to the end of the observation period. The rates of secondary ACL injuries were statistically compared between athletes with hamstring and quadriceps tendon autografts, men and women, simple and complex (involvement of menisci or cartilage) primary ACL injuries, and between early (≤ 300 days after primary reconstruction) and late (> 300 days) returners to competition."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fourteen out of the 30 athletes included (46.7%) suffered secondary ACL injuries on average 29.4 ± 22.5 months after primary reconstruction. The secondary injuries comprised five re-ruptures (16.7%) and nine contralateral ACL tears (30.0%). The odds to suffer contralateral ACL tears were non-significantly higher in patients with hamstring tendon autografts (OR 5.69, n.s.) and in those whose primary injuries were classified as simple ACL tears (OR 5.31, n.s.). None of the factors assessed was associated with the odds of graft failure."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The odds of ACL-injured professional alpine ski racers to suffer secondary ACL tears are nearly 50%, with subsequent contralateral ACL injuries being more common than graft failures. While statistical significance could not be established due to a lack of power, greater odds of contralateral ACL tears were observed in athletes with hamstring tendon grafts as well as those with simple primary ACL injuries. No factors potentially predisposing athletes for graft failure could be identified."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "31335177",
+  "title": "Epidemiology of Cervical Muscle Strains in Collegiate and High School Football Athletes, 2011-2012 Through 2013-2014 Academic Years.",
+  "year": "2019",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Cervical muscle strains are an often-overlooked injury, with neck- and spine-related research typically focusing on spinal cord and vertebral injuries."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To examine the rates and distributions of cervical muscle strains in collegiate and high school football athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Collegiate and high school football teams."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "The National Collegiate Athletic Association Injury Surveillance Program (NCAA-ISP) collected data from collegiate football athletes. The High School National Athletic Treatment, Injury and Outcomes Network (HS NATION) and High School Reporting Information Online (HS RIO) collected data from high school football athletes. Data from the 2011-2012 through 2013-2014 academic years were used."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Athletic trainers collected injury and exposure data for football players. Injury counts, injury rates per 10 000 athlete-exposures (AEs), and injury rate ratios with 95% confidence intervals (CIs) were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The NCAA-ISP reported 49 cervical muscle strains (rate = 0.96/10 000 AEs), of which 28 (57.1%) were TL (time loss; rate = 0.55/10 000 AEs). High School NATION reported 184 cervical muscle strains (rate = 1.66/10 000 AEs), of which 33 (17.9%) were TL injuries (rate = 0.30/10 000 AEs). The HS RIO, which collects only TL injuries, reported 120 TL cervical muscle strains (rate = 0.51/10 000 AEs). The overall injury rate was lower in the NCAA-ISP than in HS NATION (injury rate ratio = 0.58; 95% CI = 0.42, 0.79); when restricted to TL injuries, the overall injury rate was higher in the NCAA-ISP (injury rate ratio = 1.83; 95% CI = 1.11, 3.03). No differences were found when comparing TL injuries in HS RIO and the NCAA-ISP. Cervical muscle-strain rates were higher during competitions than during practices across all 3 surveillance systems for all injuries. Most cervical muscle strains were due to player contact (NCAA-ISP = 85.7%, HS NATION = 78.8%, HS RIO = 85.8%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The incidence of cervical muscle strains in football players was low compared with other injuries. Nonetheless, identifying and implementing interventions, particularly those aimed at reducing unsafe player contact, are essential to further decrease the risk of injury and associated adverse outcomes."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "39741476",
+  "title": "Epidemiology of Low Back Injuries in National Collegiate Athletic Association (NCAA) Athletes: Results From the NCAA Injury Surveillance Program Between 2009-10 and 2018-19.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Regular epidemiological investigations are needed to investigate factors associated with low back injuries (LBIs) in National Collegiate Athletic Association (NCAA) sports and to inform injury prevention and rehabilitation."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the epidemiology of LBIs in NCAA sports."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Exposure and LBI data collected in the NCAA Injury Surveillance Program during the 2009-10 through 2018-19 academic years were analyzed. Injury counts, rates, and proportions were described by sport, sex, event type (competition, practice), season segment, time loss (>1 day), history (recurrent, new), chronicity, injury mechanism, diagnosis, and activity. Injury rate ratios (IRRs) were used to evaluate differential injury rates, and injury proportion ratios (IPRs) were used to assess differential injury distributions. Effect estimates (IRRs, IPRs) with 95% CIs excluding 1.0 were deemed statistically significant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the study period, 2629 LBIs from 12,213,285 athlete-exposures (AEs) were reported to the NCAA Injury Surveillance Program (2.15 LBIs per 10,000 AEs). Rates were highest in women's gymnastics (5.39 per 10,000 AEs), men's tennis (3.39 per 10,000 AEs), and women's volleyball (3.38 per 10,000 AEs). Among sex-comparable sports, rates were higher in men's (compared with women's) basketball and cross country. Competition injury rates were >2 times as high as practice rates in men's sports; no difference was found in injury rates by event type in women's sports. Chronic LBIs were more prevalent in women's sports (compared with men's) (IPR = 1.51; 95% CI, 1.29-1.76), as were recurrent injuries (IPR = 1.24; 95% CI, 1.05-1.46)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Overall, LBI rates were similar in men's sports and women's sports; injuries were most often attributed to noncontact and overuse. LBI rates across event type varied by sport, with notable differences in women's sports. Future research into LBI risk factors and prevention programs that emphasize proper technique, training, and recovery, especially in practice settings, could be beneficial to reducing the burden of lumbar spine injuries in NCAA athletes."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

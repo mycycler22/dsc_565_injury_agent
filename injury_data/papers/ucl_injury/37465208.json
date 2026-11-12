@@ -1,0 +1,39 @@
+{
+  "pmid": "37465208",
+  "title": "Factors Important to Patient Decision-Making After Ulnar Collateral Ligament Injury in Competitive High School and Collegiate Baseball Players.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patients are faced with several treatment decisions after an ulnar collateral ligament (UCL) injury: nonoperative versus operative treatment, repair versus reconstruction, and immediate versus delayed surgery."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The aim of this study was to investigate the factors important to patients when deciding which treatment to pursue after a UCL injury. We hypothesized that (1) length of time away from sports and seasonal timing would be important to patients and (2) treatment decision-making would be heavily influenced by how many and which seasons of their baseball career would be missed."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "High school and collegiate baseball players with UCL tears treated at an academic institution were surveyed retrospectively on their sports participation at the time of injury and their UCL injury treatment decisions. Respondents rated the influence of various factors on a 5-point Likert scale, and they selected the top 3 factors and the single most important factor influencing their treatment decisions. Multiple logistic regression analysis was used to assess the relationship between player characteristics and factors important to their treatment decision."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 83 athletes completed the survey; 40 were in high school and 43 were in college at the time of injury; 7 were treated nonoperatively and 76 underwent surgery (66 immediately and 10 in a delayed fashion), 10 with UCL repair and 66 with UCL reconstruction. The ability to play competitive baseball in the long term was very important or extremely important to 90% of players, while the ability to play in the short term was very important or extremely important to 17%. Length of recovery and seasonal timing were also important factors for 53% and 54% of players, respectively, and almost all (90%) highly valued advice from a surgeon. Possible failure of nonoperative treatment leading to increased time away and the possible loss of 2 consecutive baseball seasons heavily influenced decision-making in 41% of respondents."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Survey respondents were driven by the desire to play baseball in the long term. Treatment decisions were influenced by the length of recovery and by the seasonal timing of their injury, both of which affect how many and which seasons of baseball a player may miss. Patients found advice from their surgeon to be extremely important to decision-making."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

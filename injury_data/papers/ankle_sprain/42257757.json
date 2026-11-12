@@ -1,0 +1,32 @@
+{
+  "pmid": "42257757",
+  "title": "The Impact of Football Boot Design on Lower Limb Injury Risk: A Systematic Review.",
+  "year": "2026",
+  "journal": "Sports medicine - open",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Football boots-serving as the critical interface between the player and the playing surface-play a decisive role in modulating the risk of non‑contact lower‑limb injuries. Although numerous studies have investigated the effects of stud configuration, sole‑plate stiffness, and boot-foot-surface interaction on lower‑limb biomechanics, an integrated evaluation of their injury implications remains lacking."
+    },
+    {
+      "label": "METHODS",
+      "text": "Following PRISMA 2020 guidelines, a systematic search (2005-2025) was conducted across Elsevier, EBSCO, Web of Science, PubMed Central, and Footwear Science. Thirty‑two studies met the inclusion criteria after dual‑reviewer screening, and methodological quality was assessed using the PEDro scale."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Evidence was triangulated to identify biomechanical mechanisms underpinning injury risk as influenced by boot design. Five principal findings emerged: 1. Stud pattern governs rotational traction. Screw-in (Soft Ground (SG)) and bladed studs generate supra-physiological rotational torque on both natural and artificial turf, producing a \"foot-lock\" phenomenon that elevates the incidence of anterior cruciate ligament (ACL) rupture, ankle sprain, and metatarsal stress fracture. 2. Sole-plate stiffness shows a U-shaped relationship with injury risk. Excessive rigidity restricts first-ray dorsiflexion and precipitates focal plantar pressures, whereas excessive compliance amplifies ankle dorsiflexion/inversion and knee-valgus angles, thereby increasing ACL loading. 3. Boot-foot-surface mismatch (undersized lasts, stud-surface incompatibility, sex-specific traction overload) redistributes plantar pressure and alters joint moment arms, fostering over-use injuries. 4. Collar height augments ankle stability but induces compensatory knee torsion, shifting the failure locus proximally and raising the likelihood of knee-ligament trauma. 5. High-risk mechanical loading often occurs below athletes' perceptual thresholds, suggesting that asymptomatic microdamage may accumulate over time."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Collectively, football‑boot architecture represents a modifiable determinant of non‑contact lower‑limb injury. Establishing standardized testing frameworks that calibrate stud geometry, sole‑plate stiffness, and last morphology-while accounting for surface type, sex, and playing level-will enable optimization of high‑performance yet low‑injury boot design."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

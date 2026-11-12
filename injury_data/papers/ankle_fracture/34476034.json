@@ -1,0 +1,35 @@
+{
+  "pmid": "34476034",
+  "title": "Functional outcomes of unstable ankle fractures with and without syndesmotic fixation in the adolescent population.",
+  "year": "2021",
+  "journal": "Journal of children's orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study was to compare functional outcomes of adolescents with and without ankle syndesmotic injuries and identify predictors of functional outcome after operative ankle fractures."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was conducted on operative adolescent ankle fractures treated between 2009 and 2019 with a minimum of one-year follow-up (mean 4.35 years). Patients who underwent syndesmotic fixation (SF) (n = 48) were compared with operative ankle fractures without syndesmotic injury (n = 63). Functional outcomes were assessed using standardized questionnaires, specifically the Foot and Ankle Ability Measure (FAAM) and Single Assessment Numerical Evaluation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were no differences in patient-reported outcomes, rates of return to sport or complications between groups with and without SF. The SF group had a longer tourniquet time (p = 0.04), duration of non-weight-bearing (p = 0.01), more Weber C fibula fractures (p < 0.001), fewer medial malleolus fractures (p = 0.03) and more frequently underwent implant removal (p < 0.0001). Male sex, lower body mass index (BMI) and longer duration of follow-up were significant predictors of a higher FAAM sports score using multivariable linear regression. SF was not a predictor of functional outcome."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study demonstrated that patients that undergo surgical fixation of syndesmotic injuries have equivalent functional outcomes compared to operative ankle fractures without intraoperative evidence of syndesmotic injury. We also identified that male sex, lower BMI and longer duration of follow-up are predictors of a good functional outcome."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

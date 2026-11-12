@@ -1,0 +1,46 @@
+{
+  "pmid": "25378207",
+  "title": "Return to play and recurrent instability after in-season anterior shoulder instability: a prospective multicenter study.",
+  "year": "2014",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is no consensus on the optimal treatment of in-season athletes with anterior shoulder instability, and limited data are available to guide return to play."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine the likelihood of return to sport and the recurrence of instability after an in-season anterior shoulder instability event based on the type of instability (subluxation vs dislocation). Additionally, injury factors and patient-reported outcome scores administered at the time of injury were evaluated to assess the predictability of eventual successful return to sport and time to return to sport during the competitive season."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study (prognosis); Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Over 2 academic years, 45 contact intercollegiate athletes were prospectively enrolled in a multicenter observational study to assess return to play after in-season anterior glenohumeral instability. Baseline data collection included shoulder injury characteristics and shoulder-specific patient-reported outcome scores at the time of injury. All athletes underwent an accelerated rehabilitation program without shoulder immobilization and were followed during their competitive season to assess the success of return to play and recurrent instability."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-three of 45 (73%) athletes returned to sport for either all or part of the season after a median 5 days lost from competition (interquartile range, 13). Twelve athletes (27%) successfully completed the season without recurrence. Twenty-one athletes (64%) returned to in-season play and had subsequent recurrent instability including 11 recurrent dislocations and 10 recurrent subluxations. Of the 33 athletes returning to in-season sport after an instability event, 67% (22/33) completed the season. Athletes with a subluxation were 5.3 times more likely (odds ratio [OR], 5.32; 95% CI, 1.00-28.07; P = .049) to return to sport during the same season when compared with those with dislocations. Logistic regression analysis suggests that the Western Ontario Shoulder Instability Index (OR, 1.05; 95% CI, 1.00-1.09; P = .037) and Simple Shoulder Test (OR, 1.03; 95% CI, 1.00-1.05; P = .044) administered after the initial instability event are predictive of the ability to return to play. Time loss from sport after a shoulder instability event was most strongly and inversely correlated with the Simple Shoulder Test (P = .007) at the time of initial injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In the largest prospective study evaluating shoulder instability in in-season contact athletes, 27% of athletes returned to play and completed the season without subsequent instability. While the majority of athletes who return to sport complete the season, recurrent instability events are common regardless of whether the initial injury was a subluxation or dislocation."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Thirty-three of 45 (73%) athletes returned to sport for either all or part of the season after a median 5 days lost from competition (interquartile range, 13)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

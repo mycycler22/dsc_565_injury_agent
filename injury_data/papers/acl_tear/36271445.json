@@ -1,0 +1,31 @@
+{
+  "pmid": "36271445",
+  "title": "Anterior cruciate ligament injury and its postoperative outcomes are not associated with polymorphism in COL1A1 rs1107946 (G/T): a case-control study in the Middle East elite athletes.",
+  "year": "2022",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "It is unclear what role COL1A1 polymorphisms play in anterior cruciate ligament (ACL) injury pathophysiology. The present study investigated the relationship between COL1A1-1997 guanine (G)/thymine (T) (rs1107946) polymorphism and ACL injury. Moreover, the possible effect of this polymorphism on the postoperative outcomes of ACL reconstruction surgery was evaluated."
+    },
+    {
+      "label": "METHODS",
+      "text": "This prospective case-control study was performed on 200 young professional men with an ACL tear who underwent arthroscopic ACL reconstruction surgery. Moreover, 200 healthy athletes without a history of tendon or ligament injury who were matched with the case group were selected as the control group. DNA was extracted from the leukocytes of participants, and the desired allele was genotyped. Clinical outcomes were collected for the case group before and one year after surgery."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The genotype distribution was in accordance with the Hardy-Weinberg principle. In the ACL injury group, the G allele frequency was non-significantly higher than the healthy controls, with an odds ratio [95% CI] of 1.08 [0.79-1.47] (P = 64). We did not find a significant difference between the genotype of individuals-GG, GT, and TT-in the case and control groups (P > 0.05). Clinical outcomes of the ACL tear group were significantly improved in terms of preoperative values. However, none of them were significantly different between the three genotypes (GG, GT, and TT)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "According to the findings of the present investigation, single-nucleotide polymorphism (SNP) at COL1A1 rs1107946 (G/T) was not a predisposing genetic factor for ACL injury in a young professional male athlete population in the Middle East. Furthermore, patients' responses to treatment were not different between distinct genotypes."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

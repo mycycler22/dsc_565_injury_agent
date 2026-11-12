@@ -1,0 +1,39 @@
+{
+  "pmid": "37382294",
+  "title": "Surgical Stabilization for Recurrent Patellar Instability in Competitive Wrestlers: Outcomes, Reoperations, and Return to Play at 6-Year Mean Follow-up.",
+  "year": "2023",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The extent to which recurrent patellar instability (RPI) affects wrestlers has not been thoroughly examined."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess return to wrestling (RTW), patient-reported outcomes, and reoperation rates after patellofemoral stabilization surgery (PFSS) for RPI in a cohort of competitive wrestlers."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "All competitive wrestlers with a history of RPI and subsequent PFSS performed at a single institution between 2000 and 2020 were identified. Primary PFSS procedures included medial patellofemoral (MPFL) reconstruction (n = 31; 50%); MPFL repair (n = 22; 35.5%); or other PFSS (n = 9; 14.5%), such as tibial tubercle osteotomy, lateral retinacular release, and/or medial retinacular reefing. Exclusion criteria included revision PFSS or concomitant anterior cruciate ligament reconstruction or multiligament knee injury. Surgical failure was defined as subsequent patellar dislocation despite operative management or need for secondary PFSS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ultimately, 62 knees in 56 wrestlers with a mean age of 17.0 years (range, 14.0-22.8 years) were included at a mean follow-up of 6.6 years (range, 2.0-18.8 years). RTW occurred in 55.3% of wrestlers at a mean ± SD 8.8 ± 6.7 months. Among PFSS types, no differences were observed in rates of RTW (<i>P</i> = .676), postoperative pain (<i>P</i> = .176), Tegner activity level (<i>P</i> = .801), International Knee Documentation Committee (<i>P</i> = .378), Lysholm (<i>P</i> = .402), or Kujala scores (<i>P</i> = .370). RPI was the most common postoperative complication (n = 13; 21.0%). MPFL reconstruction had the lowest rate of RPI (6.5% vs 27.3% [repair] vs 55.6% [other]; <i>P</i> = .005) and surgical failure (9.7% vs 31.8% [repair] vs 55.6% [other]; <i>P</i> = .008). Kaplan-Meier survivorship free from surgical failure of the entire cohort was 91.9% at 1 year, 77.7% at 5 years, and 65.7% at 15 years. MPFL reconstruction had the highest survivorship when compared with MPFL repair and other PFSS up to 10 years after the index surgery (90.3% vs 64.1% vs 27.8%; <i>P</i> = .048)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "RPI remains a concern for competitive wrestlers after PFSS. MPFL reconstruction may serve as a more durable surgical treatment option with lower rates of RPI and failure when compared with other PFSS procedures at up to 10 years after surgery."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

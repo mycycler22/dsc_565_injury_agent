@@ -1,0 +1,33 @@
+{
+  "pmid": "22456856",
+  "title": "Effectiveness of anterior cruciate ligament injury prevention training programs.",
+  "year": "2012",
+  "journal": "The Journal of bone and joint surgery. American volume",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The objective of this study was to systematically review the literature on anterior cruciate ligament (ACL) injury prevention programs and to perform a meta-analysis to address three questions: First, what is the effectiveness of ACL injury prevention programs? Second, is there evidence for a \"best\" program? Third, what is the quality of the current literature on ACL injury prevention?"
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a systematic review with use of the online PubMed, MEDLINE, EMBASE, CINAHL (Cumulative Index to Nursing and Allied Health), and Cochrane Central Register of Controlled Trials databases. Search terms were anterior cruciate ligament, knee, injury, prevention, and control. Data on study design and clinical outcomes were extracted independently in triplicate. After assessment of between-study heterogeneity, DerSimonian-Laird random-effect models were used to calculate pooled risk ratios and risk differences. The risk difference was used to estimate the number needed to treat (the number of individuals who would need to be treated to avoid one ACL tear)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The pooled risk ratio was 0.38 (95% confidence interval [CI], 0.20 to 0.72), reflecting a significant reduction in the risk of ACL rupture in the prevention group (p = 0.003). The number needed to treat ranged from five to 187 in the individual studies. Stratified by sex, the pooled risk ratio was 0.48 (95% CI, 0.26 to 0.89) for female athletes and 0.15 (95% CI, 0.08 to 0.28) for male athletes."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our study indicated strong evidence in support of a significant effect of ACL injury prevention programs. Our pooled estimates suggest a substantial beneficial effect of ACL injury prevention programs, with a risk reduction of 52% in the female athletes and 85% in the male athletes."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

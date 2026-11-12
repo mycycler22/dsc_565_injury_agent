@@ -1,0 +1,41 @@
+{
+  "pmid": "24581907",
+  "title": "Systematic review of prognosis and return to play after sport concussion: results of the International Collaboration on Mild Traumatic Brain Injury Prognosis.",
+  "year": "2014",
+  "journal": "Archives of physical medicine and rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To synthesize the best available evidence on prognosis after sport concussion."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "MEDLINE and other databases were searched (2001-2012) with terms including \"craniocerebral trauma\" and \"sports.\" Reference lists of eligible articles were also searched."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Randomized controlled trials and cohort and case-control studies were selected according to predefined criteria. Studies had to have a minimum of 30 concussion cases."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Eligible studies were critically appraised using a modification of the Scottish Intercollegiate Guidelines Network (SIGN) criteria. Two reviewers independently reviewed and extracted data from accepted studies into evidence tables."
+    },
+    {
+      "label": "DATA SYNTHESIS",
+      "text": "Evidence was synthesized qualitatively according to modified SIGN criteria, and studies were categorized as exploratory or confirmatory based on the strength of their design and evidence. After 77,914 records were screened, 52 articles were eligible for this review, and 24 articles (representing 19 studies) with a low risk of bias were accepted. Our findings are based on exploratory studies of predominantly male football players at the high school, collegiate, and professional levels. Most athletes recover within days to a few weeks, and American and Australian professional football players return to play quickly after mild traumatic brain injury. Delayed recovery appears more likely in high school athletes, in those with a history of previous concussion, and in those with a higher number and duration of postconcussion symptoms."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The evidence concerning sports concussion course and prognosis is very preliminary, and there is no evidence on the effect of return-to-play guidelines on prognosis. Our findings have implications for further research. Well-designed, confirmatory studies are urgently needed to understand the consequences of sport concussion, including recurrent concussion, across different athletic populations and sports."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

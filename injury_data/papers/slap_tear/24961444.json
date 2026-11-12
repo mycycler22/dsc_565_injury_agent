@@ -1,0 +1,40 @@
+{
+  "pmid": "24961444",
+  "title": "Surgical treatment of symptomatic superior labrum anterior-posterior tears in patients older than 40 years: a systematic review.",
+  "year": "2015",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Successful arthroscopic repair of symptomatic superior labral tears in young athletes has been well documented. Superior labral repair in patients older than 40 years is controversial, with concerns for residual postoperative pain, stiffness, and higher rates of revision surgery."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To analyze the published data on the surgical treatment of superior labral injuries in patients aged ≥40 years, including those with concomitant injuries to the rotator cuff."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of the literature was performed using the Preferred Reporting Items of Systematic Reviews and Meta-Analysis (PRISMA) guidelines. The MEDLINE database via PubMed and the Cochrane Database of Systematic Reviews were searched for articles related to superior labrum anterior-posterior (SLAP) tears. Studies were included if they met the following criteria: the study contained at least 1 group of patients who had undergone arthroscopic repair of a type II or IV SLAP lesion with a minimum 2-year follow-up, objective and/or functional scoring systems were used to evaluate postoperative outcomes, and the mean patient age was ≥40 years for at least 1 treatment arm or subgroup analysis. Studies were excluded if the article was a review or if the article included data for SLAP type I, III, or V to X tears or Bankart lesions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "While several authors reported equivalent outcomes of SLAP repair in patients both older than 40 years and younger than 40 years, others demonstrated significantly higher failure rates in the older cohort. Decreased patient satisfaction and increasing complications, including postoperative stiffness and reoperations, occur at higher rates as the patient age increases. The literature demonstrates that biceps tenotomy and tenodesis are reliable alternatives to SLAP repair and that biceps tenotomy is a viable revision procedure for failed SLAP repair. With concomitant rotator cuff tears, the evidence favors debridement or biceps tenotomy over SLAP repair."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "While studies show that good outcomes can be obtained with SLAP repair in an older cohort of patients, age older than 40 years and workers' compensation status are independent risk factors for increased surgical complications. The cumulative evidence supports labral debridement or biceps tenotomy over labral repair when an associated rotator cuff injury is present."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

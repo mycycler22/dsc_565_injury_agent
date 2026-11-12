@@ -1,0 +1,32 @@
+{
+  "pmid": "37296158",
+  "title": "Factors associated with concussion management behavior in Ladies Gaelic Football players.",
+  "year": "2023",
+  "journal": "Brain injury",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sport-related concussion (SRC) management may be poor in community sports such as Ladies Gaelic Football (LGF). This study examined factors associated with SRC management behavior in adult LGF players."
+    },
+    {
+      "label": "METHODS",
+      "text": "Participants (<i>n</i> = 657) answered an online survey on demographic factors, concussion knowledge, attitudes, and education, and SRC management behavior. Data from participants who reported sustaining an LGF-related SRC during the previous year (<i>n</i> = 115) were further analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Being diagnosed with SRC was the main factor influencing subacute management behavior. Players with diagnosed SRCs had increased odds of following a graded return-to-play (RTP) programme (OR = 4.89), following a medically supervised graded RTP programme (OR = 10.16), and being medically cleared before full RTP (OR = 13.45) compared with those with suspected SRCs. Concussion history was associated with increased odds of informing a coach of a possible SRC (OR = 2.86). Demographic factors, previous use of Ladies Gaelic Football Association concussion education resources, and concussion knowledge and attitudes had minimal or no influence on management behaviors."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Greater access to medical personnel at LGF training and matches is recommended. Due to limited medical resources in community sport, a clear referral pathway for players with SRC and comprehensive SRC education should be introduced to ensure players receive adequate medical care."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

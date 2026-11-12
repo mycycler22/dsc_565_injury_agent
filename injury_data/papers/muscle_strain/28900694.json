@@ -1,0 +1,20 @@
+{
+  "pmid": "28900694",
+  "title": "[Muscle injuries in athletes : The value of magnetic resonance imaging].",
+  "year": "2017",
+  "journal": "Der Radiologe",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Competitive sports yield high demands on the musculoskeletal system, accordingly muscle injuries are a common complication. Early imaging clarification of the muscles in cases of a trauma is essential in order to define the exact location of the lesion, the affected muscles, the extent and the degree of the injury as well as to define possible concomitant complications. In the case of a professional athlete, the assessment made by MRI is important for defining the individually required resting period for a riskless resumption of the sporting activities."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

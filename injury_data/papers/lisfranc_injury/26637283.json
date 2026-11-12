@@ -1,0 +1,52 @@
+{
+  "pmid": "26637283",
+  "title": "Return to Training and Playing After Acute Lisfranc Injuries in Elite Professional Soccer and Rugby Players.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lisfranc joint injuries are increasingly recognized in elite soccer and rugby players. Currently, no evidence-based guidelines exist on time frames for return to training and competition after surgical treatment."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess the time to return to training and playing after Lisfranc joint injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A consecutive series of 17 professional soccer and rugby players in the English Premier/Championship leagues was assessed using prospectively collected data. All were isolated injuries sustained during training or competitive matches. Each player had clinical and radiological evidence of an unstable Lisfranc injury and required surgical treatment. A standardized postoperative regimen was used. The minimum follow-up time was 2 years."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Clinical and radiological follow-up was obtained in all 17 players. Seven players had primarily ligamentous injuries, and 10 had bony injuries. The time from injury to fixation ranged from 8 to 31 days, and hardware was removed at 16 weeks postoperatively. One athlete retired after a ligamentous injury; the remaining 16 players returned to training and full competition. Excluding the retired player, the mean time to return to training was 20.1 weeks (range, 18-24 weeks) and to full competition was 25.3 weeks (range, 21-31 weeks). There was a significant difference between the mean time to return to competition for rugby (27.8 weeks) and soccer players (24.1 weeks; P = .02) and for ligamentous (22.5 weeks) compared with bony injuries (26.9 weeks; P = .003). Three patients suffered deep peroneal nerve sensation loss, from which 1 patient did not fully recover."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Return to competitive elite-level soccer and rugby is possible after surgically treated Lisfranc injuries. Return to training can take up to 24 weeks and return to playing up to 31 weeks, with bony injuries taking longer."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Excluding the retired player, the mean time to return to training was 20.1 weeks (range, 18-24 weeks) and to full competition was 25.3 weeks (range, 21-31 weeks)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "There was a significant difference between the mean time to return to competition for rugby (27.8 weeks) and soccer players (24.1 weeks;"
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Return to training can take up to 24 weeks and return to playing up to 31 weeks, with bony injuries taking longer."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

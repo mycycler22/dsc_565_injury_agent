@@ -1,0 +1,36 @@
+{
+  "pmid": "37545869",
+  "title": "Femoral neck stress fracture return to activity and the effect of metabolic dysfunction on recovery: A systematic review.",
+  "year": "2023",
+  "journal": "Journal of orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoral neck stress fractures are rare fractures traditionally found in athletes and military personnel. There is limited literature on return to activity."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To report return to activity rates and times, and long-term outcomes for femoral neck stress fractures reported in the literature. To examine the effects of bone metabolic dysfunction and surgical management on return to activity following FNSF."
+    },
+    {
+      "label": "RESEARCH DESIGN & METHODS",
+      "text": "A systematic literature review of case reports and case series on adults with femoral neck stress fracture that were diagnosed by gross fracture line on X-ray or gold-standard diagnosis with MRI was conducted. Initial search was limited to articles published from January 1997 to Jan 2023 listed in Medline, Embase, and Scopus. Additional articles were manually added via search of retained paper sources. Patient demographics, fracture type, return to activity time, and surgical vs non-surgical treatment modality were collected. In addition, long-term outcomes and metabolic effects, if reported, were abstracted."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 40 case reports or case series were retained. 123 stress fractures of the femoral neck from 103 patients were compiled. Of the 103 patients, data on return to activity at least one year following treatment was available for 53 patients. 71% (37/53) of those with long-term follow-up information returned to full pre-injury activity. 24% (13/53) at long-term follow-up had functional recovery but did not return to pre-injury activity due to residual pain. 4% (3/53) had disabling pain. Metabolic workup information was available for 36 patients."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Long-term follow-up and return to activity information following FNSF treatment are not commonly reported. Based on the available data, outcomes appear benign with most returning to full activity. There is a clear need for standardization of follow-up periods and hip function measure after FNSF treatment. Additionally, a sizable proportion of FNSF occurred in a new population of low-activity individuals with abnormal bone metabolism, which warrants further exploration."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

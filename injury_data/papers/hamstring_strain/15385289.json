@@ -1,0 +1,33 @@
+{
+  "pmid": "15385289",
+  "title": "Longitudinal study comparing sonographic and MRI assessments of acute and healing hamstring injuries.",
+  "year": "2004",
+  "journal": "AJR. American journal of roentgenology",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "We compared sonography and MRI for assessing hamstring injuries in professional football players (Australian football) 3 days, 2 weeks, and 6 weeks after an injury and identified imaging characteristics at baseline that may be useful in predicting the time needed for return to competition."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Sixty men who are professional football players presented with suspected acute hamstring strain underwent sonography and MRI within 3 days of injury; those who were injured returned 2 and 6 weeks later for follow-up MRI and sonography. Two radiologists interpreted either the MR images or the sonograms and were blinded to the results of the other technique. The following six parameters were measured at each assessment: the muscle injured, the site of injury within the muscle, the longitudinal injury length (expressed in millimeters), the cross-sectional injured area (expressed as a percentage), and the presence of interand intramuscular hematoma."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At baseline, MRI identified abnormalities in 42 (70.0%) of 60 patients, whereas sonography found abnormalities in 45 (75%) of 60. At 2 weeks, 29 (59.2%) of 49 scans showed abnormalities on MRI and 25 (51.0%) of 49 showed abnormalities on sonograms. Of those players who were injured at baseline, 15 (35.7%) of 42 and 10 (22.2%) of 45 still showed abnormal results on scans at 6 weeks on MRI and sonography, respectively. However, all but one player had returned to competition. The biceps femoris was the most commonly injured muscle and the musculotendinous junction was the most common site of injury. Injuries appeared significantly larger on MRI than on sonography at all time points. Our analysis showed that at baseline, the longitudinal length of hamstring tear on MRI had the highest statistical correlation with recovery (r = 0.58, p < 0.0001) and was the best radiologic predictor for return to competition."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Sonography is as useful as MRI in depicting acute hamstring injuries and because of lower costs may be the preferred imaging technique. However, MRI is more sensitive for follow-up imaging of healing injuries. The longitudinal length of the strain as measured on MRI is a strong predictor for the amount of time needed until an athlete can return to competition."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

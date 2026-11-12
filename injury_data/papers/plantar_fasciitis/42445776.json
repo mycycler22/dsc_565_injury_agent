@@ -1,0 +1,35 @@
+{
+  "pmid": "42445776",
+  "title": "Evaluating the Therapeutic Efficacy of Platelet-Rich Plasma as a Treatment for Plantar Fasciitis.",
+  "year": "2026",
+  "journal": "Journal of the West African College of Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Plantar fasciitis, a common cause of heel pain, affects middle-aged individuals, athletes, and people with repetitive foot strain. It often impairs daily activities and quality of life. While conventional treatments, such as nonsteroidal anti-inflammatory drugs and corticosteroids, provide temporary relief, they rarely address underlying pathology. Platelet-rich plasma (PRP), with its regenerative potential, has emerged as a promising alternative."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "This study evaluates the therapeutic efficacy of PRP in reducing pain and improving function in plantar fasciitis patients."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "This prospective study included 40 patients with plantar fasciitis who met the inclusion criteria of pain persisting for over 3 months and a baseline Visual Analogue Scale (VAS) score ≥7. PRP was prepared via double centrifugation to ensure a platelet count >1,000,000/µL. Injections were administered using the peppering technique, followed by sterile bandaging. Pain was assessed using the VAS at baseline and follow-ups at 1, 3, and 6 months. Data were analysed using repeated measures analysis of variance and <i>post hoc</i> Tukey tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean VAS score reduced significantly from 8.68 ± 0.50 at baseline to 3.70 ± 2.60 at 1 month, 1.80 ± 2.30 at 3 months, and 1.82 ± 2.32 at 6 months (<i>P</i> < 0.001). The most substantial improvement occurred within the first month. No significant differences in pain reduction were noted across age or gender groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "PRP demonstrated significant and sustained pain relief in plantar fasciitis, with marked improvements within the first month post-injection. These findings align with existing literature and support PRP as a viable treatment. However, the study's small sample size and lack of a control group highlight the need for larger randomised trials."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

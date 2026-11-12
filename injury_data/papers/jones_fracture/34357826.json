@@ -1,0 +1,48 @@
+{
+  "pmid": "34357826",
+  "title": "Outcomes of Surgically Treated Fifth Metatarsal Fractures in Major League Soccer Athletes.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sports-related fractures of the fifth metatarsal are common in professional athletes. Data regarding outcomes of surgical management including refracture, complications, and return-to-play statistics are available for other professional American sports with a notable exception of soccer."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To quantify the burden of operative fifth metatarsal fractures in Major League Soccer (MLS) athletes, to compare outcomes as well as refracture and complication rates with other professional sports, to analyze factors that may contribute to treatment failure, and to report on return-to-play characteristics for affected players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "We searched all injuries in the prospectively collected HealtheAthlete database for MLS for operative fifth metatarsal fractures for seasons 2013 to 2017. Additional information regarding each fracture including demographics, treatment, postoperative course, and return-to-play statistics were compiled from HealtheAthlete and supplemented by teams' chief medical officers, coaches, trainers, and online sources."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 21 fractures in 18 players during the study period. Mean time to radiographic healing was 8.5 weeks (n = 17). Mean time to return to play was 11.1 weeks (n = 19). Of 21 fractures, 20 (95%) players returned to sport. Of 18 players, 4 (22.2%) experienced refracture. Of 18 players, 5 (27.8%) and 2 (11.1%) reported previous stress injuries on the contralateral and ipsilateral limb, respectively. Player performance characteristics showed small declines in the first year of return that improved by the second year."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MLS athletes who sustain a sports-related fifth metatarsal fracture can expect a high rate of return to sport with time to radiographic healing and return to play as well as risk of refracture similar to other professional cohorts."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mean time to radiographic healing was 8.5 weeks (n = 17)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Mean time to return to play was 11.1 weeks (n = 19)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

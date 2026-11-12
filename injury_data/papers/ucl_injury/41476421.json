@@ -1,0 +1,40 @@
+{
+  "pmid": "41476421",
+  "title": "Ulnohumeral Joint Space Gapping Restoration to Normal on Postoperative Stress Ultrasound after Ulnar Collateral Ligament Reconstruction.",
+  "year": "2026",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Despite the clinical and functional improvements exhibited by ulnar collateral ligament (UCL) reconstruction (UCLR), there is little published in vivo information pertaining to how UCLR affects medial ulnohumeral joint space gapping seen on stress ultrasound (SUS), which has been used as a surrogate for quantifying clinical instability."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine if UCLR results in a decrease in ulnohumeral joint space gapping as measured on postoperative SUS examination."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Overhead throwing athletes were identified within an existing institutional review board-approved single-blinded, prospective, randomized controlled trial designed to assess treatment outcomes after modified Jobe or docking UCLR. Patients underwent a uniform surgical approach with pre- and postoperative (minimum of 1 year) radiographic assessment with SUS. Postoperative SUS ulnohumeral joint space gapping (delta) of the affected extremity was compared with the ipsilateral and contralateral preoperative values."
+    },
+    {
+      "label": "RESULTS",
+      "text": "SUS results were available for 41 of 80 (51.2%; 20 modified Jobe and 21 Docking) patients with a mean age of 19.2 ± 1.9 years, including 93% baseball players. Joint space gapping as a result of the stress examination (delta) was 0.83 ± 0.53 mm for the contralateral reference elbow, 2.28 ± 1.26 mm for preoperative affected elbow baseline, and 0.69 ± 0.44 mm for the postoperative elbow at a minimum of 1 year after UCLR. UCLR resulted in a 330% decrease in the magnitude of joint gapping measured on postoperative SUS, with a mean decrease of 1.55 mm, and significant improvement irrespective of modified Jobe or docking technique (<i>P</i> < .001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "UCLR returned average ulnohumeral joint space gapping to normal values on postoperative SUS. UCLR results in a mean decrease of joint space gapping from 2.28 ± 1.26 mm to 0.69 ± 0.44 mm. Regardless of technique, UCLR restored delta values to those comparable to the contralateral, unaffected elbow (0.83 ± 0.53 mm). Both techniques yielded mean gapping values <1.0 mm. These findings provide surgeons with the expected change in joint space gapping after UCLR, as measured on SUS. By providing a reference, surgeons can better interpret SUS results in patients with concern for recurrent UCL injury after reconstruction where magnetic resonance studies alone may be challenging to interpret."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

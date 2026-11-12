@@ -1,0 +1,46 @@
+{
+  "pmid": "34272297",
+  "title": "Adequate return to sports and sports activities after treatment of Lisfranc injury: a meta-analysis.",
+  "year": "2021",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "IMPORTANCE",
+      "text": "Although a large number of Lisfranc injuries occur during sports, data on sports outcomes, such as return to sport (RTS) rates and times as well as level of sports activities after treatment of this injury remain limited."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim is to assess the RTS rates, times and the sports activity levels after different treatments of Lisfranc injuries."
+    },
+    {
+      "label": "EVIDENCE REVIEW",
+      "text": "The electronic databases PubMed (MEDLINE), EMBASE, CDSR, DARE and CENTRAL were searched to identify relevant articles from January 1985 to July 2020. The mean RTS rates (to any level and preinjury level of sports) and times were extracted per study, and pooled wherever methodologically possible. Methodological quality of the included studies was assessed using the Methodological Index for Non-Randomized Studies criteria (MINORS)."
+    },
+    {
+      "label": "FINDINGS",
+      "text": "Fifteen studies were included in this review. Methodological quality of the studies was poor. The treatments reported in the studies were conservative treatment, surgical fixation and primary partial arthrodesis. For conservative treatment, the RTS rate regardless of sports level was 93% (95% CI 81% to 98%; n=42) and for return to preinjury level of sports was 88% (95% CI 75% to 95%; n=42). The fixation group showed a RTS percentage of 94% (95% CI 91% to 97%; n=270) to each level of sports and for return to the level before injury was 86% (95% CI 80% to 90%; n=188). In the primary partial arthrodesis group, the return to any level of sports was 94% (95% CI 85% to 98%; n=65) and for return to preinjury level was 74% (95% CI 62% to 83%; n=65). Mean time to RTS ranged from 7 to 33 weeks across all treatment groups. No data pooling was possible for this outcome measure. From the different studies, a total of 43 different sports and 440 physical activities were reported before treatment. After treatment, patients participated in 37 different sports (88%) and 391 different physical activities (89%)."
+    },
+    {
+      "label": "CONCLUSIONS AND RELEVANCE",
+      "text": "The different treatment options for Lisfranc injuries allow for good sport-specific outcomes with 93% to 94% of athletes returning to any level of sports, and 74% to 88% of athletes returning to their preinjury level of sport. These sport-specific outcomes can be used to inform patients about their expected sport-specific outcomes after different treatments of Lisfranc injuries."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Systematic review and meta-analysis."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [
+    {
+      "section": "FINDINGS",
+      "sentence": "Mean time to RTS ranged from 7 to 33 weeks across all treatment groups."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

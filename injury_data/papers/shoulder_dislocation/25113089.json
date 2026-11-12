@@ -1,0 +1,36 @@
+{
+  "pmid": "25113089",
+  "title": "[Shoulder dislocation in athletes].",
+  "year": "2014",
+  "journal": "Der Chirurg; Zeitschrift fur alle Gebiete der operativen Medizen",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder dislocation is a common injury in athletes. Surgical and non-surgical therapy options are still the subject of controversial debate."
+    },
+    {
+      "label": "STUDY AIM",
+      "text": "This article presents important considerations for decision-making and current concepts for the therapy of shoulder dislocation in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A selective literature search was carried out in PubMed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Surgical and non-surgical therapy options are described in the literature without yet defining a gold standard."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Early surgical stabilization is currently recommended in young athletes. For decision-making numerous sport and patient-related factors need to be considered. Most athletes are able to return to the pre-injury level after surgical stabilization."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

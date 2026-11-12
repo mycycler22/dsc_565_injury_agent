@@ -1,0 +1,43 @@
+{
+  "pmid": "27592407",
+  "title": "Relationship of Hip and Trunk Muscle Function with Single Leg Step-Down Performance: Implications for Return to Play Screening and Rehabilitation.",
+  "year": "2016",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Evaluate the relationship of hip and trunk muscle function with the Single Leg Step-Down test (SLSD)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Laboratory study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Biomechanics Laboratory."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "71 healthy participants with no history of anterior cruciate ligament (ACL) or lower extremity injury in the last 3 months completed this study (38 males, 33 females; mean 25.49 ± 0.62 years)."
+    },
+    {
+      "label": "MAIN OUTCOMES",
+      "text": "Hip abduction (HABD), external rotation (HER), and extension (HEXT) peak isometric force were measured. Trunk endurance was measured with plank (PL) and side plank (SPL) tests. SLSD repetitions in 60-s and dynamic knee valgus (VAL) were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "PL, SPL, HABD, HER, and HEXT were positively correlated with SLSD repetitions. PL (r = 0.598, p < 0.001) was most correlated with SLSD repetitions, and regression demonstrated that PL (p = 0.001, R<sup>2</sup> = 0.469) was a predictor of SLSD repetitions. VAL trended toward negative correlation with PL and SPL. Sex-specific differences were present, with PL, SPL, HABD, and HER showing stronger relationships with SLSD in females."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip and trunk muscle function were positively correlated with SLSD performance, and these relationships were strongest in females. PL predicted performance on the SLSD. Further research is needed to investigate the utility of SLSD as a screening or return-to-play test for lower extremity conditions such as ACL injury and patellofemoral pain."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

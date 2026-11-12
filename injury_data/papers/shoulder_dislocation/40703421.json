@@ -1,0 +1,31 @@
+{
+  "pmid": "40703421",
+  "title": "Association of upper thoracic motion and scapular upward rotation angle with the occurrence of traumatic shoulder dislocation in rugby players.",
+  "year": "2025",
+  "journal": "JSES international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The study aimed to elucidate the relationship between reduced thoracic elevation mobility and scapular upward rotation and the occurrence of traumatic shoulder dislocation in rugby players, as this relationship is unclear."
+    },
+    {
+      "label": "METHODS",
+      "text": "First-year college rugby players who underwent medical checkups were included in this study. Thoracic elevation mobility (upper thoracic mobility) was calculated using straightforward frontal radiographs of the drooped and maximally elevated upper extremity. Moreover, the scapular upward rotation angle was measured using an X-ray scan taken at 45° scapular plane elevation. The athletes were divided into two groups: one with those who had suffered traumatic shoulder dislocation between the medical checkups and their fourth year of college (dislocation group) and another with those who had not suffered shoulder dislocation (no-dislocation group). Upper thoracic mobility and scapular upward rotation measurements were conducted using radiographs. Statistical analysis, including logistic regression, was performed to identify dislocation risk factors."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Five and fifty-six players were included in the dislocation and no-dislocation groups, respectively. The upper thoracic mobility and scapular upward rotation angle in the dislocation group were significantly lower than in the no-dislocation group (<i>P</i> = .025 and <i>P</i> = .003). Reduced upper thoracic mobility and reduced scapular upward rotation angles were identified as risk factors for traumatic shoulder dislocation (<i>P</i> = .024 and <i>P</i> = .001, respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Decreased upper thoracic mobility and decreased scapular upward rotation angle may be related to traumatic shoulder dislocation."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

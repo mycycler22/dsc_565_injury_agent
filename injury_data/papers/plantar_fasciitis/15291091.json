@@ -1,0 +1,20 @@
+{
+  "pmid": "15291091",
+  "title": "Diagnosing heel pain in adults.",
+  "year": "2004",
+  "journal": "American family physician",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Heel pain is a common condition in adults that may cause significant discomfort and disability. A variety of soft tissue, osseous, and systemic disorders can cause heel pain. Narrowing the differential diagnosis begins with a history and physical examination of the lower extremity to pinpoint the anatomic origin of the heel pain. The most common cause of heel pain in adults is plantar fasciitis. Patients with plantar fasciitis report increased heel pain with their first steps in the morning or when they stand up after prolonged sitting. Tenderness at the calcaneal tuberosity usually is apparent on examination and is increased with passive dorsiflexion of the toes. Tendonitis also may cause heel pain. Achilles tendonitis is associated with posterior heel pain. Bursae adjacent to the Achilles tendon insertion may become inflamed and cause pain. Calcaneal stress fractures are more likely to occur in athletes who participate in sports that require running and jumping. Patients with plantar heel pain accompanied by tingling, burning, or numbness may have tarsal tunnel syndrome. Heel pad atrophy may present with diffuse plantar heel pain, especially in patients who are older and obese. Less common causes of heel pain, which should be considered when symptoms are prolonged or unexplained, include osteomyelitis, bony abnormalities (such as calcaneal stress fracture), or tumor. Heel pain rarely is a presenting symptom in patients with systemic illnesses, but the latter may be a factor in persons with bilateral heel pain, pain in other joints, or known inflammatory arthritis conditions."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

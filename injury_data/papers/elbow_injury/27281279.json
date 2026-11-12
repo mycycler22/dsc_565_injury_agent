@@ -1,0 +1,39 @@
+{
+  "pmid": "27281279",
+  "title": "Humeral Torsion as a Risk Factor for Shoulder and Elbow Injury in Professional Baseball Pitchers.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Numerous studies have demonstrated that humeral retrotorsion is increased in the dominant arms of throwing athletes. No study has clearly defined the relationship between humeral retrotorsion and shoulder and elbow injury."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Uninjured professional pitchers will display more dominant humeral torsion (HT) than professional pitchers who sustain shoulder injuries but less than pitchers who sustain elbow injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Pitchers from the Colorado Rockies professional baseball organization were recruited for participation for this prospective injury study from 2009 to 2013. HT was assessed using indirect ultrasonographic techniques and was measured prospectively in 255 pitchers before each spring training (average of 2 trials). From the beginning of the preseason to the end of the postseason, overuse upper extremity injuries (shoulder or elbow) were tracked for each participating athlete. All athletes who reported pain or injury to their coach were referred to the organization's athletic trainer for evaluation and classification of each injury. The difference in HT was calculated by subtracting measurement of the dominant arm from the nondominant arm, and 3 separate mixed-model analyses of variance (side × injury group) were used to compare the dominant and nondominant HT between all pitchers who developed an arm injury (shoulder and elbow combined), as well as comparing pitchers who developed a shoulder or elbow injury to those who did not miss games due to shoulder or elbow injury (α = .05)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the course of the study, 60 arm (30 shoulder; 30 elbow) injuries were observed; 195 pitchers did not suffer an injury. There were no differences when HT was compared between all injured (shoulder and elbow injuries combined) and uninjured pitchers (P = .13; effect size 0.14). There was a significant interaction effect showing that pitchers who suffered a shoulder injury displayed 4° less dominant humeral retrotorsion compared with pitchers without injury (P = .04) and that pitchers with elbow injury displayed 5° greater humeral retrotorsion (P = .04). In addition, those who suffered an ulnar collateral ligament injury requiring reconstruction (n = 17) also displayed 4(o) greater dominant retrotorsion and 5° less nondominant humeral retrotorsion compared with pitchers who did not suffer an injury (n = 195; P = .05). There was not a significant difference between nondominant HT among pitchers who sustained shoulder and elbow injuries and pitchers without injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The results of this study show a contrast in dominant humeral retrotorsion between pitchers who suffered shoulder and elbow injuries compared with those without an injury. Pitchers who sustained shoulder injuries had less dominant humeral retrotorsion compared with noninjured pitchers. In contrast, pitchers who sustained time-loss elbow injuries displayed increased humeral retrotorsion compared with noninjured pitchers. Together, these results suggest that increased adaptive humeral retrotorsion is protective against shoulder injuries but a harmful contributor for elbow injuries in professional pitchers. This is the first study to show differing injury risk profiles for shoulder and elbow injury."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

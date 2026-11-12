@@ -1,0 +1,31 @@
+{
+  "pmid": "40321862",
+  "title": "Perceptions of ulnar collateral ligament injury in the online baseball community.",
+  "year": "2025",
+  "journal": "JSES reviews, reports, and techniques",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND HYPOTHESIS",
+      "text": "The incidence of medial elbow ulnar collateral ligament (UCL) injuries is increasing in youth athletes with minimal data available regarding perception of these injuries within the baseball community. The purpose of this study was to define the baseline knowledge of the online baseball community regarding UCL injuries, and secondarily to evaluate a short educational intervention to increase understanding regarding UCL injuries."
+    },
+    {
+      "label": "METHODS",
+      "text": "Participants were recruited through baseball-focused online discussion platforms over a 7-month period. A 15-question survey was administered to evaluate the primary outcome, assessing the online baseball community's perception of UCL anatomy, function, surgical indications, risks, and outcomes. An evidence-based 5-minute educational video and handout were then provided. A postintervention survey was administered to evaluate the secondary outcome. Demographic data were collected, and analysis of variance was used to assess between-subject differences. Repeated-measures analysis of variances compared preintervention and postintervention accuracy."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The primary survey was completed by 347 individuals. Most participants classified themselves as former athletes or fans (62%). Areas of misconceptions were identified pertaining to risk factors for injury (58.8% answered incorrectly) and postoperative outcomes (64.8% answered incorrectly). Only 41% of respondents, including 34% of coaches, correctly identified pitch counts as an appropriate means of reducing UCL injury risk. Baseline knowledge was relatively high (>90%) for basic anatomy and function. Respondents' accuracy increased significantly (<i>P</i> < .05) from 75.3% to 85.6% following the educational intervention. No statistical differences were found between demographic subgroups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Misperceptions regarding UCL injury and management are prevalent within the online baseball community. Misperceptions regarding risk factors for injury were especially profound among those who identified as coaches, indicating opportunity for more targeted educational interventions. Further initiatives should be pursued to educate the baseball community regarding UCL injuries and management."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

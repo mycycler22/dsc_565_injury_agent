@@ -1,0 +1,36 @@
+{
+  "pmid": "19138486",
+  "title": "A new option for intramedullary fixation of Jones fractures: the Charlotte Carolina Jones Fracture System.",
+  "year": "2008",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "A number of different screws are used for Jones fracture fixation in cases in which hastened healing is desirable or nonoperative treatment has failed. None of them were designed for this application, and consequently there is a lack of continuity in screw configuration and sizing that can force the use of a screw that is not optimally size-matched to the metatarsal. This can be particularly problematic in high-demand patients such as athletes, in whom screw fixation failure is more likely to occur. Application-specific screws available in graduated sizes are now an option. This study was designed to compare the bending fatigue resistance of the new screws with that of clinically-proven contemporary Jones fracture fixation screws. The results may provide a basis for judging the probability of successful screw performance relative to the other established screw options."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Bending fatigue resistance of the smallest-diameter Wright Medical Technologies Charlotte Carolina screw was compared to that of three commonly used contemporary screws. Cyclic three-point bending was applied to the screw shafts for 2,000,000 cycles or until 5 mm of deflection occurred. Four to six samples of each screw were tested."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The number of load cycles withstood by the new screws greatly exceeded the number of cycles tolerated by Acutrak 4/5 screws, Synthes 4.5-mm malleolar screws, and Synthes 4.5 mm cannulated screws."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The fatigue resistance of the smallest-diameter Charlotte Carolina screw exceeds that of other contemporary screws known to possess sufficient strength for Jones fracture fixation."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "It is likely that this system of graduated-size screws may be implemented for treatment of acute Jones fractures without concern for device failure. Patients may benefit from more accurate matching of the screw size to the fractured metatarsal."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

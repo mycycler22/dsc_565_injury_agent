@@ -1,0 +1,31 @@
+{
+  "pmid": "16498108",
+  "title": "Meniscal extrusion in young athletes: associated knee joint abnormalities.",
+  "year": "2006",
+  "journal": "AJR. American journal of roentgenology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The objective of our study was to assess the rate of meniscal extrusion and its connection with common meniscal and joint abnormalities."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "MR signs of meniscal extrusion were evaluated retrospectively in 24 rugby and soccer players (40 knees) who are currently free of pain in the knee, impaired mobility, and joint swelling. The control group consisted of 23 consecutive active individuals (36 knees) with no history of knee problems. The criterion for extrusion of the meniscus was defined as a distance of 3 mm or more between the peripheral border of the meniscus and the edge of the tibial plateau measured on coronal images."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Forty-eight percent of the athletes' knees and 30% of the control subjects' knees showed evidence of meniscal extrusion. Among the athletes, a significant association between meniscal extrusion and joint effusion (11 cases), meniscal tears (seven cases), and anterior cruciate ligament (ACL) tear (four cases) was found (p < or = 0.004). In the control group, no significant association was found between meniscal extrusion and joint effusion (three cases), meniscal tears (four cases), and ACL tears (two cases) (p = 1.00). A significant association was not found between degenerative change and meniscal extrusion in either the athletes (p = 0.23) or the control subjects (p = 1.00). The most commonly associated knee abnormality was joint effusion in 73% of knees with meniscal extrusion in athletes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Meniscal extrusion is a common finding on MRI of athletes' knees. Meniscal extrusion in association with meniscal tear and joint effusion is postulated as a significant injury in athletes and its recognition as such in this group is important because it may prompt orthopedic intervention."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

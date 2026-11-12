@@ -1,0 +1,20 @@
+{
+  "pmid": "25694241",
+  "title": "Does the adolescent patellar tendon respond to 5 days of cumulative load during a volleyball tournament?",
+  "year": "2016",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Patellar tendinopathy (jumper's knee) has a high prevalence in jumping athletes. Excessive load on the patellar tendon through high volumes of training and competition is an important risk factor. Structural changes in the tendon are related to a higher risk of developing patellar tendinopathy. The critical tendon load that affects tendon structure is unknown. The aim of this study was to investigate patellar tendon structure on each day of a 5-day volleyball tournament in an adolescent population (16-18 years). The right patellar tendon of 41 players in the Australian Volleyball Schools Cup was scanned with ultrasound tissue characterization (UTC) on every day of the tournament (Monday to Friday). UTC can quantify structure of a tendon into four echo types based on the stability of the echo pattern. Generalized estimating equations (GEE) were used to test for change of echo type I and II over the tournament days. Participants played between eight and nine matches during the tournament. GEE analysis showed no significant change of echo type percentages of echo type I (Wald chi-square = 4.603, d.f. = 4, P = 0.331) and echo type II (Wald chi-square = 6.070, d.f. = 4, P = 0.194) over time. This study shows that patellar tendon structure of 16-18-year-old volleyball players is not affected during 5 days of cumulative loading during a volleyball tournament."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

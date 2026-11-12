@@ -1,0 +1,33 @@
+{
+  "pmid": "18720116",
+  "title": "VISA-P score for patellar tendinopathy in males: adaptation to Italian.",
+  "year": "2008",
+  "journal": "Disability and rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To translate and adapt the English VISA-P questionnaire to Italian and to perform reliability and validity evaluations of the Italian VISA-P version in patients with patellar tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "The VISA-P English version was translated into Italian by a bilingual orthopaedic surgeon. The back translation of the Italian version into English was performed by another bilingual orthopaedic surgeon. The original version was compared with the back translation. The VISA-P-I questionnaire was then administered to 25 male athletes (average age 27.9, range 18-32 years) with a diagnosis of patellar tendinopathy. For test-retest evaluation, the 25 patients were asked to complete the questionnaire at first examination, and 30 minutes following the end of this examination."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The kappa statistics for 25 patients was 0.78. There were no significant differences between the scores immediately after the consultation and 30 minutes later."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Italian and the English versions of the VISA-P questionnaire evaluate the same aspects of clinical severity in patients with patellar tendinopathy."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

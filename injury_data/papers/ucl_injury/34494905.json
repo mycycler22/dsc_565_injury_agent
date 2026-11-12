@@ -1,0 +1,46 @@
+{
+  "pmid": "34494905",
+  "title": "Rehabilitation and Return to Sport Criteria Following Ulnar Collateral Ligament Reconstruction: A Systematic Review.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) reconstruction (UCLR) is a viable treatment option for patients with UCL insufficiency, especially in the overhead throwing athlete. Within the clinical literature, there is still no universally agreed upon optimal rehabilitation protocol and timing for return to sport (RTS) after UCLR."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "There will be significant heterogeneity with respect to RTS criteria after UCLR. Most surgeons will utilize time-based criteria rather than functional or performance-based criteria for RTS after UCLR."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "All level 1 to 4 studies that evaluated UCLR with a minimum 1-year follow-up were eligible for inclusion. Studies lacking explicit RTS criteria, studies that treated UCL injury nonoperatively or by UCL repair, or studies reporting revision UCLR were excluded. Each study was analyzed for methodologic quality, RTS, timeline of RTS, and RTS rate."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 1346 studies were identified, 33 of which met the inclusion criteria. These included 3480 athletes across 21 different sports. All studies reported RTS rates either as overall rates or via the Conway-Jobe scale. Timelines for RTS ranged from 6.5 to 16 months. Early bracing with progressive range of motion (ROM) (93.9%), strengthening (84.8%), and participation in an interval throwing program (81.8%) were the most common parameters emphasized in these rehabilitation protocols. While all studies included at least 1 of 3 metrics for the RTS value assessment, most commonly postoperative rehabilitation (96.97%) and set timing after surgery (96.97%), no article completely defined RTS criteria after UCLR."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Overall, 93.9% of studies report utilizing bracing with progressive ROM, 84.8% reported strengthening, and 81.8% reported participation in an interval throwing program as rehabilitation parameters after UCLR. In addition, 96.97% reported timing after surgery as a criterion for RTS; however, there is a wide variability within the literature on the recommended time from surgery to return to activity. Future research should focus on developing a comprehensive checklist of functional and performance-based criteria for safe RTS after UCLR."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Timelines for RTS ranged from 6.5 to 16 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

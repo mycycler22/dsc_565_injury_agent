@@ -1,0 +1,43 @@
+{
+  "pmid": "24587861",
+  "title": "The running athlete: stress fractures, osteitis pubis, and snapping hips.",
+  "year": "2014",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Pelvic stress fractures, osteitis pubis, and snapping hip syndrome account for a portion of the overuse injuries that can occur in the running athlete."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "PUBMED SEARCHES WERE PERFORMED FOR EACH ENTITY USING THE FOLLOWING KEYWORDS: snapping hip syndrome, coxa sultans, pelvic stress fracture, and osteitis pubis from 2008 to 2013. Topic reviews, case reports, case series, and randomized trials were included for review."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Clinical review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Collectively, 188 articles were identified. Of these, 58 were included in this review."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Based on the available evidence, the majority of these overuse injuries can be managed non-operatively. Primary treatment should include removal from offending activity, normalizing regional muscle strength/length imbalances and nutritional deficiencies, and mitigating training errors through proper education of the athlete and training staff."
+    },
+    {
+      "label": "STRENGTH OF RECOMMENDATION TAXONOMY",
+      "text": "C."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

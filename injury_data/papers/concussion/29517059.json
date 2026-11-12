@@ -1,0 +1,28 @@
+{
+  "pmid": "29517059",
+  "title": "Medical retirement from sport after concussions: A practical guide for a difficult discussion.",
+  "year": "2018",
+  "journal": "Neurology. Clinical practice",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "In patients with a considerable history of sports-related concussion, the decision of when to discontinue participation in sports due to medical concerns including neurologic disorders has potentially life-altering consequences, especially for young athletes, and merits a comprehensive evaluation involving nuanced discussion. Few resources exist to aid the sports medicine provider."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "In this narrative review, we describe 10 prototypical vignettes based upon the authors' collective experience in concussion management and propose an algorithm to help clinicians navigate retirement discussions. Issues for consideration include absolute and relative contraindications to return to sport, ranging from clinical or radiographic evidence of lasting neurologic injury to prolonged concussion recovery periods or reduced injury threshold to patient-centered factors including personal identity through sport, financial motivations, and navigating uncertainty in the context of long-term risks."
+    },
+    {
+      "label": "SUMMARY",
+      "text": "The authors propose a novel treatment algorithm based on real patient cases to guide medical retirement decisions after concussion in sport."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

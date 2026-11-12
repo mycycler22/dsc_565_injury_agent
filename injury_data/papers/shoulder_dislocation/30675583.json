@@ -1,0 +1,31 @@
+{
+  "pmid": "30675583",
+  "title": "Hand dominance in traumatic shoulder dislocations.",
+  "year": "2018",
+  "journal": "JSES open access",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder dislocations are common injuries among athletes. Patients with instability after their injury often require stabilization procedures for treatment. The primary outcome measure was to see whether there was any correlation between the side of traumatic shoulder dislocation and dominance of hand. Secondary outcomes were to look at subgroups of age and sporting discipline."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "This study recruited all patients with a frank dislocation that required arthroscopic surgical stabilization who attended the same private orthopedic surgeon. Exclusion criteria included injury without frank dislocation, nonsport-related injuries, and ambidexterity. Data were collected for 325 of 365 patients (89.0% response rate)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 278 right hand-dominant patients (85.5%), with 136 (48.9%) requiring arthroscopic stabilization of their dominant side for dislocation. Of the remaining 47 left hand-dominant patients, 17 (36.2%) required operations on their dominant arm. In total, 153 patients (47.1%) dislocated their dominant shoulder and 172 (52.9%) dislocated their nondominant shoulder, with an odds ratio of 1.692 (95% confidence interval, 0.893-3.205)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This study suggests that there is no statistical significance between the side of shoulder dislocation and hand dominance of patients with shoulder dislocation. Future research could investigate further the causal relationship between hand dominance and mechanisms of injury."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

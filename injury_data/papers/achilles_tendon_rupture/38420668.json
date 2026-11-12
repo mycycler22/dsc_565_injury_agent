@@ -1,0 +1,20 @@
+{
+  "pmid": "38420668",
+  "title": "Risk factors and clinical characteristics of surgical site infections in athletes undergoing Achilles tendon repair surgery.",
+  "year": "2024",
+  "journal": "International wound journal",
+  "pub_types": [
+    "Journal Article",
+    "Retracted Publication"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achilles tendon ruptures are common in athletes, requiring surgical intervention. However, the risk of surgical site infections (SSIs) post-surgery poses significant challenges. This study aims to analyse the risk factors and microbial aetiology associated with SSIs in athletes undergoing Achilles tendon repair. A comprehensive retrospective analysis was conducted from May 2021 to July 2023. The study included 25 patients with SSIs (case group) and 50 patients without SSIs (control group) post Achilles tendon repair surgery. Inclusion criteria encompassed patients with medically confirmed Achilles tendon ruptures who underwent surgical repair. Exclusion criteria included prior tendon pathologies and significant chronic illnesses. Diagnostic criteria for SSIs involved symptoms like elevated body temperature and localized tenderness, along with laboratory confirmations such as positive microbiological cultures. The study utilized VITEK® 2 for bacterial identification and involved statistical analyses like univariate and multivariate logistic regression. The study identified Staphylococcus aureus as the primary pathogen in SSIs. Significant risk factors included lack of prophylactic antibiotic use, presence of diabetes, open wounds and prolonged surgery duration. Univariate analysis revealed stark contrasts in these factors between infected and non-infected groups, while multivariate analysis underscored their importance in SSI development. S. aureus emerged as the predominant pathogen in SSIs post Achilles tendon repair. Critical risk factors such as absence of prophylactic antibiotics, diabetes, open wounds and extended surgery duration play a vital role in SSIs. Addressing these factors is essential for better postoperative outcomes in Achilles tendon repair surgeries."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

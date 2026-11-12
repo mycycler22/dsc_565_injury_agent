@@ -1,0 +1,74 @@
+{
+  "pmid": "41158204",
+  "title": "Return to sport in athletes after surgical ankle fractures: A systematic review.",
+  "year": "2025",
+  "journal": "Journal of experimental orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Ankle fractures represent a significant health concern for athletes, comprising 15%-25% of all sports-related injuries. With increasing sports participation across all age groups, the public health impact of these injuries is expected to grow. Open reduction and internal fixation (ORIF) is a common approach to managing ankle fractures, particularly for athletes requiring rapid return to sports. However current information on the return to sports post-injury is largely anecdotal."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive literature search was conducted using keywords related to ankle fractures and sports return. Databases searched included Medline (PubMED), Cochrane and Google Scholar up to 12 April 2024. Articles published in English, Spanish, French, Portuguese, and Italian were considered. A total of 17 studies involving 1422 patients were analysed. Inclusion criteria covered randomised controlled trials and case series of over 10 patients focused on athletes with closed ankle fractures. Studies on paediatric fractures, soft tissue injuries, and non-sports-related fractures were excluded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The review analysed various types of ankle fractures, with an average patient age of 31.4 years. ORIF was the predominant treatment (89.4%), and the average return-to-sport rate was 87.1%. Time to return varied, with an average of 134.5 days. Recovery time was longer for more severe fractures, such as bimalleolar and trimalleolar fractures, which showed times of up to 720 days. Functional outcomes improved with early rehabilitation, and the average Foot and Ankle Outcome Score (FAOS) for sports was 85.6 after 12 months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Returning to sports after an ankle fracture is a critical concern for athletes. This systematic review provides valuable insights into the prognosis and timeline for resuming sports activities. By synthesising current evidence, it offers guidance for clinicians and athletes on managing recovery and optimising return to sports. Standardised, high-quality studies are needed to provide clearer guidelines."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    },
+    {
+      "label": "FOR CLINICAL TRIALS",
+      "text": "PROSPERO registration number 594839."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Time to return varied, with an average of 134.5 days."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Recovery time was longer for more severe fractures, such as bimalleolar and trimalleolar fractures, which showed times of up to 720 days."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Functional outcomes improved with early rehabilitation, and the average Foot and Ankle Outcome Score (FAOS) for sports was 85.6 after 12 months."
+    }
+  ],
+  "pmcid": "12558590",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "The review analysed various types of ankle fractures, with an average patient age of 31.4 years. ORIF was the predominant treatment (89.4%), and the average return‐to‐sport rate was 87.1%. Time to return varied, with an average of 134.5 days. Recovery time was longer for more severe fractures, such as bimalleolar and trimalleolar fractures, which showed times of up to 720 days. Functional outcomes improved with early rehabilitation, and the average Foot and Ankle Outcome Score (FAOS) for sports was 85.6 after 12 months."
+    },
+    {
+      "section": "Rate of return to sports and dropout rate",
+      "text": "The average rate to return to sports (%RTS) is 87.1% (range 64–100). Pina et al. provides the RTS percentages for various Weber classifications: Weber A 80%, Weber B 94.4%, Weber C 91.3% [34]. Additionally, two other scientific studies (10.5%, Hong et al. and Hong et al.), addressing trimalleolar fractures with very close follow‐up (12 months), report RTS percentages of 33.3% and 27.3%, respectively [14, 15]. Three authors (21.1%, Colvin et al., Matthews et al. and Saxena et al.) don't specify the rate to return to sports [6, 27, 41]. Although most studies identified RTS as the primary outcome, the operational definition of RTS varied considerably. Some studies assessed return to participation, defined as the resumption of training or non‐competitive sporting activities, whereas others evaluated return to previous performance, conceptualised as the recovery of pre‐injury competitive levels. Horterer et al. [16] reported that although 100% of patients resumed sports participation, only 50% achieved their prior performance level. Robbins et al. [38], focusing on professional athletes, specifically examined return to performance, underscoring the distinction between participation and full functional recovery. Beyond functional outcomes, 12 of the 17 studies also reported the incidence of sports dropout following ankle fractures. The mean dropout rate across all studies was 6.8%. More specifically, dropout rates were approximately 2% among professional athletes, 5% among competitive athletes, and 8% among amateur and recreational athletes. De Oliveira et al. [31] noted that 6.1% of athletes failed to resume routine activities, whereas Pina et al. [34] documented an 8.7% dropout rate after initial RTS. Notably, Horterer et al. [16] reported no cases of sport discontinuation within their cohort. Despite the generally high rates of RTS, a substantial proportion of athletes do not regain their pre‐injury performance level, and some ultimately discontinue sporting activities following their return."
+    },
+    {
+      "section": "Time to RTS",
+      "text": "Nine authors (47.3%) don't report the time to RTS; the average time to RTS is 134.5 days (Table 4). Horterer et al. analyze the lateral process of the talus and indicate a Time to RTS of 240 days: they report that Hawkins classification has no significant influence on time to RTS [16]. Hong et al. exclusively analyze bimalleolar and trimalleolar fractures and describe a Time to RTS of 720 days [14]. The analysis demonstrated that more severe injuries, including bimalleolar and trimalleolar fractures, were associated with prolonged recovery times relative to unimalleolar fractures. Moreover, higher levels of athletic competition correlated with longer recovery periods. Colvin et al. [6] observed that only 11.6% of competitive athletes successfully returned to sport within 1 year following surgical management of ankle fractures."
+    },
+    {
+      "section": "Clinical outcomes",
+      "text": "Lee et al. evaluated the functional outcome using the Foot and Ankle Outcome Score (FAOS), demonstrating significant improvement over time. At 3 months, the average score for the sport section was 72.3 for immediate weight bearing (IWB) and 67.4 for delayed weight bearing (DWB). By 12 months, these scores had increased to 85.6 for IWB and 83.5 for DWB. Other FAOS subscores, including pain, symptoms, activities of daily living (ADL), and quality of life (QOL), showed similar improvements, with one‐year scores ranging from 87.3 to 90.5 for IWB and from 88.3 to 89.8 for DWB [23]. Global assessments, such as the Visual Analogue Scale (VAS), indicated a reduction in pain, with an average score of 2.05 at 12. Hong et al. detected an average Olerud‐Molander Ankle Score (OMAS) of 78.3 at 12 months, with slightly higher scores (81.7) for bimalleolar fractures compared to trimalleolar fractures (78.3) [14]. Smeeing et al. used the SF‐36 score for physical functioning that exceeded 90 for fractures treated with immediate weight bearing and showed improvements over other treatment regimens [43]. The OMAS was higher in the unprotected weight‐bearing group after 6 weeks (61.2 ± 19.0) compared to the protected weight‐bearing (51.8 ± 20.4) and unprotected non‐weight‐bearing groups (45.8 ± 22.4). Johnson et al. reported the SANE (Single Assessment Numeric Evaluation) score and revealed that 50% of patients had scores above 90, reflecting high patient satisfaction [18]. Saxena et al. adopted the Roles and Maudsley score at eight weeks with an average value of 1.0 ± 0.0 [41]. Porter et al. utilised the AAOS Lower Limb Score Module: the mean scores were 94.6 for function and 98.0 for pain at the final evaluation (12 months–3.7 years after surgery) [35] (Table 4)."
+    },
+    {
+      "section": "TABLE: Rate of return to sports, time to return to sports and outcomes.",
+      "text": "Research study | Number of patients | Type of treatment | % RTS | Time to RTS (days) | Dropout rate | Outcomes\nRobbins et al. [38] | 31 | ORIF | 71% | 97.6 | n/s | n/s\nde Olivera et al. [31] | 49 | ORIF | 93.9% | n/s | 6.1% | 98% fully satisfied, 2% partial satisfaction\nLee et al. [23] | 100 | ORIF | 100% | n/s | n/s | FAOS\nPina et al. [34] | 92 | ORIF | Unimalleolar 100% Bi/trimalleolar 89% | n/s | 8.7% | n/s\nHorterer et al. [16] | 22 | ORIF | 100% | 240 | 0% | VAS FA 77 ± 21, Karlsson Score 72 ± 21\nJohnson et al. [18] | 43 | ORIF | 81% | n/s | 4,6% | SANE\nRobertson et al. [40] | 357 | ORIF | 83% | 182 | 14% | n/s\nSmeeing et al. [43] | 115 | ORIF | n/s | n/a | n/s | OMAS\nMatthews et al. [27] | 144 | ORIF | n/s | n/a | n/s | n/s\nSaxena and Yun [41] | 17 | MIPO | n/s | 129 | 0% | Roles and Maudsley score\nOrr et al. [32] | 12 | ORIF | 64% | n/s | 17% | n/s\nRobertson et al. [39] | 96 | ORIF | 87% | 245 | 6% | n/s\nHong et al. [15] | 31 | ORIF | 33.3% | n/s | 25% | OMAS, VAS\nHong et al. [14] | 47 | ORIF | 27.3% | 720 | 18,2% | OMAS, VAS\nLempainen et al. [24] | 10 | ORIF | 90% | 120 | 10% | n/s\nColvin et al. [6] | 233 | ORIF | n/s | n/s | n/s | n/s\nPorter et al. [35] | 23 | ORIF | 96.3% | n/s | 3,7% | AAOS lower limb score module"
+    }
+  ]
+}

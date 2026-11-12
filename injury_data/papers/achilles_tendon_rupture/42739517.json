@@ -1,0 +1,45 @@
+{
+  "pmid": "42739517",
+  "title": "Return to Sport and Return to Self-Reported Preinjury Level After Surgical Repair of Acute Achilles Tendon Rupture: A 2-Year Prospective Cohort Analysis.",
+  "year": "2026",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background:</b> Achilles tendon ruptures are among the most common sports injuries. The literature reports highly variable \"return to sport\" (RTS) rates depending on the study, as the definition of return to play is not consistent. Our purpose was to assess RTS and self-reported relative performance level after surgical management of acute Achilles tendon ruptures. <b>Method:</b> In this retrospective analysis of a prospective cohort, the RTS rate and the return to self-reported preinjury level (RTPIL) in patients treated surgically for acute Achilles tendon rupture between November 2020 and September 2023 with at least 2 years of follow-up were reported. The primary outcomes were the RTS and RTPIL rates at last follow-up. Secondary outcomes were Patient-Reported Outcome Measures (PROMS): Achilles Tendon Total Rupture Score (ATRS), Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI), Foot and Ankle Ability Measure (FAAM), Tegner Activity Scale (TAS) and the University of California and Los Angeles (UCLA) activity level rating scale. Data was collected preoperatively; at three, six, twelve, and twenty-four months postoperatively; and then every two months thereafter. Kaplan-Meier analysis was performed to measure time to RTS and RTPIL. <b>Results:</b> In the final analysis, 65 patients were included for analysis of RTS and RTPIL, and 69 for the PROMS. In total, 81.7% (58) were male, and the mean age was 40.6 years (SD 12.5). The RTS rate was 76.9%, and the RTPIL rate was 44.6%. The mean delay to RTS was 11.6 months (SD 7.6). The median time to RTS was approximately 14 months (95% CI, 10.0-18.0). The RTPIL rate continued to increase between the first and second years after surgery. At the last follow-up, the median ATRS was 89 with an interquartile range (IQR) of [77.0-95.0], ALR-RSI was 80 [62.5-95.0], FAAM activity was 91.7 [85.7-97.6], FAAM sport was 85.9 [68.8-96.9], TAS was 7 [5-7], and UCLA was 10 [9-10]. Median follow-up was 24.8 months. <b>Conclusions:</b> In conclusion, self-reporting of RTS and RTPIL yields low rates, and caution should be used in overly optimistic preoperative counselling. Level of evidence: IV."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Our purpose was to assess RTS and self-reported relative performance level after surgical management of acute Achilles tendon ruptures. <b>Method:</b> In this retrospective analysis of a prospective cohort, the RTS rate and the return to self-reported preinjury level (RTPIL) in patients treated surgically for acute Achilles tendon rupture between November 2020 and September 2023 with at least 2 years of follow-up were reported."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean delay to RTS was 11.6 months (SD 7.6)."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "The median time to RTS was approximately 14 months (95% CI, 10.0-18.0)."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "Median follow-up was 24.8 months. <b>Conclusions:</b> In conclusion, self-reporting of RTS and RTPIL yields low rates, and caution should be used in overly optimistic preoperative counselling."
+    }
+  ],
+  "pmcid": "13566404",
+  "fulltext_chunks": [
+    {
+      "section": "3. Results",
+      "text": "The RTS rate at last follow-up was 76.9% (50/65, 95% CI: 64.8–86.5). The RTPIL rate was 44,6% (29/65, 95% CI: 32.3–57.5) (Table 2). The mean delay to RTS among patients who returned to sport was 11.6 months (SD 7.6 months). At the last follow-up, the median ATRS was 89 [IQR: 77.0–95.0], the median ALR-RSI was 80 [IQR: 62.5–95.0], the median FAAM activity was 91.7 [IQR: 85.7–97.6], the median FAAM sport was 85.9 [IQR: 68.8–96.9], the median TAS was 7 [IQR: 5–7] and the median UCLA was 10 [IQR: 9–10] (Table 3). There were three postoperative complications: two re-ruptures (2.8%) and one infection (1.4%). Median follow-up was 24.8 months. For RTS at any level, 17.5% of patients had resumed some level of sport at 6 months, increasing to 43.9% at 12 months, 70.2% at 24 months, and 78.7% at 48 months. The median time to RTS was approximately 14 months (95% CI, 10.0–18.0). The probability of not yet having returned to sport was 0.82 (95% CI, 0.73–0.93) at 6 months and 0.21 (95% CI, 0.12–0.39) at 48 months (Figure 2). Kaplan–Meier analysis showed a gradual increase in the proportion of patients returning to their preinjury status over time. At 6 months postoperatively, 14.5% of patients had resumed sport at the same level, increasing to 29.7% at 12 months, 48.1% at 24 months, and 56.8% at 48 months. This estimate differs from the raw RTPIL rate (44.6%, Table 2) due to censoring of patients with shorter follow-up. The median time to RTPIL could not be estimated, as fewer than 50% of patients had reached this outcome during follow-up. The estimated probability of not yet returning to the same level was 0.85 (95% CI, 0.77–0.95) at 6 months and 0.43 (95% CI, 0.28–0.68) at 48 months (Figure 3)."
+    },
+    {
+      "section": "TABLE: Return to sport and self-reported preinjury level rate.",
+      "text": "Return to Sport | n = 65\nNo | 15 (23%)\nYes | 50 (77%)\nIf yes, | \nTime to return in months, mean (sd) | 11.6 (7.6)\nLevel of return | \nLower | 21 (42%)\nSame | 22 (44%)\nHigher | 7 (14%)"
+    }
+  ]
+}

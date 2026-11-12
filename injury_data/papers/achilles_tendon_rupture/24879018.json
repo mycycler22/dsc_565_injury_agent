@@ -1,0 +1,32 @@
+{
+  "pmid": "24879018",
+  "title": "Impact of age, performance and athletic event on injury rates in master athletics - first results from an ongoing prospective study.",
+  "year": "2014",
+  "journal": "Journal of musculoskeletal & neuronal interactions",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Recent studies have identified rates of injuries in young elite athletes during major athletic events. However, no such data exist on master athletes. The aim of this study was to assess incidence and types of injuries during the 2012 European Veteran Athletics Championships as a function of age, performance and athletic discipline."
+    },
+    {
+      "label": "METHODS",
+      "text": "Report forms were used to identify injured athletes and injury types. Analysis included age (grouped in five-year bands beginning at age 35 years), athletic event, and age-graded performance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 3154 athletes (53.2 years (SD 12.3)) that participated in the championships (1004 (31.8%) women, 2150 (68.2%) men), 76 were registered as injured; 2.8% of the female (29), 2.2% of the male (47) athletes. There were no fractures. One injury required operative treatment (Achilles tendon rupture). Injury rates were significantly higher in the sprint/middle distance/jumps than the throws, long distance and decathlon/heptathlon groups (X(2) (3)=16.187, P=0.001). There was no significant interrelationship with age (X(2) (12)=6.495, P=0.889) or age-graded performance (X(2) (3)=3.563, P=0.313)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The results suggest that healthy master athletes have a low risk of injury that does not increase with age or performance."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

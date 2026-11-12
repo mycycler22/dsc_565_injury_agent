@@ -1,0 +1,31 @@
+{
+  "pmid": "39074530",
+  "title": "Increasing pitch count is associated with increasing elbow flexion angle at ball release in youth baseball pitchers.",
+  "year": "2025",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Baseball is one of the most popular sports among youth athletes in the United States, and among these players, pitchers are at a particularly high risk of sustaining an injury. Overuse of the arm from repetitive pitching is a common mechanism for injury. Despite the attention that overuse injury has received, little is known regarding the mechanism that leads to elbow injury. This study aims to determine the effect of increasing pitch count on elbow flexion at ball release in a youth pitching cohort. The authors hypothesize that elbow flexion would increase as pitch count increases."
+    },
+    {
+      "label": "METHODS",
+      "text": "Study subjects included volunteers from youth baseball players from local teams and public advertisements. Retroreflective markers attached to bony landmarks were placed on the players according to International Shoulder Group recommendations. Pitchers threw an indoor simulated game. Three-dimensional marker trajectories were collected using a 12-camera optical motion capture system, and ball velocity was captured using a radar gun. Voluntary maximal isometric strength of the internal and external rotators was evaluated before and after pitching. Paired 2-tailed t tests were performed to determine if a significant change occurred between the fresh and fatigued sets."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twelve adolescent male pitchers were recruited. Eleven of 12 pitchers completed the prescribed 6 sets of 15 pitches, culminating in a 90-pitch simulated game. The ball speed in the second set was found to be the highest in all pitchers and was considered the \"peak set\" (P = .021), whereas ball speed was the slowest in the sixth set of pitches and was therefore considered the \"fatigue set\" (P = .001). There was a moderate but statistically significant inverse correlation between elbow flexion at ball release and maximum internal rotation velocity (P = .005). Elbow flexion at ball release was also significantly positively correlated with shoulder abduction at ball release (P = .004). Elbow flexion at ball release was not significantly correlated with ball velocity (P = .108)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In a simulated game laboratory setting, increasing pitch count was associated with increasing elbow flexion angle at ball release in youth baseball pitchers. These findings demonstrate that pitching with fatigue may cause biomechanical changes that have been associated with increased rates of elbow injury in the adult throwing population. Further investigation on the association between elbow flexion angle and elbow injury in the youth baseball population is needed."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

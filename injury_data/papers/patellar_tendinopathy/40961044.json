@@ -1,0 +1,21 @@
+{
+  "pmid": "40961044",
+  "title": "Differences in stiffness across the patellar tendon: An observational study using tendotonometry.",
+  "year": "2025",
+  "journal": "PloS one",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Patellar tendinopathy is an injury with pain mostly located at the proximal region of the tendon and possibly related to changes in patellar tendon (PT) stiffness. However, little is known about the stiffness at different locations within the PT and the reliability of measuring stiffness at these locations. Therefore, the aim of this study was to investigate the difference in PT stiffness and reliability of its measurement at different PT locations in non-injured male (n = 24) and female (n = 24) recreational athletes. Tendotonometry was performed in triplet at nine locations on the PT of the dominant leg (proximal, horizontal-midline (HM) and distal, at all three levels: medial, vertical-midline (VM) and lateral) in 90 degrees knee flexion in the resting position. Both in males and females, PT stiffness was higher proximal and distal compared to HM and lower medial and lateral compared to VM. PT stiffness ranged from 702.3 ± 124.6N/m to 882.6 ± 117.7N/m for females and 822.6 ± 124.7N/m to 990.3 ± 141.0N/m for males. With respect to reliability, the intraclass correlation coefficient was above 0.9, and the coefficient of variation was below 3% at all nine measurement locations, indicating excellent reliability. In conclusion, PT stiffness is higher at the proximal and distal part of the tendon compared to HM, and lower at the medial and lateral part of the tendon compared to VM. Tendotonometry can reliably be used to measure PT stiffness at different locations on the tendon."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

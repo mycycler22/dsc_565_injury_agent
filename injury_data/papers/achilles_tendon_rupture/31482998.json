@@ -1,0 +1,24 @@
+{
+  "pmid": "31482998",
+  "title": "Local treatment with ascorbic acid accelerates recovery of post-sutured Achilles tendon in male Wistar rats.",
+  "year": "2019",
+  "journal": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendon rupture is a very frequent accident involving average people and high-performance athletes. Clinical studies describe tendon recovery as a painful and slow process involving different biochemical and histological events. Ascorbic acid (AA) is a potent antioxidant as well as an important cofactor for collagen synthesis. In the current study, we evaluated if local treatment with AA is able to promote tendon repair in tenotomized rats. Animals were submitted to Achilles tendon rupture followed by surgical suture. Control and AA groups received in loco injection of saline solution (0.9% NaCl) and 30 mM AA, respectively. Histological and functional recovery of Achilles tendon tissue was evaluated at 7, 14, and 21 days post-surgery. Hematoxylin/eosin staining and collagen fluorescence analysis showed intense disarrangement of tendon tissue in the saline group. Tenotomized animals also showed hypercellularity in tendon tissue compared with non-tenotomized animals. The Achilles functional index (AFI) showed a significant decrease of tendon functionality in tenotomized animals at 7, 14, and 21 days post-surgery. AA accelerated tissue organization and the recovery of function of the Achilles tendons. The beneficial effect of AA treatment was also observed in the organization of the collagen network. Data presented in the current work showed that in loco treatment with AA accelerated the recovery of injured Achilles tendon post-surgery."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Histological and functional recovery of Achilles tendon tissue was evaluated at 7, 14, and 21 days post-surgery."
+    }
+  ],
+  "pmcid": "6719343",
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "41243555",
+  "title": "Effect of Blood Flow Restriction Training on Wrist Pain and Function: A Case Report of an Elite Tennis Player.",
+  "year": "2026",
+  "journal": "Physiotherapy research international : the journal for researchers and clinicians in physical therapy",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Blood flow restriction training (BFRT) has enhanced physiological function and performance in lower limb injuries. However, its application in upper limb injuries, particularly at the wrist, remains underexplored. This case report aims to evaluate the effects of BFRT on wrist injury rehabilitation."
+    },
+    {
+      "label": "CLINICAL FINDINGS AND DIAGNOSIS",
+      "text": "The athlete presented with tenderness, reduced range of motion, and decreased strength at the wrist joint. Clinical examination indicated involvement of the triangular fibrocartilage complex (TFCC) and extensor carpi ulnaris (ECU)."
+    },
+    {
+      "label": "METHODOLOGY",
+      "text": "BFRT was administered following standard guidelines. Each session consisted of 4 sets (30, 15, 15, 15 repetitions) with 30 s of rest between sets."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Significant improvements were observed in key outcome measures, including the Pain Catastrophizing Scale (PCS), Patient-Specific Functional Scale (PSFS), Isometric Repetition Maximum (IRM), and grip strength. All measures exceeded the minimal clinically important difference (MCID) values."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Four weeks of BFRT significantly improved functional capacity, pain perception, and overall performance. These findings suggest that BFRT can be an effective adjunct to conventional treatments for enhancing the functional recovery of athletes with wrist injuries."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

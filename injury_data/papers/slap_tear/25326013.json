@@ -1,0 +1,43 @@
+{
+  "pmid": "25326013",
+  "title": "Postoperative restoration of upper extremity motion and neuromuscular control during the overhand pitch: evaluation of tenodesis and repair for superior labral anterior-posterior tears.",
+  "year": "2014",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Superior labral anterior-posterior (SLAP) tears are a common cause of shoulder pain and dysfunction in overhand throwers. Treatment outcomes remain unpredictable, with a large percentage of athletes unable to return to sport. There is considerable debate about the optimal treatment between debridement, repair, and tenodesis."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Labral repair more closely restores neuromuscular control and motion during the overhand pitch than tenodesis of the long head of the biceps."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eighteen pitchers, including 7 uninjured controls, 6 players pitching after SLAP repair, and 5 players pitching after subpectoral biceps tenodesis (BT), underwent simultaneous surface electromyographic measurement at 1500 Hz and motion analysis at 120 Hz with a 14-camera markerless motion analysis system and high-speed video (120 Hz) to confirm accurate motion tracking. Patients had undergone surgery at least 1 year previously and had returned to pitching with a painless shoulder."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No significant differences were observed in the long head of the biceps muscle, short head of the biceps muscle, deltoid, infraspinatus, or latissimus activity between controls, patients after SLAP repair, and patients after BT. The variability from pitch to pitch for each study participant was similar between groups. Based on visual inspection of the activity time plots, BT appeared to more closely restore the normal pattern of muscular activation within the long head of the biceps muscle than did SLAP repair. There were no significant differences between controls and postoperative patients in the majority of pitching kinematics; however, pitchers after SLAP repair showed significantly altered patterns of thoracic rotation (P = .034) compared with controls and were significantly less likely to fall into previously published normal values for lead knee flexion at front foot contact (P = .019)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "While both BT and SLAP repair can restore physiologic neuromuscular control, pitchers who undergo SLAP repair may exhibit altered patterns of thoracic rotation when compared with controls and pitchers who undergo BT."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "While both tenodesis and SLAP repair can restore physiologic neuromuscular control, SLAP repair may alter pitching biomechanics."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

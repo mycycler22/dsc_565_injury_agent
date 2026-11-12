@@ -1,0 +1,32 @@
+{
+  "pmid": "37200329",
+  "title": "Return to Play After Non-Operative Management of Primary Anterior Shoulder Instability A Systematic Review.",
+  "year": "2023",
+  "journal": "Bulletin of the Hospital for Joint Disease (2013)",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of the current study was to system-atically review the evidence in the literature to ascertain the rate of return to play and subsequent recurrence rates after first-time anterior shoulder instability in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A literature search of MEDLINE, EMBASE, and The Cochrane Library was performed based on the PRISMA guidelines. Studies evaluating the outcomes of athletes with primary anterior shoulder dislocation were included. Return to play and subsequent recurrent instability were evaluated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-two studies with 1,310 patients were included. The mean age of included patients was 30.1 years, 83.1% were male, and the mean follow-up was 68.9 months. Overall, 76.5% were able to return to play, with 51.5% able to return to play at their pre-injury level. The pooled recurrence rate was 54.7%, with best-case and worst-case analysis revealing the recurrence rate to be between 50.7% to 67.7% in those able to return to play. Among collision athletes, 88.1% were able to return to play, with 78.7% experiencing a recurrent instability event."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current study demonstrates that non-operative management of athletes with primary anterior shoulder dislocation results in a low rate of success. While the majority of athletes are able to return to play, there is a low rate of return to their pre-injury level of play, and there is a high rate of recurrent instability."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "42004452",
+  "title": "Outcomes of Revision UCL Repair With Internal Brace for Failure of Primary UCL Reconstruction in Professional and Collegiate Baseball Pitchers: A First Look.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Injury of the ulnar collateral ligament (UCL) is common in baseball players. Pitchers are most commonly affected and most likely to have surgery for this injury. The gold standard surgical treatment is UCL reconstruction with autograft; yet, UCL repair with collagen-coated suture tape (ie, internal brace) has shown to be equally effective, and both procedures demonstrate high rates of return to sport and similar postoperative elbow function. However, revision UCL reconstructions have less favorable outcomes regardless of technique."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This pilot case series reports on short-term outcomes of collegiate or professional baseball pitchers whose primary UCL reconstruction failed and who subsequently underwent revision UCL repair with internal brace."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective billing query was performed for patients who had undergone revision UCL repair with internal brace. Patients were eligible for inclusion if they were a pitcher at the collegiate or professional level, were at least 1 year postoperative after revision UCL repair with internal brace, and had a history of ipsilateral primary UCL reconstruction. Clinical and surgical data were collected via electronic medical record review. Outcomes data included return to sport as well as elbow-related function from the American Shoulder and Elbow Surgeons elbow form, Kerlan-Jobe Orthopaedic Clinic score, and Andrews-Carson score."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 11 pitchers met inclusion criteria (45% professional and 55% collegiate) and had follow-up data collected (mean follow-up time, 2.9 years; range, 1.0-5.0 years). All 11 (100%) were able to return to sport at the preinjury level or higher, and the mean time from surgery to return to competition was 9 months. At follow-up, the mean function score of the American Shoulder and Elbow Surgeons elbow form was 35.8 (out of 36), the mean Kerlan-Jobe Orthopaedic Clinic score was 88.3 (out of 100), and the mean Andrews-Carson score was 95.0 (out of 100)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This pilot case series shows promising short-term results of using UCL repair with internal brace for high-level pitchers with recurrent UCL injury after UCL reconstruction. Specifically, we found excellent return-to-sport and patient-reported outcomes. Further study is warranted with larger sample sizes and longer follow-up to evaluate outcomes after revision of UCL surgery with UCL repair utilizing internal bracing."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "All 11 (100%) were able to return to sport at the preinjury level or higher, and the mean time from surgery to return to competition was 9 months."
+    }
+  ],
+  "pmcid": "13087343",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 11 pitchers met inclusion criteria (45% professional and 55% collegiate) and had follow-up data collected (mean follow-up time, 2.9 years; range, 1.0-5.0 years). All 11 (100%) were able to return to sport at the preinjury level or higher, and the mean time from surgery to return to competition was 9 months. At follow-up, the mean function score of the American Shoulder and Elbow Surgeons elbow form was 35.8 (out of 36), the mean Kerlan-Jobe Orthopaedic Clinic score was 88.3 (out of 100), and the mean Andrews-Carson score was 95.0 (out of 100)."
+    }
+  ]
+}

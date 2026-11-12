@@ -1,0 +1,35 @@
+{
+  "pmid": "34543089",
+  "title": "Reevaluating clinical assessment outcomes after unrestricted return to play following sport-related concussion.",
+  "year": "2021",
+  "journal": "Brain injury",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PRIMARY OBJECTIVE",
+      "text": "The objective of this study was to examine neurocognition, postural control, and symptomology at multiple timepoints following concussion. We hypothesized that collegiate athletes would perform similar to or better than their baseline in terms of each outcome at both timepoints."
+    },
+    {
+      "label": "RESEARCH DESIGN",
+      "text": "This was a retrospective study of 71 collegiate athletes (18.3 ± 0.89 years old; 182.2 ± 10.05 cm; 84.2 ± 20.07 kg) to observe changes in outcomes from a previously established clinical protocol."
+    },
+    {
+      "label": "METHODS AND PROCEDURES",
+      "text": "Participants were administered ImPACT™, the Sensory Organization Test (SOT), and the revised head injury scale (HIS-r) prior to their seasons (baseline); upon reporting symptom-free following concussion (post-injury); and approximately 8-months after return-to-play to establish a new baseline."
+    },
+    {
+      "label": "MAIN OUTCOMES AND RESULTS",
+      "text": "There were no changes in ImPACT scores or HIS-r reporting over time. ImPACT total symptom score (TSS) decreased over time (<i>p</i> = .002, η<sub>p</sub><sup>2</sup> = 0.08). Significant main effects occurred for the SOT equilibrium score (<i>p</i> < .01, η<sub>p</sub><sup>2</sup> = 0.34) and Vestibular sensory ratio (<i>p</i> < .001, η<sub>p</sub><sup>2</sup> = 0.22)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our data suggest no decline in neurocognition, balance, or symptom burden approximately eight months post-injury. As clinicians continue to explore \"best practices\" for concussion management and potential long-term implications of these injuries it is important to monitor outcome measures longitudinally."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

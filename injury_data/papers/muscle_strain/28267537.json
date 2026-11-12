@@ -1,0 +1,33 @@
+{
+  "pmid": "28267537",
+  "title": "Intra- and interrater reliability of three different MRI grading and classification systems after acute hamstring injuries.",
+  "year": "2017",
+  "journal": "European journal of radiology",
+  "pub_types": [
+    "Comparative Study",
+    "Evaluation Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To assess and compare the intra- and interrater reliability of three different MRI grading and classification systems after acute hamstring injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male athletes (n=40) with clinical diagnosis of acute hamstring injury and MRI ≤5days were selected from a prospective cohort. Two radiologists independently evaluated the MRIs using standardised scoring form including the modified Peetrons grading system, the Chan acute muscle strain injury classification and the British Athletics Muscle Injury Classification. Intra-and interrater reliability was assessed with linear weighted kappa (κ) or unweighted Cohen's κ and percentage agreement was calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We observed 'substantial' to 'almost perfect' intra- (κ range 0.65-1.00) and interrater reliability (κ range 0.77-1.00) with percentage agreement 83-100% and 88-100%, respectively, for severity gradings, overall anatomical sites and overall classifications for the three MRI systems. We observed substantial variability (κ range -0.05 to 1.00) for subcategories within the Chan classification and the British Athletics Muscle Injury Classification, however, the prevalence of positive scorings was low for some subcategories."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The modified Peetrons grading system, overall Chan classification and overall British Athletics Muscle Injury Classification demonstrated 'substantial' to 'almost perfect' intra- and interrater reliability when scored by experienced radiologists. The intra- and interrater reliability for the anatomical subcategories within the classifications remains unclear."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

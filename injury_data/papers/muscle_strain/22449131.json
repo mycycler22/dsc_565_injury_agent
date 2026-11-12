@@ -1,0 +1,21 @@
+{
+  "pmid": "22449131",
+  "title": "Rehabilitation of muscle after injury - the role of anti-inflammatory drugs.",
+  "year": "2012",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Non-steroidal anti-inflammatory drugs (NSAIDs) are widely consumed among athletes worldwide in relation to muscle injury and soreness. This review aims to provide an overview of studies investigating their effects on skeletal muscle, in particular the repair processes in injured muscle. Muscle injury occurs in diverse situations and the nature of muscle injuries varies significantly, complicating extrapolations between experimental models and \"real life.\" Classical muscle strain injuries occur at the interphase between the muscle fibers and connective tissue, most often in the myotendinuous junction, whereas contusion or overload injury can damage both myofibers and intramuscular connective tissue. The role of NSAIDs in muscle repair is complicated by differences in injury models used, variables evaluated, and time point(s) selected for evaluations. While the temporal pattern of the influence of NSAIDs on muscle repair is difficult to settle on, it appears that a potential beneficial effect of NSAIDs in the early phase after injury is not maintained in the long term, or is even negated by a long-term repair deficit. At the cellular level, evidence exists for a negative influence of NSAIDs on the muscle stem cell population (satellite cells). At a structural level, it is known that muscle connective tissue undergoes significant remodeling during muscle regeneration, but the potential of NSAID exposure to alter this response in humans needs investigation."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

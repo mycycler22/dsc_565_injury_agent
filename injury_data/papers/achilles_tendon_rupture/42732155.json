@@ -1,0 +1,53 @@
+{
+  "pmid": "42732155",
+  "title": "Minimally Invasive Percutaneous Achilles Repair System (PARS) Repair With vs Without Bio-inductive Scaffold Augmentation for Acute Achilles Tendon Rupture: A Retrospective Comparative Cohort Study.",
+  "year": "2026",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute Achilles tendon rupture is a common injury in active individuals, often requiring surgical repair to reduce re-rupture rates, restore appropriate tendon length and plantarflexion power, and optimize functional recovery and return to sport (RTS). Bio-inductive collagen scaffolds have been introduced to enhance tendon healing; however, their role in acute rupture remains unclear."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective comparative cohort study was conducted including 30 patients (30 tendons) treated between 2021 and 2024 with minimally invasive percutaneous Achilles repair system (PARS) repair, with (n = 15) or without (n = 15) bio-inductive scaffold augmentation. All patients underwent surgery within 2 weeks of injury. The primary outcome was Patient-Reported Outcomes Measurement Information System (PROMIS) physical function (PF). Secondary outcomes included PROMIS pain interference (PI), RTS, and complication rates. PROMIS PF and PI scores were collected using validated electronic computer-adaptive questionnaires preoperatively and at 3, 6, 12, and 18 months, postoperatively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Baseline characteristics were comparable between groups. RTS was achieved in 87% of scaffold patients and 80% of controls (<i>P</i> = .64). Time to RTS was shorter in the scaffold group (8.4 ± 1.3 vs 10.1 ± 1.6 months; <i>P</i> = .002). PROMIS PF was higher in the scaffold group at 3 months (52.1 ± 5.6 vs 47.3 ± 6.1; <i>P</i> = .02) and 6 months (56.8 ± 5.2 vs 52.4 ± 5.9; <i>P</i> = .03), with similar findings for PROMIS PI (<i>P</i> < .05). Outcomes converged at 12 and 18 months (all <i>P</i> > .40). Complication rates were low and comparable (13% vs 20%; <i>P</i> > .99)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Bio-inductive scaffold augmentation in minimally invasive Achilles tendon repair was associated with improved early functional outcomes and shorter time to return to sport, with no significant difference in complications between groups. These secondary outcomes were not independently powered and should be interpreted with caution. Further prospective randomized studies are warranted."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective cohort study."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Time to RTS was shorter in the scaffold group (8.4 ± 1.3 vs 10.1 ± 1.6 months; <i>P</i> = .002)."
+    }
+  ],
+  "pmcid": "13570084",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Baseline characteristics were comparable between groups. RTS was achieved in 87% of scaffold patients and 80% of controls (P = .64). Time to RTS was shorter in the scaffold group (8.4 ± 1.3 vs 10.1 ± 1.6 months; P = .002). PROMIS PF was higher in the scaffold group at 3 months (52.1 ± 5.6 vs 47.3 ± 6.1; P = .02) and 6 months (56.8 ± 5.2 vs 52.4 ± 5.9; P = .03), with similar findings for PROMIS PI (P < .05). Outcomes converged at 12 and 18 months (all P > .40). Complication rates were low and comparable (13% vs 20%; P > .99)."
+    },
+    {
+      "section": "Outcome Measures",
+      "text": "The primary outcome was Patient-Reported Outcomes Measurement Information System (PROMIS) physical function (PF). Secondary outcomes included PROMIS pain interference (PI), return to sport, and complication rates. PROMIS PF and PI scores were collected using validated electronic questionnaires at 3, 6, 12, and 18 months postoperatively. Outcomes were assessed longitudinally within groups and between groups at each time point. 21 Complications were predefined and included wound complications, infection, nerve-related symptoms, re-rupture, and reoperation. The study was powered a priori based on PROMIS PF; analyses of the secondary outcomes were not independently powered and should therefore be interpreted accordingly."
+    },
+    {
+      "section": "Results",
+      "text": "A total of 30 patients met the inclusion criteria and completed follow-up to 18 months, including 15 patients treated with minimally invasive PARS repair alone and 15 patients treated with PARS repair with bio-inductive scaffold augmentation. Baseline characteristics were comparable between groups, with no significant differences in age (34.8 ± 8.6 vs 35.5 ± 9.1 years; P = .81), sex distribution (9/6 vs 8/7 male/female; P = .72), or comorbidities, which were infrequent and included isolated cases of controlled hypertension (2 vs 1; P = .54) and type 2 diabetes (1 vs 1; P > .99). No patients were active smokers (Table 1). All patients were physically active, participating in sports activities at least twice per week for a minimum of 60 minutes (Table 2). The mean time from injury to diagnosis was similar between groups, measuring 6.8 ± 2.1 days in the scaffold group and 7.1 ± 2.4 days in the PARS-alone group (P = .72), with all cases diagnosed within 2 weeks of injury. All patients demonstrated a positive Thompson test on clinical evaluation, and magnetic resonance imaging was performed preoperatively in all cases to confirm the diagnosis (Table 1). Baseline PROMIS PF (40.2 ± 5.9 vs 39.8 ± 5.7; P = .83) and PROMIS PI (PI63.9 ± 6.3 vs 64.2 ± 6.1; P = .88) scores were equivalent between groups (Table 1). Return to sport was achieved in the majority of patients, with 13 of 15 patients (87%) in the scaffold group and 12 of 15 patients (80%) in the PARS-alone group returning to sport (P = .64). Among those who returned, time to return to sport was shorter in the scaffold group (8.4 ± 1.3 months; 95% CI, 7.6-9.2) compared with the PARS-alone group (10.1 ± 1.6 months; 95% CI, 9.1-11.1), with a mean difference of −1.7 months (95% CI, −2.7 to −0.7; P = .002; Cohen d = 1.18) (Figure 3). Both groups demonstrated substantial improvements in PROMIS outcomes over time. At 3 months, PROMIS PF was higher in the scaffold group (52.1 ± 5.6) compared with PARS alone (47.3 ± 6.1), with a mean difference of +4.8 points (95% CI, 0.8-8.8; P = .02; Cohen d = 0.82). At 6 months, this difference remained (56.8 ± 5.2 vs 52.4 ± 5.9; mean difference +4.4; 95% CI, 0.6-8.2; P = .03; Cohen d = 0.76). By 12 and 18 months, PROMIS PF scores converged between groups (12 months: 58.7 ± 4.8 vs 57.3 ± 5.1, P = .41; 18 months: 59.6 ± 4.5 vs 58.8 ± 4.7, P = .62) (Table 3, Figure 4). At the final follow-up, the vast majority of patients achieved an improvement exceeding the published MCID for PROMIS PF (4.5 points), including 15 of 15 patients (100%) in the scaffold group and 14 of 15 patients (93.3%) in the PARS-alone group. 6 PROMIS PI followed a similar trajectory, with early improvement in the scaffold group at 3 months (52.8 ± 5.9 vs 57.6 ± 6.2; mean difference −4.8; 95% CI, −8.7 to −0.9; P = .02; Cohen d = 0.79) and 6 months (48.1 ± 5.4 vs 52.6 ± 5.8; mean difference −4.5; 95% CI, −8.2 to −0.8; P = .03; Cohen d = 0.75). At 12 months, outcomes were similar between groups (46.3 ± 5.2 vs 47.5 ± 5.6; mean difference −1.2; 95% CI, −4.7 to 2.3; P = .44; Cohen d = 0.22), and this pattern persisted at 18 months (45.1 ± 4.9 vs 46.0 ± 5.1; mean difference −0.9; 95% CI, −4.2 to 2.4; P = .58; Cohen d = 0.18) (Table 3, Figure 4). No statistically significant between-group differences were observed in PROMIS PI at 12 or 18 months. Because this was a secondary outcome, these analyses were not independently powered and should therefore be interpreted cautiously. Similarly, improvements exceeding the published MCID for PROMIS PI (4.1 points) were observed in 15 of 15 patients (100%) in the scaffold group and 14 of 15 patients (93.3%) in the PARS-alone group at the final follow-up. 6 Complication rates were low and comparable between groups, occurring in 2 of 15 patients (13%) in the scaffold group and 3 of 15 patients (20%) in the PARS-alone group (Fisher exact test, P > .99). In the scaffold group, 1 patient (7%) developed transient sural nerve irritation and 1 patient (7%) experienced delayed wound healing. In the PARS-alone group, complications included 2 superficial wound infections (13%), both of which resolved with local wound care and oral antibiotics, and 1 case of delayed wound healing (7%). No deep infections, re-ruptures, or reoperations occurred in either group. Superficial wound infection occurred only in the PARS-alone group (0/15 vs 2/15); however, this difference was not statistically significant (Fisher exact test, P = .48). No statistically significant between-group differences were observed in complication rates at 12 or 18 months. As this was a secondary outcome, these analyses were not independently powered and should therefore be interpreted cautiously. Multivariable regression analysis demonstrated that scaffold augmentation was independently associated with shorter time to return to sport (adjusted β = −1.4 months; 95% CI, −2.3 to −0.5; P = .003). Scaffold use was also associated with higher PROMIS PF scores at 3 and 6 months (β = +4.2 and +3.9 points, respectively; P < .05 for both), but not at later time points. No independent association was observed between scaffold use and complication rates (OR = 0.68; 95% CI, 0.08-5.4; P = .71). Other covariates included in the multivariable model were not significantly associated with the outcome, including age (OR = 0.54; 95% CI, 0.1-3.2; P = .65), sex (OR = 0.45; 95% CI, 0.35-4.3; P = .76), baseline PROMIS PF score (OR = 0.7; 95% CI, 0.3-4.5; P = .54), and baseline PROMIS PI score (OR = 0.65; 95% CI, 0.5-3.2; P = .43) (Figure 5)."
+    }
+  ]
+}

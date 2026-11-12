@@ -1,0 +1,24 @@
+{
+  "pmid": "38109007",
+  "title": "The Evolution of Neuroimaging Technologies to Evaluate Neural Activity Related to Knee Pain and Injury Risk.",
+  "year": "2024",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "In this review, we present recent findings and advancements in the use of neuroimaging to evaluate neural activity relative to ACL injury risk and patellofemoral pain. In particular, we describe prior work using fMRI and EEG that demonstrate the value of these techniques as well as the necessity of continued development in this area. Our goal is to support future work by providing guidance for the successful application of neuroimaging techniques that most effectively expose pain and injury mechanisms."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Recent studies that utilized both fMRI and EEG indicate that athletes who are at risk for future ACL injury exhibit divergent brain activity both during active lower extremity movement and at rest. Such activity patterns are likely due to alterations to cognitive, visual, and attentional processes that manifest as coordination deficits during naturalistic movement that may result in higher risk of injury. Similarly, in individuals with PFP altered brain activity in a number of key regions is related to subjective pain judgements as well as measures of fear of movement. Although these findings may begin to allow objective pain assessment and identification, continued refinement is needed. One key limitation across both ACL and PFP related work is the restriction of movement during fMRI and EEG data collection, which drastically limits ecological validity. Given the lack of sufficient research using EEG and fMRI within a naturalistic setting, our recommendation is that researchers target the use of mobile, source localized EEG as a primary methodology for exposing neural mechanisms of ACL injury risk and PFP. Our contention is that this method provides an optimal balance of spatial and temporal resolution with ecological validity via naturalistic movement."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

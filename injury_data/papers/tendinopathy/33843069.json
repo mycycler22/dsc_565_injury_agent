@@ -1,0 +1,20 @@
+{
+  "pmid": "33843069",
+  "title": "Mitochondrial dysfunction and potential mitochondrial protectant treatments in tendinopathy.",
+  "year": "2021",
+  "journal": "Annals of the New York Academy of Sciences",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy is a common musculoskeletal condition that affects a wide range of patients, including athletes, laborers, and older patients. Tendinopathy is often characterized by pain, swelling, and impaired performance and function. The etiology of tendinopathy is multifactorial, including both intrinsic and extrinsic mechanisms. Various treatment strategies have been described, but outcomes are often variable, as tendons have poor intrinsic healing potential compared with other tissues. Therefore, several novel targets for tendon regeneration have been identified and are being explored. Mitochondria are organelles that generate adenosine triphosphate, and they are considered to be the power generators of the cell. Recently, mitochondrial dysfunction verified by increased reactive oxygen species (ROS), decreased superoxide dismutase activity, cristae disorganization, and decreased number of mitochondria has been identified as a mechanism that may contribute to tendinopathy. This has provided new insights for studying tendinopathy pathogenesis and potential treatments via antioxidant, metabolic modulation, or ROS inhibition. In this review, we present the current understanding of mitochondrial dysfunction in tendinopathy. The review summarizes the potential mechanism by which mitochondrial dysfunction contributes to the development of tendinopathy, as well as the potential therapeutic benefits of mitochondrial protectants in the treatment of tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

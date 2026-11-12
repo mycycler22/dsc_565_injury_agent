@@ -1,0 +1,25 @@
+{
+  "pmid": "27482730",
+  "title": "Current Concepts and the Role of Surgery in the Treatment of Jumper's Knee.",
+  "year": "2016",
+  "journal": "Orthopedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Jumper's knee is a common cause of anterior knee pain among athletes and active populations. Numerous treatments have been described with variable results. To better delineate this, the authors reviewed all articles from 2000 to 2014 pertaining to the treatment of patellar tendinopathy, focusing namely on treatment of recalcitrant cases. Open and arthroscopic techniques were found to achieve similar satisfactory results in 81% (range, 45%-100%) and 91% (range, 86%-96%) of patients, respectively. Average time to return to play was 5.6 months and 5 months, respectively. A recently described technique, percutaneous ultrasonic tenotomy, potentially represents an attractive alternative option for definitive intervention. [Orthopedics. 2016; 39(6):e1028-e1035.]."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Average time to return to play was 5.6 months and 5 months, respectively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

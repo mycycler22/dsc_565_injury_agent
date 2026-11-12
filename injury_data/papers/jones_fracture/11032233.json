@@ -1,0 +1,29 @@
+{
+  "pmid": "11032233",
+  "title": "Refracture of proximal fifth metatarsal (Jones) fracture after intramedullary screw fixation in athletes.",
+  "year": "2000",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study details six instances of refracture of clinically and radiographically healed fractures of the base of the fifth metatarsal after intramedullary screw fixation. Four professional football players, one college basketball player, and one recreational athlete underwent intramedullary screw fixation of fifth metatarsal fractures. The athletes were released to full activities an average of 8.5 weeks (range, 5.5 to 12) after fixation, when healing was clinically and radiographically documented. Three football players developed refracture within 1 day of return to full activity. The other three athletes refractured at 2.5, 4, and 4.5 months after return to activity. Two football players underwent repeat fixation with larger screws and returned to play in the same season. The college basketball player underwent bone grafting and returned to play in subsequent seasons. The other three athletes underwent nonoperative management and healed uneventfully over 6 to 8 weeks. On the basis of this series, we recommend that 1) screw fixation using a large-diameter screw should be given careful consideration for patients with large body mass for whom early return to activity is important; 2) functional bracing, shoe modification, or an orthosis should be considered for return to play; 3) if refracture occurs, exchange to a larger screw may allow return to play in the same season; and 4) alternative imaging should be considered to help document complete healing."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The athletes were released to full activities an average of 8.5 weeks (range, 5.5 to 12) after fixation, when healing was clinically and radiographically documented."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "The other three athletes refractured at 2.5, 4, and 4.5 months after return to activity."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "35063641",
+  "title": "Return to play following nonsurgical management of superior labrum anterior-posterior tears: a systematic review.",
+  "year": "2022",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Superior labrum anterior-posterior (SLAP) tears are common shoulder injuries, especially in overhead athletes. Often, initial management of these injuries is nonsurgical with focused rehabilitation. The purpose of this review was to evaluate the outcomes of nonsurgical management of SLAP tears in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was performed for articles published before March 2021 using key search terms pertaining to clinical studies evaluating the nonsurgical treatment of SLAP tears in adult patients published in English-language literature. Abstracts and manuscripts were independently reviewed by 2 co-authors to determine eligibility. Return-to-play rate and return-to-prior-athletic-performance rate were determined by combining results across studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Five articles met the inclusion criteria. There were 244 total athletes (162 elite or higher-level athletes). The mean ages ranged from 20.3 to 38.0 years. Type II SLAP tears were most common; baseball, softball, and weightlifting were the most common sports involved. The return-to-play rate was 53.7% in all athletes and 52.5% in elite or higher-level athletes. In athletes who were able to complete their nonoperative rehabilitation program, the return-to-play rate was 78% in all athletes and 76.6% in elite or higher-level athletes. The overall rate of return to prior performance was 42.6%, which increased to 72% for those athletes who were able to complete their rehabilitation. Patients who discontinued the rehabilitation protocol in favor of surgery had an average of 8 physical therapy sessions compared with 20 sessions for patients with successful nonoperative treatment. The timing of return to play was generally less than 6 months in studies that reported it. Patient-reported outcomes, including the American Shoulder and Elbow Surgeons score and visual analog scale, all improved significantly after nonsurgical treatment. Factors associated with failure of nonsurgical management included older age, participation in overhead sports (especially baseball pitchers), traumatic injury, positive compression rotation test, concomitant rotator cuff injury, longer baseball career, longer symptomatic period, and the presence of a Bennett spur."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Overall, nonoperative treatment of SLAP tears in athletes can be successful, especially in the subset of patients who are able to complete their rehabilitation program before attempting a return to play. Although nonoperative treatment should be considered the first line of treatment for most SLAP tears, there are some factors that may be associated with failure of conservative treatment; therefore, further high level, prospective studies would be beneficial to identify those athletes most likely to respond favorably to nonoperative treatment."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The timing of return to play was generally less than 6 months in studies that reported it."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

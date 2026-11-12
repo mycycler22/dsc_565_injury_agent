@@ -1,0 +1,66 @@
+{
+  "pmid": "30550364",
+  "title": "Return to Sport After Ankle Syndesmotic Injury: A Systematic Review.",
+  "year": "2019",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT:",
+      "text": "Ankle syndesmotic injuries present a significant challenge for athletes due to prolonged disability and recovery periods. The optimal management of these injuries and rates of return to sport in athletes remains unclear."
+    },
+    {
+      "label": "OBJECTIVE:",
+      "text": "The purpose of this study was to evaluate return to sport for athletes after ankle syndesmotic injuries."
+    },
+    {
+      "label": "DATA SOURCE:",
+      "text": "The electronic databases MEDLINE, EMBASE, and PubMed were searched for relevant studies from database inception to January 15, 2017, and pertinent data were abstracted."
+    },
+    {
+      "label": "STUDY SELECTION:",
+      "text": "Only studies reporting return-to-sport rates after ankle syndesmotic injuries were included."
+    },
+    {
+      "label": "STUDY DESIGN:",
+      "text": "Systematic review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE:",
+      "text": "Level 4."
+    },
+    {
+      "label": "DATA EXTRACTION:",
+      "text": "Two reviewers extracted data from the included studies, which were stored in a standardized collection form (Microsoft Excel). Recorded data included demographics (eg, author, year of publication, study design), descriptive statistics (eg, patient age, percentage male, number of athletes, sample size), and outcomes (eg, time to return to sport, proportion of those who returned to sport, the self-reported questionnaire the Olerud-Molander Ankle Score)."
+    },
+    {
+      "label": "RESULTS:",
+      "text": "A total of 10 studies and 312 patients with ankle syndesmotic injuries were included in this systematic review. The rate of return to preinjury or any injury level of sport after ankle syndesmotic injuries was 93.8% ± 1.2% and 97.6% ± 1.5%, respectively, for the corresponding 7 and 3 studies that reported this characteristic. The mean time to return to sport was 46.4 days (range, 15.4-70 days), with 55.2 ± 15.8 and 41.7 ± 9.8 days for operative and nonoperative management, respectively."
+    },
+    {
+      "label": "CONCLUSION:",
+      "text": "This systematic review found a high rate of return to any as well as preinjury level of sport after ankle syndesmotic injury in both operative and nonoperative treatment groups. However, further high-level studies are required to compare operative and nonoperative treatment groups associated with return to sport after ankle syndesmotic injury."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS:",
+      "sentence": "The mean time to return to sport was 46.4 days (range, 15.4-70 days), with 55.2 ± 15.8 and 41.7 ± 9.8 days for operative and nonoperative management, respectively."
+    }
+  ],
+  "pmcid": "6391553",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 10 studies and 312 patients with ankle syndesmotic injuries were included in this systematic review. The rate of return to preinjury or any injury level of sport after ankle syndesmotic injuries was 93.8% ± 1.2% and 97.6% ± 1.5%, respectively, for the corresponding 7 and 3 studies that reported this characteristic. The mean time to return to sport was 46.4 days (range, 15.4-70 days), with 55.2 ± 15.8 and 41.7 ± 9.8 days for operative and nonoperative management, respectively."
+    },
+    {
+      "section": "Overall Return to Sport",
+      "text": "Four studies (n = 91) reported 100% return to sport at the pre-injury level. Of these, 1 study focused solely on surgical management20 while another was nonoperative.6 Flik et al5 did not specify whether an operative or nonoperative technique was utilized but reported 100% return to sport at the preinjury level. Only 2 studies in this group described using both surgical and nonsurgical techniques to manage grade IIb and IIa syndesmotic injuries, respectively.3,21 Sman et al18 did not report on return to sport. The remaining studies reported that 83.6%, 96.3%, and 77.8% of athletes returned to sport at their preinjury level, respectively.11,16,19 Three studies reported a mean 97.6% of athletes returning to any level of sport.11,12,21 Seven studies reported on the mean time to return to sport (the recovery period), which was 55.2 ± 15.8 and 41.7 ± 9.8 days for operative and nonoperative management, respectively.3,5,11,12,18,19,20 The overall mean time to return to sport was 46.4 days (range, 15.4-70 days). Calder et al3 included both operative and nonoperative management for grade IIb and IIa syndesmotic injuries, respectively. The nonoperative group (n = 28) was treated with a boot and rehabilitation, while the operative group (n = 36) required syndesmotic stabilization using the suture button fixation technique. All patients returned to sport at the preinjury level, with a mean return to sport of 45 days (range, 23-63 days) in the nonoperative group and 65 days (range, 27-104 days) in the operative group (P < 0.0001). Steinmetz et al19 employed screw fixation methods and reported that 4% and 5.6% of syndesmotic screws had broken and resulted in rediastasis at the syndesmosis at 5- and 18-month follow-up, respectively. In another study, syndesmotic screws were removed in all patients once healing was complete, defined as when the athlete was able to complete a sport-specific functional progression program.8 Athletes were not permitted to return to competition until syndesmotic screws had been removed. Taylor et al20 reported hardware removal at an average of 74 days (range, 52-97 days) postoperatively, with 1 screw having broken prior to removal."
+    }
+  ]
+}

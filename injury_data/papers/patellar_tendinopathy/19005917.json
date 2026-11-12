@@ -1,0 +1,32 @@
+{
+  "pmid": "19005917",
+  "title": "Achilles and patellar tendinopathy: current understanding of pathophysiology and management.",
+  "year": "2008",
+  "journal": "Disability and rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Achilles and patellar tendinopathy cause significant morbidity in professional and recreational athletes. Both the Achilles and patellar tendons are weight-bearing tendons that lack a true tendon sheath but are surrounded by paratenon."
+    },
+    {
+      "label": "METHOD",
+      "text": "A review of the literature to outline the characteristics of tendinopathy in these two tendons, and to discuss current concepts of pathophysiology, use of imaging in the diagnosis and aid to clinical management strategies in tendinopathy."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Achilles and patellar tendinopathy share common histopathology such as intratendinous failed healing response and neoangiogenesis."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Achilles and patellar tendinopathy cause much morbidity in the athletic and non athletic population attending sports medicine and rheumatology clinics. Tendinopathy is essentially an 'overuse', degenerative condition. Neovascularisation evident on Doppler ultrasound correlates well with pain and poor function. Peritendinous injections and eccentric training decrease neovascularity, relieve pain and improve outcome. Although surgery is the last resort in those patients failing conservative management, it is still unclear how the removal of adhesions and excision of affected tendinopathic areas affects healing and vascularity, or resolves pain."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

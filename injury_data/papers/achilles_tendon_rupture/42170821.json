@@ -1,0 +1,35 @@
+{
+  "pmid": "42170821",
+  "title": "Return-to-sport and performance outcomes after Achilles tendon rupture in National Hockey League players: A matched cohort study.",
+  "year": "2026",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Achilles tendon ruptures (ATRs) are uncommon but career-threatening injuries in elite athletes. Limited evidence exists regarding return-to-sport (RTS) and performance outcomes among National Hockey League (NHL) players following ATR. This study aimed to evaluate RTS rates and post-injury performance metrics in NHL players after ATR, using matched controls for comparison."
+    },
+    {
+      "label": "METHODS",
+      "text": "NHL players who sustained an ATR between the 2000-2001 and 2024-2025 seasons were identified using publicly available databases and confirmed through independent sports news sources. Each player was matched 1:1 to a control based on position, age and pre-injury performance using a validated similarity algorithm. Demographic data and performance metrics, including points per game (PPG), games played (GP), average time on ice (ATOI) and a validated hockey-specific performance score (PS), were collected for two seasons before and after the injury or index date. RTS rates and pre- versus post-injury changes were assessed using paired t tests, with significance set at p < 0.05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 20 NHL players met the inclusion criteria and were successfully matched to controls. The overall RTS rate was 87.0%, rising to 100% when accounting for players who retired from the NHL but continued playing professionally in other leagues. Although players with ATR (cases) demonstrated performance declines post-injury, no significant differences were observed in PS, PPG, ATOI or GP at any position, except for PS when all positions were analysed collectively. Similarly, control players experienced non-significant performance declines across all metrics post-index."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "ATR in NHL players is associated with high RTS rates and largely preserved performance metrics. While a modest decline in PS was observed, other key metrics remained stable compared to matched controls. These findings support favourable functional recovery and can inform post-injury expectations and management."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

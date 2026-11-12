@@ -1,0 +1,40 @@
+{
+  "pmid": "41244225",
+  "title": "The Use of Dual-Energy X-ray Absorptiometry (DEXA) in Evaluating Recovery After Musculoskeletal Injuries in Athletes: A Scoping Review.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Dual-energy x-ray absorptiometry (DEXA) is a widely used imaging modality in sports medicine and orthopaedics due to its accuracy in assessing bone mineral density (BMD) and body composition. Tracking these parameters provides valuable insights into the recovery process after musculoskeletal injuries, which are prevalent among athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate how DEXA imaging has been used to guide rehabilitation in both recreational and competitive athletes by monitoring changes in BMD and body composition after musculoskeletal injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Scoping review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive literature search was conducted in Ovid MEDLINE, EMBASE, Cochrane Central, and SportDISCUS databases (2000-2024). Studies were included if they used DEXA to measure BMD or body composition changes in athletes after musculoskeletal injuries. Titles, abstracts, and full texts were screened independently by 2 reviewers, with discrepancies resolved through discussion. Data were synthesized qualitatively, and major trends were reported and identified."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 1132 unique records, 12 studies met inclusion criteria, involving 319 athletes (34% female) with injuries such as anterior cruciate ligament (ACL) tears, lumbar stress fractures, femoroacetabular impingement, and Achilles tendon ruptures. Athletes represented a range of sports, including soccer, basketball, cricket, and triathlon, at both competitive and recreational levels. DEXA identified significant BMD declines after injury, particularly in the affected limb. For instance, up to a 7% BMD reduction was observed in surgical limbs after ACL reconstruction, persisting for up to 2 years in some cases. Rehabilitation strategies incorporating blood flow restriction therapy or combined running and isometric exercises better preserved lean mass and BMD compared with conventional programs focused solely on closed and open kinetic chain exercises."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The review demonstrated that DEXA imaging is a promising tool in orthopaedic sports medicine for assessing injury-related changes in BMD and body composition. It provides detailed insights into recovery processes and aids in tailoring rehabilitation strategies and return-to-sport decisions. Some studies incorporated advanced rehabilitation methods such as blood flow restriction therapy, which appeared to accelerate recovery as measured by DEXA outcomes. Future studies should explore integrating DEXA findings into athlete-specific rehabilitation protocols with validated thresholds for return to play."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

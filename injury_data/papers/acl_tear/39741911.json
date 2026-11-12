@@ -1,0 +1,35 @@
+{
+  "pmid": "39741911",
+  "title": "Femoral anteversion as a potential risk factor for anterior cruciate ligament injuries in athletes.",
+  "year": "2025",
+  "journal": "Journal of experimental orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Non-contact anterior cruciate ligament (ACL) injuries are influenced by the anatomic and biomechanical characteristics of the lower limb. The combination of knee valgus, hip internal rotation and tibial external rotation are important contributors to non-contact ACL injuries. In this study, we aimed to evaluate the effect of femoral anteversion on the incidence of ACL injuries among athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective comparative study was conducted on 137 adult male athletes with high suspicion of ACL injury following a sports-related injury. The patients were classified into two groups based on the presence of ACL tears: the 'ACL tear' and the 'ACL intact' groups. The femoral anteversion angle was measured by both a computed tomography (CT) scan using the method described by Hernandez et al. and a physical examination using Craig's test. The association of ACL tears with femoral anteversion angle was evaluated. Femoral anteversion cut-off values were calculated to find the best margin for a high probability of ACL tearing."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean anteversion in patients with ACL tears was found to be higher compared to ACL-intact patients both in CT scan measures (18.4 ± 5.5 vs. 12.9 ± 6.9, <i>p</i> value < 0.001) and physical examination (20.2 ± 5.9 vs. 14.8 ± 7.7, <i>p</i> value < 0.001). The correlation analysis revealed an excellent correlation between femoral anteversion measured by CT scan and Craig's test results (<i>r</i> = 0.94). Cut-off values for femoral anteversion measured by CT scan concerning ACL tearing with the highest sensitivity and specificity were 12.7 and 19.0, respectively. The Craig-measured cut-off values were 1.5-2° more than the CT scan measurements."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study reveals a significant correlation between increased femoral anteversion and a higher risk of ACL injury among male athletes. The results of this study aid in designing personalized prevention programmes for non-contact ACL injuries among athletes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "43005803",
+  "title": "Combined FHL transfer and SpeedBridge reconstruction for calcific avulsion in insertional Achilles tendinopathy: a case report.",
+  "year": "2026",
+  "journal": "International journal of surgery case reports",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION AND IMPORTANCE",
+      "text": "Insertional Achilles tendinopathy (IAT) is a chronic degenerative condition characterized by pain and structural changes at the calcaneal insertion. Although conservative management remains first-line treatment, a substantial proportion of patients ultimately require surgical intervention. Several surgical strategies have been described for refractory IAT, including debridement, posterior calcaneal osteoplasty, tendon detachment with reinsertion using single- or double-row anchors, and augmentation techniques such as flexor hallucis longus (FHL) tendon transfer. Massive intratendinous calcifications complicated by acute avulsion at the tendon insertion are rare."
+    },
+    {
+      "label": "PRESENTATION OF CASE",
+      "text": "A 52-year-old competitive handball player presented with acute posterior heel pain sustained during sport. Imaging revealed the avulsion of a large insertional calcific deposit associated with Achilles tendon rupture and poor-quality residual fibers. Surgical management consisted of extensive debridement, posterior calcaneal osteotomy, FHL tendon transfer, and double-row SpeedBridge fixation. At 24 months postoperatively, the patient had returned to competitive sport at his pre-injury level with excellent functional outcomes and no complications."
+    },
+    {
+      "label": "CLINICAL DISCUSSION",
+      "text": "In cases of extensive tendon degeneration and calcific avulsion, primary repair alone may be insufficient. Combining biological augmentation with FHL transfer and mechanical reinforcement using double-row fixation may improve structural integrity and functional recovery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Massive calcific avulsion with substantial tendon loss represents a severe form of insertional Achilles disease. In high-demand patients, combining FHL transfer with double-row fixation may restore tendon continuity and enable return to sport."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

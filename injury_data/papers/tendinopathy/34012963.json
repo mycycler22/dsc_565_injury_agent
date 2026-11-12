@@ -1,0 +1,20 @@
+{
+  "pmid": "34012963",
+  "title": "The Lack of a Representative Tendinopathy Model Hampers Fundamental Mesenchymal Stem Cell Research.",
+  "year": "2021",
+  "journal": "Frontiers in cell and developmental biology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Overuse tendon injuries are a major cause of musculoskeletal morbidity in both human and equine athletes, due to the cumulative degenerative damage. These injuries present significant challenges as the healing process often results in the formation of inferior scar tissue. The poor success with conventional therapy supports the need to search for novel treatments to restore functionality and regenerate tissue as close to native tendon as possible. Mesenchymal stem cell (MSC)-based strategies represent promising therapeutic tools for tendon repair in both human and veterinary medicine. The translation of tissue engineering strategies from basic research findings, however, into clinical use has been hampered by the limited understanding of the multifaceted MSC mechanisms of action. <i>In vitro</i> models serve as important biological tools to study cell behavior, bypassing the confounding factors associated with <i>in vivo</i> experiments. Controllable and reproducible <i>in vitro</i> conditions should be provided to study the MSC healing mechanisms in tendon injuries. Unfortunately, no physiologically representative tendinopathy models exist to date. A major shortcoming of most currently available <i>in vitro</i> tendon models is the lack of extracellular tendon matrix and vascular supply. These models often make use of synthetic biomaterials, which do not reflect the natural tendon composition. Alternatively, decellularized tendon has been applied, but it is challenging to obtain reproducible results due to its variable composition, less efficient cell seeding approaches and lack of cell encapsulation and vascularization. The current review will overview pros and cons associated with the use of different biomaterials and technologies enabling scaffold production. In addition, the characteristics of the ideal, state-of-the-art tendinopathy model will be discussed. Briefly, a representative <i>in vitro</i> tendinopathy model should be vascularized and mimic the hierarchical structure of the tendon matrix with elongated cells being organized in a parallel fashion and subjected to uniaxial stretching. Incorporation of mechanical stimulation, preferably uniaxial stretching may be a key element in order to obtain appropriate matrix alignment and create a pathophysiological model. Together, a thorough discussion on the current status and future directions for tendon models will enhance fundamental MSC research, accelerating translation of MSC therapies for tendon injuries from bench to bedside."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

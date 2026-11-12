@@ -1,0 +1,32 @@
+{
+  "pmid": "40077032",
+  "title": "Arthroscopy for Femoroacetabular Impingement in Athletes Versus Non-Athletes: Systematic Review and Meta-Analysis.",
+  "year": "2025",
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement (FAI) is a frequently observed hip condition among young, active individuals-especially athletes-that can result in pain, restricted mobility, and a heightened risk of osteoarthritis. Hip arthroscopy has increasingly become the preferred surgical approach for managing FAI due to its ability to alleviate symptoms and improve function. However, potential differences in outcomes between athletes and non-athletes have not been thoroughly investigated. This systematic review and meta-analysis compared arthroscopic management for FAI in athletes versus non-athletes. The outcomes of interest were patient-reported outcome measures (PROMs) and complications."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed, Web of Science, and Embase were systematically accessed until October 2024. The studies eligible were clinical investigations comparing athletes and non-athletes undergoing hip arthroscopy for FAI with a minimum follow-up of 24 months. The outcomes assessed included the Visual Analogue Scale (VAS), Hip Outcome Score for Activities of Daily Living (HOS-ADL), and the Hip Outcome Score-Sport-Specific Subscale (HOS-SSS). Data on reoperation rates and progression to total hip arthroplasty were also extracted. The ROBINS-I tool was used to assess the risk of bias, and meta-analyses were performed using Review Manager 5.3."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Three comparative investigations, comprising 808 patients (165 athletes and 643 non-athletes), met the inclusion criteria. Baseline characteristics were similar across both groups. The analyses demonstrated no statistically significant differences in the PROMs (VAS: <i>p</i> = 0.7; HOS-ADL: <i>p</i> = 0.5; HOS-SSS: <i>p</i> = 0.4), reoperation rates (<i>p</i> = 0.7), or the rate of progression to arthroplasty (<i>p</i> = 0.4) between athletes and non-athletes. Furthermore, meta-analyses of two studies reinforced the absence of significant differences in VAS and HOS-SSS outcomes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip arthroscopy for FAI appears to yield equivalent improvements in pain and functional outcomes for both athletes and non-athletes, with comparable complication rates at an approximate two-year follow-up. Despite the limited number of studies and a moderate risk of bias, the findings support the effectiveness of arthroscopic intervention across varying physical activity levels."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

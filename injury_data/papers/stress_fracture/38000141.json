@@ -1,0 +1,32 @@
+{
+  "pmid": "38000141",
+  "title": "Minimally invasive treatment of pedicle stress fracture in a young athlete: A case report.",
+  "year": "2023",
+  "journal": "International journal of surgery case reports",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Pedicle stress fractures are an uncommon type of non-union often associated with contralateral neural arch interruption in young, active patients. Patients present with long-lasting low back pain, and the diagnosis is usually delayed. Treatment is generally conservative. Few cases treated surgically are described in the literature, with a high degree of treatment heterogeneity and no consensus on optimal treatment."
+    },
+    {
+      "label": "PRESENTATION OF CASE",
+      "text": "A 24-year-old male, following a sports-related trauma, developed persistent lower back pain. Imaging revealed a right L3 pedicle stress fracture with left lamina and pars interarticularis interruption. A minimally invasive percutaneous approach targeting the pedicle fracture was chosen. The procedure aimed to alleviate pain and promote non-union healing, without addressing the contralateral defect. The patient quickly recovered, achieving significant pain relief, and starting a tailored physical therapy program. At the 4-month follow-up, the pedicle fracture healed with callus formation. The patient returned to sports practice."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Pedicle stress fractures may result from biomechanical force redistribution. Diagnosis is challenging, necessitating advanced imaging, including bone scintigraphy, MRI, and CT scans. Conservative management with rest, restriction with a brace, and focused rehabilitation usually achieves good results. When conservative management fails, surgery should be considered. Surgical options include direct repair, bone grafting, and screw fixation of the pedicle and contralateral pars defect."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Minimally invasive surgery can achieve good clinical and functional results while avoiding blood loss and soft tissue trauma. Treating only the stress fracture is sufficient to promote bone healing, in contrast to more complex procedures."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

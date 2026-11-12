@@ -1,0 +1,20 @@
+{
+  "pmid": "36685067",
+  "title": "Biomechanics and lower limb function are altered in athletes and runners with achilles tendinopathy compared with healthy controls: A systematic review.",
+  "year": "2022",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achilles tendinopathy (AT) is a debilitating injury in athletes, especially for those engaged in repetitive stretch-shortening cycle activities. Clinical risk factors are numerous, but it has been suggested that altered biomechanics might be associated with AT. No systematic review has been conducted investigating these biomechanical alterations in specifically athletic populations. Therefore, the aim of this systematic review was to compare the lower-limb biomechanics of athletes with AT to athletically matched asymptomatic controls. Databases were searched for relevant studies investigating biomechanics during gait activities and other motor tasks such as hopping, isolated strength tasks, and reflex responses. Inclusion criteria for studies were an AT diagnosis in at least one group, cross-sectional or prospective data, at least one outcome comparing biomechanical data between an AT and healthy group, and athletic populations. Studies were excluded if patients had Achilles tendon rupture/surgery, participants reported injuries other than AT, and when only within-subject data was available.. Effect sizes (Cohen's <i>d</i>) with 95% confidence intervals were calculated for relevant outcomes. The initial search yielded 4,442 studies. After screening, twenty studies (775 total participants) were synthesised, reporting on a wide range of biomechanical outcomes. Females were under-represented and patients in the AT group were three years older on average. Biomechanical alterations were identified in some studies during running, hopping, jumping, strength tasks and reflex activity. Equally, several biomechanical variables studied were not associated with AT in included studies, indicating a conflicting picture. Kinematics in AT patients appeared to be altered in the lower limb, potentially indicating a pattern of \"medial collapse\". Muscular activity of the calf and hips was different between groups, whereby AT patients exhibited greater calf electromyographic amplitudes despite lower plantar flexor strength. Overall, dynamic maximal strength of the plantar flexors, and isometric strength of the hips might be reduced in the AT group. This systematic review reports on several biomechanical alterations in athletes with AT. With further research, these factors could potentially form treatment targets for clinicians, although clinical approaches should take other contributing health factors into account. The studies included were of low quality, and currently no solid conclusions can be drawn."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

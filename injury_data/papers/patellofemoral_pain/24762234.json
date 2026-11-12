@@ -1,0 +1,48 @@
+{
+  "pmid": "24762234",
+  "title": "A predictive model to estimate knee-abduction moment: implications for development of a clinically applicable patellofemoral pain screening tool in female athletes.",
+  "year": "2014",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Prospective measures of high external knee-abduction moment (KAM) during landing identify female athletes at increased risk of patellofemoral pain (PFP). A clinically applicable screening protocol is needed."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To identify biomechanical laboratory measures that would accurately quantify KAM loads during landing that predict increased risk of PFP in female athletes and clinical correlates to laboratory-based measures of increased KAM status for use in a clinical PFP injury-risk prediction algorithm. We hypothesized that we could identify clinical correlates that combine to accurately determine increased KAM associated with an increased risk of developing PFP."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive laboratory study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Biomechanical laboratory."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "Adolescent female basketball and soccer players (n = 698) from a single-county public school district."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "We conducted tests of anthropometrics, maturation, laxity, flexibility, strength, and landing biomechanics before each competitive season. Pearson correlation and linear and logistic regression modeling were used to examine high KAM (>15.4 Nm) compared with normal KAM as a surrogate for PFP injury risk."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The multivariable logistic regression model that used the variables peak knee-abduction angle, center-of-mass height, and hip rotational moment excursion predicted KAM associated with PFP risk (>15.4 NM of KAM) with 92% sensitivity and 74% specificity and a C statistic of 0.93. The multivariate linear regression model that included the same predictors accounted for 70% of the variance in KAM. We identified clinical correlates to laboratory measures that combined to predict high KAM with 92% sensitivity and 47% specificity. The clinical prediction algorithm, including knee-valgus motion (odds ratio [OR] = 1.46, 95% confidence interval [CI] = 1.31, 1.63), center-of-mass height (OR = 1.21, 95% CI = 1.15, 1.26), and hamstrings strength/body fat percentage (OR = 1.80, 95% CI = 1.02, 3.16) predicted high KAM with a C statistic of 0.80."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Clinical correlates to laboratory-measured biomechanics associated with an increased risk of PFP yielded a highly sensitive model to predict increased KAM status. This screening algorithm consisting of a standard camcorder, physician scale for mass, and handheld dynamometer may be used to identify athletes at increased risk of PFP."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

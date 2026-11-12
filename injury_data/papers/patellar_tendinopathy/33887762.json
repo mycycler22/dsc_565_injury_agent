@@ -1,0 +1,47 @@
+{
+  "pmid": "33887762",
+  "title": "Differences in Biomechanical Loading Magnitude During a Landing Task in Male Athletes With and Those Without Patellar Tendinopathy.",
+  "year": "2022",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Researchers have not established if overloading or underloading movement profiles are present in symptomatic and asymptomatic athletes with patellar tendon structural abnormality (PTA) compared with healthy athletes."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare involved-limb landing biomechanics between male athletes with and those without patellar tendinopathy."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Laboratory."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "A total of 43 male athletes were grouped based on patellar tendon pain and ultrasound imaging of the proximal patellar tendon: symptomatic with PTA (SYM; n = 13; age = 19.62 ± 1.61 years, height = 1.82 ± 0.05 m, mass = 83.46 ± 5.12 kg), asymptomatic with PTA (ASYM; n = 15; age = 21.13 ± 1.88 years, height = 1.84 ± 0.07 m, mass = 81.45 ± 13.26 kg), and healthy control (CON; n = 15; age = 19.60 ± 1.55 years, height = 1.84 ± 0.09 m, mass = 79.09 ± 12.37 kg)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Three-dimensional biomechanics were collected during a double-limb jump-landing task. Kinematic (knee-flexion angle [KF]) and kinetic (vertical ground reaction force, internal knee-extension moment [KEM], patellar tendon force [F<sub>PT</sub>]) variables were analyzed as continuous waveforms during the stance phase for the involved limb. Mean values were calculated for each 1% of stance, normalized over 202 data points (0%-100%), and plotted with 95% CIs. Statistical significance was defined as a lack of 95% CI overlap for a minimum of a consecutive 3% of the stance phase."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The SYM group had less KF than the CON group throughout the stance phase (8%-76%: Cohen <i>d</i> = 1.14 ± 0.12, mean difference [MD] = 15.83° ± 2.71°). The ASYM group had less KF than the CON group in the early (8%-13%: Cohen <i>d</i> = 0.99 ± 0.04, MD = 7.99° ± 0.39°; 21%-24%: Cohen <i>d</i> = 1.01 ± 0.01, MD = 11.11° ± 0.32°) and late (74%-94%: Cohen <i>d</i> = 0.96 ± 0.07, MD = 9.55° ± 1.13°) stance phases. The SYM group had a smaller KEM (6.5%-9%: Cohen <i>d</i> = 1.21 ± 0.08, MD = 0.04 ± 0.004 N·m/[N<sub>bw</sub>·m<sub>ht</sub>]) and less F<sub>PT</sub> (6%-9%: Cohen <i>d</i> = 1.15 ± 0.15, MD = 0.85 ± 0.15 body weight) than the CON group in the early stance phase. The SYM group also displayed a smaller KEM (38%-56%: Cohen <i>d</i> = 1.17 ± 0.06, MD = 0.03 ± 0.001 N·m/[N<sub>bw</sub>·m<sub>ht</sub>]) and less F<sub>PT</sub> (36%-60%: Cohen <i>d</i> = 1.22 ± 0.08, MD = 0.66 ± 0.05 body weight) than the ASYM group in the midstance phase."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The SYM group demonstrated a patellar tendon load-avoidance profile compared with the ASYM and CON groups. The ASYM group showed no evidence of overloading compared with the CON group. Our findings support the need for individualized treatments for athletes with tendinopathy to maximize load capacity."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "38302124",
+  "title": "Concussion Care in Teenage Athletes.",
+  "year": "2024",
+  "journal": "Pediatric annals",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussion is a form of traumatic brain injury that occurs commonly in pediatric patients. One group at higher risk for concussion is adolescent and teenage athletes. Athletes may sustain one or more concussions throughout their athletic careers, and these injuries may lead to significant morbidities for children. Although most concussion symptoms will resolve in less than 1 month, there is a subset of patients for whom symptoms may persist. Given the increased interest in preventing long-term sequelae related to concussion, legislation has been passed across the United States that aims to identify concussion promptly and remove participants from play after an injury has occurred. Care and treatment for concussion is evolving, with newer recommendations stating that complete or extreme rest may be unnecessary during the recovery period. Pediatricians and those who interact with young athletes should be aware of the guidelines surrounding return-to-play and return-to-learn in their geographic area of practice. <b>[<i>Pediatr Ann</i>. 2024;53(2):e39-e41.]</b>."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Although most concussion symptoms will resolve in less than 1 month, there is a subset of patients for whom symptoms may persist."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "39690426",
+  "title": "A comparative analysis of platelet-rich plasma alone versus combined with extracorporeal shockwave therapy in athletes with patellar tendinopathy and knee pain: a randomized controlled trial.",
+  "year": "2024",
+  "journal": "Knee surgery & related research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy, also known as jumper's knee, can significantly impact the quality of daily life for patients due to the associated pain. A randomized controlled trial was investigated the clinical, sonographic, and serum cytokine markers in patellar tendinopathy of athletes following platelet-rich plasma (PRP) or PRP with extracorporeal shockwave therapy (ESWT) treatments. Our aims to investigate and compare therapeutic effects of PRP versus a combination of PRP with ESWT for treating patellar tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 33 athletes with patellar tendinopathy were randomized into two groups. PRP + Sham (PS) group received intraarticular injection of autologous PRP (5 mL) once and sham ESWT. PRP + ESWT (PE) group received intraarticular injection of autologous PRP once and after 1 week ESWT (0.2 mJ/mm<sup>2</sup> energy flux density, 1350 impulses, 4 Hz) once. All patients were followed up for 1 year."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Autologous PRP injection and its combination with ESWT are both effective treatments for chronic patellar tendinopathy in athletes. PRP combined with ESWT resulted in faster reduction of knee pain than PRP alone at the 1-month follow-up. Serum IL-33 showed no significant difference at the 12-month follow-up. Levels of interleukin (IL)-6, IL-15, and IL-17 increased at the 12-month follow-up, potentially due to the additional training. However, the athletes did not report any discomfort or injuries, and no abnormalities were detected by ultrasonography after study. We demonstrated improvements in pain and functional scores, as well as knee injury protection in athletes, following 12 months of PRP and PRP with ESWT treatments."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The study analyzed the therapeutic effect of PRP injection alone and combining PRP injection with ESWT for chronic patellar tendinopathy. Our results showed that combined treatment can facilitate the pain relief early than PRP alone and is a safety treatment modality. No adverse effect was noted in our study. Trial registration Research registry and the registration number is researchregistry9518. Registered 14 September 2023. https://www.researchregistry.com/browse-the-registry#home/registrationdetails/650263e4f549fd00282a338c/ . The level of evidence is level II."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

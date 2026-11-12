@@ -1,0 +1,45 @@
+{
+  "pmid": "41459021",
+  "title": "Effectiveness of focused extracorporeal shock wave therapy for suspected ulnar collateral ligament-related symptoms in competitive baseball pitchers.",
+  "year": "2026",
+  "journal": "JSES international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Conservative treatment such as physiotherapy is a treatment option for ulnar collateral ligament (UCL) injuries in baseball pitchers, with 46%-66% of patients returning to their previous performance levels. However, a standardized conservative treatment algorithm for UCL injuries has yet to be established. While extracorporeal shock wave therapy (ESWT) is widely used for sports-related musculoskeletal disorders, there have been limited data on its effectiveness for suspected UCL-related symptoms in baseball pitchers specifically. The purpose of this study was to retrospectively evaluate the effectiveness of ESWT for suspected UCL-related symptoms by comparing the clinical outcomes between patients treated by physiotherapy with or without ESWT. We hypothesized that physiotherapy with ESWT for suspected UCL-related symptoms would result in superior clinical outcomes, including better sports return and a shorter time to resume throwing."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study subjects were skeletally mature baseball pitchers who (1) were diagnosed with an isolated UCL injury of the throwing-side elbow, (2) were treated with physiotherapy with or without ESWT, (3) underwent magnetic resonance imaging (MRI) of the elbow, and (4) played at the competitive sports level or practiced more than twice a week. The diagnosis of UCL injury was based on symptoms and physical examination, with MRI as a reference. ESWT was proposed for patients with residual elbow pain after two months of physiotherapy and applied to those who consented. Elbows with previous surgical treatment, prior platelet-rich plasma treatment, or traumatic UCL injuries were excluded. The patients were divided into 2 groups: group E, physiotherapy with ESWT; group P, physiotherapy alone. Return-to-play rates and the time to resume throwing were compared between the groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Sixty-three baseball pitchers with a mean age of 17 years (range, 15-23) were included in this study. Group E and P included 36 and 27 patients, respectively. Most elbows showed lower-grade injuries on MRI, and there were no complete tears. In group E, 31 (86%) elbows successfully returned to sports, while 16 (59%) elbows returned in group P. The difference in the return rates was significant (<i>P</i> = .03). The median time to start throwing was 4 (range, 2-15) and 5 weeks (range, 1-12) in groups E and P, respectively, and the difference was significant (<i>P</i> = .01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Physiotherapy with ESWT for suspected UCL-related symptoms in baseball pitchers yielded better clinical outcomes than physiotherapy alone in terms of a higher return rate and earlier start of throwing. ESWT can be an alternative treatment option for baseball pitchers with suspected UCL-related symptoms."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The median time to start throwing was 4 (range, 2-15) and 5 weeks (range, 1-12) in groups E and P, respectively, and the difference was significant (<i>P</i> = .01)."
+    }
+  ],
+  "pmcid": "12743504",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Sixty-three baseball pitchers with a mean age of 17 years (range, 15-23) were included in this study. Group E and P included 36 and 27 patients, respectively. Most elbows showed lower-grade injuries on MRI, and there were no complete tears. In group E, 31 (86%) elbows successfully returned to sports, while 16 (59%) elbows returned in group P. The difference in the return rates was significant (P = .03). The median time to start throwing was 4 (range, 2-15) and 5 weeks (range, 1-12) in groups E and P, respectively, and the difference was significant (P = .01)."
+    },
+    {
+      "section": "Return to play sports",
+      "text": "In group E, 31 (86%) elbows successfully returned to sports, while only 16 (59%) elbows returned in group P. The difference in the return rates was significant (P = .03, Table III). The median time to initiate the throwing program was 4 (range, 2-15) and 5 weeks (range, 1-12) in groups E and P, respectively, and the difference was significant (P = .01). Among the patients who did not successfully return to play, 2 collegiate athletes in group P received surgical intervention, while the others continued with rehabilitation."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "41251309",
+  "title": "Return to Sport and Outcomes After Hip Arthroscopic Surgery for Treatment of Femoroacetabular Impingement in Professional Athletes.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hip arthroscopy (HA) for femoroacetabular impingement (FAI) is increasingly performed in professional athletes, yet sport-specific return-to-sport (RTS) outcomes remain limited."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess return-to-sport rates and postoperative outcomes after HA for FAI in a cohort of professional athletes across multiple sports."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective cohort study was conducted using data from a hip preservation registry, including 128 professional athletes (157 hips) treated between 2009 and 2023. Athletes were categorized into 4 sports: baseball, basketball, football, and ice hockey. RTS was defined as athletes recording professional statistics before injury, undergoing surgery, and logging professional statistics postoperatively. Demographic, clinical, and radiographic data were analyzed, and statistical performance measurements were calculated to assess postoperative performance changes. Logistic regression was used to identify predictors of RTS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 85% of athletes returned to sport, with variation between sports (90% for baseball, 100% for basketball, 82% for football, and 84% for hockey), but no significant difference in rate of RTS was observed (<i>P</i> = .47). The RTS rate for primary HA was 88%, while the RTS rate was 57% for revision surgery. Older age was found to be a significant negative predictor of RTS (<i>P</i> = .04; OR, 1.13; 95% CI, 1.01-1.27). Performance measures postsurgery were -17% for football, +182% for hockey, +7% for baseball, and +31% for basketball."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip arthroscopy for FAI was associated with a high overall rate of RTS in this cohort of professional athletes. RTS rates and performance outcomes were not significantly different by sport. Median changes in performance metrics across all sports were modest, suggesting that most athletes returned to a similar level of performance postoperatively. Outliers in the hockey cohort notably influenced mean performance values. Athletes undergoing revision surgery demonstrated a lower RTS rate compared with those undergoing primary procedures."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

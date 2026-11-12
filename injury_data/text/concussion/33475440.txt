@@ -1,0 +1,2 @@
+Title: Examining how time from sport-related concussion to initial assessment predicts return-to-play clearance. | Type: Journal Article | PMID: 33475440 | Year: 2022 | Injury query: concussion
+[RESULTS] A log-rank test revealed a significant difference (p = 0.00) in time to discharge with athletes assessed <10 days of injury discharged at a mean of 23.5 days (95% CI, 22.5, 24.5) and those assessed at day 10 to 30 were discharged at a mean of 37.1 days (95% CI, 33.7, 40.5).

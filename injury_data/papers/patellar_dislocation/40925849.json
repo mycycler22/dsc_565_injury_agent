@@ -1,0 +1,37 @@
+{
+  "pmid": "40925849",
+  "title": "[Surgical management of patellofemoral dislocation using an autologous quadriceps tendon graft for medial patellofemoral ligament reconstruction. Clinical and functional outcomes in a retrospective cohort of pediatric patients].",
+  "year": "2025",
+  "journal": "Acta ortopedica mexicana",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "medial patellofemoral ligament (MPFL) reconstruction using an autologous quadriceps tendon graft to treat patellofemoral dislocation in the pediatric population is a surgical alternative that may offer advantages compared to other types of grafts. We assessed clinical and functional outcomes, rate of return to sport, and complications in a cohort of pediatric patients."
+    },
+    {
+      "label": "MATERIAL AND METHODS",
+      "text": "retrospective and descriptive cohort study. Pediatric patients with recurrent patellofemoral dislocation treated with MPFL reconstruction using an autologous quadriceps tendon graft, with or without an additional procedure, were included. A minimum follow-up of two years was required. Patients with congenital patellofemoral dislocation, previous surgeries, connective tissue disorders, and medial patellar dislocation were excluded. We measured the Kujala functional score, its minimally clinically important difference (MCID), and the Tegner activity scale. The difference between preoperative and postoperative Kujala and Tegner scores was analyzed using the Wilcoxon signed-rank test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "we selected nine patients (12 knees) with a mean age of 16.5 years. The median preoperative Kujala score was 56 with an interquartile range (IQR) of 51-65, and 99 (IQR 95100) postoperatively. A MCID and a statistically significant difference were achieved (p < 0.01). The median preoperative Tegner score was 6 (IQR 68.5) and 5.5 (IQR 47) postoperatively, with this difference being statistically significant (p = 0.02). The average time to return to sports was 6.5 months. Four complications were found."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "MPFL reconstruction using autologous quadriceps tendon graft in pediatric patients is a reliable option with good clinical and functional outcomes."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The average time to return to sports was 6.5 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

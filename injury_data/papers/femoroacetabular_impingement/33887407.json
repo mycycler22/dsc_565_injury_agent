@@ -1,0 +1,36 @@
+{
+  "pmid": "33887407",
+  "title": "Patient-Reported Outcomes in Athletes Following Hip Arthroscopy for Femoroacetabular Impingement With Subanalysis on Return to Sport and Performance Level: A Systematic Review.",
+  "year": "2021",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To identify present trends in demographics, surgical indications, preoperative findings, and surgical treatment of athletes undergoing hip arthroscopy for femoroacetabular impingement and (2) to investigate the outcomes in this patient population, including patient-reported outcome scores (PROS), return-to-sport, complications, and reoperation data at minimum 2-year follow-up in the athletic population."
+    },
+    {
+      "label": "METHODS",
+      "text": "Cochrane, Embase, and PubMed databases were searched according to the Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines to distinguish articles that reported PROS after hip arthroscopy in athletes. Athletes were defined as anyone who played a sport for minimum 2 years at any level. The standardized mean difference was calculated to compare the effect size of hip arthroscopy on various PROS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighteen studies, with 904 athlete hips and a collective study period of January 1993 to April 2017, were included in this systematic review. Across all studies, the mean age and body mass index ranged from 15.7-36.7 years and 20.3-26.3, respectively. The follow-up range was 24-240 months. Mean preoperative alpha angle ranged from 57.7° to 80.0°. Athletes most commonly underwent femoroplasty and labral management. At latest follow-up, the modified Harris Hip Score were excellent in 6 studies (range, 92.1-98), good in 10 studies (range, 84.2-88.5), and fair in 1 study (77.1). Each studies' individual athletic cohort showed significant improvement on the modified Harris Hip Score, Nonarthritic Hip Score, the Hip Outcome Score-Activities of Daily Living, the Hip Outcome Score-Sport-Specific Subscale, visual analog scale for pain, and International Hip Outcome Tool at latest follow-up (P < .05). The return-to-sport rate ranged from 72.7% to 100%, with 74.2-100% of these athletes returning to preinjury or greater level."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes undergoing arthroscopic hip surgery in the setting of femoroacetabular impingement, not only exhibit significant functional improvement, but also have a high rate of return to sport at the same or greater competition level compared with preinjury level."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV, systematic review of Level III and IV studies."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

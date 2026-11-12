@@ -1,0 +1,33 @@
+{
+  "pmid": "38674187",
+  "title": "Ultrasound- and Doppler-Guided WALANT Arthroscopic Surgery for Patellar Tendinopathy with Partial Rupture in Elite Athletes-A 2-Year Follow-Up of a Prospective Case Series.",
+  "year": "2024",
+  "journal": "Medicina (Kaunas, Lithuania)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<i>Background and Objectives</i>: Patellar tendinopathy is difficult to treat, and when combined with partial rupture, there are additional challenges. The aim of this study was to evaluate the subjective outcome and return-to-sport status after ultrasound (US)- and colour doppler (CD)-guided wide awake local anaesthetic no tourniquet (WALANT) arthroscopic shaving in elite athletes. <i>Material and Methods</i>: Thirty Swedish and international elite athletes (27 males) with a long duration (>1 year) of persistent painful patellar tendinopathy in 35 patellar tendons, not responding to non-surgical treatment, were included. All patients were treated with the same protocol of arthroscopic shaving, including bone removal and debridement of partial rupture, followed by at least 3 months of structured rehabilitation. The VISA-P score and a study-specific questionnaire evaluating physical activity level and subjective satisfaction with the treatment were used for evaluation. <i>Results</i>: At the 2-year follow-up (mean 23, range 8-38 months), 25/30 patients (29/35 tendons) were satisfied with the treatment result and had returned to their pre-injury sport. The mean VISA-P score increased from 37 (range 7-69) before surgery to 80 (range 44-100) after surgery (<i>p</i> < 0.05). There was one drop-out (one tendon). There were no complications. <i>Conclusions</i>: US- and CD-guided WALANT arthroscopic shaving for persistent painful patellar tendinopathy, including bone removal and debridement of partial rupture, followed by structured rehabilitation showed good clinical results in the majority of the elite-level athletes."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "All patients were treated with the same protocol of arthroscopic shaving, including bone removal and debridement of partial rupture, followed by at least 3 months of structured rehabilitation."
+    }
+  ],
+  "pmcid": "11051799",
+  "fulltext_chunks": [
+    {
+      "section": "3. Results",
+      "text": "At the follow-up at a mean of 23 months (range 8–38) after the operation, 25/30 patients (29/35 tendons) had returned to their pre-injury sport. The mean VISA-P functional score for the whole group increased significantly from 37 (range 7–69) before surgery to 80 (range 44–100) (p < 0.05) after surgery. For the Swedish patients, 14/15 (17/18 tendons) provided VISA-P follow-up scores and were satisfied with the treatment result. One Swedish patient did not complete the VISA-P after surgery but responded via telephone to subjective satisfaction (being satisfied) and return-to-sport status (had returned to pre-injury professional sport). For the international patients, we received VISA-P follow-up scores from 8/15, and for another 6/15, we obtained information about the return to their pre-injury sport. Twelve of the international patients (13 tendons) had returned to their pre-injury sports. For one international patient, no 1-year information at all could be retrieved (drop-out). In the analysis of the four patients (five tendons) who were not satisfied with the treatment, one patient (two tendons) had retired from their pre-injury sport due to associated widespread grade 3–4 cartilage lesions in the patellofemoral joint of both knees. The second patient retired from pre-injury sport after a re-operation, also because of grade 4 cartilage lesions in the patellofemoral joint. The third patient had remaining tendon-related pain and retired from pre-injury sport. The final patient had remaining tendon-related pain and had not been able to return to pre-injury sport but was participating at a lower level and had not decided to retire. There were no complications in relation to the surgery including no superficial or deep surgical site infections and no thromboembolic events."
+    },
+    {
+      "section": "TABLE: General guidelines for introduction and progression of activities and rehabilitation exercises.",
+      "text": "Week | Rehabilitation Activities and Exercises\n1–2 | Gradually increased full weight-bearing walking, full range of motion exercises and isometric quadriceps contraction exercises.Short sessions with light-load biking.\n3–4 | Increased walking distances and light-load biking distances.Isometric quadriceps exercises.\n5–6 | Introduction of closed chain concentric quadriceps strength training (low-load and multiple repetitions).Introduction of two-legged low-load eccentric exercises.Free walking distances and heavier biking (including resistance intervals).\n7–8 | Heavier closed-chain concentric and two-legged eccentric quadriceps exercisesFree biking.\n9–10 | Heavy concentric exercises and introduction of one-legged eccentric exercises.\n11 | Careful introduction of plyometric exercises (if tolerate heavy isometric, concentric and eccentric strength training).\n12 | Introduction of sport-specific exercises."
+    }
+  ]
+}

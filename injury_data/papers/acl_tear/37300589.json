@@ -1,0 +1,36 @@
+{
+  "pmid": "37300589",
+  "title": "The role of relaxin in anterior cruciate ligament injuries: a systematic review.",
+  "year": "2023",
+  "journal": "European journal of orthopaedic surgery & traumatology : orthopedie traumatologie",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Anterior cruciate ligament (ACL) tears are exceedingly common among the athletic population and are seen with higher incidence in females. Observational studies have noted peak ACL tear rates in the luteal phase of the menstrual cycle, a time in which the hormone relaxin peaks in serum concentration."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of the literature was performed. Inclusion criteria specified all prospective and retrospective studies which included the role of relaxin in the pathogenesis of ACL tears."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Six studies met inclusion criteria yielding 189 subjects from clinical studies and 51 in vitro samples. Included studies found that ACL samples exhibit selective relaxin binding. When pre-treated with estrogen prior to relaxin exposure, female ACL tissue samples exhibit increased expression of collagen degrading receptors."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Relaxin displays binding specificity to the female ACL and increased serum concentrations are correlated with increased ACL tear rates in female athletes. Further research is needed in this area."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "V."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

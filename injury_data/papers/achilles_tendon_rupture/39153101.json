@@ -1,0 +1,33 @@
+{
+  "pmid": "39153101",
+  "title": "Paratenon preserving repair of the midsubstance acute Achilles tendon rupture: a systematic review and meta-analysis with best- and worst-case analyses for rerupture rates.",
+  "year": "2024",
+  "journal": "Archives of orthopaedic and trauma surgery",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Paratenon preserving techniques to facilitate acute Achilles tendon rupture repair (AATR) functions by maintaining vascularity and biology for optimal healing response. Therefore, the purpose is to evaluate the outcomes following paratenon preserving repair of the midsubstance AATR. The hypothesis was that paratenon-preserving techniques demonstrate high return to play rates and low complication rates for the repair of the midsubstance AATR."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "A systematic review of the PubMed, Embase, and the Cochrane Library databases was performed by two authors using specific search terms and eligibility criteria. The assessment of the evidence was two-fold: level and quality of evidence. A meta-analysis of proportions for the various complication rates was performed using the restricted maximum likelihood method following the Freeman-Tukey double-arcsine transformation. Fixed effects models were employed if I<sup>2</sup> < 25% (low heterogeneity), and random effects models were employed if I<sup>2</sup> ≥ 25% (moderate to high heterogeneity)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The pooled return to play rate was 90.3%. The pooled rerupture rate as reported was 0.9% (best-case scenario 0.8% and worst-case scenario 6.8%). No meaningful subgroup analysis for rerupture rates could be performed based on the meta-regression. The pooled complication rate other than reruptures was 4.8%. The pooled infection rates were 0.3%, DVT rates were 1.6%, and sural nerve injury rates were 0.3%."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Paratenon preserving techniques that are minimally invasive in nature demonstrated safe and favorable outcomes with high return to play rates and low complication rates for the repair of the midsubstance AATR."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

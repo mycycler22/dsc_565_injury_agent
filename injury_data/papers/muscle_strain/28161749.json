@@ -1,0 +1,61 @@
+{
+  "pmid": "28161749",
+  "title": "Cohen's MRI scoring system has limited value in predicting return to play.",
+  "year": "2018",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Numerous authors have hypothesised that MRI scoring systems provide a valid means of predicting return to play duration following an acute hamstring muscle strain. The purpose is to prospectively investigate the predictive value of the MRI scoring system of Cohen for return to sport (RTS), following an acute hamstring injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male football (soccer) players (n = 139) with acute onset posterior thigh pain underwent standardised clinical and MRI examinations within 5 days after injury. All players underwent a standardised physiotherapy regimen with RTS documented. The MRI scoring was statistically evaluated against RTS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "One hundred and ten MRI-positive hamstring injuries were evaluated with RTS duration ranging from 1 to 66 days. Total Cohen's MRI score accounted for approximately 4% of the variance in RTS duration. When comparing those with an MRI score of 10 or more took on average 9.8 days longer to RTS than those with an MRI score less than 10 (effect size: 0.85, p < 0.01)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Utilising the Cohen's MRI scoring system previously described, we were unable to provide a clinically useful prognosis for RTS in male soccer players. This may reflect the broader challenges of attempting to accurately determine RTS duration from imaging performed at a single point in time."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Prospective case series, IV."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "One hundred and ten MRI-positive hamstring injuries were evaluated with RTS duration ranging from 1 to 66 days."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "When comparing those with an MRI score of 10 or more took on average 9.8 days longer to RTS than those with an MRI score less than 10 (effect size: 0.85, p < 0.01)."
+    }
+  ],
+  "pmcid": "5876264",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "One hundred and ten MRI-positive hamstring injuries were evaluated with RTS duration ranging from 1 to 66 days. Total Cohen’s MRI score accounted for approximately 4% of the variance in RTS duration. When comparing those with an MRI score of 10 or more took on average 9.8 days longer to RTS than those with an MRI score less than 10 (effect size: 0.85, p < 0.01)."
+    },
+    {
+      "section": "Results",
+      "text": "We identified 139 professional footballers with a clinically suspected acute hamstring injury. Twenty-eight injuries were MRI negative, and one injury did not have a cross-sectional area documented, and they were therefore excluded from the analysis. Of the 110 included footballers, the average age at injury was 26 years (range 18–39 years), height 177 cm and weight 73 kg and represented a range of ethnicities including 52.7% Arab, 30.0% Black, 1.8% Caucasian, 5.5% South and East Asian, 4.5% Persian and 5.5% other. In 89 patients (80.2%), only one muscle was identified as injured, in 21 patients (18.9%) two muscles were injured and in one case (0.9%), three muscles were injured. The primary injury was observed to the long head of the biceps femoris (n = 89, 81%), semimembranosus (n = 17, 15%), semitendinosus (n = 3, 3%) or the short head of the biceps femoris (n = 1, 1%). Twenty-one (18.9%) injuries were located in the proximal muscle, 46 (41.4%) mid-muscle and 44 (39.6%) distally. No insertional injuries or muscle retraction was noted, as complete (Grade 3) ruptures were exclusion criteria. Cross-sectional muscle involvement was <25% (n = 76, 69.7%), 25–49% (n = 18, 16.5%), 50–74% (n = 10, 9.2%) and ≥75% (n = 5, 4.6%). Longitudinal muscle involvement was 1–5 cm (n = 16, 14.6%), 6–10 cm (n = 37, 33.6%) and >10 cm (n = 57, 51.8%). The average total Cohen’s MRI score was 7.9 (range 4–12, SD: 1.72). RTS duration ranged from 1 to 66 days with a mean of 22.65 days (SD: 11.03) (Table 4).Table 4Summary statistics for Cohen’s score and time to RTSTotal Cohen’s scoreTime to RTS (days)Mean (95% CI)7.9 (7.5–8.2)22.7 (20.6–24.7)Median (IQR)8 (2)21 (13)SD1.711.025Minimum41Maximum1266Pearson’s rho0.205 (p = 0.032) RTS return to sport, CI confidence interval, IQR interquartile range, SD standard deviation The relationship between the total Cohen’s MRI score and time to RTS is illustrated in Fig. 1. On average, RTS in those with a score of 10 or more (mean 30 days; median 30 days) took 9.8 days longer than a score of less than 10 (mean 20 days; median 19 days; effect size: 0.85, p < 0.01) (Fig. 2). Assuming the Cohen MRI score as a continuous variable, Pearson’s correlation coefficient = 0.21 (p = 0.03), and when not considered as a continuous variable, Spearman’s correlation coefficient = 0.18 (n.s.), suggesting only approximately 4% of the variance in time to RTS is explained by the Cohen MRI score.Fig. 1Scatter plot illustrating the correlation between the total Cohen’s score and time to return to sport (days) including regression line (solid line) with 95% confidence intervals (dashed lines) Fig. 2Relationship between total Cohen’s score < 10 and ≥10 with RTS duration. Dots represent time to RTS (days; left axis) for individual subjects. The horizontal bars and vertical whiskers represent mean time to RTS (days) and standard deviation, respectively (right axis) Of the individual variables incorporated into the Cohen model, only the number of muscles involved was found to have a significant relationship with time to RTS (Fig. 3).Fig. 3Mean number of days to return to sport grouped by number of muscles involved (whiskers represent SD). Note, as there was only one subject with three muscles involved, no SD is presented for this series"
+    },
+    {
+      "section": "TABLE: Study eligibility criteria",
+      "text": "Prospective case series | Randomised controlled trial\nInclusion criteria Male professional soccer playerAge 18–50 yearsAcute onset of posterior thigh pain when training or competing ≤5 days after injuryClinical diagnosis ≤5 days after injuryMRI performed ≤5 days from injuryAvailable for follow-upMRI confirmed hamstring lesion Exclusion criteria Re-injury ≤2 months after RTS [11]Chronic hamstring complaints >2 monthsGrade III hamstring tearContraindications to MRIAlready included with prior injury | Inclusion criteria Male professional soccer playerAge 18–50 yearsAcute onset of posterior thigh painPresenting and MRI within 5 days from injuryMRI confirmed hamstring lesionAble to perform five sessions of physiotherapy a week at our clinicAvailable for follow-up Exclusion criteria Contraindication to MRIRe-injury ≤2 months after RTS [2] or chronic hamstring injury >2 monthsOther concurrent injury inhibiting rehabilitationUnwilling to comply with follow-upNeedle phobiaOverlying skin infectionDiabetes, immune-compromised stateMedication with increasing bleeding riskMedical contraindication to injection"
+    },
+    {
+      "section": "TABLE: Summary statistics for Cohen’s score and time to RTS",
+      "text": " | Total Cohen’s score | Time to RTS (days)\nMean (95% CI) | 7.9 (7.5–8.2) | 22.7 (20.6–24.7)\nMedian (IQR) | 8 (2) | 21 (13)\nSD | 1.7 | 11.025\nMinimum | 4 | 1\nMaximum | 12 | 66\nPearson’s rho | 0.205 (p = 0.032)"
+    }
+  ]
+}

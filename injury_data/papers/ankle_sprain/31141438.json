@@ -1,0 +1,36 @@
+{
+  "pmid": "31141438",
+  "title": "Lack of Consensus on Return-to-Sport Criteria Following Lateral Ankle Sprain: A Systematic Review of Expert Opinions.",
+  "year": "2020",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Lateral ankle sprains (LAS) have one of the highest recurrence rates of all musculoskeletal injuries. An emphasis on rapid return to sport (RTS) following LAS likely increases reinjury risk. Unfortunately, no set of objective RTS criteria exist for LAS, forcing practitioners to rely on their own opinion of when a patient is ready to RTS."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine if there was consensus among published expert opinions that could help inform an initial set of RTS criteria for LAS that could be investigated in future research."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "PubMed, CINHL, and SPORTDiscus databases were searched from inception until October 2018 using a combination of keywords. Studies were included if they listed specific RTS criteria for LAS. No assessment of methodological quality was conducted because all included papers were expert opinion papers (level 5 evidence). Extracted data included the recommended domains (eg, range of motion, balance, sport-specific movement, etc) to be assessed, specific assessments for each listed domain, and thresholds (eg, 80% of the uninjured limb) to be used to determine RTS. Consensus and partial agreement were defined, a priori, as ≥75% and 50% to 75% agreement, respectively."
+    },
+    {
+      "label": "EVIDENCE SYNTHESIS",
+      "text": "Eight domains were identified within 11 included studies. Consensus was reached regarding the need to assess sport-specific movement (n = 9, 90.9%). Partial agreement was reached for the need to assess static balance (n = 7, 63.6%). The domains of pain and swelling, patient reported outcomes, range of motion, and strength were also partially agreed on (n = 6, 54.5%). No agreement was reached on specific assessments of cutoff thresholds."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Given consensus and partial agreement results, RTS decisions following LAS should be based on sport-specific movement, static balance, patient reported outcomes, range of motion, and strength. Future research needs to determine assessments and cutoff thresholds within these domains to minimize recurrent LAS risk."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

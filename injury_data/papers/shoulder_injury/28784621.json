@@ -1,0 +1,35 @@
+{
+  "pmid": "28784621",
+  "title": "Risk factors for overuse shoulder injuries in a mixed-sex cohort of 329 elite handball players: previous findings could not be confirmed.",
+  "year": "2018",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder injuries are common among handball players and predominantly characterised by overuse characteristics. Reduced total glenohumeral rotation, external rotation weakness and scapular dyskinesis have been identified as risk factors among elite male handball players."
+    },
+    {
+      "label": "AIM",
+      "text": "To assess whether previously identified risk factors are associated with overuse shoulder injuries in a large cohort of elite male and female handball players."
+    },
+    {
+      "label": "METHODS",
+      "text": "329 players (168 male, 161 female) from the two upper divisions in Norway were included and tested prior to the 2014-2015 season. Measures included glenohumeral internal and external rotation range of motion, isometric internal and external rotation strength, and assessment of scapular dyskinesis. Players were followed prospectively for one competitive season, with prevalence and severity of shoulder problems registered monthly using the Oslo Sports Trauma Research Center Overuse Injury Questionnaire. A severity score based on players' questionnaire responses was used as the outcome measure in multivariable logistic regression to investigate associations between candidate risk factors and overuse shoulder injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No significant associations were found between total rotation (OR 1.05 per 5° change, 95% CI 0.98 to 1.13), external rotation strength (OR 1.05 per 10 N change, 95% CI 0.92 to 1.20) or obvious scapular dyskinesis (OR 1.23, 95% CI 0.25 to 5.99) and overuse shoulder injury. A significant positive association was found between greater internal rotation (OR 1.16 per 5° change, 95% CI 1.00 to 1.34) and overuse shoulder injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "None of the previously identified risk factors were associated with overuse shoulder injuries in a mixed-sex cohort of elite handball players."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

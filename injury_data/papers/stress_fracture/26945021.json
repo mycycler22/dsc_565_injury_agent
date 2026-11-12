@@ -1,0 +1,40 @@
+{
+  "pmid": "26945021",
+  "title": "Improving Diagnostic Accuracy and Efficiency of Suspected Bone Stress Injuries.",
+  "year": "2016",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Lower extremity stress fractures among athletes and military recruits cause significant morbidity, fiscal costs, and time lost from sport or training. During fiscal years (FY) 2012 to 2014, 1218 US Air Force trainees at Joint Base San Antonio-Lackland, Texas, were diagnosed with stress fracture(s). Diagnosis relied heavily on bone scans, often very early in clinical course and often in preference to magnetic resonance imaging (MRI), highlighting the need for an evidence-based algorithm for stress injury diagnosis and initial management."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "To guide creation of an evidence-based algorithm, a literature review was conducted followed by analysis of local data. Relevant articles published between 1995 and 2015 were identified and reviewed on PubMed using search terms stress fracture, stress injury, stress fracture imaging, and stress fracture treatment. Subsequently, charts were reviewed for all Air Force trainees diagnosed with 1 or more stress injury in their outpatient medical record in FY 2014."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Clinical review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In FY 2014, 414 trainees received a bone scan and an eventual diagnosis of stress fracture. Of these scans, 66.4% demonstrated a stress fracture in the symptomatic location only, 21.0% revealed stress fractures in both symptomatic and asymptomatic locations, and 5.8% were negative in the symptomatic location but did reveal stress fracture(s) in asymptomatic locations. Twenty-one percent (18/85) of MRIs performed a mean 6 days (range, 0- 21 days) after a positive bone scan did not demonstrate any stress fracture."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Bone stress injuries in military training environments are common, costly, and challenging to diagnose. MRI should be the imaging study of choice, after plain radiography, in those individuals meeting criteria for further workup."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

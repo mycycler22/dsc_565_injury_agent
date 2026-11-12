@@ -1,0 +1,53 @@
+{
+  "pmid": "35488457",
+  "title": "The effect of concussion on subsequent musculoskeletal injury risk in high school athletes.",
+  "year": "2022",
+  "journal": "PM & R : the journal of injury, function, and rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Studies have demonstrated an increased risk of musculoskeletal (MSK) injury after concussion in collegiate and professional athletes, but there has been relatively little study of this relationship in younger athletes."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the odds of experiencing a subsequent MSK injury after concussion in high school athletes. It was hypothesized that concussion would increase the risk of MSK injury within 365 days of the concussion event."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective observational study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Twelve high school sports programs."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Athletes (n = 14,461) from athletic training room records queried between 2010 and 2017."
+    },
+    {
+      "label": "INDEPENDENT VARIABLES",
+      "text": "History of concussion and history of concussion and MSK injury in the year preceding MSK injury."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "General estimating equation analyses were conducted to examine the odds of MSK injury related to (1) concussion within the preceding 365 days of injury; and (2) concussion and MSK injury within the preceding 365 days of concussion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Respectively, 8% and 8.3% of athletes were identified with a concussion and MSK injury. After controlling for gender and sport, athletes with a concussion and prior MSK injury (odds ratio = 2.19, 95% confidence interval: 1.02-4.67) and athletes with a concussion alone (odds ratio = 1.67, 95% confidence interval: 1.15-2.44) both had higher odds of experiencing a subsequent MSK injury compared to athletes without prior concussion."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "High school athletes who sustain a concussion have elevated odds of MSK injury at rates comparable to those for collegiate athletes. These findings support the use of neuromuscular-based rehabilitation and injury prevention protocols in the post-concussion period. These findings may also suggest exploring methods to modify concussion return-to-play criteria with the goal to reduce the risk of future MSK injury."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

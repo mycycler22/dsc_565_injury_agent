@@ -1,0 +1,24 @@
+{
+  "pmid": "36779568",
+  "title": "Infrared Thermography, Intratendon Vascular Resistance, and Echotexture in Athletes with Patellar Tendinopathy: A Cross-Sectional Study.",
+  "year": "2023",
+  "journal": "Ultrasonic imaging",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Ultrasonographic signs of tendinopathies are an increase in thickness, loss of alignment in collagen fibers and the presence of neovascularization. Nevertheless, analysis of intratendinous vascular resistance (IVR) can be more useful for understanding the physiological state of the tissue. To show thermal, echotextural, and Doppler signal differences in athletes with patellar tendinopathy and controls. Twenty-six athletes with patellar tendinopathy (PT) participants (30.1 years; <i>SD</i> = 9.0 years) and 27 asymptomatic athletes (23.3 years; <i>SD</i> = 5.38 years) were evaluated with thermographic and Doppler ultrasonography (DS). Area of Doppler signals (DS), echotextural parameters (echointensity and echovariation) and IVR were determined by image analysis. The statistical analysis was performed by Bayesian methods and the results were showed by Bayes Factor (BF10: probability of alternative hypothesis over null hypothesis), and Credibility intervals (CrI) of the effect. The absolute differences of temperature (TD) were clearly greater (BF10 = 19) in the tendinopathy group (patients) than in controls. Regarding temperature differences between the affected and healthy limb, strong evidence was found (BF<sub>10</sub> = 14) for a higher temperature (effect = 0.53°C; 95% CrI = 0.15°C-0.95°C) and very strong for reduced IVR compared (BF<sub>10</sub> = 71) (effect = -0.67; 95% CrI = -1.10 to 0.25). The differences in area of DS (BF<sub>10</sub> = 266) and EV (BF<sub>10</sub> = 266) were higher in tendinopathy group. TD showed a moderate positive correlation with VISA-P scores (tau-B = .29; 95% CrI = .04-.51) and strong correlation with IVR (<i>r</i> = -.553; 95%CrI = -.75 to .18). Athletes with patellar tendinopathy showed a more pronounced thermal difference, a larger area of Doppler signal, a lower IVR and a moderately higher echovariaton than controls. The correlation between temperature changes and IVR might be related with the coexistence of degenerative and inflammatory process in PT."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Twenty-six athletes with patellar tendinopathy (PT) participants (30.1 years; <i>SD</i> = 9.0 years) and 27 asymptomatic athletes (23.3 years; <i>SD</i> = 5.38 years) were evaluated with thermographic and Doppler ultrasonography (DS)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

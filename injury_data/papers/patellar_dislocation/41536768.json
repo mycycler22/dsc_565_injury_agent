@@ -1,0 +1,35 @@
+{
+  "pmid": "41536768",
+  "title": "Favourable mid- to long-term clinical and functional outcomes and low redislocation rates following derotational distal femoral osteotomy for the treatment of recurrent patellofemoral instability.",
+  "year": "2026",
+  "journal": "Journal of experimental orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To assess the mid- to long-term clinical and functional outcomes and return to sports following derotational distal femoral osteotomy (DDFO) for the treatment of recurrent patellofemoral instability and associated increased femoral antetorsion."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients who underwent DDFO as well as concomitant procedures between 2007 and 2016 were eligible for inclusion. Recurrent instability, complications, revision surgery and return to sports rates were evaluated after a minimum follow-up of 5 years. Kaplan-Meier survival analysis was performed for the risk of recurrent instability or undergoing further surgery other than hardware removal. Patient-reported outcome measures (PROMs; Visual Analog Scale [VAS] for pain, Tegner Activity Scale [TAS], Kujala score, Banff Patellofemoral Instability Instrument [BPII] 2.0 and Patellofemoral Instability-Return to Sport after Injury [PFI-RSI] scale) were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 44 knees in 42 patients eligible for inclusion, 25 knees in 24 patients (64% female) with a mean age of 27.3 ± 9.0 years at the time of surgery were available for follow-up at a mean of 8.7 ± 2.7 years (follow-up: 57%). Two patients (5%) underwent early revision surgery due to loss of osteosynthesis at the distal femur. Three patients (12%) reported subjective recurrent instability at a median of 3.9 (3.5-7.0) years post-operatively. The Kaplan-Meier estimator showed a survival probability free of recurrent instability and revision (except hardware removal) of 87% (95%-confidence interval 76%-100%) at 5 years. At final follow-up, patients reported good knee function (Kujala score: 78.5 ± 16.6), knee-related quality of life (BPII: 68.3 ± 22.3), psychological readiness to return to sport (PFI-RSI: 73.3 [43.8-90.0]), and moderate activity levels (TAS: 4.0 [3.0-4.0]). The majority of patients returned to sports (84%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "DDFO provided effective treatment for recurrent patellofemoral instability associated with increased femoral antetorsion. Favourable clinical and functional outcomes as well as high return to sport rates were observed at a mid- to long-term follow-up."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, retrospective case series."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "41488347",
+  "title": "The Relationship Between Hand Dominance and ACL Tears in Competitive Volleyball Athletes.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Knee injuries are common in volleyball athletes, often resulting from the sport's unique movement requirements. Among these, anterior cruciate ligament (ACL) tears are particularly prevalent, and while the existing literature has examined risk factors such as biomechanical asymmetries and landing mechanics, there is limited research on the relationship between hand dominance and the side of injury."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine the relationship between hand dominance and ACL tear laterality in competitive volleyball players diagnosed with first-time unilateral ACL tears."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "After a medical record review of 1529 consecutive patients, 149 met the inclusion criteria, resulting in a study population of 124 females and 25 males. Data on sex, age, body mass index, handedness, and ACL tear laterality were collected from the medical records. A Fisher exact test was used to assess the association between handedness and ACL tear laterality, while binomial tests evaluated differences in ACL tear laterality within each handedness group."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Among the 136 right-handed players, 81.62% tore their left ACL, while 18.38% tore their right ACL. Among the 13 left-handed players, 84.62% tore their right ACL, while 15.38% tore their left ACL. A statistically significant association was found between hand dominance and ACL tear laterality (<i>P</i> < .001). Additionally, statistical significance was found between right-handed players tearing their left ACL (<i>P</i> < .001) and left-handed players tearing their right ACL (<i>P</i> < .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study suggests a significant relationship between hand dominance and ACL tear laterality in competitive volleyball players. Right-handed volleyball players were significantly more likely to tear their left ACL, whereas left-handed players predominantly tore their right ACL. These findings suggest a biomechanical or sports-specific risk factor contributing to ACL injury patterns in volleyball players."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

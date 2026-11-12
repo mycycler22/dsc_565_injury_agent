@@ -1,0 +1,69 @@
+{
+  "pmid": "27697890",
+  "title": "Sex Differences in Time to Return-to-Play Progression After Sport-Related Concussion.",
+  "year": "2017",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Recently, female sports participation has increased, and there is a tendency for women to experience more symptoms and variable presentation after sport-related concussion (SRC). The purpose of this study was to determine whether sex differences exist in time to begin a return-to-play (RTP) progression after an initial SRC."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "After initial SRC, female athletes (11-20 years old) would take longer to begin an RTP progression compared with age-matched male athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Retrospective cohort study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 579 participants (365 males [mean age, 15.0 ± 1.7 years], 214 females [mean age, 15.2 ± 1.5 years]), including middle school, high school, and collegiate athletes who participated in various sports and experienced an initial SRC were included and underwent retrospective chart review. The following information was collected: sex, age at injury, sport, history of prior concussion, date of injury, and date of initiation of RTP progression. Participants with a history of more than 1 concussion or injury sustained from non-sport-related activity were excluded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Despite American football having the greatest percentage (49.2%) of sport participation, female athletes took significantly longer to start an RTP progression after an initial SRC (29.1 ± 26.3 days) compared with age-matched male athletes (22.7 ± 18.3 days; P = 0.002)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "On average, female athletes took approximately 6 days longer to begin an RTP progression compared with age-matched male athletes. This suggests that sex differences exist between athletes, aged 11 to 20 years, with regard to initiation of an RTP progression after SRC."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Female athletes may take longer to recover after an SRC, and therefore, may take longer to return to sport. Sex should be considered as part of the clinical decision-making process when determining plan of care for this population."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Despite American football having the greatest percentage (49.2%) of sport participation, female athletes took significantly longer to start an RTP progression after an initial SRC (29.1 ± 26.3 days) compared with age-matched male athletes (22.7 ± 18.3 days;"
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "On average, female athletes took approximately 6 days longer to begin an RTP progression compared with age-matched male athletes."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "This suggests that sex differences exist between athletes, aged 11 to 20 years, with regard to initiation of an RTP progression after SRC."
+    }
+  ],
+  "pmcid": "5315255",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Despite American football having the greatest percentage (49.2%) of sport participation, female athletes took significantly longer to start an RTP progression after an initial SRC (29.1 ± 26.3 days) compared with age-matched male athletes (22.7 ± 18.3 days; P = 0.002)."
+    },
+    {
+      "section": "Results",
+      "text": "There was no statistically significant difference for subject age between male and female athletes (Table 1; P = 0.101). Data for number of days from time of injury to start of RTP progression and sport participation are included in Figure 1 and Table 2, respectively. Despite American football having the greatest percentage (49.2%) of sport participation, female athletes took significantly longer to start an RTP progression after an initial SRC (29.1 ± 26.3 days) compared with age-matched male athletes (22.7 ± 18.3 days; P = 0.002). In a separate subanalysis, when football players were removed from the data, female athletes (29.1 ± 26.3 days) continued to take significantly longer to begin an RTP progression than male athletes (18.6 ± 44.7 days; P = 0.040)."
+    }
+  ]
+}

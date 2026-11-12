@@ -1,0 +1,39 @@
+{
+  "pmid": "33889645",
+  "title": "Predictors of Spondylolysis on Magnetic Resonance Imaging in Adolescent Athletes With Low Back Pain.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Spondylolysis and undiagnosed mechanical low back pain (UMLBP) are the main causes of low back pain (LBP) in adolescent athletes. No studies have evaluated the difference in clinical and radiographic factors between these 2 conditions. Furthermore, it remains unclear which adolescent athletes with LBP should undergo advanced imaging examination for spondylolysis."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare the clinical and radiographic factors of adolescent athletes with spondylolysis and UMLBP who did not have neurological symptoms or findings before magnetic resonance imaging (MRI) evaluation and to determine the predictors of spondylolysis findings on MRI."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study, Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study population included 122 adolescent athletes aged 11 to 18 years who had LBP without neurological symptoms or findings and who underwent MRI. Of these participants, 75 were ultimately diagnosed with spondylolysis, and 47 were diagnosed with UMLBP. Clinical factors and the following radiographic parameters were compared between the 2 groups: spina bifida occulta, lumbar lordosis (LL) angle, and the ratio of the interfacet distance of L1 to that of L5 (L1:L5 ratio, %). A logistic regression analysis was performed to evaluate independent predictors of spondylolysis on MRI scans."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Significantly more athletes with spondylolysis were male (82.7% vs 48.9%; <i>P</i> < .001), had a greater LL angle (22.8° ± 8.1° vs 19.3° ± 8.5°; <i>P</i> = .02), and had a higher L1:L5 ratio (67.4% ± 6.3% vs 63.4% ± 6.6%; <i>P</i> = .001) versus athletes with UMLBP. A multivariate analysis revealed that male sex (odds ratio [OR], 4.66; <i>P</i> < .001) and an L1:L5 ratio of >65% (OR, 3.48; <i>P</i> = .003) were independent predictors of positive findings of spondylolysis on MRI scans."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The study findings indicated that sex and the L1:L5 ratio are important indicators for whether to perform MRI as an advanced imaging examination for adolescent athletes with LBP who have no neurological symptoms and findings."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

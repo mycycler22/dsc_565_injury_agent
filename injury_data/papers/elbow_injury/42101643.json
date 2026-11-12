@@ -1,0 +1,20 @@
+{
+  "pmid": "42101643",
+  "title": "A comprehensive review of ultrasonographic imaging in athletic elbow injuries: a compartment-based approach.",
+  "year": "2026",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Elbow injury rates are markedly higher among collegiate athletes than in the general population; however, this elevated incidence is largely driven by overhead throwing sports and does not represent a uniform risk across all athletes. Elbow disorders represent a significant diagnostic challenge in sports medicine due to the intricate anatomy of the joint. High-resolution ultrasonography has become an indispensable first-line imaging modality, offering superior spatial resolution for superficial structures and the unique capability for real-time dynamic assessment. This review illustrates the ultrasonographic spectrum of common elbow injuries in athletes, including epicondylopathy, ulnar collateral ligament insufficiency, and nerve entrapment syndromes. By employing a systematic, compartment-based approach categorizing findings into anterior, medial, lateral, and posterior zones, radiologists can ensure a comprehensive evaluation. Particular emphasis is placed on dynamic maneuvers such as valgus stress for ulnar collateral ligament stability and flexion-extension for ulnar nerve subluxation, which provide functional insights that are often unavailable on static magnetic resonance imaging. Furthermore, emerging adjunctive techniques, such as sonoelastography, may provide complementary information on tissue stiffness and integrity, potentially improving lesion characterization in specific athletic elbow conditions. Understanding these imaging patterns is crucial for accurate diagnosis and optimized management in athletes."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

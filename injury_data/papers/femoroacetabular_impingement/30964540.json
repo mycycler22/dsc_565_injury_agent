@@ -1,0 +1,24 @@
+{
+  "pmid": "30964540",
+  "title": "Performance and Return to Sport After Femoroacetabular Impingement Surgery in National Football League Players.",
+  "year": "2019",
+  "journal": "Orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The purpose of this study was to determine the (1) return-to-sport rate for National Football League (NFL) players following femoroacetabular impingement surgery, (2) postoperative career length and games per season, (3) pre- and postoperative performance, and (4) postoperative performance compared with control players matched by position, age, years of experience, and performance. National Football League athletes who underwent hip arthroscopy for femoroacetabular impingement and matched controls were identified. A Bonferroni correction was used to control for multiple comparisons, with statistical significance set at P≤.007. Fifty-five players (63 surgeries) were analyzed (mean age, 27.5±3.4 years; mean years in NFL at time of surgery, 4.7±2.9). Forty-seven (53 surgeries, 84.1%) NFL players returned to sport at a mean of 6.7±3.8 months following surgery. There was no difference (P>.007) in the mean career length of players in the control group (3.7±2.2 years) vs players who underwent hip arthroscopy (3.5±2.1 years). There was no difference (P>.007) in mean games played per season of players in the control group (12.5±3.1) vs those who underwent hip arthroscopy (12.1±4.0). Quarterbacks had significantly better postoperative performance scores when compared with post-index matched controls (P=.007). The return-to-sport rate is high for NFL athletes after hip arthroscopy for femoroacetabular impingement. There were similar games per season and career lengths postoperatively compared with preoperatively and matched controls. Quarterbacks had significantly better postoperative performance when compared with matched controls. All other positions had similar postoperative performance compared with preoperatively and matched controls. [Orthopedics. 2019; 42(5):e423-e429.]."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Forty-seven (53 surgeries, 84.1%) NFL players returned to sport at a mean of 6.7±3.8 months following surgery."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

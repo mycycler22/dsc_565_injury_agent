@@ -1,0 +1,24 @@
+{
+  "pmid": "37480428",
+  "title": "Qualitative Research in Return to Sport: a Current Review of the Literature.",
+  "year": "2023",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Return to sport (RTS) is an important metric tied to patient satisfaction after receiving treatment for a sports-related injury. Recently, there has been an explosion of literature on RTS; yet a comprehensive review encompassing multiple injuries does not exist. Furthermore, RTS has historically been defined by quantitative measures that assess strength, function, and pain but little consideration has been given to psychologic factors nor has there been an open-ended forum for athletes to share with health care providers which factors they feel are most influential for RTS. This review also serves to heighten surgeons' awareness of underlying psychologic/psychosocial factors affecting RTS."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Qualitative studies which employ open-ended questioning of athletes who have undergone surgical management of superior labral anterior-posterior (SLAP) tears, shoulder instability, ulnar collateral ligament (UCL) rupture, femoral acetabular impingement (FAI), and anterior cruciate ligament (ACL) tear demonstrate that fear of reinjury, lack of social support, and unrealistic expectations are all barriers to RTS. Qualitative studies give health care providers unique insight into the perspectives of their patients so that unmet postoperative needs can be addressed to facilitate RTS. Sports psychologists, coaches, athletic trainers, and physical therapists should create a positive environment to address these needs and provide optimal, holistic care to return athletes to the field safely. Though time consuming, further qualitative research is necessary to understand the unique factors affecting RTS in athletes."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "30788227",
+  "title": "Return to sport following scaphoid fractures: A systematic review and meta-analysis.",
+  "year": "2019",
+  "journal": "World journal of orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Scaphoid fracture is the most commonly fractured carpal bone in the athletic patient, accounting for over 85% of all sport-related carpal bone fractures, and is particularly common in sports involving high impact injuries to the wrist. The management of such injuries comprises both conservative and surgical techniques, as guided by fracture location and type. Athletes demonstrate a unique challenge with regards to the management of scaphoid fractures due to their requirement to return to sport, as soon as able."
+    },
+    {
+      "label": "AIM",
+      "text": "To review systemically all studies recording return to sport following scaphoid fractures, to collate information on return rates to sport (RRS) and mean return times (RTS) to sport and to determine differences in sporting outcome for the various treatment methods."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search of MEDLINE, EMBASE, CINAHAL, Cochrane, Google Scholar, Physiotherapy Evidence Database, SPORTDiscus, Web of Science and Scopus was performed in August 2018 using the keywords \"scaphoid\", \"fracture\", \"acute\", \"carpal\", \"athletes\", \"sports\", \"non-operative\", \"conservative\", \"operative\" and \"return to sport\". All studies that recorded RRS and RTS following scaphoid fractures were included. RTS was recorded as the length of time from commencement of either primary conservative management or primary surgical procedure to return to sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eleven studies were included: Two randomised controlled trials, six retrospective cohort studies and three case series. Seven studies reported on conservative management (<i>n</i> = 77), and eight studies reported on surgical management (<i>n</i> = 83). For conservative management, RRS was 90% (69/77), and the mean RTS was 9.6 wk. Three studies allowed to return to sport in cast [RRS 89% (25/28); RTS 1.9 wk], and four studies required completion of cast treatment prior to returning to sport [RRS 90% (44/49); RTS 13.9 wk]. Four studies recorded fracture union data: Union rate 85% (47/55); mean time to union 14.0 wk. For surgical management, RRS was 98% (81/83), and RTS was 7.3 wk. Three studies reported on Percutaneous Screw Fixation [RRS 97% (32/33); RTS 6.5 wk], and five studies reported on Open Reduction Internal Fixation [RRS 98% (49/50); RTS 7.9 wk]. Six studies recorded fracture union data: Union rate 97% (69/71); mean time to union 9.8 wk. On meta-analysis, RRS (RR = 1.09; 95% confidence interval (CI): 1.00-1.18; <i>P</i> < 0.045), RTS (MD 2.3 wk; 95%CI: 0.79-3.87; <i>P</i> < 0.002), union rates (RR = 1.14; 95%CI: 1.01-1.28; <i>P</i> < 0.030) and mean times to union (MD 4.2 wk; 95%CI: 3.94-4.36; <i>P</i> < 0.001) were all significantly better for the surgical cohort compared to the conservative cohort."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Surgical management of scaphoid fractures can provide significantly improved RRS and RTS to sport compared to conservative management. Both treatments, however, remain acceptable options, and athletes should be fully informed of the benefits and risks of both prior to deciding treatment plans. Immediate return to sport in a cast should be avoided due to the significant risk of non-union."
+    }
+  ],
+  "injury_query": "scaphoid fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

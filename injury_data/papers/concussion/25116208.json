@@ -1,0 +1,20 @@
+{
+  "pmid": "25116208",
+  "title": "Medical treatment of concussion.",
+  "year": "2014",
+  "journal": "Seminars in speech and language",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "A concussion is a brain injury, a change in function induced by traumatic forces. The incidence of concussion is increasing, likely due to increased awareness and improvement in recognition. Speech and language pathology professionals working in schools may encounter patients who have suffered concussions. At the root of concussion pathophysiology is altered metabolism and an acquired energy deficit. The mainstay of treatment for concussion is cognitive and physical rest, allowing for normalization of the metabolism and correction of the energy deficit. Once recovered, the student may need accommodations to successfully return to school without added difficulty and should follow a return to play protocol to return to athletics safely."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

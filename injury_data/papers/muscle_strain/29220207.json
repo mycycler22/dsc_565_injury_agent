@@ -1,0 +1,20 @@
+{
+  "pmid": "29220207",
+  "title": "MR Imaging of Muscle Trauma: Anatomy, Biomechanics, Pathophysiology, and Imaging Appearance.",
+  "year": "2018",
+  "journal": "Radiographics : a review publication of the Radiological Society of North America, Inc",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Muscle is an important component of the muscle-tendon-bone unit, driving skeletal motion through contractions that alter the length of the muscle. The muscle and myotendinous junction (MTJ) are most commonly injured in the young adult, as a result of indirect mechanisms such as overuse or stretching, direct impact (penetrating or nonpenetrating), or dysfunction of the supporting connective tissues. Magnetic resonance (MR) imaging is widely used for assessment of muscle injuries. This review illustrates the MR imaging appearance of a broad spectrum of acute, subacute, and chronic traumatic lesions of muscle, highlighting the pathophysiology, biomechanics, and anatomic considerations underlying these lesions. Concentric (shortening) contractions are more powerful, but it is eccentric (lengthening) contractions that produce the greatest muscle tension, leading to indirect injuries such as delayed-onset muscle soreness (DOMS) and muscle strain. Strain is the most commonly encountered muscle injury and is characteristically located at the MTJ, where maximal stress accumulates during eccentric exercise. The risk of strain varies among muscles based on their fiber composition, size, length, and architecture, with pennate muscles being at highest risk. Direct impact to muscle results in laceration or contusion, often accompanied by intramuscular interstitial hemorrhage and hematoma. Disorders related to the muscle's collagen framework include compartment syndrome, which is related to acute or episodic increases in pressure, and muscle herniation through anatomic defects in the overlying fascia. The healing response after muscle trauma can result in regeneration, degeneration with fibrosis and fatty replacement, or disordered tissue proliferation as seen in myositis ossificans. In athletes, accurate grading of the severity and precise location of injury is necessary to guide rehabilitation planning to prevent reinjury and ensure adequate healing. In elite athletes, MR imaging grading of muscle trauma plays an increasingly important role in recently developed comprehensive grading systems that are replacing the imprecise three-grade injury classification system currently used. <sup>©</sup>RSNA, 2017."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

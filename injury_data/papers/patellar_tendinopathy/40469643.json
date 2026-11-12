@@ -1,0 +1,32 @@
+{
+  "pmid": "40469643",
+  "title": "Patellar Tendinopathy Responding to Spinal Treatment: A Case Report Using Mechanical Diagnosis and Therapy.",
+  "year": "2025",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy is a common condition among athletes. While treatment typically focuses on strengthening exercises for knee extensors, the underlying origin of knee pain often remains unclear. This case report aims to illustrate the clinical reasoning process for a patient referred to physical therapy for patellar tendinopathy using the Mechanical Diagnosis and Therapy (MDT) system assessment."
+    },
+    {
+      "label": "CASE DESCRIPTION",
+      "text": "A 45-year-old patient engaged in a marathon preparation was diagnosed with chronic patellar tendinopathy. He reported experiencing pain during long-distance runs and interval training, as well as during functional tests. Treatment involved only repeated lumbar movement exercises, which elicited changes in knee pain and functional limitations."
+    },
+    {
+      "label": "OUTCOMES",
+      "text": "Numeric pain rating scores and the Victoria Institute of Sport Assessment questionnaire were used to assess changes in pain, function, and sport limitations. NPRS decreased from 4/10 at rest after sport and 7/10 during activities to 0/10 in both scenarios. Meanwhile, disability scores improved from 57/100 to 99/100 after three weeks of follow-up and reached 100 at six months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The results of this case report emphasize the importance of assessing the spine in knee disorders. Through a comprehensive examination, chronic tendon pain can be effectively addressed. The MDT system was effective in distinguishing between spinal and knee-related symptoms in this marathon runner."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

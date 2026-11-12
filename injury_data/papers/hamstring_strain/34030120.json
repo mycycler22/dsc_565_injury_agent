@@ -1,0 +1,47 @@
+{
+  "pmid": "34030120",
+  "title": "Reliability of a Clinical Test for Measuring Eccentric Knee Flexor Strength Using a Handheld Dynamometer.",
+  "year": "2022",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Eccentric knee flexor strength assessments have a key role in both prevention and rehabilitation of hamstring strain injuries."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To verify the reliability of a clinical test for measuring eccentric knee flexor strength during the Nordic hamstring exercise using a commercially available handheld dynamometer."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Reliability study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Physical Therapy Laboratory, Federal University of Health Sciences of Porto Alegre (Brazil)."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Fifty male amateur athletes (soccer or rugby players; 24 [3] y)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Eccentric knee flexor strength."
+    },
+    {
+      "label": "RESULTS",
+      "text": "When compared with a load cell-based device, the clinical test using a handheld dynamometer provided smaller force values (P < .05) with large effect sizes (.92-1.21), moderate intraclass correlation (.60-.62), typical error of 30 to 31 N, and coefficient of variation of 10% to 11%. Regarding the test-retest reproducibility (2 sessions separated by 1 week), the clinical test provided similar force values (P > .05) with only small effect sizes (.20-.27), moderate to good correlation (.67-.76), typical error of 23 to 24 N, and coefficient of variation of 9% to 10%."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The clinical test with handheld dynamometer proposed by this study can be considered an affordable and relatively reliable tool for eccentric knee flexor strength assessment in the clinical setting, but results should not be directly compared with those provided by load cell-based devices."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "32951774",
+  "title": "Assessment of HEADS UP online training as an educational intervention for sports officials/athletic trainers.",
+  "year": "2020",
+  "journal": "Journal of safety research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sports- and recreation-related concussions are a common injury among children. Sports officials (SOs) and athletic trainers (ATs) are integral to setting the stage for safe play and managing concussions when they occur, and significant numbers of both groups have completed the Centers for Disease Control and Prevention's HEADS UP online concussion training course. However, the utility of the course for these audiences has not been assessed. We hypothesized that sports officials' and athletic trainers' concussion-related knowledge, attitudes, and behavioral intentions will improve from pre- and post-test after completing CDC's HEADS UP online concussion training course."
+    },
+    {
+      "label": "METHOD",
+      "text": "Respondents' concussion-related knowledge, attitudes, and behavioral intentions were assessed both before and after taking the training course. Differences between pre- and post-test scores were calculated based on the Wilcoxon Signed Rank Test Z-score or McNemar's test. Effect sizes were interpreted."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The SOs and ATs who participated in the HEADS UP online training had a high level of concussion knowledge before taking the course: 90% or more of respondents could identify the correct response for at least seven of the 13 knowledge questions in the pre-test. Still, the course was effective at improving the respondents' knowledge about return-to-play protocols and concussion reporting. Further, SOs and ATs demonstrated improvement in their concussion-related attitudes and behavioral intentions between the pre- and post-test."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "SOs' and ATs' concussion knowledge, attitudes, and behavioral intentions improved immediately following completion of the CDC HEADS UP online training. Future research could also focus on the long-term retention of this type of training. Practical Applications: This study provides insight into how to better focus concussion-related educational programs to fit SOs' and ATs' needs."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

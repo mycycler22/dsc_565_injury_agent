@@ -1,0 +1,35 @@
+{
+  "pmid": "34785298",
+  "title": "Decreased Trunk Rotation at Foot Contact in Professional Baseball Pitchers With Prior Conservatively Managed SLAP Tears: A Propensity Score-Matched Analysis.",
+  "year": "2022",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To compare kinematic and kinetic parameters between a cohort of fully recovered professional pitchers with prior shoulder injury treated conservatively and a cohort with no prior shoulder injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-six fully recovered professional baseball pitchers with a history of shoulder injury treated conservatively pitched 8 to 10 fastball pitches using 3-dimensional motion capture (480 Hz). All shoulder injuries occurred within a 1- to 4-year time span from biomechanical evaluation and were severe enough to prevent pitchers from playing for between 1 and 12 months. These pitchers were propensity score matched by age, height, weight, handedness, and ball velocity to pitchers with no prior injury history (control) at a ratio of 1:4. We compared 21 kinematic and 11 kinetic parameters between groups using appropriate parametric testing. Subanalysis comparisons of pitchers with prior SLAP injury as well as rotator cuff tendinitis were also performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "SLAP tears (n = 11, 42.3%) were the most frequently reported injury, followed by rotator cuff tendinitis and/or shoulder impingement (n = 7, 26.9%). Compared with the control group, the 26 pitchers with prior injury showed no significant differences across the kinematic and kinetic factors. However, the SLAP tear subgroup did show significantly less trunk rotation at foot contact compared with controls (34.1° ± 4.9° vs 39.2° ± 10.2°, P = .0075)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Fully recovered professional baseball pitchers with shoulder injuries treated conservatively showed no significant differences in kinetics or kinematics compared with their propensity score-matched counterparts, suggesting that shoulder injury alone may not greatly alter pitching mechanics. However, whereas prior groups have shown a decrease in trunk rotation at foot contact after surgical repair for SLAP tears, our study suggests that this kinematic change may alternatively originate with the injury itself."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Understanding the cause of biomechanical adaptations by pitchers after injury can better aid clinicians and coaching staff in providing individualized and specific care to the throwing athlete."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "36255290",
+  "title": "Effect of Lateral Extra-articular Tenodesis on the Rate of Revision Anterior Cruciate Ligament Reconstruction in Elite Athletes.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is growing evidence that anterolateral procedures can reduce the risk of rerupture in high-risk recreational athletes undergoing primary anterior cruciate ligament (ACL) reconstruction (ACLR). However, this effectiveness has never been evaluated in elite athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study was to evaluate the effectiveness of lateral extra-articular tenodesis (LET) in reducing revision rates in primary ACLR in elite athletes. Additionally, this study evaluated whether LET had a greater effect when combined with ACLR utilizing a hamstring or patellar tendon graft."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A consecutive cohort of elite athletes with an isolated ACL tear undergoing autograft patellar or hamstring tendon reconstruction with or without Lemaire LET were analyzed between 2005 and 2018. A minimum 2-year follow-up was required. The association between the use of LET and ACL graft failure as defined by revision ACLR was evaluated with univariate and multivariate logistic regression models."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 455 elite athletes (83% men and overall age 22.5 ± 4.7 years) underwent primary ACLR with (n = 117) or without (n = 338) a LET procedure. Overall, 36 athletes (7.9%) experienced ACL graft failure, including 32 (9.5%) reconstructions without a LET and 4 (3.4%) with a LET. Utilization of LET during primary ACLR reduced the risk of graft failure by 2.8 times, with 16.5 athletes needing LET to prevent a single ACL graft failure. Multivariate models showed that LET significantly reduced the risk of graft rupture (relative risk = 0.325; <i>P</i> = .029) as compared with ACLR alone after controlling for sex and age at ACLR. Including graft type in the model did not significantly change the risk profile, and although a patellar tendon graft had a slightly lower risk of failure, this was not statistically significant (<i>P</i> = .466)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The addition of LET reduced the risk of undergoing revision by 2.8 times in elite athletes undergoing primary ACLR. This risk reduction did not differ significantly between the patellar tendon and hamstring tendon autografts. With these results, status as an elite athlete should be included in the indications for a LET, as they are at increased risk for ACL graft failure."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

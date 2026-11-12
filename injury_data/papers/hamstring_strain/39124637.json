@@ -1,0 +1,19 @@
+{
+  "pmid": "39124637",
+  "title": "Hamstring Muscle Stiffness in Athletes with and without Anterior Cruciate Ligament Reconstruction History: A Retrospective Study.",
+  "year": "2024",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Introduction:</b> Sports requiring sprinting, jumping, and kicking tasks frequently lead to hamstring strain injuries (HSI). One of the structural risk factors of HSI is the increased passive stiffness of the hamstrings. Anterior cruciate ligament (ACL) injury history is associated with a 70% increase in the incidence of HSI, according to a recent meta-analysis. The same report recommended that future research should concentrate on the relationships between the HSI risk factors. Hence, the present study aimed to retrospectively compare changes in the passive stiffness of the hamstrings in athletes with and without ACL reconstruction history. <b>Methods:</b> Using ultrasound-based shear-wave elastography, the mid-belly passive muscle stiffness values of the biceps femoris long head, semimembranosus, and semitendinosus muscles were assessed and compared amongst athletes with and without a history of ACL reconstruction. <b>Results:</b> There were no significant differences in the biceps femoris long head (injured leg (IL): 26.19 ± 5.28 KPa, uninjured contralateral (UL): 26.16 ± 7.41 KPa, control legs (CL): 27.64 ± 5.58 KPa; IL vs. UL: <i>p</i> = 1; IL vs. CL: <i>p</i> = 1; UL vs. CL: <i>p</i> = 1), semimembranosus (IL: 24.35 ± 5.58 KPa, UL: 24.65 ± 8.35 KPa, CL: 22.83 ± 5.67 KPa; IL vs. UL: <i>p</i> = 1; IL vs. CL: <i>p</i> = 1; UL vs. CL, <i>p</i> = 1), or semitendinosus (IL: 22.45 ± 7 KPa, UL: 25.52 ± 7 KPa, CL: 22.54 ± 4.4 KPa; IL vs. UL: <i>p</i> = 0.487; IL vs. CL: <i>p</i> = 1; UL vs. CL, <i>p</i> = 0.291) muscle stiffness values between groups. <b>Conclusions:</b> The passive mid-muscle belly stiffness values of the biceps femoris long head, semitendinosus, and semimembranosus muscles did not significantly differ between previously injured and uninjured athletes; therefore, further assessment for other muscle regions of hamstrings may be necessary. To collect more comprehensive data related to the structural changes that may occur following ACL reconstructions in athletes, a future study should examine the passive stiffness of wider muscle regions from origin to insertion."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

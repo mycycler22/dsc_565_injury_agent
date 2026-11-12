@@ -1,0 +1,20 @@
+{
+  "pmid": "40021264",
+  "title": "Concussions in Baseball Players.",
+  "year": "2025",
+  "journal": "Clinics in sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sports-related concussion represents a unique type of brain injury because the goal of medical care is to return the athlete safely and expeditiously to the same activity that led to the concussion. The Sport Concussion Assessment Tool has standardized assessment of concussed athletes and their return to play. Advances in brain imaging, assessment of molecular biomarkers in blood and other body fluids, and accurate wearable sensors of force and acceleration are being applied to the study of concussion in athletes. In conjunction with long-term outcome data, such technologies will continue to make athletic competition as safe as possible."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

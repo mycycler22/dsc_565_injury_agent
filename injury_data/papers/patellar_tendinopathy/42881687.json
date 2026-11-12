@@ -1,0 +1,20 @@
+{
+  "pmid": "42881687",
+  "title": "Clinical Management of Patellar Tendinopathy in Athletes: A Narrative Review of Diagnosis, Treatment, and Return to Sport.",
+  "year": "2026",
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Patellar tendinopathy affects approximately 18% of athletes and up to 45% of volleyball players, representing a common cause of load-related anterior knee pain and functional limitation in jumping and landing sports. Clinical diagnosis relies primarily on history and physical examination. However, no consensus has yet been established on standardized diagnostic criteria, particularly for imaging-based assessment, and no definitive clinical practice guideline currently exists; imaging abnormalities frequently coexist with symptoms but are also common in asymptomatic athletes, and incidental findings may carry a risk of overdiagnosis and unnecessary imaging-guided management. This narrative review synthesizes the current evidence on the clinical management of patellar tendinopathy in athletes, spanning diagnosis, treatment, long-term prognosis, and return to sport; the literature was identified through structured searches of PubMed, Web of Science, and Google Scholar, with the final search conducted on 1 July 2026. Exercise therapy represents the most extensively studied conservative approach and may be considered a reasonable first-line option, although no single loading mode has demonstrated clear superiority and the underlying evidence is of low to very low certainty; injection strategies differ in mechanisms and evidence strength, but most data come from short-term studies. These studies commonly combine injections with exercise, making the injection's isolated effect unclear. Additionally, shockwave therapy is not supported by current evidence as a first-line or stand-alone option. Because structural imaging changes and clinical symptoms frequently diverge, functional outcomes rather than imaging endpoints should guide load progression and return-to-sport decisions. This review provides clinicians with a practical synthesis of the currently available evidence for treatment selection and patient management, and identifies remaining uncertainties, particularly in adolescent populations and long-term outcome prediction."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

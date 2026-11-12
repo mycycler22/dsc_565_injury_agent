@@ -1,0 +1,20 @@
+{
+  "pmid": "25919592",
+  "title": "Applying personal genetic data to injury risk assessment in athletes.",
+  "year": "2014",
+  "journal": "PloS one",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Recent studies have identified genetic markers associated with risk for certain sports-related injuries and performance-related conditions, with the hope that these markers could be used by individual athletes to personalize their training and diet regimens. We found that we could greatly expand the knowledge base of sports genetic information by using published data originally found in health and disease studies. For example, the results from large genome-wide association studies for low bone mineral density in elderly women can be re-purposed for low bone mineral density in young endurance athletes. In total, we found 124 single-nucleotide polymorphisms associated with: anterior cruciate ligament tear, Achilles tendon injury, low bone mineral density and stress fracture, osteoarthritis, vitamin/mineral deficiencies, and sickle cell trait. Of these single nucleotide polymorphisms, 91% have not previously been used in sports genetics. We conducted a pilot program on fourteen triathletes using this expanded knowledge base of genetic variants associated with sports injury. These athletes were genotyped and educated about how their individual genetic make-up affected their personal risk profile during an hour-long personal consultation. Overall, participants were favorable of the program, found it informative, and most acted upon their genetic results. This pilot program shows that recent genetic research provides valuable information to help reduce sports injuries and to optimize nutrition. There are many genetic studies for health and disease that can be mined to provide useful information to athletes about their individual risk for relevant injuries."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

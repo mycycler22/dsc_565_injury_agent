@@ -1,0 +1,33 @@
+{
+  "pmid": "35398165",
+  "title": "Short- and long-term outcomes in Bankart repair vs. conservative treatment for first-time anterior shoulder dislocation: a systematic review and meta-analysis of randomized controlled trials.",
+  "year": "2022",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "First-time anterior shoulder dislocations are associated with a high rate of residual instability. Therefore, many surgeons support initial Bankart repair surgery over conservative management to address this issue. However, the optimal treatment remains controversial because of uncertainty regarding long-term surgical outcomes. The primary objective of this systematic review and meta-analysis was to compare the short- and long-term rates of residual instability following Bankart repair or conservative management after a first-time anterior shoulder dislocation."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed/MEDLINE, Embase, The Cochrane Library, Web of Science, CINAHL, and ScienceDirect databases were accessed for randomized controlled trials (RCTs) comparing Bankart repair to conservative management. RoB (Risk of Bias) 2 was used to check study quality. The Grading of Recommendations, Assessment, Development and Evaluation (GRADE) guidelines were followed in assessing primary outcomes. The inverse-variance method for continuous variables and the Mantel-Haenszel method for dichotomous variables was used."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 348 patients from 6 RCTs published across 8 articles, with a mean age of 23.7 years, were included. Bias was graded low in 3 studies, some concerns in 3 studies, and high in 2 studies. In the short term (2-3 years), surgery lowered recurrent instability (risk ratio [RR] 0.15, 95% confidence interval [CI] 0.08, 0.27; I<sup>2</sup> = 0%; P < .0001). Similar findings were seen in the long term (5-12 years) (RR 0.23, 95% CI 0.14, 0.39; I<sup>2</sup> = 0%; P < .0001). No difference was observed in return to sport (RR 1.18, 95% CI 0.91, 1.52; I<sup>2</sup> = 78%; P = .21). Initial surgery lowered subsequent stabilization surgery in the short (RR 0.19, 95% CI 0.09, 0.43; I<sup>2</sup> = 0%; P < .0001) and long term (RR 0.17, 95% CI 0.07, 0.39; I<sup>2</sup> = 25%; P < .0001). Western Ontario Shoulder Instability Index (WOSI) scores did not differ in the short term (MD, 2.54, 95% CI -0.51, 5.59; I<sup>2</sup> = 48%; P = .1) but were higher in the surgical group at long-term follow-up. Patient satisfaction was also higher with surgery (RR 1.75, 95% CI 1.4, 2.2; I<sup>2</sup> = 88%; P < .0001). Certainty of evidence was low for only 1 long-term outcome measure."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Bankart repair surgery for first-time anterior shoulder dislocation results in a large reduction in the risk of recurrent shoulder instability and subsequent stabilization surgery in both short- (2-3 years) and long-term (5-12 years) follow-up intervals. Additionally, slight improvements in overall patient satisfaction and WOSI score can be seen at long-term follow-up. However, surgical intervention failed to significantly improve the rate of return to sport when compared with conservative management."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

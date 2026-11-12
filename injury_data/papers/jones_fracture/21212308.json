@@ -1,0 +1,44 @@
+{
+  "pmid": "21212308",
+  "title": "Percutaneous internal fixation of proximal fifth metatarsal jones fractures (Zones II and III) with Charlotte Carolina screw and bone marrow aspirate concentrate: an outcome study in athletes.",
+  "year": "2011",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Internal fixation is a popular first-line treatment method for proximal fifth metatarsal Jones fractures in athletes; however, nonunions and screw breakage can occur, in part because of nonspecific fixation hardware and poor blood supply."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To report the results from 26 patients who underwent percutaneous internal fixation with a specialized screw system of a proximal fifth metatarsal Jones fracture (zones II and III) and bone marrow aspirate concentrate."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Percutaneous internal fixation for a proximal fifth metatarsal Jones fracture (zones II and III) was performed on 26 athletic patients (mean age, 27.47 years; range, 18-47). All patients were competing at some level of sport and were assessed preoperatively and postoperatively using the Foot and Ankle Outcome Score and SF-12 outcome scores. The mean follow-up time was 20.62 months (range, 12-28). Of the 26 fractures, 17 were traditional zone II Jones fractures, and the remaining 9 were zone III proximal diaphyseal fractures."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean Foot and Ankle Outcome Score significantly increased, from 51.15 points preoperatively (range, 14-69) to 90.91 at final follow-up (range, 71-100; P < .01). The mean physical component of the SF-12 score significantly improved, from 25.69 points preoperatively (range, 6-39) to 54.62 at final follow-up (range, 32-62; P < .01). The mean mental component of the SF-12 score also significantly improved, from 28.20 points preoperatively (range, 14-45) to 58.41 at final follow-up (range, 36-67; P < .01). The mean time to fracture healing on standard radiographs was 5 weeks after surgery (range, 4-24). Two patients did not return to their previous levels of sporting activity. One patient experienced a delayed union, and 1 healed but later refractured."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Percutaneous internal fixation of proximal fifth metatarsal Jones fractures, with a Charlotte Carolina screw and bone marrow aspirate concentrate, provides more predictable results while permitting athletes a return to sport at their previous levels of competition, with few complications."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to fracture healing on standard radiographs was 5 weeks after surgery (range, 4-24)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

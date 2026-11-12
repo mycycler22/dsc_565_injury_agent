@@ -1,0 +1,31 @@
+{
+  "pmid": "33069902",
+  "title": "Return-to-play outcomes in high school baseball players after ulnar collateral ligament injuries: dynamic contributions of flexor digitorum superficialis function.",
+  "year": "2021",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) injuries are common in baseball pitchers. The purpose of this study was to evaluate changes to medial elbow joint laxity under valgus stress, as well as under valgus stress with flexor digitorum superficialis (FDS) contraction, and its ability to predict rehabilitation outcomes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Sixty-one UCL injuries were diagnosed. All patients were high school students who initially received rehabilitation treatment. Rates of return to play and return to the same level of play or higher (RTSP) were calculated and correlated with joint gapping under the following conditions: elbow gravity valgus stress and intra-articular ring-down artifact (RDA) at rest, elbow gravity valgus stress, and elbow gravity valgus stress with maximum FDS contraction."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall RTSP rate in patients receiving nonoperative treatment was 83.6% (51 of 61 patients). The RDA at rest significantly differed between the RTSP and non-RTSP groups, with an odds ratio of 17.5. This result indicated that the RDA could be a predictor of rehabilitation outcomes. Moreover, there were significant differences in the RDA under gravity valgus stress conditions with FDS contraction between the 2 groups, with an odds ratio of 98.0. Multivariate logistic regression analysis identified 1 variable (RDA under valgus stress with FDS contraction) as the most significant predictive factor for successful treatment of UCL elbow injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "UCL injuries in high school baseball players can be successfully treated nonoperatively in most cases. Stress ultrasound with FDS muscle contraction can help predict the potential for RTSP."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "30343400",
+  "title": "Treatment of Muscle Injuries with Platelet-Rich Plasma: a Review of the Literature.",
+  "year": "2018",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "This review discusses the current literature regarding the use of platelet-rich plasma (PRP) in the treatment of muscle strain injuries. Case series as well as experimental trials for both human and animal models are covered."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Multiple studies have examined outcomes for the use of PRP in the treatment of muscle strain injuries. PRP has been shown to promote muscle recovery via anabolic growth factors released from activated platelets, and in doing so, potentially reduces pain, swelling, and time for return to play. In vitro studies support the regenerative potential of PRP for acute soft tissue injuries. Multiple clinical case series for PRP injections in the setting of muscle strains demonstrate imaging evidence for faster healing, less swelling, which can decrease time for return to play. These studies, however, are retrospective in nature, and few randomized controlled studies exist to demonstrate a clear clinical benefit. Additionally, there is tremendous heterogeneity regarding the injectant preparation, optimum platelet concentration, presence of leukocytes, and volume of PRP which should be administered as well as number of and timing of treatments."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

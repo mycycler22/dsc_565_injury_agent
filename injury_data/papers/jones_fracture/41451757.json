@@ -1,0 +1,51 @@
+{
+  "pmid": "41451757",
+  "title": "Jones fractures in elite athletes-2025 International Foot and Ankle Sports Consensus and systematic review.",
+  "year": "2026",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Consensus Statement"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Jones fractures are complex injuries with highly variable treatment paradigms. This study aims to establish an expert consensus with support from a systematic review to guide management of Jones fractures in elite athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A consensus process was conducted using a modified Delphi technique with two rounds of questionnaires. Consensus was defined as 75%-85% agreement, strong consensus as 86%-99% agreement, and unanimous consensus as 100% agreement. In addition, a systematic review was conducted to evaluate nonoperative versus operative management of Jones fractures in athletes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 37 total consensus statements, 15 achieved unanimous consensus, 21 achieved strong consensus, and 1 reached consensus. The systematic review included 27 studies consisting of 1056 patients. The majority of fractures with a stress aetiology were treated with open reduction internal fixation (86.4%), with a mean return to sport time of 13.3 ± 4.5 weeks and a complication rate of 8.4%. Treatment failure was highest for stress fractures that were treated nonoperatively (8.2%). Traumatic Jones fractures were treated surgically in 62.7% of cases, with the remaining 37.3% managed conservatively. All patients with traumatic fractures successfully returned to sport at an average of 11.6 ± 2.2 weeks regardless of treatment modality. Treatment failure following traumatic fractures was highest for those treated conservatively (16.1%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The average time to return to sport following Jones fracture was shorter among athletes who were treated surgically compared to those who were treated nonoperatively, regardless of injury aetiology or degree of chronicity. This consensus process reached unanimous agreement with respect to the use of MRI for nondisplaced fractures, the use of CT for comminuted or displaced fractures, indications for minimally invasive techniques, and use of adjunctive bone grafting."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level V."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The majority of fractures with a stress aetiology were treated with open reduction internal fixation (86.4%), with a mean return to sport time of 13.3 ± 4.5 weeks and a complication rate of 8.4%."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "All patients with traumatic fractures successfully returned to sport at an average of 11.6 ± 2.2 weeks regardless of treatment modality."
+    }
+  ],
+  "pmcid": "13502410",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Of 37 total consensus statements, 15 achieved unanimous consensus, 21 achieved strong consensus, and 1 reached consensus. The systematic review included 27 studies consisting of 1056 patients. The majority of fractures with a stress aetiology were treated with open reduction internal fixation (86.4%), with a mean return to sport time of 13.3 ± 4.5 weeks and a complication rate of 8.4%. Treatment failure was highest for stress fractures that were treated nonoperatively (8.2%). Traumatic Jones fractures were treated surgically in 62.7% of cases, with the remaining 37.3% managed conservatively. All patients with traumatic fractures successfully returned to sport at an average of 11.6 ± 2.2 weeks regardless of treatment modality. Treatment failure following traumatic fractures was highest for those treated conservatively (16.1%)."
+    }
+  ]
+}

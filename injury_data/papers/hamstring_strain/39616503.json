@@ -1,0 +1,31 @@
+{
+  "pmid": "39616503",
+  "title": "Influence of Hamstring Injuries and Vision on Posterior Chain Muscle Activation during Challenging Single-Limb Balance Control among Athletes with Hamstring Strain Injuries.",
+  "year": "2024",
+  "journal": "Journal of musculoskeletal & neuronal interactions",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "This study investigated the impact of hamstring strain injuries (HSI) and vision on muscle recruitment and postural control in athletes with HSI."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fourteen athletes with HSI and fourteen healthy controls performed a single-leg balance task under eyes-closed and eyes-open conditions while leaning to the maximum forward and backward. The root-mean-square electromyography (EMG), median frequency, and center of pressure (COP) trajectories were calculated for 15 seconds. A two-way repeated measures ANOVA was conducted to assess differences between the groups and eye conditions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Individuals with HSI exhibited lower hamstring activation during postural leans in the lateral hamstring (p = 0.009) during forward lean and both lateral (p = 0.001) and medial hamstring (p < 0.001) during backward lean. There were no significant changes in median frequency between the groups. Consequently, this resulted in a greater sway range and a larger 95% confidence ellipse area. The eye conditions primarily affected EMG frequency and COP parameters during leaning in both directions."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes with HSI exhibit a persistent deficit in hamstring activation, adversely affecting their postural control. These muscle impairments may compromise balance control and may impact sports performance. Therefore, implementing balance training programs should be considered in clinical rehabilitation for HSI."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

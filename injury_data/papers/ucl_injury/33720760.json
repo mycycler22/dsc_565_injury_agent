@@ -1,0 +1,39 @@
+{
+  "pmid": "33720760",
+  "title": "Return-to-Play Outcomes in Professional Baseball Players After Nonoperative Treatment of Incomplete Medial Ulnar Collateral Ligament Injuries: A Long-Term Follow-up Study.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Medial ulnar collateral ligament (UCL) injuries are common among baseball players. There is sparse literature on long-term results after nonoperative treatment of UCL injuries in professional baseball players."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The primary purpose was to assess long-term follow-up on reinjury rates, performance metrics, rate of return to the same level of play or higher (RTP), and ability to advance to the next level of play in professional baseball players after nonoperative treatment of incomplete UCL injuries. The secondary aim was to perform a matched-pair comparison between pitchers treated nonoperatively and a control group without a history of UCL injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-eight professional baseball players (18 pitchers, 10 position players) treated nonoperatively were identified from a previous retrospective review of a single professional baseball organization between 2006 and 2011. UCL reinjury rates and player performance metrics were evaluated at long-term (minimum, 9 years) follow-up. Rates of RTP were calculated. A matched-pair comparison was made between the pitchers treated nonoperatively and pitchers without a history of UCL injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 27 players (17 pitchers, 10 position players) were available for long-term follow-up at a mean follow-up of 12 years (SD, 2 years). The overall rate of RTP was 85% (23/27), with the rate of RTP being 82% (14/17) in pitchers and 90% (9/10) in position players. Of the 23 players who did RTP, 18 (78%) reached a higher level of play and 5 (21.7%) stayed at the same level. Of the 9 position players who did RTP, the median number of seasons played after injury was 4.5 (interquartile range, 3.3). Of the 14 pitchers who did RTP, the mean number of seasons played after injury was 5.8 (SD, 3.8). In the matched-pair analysis, no significant differences were observed in any performance metrics (P > .05). The overall reinjury rate was 11.1% (3/27), with no players requiring UCL reconstruction."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There was a high rate of RTP for professional baseball players treated nonoperatively for incomplete UCL injuries. Compared with a matched cohort with no history of UCL injury, professional baseball pitchers treated nonoperatively had similar performance metrics. Reinjury rates were low, and no player had reinjury requiring UCL reconstruction. Nonoperative treatment of incomplete UCL injuries in professional baseball players, specifically pitchers, is a viable treatment option in the long term."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

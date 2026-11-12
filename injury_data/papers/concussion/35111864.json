@@ -1,0 +1,40 @@
+{
+  "pmid": "35111864",
+  "title": "Lower Extremity Injury After Return to Sports From Concussion: A Systematic Review.",
+  "year": "2022",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Recent studies have suggested increased rates of lower extremity (LE) musculoskeletal injury after a diagnosed concussion, although significant heterogeneity exists."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine the current body of research and determine whether there is an increased risk for LE musculoskeletal injury after a concussion and to identify populations at an increased risk."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of current literature using MEDLINE and PubMed databases was performed. Keywords included <i>concussion</i>, <i>athlete</i>, <i>lower extremity injury</i>, and <i>return to sport</i>. Inclusion criteria required original research articles written in the English language examining the rate of LE injuries after a diagnosed concussion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 13 studies involving 4349 athletes (88.1% male and 11.9% female; mean age, 19.8 years) met inclusion criteria. Athletes were classified as high school (46.1%), collegiate (17.0%), or professional (36.9%). Of the 13 studies, 4 demonstrated an increased risk of LE injury within 90 days of a diagnosed concussion (odds ratio [OR], 3.44; 95% CI, 2.99-4.42), and 6 revealed an elevated risk of injury within 1 year of concussion (OR, 1.85; 95% CI, 1.73-2.84). Increased risk was seen in professional (OR, 2.49; 95% CI, 2.40-2.72) and collegiate (OR, 2.00; 95% CI, 1.96-2.16) athletes compared with high school athletes (OR, 0.97; 95% CI, 0.89-1.05). A stepwise increase in risk of sustaining an LE injury was observed with multiple concussions, with increasing risk observed from ≥2 (OR, 2.29; 95% CI, 1.85-2.83) to ≥3 (OR, 2.86; 95% CI, 2.36-3.48) career concussions."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "An increased incidence of LE injuries was observed at 90 days and 1 year after the diagnosis of a concussion. Higher levels of competition, such as at the collegiate and professional levels, resulted in an increased risk of sustaining a subsequent LE injury after a diagnosed concussion. These results suggest an at-risk population who may benefit from injury prevention methods after a concussion. Future studies should focus on identifying which injuries are most common, during what time period athletes are most vulnerable, and methods to prevent injury after return to sports."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

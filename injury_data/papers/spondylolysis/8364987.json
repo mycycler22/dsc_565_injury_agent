@@ -1,0 +1,20 @@
+{
+  "pmid": "8364987",
+  "title": "Diagnostic imaging of sports-related spinal disorders.",
+  "year": "1993",
+  "journal": "Clinics in sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Diagnostic imaging is a dynamic field that has taken a quantum leap over the past several years with the advent of MRI. Accordingly, it is integral that the sports medicine clinician be well acquainted with the sundry imaging modalities at his or her disposal, and be able to choose the appropriate study or studies that will provide the most useful and accurate information. Conventional radiography should be the first study performed in every athlete with sports-related injury to the spine. If radiography reveals evidence of spondylolysis with or without spondylolisthesis, MRI would be an extremely helpful adjunct for evaluation of the disc spaces, nerve roots, and neural foramina. Osseous fragments in the vicinity of the pars defect are well seen on CT but not MRI. These fragments can migrate and become symptomatic. Therefore, in the work-up of this subset of patients, CT does offer important supplementary data to the MRI. When conventional radiographs of the cervical spine corrected for magnification render the diagnosis of congenital cervical spinal stenosis, MRI should invariably be the next procedure of choice for evaluation of the spinal cord and to assess the functional reserve of the spinal canal. MRI is also the modality of choice now for evaluation of the athlete with degenerative disc disease and for the identification of degenerative disc disease associated with lumbar Scheuermann's disease. In the athlete with an acute cervical spine injury, following conventional radiography, the patient should be evaluated with CT to better characterize and define the extent of the fracture and to search for additional fractures. MRI should be performed in these patients after CT as it provides extremely valuable information regarding the status of the spinal cord. MRI because of its unparalleled soft-tissue contrast, noninvasive nature, ability to image in three orthogonal planes, and myelographic effect with certain pulses sequences has become the ideal imaging modality for spinal disease, and sports-related spinal disorders are certainly no exception."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

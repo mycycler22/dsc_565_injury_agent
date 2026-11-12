@@ -1,0 +1,38 @@
+{
+  "pmid": "39087156",
+  "title": "Return to Activity Following Isolated Ulnar Nerve Surgery: A Systematic Review.",
+  "year": "2024",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Ulnar neuropathy is one of the more commonly diagnosed mononeuropathies; despite this, a definitive surgical treatment strategy has not been widely agreed upon. In this study, we systematically review the literature and assess return to play or activity outcomes in patients with neuritis or neuropathy undergoing in situ decompression, subcutaneous transposition, or submuscular transposition of the ulnar nerve. We hypothesized that ulnar nerve transposition or decompression in the absence of concomitant ulnar collateral ligament (UCL) pathology would have a high rate of return to activity. Relevant studies were generated from 1975 to 2023 using PubMed, Academic Search Complete, CINAHL (Cumulative Index to Nursing and Allied Health Literature), MEDLINE, and SPORTDiscus. Articles reporting on return to play or activity outcomes following isolated ulnar nerve transposition or decompression for ulnar neuritis were included. Studies evaluating patients with concomitant UCL injury or revision surgery were excluded. A total of 12 studies met the inclusion criteria, ranging from 1977 to 2021. There were a total of 358 patients with a reported return to play or activity status across all studies with an average age of 27.2 years (range, 11-75). Successful return to play, activity, or work was reported in 303 patients (84.6%). Patients undergoing transposition, subcutaneous (n = 232) and submuscular (n = 20), had return rates of 87.9% and 95%, respectively. Patients undergoing in situ decompression (n = 106) had return rates of 75.5%. This systematic review found an 84.6% return to activity rate following ulnar nerve transposition or decompression in the absence of concomitant UCL pathology. Overall, transposition or decompression of the ulnar nerve provides a favorable return to activity rates and with appropriate indications and surgical technique will likely yield a successful return."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "There were a total of 358 patients with a reported return to play or activity status across all studies with an average age of 27.2 years (range, 11-75)."
+    }
+  ],
+  "pmcid": "11290573",
+  "fulltext_chunks": [
+    {
+      "section": "TABLE: Subcutaneous transposition return to activity rate.RTA: return to activity; SAT: subcutaneous anterior transposition.",
+      "text": "Study | Sample size (N) | RTA (No.) | Percent | Same or higher level of return (No.) | Percent return to same level or higher\nEaton et al. (1980) [12] | 14 | 13 | 92.9 | - | -\nAoki et al. (2005) [6] | 6 | 5 | 83.3 | 5 | 83.3\nDunn (SAT) et al. (2019) [14] | 67 | 56 | 84 | - | -\nBlack et al. (2000) [8] | 47 | 46 | 97.9 | - | -\nRichmond et al. (1982) [11] | 16 | 14 | 87.5 | - | -\nHadley et al. (2021) [3] | 15 | 13 | 86.7 | 10 | 66.7\nSmith et al. (2017) [5] | 6 | 5 | 83.3 | 5 | 83.3\nNicholson et al. (2020) [4] | 26 | 24 | 92 | 16 | 62\nDel Pizzo et al. (1977) [13] | 15 | 9 | 60 | - | -\nRettig et al. (1993) [9] | 20 | 19 | 95 | - | -\nTotal | 232 | 204 | 87.9 | 36 | 67.9"
+    },
+    {
+      "section": "TABLE: Simple decompression return to activity rate.RTA: return to activity; SD: simple decompression.",
+      "text": "Study | Sample size (N) | Number to RTA | Percent to RTA (%)\nNathan et al. (1992) [10] | 41 | 30 | 73\nDunn (SD) et al. (2019) [14] | 65 | 50 | 77\nTotal | 106 | 80 | 75.5"
+    },
+    {
+      "section": "TABLE: Submuscular transposition return to activity rate.RTA: return to activity.",
+      "text": "Study | Sample size (N) | Number to RTA | Percent to RTA (%)\nFitzgerald et al. (2004) [7] | 20 | 19 | 95.0\nTotal | 20 | 19 | 95.0"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "pmid": "42006233",
+  "title": "Good mid-term outcomes and over 80% survivorship rate after all-inside repair of bucket-handle and full-thickness radial tears.",
+  "year": "2026",
+  "journal": "Journal of experimental orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate failure rates, survivorship, patient-reported outcome measurements (PROMs), and prognostic factors following all-inside arthroscopic repair of bucket-handle tears (BHT) and full-thickness radial meniscal tears (RT)."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective cohort study included consecutive patients undergoing all-inside repair of BHT or RT by a single surgeon (2019-2025) with a minimum 2-year follow-up. Inclusion required primary repair using all-inside devices. Demographic data, tear morphology, chronicity, and concomitant procedures were recorded. Failure was defined as surgical re-intervention or magnetic resonance imaging-confirmed re-tear. PROMs included subjective International Knee Documentation Committee (IKDC), Tegner Activity Scale, Patient Acceptable Symptom State (PASS), and Visual Analog Scale (VAS) scores. Return to sport (RTS) rates and the achievement of IKDC-PASS threshold were assessed. Kaplan-Meier survival analyses for each lesion type were performed at 1, 2, 3, and 4 years; subgroup comparisons (location, ACL reconstruction, aetiology) were performed using the log-rank test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifty-five repairs (34 BHTs, 21 RTs; 72.7% males; mean age 27.0 ± 11.7 years) were analysed. BHTs were medial in 24 cases and lateral in 10; all RTs were lateral. Overall, 52.7% were chronic, 54.6% treated with concomitant ACL reconstruction, and 83.7% were traumatic. Five repairs failed (mean 22.3 ± 11.9 months), yielding cumulative failure rates of 0.0% at 1 year, 6.0% at 2 years, 8.7% at 3 years and 17.8% at 4 years. Failures were more frequent in medial BHTs (35.5%), degenerative tears (<i>p</i> = 0.0194) and isolated repairs (<i>p</i> = 0.0321). Overall satisfaction was 97.9%, with 87.2% patients returning to sport and 48.9% reaching their preinjury level."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Meniscal repair of BHTs and RTs achieved 98% patient satisfaction and high return-to-sport rates with a 17% mid-term failure. Medial BHTs and degenerative lesions demonstrated a higher risk of failure, whereas repairs performed concomitantly with ACL reconstruction showed lower failure rates. These findings support early repair and highlight the importance of tear pattern, aetiology, lesion chronicity and concomitant procedures in predicting outcomes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, therapeutic case series."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Fifty-five repairs (34 BHTs, 21 RTs; 72.7% males; mean age 27.0 ± 11.7 years) were analysed."
+    }
+  ],
+  "pmcid": "13086614",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Fifty‐five repairs (34 BHTs, 21 RTs; 72.7% males; mean age 27.0 ± 11.7 years) were analysed. BHTs were medial in 24 cases and lateral in 10; all RTs were lateral. Overall, 52.7% were chronic, 54.6% treated with concomitant ACL reconstruction, and 83.7% were traumatic. Five repairs failed (mean 22.3 ± 11.9 months), yielding cumulative failure rates of 0.0% at 1 year, 6.0% at 2 years, 8.7% at 3 years and 17.8% at 4 years. Failures were more frequent in medial BHTs (35.5%), degenerative tears (p = 0.0194) and isolated repairs (p = 0.0321). Overall satisfaction was 97.9%, with 87.2% patients returning to sport and 48.9% reaching their preinjury level."
+    },
+    {
+      "section": "RESULTS",
+      "text": "Between 2019 and 2025, 122 meniscal BHT and RT lesions were identified. After excluding six cases (5%) treated with meniscectomy, 116 lesions underwent meniscal repair and were included in the study. Of these, 63 lesions (54.3%) were BHT and 53 lesions (45.7%) were full‐thickness RTs of the lateral meniscus. After excluding patients with fewer than 2 years of follow‐up and those with additional outside‐in stitches, 55 repaired lesions were available for failure analysis: 34 BHT (61.8%) and 21 RTs (38.2%). Patient selection and exclusion criteria are summarised in Figure 4. BHT involved the medial meniscus in 24 cases (43.6%) and the lateral meniscus in 10 cases (18.2%). RTs were exclusively lateral, involving the body in 11 cases (20.0%) and the posterior horn in 10 cases (18.2%) (Table 1). The cohort was predominantly male (72.7%), with females comprising 27.3%, and had a mean age at surgery of 27.0 ± 11.7 years. Nearly half of the lesions were associated with concomitant ACL reconstruction (54.6%) and were chronic (52.7%), with a mean time from injury to surgery of 5.7 ± 9.4 months. The majority of cases (83.7%) were of traumatic aetiology (Table 1)."
+    },
+    {
+      "section": "TABLE: Patients characteristics according to type of lesion.",
+      "text": "Total patients | Total n° | Age (years) | Sex (male/female) | Concomitant ACL‐R | Traumatic | Chronic | Time to surgery (months)\n55 | 27.0 ± 11.7 | 40 (72.7%)/15 (27.3%) | 30 (54.6%) | 46 (83.7%) | 29 (52.7%) | 5.7 ± 9.4\nType of tear | \nBucket handle medial | 24 | 24.9 ± 10.3 | 13 (54.2%)/7 (45.8%) | 11 (45.8%) | 17 (70.8%) | 11 (45.8%) | 4.5 ± 6.3\nBucket handle lateral | 10 | 27.8 ± 14.3 | 8 (80.0%)/2 (20.0%) | 4 (40.0%) | 8 (80.0%) | 3 (30.0%) | 2.7 ± 2.9\nRadial lateral meniscus body | 11 | 29.1 ± 10.5 | 10 (90.9%)/1 (8.1%) | 5 (45.5%) | 11 (100%) | 8 (72.7%) | 5.3 ± 3.5\nRadial‐oblique lateral meniscus PH | 10 | 28.7 ± 12.8 | 9 (90.0%)/1 (10.0%) | 10 (100%) | 10 (100%) | 7 (70.0%) | 5.8 ± 5.5\nRadial versus bucket handle | \nBucket handle | 34 | 25.7 ± 11.5 | 22 (64.7%)/12 (35.3%) | 15 (44.1%) | 25 (73.5%) | 14 (41.2%) | 3.9 ± 5.5\nRadial | 21 | 28.4 ± 11.3 | 19 (90.5%)/2 (9.5%) | 15 (71.4%) | 21 (100.%) | 15 (71.4%) | 5.5 ± 4.5\nMeniscus laterality | \nMedial | 24 | 24.9 ± 10.3 | 13 (54.2%)/7 (45.8%) | 11 (45.8%) | 17 (70.8%) | 11 (45.8%) | 4.5 ± 6.3\nLateral | 31 | 28.2 ± 12.1 | 27 (87.1%)/4 (12.9%) | 19 (61.3%) | 29 (93.6%) | 18 (58.1%) | 4.6 ± 4.2\nConcomitant ACL‐R | \nYes | 30 | 28.1 ± 12.0 | 21 (70.0%)/9 (30.0%) | ‐ | 31 (100%) | 19 (63.3%) | 5.6 ± 6.2\nNo | 25 | 25.1 ± 10.6 | 19 (76.0%)/6 (24.0%) | ‐ | 16 (64.0%) | 10 (40.0%) | 3.1 ± 2.4\nTraumatic | \nYes | 46 | 26.1 ± 11.1 | 36 (78.2%)/10 (21.8%) | 30 (65.2%) | ‐ | 26 (56.5%) | 4.8 ± 5.3\nNo | 9 | 27.1 ± 11.2 | 4 (44.4%)/5 (55.6%) | 0 (0.0%) | ‐ | 3 (33.3%) | 2.9 ± 2.8\nChronic (>3 months) | \nYes | 29 | 27.0 ± 10.8 | 23 (79.3%)/6 (20.7%) | 19 (65.5%) | 26 (89.7%) | ‐ | 7.7 ± 5.7\nNo | 26 | 26.5 ± 12.3 | 17 (65.4%)/9 (34.6%) | 11 (42.3%) | 20 (76.9%) | ‐ | 1.4 ± 0.6"
+    },
+    {
+      "section": "TABLE: Survivorship of meniscal repair according to variables.",
+      "text": " | Survival time (years)\nPatient n° | 1‐year | 2‐year | 3‐year | 4‐year | Statistics\nTotal failures | 5/55 (9.1%) | 0.0% (SE 0.0%) | 6.0% (SE 1.2%) | 8.7% (SE 4.2%) | 17.8% (SE 9.5%) | \nType of tear |  |  |  |  |  | p = 0.3076\nBucket handle medial | 4/24 (16.7%) | 0.0% (SE 0.0%) | 8.9% (SE 6.0%) | 14.0% (SE 7.5%) | 35.5% (19.5%) | Ref.\nBucket handle lateral | 0/10 (0.0%) | 0.0% (SE 0.0%) | 0.0% (SE 0.0%) | 0.0% (SE 0.0%) | 0.0% (SE 0.0%) | HR = NA\nRadial lateral meniscus body | 1/11 (9.1%) | 0.0% (SE 0.0%) | 12.5% (11.7%) | 12.5% (11.7%) | 12.5% (11.7%) | HR = 0.80 (0.60–11.50)\nRadial‐oblique lateral meniscus PH | 0/10 (0.0%) | 0.0% (SE 0.0%) | 0.0% (SE 0.0%) | 0.0% (SE 0.0%) | 0.0% (SE 0.0%) | HR = NA\nTear type |  |  |  |  |  | p = 0.6171\nBucket handle | 4/34 (11.8%) | 0.0% (SE 0.0%) | 6.4% (SE 4.3%) | 10.0% (SE 5.6%) | 20.0% (SE 10.6%) | HR = 1.7 (0.25–11.58)\nRadial | 1/21 (4.8%) | 0.0% (SE 0.0%) | 6.2% (SE 6.0%) | 6.2% (SE 6.0%) | 6.2% (SE 6.0%) | HR = 0.58 (0.08–3.96)\nMeniscus laterality |  |  |  |  |  | p = 0.1084\nMedial | 4/24 (16.7%) | 0.0% (SE 0.0%) | 8.9% (SE 6.0%) | 14.0% (SE 7.5%) | 35.5% (SE 19.5%) | HR = 0.20 (0.03–1.16)\nLateral | 1/31 (3.2%) | 0.0% (SE 0.0%) | 4.0% (SE 3.9%) | 4.0% (SE 3.9%) | 4.0% (SE 3.9%) | HR = 5.00 (0.86–29.20)\nConcomitant ACL‐R |  |  |  |  |  | p = 0.0321*\nYes | 0/30 (0.0%) | 0.0% (SE 0.0%) | 0.0% (SE 0.0%) | 0.0% (SE 0.0%) | 0.0% (SE 0.0%) | HR = NA\nNo | 5/25 (20.0%) | 0.0% (SE 0.0%) | 12.3% (SE 3.4%) | 17.2% (SE 4.2%) | 29.0% (SE 1.3%) | HR = NA\nTraumatic |  |  |  |  |  | p = 0.0194*\nYes | 2/46 (4.3%) | 0.0% (SE 0.0%) | 4.8% (SE 3.3%) | 4.8% (SE 3.3%) | 4.8% (SE 3.3%) | HR = 0.15 (0.02–1.46)\nNo | 3/9 (33.3%) | 0.0% (SE 0.0%) | 12.5% (SE 11.7%) | 27.3% (SE 16.5%) | 51.4% (SE 22.7%) | HR = 6.31 (0.68–58.43)\nChronic (>3 months) |  |  |  |  |  | p = 0.8378\nYes | 2/29 (6.9%) | 0.0% (SE 0.0%) | 8.1% (SE 5.5%) | 8.1% (SE 5.5%) | 8.1% (SE 5.5%) | HR = 0.83 (0.14–4.85)\nNo | 3/26 (11.5%) | 0.0% (SE 0.0%) | 3.8% (SE 3.7%) | 8.9% (SE 6.1%) | 21.9% (SE 13.1%) | HR = 1.20 (0.20–7.01)"
+    },
+    {
+      "section": "TABLE: Subjective evaluation according to lesion type and patients characteristics.",
+      "text": "Total patients | Completed PROMs | Satisfaction (Yes) | Return to sport (Yes) | Pain (0–10) | Function (0–10) | Tegner | Subjective IKDC | PASS IKDC\n47/55 (85.5%) | 46 (97.9%) | 41 (87.2%) | 2.3 ± 2.1 | 7.5 ± 2.0 | 5 (2–8) | 76.5 ± 15.2 | 35 (74.5%)\nType of tear | \nBucket handle medial | 19/24 (79.2%) | 19 (100%) | 16 (84.2%) | 1.9 ± 1.9 | 7.7 ± 2.0 | 3 (2–6) | 78.2 ± 12.8 | 15 (78.9%)\nBucket handle lateral | 9/10 (90.0%) | 9 (100%) | 8 (88.9%) | 1.6 ± 1.8 | 7.7 ± 2.1 | 5 (2–6) | 78.7 ± 17.6 | 7 (77.8%)\nRadial lateral meniscus body | 10/11 (90.9%) | 9 (90.0%) | 9 (90.0%) | 3.2 ± 2.3 | 6.6 ± 2.5 | 7 (5–9) | 70.1 ± 18.1 | 5 (50.0%)\nRadial‐oblique lateral meniscus PH | 10/10 (100%) | 10 (100%) | 9 (90.0%) | 2.8 ± 2.3 | 7.7 ± 1.4 | 5 (3–8) | 77.9 ± 14.5 | 8 (80.0%)\nRadial versus bucket handle | \nBucket handle | 28/34 (82.4%) | 28 (100%) | 24 (85.7%) | 1.8 ± 1.8 | 7.7 ± 2.0 | 3 (2– 6) | 78.4 ± 14.2 | 22 (78.6%)\nRadial | 20/21 (95.2%) | 19 (95.0%) | 17 (89.5%) | 3.0 ± 2.2 | 7.2 ± 2.0 | 6 (4–9) | 74.0 ± 16.5 | 13 (65.0%)\nMeniscus laterality | \nMedial | 19/24 (79.2%) | 19 (100%) | 16 (84.2%) | 1.9 ± 1.9 | 7.7 ± 2.0 | 3 (2–6) | 78.2 ± 12.8 | 15 (78.9%)\nLateral | 29/31 (93.6%) | 28 (96.6%) | 26 (89.7%) | 2.6 ± 2.2 | 7.3 ± 2.1 | 6 (2–8) | 75.5 ± 17.6 | 20 (69.0%)\nConcomitant ACL‐R | \nYes | 28/30 (93.3%) | 28 (100%) | 24 (85.7%) | 2.7 ± 2.2 | 7.5 ± 1.8 | 5 (2–8) | 75.2 ± 17.2 | 19 (67.9%)\nNo | 20/25 (80.0%) | 19 (95.0%) | 19 (95.0%) | 2.5 ± 2.1 | 7.4 ± 2.1 | 6 (2–6) | 75.4 ± 15.6 | 16 (80.0%)\nTraumatic | \nYes | 40/44 (90.9%) | 39 (97.5%) | 35 (87.5%) | 1.6 ± 2.5 | 7.5 ± 2.1 | 5 (2–8) | 76.5 ± 16.0 | 29 (72.5%)\nNo | 7/9 (77.8%) | 7 (100%) | 6 (85.7%) | 2.5 ± 2.2 | 7.4 ± 1.3 | 2 (2–5) | 76.5 ± 9.9 | 6 (85.7%)\nChronic (>3 months) | \nYes | 24 (82.8%) | 23 (95.8%) | 21 (87.5%) | 3.0 ± 1.8 | 7.0 ± 1.8 | 5 (2–8) | 72.6 ± 14.5 | 13 (54.1%)\nNo | 24 (96.0%) | 24 (100%) | 22 (87.5%) | 1.6 ± 2.1 | 8.0 ± 2.1 | 6 (2–7) | 80.7 ± 15.1 | 22 (91.7%)"
+    }
+  ]
+}

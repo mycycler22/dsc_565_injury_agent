@@ -1,0 +1,31 @@
+{
+  "pmid": "32998823",
+  "title": "Optimizing surgery of metaphyseal-diaphyseal fractures of the fifth metatarsal: a cadaveric study on implications of intramedullary screw position, screw parameters and surrounding anatomic structures.",
+  "year": "2020",
+  "journal": "Injury",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIMS",
+      "text": "Many advocate screw fixation of fractures to the metaphyseal-diaphyseal junction of the fifth metatarsal base, better known as Jones fractures (JF), to facilitate quicker ambulation and return to sport. Maximizing screw parameters based on fifth metatarsal (MT5) anatomy, alongside understanding the anatomic structures compromised by screw insertion, may optimize surgical outcomes. This study aims to (1) correlate the proximity of JF to the peroneus brevis (PB) and plantar fascia (PF) footprints and (2) quantify optimal screw parameters given MT5 anatomy."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "3D CT-scan reconstructions were made of 21 cadaveric MT5s, followed by meticulous mapping of the PB and PF onto the reconstructions. Based on bone length, shape, narrowest intramedullary canal (IMC) diameter, and surrounding anatomy, two traditional debated screw positions were modeled for each reconstruction: (1) an anatomically positioned screw (AP), predicated on maximizing screw length by following the IMC for as long as possible, and (2) a clinically achievable screw (CA), predicated on maximizing screw length without violating the fifth tarso-metatarsal joint or adjacent cuboid bone. Fixation parameters were calculated for all models."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The PB and PF extended into the JF site in 29% and 43%, respectively. AP's did not affect PB and PF footprint but required screw entry through the cuboid and fifth tarso-metatarsal joint in all specimens. CA screw entry sites, avoiding the cuboid and fifth tarso-metatarsal joint, partially compromised the PB and PF insertions in 33% and 62% with a median surface loss of 1.6%%(range 0.2-3.2%) and 0.81%%(range 0.05-1.6%), respectively. Mean AP screw length was 64±3.6mm and thread length 49±4.2mm. Mean CA screw length was 48±5.8mm and thread length 28±6.9mm."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study underscores the challenges associated with surrounding MT5 anatomy as they relate to optimal JF treatment. Both the extent of JF as well as a clinically achievable positioned screw violate the PB and PF footprints - although the degree to which even partial disruption of these footprints has on outcome remains unclear. To minimize damage to surrounding structures, including the PB and PF footprint, while allowing a screw length approximately two thirds of the metatarsal length, the CA screw position is recommended. This position balances the desire to maximize pull out strength while avoiding cortical penetration or inadvertent fracture site distraction."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

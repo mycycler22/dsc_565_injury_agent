@@ -1,0 +1,31 @@
+{
+  "pmid": "30115059",
+  "title": "The epidemiology of MRI detected shoulder injuries in athletes participating in the Rio de Janeiro 2016 Summer Olympics.",
+  "year": "2018",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "To use Magnetic Resonance Imaging (MRI) to characterize the severity, location, prevalence, and demographics of shoulder injuries in athletes at the Rio de Janeiro 2016 Summer Olympic Games."
+    },
+    {
+      "label": "METHODS",
+      "text": "This was a retrospective analysis of all routine shoulder MRIs obtained from the Olympic Village Polyclinic during the Rio 2016 Summer Olympics. Imaging was performed on 1.5 T and 3 T MRI, and interpretation was centrally performed by a board-certified musculoskeletal radiologist. Images were assessed for tendon, muscle, bone, bursal, joint capsule, labral, and chondral abnormality."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 11,274 athletes participated in the Games, of which 55 (5%) were referred for a routine shoulder MRI. Fifty-three (96%) had at least two abnormal findings. Seven (13%) had evidence of an acute or chronic anterior shoulder dislocation. Forty-nine (89%) had a rotator cuff partial tear and / or tendinosis. Subacromial / subdeltoid bursitis was present in 29 (40%). Thirty (55%) had a tear of the superior labrum anterior posterior (SLAP)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our study demonstrated a high prevalence of both acute and chronic shoulder injuries in the Olympic athletes receiving shoulder MRI. The high rates of bursal, rotator cuff, and labral pathology found in these patients implies that some degree of glenohumeral instability and impingement is occurring, likely due to fatigue and overuse of the dynamic stabilizers. Future studies are needed to better evaluate sport-specific trends of injury."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

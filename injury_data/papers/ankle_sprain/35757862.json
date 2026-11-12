@@ -1,0 +1,32 @@
+{
+  "pmid": "35757862",
+  "title": "Risk factors for acute ankle sprains in field-based, team contact sports: a systematic review of prospective etiological studies.",
+  "year": "2023",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this systematic review was to identify prospectively measured ankle sprain risk factors in field-based team contact sports."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eight databases including SPORTDiscus, CINAHL Complete, MEDLINE (EBSCO), Education Source, Web of Science, Scopus, Embase, and Pubmed were searched using specific Boolean terms. A modified-CASP diagnostic test assessed the quality of the included studies. Extensive data extraction included but was not limited to injury definition, protocols for injury diagnosis and recording, and outcomes associated with ankle sprain."
+    },
+    {
+      "label": "RESULTS",
+      "text": "4012 records were returned from the online search and 17 studies met the inclusion criteria for this review. Twelve different risk factors including anatomic alignment of the foot and ankle, joint laxity, height, mass, BMI (body mass index), age, ankle strength, hip strength, single leg landing performance (ground reaction force, pelvic internal rotation, and knee varus), and single leg reach were all found to be associated with ankle sprain incidence. Injury definitions and methods of diagnosis and recording varied across the 17 studies."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This review updates the literature on prospective risk factors for ankle sprain in a specific population rather than heterogeneous cohorts previously studied. From more than 20 categories of risk factors investigated for ankle sprain association across 17 studies in field-based team contact sports, 12 variables were found to be associated with increased incidence of ankle sprain. In order to reduce the risk of ankle sprain, BMI, ankle plantar and dorsiflexion strength, hip strength, and single leg landing performance should be factored in to athlete assessment and subsequent program design. More studies utilizing standardized definitions and methods of recording and reporting are needed. Future prospective etiological studies will allow strength and conditioning coaches, physiotherapists, and physicians to apply specific training principles to reduce the risk and occurrence of ankle sprain injuries."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,21 @@
+{
+  "pmid": "39032225",
+  "title": "Relationships between quantitative magnetic resonance imaging measures at the time of return to sport and clinical outcomes following acute hamstring strain injury.",
+  "year": "2024",
+  "journal": "Journal of biomechanics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strain injuries (HSI) are a common occurrence in athletics and complicated by high rates of reinjury. Evidence of remaining injury observed on magnetic resonance imaging (MRI) at the time of return to sport (RTS) may be associated with strength deficits and prognostic for reinjury, however, conventional imaging has failed to establish a relationship. Quantitative measure of muscle microstructure using diffusion tensor imaging (DTI) may hold potential for assessing a possible association between injury-related structural changes and clinical outcomes. The purpose of this study was to determine the association of RTS MRI-based quantitative measures, such as edema volume, muscle volume, and DTI metrics, with clinical outcomes (i.e., strength and reinjury) following HSI. Spearman's correlations and Firth logistic regressions were used to determine relationships in between-limb imaging measures and between-limb eccentric strength and reinjury status, respectively. Twenty injuries were observed, with four reinjuries. At the time of RTS, between-limb differences in eccentric hamstring strength were significantly associated with principal effective diffusivity eigenvalue λ<sub>1</sub> (r = -0.64, p = 0.003) and marginally associated with mean diffusivity (r = -0.46, p = 0.056). Significant relationships between other MRI-based measures of morphology and eccentric strength were not detected, as well as between any MRI-based measure and reinjury status. In conclusion, this preliminary evidence indicates DTI may track differences in hamstring muscle microstructure, not captured by conventional imaging at the whole muscle level, that relate to eccentric strength."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

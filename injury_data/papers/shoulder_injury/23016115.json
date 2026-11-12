@@ -1,0 +1,31 @@
+{
+  "pmid": "23016115",
+  "title": "Prevention of elbow injuries in youth baseball pitchers.",
+  "year": "2012",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Although baseball is a relatively safe sport, numerous reports suggest a rapid rise in elbow injury rate among youth baseball pitchers."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "PUBMED WAS SEARCHED FOR EPIDEMIOLOGIC, BIOMECHANICAL, AND CLINICAL STUDIES OF ELBOW INJURIES IN BASEBALL (KEYWORDS: \"youth OR adolescent\" AND baseball AND pitching AND \"ulnar collateral ligament OR elbow\"; published January 2000 - April 2012). Studies with relevance to youth baseball pitchers were reviewed. Relevant references from these articles were also retrieved and reviewed. Original data, insight, and recommendations were added."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The majority of baseball elbow injuries are noncontact injuries to the dominant arm resulting from repetitive pitching. Five percent of youth pitchers suffer a serious elbow or shoulder injury (requiring surgery or retirement from baseball) within 10 years. The risk factor with the strongest correlation to injury is amount of pitching. Specifically, increased pitches per game, innings pitched per season, and months pitched per year are all associated with increased risk of elbow injury. Pitching while fatigued and pitching for concurrent teams are also associated with increased risk. Pitchers who also play catcher have an increased injury risk, perhaps due to the quantity of throws playing catcher adds to the athlete's arm. Another risk factor is poor pitching biomechanics. Improper biomechanics may increase the torque and force produced about the elbow during each pitch. Although throwing breaking pitches at a young age has been suggested as a risk factor, existing clinical, epidemiologic, and biomechanical data do not support this claim."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Some elbow injuries to youth baseball pitchers can be prevented with safety rules, recommendations, education, and common sense. Scientific and medical organizations have published safety rules and recommendations, with emphasis on prevention of overuse and pitching while fatigued. STRENGTH-OF-RECOMMENDATION TAXONOMY (SORT): A."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

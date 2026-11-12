@@ -1,0 +1,31 @@
+{
+  "pmid": "41981700",
+  "title": "Pickleball-related injuries treated at a tertiary academic center over five years: a cross-sectional study.",
+  "year": "2026",
+  "journal": "Injury epidemiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Pickleball has grown rapidly in popularity in recent years, accompanied by an increasing number of reported injuries among players. Our aim is to determine the epidemiology of pickleball-related injuries at a single academic center and evaluate patient-specific factors such as incidence and type of injury, mechanisms of injury, and treatment outcomes."
+    },
+    {
+      "label": "METHODS",
+      "text": "This is a cross-sectional study at a tertiary academic outpatient orthopedic and physical medicine and rehabilitation clinic. We reviewed 164 cases of patients presenting with pickleball-related injuries from 2019 to 2023 involving the shoulder (n = 23), elbow (n = 8), wrist/hand (n = 30), hip/thigh (n = 9), knee (n = 52), foot/ankle (n = 32), and spine (n = 10). Independent variables included age, gender, and hand dominance. Outcome measures included injury type, laterality, treatment modality, and follow-up duration. Demographic and epidemiologic data were analyzed, and comparisons between injury characteristics were performed using appropriate statistical tests (Fisher's exact tests and Kruskal-Wallis tests)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The most common pickleball-related injuries included lateral epicondylitis at the elbow (75%), rotator cuff tears at the shoulder (70%), distal radius fractures after a fall at the hand/wrist (60%), Achilles tendon tears at the foot/ankle (50%), radicular pain and spinal stenosis at the spine (50% each), medial meniscus tears at the knee (48%), and hamstring strain or rupture and iliopsoas tendinitis at the hip/thigh (33% each).Rates of injury were similar between male and female players except in the hand/wrist, which was higher among female players (77%). Non-paddle side injuries in the upper extremity occur disproportionally higher in the hand/wrist (52%) when compared to the shoulder (7%) or elbow (17%) (p < 0.01). There was no significant difference in laterality for lower extremity and spine injuries."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "As pickleball has become the fastest growing sport in America, the incidence of pickleball-related injuries has risen dramatically. Characterizing the wide spectrum of musculoskeletal injuries unique to pickleball may inform athletes on injury prevention considerations and allows for targeting modifiable risk factors."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

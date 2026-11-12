@@ -1,0 +1,30 @@
+{
+  "pmid": "40529186",
+  "title": "Management of Isolated Tibial Plateau Defect in the Setting of Anterior Cruciate Ligament Reconstruction and Meniscus Repair: A Case Report and Review of the Literature.",
+  "year": "2025",
+  "journal": "Case reports in orthopedics",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Purpose:</b> Our work describes the use of matrix-induced autologous chondrocyte implantation (MACI) for a lateral tibial plateau osteochondral defect, in the setting of a concomitant meniscus repair and anterior cruciate ligament (ACL) reconstruction. To our knowledge, there is minimal research describing the application of MACI for cartilage defects of the tibial plateau, which brings about its own challenges. <b>Methods:</b> A 26-year-old male presented with lateral right knee pain and instability following a soccer injury. A bucket-handle lateral meniscus tear, 2 cm by 2 cm osteochondral defect of the lateral tibial plateau, and complete ACL tear were identified on magnetic resonance imaging (MRI). Our case vignette describes a two-stage MACI procedure for an osteochondral defect of the lateral tibial plateau with concurrent all-inside meniscus repair and ACL reconstruction using bone-patellar tendon-bone (BTB) autograft. <b>Results:</b> Follow up period was 20 months with excellent patient satisfaction and resolution of pain. Outcome measures (International Knee Documentation Committee (IKDC)) and Knee Injury and Osteoarthritis Outcome Score (KOOS) returned to preinjury levels at 8.5 months. Return to sport was achieved at 10 months postoperatively. <b>Conclusion:</b> The miniopen MACI procedure provides a logistically reasonable technique mitigating the anatomic challenges of tibial plateau osteochondral defects and potentially providing improved long-term outcomes. It is our hope that this work will contribute to the current understanding of the treatment options for osteochondral defects of the tibial plateau."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Return to sport was achieved at 10 months postoperatively. <b>Conclusion:</b> The miniopen MACI procedure provides a logistically reasonable technique mitigating the anatomic challenges of tibial plateau osteochondral defects and potentially providing improved long-term outcomes."
+    }
+  ],
+  "pmcid": "12173553",
+  "fulltext_chunks": [
+    {
+      "section": "2.15. Outcomes",
+      "text": "Patient was most recently seen 9 months postoperatively; at that time, he noted no knee pain but did note occasional stiffness. Patient's active range of motion was 0–135 without pain. He had no joint line tenderness and negative McMurray's, as well as negative Lachman and anterior drawer testing. International Knee Documentation Committee Subjective knee form (IKDC) was 77%, and Knee Injury and Osteoarthritis Outcome Score (KOOS) was 88.7%. He had been previously progressed to full activity. MRI was obtained 09/27/2022 which demonstrated filling of cartilage defect of lateral tibial plateau and maintained ACL reconstruction (Figures 9, 10, 11, and 12)."
+    }
+  ]
+}

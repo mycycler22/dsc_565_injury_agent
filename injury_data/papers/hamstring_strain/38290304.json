@@ -1,0 +1,21 @@
+{
+  "pmid": "38290304",
+  "title": "Association of quantitative diffusion tensor imaging measures with time to return to sport and reinjury incidence following acute hamstring strain injury.",
+  "year": "2024",
+  "journal": "Journal of biomechanics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strain injuries (HSI) are a common occurrence in athletics and complicated by limited prognostic indicators and high rates of reinjury. Assessment of injury characteristics at the time of injury (TOI) may be used to manage athlete expectations for time to return to sport (RTS) and mitigate reinjury risk. Magnetic resonance imaging (MRI) is routinely used in soft tissue injury management, but its prognostic value for HSI is widely debated. Recent advancements in musculoskeletal MRI, such as diffusion tensor imaging (DTI), have allowed for quantitative measures of muscle microstructure assessment. The purpose of this study was to determine the association of TOI MRI-based measures, including the British Athletic Muscle Injury Classification (BAMIC) system, edema volume, and DTI metrics, with time to RTS and reinjury incidence. Negative binomial regressions and generalized estimating equations were used to determine relationships between imaging measures and time to RTS and reinjury, respectively. Twenty-six index injuries were observed, with five recorded reinjuries. A significant association was not detected between BAMIC score and edema volume at TOI with days to RTS (p-values ≥ 0.15) or reinjury (p-values ≥ 0.13). Similarly, a significant association between DTI metrics and days to RTS was not detected (p-values ≥ 0.11). Although diffusivity metrics are expected to increase following injury, decreased values were observed in those who reinjured (mean diffusivity, p = 0.016; radial diffusivity, p = 0.02; principal effective diffusivity eigenvalues, p-values = 0.007-0.057). Additional work to further understand the directional relationship observed between DTI metrics and reinjury status and the influence of external factors is warranted."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

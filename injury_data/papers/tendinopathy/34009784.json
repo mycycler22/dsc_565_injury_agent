@@ -1,0 +1,47 @@
+{
+  "pmid": "34009784",
+  "title": "Association Between COL5a1, COL11a1, and COL11a2 Gene Variations and Rotator Cuff Tendinopathy in Young Athletes.",
+  "year": "2023",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Tendinopathy is a prevalent condition in young athletes and in older nonathletic people. Recent tendinopathy research has shown a growing interest in the role played by genetic factors, basically genes involved in collagen synthesis and regulation, in view of collagen disorganization typically present in tendon pathologies."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A case-control, genotype-phenotype association study."
+    },
+    {
+      "label": "SETTING",
+      "text": "La Ribera Hospital, Valencia, Spain."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "A group of 137 young athletes (49 with rotator cuff tendon pathology and 88 healthy counterparts) who played upper-limb-loading sports were clinically and ultrasound (US) assessed for rotator cuff tendinopathy were included."
+    },
+    {
+      "label": "INTERVENTION",
+      "text": "Genetic analysis was performed to determine whether there was a relationship between rotator cuff pathology and the genotype."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "We hypothesized that the following single nucleotide polymorphisms: COL5a1 rs12722, COL11a1 rs3753841, COL11a1 rs1676486, and COL11a2 rs1799907 would be associated with rotator cuff tendinopathy."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A direct relationship between CC genotype and bilateral US pathological images was statistically significant (χ 2 = 0.0051) and confirmed by the Fisher test, with a correlation coefficient of 0.345 and a Cramer's v of 0.26."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A significant association was found between COL5a1 rs12722 genotype and rotator cuff pathology, with the CC genotype conferring increased risk of tendon abnormalities and being associated with rotator cuff pathology."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

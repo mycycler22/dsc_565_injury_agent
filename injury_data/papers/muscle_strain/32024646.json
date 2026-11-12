@@ -1,0 +1,40 @@
+{
+  "pmid": "32024646",
+  "title": "Fifteen-week window for recurrent muscle strains in football: a prospective cohort of 3600 muscle strains over 23 years in professional Australian rules football.",
+  "year": "2020",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine the rates of muscle strain injury recurrence over time after return to play in Australian football and to quantify risk factors."
+    },
+    {
+      "label": "METHODS",
+      "text": "We analysed Australian Football League player data from 1992 to 2014 for rates of the four major muscle strain injury types (hamstring, quadriceps, calf and groin) diagnosed by team health professionals. Covariates for analysis were: recent history (≤8 weeks) of each of the four muscle strains; non-recent history (>8 weeks) of each; history of hip, knee anterior cruciate ligament, knee cartilage, ankle sprain, concussion or lumbar injury; age; indigenous race; match level and whether a substitute rule was in place."
+    },
+    {
+      "label": "RESULTS",
+      "text": "3647 (1932 hamstring, 418 quadriceps, 458 calf and 839 groin) muscle strain injuries occurred in 272 759 player matches. For all muscle strains combined, the risk of injury recurrence gradually reduced, with recurrence risks of 9% (hamstring), 5% (quadriceps), 2% (calf) and 6% (groin) in the first match back and remaining elevated for 15 weeks after return to play. The strongest risk factor for each muscle injury type was a recent history of the same injury (hamstring: adjusted OR 13.1, 95% CI 11.5 to 14.9; calf OR 13.3, 95% CI 9.6 to 18.4; quadriceps: OR 25.2, 95% CI 18.8 to 33.8; groin OR 20.6, 95% CI 17.0 to 25.0), followed by non-recent history of the same injury (hamstring: adjusted OR 3.5, 95% CI 3.2 to 3.9; calf OR 4.4, 95% CI 3.6 to 5.4; quadriceps OR 5.2, 95% CI 4.2 to 6.4; groin OR 3.5, 95% CI 3.0 to 4.0). Age was an independent risk factor for calf muscle strains (adjusted OR 1.6, 95% CI 1.3 to 2.0). Recent hamstring injury increased the risk of subsequent quadriceps (adjusted OR 1.8, 95% CI 1.2 to 2.7) and calf strains (OR 1.8, 95% CI 1.2 to 2.6). During the 'substitute rule' era (2011-2014), hamstring (adjusted OR 0.76, 95% CI 0.67 to 0.86), groin (OR 0.78, 95% CI 0.65 to 0.93) and quadriceps (OR 0.70, 95% CI 0.53 to 0.92) strains were less likely than outside of that era but calf (OR 1.6, 95% CI 1.3 to 1.9) strains were more likely than before the substitute rule era."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Recent injury is the greatest risk factor for the four major muscle strains, with increased risk persisting for 15 weeks after return to play."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "For all muscle strains combined, the risk of injury recurrence gradually reduced, with recurrence risks of 9% (hamstring), 5% (quadriceps), 2% (calf) and 6% (groin) in the first match back and remaining elevated for 15 weeks after return to play."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Recent injury is the greatest risk factor for the four major muscle strains, with increased risk persisting for 15 weeks after return to play."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "34329202",
+  "title": "Acute Thoracic Outlet Syndrome Associated with Congenital Pseudarthrosis of the First Rib: A Case Report.",
+  "year": "2021",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "A 15-year-old right-hand-dominant adolescent girl presented with a nondisplaced first rib fracture and evidence of mesoacromion. She reported radiating numbness, pain, temperature change, and paresthesia in her left arm. An MRI revealed a first rib fracture along with brachial plexus and scalene musculature inflammation. Follow-up radiographs demonstrated bilateral rib anomalies during routine comparison views."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Congenital pseudarthrosis of the first rib occurs but is not well documented in the literature. This case report describes a case of congenital bilateral first rib pseudarthrosis with associated thoracic outlet syndrome symptoms in a competitive female softball athlete."
+    }
+  ],
+  "injury_query": "rib fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

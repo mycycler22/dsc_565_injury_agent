@@ -1,0 +1,32 @@
+{
+  "pmid": "34049565",
+  "title": "The epidemiology of chronic ankle instability with perceived ankle instability- a systematic review.",
+  "year": "2021",
+  "journal": "Journal of foot and ankle research",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Chronic ankle instability, developing from ankle sprain, is one of the most common sports injuries. Besides it being an ankle issue, chronic ankle instability can also cause additional injuries. Investigating the epidemiology of chronic ankle instability is an essential step to develop an adequate injury prevention strategy. However, the epidemiology of chronic ankle instability remains unknown. Therefore, the purpose of this study was to investigate the epidemiology of chronic ankle instability through valid and reliable self-reported tools in active populations."
+    },
+    {
+      "label": "METHODS",
+      "text": "An electronic search was performed on PubMed and Web of Science in July 2020. The inclusion criteria for articles were peer-reviewed, published between 2006 and 2020, using one of the valid and reliable tools to evaluate ankle instability, determining chronic ankle instability based on the criteria of the International Ankle Consortium, and including the outcome of epidemiology of chronic ankle instability. The risk of bias of the included studies was evaluated with an adapted tool for the sports injury review method."
+    },
+    {
+      "label": "RESULTS",
+      "text": "After removing duplicated studies, 593 articles were screened for eligibility. Twenty full-texts were screened and finally nine studies were included, assessing 3804 participants in total. The participants were between 15 and 32 years old and represented soldiers, students, athletes and active individuals with a history of ankle sprain. The prevalence of chronic ankle instability was 25%, ranging between 7 and 53%. The prevalence of chronic ankle instability within participants with a history of ankle sprains was 46%, ranging between 9 and 76%. Five included studies identified chronic ankle instability based on the standard criteria, and four studies applied adapted exclusion criteria to conduct the study. Five out of nine included studies showed a low risk of bias."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The prevalence of chronic ankle instability shows a wide range. This could be due to the different exclusion criteria, age, sports discipline, or other factors among the included studies. For future studies, standardized criteria to investigate the epidemiology of chronic ankle instability are required. The epidemiology of CAI should be prospective. Factors affecting the prevalence of chronic ankle instability should be investigated and clearly described."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

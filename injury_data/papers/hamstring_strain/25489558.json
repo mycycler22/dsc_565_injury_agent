@@ -1,0 +1,53 @@
+{
+  "pmid": "25489558",
+  "title": "Clinical predictors of time to return to competition following hamstring injuries.",
+  "year": "2014",
+  "journal": "Muscles, ligaments and tendons journal",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "hamstring strain injuries are the most common sports-related muscle injuries and one of the main causes of missed sporting events."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "clinical findings reflecting hamstring injury severity at presentation predict time to sports resumption."
+    },
+    {
+      "label": "DESIGN",
+      "text": "cohort study (prognosis); Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "five sports medicine specialists at four sports medicine centers prospectively evaluated 120 athletes within 5 days of acute hamstring injury. Patients were interviewed and asked to evaluate their worst pain on a visual analog scale (VAS). Four physical criteria were assessed at baseline: bruising, tenderness to palpation, pain upon isometric contraction, and pain upon passive straightening. The same standardized rehabilitation protocol was used in all patients. A standardized telephone interview was conducted 45 days after the injury to determine the time to-full recovery (≤40 days or >40 days)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "by univariate analysis, clinical criteria associated with a full recovery time >40 days were VAS pain score greater than 6, popping sound injury, pain during everyday activities for more than 3 days, bruising, and greater than 15° motion-range limitation. By multivariate analysis, only VAS pain score and pain during everyday activities were significantly associated with time to recovery >40 days (53% sensitivity, 95% specificity)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "the initial examination provides valuable information that can be used to predict the time to full recovery after acute hamstring injuries in athletes."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "by univariate analysis, clinical criteria associated with a full recovery time >40 days were VAS pain score greater than 6, popping sound injury, pain during everyday activities for more than 3 days, bruising, and greater than 15° motion-range limitation."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "By multivariate analysis, only VAS pain score and pain during everyday activities were significantly associated with time to recovery >40 days (53% sensitivity, 95% specificity)."
+    }
+  ],
+  "pmcid": "4241432",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "by univariate analysis, clinical criteria associated with a full recovery time >40 days were VAS pain score greater than 6, popping sound injury, pain during everyday activities for more than 3 days, bruising, and greater than 15° motion-range limitation. By multivariate analysis, only VAS pain score and pain during everyday activities were significantly associated with time to recovery >40 days (53% sensitivity, 95% specificity)."
+    }
+  ]
+}

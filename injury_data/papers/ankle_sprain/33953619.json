@@ -1,0 +1,31 @@
+{
+  "pmid": "33953619",
+  "title": "Prevalence and Burden of Physical Problems in Female College Basketball Athletes: A 135-Day Prospective Cohort Study.",
+  "year": "2021",
+  "journal": "Open access journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "The purpose of this prospective cohort study was to investigate the prevalence and burden of \"any physical complaint\" in college female basketball athletes using a daily questionnaire."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifty-four female college basketball players were recruited and followed up for 135 days using the Oslo Sports Trauma Research Centre questionnaire."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The questionnaire response rate was 96.4% (95% confidence interval: 95.7-97.1). The average daily prevalence of any problem was 44.4%, whereas that of substantial problems was 16.0%. The anatomical areas found to be most frequently affected by physical problems were the ankle (average daily prevalence: 14.5%, 95% confidence interval: 13.4-15.7), lower back (14.4%, 95% confidence interval: 13.7-15.2), and knee (9.6%, 95% confidence interval: 9.0-10.2). The cumulative severity score, calculated by summing severity scores and dividing by number of respondents, showed that ankle, knee, and lower back problems exhibited greater relative burden."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Injuries common in basketball athletes, such as ankle sprain, anterior cruciate ligament injury, overuse knee pain, and low-back pain, are reflected in the present data."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

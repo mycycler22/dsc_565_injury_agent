@@ -1,0 +1,32 @@
+{
+  "pmid": "26573897",
+  "title": "Treatment of ruptured Achilles tendon: Operative or non-operative procedure?",
+  "year": "2015",
+  "journal": "Injury",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The aim of this study was to compare the efficiency of non-operative and surgical procedures in the treatment of ruptured Achilles tendon in athletes (professional and amateur)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ninety professional or amateur athletes with rupture of the Achilles tendon were included in the study between 1998 and 2013. The athletes were aged between 25 and 40 years (mean 34.83±4.65). A total of 30 athletes underwent an open procedure, 30 were treated with a percutaneous method and 30 were treated non-operatively. All operated patients were tested one year after the surgical procedure."
+    },
+    {
+      "label": "RESULTS",
+      "text": "An isokinetic dynamometer was used to compare the open and percutaneous methods. The results for the patients who were treated using the percutaneous method were 15% better than those for the patients who underwent the open procedure; the results for the group treated conservatively were 20% better than those for the group treated percutaneously."
+    },
+    {
+      "label": "DISCUSSION AND CONCLUSION",
+      "text": "The percutaneous method was easier technically than the open method. Time spent in hospital was 14.5 times shorter with the percutaneous procedure compared with the open procedure (percutaneous procedure: range 0.5-2 days, mean 0.79±0.36; open procedure: range 10-24 days, mean 11.46±2.70; p<0.00). Return to sport activities was twice as fast with the percutaneous procedure compared with the open procedure. There were no postoperative infections or reruptured Achilles tendon in the group treated with the percutaneous procedure. One patient in the group treated with the open procedure had postoperative infection (4.2%). In the non-surgical (conservatively treated) group, there were three reruptures of the Achilles tendon within one year, and one patient developed adhesions that resulted in loss of function and had to undergo an operation. The percutaneous method is the best method of surgical treatment for Achilles tendon rupture."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

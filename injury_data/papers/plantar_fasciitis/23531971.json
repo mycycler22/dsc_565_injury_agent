@@ -1,0 +1,20 @@
+{
+  "pmid": "23531971",
+  "title": "Foot injuries in runners.",
+  "year": "2011",
+  "journal": "Current sports medicine reports",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Injuries of the foot are common among both elite and recreational runners. Overuse accounts for most of these injuries. Plantar fasciitis and tendinopathies of the midfoot and forefoot have a high incidence in running athletes. These injuries may present with significant pain but often resolve with rest and rehabilitation. Bone injuries caused by overuse also have a high prevalence among runners. The metatarsals, tarsal navicular, and sesamoids are most at risk for stress damage. Most running injuries are self-limited and pose little detriment if diagnosis is delayed. Navicular and sesamoid stress fractures may impart significant long-term consequences, and thus, a clinical suspicion of either fracture warrants definitive diagnosis and treatment. Barefoot running recently has garnered increased attention, but currently, there is a lack of prospective studies regarding its injury reduction."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "36860227",
+  "title": "The Mechanism of Anterior Cruciate Ligament Injuries in the National Football League: A Systematic Video Review.",
+  "year": "2023",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Introduction Anterior cruciate ligament (ACL) injuries are common among American football athletes, although few studies have performed video analyses of ACL injuries to better understand the injury mechanism. This work aims to characterize the mechanism of ACL injury during professional football competitions using video analysis. We hypothesize that football-specific injury trends will emerge, including high rates of contact injuries and associations with shallow knee and hip flexion angles (0°-30°). Methods Videos of professional football players suffering ACL injuries from 2007 to 2016 were analyzed. Injured players were identified using the injured reserve (IR) lists of the National Football League (NFL), and videos were discovered via a systematic Google search. Descriptive statistics and frequency analyses were performed on all variables using the Statistical Package for the Social Sciences (SPSS) version 23.0 (IBM SPSS Statistics, Armonk, NY, USA). Results Of the 429 ACL injuries identified, 53 (12%) videos were available. Deceleration was the most common injury maneuver, present in 32 (60%) athletes. Thirty-one (58%) players suffered contact injuries. Twenty-eight (53%) injuries demonstrated valgus collapse of the knee, and 26 (49%) had neutral knee rotation. Defensive backs (26%) and wide receivers (23%) were the most frequently injured positions. Conclusion Overall, we found that most ACL injuries had preceding contact, deceleration, shallow hip and knee flexion, and heel strike, and subsequent valgus collapse and neutral knee rotation. This understanding of American football-specific ACL tear mechanisms could help direct the focus of future injury prevention training modalities."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

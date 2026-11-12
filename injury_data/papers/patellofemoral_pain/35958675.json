@@ -1,0 +1,37 @@
+{
+  "pmid": "35958675",
+  "title": "Efficacy of Patellar Taping and Electromyographic Biofeedback Training at Various Knee Angles on Quadriceps Strength and Functional Performance in Young Adult Male Athletes with Patellofemoral Pain Syndrome: A Randomized Controlled Trial.",
+  "year": "2022",
+  "journal": "Pain research & management",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The severity of the articular lesion is the single most essential element in investigating the extent of flexion that is required for activities. However, a prior study found no differences in muscle strength gains of quadriceps muscles at different knee angles in people with patellofemoral pain syndrome (PFPS)."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The effects of patellar taping and electromyographic biofeedback (EMG-BF)-guided isometric quadriceps strengthening at different knee angles (e.g., 30°, 60°, and 90° of knee flexion) on quadriceps strength and functional performance in people with PFPS were compared in this single-blind randomized controlled parallel trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Sixty adult male athletes with PFPS (age: 26.9 ± 1.4 years) were randomly divided into two groups. The experimental group (<i>n</i> = 30) received patellar taping and EMG-BF-guided isometric contraction exercise at 30°, 60°, and 90° angles, and the control group (<i>n</i> = 30) received sham patellar taping without EMG-BF-guided exercises for six weeks. Pain intensity, knee function, muscle strength, and the single-leg triple hop (SLTH) test were assessed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The pain intensity and SLTH scores between the groups were significantly different at the end of the trial (<i>p</i> ≤ 0.001). The EMG-BF and control groups had mean pain scores of 1.3 (0.8) and 4.5 (0.8), respectively. The EMG-BF and control groups had mean functional scores of 80.4 (5.1) and 69.1 (6.1), respectively. The mean SLTH score for the EMG-BF group was 540.7 (51.2) and for the control group it was 509.4 (49.8) after the trial. Quadriceps muscle strength was significantly higher in those who performed quadriceps strength training at 60° of knee flexion after six weeks than in those who performed strength training at 30° or 90° of knee flexion."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The findings indicated that individuals who trained their quadriceps at a 60° knee angle had significantly stronger quadriceps muscles than individuals who trained at 30° or 90° of knee flexion. <i>Trial Registration</i>. This trial is registered at Clinical Trials.gov under the identifier NCT05055284."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "42712948",
+  "title": "Countermovement jump force-time waveforms in male adolescent footballers with growth-related musculoskeletal pathology.",
+  "year": "2026",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Growth-related musculoskeletal pathology is common in adolescent athletes, although associated changes in countermovement jump force-time characteristics remain poorly understood. This exploratory repeated-measures biomechanical analysis examined whether adolescent footballers with current or historical growth-related pathology, including Osgood-Schlatter disease (OSD) and prior pars interarticularis fracture, displayed limb-specific differences in double-leg countermovement jump (DL-CMJ) force-time waveforms not evident using discrete performance metrics alone."
+    },
+    {
+      "label": "METHODS",
+      "text": "Five male academy footballers completed 15-20 DL-CMJ testing sessions, representing presentations of developing OSD, resolved OSD, resolved OSD with prior pars fracture, and two pain-free reference athletes. Limb-specific vertical ground reaction force waveforms were time-normalised and analysed using one-dimensional Statistical Parametric Mapping."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes with growth-related pathology displayed phase-specific waveform asymmetries, altered propulsive work distribution, and divergent reversal timing patterns compared with pain-free reference athletes. Force-time differences were observed both during symptomatic periods and in athletes with historical pathology who remained pain-free at the time of testing."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "These findings suggest that waveform analysis may provide additional insight into movement strategies associated with growth-related musculoskeletal pathology beyond conventional countermovement jump metrics. Further longitudinal investigation in larger cohorts is required to determine the clinical relevance of these observations."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "33604476",
+  "title": "Prevalence of concussion and adherence to return-to-play guidelines amongst male secondary school rugby and hockey players.",
+  "year": "2021",
+  "journal": "The South African journal of physiotherapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Concussion injuries are common in contact sports. Young players can suffer life-threatening complications if concussion is not recognised and managed."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine the prevalence of concussion amongst secondary school rugby and hockey players and describe players' knowledge and adherence to return-to-play guidelines."
+    },
+    {
+      "label": "METHOD",
+      "text": "A mixed-method approach included Phase A, which utilised a questionnaire completed by 221 players (<i>n</i> = 139 rugby; <i>n</i> = 82 hockey) between 13 and 18 years of age, and Phase B, which utilised three focus group discussions of 15 participants who had suffered a concussion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The prevalence of concussion (<i>n</i> = 221) was 31.2% (<i>n</i> = 69). Of those, 71% (<i>n</i> = 49) were rugby players. Those who had suffered a concussion were more confident in identifying symptoms of concussion in themselves and others compared with those who did not suffer a concussion (<i>p</i> = 0.001), were more aware of return-to-play guidelines and more confident in their knowledge of concussion (<i>p</i> = 0.001). There were no differences between groups when identifying concussion symptoms. Of those who had a concussion, 30.4% (<i>n</i> = 21) adhered to return-to-play guidelines and followed graded return-to-play after their concussion. Explanations for non-adherence to return-to-play protocols included peer pressure, intrinsic motivation and ignorance."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Nearly a third had suffered a concussion injury; having suffered a concussion, and awareness of return-to-play guidelines, did not guarantee adherence to return-to-play protocols. Peer pressure and intrinsic factors explained this lack of adherence."
+    },
+    {
+      "label": "CLINICAL IMPLICATIONS",
+      "text": "Physiotherapists are often involved with the diagnosis and management of concussion injuries among rugby and hockey players. Understanding the prevalence and the reasons why young players do not adhere to the 'return to play' guidelines may inform preventative strategies."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

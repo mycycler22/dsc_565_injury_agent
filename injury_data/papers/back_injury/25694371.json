@@ -1,0 +1,32 @@
+{
+  "pmid": "25694371",
+  "title": "The effectiveness of lumbar extensor training: local stabilization or dynamic strengthening exercises. A review of literature.",
+  "year": "2014",
+  "journal": "Ortopedia, traumatologia, rehabilitacja",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Deconditioning of the lumbar extensor musculature (lumbar erector spinae and multifidus) is a risk factor for low back injury and pain. The article presents various aspects of scientific reports which confirm the effectiveness of lumbar extensor exercises."
+    },
+    {
+      "label": "MATERIAL AND METHODS",
+      "text": "The articles to be reviewed were extracted from the MedLine and PubMed data - bases. The following key words were used as search terms: lumbar multifidus muscle exercises, low back global exercise, motor control exercise in chronic low back pain, low back stabilization exercise."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A number of prior investigations have described lumbar multifidus atrophy and replacement by fat after low back injury. Restoration of the tonic activity of the multifidus muscle is an essential condition in regaining health and spine functions. On the other hand, conditioning and strengthening exercises are considered valuable in effectively 'pre-habilitating' and reducing injury risk for athletes."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "1. The lumbar low load specific stabilization exercises would be more efficient than muscle strengthening in the improvement of chronic low back pain. 2. Conditioning and strengthening exercises are considered valuable in effectively 'pre-habilitating' and reducing injury risk for athletes."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

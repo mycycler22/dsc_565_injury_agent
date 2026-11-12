@@ -1,0 +1,32 @@
+{
+  "pmid": "20708874",
+  "title": "Epidemiology of strain/sprain injuries among cheerleaders in the United States.",
+  "year": "2011",
+  "journal": "The American journal of emergency medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this study is to describe the epidemiology of cheerleading-related strain/sprain injuries by type of cheerleading team and type of event."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athlete exposure (AE) and injury data were collected from 412 United States cheerleading teams via the Cheerleading Reporting Information Online surveillance tool, and injury rates were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Strains/Sprains were the most common injury (53%; 0.5 injuries per 1000 AEs) sustained by cheerleaders during our 1-year study. The lower extremities (42%), particularly the ankles (28%), were injured most often. Most injuries occurred during practice (82%); however, the rate of injury was higher during competition (0.8 injuries per 1000 AEs; 95% confidence interval [CI], 0.6-1.0) than during practice (0.6 injuries per 1000 AEs; 95% CI, 0.5-0.6) for all team types. Injuries were sustained most frequently by high school cheerleaders (51%), although college cheerleaders had the highest injury rate (1.2 injuries per 1000 AEs). Strains/Sprains occurred most frequently while attempting a stunt (34%) or while tumbling (32%). Spotting/Basing other cheerleaders (19%) was the most common mechanism of injury and was more likely to result in a lower back strain/sprain than other mechanisms of injury (odds ratio, 3.38; 95% CI, 1.41-8.09; P < .01)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Cheerleaders should increase their focus on conditioning and strength-building training, which may help to prevent strain/sprain injuries. Spotters and bases should additionally focus on proper lifting technique to help avoid back injury. Guidelines may need to be developed for return-to-play after cheerleading-related strain/sprain injuries."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

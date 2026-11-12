@@ -1,0 +1,24 @@
+{
+  "pmid": "26957929",
+  "title": "Use of Ultrasound to Monitor Biceps Femoris Mechanical Adaptations after Injury in a Professional Soccer Player.",
+  "year": "2016",
+  "journal": "Journal of sports science & medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study examined the use of ultrasound to monitor changes in the long head of the biceps femoris (BF) architecture of aprofessional soccer player with acute first-time hamstring strain. The player followed a 14 session physiotherapy treatment until return to sport. The pennation angle and aponeurosis strain of the long head of the biceps femoris (BF) were monitored at 6 occasions (up until 1 year) after injury. The size of the scar / hematoma was reduced by 63.56% (length) and 67.9% (width) after the intervention and it was almost non-traceable one year after injury. The pennation angle of the fascicles underneath the scar showed a decline of 51.4% at the end of the intervention while an increase of 109.2% of the fascicles which were closer to deep aponeurosis was observed. In contrast, pennation angle of fascicles located away from the injury site were relatively unaffected. The treatment intervention resulted in a 57.9% to 77.3% decline of maximum strain per unit of MVC moment and remained similar one year after the intervention. This study provided an example of the potential use of ultrasound-based parameters to link the mechanical adaptations of the injured muscle to specific therapeutic intervention. Key pointsChanges in fascicle orientation after biceps femoris mild tear were reduced after a 28 day intervention and remained similar one year after injury.Tendon/aponeurosis strain per unit of moment of force decreased during the course of the therapeutic intervention.Future studies could utilize ultrasonography to monitor mechanical responses after various types of hamstring injury and interventions in order to improve criteria for a safe return to sport."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Key pointsChanges in fascicle orientation after biceps femoris mild tear were reduced after a 28 day intervention and remained similar one year after injury.Tendon/aponeurosis strain per unit of moment of force decreased during the course of the therapeutic intervention.Future studies could utilize ultrasonography to monitor mechanical responses after various types of hamstring injury and interventions in order to improve criteria for a safe return to sport."
+    }
+  ],
+  "pmcid": "4763849",
+  "fulltext_chunks": []
+}

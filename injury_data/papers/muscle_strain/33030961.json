@@ -1,0 +1,45 @@
+{
+  "pmid": "33030961",
+  "title": "Return to Play and Recurrence After Calf Muscle Strain Injuries in Elite Australian Football Players.",
+  "year": "2020",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Calf muscle strain injuries (CMSI) are prevalent in sport, but information about factors associated with time to return to play (RTP) and recurrence is limited."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine whether clinical and magnetic resonance imaging (MRI) data are associated with RTP and recurrence after CMSI."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data of 149 CMSI reported to the Soft Tissue injury Registry of the Australian Football League were explored to evaluate the impact of clinical data and index injury MRI findings on RTP and recurrence. Clinical data included age, previous injury history, ethnicity, and the mechanism of injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Irrespective of the anatomical location, players with CMSI with severe aponeurotic disruption (AD) took longer to RTP than players with CMSI with no AD: 31.3 ± 12.6 days vs 19.4 ± 10.8 days (mean ± SD; <i>P</i> = .003). A running-related mechanism of injury was associated with a longer RTP period for CMSI overall (adjusted hazard ratio [AHR], 0.59; <i>P</i> = .02). The presence of AD was associated with a longer RTP period for soleus injuries (AHR, 0.6; <i>P</i> = .025). Early recurrence (ie, ≤2 months of the index injury) was associated with older age (AHR, 1.3; <i>P</i> = .001) and a history of ankle injury (AHR, 3.9; <i>P</i> = .032). Older age (AHR, 1.1; <i>P</i> = .013) and a history of CMSI (AHR, 6.7; <i>P</i> = .002) increased the risk of recurrence within 2 seasons. The index injury MRI findings were not associated with risk of recurrence."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A running-related mechanism of injury and the presence of AD on MRI were associated with a longer RTP period. Clinical rather than MRI data best indicate the risk of recurrent CMSI."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Irrespective of the anatomical location, players with CMSI with severe aponeurotic disruption (AD) took longer to RTP than players with CMSI with no AD: 31.3 ± 12.6 days vs 19.4 ± 10.8 days (mean ± SD; <i>P</i> = .003)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "29505833",
+  "title": "Knee flexion strength is significantly reduced following competition in semi-professional Australian Rules football athletes: Implications for injury prevention programs.",
+  "year": "2018",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To evaluate strength and flexibility measures pre- and post- Australian Football (AF) competition to determine their potential utility as secondary prevention measures."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Semi-professional AF club."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Ten male AF athletes (mean ± SD; age, 21.3 ± 2.2 years; height, 186.1 ± 6.3 cm; weight, 83.5 ± 8.6 kg)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Maximal unilateral isometric knee flexion strength performed in 45 degrees of hip flexion and 30 degrees of knee flexion, flexibility measures of hip and knee extension and ankle dorsiflexion. All outcome measures were evaluated pre-match to determine baseline measurements and repeated acutely post-match and at 26, 50 and 74 h following. Comparisons were made between baseline measures and all other time points."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Knee flexion strength was significantly reduced at a group level acutely (-122.8N, 95%CI -156.2 to -89.4, p = 0.000) and at 26 h (-89.6N, 95%CI -122.9 to -56.2, p = 0.000) following competition. Hamstring flexibility was significantly reduced at all time periods following competition (all p < 0.05), however these values were not clinically meaningful."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Knowledge that unilateral isometric knee flexion strength returns to pre-competition levels by 50 h following match-play in AF athletes is valuable for planning recovery time frames and may inform implementation of secondary prevention strategies."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

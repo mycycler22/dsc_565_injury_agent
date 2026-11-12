@@ -1,0 +1,25 @@
+{
+  "pmid": "41786392",
+  "title": "Diagnosis and Management of Concussion.",
+  "year": "2026",
+  "journal": "Clinics in sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussion occurs when a traumatic force of impact to the body or to the head results in a neurologic syndrome characterized by the acute onset of physical, cognitive, emotional, and sleep disruption that typically resolves over 2 weeks. Concussion diagnosis is based on a careful history and physical examination by an experienced provider and can be supplemented by objective tools that measure cognition, ocular tracking, and/or neurophysiology. Concussion management focuses on relative rest and gradual return to cognitive exertion. Evidence also supports early return to physical exercise, monitoring for symptom exacerbation."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Concussion occurs when a traumatic force of impact to the body or to the head results in a neurologic syndrome characterized by the acute onset of physical, cognitive, emotional, and sleep disruption that typically resolves over 2 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

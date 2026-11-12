@@ -1,0 +1,48 @@
+{
+  "pmid": "19858114",
+  "title": "Sex differences in force attenuation: a clinical assessment of single-leg hop performance on a portable force plate.",
+  "year": "2011",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Impaired biomechanics and neuromuscular control have been suggested as probable links to female sex bias in the onset of patellofemoral pain syndrome. There are limited objective, clinical measures for assessment of impaired biomechanics and neuromuscular control. The primary objective of this investigation was to examine sex differences in vertical ground reaction force (vGRF) and force loading rate in young athletes performing maximum, repeated vertical single-leg hops (RVSHs). The authors hypothesised that females would demonstrate greater vGRF and force loading rate than males and show interlimb differences in force attenuation."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Paediatric sports medicine clinic."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "109 Healthy high school, soccer and basketball athletes."
+    },
+    {
+      "label": "ASSESSMENT OF RISK FACTORS",
+      "text": "Participants performed RVSHs for 15 seconds on a portable force plate with a sampling rate of 400 Hz (Accupower; AMTI, Watertown, Massachusetts, USA)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASUREMENTS",
+      "text": "Raw vGRF was filtered with a generalised cross-validation spline using a 50-Hz cutoff frequency and then normalised to potential energy. Force loading rate was calculated by dividing normalised vGRF by time-to-peak force. Group means were compared using analysis of variance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The females demonstrated significantly greater normalised vGRF (p<0.001) and force loading rate (p<0.001) during landing than their male counterparts. Neither sex demonstrated significant interlimb differences in force attenuation (p>0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The female athletes may have altered force attenuation capability during RVSHs as identified by increased vGRF and force loading rate compared with the male athletes. Portable force plates may be potential tools to identify altered force attenuation in clinical settings."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

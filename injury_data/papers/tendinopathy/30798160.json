@@ -1,0 +1,19 @@
+{
+  "pmid": "30798160",
+  "title": "Magnolol prevents ossified tendinopathy by inhibiting PGE2-induced osteogenic differentiation of TDSCs.",
+  "year": "2019",
+  "journal": "International immunopharmacology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Magnolol is a compound that is extracted from magnolia, is used in Chinese medicine and is a type of lignan. Magnolol has various anti-inflammation, anti-proliferation and pro-autophagy effects. Ossified tendinopathy affects many athletes and people with repetitive tendon injuries. Ossified tendinopathy is a tremendous economic burden, and no effective and safe drugs are available to prevent the pathogenesis of ectopic ossification. In this study, we aimed to study how magnolol affects ossified tendinopathy by evaluating its effects on osteogenic differentiation of tendon-derived stem cells (TDSCs). Our data suggested that magnolol attenuated ectopic ossification in the Achilles tendon caused by Achilles tenotomy. Magnolol inhibited PGE2-induced ALP activity and prevented calcium deposits in TDSCs in vitro. Magnolol also exerted inhibitory effects on expression of osteogenic factors, such as Runx2, OCN, and BMP2 in vivo. Further investigation revealed the underlying mechanism by which magnolol prevents PGE2-induced ectopic ossification. Specifically, magnolol inhibits PGE2-induced PI3K/AKT/β-catenin pathway activation in TDSCs. Our findings demonstrated that magnolol inhibited ossified tendinopathy through preventing osteogenic differentiation of TDSCs via downregulation PGE2-induced PI3K/AKT/β-catenin pathways."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

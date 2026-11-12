@@ -1,0 +1,27 @@
+{
+  "pmid": "41269475",
+  "title": "Prognostic Factors for Recovery from Patellar Tendinopathy in Jumping Athletes: An International Prospective Cohort Study.",
+  "year": "2025",
+  "journal": "Sports medicine - open",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is no robust prognostic guides for patellar tendinopathy (PT), hence we do not understand who gets better, when and why. Therefore, we aimed to identify which combination of self-reported factors best predicts PT recovery. A previously validated, reliable online questionnaire battery yielded data from an international sample of professional and recreational jumping athletes with a one-year follow-up. Recovery was defined using Global Rating of Change, alongside full availability for training and competition. Data on > 100 plausible bio-psycho-social, demographic and sporting outcome predictors were collected; and a multivariable cox proportional-hazards model constructed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "128 athletes with PT (30.9 ± 8.9 years; 77 males (60%); Victorian Institute of Sport Assessment Questionnaire-Patellar Tendon = 61.5 ± 16.2) provided 25,284 days at risk for analysis. Recovery rate was 45%, peaking at 6-month. The multivariable model partially predicted PT recovery with acceptable performance (optimism-corrected C-statistic:0.77, 95%CI:0.74-0.79) and internal validation. Recovery was associated with lower severity (Hazard Ratio (HR) = 1.03, 95%CI 1.02-1.05), a shorter time off sport (HR = 0.93, 95%CI 0.87-0.99), feeling more rested after sleep (HR = 1.93, 95%CI 1.13-3.28), not having multiple concurrent tendon problems (HR = 0.23, 95%CI 0.07-0.69), higher training duration (HR = 1.05, 95%CI 1.01-1.10) and symptoms being modifiable by movement (HR = 2.71, 95%CI 1.21-6.09)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "To the best of our knowledge, this is the first study investigating outcome predictors for PT recovery in a large international cohort of jumping athletes. The exploratory recovery model showed that a combination of self-reported sports-specific and biomedical variables were predictive of PT recovery. These findings can be used to support clinical judgements of prognosis."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "29671490",
+  "title": "Common Running Injuries: Evaluation and Management.",
+  "year": "2018",
+  "journal": "American family physician",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Running is a common form of exercise but predisposes athletes to several running-related injuries. Most running injuries are due to overuse and respond to conservative treatment. Tendinopathies in the patellar, Achilles, and hamstring tendons are common, and are primarily treated with eccentric exercise. Iliotibial band syndrome and patellofemoral pain syndrome are less common than patellar tendinopathy and are treated by strengthening exercises for the core and legs in addition to flexibility exercises. Acute hamstring strains and medial tibial stress syndrome require a period of relative rest, followed by stretching and graded return to activity. Tibial stress fractures require an extended period of relative rest, followed by a more gradual return to activity. Early mobilization improves recovery from ankle sprains, and exercise therapy and functional bracing while running for six to 12 months prevents reinjury. Plantar fasciopathy (plantar fasciitis) can be significantly improved with stretching, heel raises, and orthoses that provide arch support."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Early mobilization improves recovery from ankle sprains, and exercise therapy and functional bracing while running for six to 12 months prevents reinjury."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

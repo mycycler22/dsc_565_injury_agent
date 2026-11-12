@@ -1,0 +1,20 @@
+{
+  "pmid": "36210170",
+  "title": "Sex and Gender Differences in Pediatric Knee Injuries.",
+  "year": "2022",
+  "journal": "Clinics in sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The participation of females in sports has increased significantly since the passage of Title IX. Sports participation may place young athletes at risk for knee injuries, including patellofemoral pain syndrome (PFPS), osteochondritis dissecans (OCD), and anterior cruciate ligament (ACL) rupture. Differences in anatomy, hormone production, and neuromuscular patterns between female and male athletes can contribute to disparities in knee injury rates with female athletes more vulnerable to PFPS and ACL injury. Biological differences between sexes alone cannot fully explain worldwide differences in musculoskeletal health outcomes. Social, cultural and societal attitudes toward gender and the participation of girls and women in sports may result in a lack of accessible training for both injury prevention and performance optimization; one must recognize the effects of gender disparities on injury risk. More nuanced approaches to assess the complex interplay among biological, physiologic, and social influences are needed to inform best practices for intervention and sports injury prevention."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,65 @@
+{
+  "pmid": "30534574",
+  "title": "Professional Soccer Players' Return to Play and Performance After Operative Repair of Achilles Tendon Rupture.",
+  "year": "2018",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The majority of Achilles tendon ruptures are sports related; however, no investigation has examined the impact of surgical repair for complete ruptures on professional soccer players."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine the return to play, playing time, and performance of professional soccer players following Achilles tendon repair."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Union of European Football Associations (UEFA) and Major League Soccer (MLS) athletes who sustained a primary complete Achilles tendon rupture and were treated surgically between 1988 and 2014 were identified via public injury reports. Demographic information and performance-related statistics for the identified athletes were recorded for the season before surgery and 2 seasons after surgery and were compared with information for matched controls. Statistical analyses were used to assess differences in recorded metrics."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 24 athletes with Achilles ruptures met inclusion criteria, 17 (70.8%) of whom were able to return to play. On average, players had 8.3 years of professional-level experience prior to sustaining an Achilles rupture. Among athletes who returned to play, no differences were found in the number of games played or started, minutes played, or goals scored 1 year postoperatively compared with the year prior to injury. However, 2 years postoperatively, these athletes played 28.3% (<i>P</i> = .028) fewer minutes compared with their preoperative season, despite starting and playing in an equivalent number of games. Matched controls had baseline playing time and performance statistics similar to those of players. However, controls played and started in significantly more games and played more minutes at 1 and 2 years compared with players (<i>P</i> < .05). No differences were found in goals scored at any time point."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This is the first investigation examining the effect of an Achilles repair on the career of professional soccer players. This is a difficult injury that most commonly occurs in veteran players and prevents 29.2% of players from returning to play despite surgical management. Additionally, athletes able to return to play were found to play fewer minutes 2 years postoperatively compared with their baseline as well as playing less at 1 and 2 years postoperatively compared with uninjured matched controls. The reduction in playing time following an Achilles repair has significant implications for professional players and teams."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Among athletes who returned to play, no differences were found in the number of games played or started, minutes played, or goals scored 1 year postoperatively compared with the year prior to injury."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Additionally, athletes able to return to play were found to play fewer minutes 2 years postoperatively compared with their baseline as well as playing less at 1 and 2 years postoperatively compared with uninjured matched controls."
+    }
+  ],
+  "pmcid": "6280612",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 24 athletes with Achilles ruptures met inclusion criteria, 17 (70.8%) of whom were able to return to play. On average, players had 8.3 years of professional-level experience prior to sustaining an Achilles rupture. Among athletes who returned to play, no differences were found in the number of games played or started, minutes played, or goals scored 1 year postoperatively compared with the year prior to injury. However, 2 years postoperatively, these athletes played 28.3% (P = .028) fewer minutes compared with their preoperative season, despite starting and playing in an equivalent number of games. Matched controls had baseline playing time and performance statistics similar to those of players. However, controls played and started in significantly more games and played more minutes at 1 and 2 years compared with players (P < .05). No differences were found in goals scored at any time point."
+    },
+    {
+      "section": "Results",
+      "text": "Overall, 29 athletes were identified as sustaining an Achilles tendon rupture, of whom 24 met inclusion criteria. Reasons for exclusion included partial Achilles tear (n = 2), goalkeeper position (n = 1), and confounding injury (n = 2). Seven (29.2%) of the remaining athletes did not RTP in the 2 seasons following surgery. The 17 athletes who returned consisted of 1 MLS player and 16 UEFA players, and their demographic and baseline characteristics can be seen in Table 1. Although the mean age of players not returning to play was higher than those able to return, it was not significantly different (30.1 vs 28.2 years; P = .31). Returning athletes had an average 8.3 (range, 2-17) seasons of professional soccer experience (Table 1), and the majority of players were midfielders (64.7%). Among athletes returning to play, no significant decreases in playing time or performance in the season following surgery compared with the index season were seen (Table 2 and Figure 1). At 2 years postoperatively, athletes played an average of 78.1% of the games and 71.7% of the minutes played in the season prior to injury, but only the reduction in minutes played was found to be significant (P = .028). The proportion of games started and goal scores also decreased 2 years postoperatively, 78.8% and 45.8%, respectively; however, these differences were not significant. Two matched controls were identified for each injured player. No baseline differences were found at any parameter examined between each group’s respective index season (Table 1). Additionally, no differences were found in any outcome measure compared between the index season and postoperative season 1 or 2 among controls. Despite this, playing time and performance measures were significantly compromised among players compared with controls postoperatively (Table 3, Figures 2 and 3). At 1 year postoperatively, injured players participated in 24.2% fewer games (P = .003), played 30.6% fewer minutes (P = .001), and started in 29.9% fewer games (P = .003) compared with controls. This trend continued 2 years postoperatively, where players participated in 21.0% fewer games (P = .025), played 29.5% fewer minutes (P = .015), and started in 27.4% fewer games (P = .030). No significant differences were identified in the number of goals scored."
+    },
+    {
+      "section": "TABLE: Comparison of Index Versus 1-Year and 2-Year Postoperative Playing Time and Performance in Playersa",
+      "text": " | Index | 1 Year Postoperative (P value) | 2 Years Postoperative (P value)\nGames played | 27.9 ± 7.8 | 22.9 ± 9.9 (.114) | 21.8 ± 10.1 (.051)\nMinutes played | 2112 ± 785 | 1679 ± 797 (.148) | 1514 ± 876 (.028b)\nGames started | 22.2 ± 10.4 | 19.2 ± 10.7 (.317) | 17.5 ± 10.8 (.156)\nGoals scored | 4.8 ± 6.1 | 3.3 ± 3.4 (.187) | 2.2 ± 2.5 (.068)"
+    },
+    {
+      "section": "TABLE: Postoperative Comparisons of Playing Time and Performance Between Players and Controlsa",
+      "text": " | 1 Year Postoperatively | 2 Years Postoperatively\nPlayers | Controls | P Value | Players | Controls | P Value\nGames played | 22.9 ± 9.9 | 30.2 ± 6.4 | .003b | 21.8 ± 10.1 | 27.6 ± 7.4 | .025b\nMinutes played | 1679 ± 797 | 2421 ± 682 | .001b | 1514 ± 876 | 2148 ± 806 | .015b\nGames started | 19.2 ± 10.7 | 27.4 ± 7.6 | .003b | 17.5 ± 10.8 | 24.1 ± 9.4 | .030b\nGoals scored | 3.3 ± 3.4 | 4.8 ± 5.7 | .326 | 2.2 ± 2.5 | 3.7 ± 3.8 | .172"
+    }
+  ]
+}

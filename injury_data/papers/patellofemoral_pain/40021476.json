@@ -1,0 +1,35 @@
+{
+  "pmid": "40021476",
+  "title": "The relationship between physical features and patellofemoral-pain in young female gymnasts.",
+  "year": "2025",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain (PFP) is prevalent in high impact athletes."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To evaluate the prevalence of PFP and examine relationships between physical attributes and PFP in gymnasts."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data collection included the screening of 274 female gymnasts (aged <i>M</i> = 11.8 ± 1.9 years) from three disciplines - rhythmic, acrobatic, and artistic gymnastics. The participants completed Tanner's pubertal stage questionnaire and reported their date of birth and menarche status. They were then assessed for anthropometric measures, bone density, muscle strength, joint range of motion (ROM), hypermobility, and were physically examined for PFP."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 21.5% of the gymnasts had PFP, with a significantly higher prevalence among artistic gymnasts (33.3%) compared to acrobatic gymnasts (11.7%) (<i>p</i> = .008). No significant differences were seen in the age, menarche status, and pubertal stages of gymnasts with and without PFP (<i>p</i> > .05). H/week of training during the current year differed significantly between gymnasts with and without PFP by discipline (PFP X discipline interaction) (F<sub>(2, 267)</sub> = 3.647, <i>p</i> = 0.027). Logistic regressions showed that decreased tibial bone density (OR = 0.996), increased en-pointe ROM (OR = 1.061), and reduced muscle-strength (knee extensors [OR = 0.003] and hip abductors [OR = 0.001]) were significantly associated with PFP."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A high prevalence of PFP was seen, especially among artistic gymnasts. Decreased bone density, increased ankle ROM, and decreased knee and hip muscle strength were associated with PFP in young gymnasts. These findings suggest modifying risk factors, such as strength and loads, during the training of young female gymnasts. Moreover, physical features and other factors that may be related to PFP should be screened from a young age. Developing and implementing training programs and injury-prevention exercises is important to decrease loads and strains to the knees, while reducing the chance of knee pain or injuries in young female gymnasts."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

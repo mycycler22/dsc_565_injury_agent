@@ -1,0 +1,37 @@
+{
+  "pmid": "38646724",
+  "title": "Comparing return to play protocols after sports-related concussion among international sporting organisations.",
+  "year": "2024",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Comparative Study",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Return to play (RTP) protocols are an important part of recovery management following a sport-related concussion (SRC) and can prevent athletes from returning to competition too early and thereby avoid prolonged recovery times. To assist sporting organizations in the development of RTP guidelines, the Concussion in Sports Group (CISG) provides scientific-based recommendations for the management of SRC in its consensus statement on concussion in sport."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "This study investigates commonalities and differences among current RTP protocols of international sporting organizations and examines the implementation of the most recent CISG recommendations."
+    },
+    {
+      "label": "METHODS",
+      "text": "Concussion guidelines and medical rules of 12 international sporting organizations from contact, collision and combat sports were accessed via the organizations websites and compared regarding the management of SRC and the RTP decision."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Only six of the included organizations developed and published their own concussion guidelines, which included an RTP protocol on their website. The number of steps until RTP was similar across the different protocols. Each protocol required at least one medical examination before clearing an athlete to RTP. A high variation among organizations was found for initial resting period after injury, the implementation of sport-specific training drills and the time needed to complete the protocol before returning to competition. At the date of this study (9 September 2023), none of the accessible RTP protocols were updated to include the latest version of the CISG consensus statement."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "To improve the safety of athletes after a head injury, sporting organizations should develop sport-specific guidelines according to the latest CISG consensus statement, and this should be updated regularly. Implementation is especially important in combat sports, where there is a high incidence of head injury. Thus, there is a requirement for the most up-to-date concussion management protocols in these sports."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

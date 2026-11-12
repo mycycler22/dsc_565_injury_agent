@@ -1,0 +1,40 @@
+{
+  "pmid": "33115705",
+  "title": "Is patellofemoral pain preventable? A systematic review and meta-analysis of randomised controlled trials.",
+  "year": "2020",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate the effectiveness of interventions to reduce the risk of incident patellofemoral pain."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review and meta-analysis, with strength of evidence evaluated separately for each intervention type."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "MEDLINE, EMBASE, CINAHL, Web of Science and SPORTDiscus."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA FOR SELECTING STUDIES",
+      "text": "Randomised controlled trials evaluating the effectiveness of interventions to reduce patellofemoral pain risk compared with a control/non-exposed group."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirteen trials of mostly military recruits and young athletes analysed six different interventions. There was low certainty evidence from two trials (227 participants) that patellofemoral braces worn during physical activity (compared with no brace) effectively reduced the risk of patellofemoral pain (risk ratio (RR) 0.40, 95% CI 0.22 to 0.73; I<sup>2</sup>=24.0%). There was low certainty evidence from one trial (320 participants) that running technique retraining to (run softer) reduced patellofemoral pain risk (RR 0.21, 95% CI 0.07 to 0.60). There was low certainty evidence from four trials (3364 participants) that multicomponent (strengthening/neuromuscular) exercise programmes did not significantly reduce the risk of patellofemoral pain (RR 0.49, 95% CI 0.18 to 1.36; I<sup>2</sup>=64.9%), although broad CIs may reflect exercise dose variations among studies. There was very low certainty evidence from four trials (2314 participants) that foot orthoses (compared with flat inserts/no orthosis) did not significantly reduce the risk of patellofemoral pain (RR 0.63, 95% CI 0.35 to 1.13; I<sup>2</sup>=0.0%). Static stretching and a running programme that progressed intensity (compared with volume) did not significantly influence patellofemoral pain risk (single studies)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There is low-level evidence that patellofemoral braces and running technique retraining can reduce the risk of patellofemoral pain by 60%-79%."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

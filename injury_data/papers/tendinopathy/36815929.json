@@ -1,0 +1,36 @@
+{
+  "pmid": "36815929",
+  "title": "The effectiveness of intratissue percutaneous electrolysis for the treatment of tendinopathy: a systematic review.",
+  "year": "2022",
+  "journal": "South African journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tendinopathy is highly prevalent in the general public and common in athletes. It makes up nearly 50% of all sport injuries. A number of treatment techniques with varying evidence of effectiveness are currently available. Intratissue percutaneous electrolysis (EPI) is one such modality, however little consensus exists for EPI's efficacy or the most effective treatment parameters."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To review and appraise available evidence for Intratissue Percutaneous Electrolysis (EPI) in the treatment of tendinopathy, examining the effectiveness of EPI in conjunction with other modalities and identifying the strengths and limitations of the evidence base for EPI in order to make evidence-based recommendation for future studies of EPI."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed, Embase and Scopus were searched with keywords related to EPI and tendinopathy. Grey literature searches were conducted with Embase, OpenGrey, and ProQuest. Extensive citation searching was undertaken. Randomised controlled trials (RCTs), uncontrolled and observational studies of the application of EPI in patients aged 18-65 years with Magnetic Resonance Imaging (MRI) or clinical Ultrasonography (US) confirmed diagnosis of tendinopathy were eligible."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eleven studies met inclusion criteria: six randomised control trials (RCTs) and five uncontrolled studies. Clinical trials of EPI as an adjunct modality with physical therapy reporting greater decreased pain and return to function than treatment with physical therapy alone. The evidence for EPI is limited and influenced by small sample sizes, varying treatment protocols, clinical heterogeneity and high risk of bias."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "It is currently not possible to conclude that EPI is an effective modality for the treatment of tendinopathy. RCTs with clearly described EPI treatment protocols, larger sample sizes and intervention reporting sufficient to support reproducibility are needed to determine the effectiveness of EPI for the treatment of tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

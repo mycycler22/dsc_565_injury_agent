@@ -1,0 +1,53 @@
+{
+  "pmid": "42436963",
+  "title": "Achilles Tendon Rupture in the NBA: Return to Play, Performance Decline, and Temporal Trends (2000-2025).",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon rupture is a rare but potentially career-altering injury in elite basketball athletes. Contemporary data specific to National Basketball Association (NBA) players are limited, particularly regarding return-to-play (RTP) timing, functional outcomes, and long-term incidence trends in the modern high-pace era."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate RTP rates, time to return, postinjury performance changes, and temporal patterns of Achilles tendon rupture in NBA players over a 25-year period."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "NBA players with a confirmed Achilles tendon rupture between the 2000-2001 and 2024-2025 seasons were identified through multisource verification, including team announcements, league injury reports, Basketball Reference records, NBA.com injury logs, and contemporaneous reporting from major sports media outlets. RTP was defined as participation in at least one official NBA regular season or postseason game after the index rupture. Season-level performance metrics were extracted for the final full preinjury season and the first full postreturn season. Paired pre- versus postinjury comparisons were performed, effect sizes were calculated using Cohen <i>d</i>, and selected metrics were normalized per 48 minutes to account for changes in playing time. The annual rupture incidence was evaluated in relation to league-wide pace using Pearson correlation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 22 NBA players sustained a confirmed Achilles rupture. Among athletes with adequate follow-up (n = 15), 13 players (86.7%) returned to NBA competition. The mean time to RTP was 10.8 ± 4.3 months. Significant declines were observed in minutes per game (-7.6 minutes; <i>P</i> < .001), points per game (-5.4; <i>P</i> < .001), effective field goal percentage (-0.055; <i>P</i> = .005), rebounds (-1.3; <i>P</i> = .008), assists (-1.0; <i>P</i> = .002), defensive rebounds (-1.01; <i>P</i> = .014), steals (-0.28; <i>P</i> = .001), and blocks (-0.19; <i>P</i> = .026). When normalized per 48 minutes, scoring production still decreased significantly (-3.36 points; <i>P</i> = .004), while defensive metrics were preserved. Games started decreased substantially (-44 percentage points; <i>P</i> = .003). Annual rupture incidence remained low overall, with a notable spike in the 2024-2025 season, but no significant correlation with league pace was observed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study showed that most NBA players with adequate follow-up returned to professional play after Achilles tendon rupture, typically within approximately 11 months. However, reductions in playing time, scoring output, offensive efficiency, and starting role prevalence were common after return. Per-48-minute analyses suggested that scoring decline persisted even after accounting for reduced playing time, whereas several defensive and rebounding metrics were relatively preserved. Annual rupture incidence remained low overall, although a notable cluster was observed during the 2024-2025 season. These data may be helpful for counseling players regarding performance expectations and decision-making after Achilles tendon rupture in elite basketball players."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to RTP was 10.8 ± 4.3 months."
+    }
+  ],
+  "pmcid": "13354891",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 22 NBA players sustained a confirmed Achilles rupture. Among athletes with adequate follow-up (n = 15), 13 players (86.7%) returned to NBA competition. The mean time to RTP was 10.8 ± 4.3 months. Significant declines were observed in minutes per game (−7.6 minutes; P < .001), points per game (−5.4; P < .001), effective field goal percentage (−0.055; P = .005), rebounds (−1.3; P = .008), assists (−1.0; P = .002), defensive rebounds (−1.01; P = .014), steals (−0.28; P = .001), and blocks (−0.19; P = .026). When normalized per 48 minutes, scoring production still decreased significantly (−3.36 points; P = .004), while defensive metrics were preserved. Games started decreased substantially (−44 percentage points; P = .003). Annual rupture incidence remained low overall, with a notable spike in the 2024-2025 season, but no significant correlation with league pace was observed."
+    },
+    {
+      "section": "RTP and Performance Outcomes",
+      "text": "RTP was defined as participation in at least one official NBA regular season or postseason game after the index Achilles tendon rupture. Time to return was calculated in months from the date of injury to the date of the first NBA game appearance after injury. Career-ending injury was defined as failure to return to any NBA game after the rupture among players with adequate follow-up. Adequate follow-up was defined as at least 24 months after the index Achilles tendon rupture or documented return to NBA competition before that time point. Players injured during the 2024-2025 season were excluded from RTP rate calculations because insufficient rehabilitation time had elapsed. Season-level player statistics were obtained from Basketball Reference for the final full preinjury season and the first full postreturn season. Extracted variables included games played, games started, minutes per game, field goal percentage, 3-point percentage, 2-point percentage, free throw percentage, effective field goal percentage, offensive rebounds, defensive rebounds, total rebounds, assists, steals, blocks, turnovers, personal fouls, and points per game. To account for changes in playing time after return, selected production metrics were normalized per 48 minutes, including points, rebounds, assists, defensive rebounds, steals, and blocks."
+    }
+  ]
+}

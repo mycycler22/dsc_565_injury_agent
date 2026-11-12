@@ -1,0 +1,43 @@
+{
+  "pmid": "31765227",
+  "title": "The Effect of Oral Contraceptive Hormones on Anterior Cruciate Ligament Strength.",
+  "year": "2020",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Women are 2 to 9 times more likely to experience an anterior cruciate ligament (ACL) injury than men. Various hormones including relaxin, progesterone, and estrogen influence ACL strength. Oral contraceptives (OCs) alter these hormone levels; however, studies have yet to comprehensively compare different OCs' effects on the ACL."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "OCs with increased progestin-to-estrogen ratios will (1) increase ACL collagen expression, (2) decrease ACL matrix metalloproteinase expression, and (3) increase ACL strength."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Untreated female rats were compared with rats treated with 1 of 5 clinically used OCs: norethindrone (NE) only, NE plus ethinylestradiol (EE), etynodiol diacetate (ED) plus EE, norgestimate (NG) plus EE, and drospirenone (DS) plus EE. Doses were scaled from human doses to account for differences in bioavailability and body weight, and OCs were administered daily via oral gavage for 4 rat estrous cycles (20 days). A total of 36 rats were then sacrificed (6 rats/group). ACLs underwent biomechanical testing to assess ACL strength, stiffness, and maximum load before failure. ACL specimens were also isolated for quantitative real-time polymerase chain reaction analysis to assess collagen, matrix metalloproteinase, and relaxin receptor-1 expression."
+    },
+    {
+      "label": "RESULTS",
+      "text": "While the primary structural property of interest (ACL maximum load before failure) was not significantly improved by OC treatment, the main material property of interest (ACL strength) in rats treated with NE only, DS + EE, ED + EE, and NE + EE was significantly increased compared with untreated controls (<i>P</i> = .001, <i>P</i> = .004, <i>P</i> = .004, and <i>P</i> = .04, respectively). The order from strongest to weakest ACLs, which was also the same order as the highest to lowest progestin-to-estrogen ratios, was groups treated with NE only, DS + EE, ED + EE, NE + EE, and lastly NG + EE. Higher ratio formulations also increased the expression of type I collagen (<i>P</i> = .02) and decreased the expression of matrix metalloproteinase-1 (<i>P</i> = .04)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "OC formulations with higher progestin-to-estrogen ratios may be more protective for the ACL than formulations with lower ratios."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "OC formulations with high progestin-to-estrogen ratios may benefit female athletes by reducing their ACL injury risk by decreasing the effects of relaxin on the ACL."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "25596615",
+  "title": "A prospective study of injury patterns in collegiate pole vaulters.",
+  "year": "2015",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Although pole vaulting has been a sanctioned collegiate event since the 1920s, little is known about the injury patterns observed in the sport."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe injury incidence, patterns, and risks in collegiate pole vaulters."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "This was a prospective cohort study of collegiate athletes participating in pole vault over a single track-and-field season. Baseline athlete information was collected on study enrollment. Injuries were recorded in a standardized form to document diagnosis and event circumstances. A log of practice and competition exposures was maintained for each athlete. Injury incidence was reported as the proportion of injured vaulters and number of new injuries per 1000 athlete-exposures. Regression analysis on baseline variables was performed to determine risks for injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 135 vaulters from 15 universities took part in the study. There were 70 injury events reported during 8823 exposures. Forty-one percent of vaulters sustained injury, and there were 7.9 injuries per 1000 athlete-exposures. The low back was the most common injury location (16.7%), followed by the hamstrings and lower leg (13.9% each). Overall, 60% of injuries were to the lower extremities, 21% to the upper extremities, and 18% to the back. No head or neck injuries were reported. Injuries were most commonly muscular strains (39.2%) or overuse type (25.5%). Thirty percent, including 83% of low back injuries, occurred during the plant/takeoff phase of the vault. One-third of lumbar injuries were spondylolysis, with 75% of these being season ending. The odds of injury were 2.7 (95% CI, 1.1-7.1) times greater in vaulters with multiple prior injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This is the first prospective study of injury patterns in collegiate pole vaulters. The results indicate that injuries are very common in experienced vaulters. Medical personnel and coaches should be aware of the propensity for overuse-type injuries and institute activity modification to reduce time lost. In addition, coaches and athletes should focus on proper technique, particularly during the plant/takeoff to help minimize back injury. Medical providers should maintain a high level of suspicion for symptomatic spondylolysis in any vaulter complaining of frequent or persistent low back pain. Detailed medical histories are important to identify prior injuries, and coaches should focus on changing technical flaws or behaviors that may contribute to reinjury."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

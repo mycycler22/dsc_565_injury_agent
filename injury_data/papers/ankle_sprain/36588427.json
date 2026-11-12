@@ -1,0 +1,31 @@
+{
+  "pmid": "36588427",
+  "title": "Concussion increases within-player injury risk in male professional rugby union.",
+  "year": "2022",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To assess within-player change in injury risk and between-player subsequent injury risk associated with concussive and common non-concussive injuries in professional rugby union."
+    },
+    {
+      "label": "METHODS",
+      "text": "This prospective cohort study in Welsh professional male rugby union analysed within-player and between-player injury risk for five common injuries: concussion, thigh haematoma, hamstring muscle strain, lateral ankle sprain and acromioclavicular joint sprain. Survival models quantified within-player injury risk by comparing precommon (before) injury risk to postcommon (after) injury risk, whereas between-player subsequent injury risk was quantified by comparing players who had sustained one of the common injuries against those who had not sustained the common injury. HRs and 95% CIs were calculated. Specific body area and tissue type were also determined for new injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Concussion increased the within-player overall injury risk (HR 1.26 (95% CI 1.11 to 1.42)), elevating head/neck (HR 1.47 (95% CI 1.18 to 1.83)), pelvic region (HR 2.32 (95% CI 1.18 to 4.54)) and neurological (HR 1.38 (95% CI 1.08 to 1.76)) injury risk. Lateral ankle sprains decreased within-player injury risk (HR 0.77 (95% CI 0.62 to 0.97)), reducing head/neck (HR 0.60 (95% CI 0.39 to 0.91)), upper leg and knee (HR 0.56 (95% CI 0.39 to 0.81)), joint and ligament (HR 0.72 (95% CI 0.52 to 0.99)) and neurological (HR 0.55 (95% CI 0.34 to 0.91)) injury risk. Concussion (HR 1.24 (95% CI 1.10 to 1.40)), thigh haematomas (HR 1.18 (95% CI 1.04 to 1.34)) and hamstring muscle strains (HR 1.14 (95% CI 1.01 to 1.29)) increased between-player subsequent injury risk."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Elevated within-player injury risk was only evident following concussive injuries, while lateral ankle sprains reduced the risk. Both concussion and ankle injuries altered head/neck and neurological injury risk, but in opposing directions. Understanding why management of ankle sprains might be effective, while current concussion management is not at reducing such risks may help inform concussion return to play protocols."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

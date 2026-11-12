@@ -1,0 +1,39 @@
+{
+  "pmid": "40536551",
+  "title": "Return to Running After Achilles Tendon Repair: How Do US Navy Service Members' Physical Readiness Tests Change After Undergoing an Achilles Tendon Repair?",
+  "year": "2025",
+  "journal": "Clinical orthopaedics and related research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon ruptures are common injuries among adults that can cause substantial pain and disability. While prior studies have reported on return-to-play rates in athletes, limited data exist regarding functional outcomes in both runners and within a military population; such data may also help inform care for active civilian patients."
+    },
+    {
+      "label": "QUESTIONS/PURPOSES",
+      "text": "(1) How do US Navy service members undergoing Achilles tendon repairs perform on the cardiovascular section of their physical readiness test preoperatively compared with postoperatively? (2) How do US Navy service members undergoing Achilles tendon repairs perform on the cardiovascular section of their physical readiness test on consecutive postoperative physical readiness tests?"
+    },
+    {
+      "label": "METHODS",
+      "text": "This was a retrospective analysis of data from 2014 to 2020 from the outpatient Military Health System Medical Data Repository and Physical Readiness Information Management System. Achilles tendon rupture was identified using a procedure code from the Medical Data Repository (code 27650). The Physical Readiness Information Management System has electronic records of all the physical readiness tests completed by Navy personnel. As such, the study was limited to Navy personnel. The study cohort included 1057 Navy personnel who sustained an Achilles tendon rupture and underwent operative repair. Service members who underwent more than one operative repair during the study period (9.8% [104 of 1057]) were excluded. Another 41.7% (441 of 1057) were excluded for not having a valid cardiovascular physical readiness test within 30 to 730 days before or 90 to 730 days after operative repair. Forty-three percent (451 of 1057) of Navy personnel were included in the analyzed cohort. These service members underwent one Achilles tendon repair and had cardiovascular physical readiness test assessments from before and after the operative repair. The cardiovascular component was stratified into four subgroups: individuals who biked before and after Achilles tendon rupture (35% [156 of 451]), those who ran (28% [127]), those who ran before Achilles tendon rupture but transitioned to another cardiovascular test after operative repair (32% [144]), and those who performed an alternative cardiovascular test (5% [24]). Cardiovascular assessments performed 30 to 730 days before were utilized to capture all patients who had completed an assessment within the 2 years prior to sustaining the Achilles tendon rupture. Postoperatively, cardiovascular assessments would not typically be recommended by the orthopaedic surgeon until at least 90 days after the procedure. Postoperative cardiovascular assessments were included up to 2 years postoperatively to evaluate initial performance after surgical repair and subsequent performances if numerous physical readiness tests were completed after the repair. The study cohort was predominantly male (94.4%) with a mean age of 33 years. Differences in physical readiness test scores before and after Achilles tendon repair for the bike and run subgroups were compared while adjusting for age, time since procedure, and sex. Changes in physical readiness test categories before and after Achilles tendon rupture were evaluated by converting the categories into discrete scores (outstanding = 5, excellent = 4, good = 3, satisfactory = 2, probationary = 1, failure = 0) and using a paired t-test for all cardiovascular subgroups. For example, a US Navy male age 30 to 35 years would receive an outstanding (discrete score = 5) if his 1.5-mile run time was < 10 minutes, while he would receive a failure, discrete score of 0, if his 1.5-mile run time was > 14 minutes and 30 seconds. The proportions of individuals who improved, decreased, or maintained fitness categories were reported. The analysis described was repeated for a subgroup of individuals who completed two postoperative cardiovascular physical readiness tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We found that individuals performed worse on their physical readiness tests after Achilles tendon rupture compared with their preinjury scores for the biking subgroup (10 seconds; p = 0.02) and the 1.5-mile running subgroup (41 seconds; p < 0.001). When analyzing the changes in fitness category levels, there was no difference for the biking subgroup. Eighty-five percent (132 of 156) of individuals maintained or improved their physical readiness test scores after Achilles tendon rupture for the biking subgroup, in contrast to 74% (106 of 144) for the run-to-another subgroup and 69% (88 of 127) for the running subgroup. There were between 0% (0) and 1.5% (2) first-time physical readiness test failures after Achilles tendon repair. Last, 165 members underwent additional analysis with two postoperative physical readiness test scores available for the biking and running subgroup. Participants improved their running scores (18 seconds; p = 0.004) but not their biking scores."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our findings can help orthopaedic surgeons to counsel active individuals, especially male runners. Runners undergoing Achilles tendon repair may run more slowly (approximately 41 seconds on a 1.5-mile run); however, these times will tend to improve over time even 1 year after Achilles tendon repair. Still, numerous unanswered questions remain regarding whether these changes in run times persist when compared with nonoperatively treated Achilles tendon ruptures, the specific type of surgical procedures performed, and the postoperative protocol utilized, which are all avenues for future research."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, therapeutic study."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "39253290",
+  "title": "Association Between Longitudinal Changes in Patellar Tendon Abnormality and Land-Jump Biomechanics in Male Collegiate Basketball Players.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The relationship between self-reported symptoms and the severity of patellar tendon abnormality (PTA) as seen on magnetic resonance imaging and ultrasound is unclear, but biomechanical testing may resolve this."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To (1) compare land-jump limb biomechanics between pre- and postseason timepoints, (2) assess whether seasonal changes in biomechanics are associated with seasonal changes in PTA and symptom severity, and (3) explore models that identify seasonal changes in PTA and symptoms with seasonal changes in biomechanics in collegiate basketball players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Victorian Institute of Sport Assessment Scale - Patellar Tendon (VISA-P) scores and bilateral measurements from 18 National Collegiate Athletic Association Division I and II male basketball players (n = 36 limbs) at the preseason (visit 1) and postseason (visit 2) timepoints were collected. PTA was graded with ultrasound and magnetic resonance imaging morphology measurements proximally and distally, and 3-dimensional lower extremity sagittal kinematics and kinetics were measured during a land-jump test. Multivariate and chi-square analyses assessed timepoint differences. The association of seasonal (Δ = visit 2 - visit 1) biomechanics with seasonal morphology (Δ<sub>PTA</sub>: no change/worsened) and symptoms (Δ<sub>VISA-P</sub>: improved/no change/worsened) was tested with multivariate models. Logistic regressions modeled the accuracy of seasonal biomechanics to classify seasonal PTA and symptoms."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Three athletes (6 limbs) at visit 1 and 2 athletes (4 limbs) at visit 2 were symptomatic. VISA-P scores were not significantly different between preseason and postseason. Regarding PTA, multivariate analyses found differences among grouped ground-reaction force variables (<i>P</i> < .05); univariate analyses found that worsened PTA was associated with seasonal decreases in peak vertical jumping force and with seasonal increases in knee flexion velocity at contact and maximum knee flexion velocity (<i>P</i> < .05 for all). Regarding VISA-P scores, multivariate analyses found differences among grouped hip (<i>P</i> < .01) and ankle (<i>P</i> < .05) kinematic variables; univariate analyses found that worsened VISA-P was associated with seasonal increases in hip (<i>P</i> < .01) and knee (<i>P</i> < .01) flexion velocity at contact and seasonal increases in ankle range of motion (<i>P</i> < .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The findings demonstrated an association between seasonal changes in dynamic lower extremity biomechanics and seasonal changes in patellar tendon imaging signals as well as self-reported symptoms."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

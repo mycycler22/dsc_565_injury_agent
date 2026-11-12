@@ -1,0 +1,40 @@
+{
+  "pmid": "18490475",
+  "title": "Section modulus is the optimum geometric predictor for stress fractures and medial tibial stress syndrome in both male and female athletes.",
+  "year": "2008",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Various tibial dimensions and geometric parameters have been linked to stress fractures in athletes and military recruits, but many mechanical parameters have still not been investigated."
+    },
+    {
+      "label": "HYPOTHESES",
+      "text": "Sedentary people, athletes with medial tibial stress syndrome, and athletes with stress fractures have smaller tibial geometric dimensions and parameters than do uninjured athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Using a total of 88 subjects, male and female patients with either a tibial stress fracture or medial tibial stress syndrome were compared with both uninjured aerobically active controls and uninjured sedentary controls. Tibial scout radiographs and cross-sectional computed tomography images of all subjects were scanned at the junction of the midthird and distal third of the tibia. Tibial dimensions were measured directly from the films; other parameters were calculated numerically."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Uninjured exercising men have a greater tibial cortical cross-sectional area than do their sedentary and injured counterparts, resulting in a greater value of some other cross-sectional geometric parameters, particularly the section modulus. However, for women, the cross-sectional areas are either not different or only marginally different, and there are few tibial dimensions or geometric parameters that distinguish the uninjured exercisers from the sedentary and injured subjects. In women, the main difference between the groups was the distribution of cortical bone about the centroid as a result of the different values of section modulus. Last, medial tibial stress syndrome subjects had smaller tibial cross-sectional dimensions than did their uninjured exercising counterparts, suggesting that medial tibial stress syndrome is not just a soft-tissue injury but also a bony injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The results show that in men, the cross-sectional area and the section modulus are the key parameters in the tibia to distinguish exercise and injury status, whereas for women, it is the section modulus only."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

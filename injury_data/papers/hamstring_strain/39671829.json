@@ -1,0 +1,20 @@
+{
+  "pmid": "39671829",
+  "title": "Hamstring activation deficits during Double-Leg Jump-Landing tasks in athletes with hamstring strain injuries using EMG Time-Frequency analysis.",
+  "year": "2025",
+  "journal": "Journal of biomechanics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study aimed to investigate the hamstring activation in athletes with hamstring strain injuries in vertical jump tasks using an EMG time-frequency analysis. Fifteen injured athletes and 15 matched controls were recruited. The EMG signals of the lateral hamstring (LH) and medial hamstring (MH) were assessed during countermovement, squat, and drop vertical jump tasks. Wavelet analysis was used to analyze the hamstring activation during takeoff, flight, and landing phases. The kinetics outcomes were also investigated. The results showed a significantly lower mean frequency of the LH and MH for all phases and jumps in the injured group compared to the control group (p < 0.05). The activation deficit led to a higher landing force (p = 0.028) and loading rate (p = 0.024) in the injured athletes. The hamstrings were recruited to a greater extent during the countermovement jump compared to the other two jumping tasks. In conclusion, athletes with prior hamstring strain displayed neuromuscular deficits, indicating neuronal alteration after the strain. The persistent activation deficits led to a degraded jump-landing performance. In addition, the hamstring recruitment differed in different jumping tasks. The findings suggest that neuromuscular training may be beneficial as part of the daily training drills of hamstring strains."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

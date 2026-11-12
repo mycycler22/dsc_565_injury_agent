@@ -1,0 +1,40 @@
+{
+  "pmid": "42745412",
+  "title": "Outcomes and Return-to-Sport Rates of Competitive Athletes Treated for Femoroacetabular Impingement Syndrome With Contemporary Hip Arthroscopy Techniques: A Matched Comparison to Early Techniques.",
+  "year": "2026",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hip arthroscopy for the treatment of femoroacetabular impingement syndrome (FAIS) and labral tears has evolved over time with varying methods of labral and capsular treatment."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To report patient-reported outcomes (PROs) and return-to-sport (RTS) rates of athletes undergoing primary hip arthroscopy with contemporary techniques and compare their outcomes to those of athletes treated with early techniques."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective analysis of the records of patients who underwent primary hip arthroscopy for the treatment of FAIS and labral tears was performed. All patients reported preoperative participation in sports within 1 year of surgery. The contemporary arthroscopy (CA) cohort underwent capsular repair, and labral treatment was either repair or reconstruction with knotless anchors. The early technique (ET) cohort received labral treatment with either a knotted repair or debridement and did not have capsular repair. Patients had a 2-year minimum follow-up for PROs or an endpoint. The cohorts underwent 1:1 propensity matching for age, sex, body mass index, and level of competition. Clinically important thresholds, PROs, secondary surgeries, and RTS rates were compared."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 98 hips (92 patients) were included in the study. Athletes in both cohorts demonstrated significant improvement in PROs. The CA and ET cohorts had similar baseline PROs, yet the CA cohort achieved higher postoperative values for modified Harris Hip Score (mHHS), Non-Arthritic Hip Score (NAHS), 12-item International Hip Outcome Tool score, and Hip Outcome Score-Sports Specific Subscale (HOS-SSS) (<i>P</i> < .05). The CA cohort met clinical thresholds at higher rates for mHHS, NAHS, and HOS-SSS (<i>P</i> < .05). Athletes in the CA cohort returned to sport at a higher rate than those in the ET group (97.6% vs 81.0%; <i>P</i> = .03)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes undergoing hip arthroscopy with contemporary techniques for FAIS and labral tears demonstrated greater magnitudes of improvement in PROs and met clinical thresholds at higher rates than athletes in the ET group. Additionally, athletes in the CA cohort returned to sport at higher rates when compared to athletes in the ET cohort."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

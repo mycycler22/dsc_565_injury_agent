@@ -1,0 +1,39 @@
+{
+  "pmid": "20205851",
+  "title": "Management of Tennis Elbow with sodium hyaluronate periarticular injections.",
+  "year": "2010",
+  "journal": "Sports medicine, arthroscopy, rehabilitation, therapy & technology : SMARTT",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine the efficacy and safety of peri-articular hyaluronic acid injections in chronic lateral epicondylosis (tennis elbow)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective randomized clinical trial in primary care sport medicine."
+    },
+    {
+      "label": "PATIENTS",
+      "text": "Three hundred and thirty one consecutive competitive racquette sport athletes with chronic (>3 months) lateral epicondylosis were administered 2 injections (first injection at baseline) into the subcutaneous tissue and muscle 1 cm. from the lateral epicondyle toward the primary point of pain using a two-dimensional fanning technique. A second injection was administered 1 week later."
+    },
+    {
+      "label": "OUTCOMES MEASURES",
+      "text": "Assessments were done at baseline, days 7, 14, 30, 90 and 356. Efficacy measures included patient's visual analogue scale (VAS) of pain at rest (0-100 mm) and following assessment of grip strength (0-100 mm). Grip strength was determined using a jamar hydraulic hand dynamometer. Other assessments included patients' global assessment of elbow injury (5 point categorical scale; 1 = no disability, 5 = maximal disability), patients' assessment of normal function/activity (5 point categorical scale), patients/physician satisfaction assessment (10 point categorical scale), time to return to pain-free and disability-free sport and adverse events as per WHO definition. Differences between groups were determined using an intent-to-treat ANOVA."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Average age of the study population was 49 years (+/- 12 years). One hundred and sixty-five patients were randomized to the HA and 166 were randomized to the control groups. The change in VAS pain was -6.7 (+/- 2.0) for HA vs -1.3 (+/- 1.5) for control (p < 0.001). The VAS post handgrip was -7.8 (+/- 1.3) vs +0.3 (+/- 2.0) (p < 0.001) which corresponded to a significant improvement in grip of 2.6 kg in the HA vs control groups (p < 0.01). Statistically significant improvement in patients' global assessment of elbow injury (p < 0.02), patients' assessment of normal function/activity (p < 0.05) and patients/physician satisfaction assessment (p < 0.05) were also observed favoring the HA group. Time to return to pain-free and disability-free sport was 18 (+/- 11) days in the HA group but was not achieved in the control group. VAS changes were maintained in the HA group at each followup while those in the control significantly declined from baseline. Assessment of patient and physician satisfaction continued to favor the HA group at subsequent followup."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Peri-articular HA treatment for tennis elbow was significantly better than control in improving pain at rest and after maximal grip testing. Further, HA treatment was highly satisfactory by patients and physicians and resulted in better return to pain free sport compared to control."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

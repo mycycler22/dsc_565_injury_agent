@@ -1,0 +1,20 @@
+{
+  "pmid": "31757251",
+  "title": "Sports Medicine Update: Concussion.",
+  "year": "2020",
+  "journal": "Emergency medicine clinics of North America",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "A systematic approach is required for patients with a suspected concussion. Although standardized tools can aid in assessment, the diagnosis of concussion remains a clinical one. At the time of diagnosis, patients should be given both verbal and written review of the common symptoms of concussion, expected course of recovery, as well as strategies to manage symptoms. Most patients benefit from a brief period of rest, followed by a gradual reintroduction of activities, and a graduated return-to-sport protocol. Patients with prolonged recovery from a concussion may benefit from exercise, vestibular, and cognitive rehabilitation programs."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

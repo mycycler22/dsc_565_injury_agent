@@ -1,0 +1,31 @@
+{
+  "pmid": "24949906",
+  "title": "Spondylolysis outcomes in adolescents after direct screw repair of the pars interarticularis.",
+  "year": "2014",
+  "journal": "Journal of neurosurgery. Spine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECT",
+      "text": "Isthmic spondylolysis can significantly decrease functional abilities, especially in adolescent athletes. Although treatment can range from observation to surgery, direct screw placement through the fractured pars, or Buck's procedure, may be a more minimally invasive procedure than the more common pedicle screw-hook construct."
+    },
+    {
+      "label": "METHODS",
+      "text": "Review of surgical databases identified 16 consecutive patients treated with Buck's procedure from 2004 to 2010. Twelve patients were treated at Miami Children's Hospital and 4 at Barrow Neurological Institute. Demographics and clinical and radiographic outcomes were recorded and analyzed retrospectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The 16 patients had a median age of 16 years, and 14 were 20 years or younger at the time of treatment. Symptoms included axial back pain in 100% of patients with concomitant radiculopathy in 38%. Pars defects were bilateral in 81% and unilateral in 19% for a total of 29 pars defects treated using Buck's procedure. Autograft or allograft augmented with recombinant human bone morphogenetic protein as well as postoperative bracing was used in all cases. Postoperatively, symptoms resolved completely or partially in 15 patients (94%). Of 29 pars defects, healing was observed in 26 (89.6%) prior to 1 revision surgery, and an overall fusion rate of 97% was observed at last radiological follow-up. There were no implant failures. All 8 athletes in this group had returned to play at last follow-up."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Direct screw repair of the pars interarticularis defect as described in this series may provide a more minimally invasive treatment of adolescent patients with satisfactory clinical and radiological outcomes, including return to play of adolescent athletes."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

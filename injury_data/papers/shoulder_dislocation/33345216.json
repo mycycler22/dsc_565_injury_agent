@@ -1,0 +1,31 @@
+{
+  "pmid": "33345216",
+  "title": "Shoulder instability, performance, and return to play in National Hockey League players.",
+  "year": "2020",
+  "journal": "JSES international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The shoulder is a commonly injured area in hockey, yet information is lacking on the prevalence and effect of shoulder instability. Our study investigates the incidence of shoulder dislocation events in the National Hockey League (NHL) and the effects on return-to-play (RTP) and player performance. We hypothesize that NHL players would have high RTP rates without significant changes in performance after injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "NHL players who suffered in-season shoulder instability events between 2003-2004 and 2017-2018 seasons were identified. Demographic characteristics, incidence of injury, recurrences, RTP, and statistical performance data were collected. Postinjury performance was compared with experience-matched, era-matched, position-matched, and age-matched controls. A mixed generalized linear regression model was used to compare postinjury performance as a function of operative and nonoperative treatment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 57 players experienced 67 shoulder instability events with 98.5% of players returning to play after an average of 26.3 ± 20.8 regular season games missed. Surgery was performed in 47.8% of players with no recurrent injuries postoperatively. Nonoperatively managed players experienced a decrease in points per game (<i>P</i> = .034) compared with surgically treated patients. Recurrence occurred in 14.3% of conservatively managed players, with 33.3% experiencing a season-ending injury. Players with recurrent injuries missed significantly more career games compared with those treated initially with surgery (<i>P</i> = .00324)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Professional hockey players experience high rates of RTP with acceptable performance outcomes after shoulder instability events; however, recurrent injuries led to significantly more career games missed when treated nonoperatively at the time of injury."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

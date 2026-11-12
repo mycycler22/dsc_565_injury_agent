@@ -1,0 +1,35 @@
+{
+  "pmid": "32809066",
+  "title": "MRI of tibial stress fractures: relationship between Fredericson classification and time to recovery in pediatric athletes.",
+  "year": "2020",
+  "journal": "Pediatric radiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tibial stress fractures are not uncommon in pediatric athletes. The severity of injury may be graded using magnetic resonance imaging (MRI)."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine whether Fredericson MRI grading of tibial stress fractures can differentiate times to recovery across different grades in pediatric athletes."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "A medical record search identified all athletes younger than 19 years old who had tibial stress fractures confirmed by MRI and were treated by sports medicine specialists in our clinic system over a 5-year period. Two pediatric radiologists graded MRI exams using the Fredericson system. Time to recovery (in days) was defined in four ways: pain onset to full participation, pain onset to zero pain, first treatment to full sport participation and first treatment to zero pain. Recovery times were compared to tibial stress fracture Fredericson MRI grade and to the use of a recovery device."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-eight pediatric athletes (age range: 7-18 years, mean: 15.4±2.2 years) had 42 tibial stress fractures while participating in 12 different sports. About half (55%) were track and/or cross-country athletes. The mean time from diagnosis to report of no pain for all patients was 55.6±5.0 days. We found no significant difference in time to recovery across stress fracture grade or with the use of a recovery device."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "No differences were noted between Fredericson stress fracture grades and different time periods to recovery or between differences in recovery time and the return to full participation in sports, regardless of the use of assistive devices."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

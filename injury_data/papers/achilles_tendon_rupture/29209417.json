@@ -1,0 +1,32 @@
+{
+  "pmid": "29209417",
+  "title": "Do athletes alter their running mechanics after an Achilles tendon rupture?",
+  "year": "2017",
+  "journal": "Journal of foot and ankle research",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Over the past thirty years, there has been dramatic increase in incidence of Achilles tendon rupture in the athletic population. The purpose of this study was to compare the lower extremity mechanics of Achilles tendon ruptured runners with healthy controls."
+    },
+    {
+      "label": "METHODS",
+      "text": "The participants with a past history of an Achilles tendon repair (<i>n</i> = 11) and healthy control (<i>n</i> = 11) subgroups were matched on sex, age, type of regular physical activity, mass, height, footfall pattern and lateral dominancy. Running kinetics and kinematics of the ankle, knee and hip were recorded using a high-speed motion capture system interfaced with a force platform. Achilles tendon length was measured using ultrasonography. Main outcome measures were lower extremity joint angles and moments during stance phase of running and Achilles tendon lengths."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes from Achilles tendon group had an affected gastro-soleus complex. Athletes with history of Achilles tendon rupture had reduced ankle range of motion during second half of the stance phase of running (Δ7.6°), an overextended knee during initial contact (Δ5.2°) and increased affected knee range of motion (Δ4.4°) during the first half of stance phase on their affected limb compared to the healthy control group. There was a 22% increase in the maximal hip joint moment on contralateral side of the Achilles tendon group compared to the healthy controls."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "These results suggest a compensation mechanism, relatively extended knee at initial ground contact against the deficit in the muscle-tendon complex of the triceps surae. Overextension during sporting activities may place the knee at risk for further injury. Avoidance of AT lengthening and plantarflexion strength deficit after surgery and during rehabilitation might help to manage AT rupture since these factors may be responsible for altered running kinematics."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

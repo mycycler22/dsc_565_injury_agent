@@ -1,0 +1,41 @@
+{
+  "pmid": "31094981",
+  "title": "First-Rib Stress Fracture in Overhead Throwing Athletes.",
+  "year": "2019",
+  "journal": "The Journal of bone and joint surgery. American volume",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "First-rib stress fracture is considered a potential cause of nonspecific atraumatic chronic shoulder pain in adolescent athletes. However, the etiology in throwing athletes with first-rib fracture is still unknown. The purpose of this retrospective study was to investigate the characteristic clinical features and radiographic findings of overhead throwing athletes with first-rib fracture."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-four first-rib stress fractures in 23 players were studied retrospectively. Clinical features, including age, initial symptom, sports, pain-related activity, diagnostic method, treatment method, and final follow-up, were reviewed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The following characteristic clinical features were identified: mean age of 16.8 years (range, 13 to 25 years), 19 dominant arm injuries and 5 non-dominant arm injuries, and an acute increase in pain while swinging the bat or pitching the ball. Sixteen fractures presented with posterior shoulder or upper thoracic back pain. At a mean time of 7.5 months after the initiation of conservative treatment, 17 healing fractures (71%) and 7 nonunion fractures (29%) among throwing athletes with first-rib stress fracture were identified. On image analysis, first-rib stress fractures were classified into 3 types depending on the direction and location of fracture lines: groove, intrascalene, and posterior types. Three symptomatic patients underwent first-rib resection due to thoracic outlet syndrome. On average, 46% of the first rib was visible on the shoulder radiographs and 97% was visible on the cervical spine radiographs. The Cohen kappa coefficient for the above percentages was 0.87 and the percent agreement was 89.4% for the shoulder, and the Cohen kappa coefficient was 0.80 and the percent agreement was 99.0% for the cervical spine."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "First-rib stress fracture should be considered when adolescent overhead throwing athletes have acute-onset posterior shoulder pain while swinging the bat or pitching the ball. Anteroposterior radiography of the cervical spine is available for initial diagnosis. Although 71% of the patients healed at a mean follow-up of 7.5 months with conservative treatment, some patients may have symptoms consistent with thoracic outlet syndrome."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "At a mean time of 7.5 months after the initiation of conservative treatment, 17 healing fractures (71%) and 7 nonunion fractures (29%) among throwing athletes with first-rib stress fracture were identified."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

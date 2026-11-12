@@ -1,0 +1,47 @@
+{
+  "pmid": "34961379",
+  "title": "Association of Ankle Dorsiflexion and Landing Forces in Jumping Athletes.",
+  "year": "2022",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Dorsiflexion range of motion restriction has been associated with patellar tendinopathy, but the mechanisms of how dorsiflexion restriction could contribute to knee overload remain unknown."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Peak ankle dorsiflexion and ankle dorsiflexion excursion are negatively associated with peak vertical ground-reaction force (vGRF) and loading rate, and with peak patellar tendon force and loading rate, and positively associated with peak ankle plantar flexor moment."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Kinematic and kinetic data of 26 healthy recreational jumping athletes were measured during a single-leg drop vertical jump. Pearson's correlation coefficients were calculated to establish the association between peak ankle dorsiflexion and ankle dorsiflexion excursion with peak vGRF and vGRF loading rate, with peak patellar tendon force and patellar tendon force loading rate, and with peak ankle plantar flexor moment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ankle dorsiflexion excursion negatively correlated with peak vGRF loading rate (<i>r</i> = -0.49; <i>P</i> = 0.011) and positively correlated with peak ankle flexor plantar moment (<i>r</i> = 0.52; <i>P</i> = 0.006). In addition, there was a positive correlation between peak ankle dorsiflexion and peak vGRF (<i>r</i> = 0.39; <i>P</i> = 0.05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Ankle kinematics are associated with vGRF loading rate, ankle flexor plantar moment and peak vGRF influencing knee loads, but no association was observed between ankle kinematics and patellar tendon loads."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "These results suggest that increasing ankle dorsiflexion excursion may be an important strategy to reduce lower limb loads during landings but should not be viewed as the main factor for reducing patellar tendon force."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

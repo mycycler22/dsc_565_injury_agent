@@ -1,0 +1,19 @@
+{
+  "pmid": "39758174",
+  "title": "Evolution of injury burden in Qatari professional football - 8 season data from the Aspetar Injury and Illness Surveillance Programme.",
+  "year": "2025",
+  "journal": "Biology of sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Prospectively collected injury surveillance data are essential for designing and implementing injury prevention programmes. We investigated the incidence, characteristics and patterns of professional football injuries in Qatar, providing details on the most observed injuries' burden. We prospectively recorded individual time-loss injuries and training/match exposure from 17 professional football teams in Qatar during 8 seasons (2014/15 to 2021/22). Injury definitions and data collection procedures followed the 2006 consensus statement and results reported according to the 2020 IOC consensus statement on football injuries and methodology of epidemiological studies on injuries, respectively. In total, 1466 players with 4789 registered injuries were followed. The overall injury burden was 129 [95% CI: 128-130] days/1000 h. Over the 8 seasons there was a significant decreasing trend in the incidence of gradual onset injuries (p = 0.0012) and a non-significant decreasing trend for suddenonset match injuries (p = 0.063). The injury burden for match injuries was greater than the burden resulting from training injuries (460 [95% CI: 460-460] vs 56 [95% CI: 55-57] days/1000 h, p < 0.0001). There was no difference in time loss between index and recurrent injuries. Hamstring muscle strain represented the most frequent injury with a median of 11 (inter-quartile 5-20) days to return to play (RTP). ACL complete tear was the most impactful injury, in term of return to play, with a median of 200 (116-253) days to RTP. Re-injuries constituted 10.8% (4.7% of exacerbations). Mean illness incidence was 1.1 (SD = 0.4) illness/1000 hours, representing 5 illnesses per squad per season, with no variation over time. Qatari professional football is characterized by an overall injury pattern and risk similar to Asian and European norms. There was a significant decreasing trend in the incidence of gradual onset injuries and a non-significant decreasing trend for sudden-onset match injuries."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

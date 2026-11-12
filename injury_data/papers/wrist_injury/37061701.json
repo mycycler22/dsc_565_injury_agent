@@ -1,0 +1,35 @@
+{
+  "pmid": "37061701",
+  "title": "Evaluation of hand functions and distal radioulnar joint instability in elite wheelchair basketball athletes: a cross-sectional pilot study.",
+  "year": "2023",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Wrist injury affects wheelchair basketball players' performance; however, the relationship between distal radioulnar joint (DRUJ) instability and hand functions is unclear. This cross-sectional pilot study investigated DRUJ instability in elite female wheelchair basketball athletes using force-monitor ultrasonography."
+    },
+    {
+      "label": "METHODS",
+      "text": "Nine elite female wheelchair basketball athletes (18 wrists) were included in the study. A triangular fibrocartilage complex (TFCC) injury was confirmed using magnetic resonance imaging (MRI). Hand functions were evaluated based on the range of motion (ROM) of wrist palmar flexion, dorsiflexion, radial deviation, and ulnar deviation; grip strength; arm circumference; forearm circumference; and DRUJ instability or pain using the ballottement test. The Mann-Whitney U test was used to compare parameters between the TFCC-injured and intact wrists. Radioulnar displacement was measured using force-monitor ultrasonography and pressure data, and the displacement-to-force ratio was used as an indicator of DRUJ instability. The correlation between the DRUJ displacement-to-force ratio and each hand function assessment was evaluated using Pearson correlation coefficient for the TFCC-injured and intact wrists. A generalized linear mixed model (GLMM) was used to estimate the relationship between hand functions and DRUJ instability."
+    },
+    {
+      "label": "RESULTS",
+      "text": "TFCC injuries in seven wrists were confirmed using MRI findings (38.9%). The ulnar deviation ROM values of the TFCC-injured wrist (n = 7) and intact (n = 11) groups were 38.6 ± 8.0° and 48.6 ± 7.8°, respectively. The ulnar deviation ROM was significantly smaller in the TFCC-injured wrists (p = 0.02, r = - 0.54). In the TFCC-injured wrists, no correlation was observed between the displacement-to-force ratio and the hand function assessment. In contrast, the displacement-to-force ratio negatively correlated with grip strength, arm circumference, and forearm circumference in the intact wrists (Pearson correlation coefficient r = - 0.78, - 0.61, and - 0.74, respectively). The GLMM showed that the displacement-to-force ratio significantly affected grip strength, arm circumference, and forearm circumference in the intact group."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In intact wrists, correlations were observed between hand functions such as upper arm/forearm strength and DRUJ stability evaluated using ultrasound. Maintaining and strengthening grip strength, forearm circumference, and arm circumference are associated with DRUJ stability and may be related to TFCC injury prevention in wheelchair basketball athletes."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "The protocol was registered with the UMIN Clinical Trials Registry (UMIN000043343) [Date of first registration: 16/02/2021]."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

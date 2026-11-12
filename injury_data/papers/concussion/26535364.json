@@ -1,0 +1,43 @@
+{
+  "pmid": "26535364",
+  "title": "Baseline Neurocognitive Performance in Professional Lacrosse Athletes.",
+  "year": "2014",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Concussions have become a major public health concern for both youth and professional athletes. The long-term consequences of concussion can be debilitating or even life threatening. To reduce these concerns, baseline neurocognitive performance can aid decision making in postconcussion recovery and return to play for athletes sustaining concussions. To date, these data are not available for lacrosse athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To present baseline neurocognitive performance for Major League Lacrosse (MLL) players and to determine differences between athletes with and without a history of concussion."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was conducted of Immediate Post-Concussion Assessment and Cognitive Testing (ImPACT) scores from MLL players who completed baseline testing from June 2010 to June 2011. Inclusion required a valid baseline test and no history of concussion in the 3 months prior to testing. Means ± standard deviations were computed for all demographic variables and ImPACT composite scores including visual and verbal memory, reaction time, and visual motor processing speed. Independent-samples t tests were used to determine differences between athletes with and without a history of concussion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Valid baseline ImPACT testing was available for 235 MLL athletes (mean age, 25.1 ± 3.0 years). Forty percent of MLL athletes (n = 94) reported a history of concussion, with 14% of those (n = 13) reporting a history of 3 or more previous concussions. There were no differences on any demographic variables between MLL athletes with and without a history of concussion. MLL athletes with a history of concussion had lower ImPACT composite scores than those without a history of concussion, although only the verbal memory composite was found to be statistically significant (MLL with concussion, 83.2 ± 10.8 vs MLL without concussion, 86.9 ± 9.5; P = .007)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study establishes baseline ImPACT scores for MLL and demonstrates that athletes with a history of concussion have poorer neurocognitive performance compared with MLL athletes without a history of concussion."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "These data can serve as normative values for subsequent testing following concussion to assess neurocognitive recovery."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

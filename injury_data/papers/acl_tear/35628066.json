@@ -1,0 +1,19 @@
+{
+  "pmid": "35628066",
+  "title": "Evidence-Based Data Models for Return-to-Play Criteria after Anterior Cruciate Ligament Reconstruction.",
+  "year": "2022",
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The anterior cruciate ligament (ACL) tear is one of the most common knee injuries in sports that require side-to-side pivoting movements. While the timeline and specific goals during rehabilitation protocols may vary, ACL reconstruction (ACLR) is the preferred procedure necessary to return these athletes to their respective field of play. However, there are no validated guidelines that define a specific timepoint when it is safe for an athlete to return-to-play, as functional movement deficit may be present much longer than six months post ACLR. A retrospective cross-sectional analysis was conducted on 33 subjects that underwent ACLR. As a part of standard of care, each subject completed a movement screening protocol at a singular timepoint during their rehabilitation process. An innovative three-dimensional markerless motion capture system was used to obtain three algorithm-derived biometric variables: mobility, alignment, and readiness. Significant gradual improvements in mobility and readiness were observed throughout a 3-6-month post ACLR procedure period. When examining the data trends, it was obvious that not all patients responded identically to treatment plans provided by clinical professionals. Therefore, the findings of the present study suggest that the decision regarding when it is safe to return to play needs to be determined on an individual basis."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

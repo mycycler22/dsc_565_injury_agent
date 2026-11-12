@@ -1,0 +1,35 @@
+{
+  "pmid": "39700184",
+  "title": "Effect of physiotherapy interventions on pain management, function and quality of life in patellofemoral pain syndrome: A systematic review protocol.",
+  "year": "2024",
+  "journal": "PloS one",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain syndrome (PFPS) is a prevalent and often debilitating condition, affecting approximately 22.7% of the population and significantly contributing to knee-related disorders. It primarily impacts young athletes and sedentary individuals, impairing their quality of life and functional abilities. Despite extensive research, the optimal management strategies for PFPS remain contentious due to its multifactorial etiology and persistent symptoms. The findings of this review will guide clinical practice and future research, ultimately improving outcomes for individuals with PFPS."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This systematic review aims to evaluate the effectiveness of physiotherapy interventions in alleviating pain, enhancing functional outcomes, and improving the quality of life among runners who have been diagnosed with PFPS."
+    },
+    {
+      "label": "METHODS",
+      "text": "This review will be carried out on randomized controlled trials (rcts) that assess any type of physiotherapy intervention for PFPS in runners. Eligible studies must report on pain intensity, functional improvement, or quality of life outcomes. Searches will be conducted in pubmed/MEDLINE, Cochrane Library, and pedro, covering publications from May 2014 to April 2024. Two reviewers will independently screen and select studies, extract data, and assess quality using the Cochrane Risk of Bias tool. We will perform a narrative synthesis of the data, focusing on pain management, functional recovery, and quality of life improvements. Sensitivity and subgroup analyses will explore variations across study designs and participant characteristics."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This systematic review protocol seeks to identify effective physiotherapy interventions for managing PFPS in runners. By analyzing rcts, the review will provide evidence-based recommendations to reduce pain, improve function, and enhance quality of life. The findings will guide clinical decisions."
+    },
+    {
+      "label": "SYSTEMATIC REVIEW REGISTRATION",
+      "text": "International Prospective Register of Systematic Reviews (PROSPERO) under ID: CRD42024531888. Date- 7/05/2024, URL https://www.crd.york.ac.uk/prospero/#recorddetails."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

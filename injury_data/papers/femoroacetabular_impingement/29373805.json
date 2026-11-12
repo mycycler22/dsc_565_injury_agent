@@ -1,0 +1,41 @@
+{
+  "pmid": "29373805",
+  "title": "Systematic Review and Meta-analysis of Outcomes After Hip Arthroscopy in Femoroacetabular Impingement.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement (FAI) has become a more commonly recognized cause of limited hip range of motion and hip pain among young adults and athletes. Hip arthroscopy is recommended for the surgical treatment of this disorder, unless specific contraindications exist. Despite the increasing rate of published studies in this area, there remains no aggregate data for outcomes after this approach."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate risk factors and outcomes after arthroscopic management of FAI, including return to play, revision rate, surgical and nonsurgical complications, change in α-angle, intraoperative bone resection, and patient-reported outcomes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Meta-analysis and systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A review of the current literature was performed with the terms \"femoroacetabular impingement,\" \"hip arthroscopy,\" and numerous variations thereof in PubMed, EMBASE, BioMed Central, Cochrane, Science Direct, and Scopus, yielding 1723 abstracts. After screening by eligibility criteria, 31 articles were included. The incidence of bilateral FAI was determined by enrollment data, and pooled estimates were calculated for postoperative patient-reported outcome measures, α-angles, return to sport, postoperative complications, and reoperation risk."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 1981 hips among 1911 patients were identified, with a mean ± SD age of 29.9 ± 1.9 years and 29.5 ± 14.0 months of follow-up. The incidence of bilateral FAI in these studies that required operative intervention was 3.6%. The pooled risk of reoperation after hip arthroscopy, including revision surgery or subsequent total hip arthroplasty, was 5.5% (95% CI, 3.6%-7.5%). The risk of clinical complications was 1.7% (95% CI, 0.9%-2.5%). In total, 87.7% of patients demonstrated return to sport after surgery (95% CI, 82.4%-92.9%, P < .001), and all patient-reported outcomes improved postoperatively, with the highest increase observed in the Hip Outcome Score sports scale (41.7 points; 95% CI, 34.1-49.4; P < .001). The α-angle decreased by an average of 23.6° (95% CI, 18.2°-29.0°; P < .001). We identified 11 factors associated with the success of hip arthroscopy in FAI and 16 factors associated with failure or negative outcomes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A high percentage of patients return to sport activities after hip arthroscopy for FAI, with a low rate of complications and reoperation. All patient-reported outcome measures, except for mental health, significantly improved after surgery."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

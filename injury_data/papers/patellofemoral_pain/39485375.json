@@ -1,0 +1,43 @@
+{
+  "pmid": "39485375",
+  "title": "Effectiveness of Self-Management Programs Among Athletes With Patellofemoral Pain Syndrome: Protocol for a Systematic Review.",
+  "year": "2024",
+  "journal": "JMIR research protocols",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain syndrome is a highly prevalent overuse knee injury in athletic populations associated with pain and functional limitations, exacerbated by activities such as running, pivoting, cycling, and jumping. Self-management programs empowering athletes to take an active role in controlling their symptoms for chronic musculoskeletal conditions such as patellofemoral pain syndrome have grown in popularity. However, the efficacy of self-management programs specifically for athletes with patellofemoral pain syndrome is unclear due to limited and heterogeneous evidence."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The systematic review study will evaluate the effectiveness of self-management programs on pain and function, in athletes with patellofemoral pain syndrome."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed/MEDLINE, Cochrane Library, CINAHL (Cumulative Index to Nursing and Allied Health Literature), and PsycINFO databases will be systematically searched using terms related to \"patellofemoral pain syndrome,\" \"self-management,\" and \"athletes.\" Interventional studies that are randomized and nonrandomized controlled trials will be included, comparing self-management programs to other treatments or control conditions among athletes with patellofemoral pain syndrome. Four reviewers will independently screen studies, extract data using the COVIDENCE software, and assess the quality of the study and evidence using the Pedro scale of risk of bias tool and GRADE approach, respectively. If feasible, a meta-analysis will be performed using the RevMan (version 5.4; the Cochrane Collaboration)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The systematic review is currently in the search phase, with the authors refining search strings for the selected databases. The final search strings are expected to be ready by March 2024, and the review is projected to be completed by July 2024."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This systematic review protocol outlines a rigorous methodology for evaluating the effectiveness of self-management programs among athletes with patellofemoral pain syndrome. The findings will inform clinical practice and guide the development of tailored interventions to optimize outcomes for athletes with patellofemoral pain syndrome."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "PROSPERO CRD42023492746; https://tinyurl.com/c5jze9ca."
+    },
+    {
+      "label": "INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID)",
+      "text": "PRR1-10.2196/58340."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

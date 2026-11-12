@@ -1,0 +1,20 @@
+{
+  "pmid": "40104846",
+  "title": "Knee and ACL injury rates in NCAA soccer players: an epidemiological study of 10 consecutive seasons.",
+  "year": "2025",
+  "journal": "Science & medicine in football",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "There is a lack of epidemiological research on knee injuries and Anterior Cruciate Ligament (ACL) tears among National Collegiate Athletic Association (NCAA) soccer athletes. To describe the epidemiology of knee injuries and ACL tears in NCAA soccer. We analyzed data captured within the NCAA Injury Surveillance Program during 2009/10-2018/19. We examined injury frequencies and rates by event type, division, and sex, and knee injury distributions by injury diagnosis, mechanism, history, playing position, and activity at the time of injury. We used injury rate ratios (IRRs) to assess differences in injury rates and injury proportion ratios (IPRs) to assess the differential distribution of injuries across explanatory variables of interest. Random effects Poisson regressions were used to identify factors associated with recovery. Knee injury and ACL tear rates generally centered around comparable values across the study period. Overall knee injury (IRR = 1.38; 95%CI=[1.24, 1.53]) and ACL tear (IRR = 3.10; 95%CI=[2.20, 4.35]) rates were higher in women's soccer, as compared with men's soccer. Competition-related knee injury rates were higher than practice rates in both groups. Knee injuries in men's (36.7%) and women's (38.7%) soccer were most often classified as sprains, and most commonly attributed to blocking/defending activities (Men's soccer: 15.4%; Women's soccer: 15.5%). Findings indicate a higher rate of knee injuries and ACL tears in competitions than in practices. Coupled with the results observed in women's soccer, these findings suggest that the risk of knee injuries and ACL tears in competitions and in women's soccer merit attention."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

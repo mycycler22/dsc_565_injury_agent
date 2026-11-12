@@ -1,0 +1,35 @@
+{
+  "pmid": "22306511",
+  "title": "Coronal plane hip muscle activation in football code athletes with chronic adductor groin strain injury during standing hip flexion.",
+  "year": "2012",
+  "journal": "Manual therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Groin pain arising from adductor muscle injury is common amongst football code athletes and can result in significant time lost from sporting participation. The associated motor control deficits are not well understood."
+    },
+    {
+      "label": "AIMS",
+      "text": "The aim of this study was to better understand the coronal plane muscle activation patterns associated with chronic adductor injury."
+    },
+    {
+      "label": "METHODOLOGY",
+      "text": "Measures of muscle activation at various stages of the standing hip flexion manoeuvre were made with surface electromyography and motion capture in 9 male football code subjects with chronic adductor injury, and 9 matched controls."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The gluteus medius to adductor longus activation ratio was significantly reduced in subjects with groin pain when the injured leg was either moving (F = 64.3, p < 0.001) or in stance phase (F = 32.4, p < 0.001) when compared to activity-matched uninjured subjects, equating to a difference varying between 20 and 40% depending on phase of movement. These differences were particularly due to decreased abductor muscle activation. No significant differences between the uninjured and injured side of patients was found."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Football code athletes with groin pain exhibit significantly altered coronal plane muscle activation with comparison to uninjured subjects. These findings need to be taken into account when planning rehabilitation for these athletes."
+    }
+  ],
+  "injury_query": "groin strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

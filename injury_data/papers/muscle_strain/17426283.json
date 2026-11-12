@@ -1,0 +1,40 @@
+{
+  "pmid": "17426283",
+  "title": "Magnetic resonance imaging parameters for assessing risk of recurrent hamstring injuries in elite athletes.",
+  "year": "2007",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Magnetic resonance (MR) imaging has established its usefulness in diagnosing hamstring muscle strain and identifying features correlating with the duration of rehabilitation in athletes; however, data are currently lacking that may predict which imaging parameters may be predictive of a repeat strain."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This study was conducted to identify whether any MR imaging-identifiable parameters are predictive of athletes at risk of sustaining a recurrent hamstring strain in the same playing season."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty-one players of the Australian Football League who sustained a hamstring injury underwent MR examination within 3 days of injury between February and August 2002. The imaging parameters measured were the length of injury, cross-sectional area, the specific muscle involved, and the location of the injury within the muscle-tendon unit. Players who suffered a repeat injury during the same season were reimaged, and baseline and repeat injury measurements were compared. Comparison was also made between this group and those who sustained a single strain."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Forty-one players sustained hamstring strains that were positive on MR imaging, with 31 injured once and 10 suffering a second injury. The mean length of hamstring muscle injury for the isolated group was 83.4 mm, compared with 98.7 mm for the reinjury group (P = .35). In the reinjury group, the second strain was also of greater length than the original (mean, 107.5 mm; P = .07). Ninety percent of players sustaining a repeat injury demonstrated an injury length greater than 60 mm, compared with only 58% in the single strain group (P = .01). Only 7% of players (1 of 14) with a strain <60 mm suffered a repeat injury. Of the 27 players sustaining a hamstring strain >60 mm, 33% (9 of 27) suffered a repeat injury. Of all the parameters assessed, only a history of anterior cruciate ligament sprain was a statistically significant predictor for suffering a second strain during the same season of competition."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A history of anterior cruciate ligament injury was the only statistically significant risk factor for a recurrent hamstring strain in our study. Of the imaging parameters, the MR length of a strain had the strongest correlation association with a repeat hamstring strain and therefore may assist in identifying which athletes are more likely to suffer further reinjury."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

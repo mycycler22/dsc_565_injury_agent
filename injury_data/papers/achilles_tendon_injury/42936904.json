@@ -1,0 +1,35 @@
+{
+  "pmid": "42936904",
+  "title": "Predicting Return to Play After Achilles Tendon Injury in National Football League Players Using Machine Learning.",
+  "year": "2026",
+  "journal": "Foot & ankle specialist",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "BackgroundNational Football League (NFL) players frequently experience Achilles tendon (AT) injuries. However, there is mixed evidence regarding factors influencing return to play (RTP) after AT injury. The objective of this study is to develop machine learning models to predict NFL players' likelihood of RTP within 1 year of an AT tear."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Machine learning models can predict 1-year RTP status in NFL players following AT tear."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Retrospective Cohort.MethodsA retrospective review was conducted to identify NFL players who sustained unilateral AT injuries from 2004 to 2024. Player demographics and performance data were recorded. Return to play was defined as generating playing statistics. Five machine learning models were developed: logistic regression, random forest classifier, XGBoost, Gaussian naive Bayes, and K-nearest neighbors. Accuracy, precision, recall, and F1 were used to assess model performance.ResultsOne hundred seventy-six NFL players were identified with an AT injury. One hundred eight players achieved RTP within 1 year (class 1), while 63 players did not (class 0). In the full cohort, injury etiology was the most influential feature associated with 1-year RTP, followed by pre-injury performance. Among the 99 players with a confirmed AT tear, 48 players achieved RTP within 1 year (class 1), while 51 players did not (class 0). Within the confirmed-tear cohort, draft round and games started were the leading predictors of 1-year RTP, which was best predicted by random forest with a mean accuracy of 0.69, precision of 0.68, recall of 0.70, and an F1-score of 0.69 for class 0.ConclusionMachine learning models that combine clinical and performance metrics of NFL athletes demonstrated potential for predicting 1-year RTP after AT injury and identifying factors associated with RTP."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Machine learning could be integrated into clinical decision-making and prognosis to refine rehabilitation approaches in NFL players."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "35420594",
+  "title": "Preseason Eccentric Strength Is Not Associated with Hamstring Strain Injury: A Prospective Study in Collegiate Athletes.",
+  "year": "2022",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Established risk factors for hamstring strain injuries (HSI) include older age and prior HSI. However, these are nonmodifiable and have a limited role in injury prevention. Eccentric hamstring strength is a common component of HSI prevention programs, but its association with injury is less clear."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This study aimed to determine if eccentric hamstring strength was prospectively associated with HSI among collegiate athletes, while controlling for sex, age, and prior HSI. We hypothesized that athletes with lower eccentric hamstring strength or greater between-limb strength asymmetry at preseason would have an increased risk of HSI."
+    },
+    {
+      "label": "METHODS",
+      "text": "Hamstring eccentric strength measures, maximum total force ( FTotal ) and between-limb asymmetry in maximum force ( FAsym ), were measured at preseason on male and female athletes. HSIs were tracked over the subsequent 12 months. Generalized estimating equations were used to identify univariable and multivariable associations between athlete demographics, eccentric hamstring strength, and HSI risk."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Data for 326 athletes (85 female; 30 track, 43 basketball, 160 American football, 93 soccer) were included, and 64 HSIs were observed. Univariable associations between eccentric hamstring strength and subsequent HSI were nonsignificant ( FTotal : odds ratio [OR], 0.99 (95% confidence interval (CI), 0.93-1.05); P = 0.74; FAsym : OR, 1.35 (95% CI, 0.87-2.09); P = 0.23). No relationship between eccentric hamstring strength and HSI ( FAsym : OR, 1.32 (95% CI, 0.84-2.08); P = 0.23) was identified after adjusting for confounders including sex, age, and prior HSI."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "No association between preseason eccentric hamstring strength and risk of subsequent HSI was identified after controlling for known risk factors and sex among collegiate athletes. Eccentric hamstring strengthening may continue to serve as a preventative approach to HSI, but it does not provide additional insight into HSI risk beyond factors such as age and prior HSI."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

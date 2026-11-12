@@ -1,0 +1,28 @@
+{
+  "pmid": "11131228",
+  "title": "Spondylolysis: a critical review.",
+  "year": "2000",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "To provide an understanding of the current concepts in the natural history, pathophysiology, diagnosis, and treatment of spondylolysis based on the available medical literature."
+    },
+    {
+      "label": "METHODS",
+      "text": "Articles were selected for review by the following methods: (a) MEDLINE searches with review of abstracts to select relevant articles; (b) review of multiple textbooks considered likely to contain information on spondylolysis; (c) review of references in articles identified by (a) and (b). Over 125 articles were ultimately reviewed fully. Publications were selected for inclusion in this article on the basis of perceived scientific and historical merit, particularly as thought to be relevant to achieving the stated purpose of this review. As no controlled clinical trials were identified, this could not be used as an inclusion criterion."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Isthmic spondylolysis is considered to represent a fatigue fracture of the pars interarticularis of the neural arch. There is a relatively high incidence of radiographically identified spondylolysis in the general population, but the vast majority of these lesions probably occur without associated symptoms. Symptomatic pars lesions appear to be particularly a clinical problem in adolescents, especially adolescent athletes. The optimal diagnostic and treatment algorithms are not well identified in the current literature. Multiple imaging studies may have a role in the diagnosis of a pars lesion, and treatment seems likely to require at least relative rest and physical rehabilitation with consideration of bracing or, rarely, surgical intervention depending on the clinical context."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "42502501",
+  "title": "Short-Term Workload Patterns Before Achilles Tendon Rupture in National Basketball Association Players: A Descriptive Epidemiology Study.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon rupture (ATR) is one of the most serious injuries in professional basketball, requiring nearly a year of recovery and resulting in declines in player performance and career longevity. In the 2024-2025 NBA season, a record-high 7 ATRs highlighted the need to evaluate workload-related risk factors."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "NBA players experiencing ATR may have a higher-than-average workload in games preceding injury, which could be associated with increased risk."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "This retrospective exploratory review analyzed publicly available NBA data from the 2014-2015 to 2024-2025 seasons. Inclusion required players to have sustained a basketball-related ATR during a regular season or playoff game after participating in at least 1 full game that season. Variables included age, position, specialization, meters run, minutes played (5-, 10-, 15-game spans before ATR), games played, and scheduling metrics (back-to-backs, rest days). Data sources included official NBA statistics, StatMuse, and ESPN. Statistical analyses included paired and unpaired <i>t</i> tests, 1-way analysis of variance, and Spearman correlations."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nineteen players (19 ATRs; mean age, 27.8 ± 3.2 years; mean league experience: 7.4 ± 3.2 years) sustained basketball-related ATRs. Playing time was significantly higher in the 10 games (29.0 ± 2.1 vs 27.4 ± 2.0 min/game; <i>P</i> = .01) and 15 games (28.6 ± 2.1 vs 27.4 ± 2.0 min/game; <i>P</i> = .03) preceding injury compared with each player's season average. Years of league experience were positively correlated with workload measures, including total season minutes (<i>P</i> = .02) and minutes in the 5 games preceding rupture (<i>P</i> = .0498), such that veteran players generally accumulated higher workload, whereas ATRs among less-experienced players occurred in the setting of comparatively lower observed workload."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Significant workload spikes were found in the 10 to 15 games preceding Achilles ruptures for NBA players. Veteran players carried heavier cumulative workloads, whereas younger players ruptured tendons under lighter use. Proactive workload management, athlete education, and targeted prevention strategies may help preserve player health and career longevity in the NBA."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

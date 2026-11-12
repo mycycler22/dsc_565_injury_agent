@@ -1,0 +1,67 @@
+Title: Functional Outcomes of Achilles Tendon Minimally Invasive Repair Using 4- and 6-Strand Nonabsorbable Suture: A Cohort Comparison Study. | Type: Journal Article | PMID: 28856168 | Year: 2017 | Injury query: Achilles tendon rupture
+[RESULTS] During initial rehabilitation at 6 weeks, the relative ATRA was 0.6° (7.4°) (neutral) and -7.0° (5.3°) (dorsiflexion) at 3 months, after which ATRA improved significantly with time to 12 months (<i>P</i> = .005).
+[FULLTEXT: Results:] There were no significant differences in the ATRA, Achilles Tendon Total Rupture Score (ATRS), and Heel-Rise Height Index (HRHI) between the 4- and 6-strand repairs. The mean (SD) relative ATRA was –13.1° (6.6°) (dorsiflexion) following injury; this was reduced to 7.6° (4.8°) (plantar flexion) directly after surgery. During initial rehabilitation at 6 weeks, the relative ATRA was 0.6° (7.4°) (neutral) and –7.0° (5.3°) (dorsiflexion) at 3 months, after which ATRA improved significantly with time to 12 months (P = .005). At 12 months, the median ATRS was 93 (range, 35-100), and the mean (SD) HRHI and Heel-Rise Repetition Index were 81% (0.22%) and 82.9% (0.17%), respectively. The relative ATRA at 3 and 12 months correlated with HRHI (r = 0.617, P < .001 and r = 0.535, P < .001, respectively).
+[FULLTEXT: Follow-up Evaluation] Patients were reviewed at 6 weeks and at 3, 6, 9, and 12 months after surgery. Symptoms and physical activity were evaluated using the Achilles Tendon Total Rupture Score (ATRS)8,30 and the Tegner activity score.41 The preinjury level of physical activity/patient perception of performance (PPP) was determined at the 3-month time point. At each follow-up, the patients were asked, “Do you think you have reached the same level of physical activity and performance as before your injury?” They were asked to categorize their response as not yet attained, the same, or greater/improved. Patients were examined for palpable tendon gaps and tendon continuity using the calf-squeeze test. The ATRA7 was measured after rupture, after surgery, at 6 weeks, and at all subsequent evaluations (Figure 2). A maximal single-leg Limb Symmetry Index (LSI) for heel-rise height37 and calf circumference was compared with the nonaffected side at 3, 6, 9, and 12 months. The calf circumference was measured using a tape measure at 15 cm below the medial knee joint line.7 Heel-rise repetition was assessed by counting the number of single-leg heel-rises performed by the patient to exhaustion at the 12-month point. Fingertip contact with the wall was permitted for balance. LSIs for the Heel-Rise Height Index (HRHI) and the Heel-Rise Repetition Index (HRRI) were determined as follows: The HRHI was calculated as the maximal height of a single heel-rise on the injured side/the maximal height of a single heel-rise on the uninjured side ×100. The HRRI was calculated as the number of repetitions performed on the repaired side/number of repetitions on the uninjured side ×100. The primary outcome of the study was the change in ATRA over time. Secondary outcomes were the ATRS, Tegner, PPP, calf circumference, HRHI, and HRRI.5,30,37,41
+[FULLTEXT: Results] Seventy patients with a midportion rupture of the Achilles tendon were evaluated after injury and received surgical repair (Table 1). The activities during which ruptures were sustained included football (20%, n = 13), badminton (10.8%, n = 7), children’s sports (9.2%, n = 6), stepping in a hole or falling on an uneven surface (7.7%, n = 5), cricket (6.2%, n = 4), netball (6.2%, n = 4), squash (6.2%, n = 4), pushing a vehicle (6.2%, n = 4), slipping on the stairs (6.2%, n = 4), and other activities (n = 8); notably, 4 patients were injured participating in cross-fit (3.1%, n = 2) activities and rural activities (3.1%, n = 2). Two patients sustained reruptures; both had been repaired using 6-strand repairs. One slipped on a wet surface and another stumbled while intoxicated at 4 and 5 weeks following repair, respectively. Neither patient was wearing a protective brace as advised. Additional surgical complications were cellulitis, suture sinus, second-site rupture managed nonoperatively, and failed surgery with inability to appose tendon ends (all 1.5%, n = 1) (Table 1). Sixty-five patients formed 2 comparative groups (Table 2). Other than the number of patients, there were no significant differences in the demographic characteristics between the 2 groups. The changes in the relative ATRA are shown in Table 3 and Figure 3. There was no difference in ATRA between the groups (P = .469) (Table 3). The relative ATRA increased significantly until the 3-month time point, after which the angle increased significantly at 12 months (P = .005). The proportion of patients receiving a 4-strand repair with an ATRA ≥–12° was almost twice that of those having a 6-strand repair at the 3-month time point; this had fallen to 1.5 times by the 12-month time point, but there was no significant difference between groups (Table 4). There were significant improvements in symptoms over time, as measured with ATRS, until 12 months (Figure 4 and Table 5), with no significant differences between the 2 groups (P = .827). The ATRS was significant for all pairwise comparisons. The maximal mean (SD) reduction in calf circumference occurred at the 6-week time point: –2.0 (1.6) cm. This atrophy improved with time, but circumference was still reduced at 12 months following repair: –1.3 (1.0) cm. There was significant calf atrophy from rupture until 6 weeks and then from 6 weeks to 3 months (P < .001) (Table 6). The calf increased in circumference from 3 to 6 months (P = .012); after this time, although the calf increased in size, this improvement was not significant. Calf circumference at 6 and 9 months only weakly correlated with the relative ATRA at 12 months (r = 0.316, P = .019 and r = 0.285, P = .035, respectively). At the 12-month time point, the mean (SD) HRHI and HRRI were 81% (0.22%) and 82.6% (0.17%), respectively. The HRHI improved significantly over time, for pairwise comparisons, between 6 and 9 months (P < .001) and at 9 and 12 months (P = .047). The mean HRHI at 6 months was 66% (26%): group 1, 69.5% (27.0%); group 2, 65% (26.3%). At 9 months, the mean HRHI was 75.3% (21.4%), with 81.6% (18.9%) in group 1 and 72.7% (22.0%) in group 2. Overall HRHI improved to 81.7% (22%) at 12 months: 83.5% (16.6%) for group 1 and 80.9% (23.8%) for group 2 (Figure 5 and Table 7). There was no significant difference in HRHI over time between the groups (P = .323). In both groups 1 and 2, ATRA correlated with HRHI; however, ATRA was not found to correlate with HRRI in group 2. The overall relative ATRA at 3 months and 12 months both moderately correlated significantly with HRHI at 12 months (r = 0.617, P < .001 and r = 0.535, P < .001, respectively). For both groups 1 and 2, there was significant correlation between ATRA at 3 months and ATRS and HRHI at 12 months (Table 7). The ATRA was not found to correlate with HRRI in group 2. The relative ATRA had no significant correlation with HRRI at 3, 6, 9, or 12 months (r = 0.209, P = .276; r = 0.303, P = .104; r = .214, P = .264; and r = 0.327, P = .083, respectively). At 12 months, the HRRI correlated with the HRHI (r = 0.449, P = .013). PPP in terms of return to play was noted (Table 8). There were no significant differences in PPP between group 1 (4-strand repairs) and group 2 (6-strand repairs) (P = .685). At the 3-month time point, 31.1% (19/61) of patients were able to perform a single heel-rise, whereas 93.7% (59/63) were able to do so at the 6-month time point. Four patients were unable to perform a single heel-rise at 6 months. One patient was from group 1 and 3 patients from group 2. The patients in group 2 were still unable to perform a single heel-rise by 12 months.
+[FULLTEXT: TABLE: Patients Evaluated for Inclusion and Exclusion From the Study] Evaluated | Acute midsubstance ruptures of the Achilles tendon having operative repair within 14 days of injury (N = 70)
+Exclusion | Acute-on-chronic and chronic ruptures, defined as longer than 14 and 28 days following injury, respectively Reruptures (2.9%, n = 2) Failed surgery (1.5%, n = 1) Prolapsed intervertebral disc causing calf weakness (1.5%, n = 1) Unavailability for follow-up (1.5%, n = 1)
+Relative exclusion | Patients with deep vein thrombosis (9%, n = 6) were excluded from calf circumference analysis 1 patient was excluded from calf circumference, heel-rise height, and endurance analysis at 12 months due to pregnancy (1.5%, n = 1) Previous contralateral rupture (1.5%, n = 1)
+[FULLTEXT: TABLE: Comparison of the Relative Achilles Tendon Resting Angle (ATRA) With Time Between Group 1 (4-Strand Repair) and Group 2 (6-Strand Repair)a] Relative ATRA | Postinjury | Postrepair | 6 Weeks | 3 Months | 6 Months | 9 Months | 12 Months
+Group 1 | –12.5 (6.7) | 6.6 (4.3) | –0.1 (7.0) | –9.1 (6.0) | –8.3 (5.1) | –7 (5.9) | –6.2 (4.0)
+Group 2 | –13.3 (6.8) | 8.0 (5.0) | 0.8 (7.7) | –6.2 (4.9) | –6.0 (4.3) | –5.1 (4.4) | –4.8 (3.9)
+Overall | –13.1 (6.7) | 7.6 (4.8) | 0.6 (7.4) | –7.0 (5.3) | –6.6 (4.6) | –5.6 (4.8) | –5.2 (3.9)
+[FULLTEXT: TABLE: Patients in Group 1 (4-Strand Repair) and Group 2 (6-Strand Repair) With a Relative ATRA of ≥ –12°a]  | 6 Weeks | 3 Months | 6 Months | 9 Months | 12 Months
+Overall | 6.2 (4/65) | 20.3 (13/64) | 10.8 (7/65) | 13.8 (9/65) | 8.3 (5/60)
+Group 1 (4-strand) | 5.2 (1/19) | 31.6 (6/19) | 21.1 (4/19) | 21.1 (4/19) | 10.5 (2/19)
+Group 2 (6-strand) | 6.5 (3/46) | 15.6 (7/45) | 13 (3/46) | 10.9 (5/46) | 7.3 (3/41)
+P value between groups | >.999 (NS) | .168 (NS) | .448 (NS) | .242 (NS) | .631 (NS)
+[FULLTEXT: TABLE: Comparison of the ATRS Over Time Between Group 1 (4-Strand Repair) and Group 2 (6-Strand Repair) and Overalla] ATRS | 3 Months | 6 Months | 9 Months | 12 Months
+Group 1 |  |  |  | 
+Median (range) | 55 (14-80) | 76 (57-98) | 92 (48-100) | 93 (45-100)
+Mean (SD) | 50 (22) | 78 (14) | 86 (14) | 90 (14)
+Group 2 |  |  |  | 
+Median (range) | 45 (3-86) | 77 (28-98) | 89 (52-100) | 94 (35-100)
+Mean (SD) | 50 (17) | 75 (16) | 86 (13) | 90 (13)
+Overall |  |  |  | 
+Median (range) | 45 (3-86) | 77 (28-98) | 89 (48-100) | 93 (35-100)
+Mean (SD) | 50 (18) | 76 (15.2) | 86 (13.2) | 90 (13)
+P value |  | <.0001 | <.0001 | .005
+[FULLTEXT: TABLE: Comparison of the Change in Calf Circumference Difference With Time Between the 2 Groupsa] Calf Circumference Difference | Postinjury | 6 Weeks | 3 Months | 6 Months | 9 Months | 12 Months
+Group 1 | 0.18 (1.4) | –2.2 (1.2) | –0.7 (1.3) | –0.8 (1.6) | –1.1 (1.1) | –1.3 (1.0)
+Group 2 | –0.1 (1.2) | –1.9 (1.8) | –0.9 (1.4) | –1.3 (1.3) | –1.6 (1.1) | –1.3 (1.0)
+Overall | 0.0 (1.3) | –2.0 (1.6) | –0.9 (1.3) | –1.2 (1.4) | –1.4 (1.1) | –1.3 (1.0)
+[FULLTEXT: TABLE: Correlation Between ATRA and ATRS, HRHI, and HRRIa]  | HRHI 9 Months | ATRS 12 Months | HRHI 12 Months | HRRI 12 Months
+ATRA at Time Point and Group | Correlation | P Value | Correlation | P Value | Correlation | P Value | Correlation | P Value
+3 months
+Group 1 | 0.59 | .013b | 0.624 | .006b | 0.698 | .002b |  | 
+Group 2 | 0.017 | .913 | 0.421 | .006b | 0.666 | <.0001b | 0.209 | .276
+6 months
+Group 1 | 0.589 | .016b | 0.344 | .176 | 0.721 | .001b |  | 
+Group 2 | 0.002 | .987 | 0.307 | .048b | 0.398 | .01b | 0.303 | .104
+9 months
+Group 1 | 0.761 | <.0001b | 0.486 | .048b | 0.717 | .002b |  | 
+Group 2 | 0.489 | .001b | –0.068 | .675 | –0.006 | .973 | 0.214 | .264
+12 months
+Group 1 | 0.845 | <.0001b | 0.588 | .01b | 0.800 | <.0001b |  | 
+Group 2 | 0.005 | .974 | 0.367 | .018b | 0.488 | .001b | 0.327 | .083
+[FULLTEXT: TABLE: Comparison of Return to Play Over Time and Between Groups]  | 6 Months, % (n) | 9 Months, % (n) | 12 Months, % (n)
+Not yet |  |  | 
+Group 1 | 84 (16) | 67 (12) | 47 (7)
+Group 2 | 89 (40) | 58 (26) | 46 (27)
+Overall | 88 (56) | 64 (38) | 45 (20)
+Same |  |  | 
+Group 1 | 16 (3) | 28 (5) | 40 (6)
+Group 2 | 11 (5) | 40 (18) | 45 (26)
+Overall | 13 (8) | 37 (23) | 45 (20)
+Improved |  |  | 
+Group1 | 0 | 6 (1) | 13 (2)
+Group 2 | 0 | 2 (1) | 10 (6)
+Overall | 0 | 3 (2) | 9 (4)
+Same and improved |  |  | 
+Group 1 | 16 (3) | 33 (6) | 53 (8)
+Group 2 | 11 (5) | 42 (19) | 55 (32)
+Overall | 13 (8) | 40 (25) | 54 (24)
+Tegner |  |  | 
+Group 1 | 5 (3-5) | 5 (5-7) | 6 (3-8)
+Group 2 | 5 (1-8) | 5 (1-8) | 5 (3-9)
+Overall | 5 (1-8) | 5 (1-8) | 5 (3-9)

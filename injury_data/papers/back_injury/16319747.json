@@ -1,0 +1,37 @@
+{
+  "pmid": "16319747",
+  "title": "Delayed trunk muscle reflex responses increase the risk of low back injuries.",
+  "year": "2005",
+  "journal": "Spine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective observational study with a 2- to 3-year follow-up."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine whether delayed muscle reflex response to sudden trunk loading is a result of or a risk factor for sustaining a low back injury (LBI)."
+    },
+    {
+      "label": "SUMMARY OF BACKGROUND DATA",
+      "text": "Differences in motor control have been identified in individuals with chronic low back pain and in athletes with a history of LBI when compared with controls. However, it is not known whether these changes are a risk for or a result of LBI."
+    },
+    {
+      "label": "METHODS",
+      "text": "Muscle reflex latencies in response to a quick force release in trunk flexion, extension, and lateral bending were measured in 303 college athletes. Information was also obtained regarding their personal data, athletic experience, and history of LBI. The data were entered into a binary logistic regression model to identify the predictors of future LBI. RESULTS.: A total of 292 athletes were used for the final analysis (148 females and 144 males). During the follow-up period, 31 (11%) athletes sustained an LBI. The regression model, consisting of history of LBI, body weight, and the latency of muscles shutting off during flexion and lateral bending load releases, predicted correctly 74% of LBI outcomes. The odds of sustaining LBI increased 2.8-fold when a history of LBI was present and increased by 3% with each millisecond of abdominal muscle shut-off latency. On average, this latency was 14 milliseconds longer for athletes who sustained LBI in comparison to athletes who did not sustain LBI (77 [36] vs. 63 [31]). There were no significant changes in any of the muscle response latencies on retest following the injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The delayed muscle reflex response significantly increases the odds of sustaining an LBI. These delayed latencies appear to be a preexisting risk factor and not the effect of an LBI."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

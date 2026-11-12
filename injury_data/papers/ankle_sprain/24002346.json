@@ -1,0 +1,33 @@
+{
+  "pmid": "24002346",
+  "title": "Prognosis of ankle syndesmosis injury.",
+  "year": "2014",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Ankle syndesmosis injury has been associated with persistent pain and prolonged recovery; however, no predictors of prolonged recovery have been identified. The aims of this study were to establish prognosis for ankle syndesmosis injury compared with a lateral ankle sprain and to explore factors associated with prolonged recovery."
+    },
+    {
+      "label": "METHODS",
+      "text": "Participants (n = 63) age 21 ± 3.2 yr, with acute ankle ligament injuries (diagnosed through magnetic resonance imaging), were recruited from 10 sport clubs and sports medicine and physiotherapy clinics in two Australian cities. Follow-up was until full recovery and with preinjury activity level. Time to return to play was compared between injury types using Kaplan-Meier survival curves. Secondary analysis investigated putative factors that increased risk of prolonged recovery. For this analysis, participants unrecovered at 2 wk completed the following: Fear Avoidance Beliefs Questionnaire (FABQ); Star Excursion Balance Test, weight-bearing lunge, and vertical jump (VJ). These variables were correlated with time to recovery using bivariate Pearson's r correlation coefficient."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The median recovery time for conservatively treated ankle syndesmosis injury was 62 and 15 d for lateral sprain. The sport-specific subscale scores of the FABQ were significantly higher (P = 0.017) for the ankle syndesmosis group, whereas vertical jump height was lower for this group, (P = 0.052). No baseline variables were strong predictors (r ≥ 0.6) of recovery. Moderate correlations were found for VJ (r = -0.471, P = 0.004) and the sport-specific subscale of the FABQ (r = 0.463, P = 0.004)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Conservatively treated ankle syndesmosis injuries took four times longer to recover than lateral ankle sprain. Tests such as VJ and FABQ may identify individuals at risk of prolonged recovery and allow health professionals to determine realistic and appropriate time to recovery."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

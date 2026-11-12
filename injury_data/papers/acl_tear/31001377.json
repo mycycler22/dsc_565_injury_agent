@@ -1,0 +1,19 @@
+{
+  "pmid": "31001377",
+  "title": "Relative Telomere Length in Blood Leukocytes of Patients with Anterior Cruciate Ligament Injury: A Pilot Study.",
+  "year": "2019",
+  "journal": "Malaysian orthopaedic journal",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Introduction:</b> Anterior cruciate ligament (ACL) tear is the most common knee ligament injury, especially in athletes. The objective of this study was to investigate relative telomere length (RTL) in blood leukocytes of patients with ACL injury compared with that of controls. <b>Materials and Methods:</b> A total of 187 subjects were invited to participate in this study. Ninety-two patients with clinically diagnosed ACL rupture were enrolled. Ninety-five age and gender-matched healthy controls were also recruited. Blood leukocyte RTL were analysed using quantitative real-time polymerase chain reaction. <b>Results:</b> Patients with ACL rupture had significantly longer relative telomere length than healthy controls (<i>P</i>=0.002). The patients with ACL rupture were classified into two groups according to the sport history of patients which are contact sports and non-contact sports. RTL in patients with non-contact sports was significantly greater than those with contact sports (<i>P</i>=0.006). Moreover, RTL was inversely correlated with body mass index of patients with ACL injury (<i>r</i>=-0.34, <i>P</i>=0.001). Logistic regression analysis indicated that long RTL was associated with a higher risk of ACL rupture. <b>Conclusion:</b> The present study showed that subjects with ACL rupture had significantly greater telomere length compared with their age and gender-matched controls. This finding may result from the increases in physical activity and overexpression of telomerase which acts as a protective mechanism against ACL injury. RTL in blood leukocytes is associated with a risk of ACL rupture."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

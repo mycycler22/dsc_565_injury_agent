@@ -1,0 +1,39 @@
+{
+  "pmid": "39157021",
+  "title": "The Role of Humeral Torsion on Glenohumeral Rotation in Injured Baseball Players.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Differences in rotational range of motion (ROM) compared to humeral retrotorsion (HRT)-corrected rotational ROM exist in healthy baseball athletes, but it is unclear whether these differences exist in a pathological population."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to determine if there are disparities between objectively measured differences in ROM and HRT-corrected deficits in injured baseball players. It was hypothesized that disparities would exist between (1) the side-to-side difference in glenohumeral external rotation (GER) and the HRT-corrected glenohumeral external rotation deficit (GERD) and (2) the side-to-side difference in glenohumeral internal rotation (GIR) and the HRT-corrected glenohumeral internal rotation deficit (GIRD)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data from 172 baseball players with shoulder or elbow injuries (45 shoulder, 127 elbow) were reviewed in July 2023. GER and GIR were measured on the injured and noninjured sides of all players, and diagnostic ultrasound was used to measure HRT. Dependent <i>t</i> tests were run to compare the side-to side differences in GER and GIR with the HRT-corrected GERD and GIRD, respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the players with a shoulder injury, there was a significant disparity between the side-to-side difference in GER and the HRT-corrected GERD (2°± 14° vs -13°± 15°, respectively) and between the side-to-side difference in GIR and the HRT-corrected GIRD (-14°± 8° vs 2°± 9°, respectively) (<i>P</i> < .001 for both). Similarly, players with an elbow injury had significant disparities between the side-to-side difference in GER and the HRT-corrected GERD (6°± 9° vs -10°± 9°, respectively) and between the side-to-side difference in GIR and the HRT-corrected GIRD (-12°± 8° vs 4°± 10°, respectively) (<i>P</i> < .001 for both)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The results supported our hypothesis that there were disparities between objectively measured differences in GER and GIR compared with the HRT-corrected GERD and GIRD in injured baseball players. Consideration must be given to osseous adaptations that occur at the glenohumeral joint when evaluating and treating this population."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

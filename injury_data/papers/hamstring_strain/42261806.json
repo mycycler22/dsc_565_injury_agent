@@ -1,0 +1,20 @@
+{
+  "pmid": "42261806",
+  "title": "Impact of Prior Hamstring Strain Injury on Muscle Morphology and Sprinting Biomechanics in Collegiate American Football Athletes.",
+  "year": "2026",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "To determine whether elite collegiate athletes with a prior hamstring strain injury (HSI) display persistent deficits in hamstring muscle morphology and muscle-tendon unit (MTU) mechanics during sprinting, and whether MRI-informed, subject-specific musculoskeletal models detect limb differences that scaled-generic models overlook. This study analyzed data from the Hamstring Injury (HAMIR) study. Seventy-nine NCAA Division I male football players (106 previously injured vs. 52 uninjured control limbs) completed maximal-velocity over-ground sprints instrumented with inertial measurement units (100 Hz) and underwent 3-T MRI for whole-hamstring volumetry. Sprint kinematics drove both scaled-generic and MRI-informed subject-specific OpenSim models. Peak MTU strain, lengthening velocity, force, and negative work were extracted for biceps femoris long head (BFlh), biceps femoris short head (BFsh), semimembranosus (SM), and semitendinosus (ST). Limb effects were analyzed with linear mixed models (α = 0.05). Previously injured limbs demonstrated ~5% smaller normalized muscle volumes for both BFlh (1.67 ± 0.36 vs. 1.76 ± 0.35 mL/kg/m, p = 0.009) and BFsh (0.92 ± 0.18 vs. 0.97 ± 0.19 mL/kg/m, p = 0.007). Peak MTU lengthening velocity was faster in injured limbs for BFlh (+3%), SM (+5%), and ST (+5%) (all p ≤ 0.02), with no limb differences in joint kinematics, peak strain, or generic-model forces. Subject-specific models revealed lower BFsh peak force (1.10 ± 0.21 vs. 1.14 ± 0.22 × body weight, p = 0.03) and reduced negative work (-13.4 ± 6.8 vs. -15.3 ± 7.5 J, p = 0.01), differences that the generic model did not detect. Although sprint kinematics were similar between limbs, those with prior HSI exhibited persistent BFlh and BFsh atrophy and subtle muscle-specific mechanical deficits. Reduced BFsh force and negative work were evident only with MRI-informed modeling. Integrating imaging with wearable-driven, subject-specific simulations could enhance rehabilitation monitoring and guide loading strategies to mitigate reinjury risk. Trial Registration: ClinicalTrials.gov: NCT05343052."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

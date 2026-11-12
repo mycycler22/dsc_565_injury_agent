@@ -1,0 +1,40 @@
+{
+  "pmid": "32890941",
+  "title": "Effects of anterior cruciate ligament reconstruction on patellofemoral joint stress and lower extremity biomechanics at 12 weeks post-surgery and at time of return to sport in adolescent females.",
+  "year": "2020",
+  "journal": "Clinical biomechanics (Bristol, Avon)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The purpose of this study was to examine kinematic and kinetic differences associated with patellofemoral pain after anterior cruciate ligament reconstruction between limbs at 12-week post-surgery and at time of return to sport."
+    },
+    {
+      "label": "METHOD",
+      "text": "Twenty-four adolescent females completed 5 consecutive single leg squats on each limb at 12-weeks post-surgery and again during their RTS assessment. Peak knee extension moment, peak hip adduction angle, and patellofemoral joint stress at 45 degrees of knee flexion were calculated. Separate two by two repeated measures ANOVA were performed."
+    },
+    {
+      "label": "FINDINGS",
+      "text": "There was a significant interaction (limb × time) for knee extension moment (p < 0.001). Surgical limb knee extension moment was significantly less than the non-surgical limb at return to sport (p < 0.001). At 12-weeks the surgical limb was significantly less than non-surgical limb (p < 0.001), additionally the surgical limb was significantly greater at time of return to sport than at 12 weeks (p < 0.001). There was a significant main effect of limb for hip adduction angle (p = 0.002). Surgical limb was significantly greater than non-surgical limb (Surgical = 9.84 (SE 1.53) degree, non-surgical = 4.79 (SE 1.01) degree). There was also a main effect of time and limb for patellofemoral joint stress. Return to sport was significantly greater than 12 weeks and the surgical limb was significantly less than non-surgical limb (Surgical = 4.93 (SE 0325) MPa, Nonsurgical = 5.29 (SE 0.30) MPa)."
+    },
+    {
+      "label": "INTERPRETATION",
+      "text": "The surgical limb of participants following ACL-R demonstrated variables that have been associated with the development of patellofemoral pain."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [
+    {
+      "section": "FINDINGS",
+      "sentence": "At 12-weeks the surgical limb was significantly less than non-surgical limb (p < 0.001), additionally the surgical limb was significantly greater at time of return to sport than at 12 weeks (p < 0.001)."
+    },
+    {
+      "section": "FINDINGS",
+      "sentence": "Return to sport was significantly greater than 12 weeks and the surgical limb was significantly less than non-surgical limb (Surgical = 4.93 (SE 0325) MPa, Nonsurgical = 5.29 (SE 0.30) MPa)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

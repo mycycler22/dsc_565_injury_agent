@@ -1,0 +1,35 @@
+{
+  "pmid": "35494277",
+  "title": "Hip Pain Increases With Age and Experience Level in Adult Karate Athletes: A Statewide Survey Study.",
+  "year": "2022",
+  "journal": "Arthroscopy, sports medicine, and rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the prevalence of hip pain from labral tears and femoroacetabular impingement (FAI) in karate athletes using a statewide online survey."
+    },
+    {
+      "label": "METHODS",
+      "text": "An anonymous electronic survey was distributed via Qualtrics to all registered members of a statewide karate organization who were a purple belt or higher. Basic demographic information was collected as well as belt level, competitive level, and information regarding hip pain and treatment for hip pain. Microsoft Excel was used to store and analyze data."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 180 respondents, 123 (68.3%) never had hip pain when practicing karate, and 54 (30.0%) had hip pain at some point in their karate career. Three subjects did not provide an answer and were excluded. Furthermore, of the symptomatic individuals, 52 reported the location of their hip pain, whereas 2 subjects did not. Of the symptomatic individuals (54), 32 had formal diagnoses by a medical professional, 4 (12.5%) were diagnosed with FAI of the hip, 6 (18.8%) diagnosed with a hip labral tear, 3 (9.4%) diagnosed with hip bursitis, 3 (9.4%) diagnosed with hip arthritis, and 16 (50%) had other diagnoses. The remaining 22 participants have not received a formal diagnosis by a medical professional."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The prevalence of hip pain in karate athletes in this survey was lower compared to athletes of other martial arts and kicking sports. No differences in the percentage of injuries were found between sex and years practiced; however a higher incidence of hip pain was found between elite status and age group. When evaluating hip pain in the karate population, orthopaedic surgeons should maintain an index of suspicion for FAI and hip labral tears."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, retrospective cross-sectional study."
+    }
+  ],
+  "injury_query": "hip labral tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

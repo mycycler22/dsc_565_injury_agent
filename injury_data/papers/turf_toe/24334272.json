@@ -1,0 +1,36 @@
+{
+  "pmid": "24334272",
+  "title": "Incidence and risk factors for turf toe injuries in intercollegiate football: data from the national collegiate athletic association injury surveillance system.",
+  "year": "2014",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Turf toe is the general term for a sprain of the first metatarsophalangeal (MTP) joint complex. Previously attributed to shoe design and artificial turf, the incidence of turf toe injury has been thought to decline with the advent of newer turf designs. However, the current incidence and epidemiology remain unknown as the majority of the literature consists of small series and addresses diagnosis and treatment rather than epidemiology and prevention."
+    },
+    {
+      "label": "METHODS",
+      "text": "We examined data from the NCAA's Injury Surveillance System (ISS) for 5 football seasons (2004-2005 through 2008-2009), including all preseason, regular season, and postseason practice and competition data. The incidence, epidemiology, and risk factors for turf toe injury, defined as injury to the connective tissue of the first MTP joint, plantar plate complex, and/or sesamoid fracture, were determined."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall incidence of turf toe injuries in NCAA football players was 0.062 per 1000 athlete-exposures (A-Es; 95% CI 0.052, 0.072). Athletes were nearly 14 times more likely to sustain the injury during games compared to practice, with a mean days lost due to injury of 10.1 (7.9, 12.4). Fewer than 2% of turf toe injuries required operative intervention. There was a significantly higher injury rate on third-generation artificial surfaces compared to natural grass (0.087 per 1000 A-E [0.067, 0.11] vs 0.047 per 1000 A-E [0.036, 0.059]). The majority of injuries occurred as a result of contact with the playing surface (35.4%) or contact with another player (32.7%), and running backs and quarterbacks were the most common positions to suffer turf toe injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our data suggest a significantly higher incidence of turf toe injuries during games, a greater susceptibility among running backs and quarterbacks, and a significant contribution of playing surface to risk of injury. Though turf toe injuries may be less common that previously reported in elite football players, these injuries warrant appropriate acute and long-term management to prevent long-term dysfunction."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, case series."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

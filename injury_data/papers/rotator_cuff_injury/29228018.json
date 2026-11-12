@@ -1,0 +1,20 @@
+{
+  "pmid": "29228018",
+  "title": "Genome-wide association study identifies a locus associated with rotator cuff injury.",
+  "year": "2017",
+  "journal": "PloS one",
+  "pub_types": [
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Rotator cuff tears are common, especially in the fifth and sixth decades of life, but can also occur in the competitive athlete. Genetic differences may contribute to overall injury risk. Identifying genetic loci associated with rotator cuff injury could shed light on the etiology of this injury. We performed a genome-wide association screen using publically available data from the Research Program in Genes, Environment and Health including 8,357 cases of rotator cuff injury and 94,622 controls. We found rs71404070 to show a genome-wide significant association with rotator cuff injury with p = 2.31x10-8 and an odds ratio of 1.25 per allele. This SNP is located next to cadherin8, which encodes a protein involved in cell adhesion. We also attempted to validate previous gene association studies that had reported a total of 18 SNPs showing a significant association with rotator cuff injury. However, none of the 18 SNPs were validated in our dataset. rs71404070 may be informative in explaining why some individuals are more susceptible to rotator cuff injury than others."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

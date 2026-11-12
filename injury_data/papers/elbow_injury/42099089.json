@@ -1,0 +1,47 @@
+{
+  "pmid": "42099089",
+  "title": "Aligning Self-Perceived Shoulder and Elbow Function With Risk Factors for Shoulder and Elbow Injury in Baseball Athletes.",
+  "year": "2026",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The Kerlan Jobe Orthopaedic Clinical Shoulder and Elbow Score (KJOC) is a responsive outcome for monitoring self-perceived shoulder and elbow function in baseball athletes. While clinically useful, barriers regarding its implementation subject the KJOC to limitations. The ability to delineate variables that predict KJOC scores by identifying metrics associated with poor self-perceived function in baseball athletes would prove beneficial."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "At least one risk factor for shoulder or elbow injury would significantly explain a portion of the variance in KJOC scores."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Retrospective cohort study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 379 baseball athletes completed the KJOC at initial evaluation for either a shoulder or elbow injury. Demographic information and a series of clinical objective measures were collected. A total of 18 variables, most of which have been associated previously with injury risk in baseball athletes, were entered in stepwise fashion into a linear regression."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the final model, 13% of the variance in KJOC scores can be explained by 5 significant predictors. Age explained 6.4%, normalized rotational strength differences explained 1.6% to 2.5%, humeral retrotorsion-corrected glenohumeral internal rotation explained 1.3%, and height explained 0.9% of the total variance in KJOC scores."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Five variables significantly predicted a portion of the variance in KJOC scores in injured baseball athletes. While the overall variance explained by the model was modest, these findings demonstrate several key demographic and clinical objective measures that may provide meaningful insight into athletes' self-perceived shoulder and elbow function."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "These results support the continued use of patient-reported outcome measures, such as the KJOC, while encouraging the development of objective screening procedures to complement clinical integration. Identifying associated clinical and objective variables that explain self-perceived shoulder and elbow function may allow for improved selection of screening measures for shoulder and elbow injury risk in baseball athletes."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

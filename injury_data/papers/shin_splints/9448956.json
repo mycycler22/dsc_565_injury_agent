@@ -1,0 +1,36 @@
+{
+  "pmid": "9448956",
+  "title": "Lower extremity morphology and alignment and risk of overuse injury.",
+  "year": "1998",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Lower extremity alignment factors, including tibiofemoral angle, quadriceps angle (Q-angle), and limb length discrepancies, are commonly thought to be clinically relevant as contributing factors to overuse injuries of the lower extremities. To explore the scientific rationale for these clinical beliefs, we conducted a review of the available English language literature from 1966 to July 1997 relating overuse injury to lower extremity alignment."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "MEDLINE was searched for medical subject headings and title key words to locate published works relating lower extremity morphologic characteristics to risk of overuse injury. Additional references were reviewed from reprint collections and reference lists of published work."
+    },
+    {
+      "label": "DATA EXTRACTION AND SYNTHESIS",
+      "text": "Relevant studies were reviewed for strengths and weaknesses in design, analysis, and conclusions. Synthesis across studies concentrated on commonalities and differences of methods in definition of exposure and outcome variables."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "Six population-based studies have been conducted evaluating some aspect of lower extremity alignment as a risk factor for overuse injury. Three of these studies evaluated military recruits in basic training, two studied mixed groups of athletes and one studied folk dancers. The time frame across studies ranged from 12 weeks to 52 weeks. A key finding was the considerable variation in the measure of lower limb alignment used as the exposure variable, as well as the method of measurement used to quantify the exposure. Some studies relied on visual examination, whereas others used digitized photographic techniques. Moreover, each study varied in the definition used for overuse injury; outcomes ranged from self-reported cases of shin splints to radiographic confirmation of stress fracture. Five of the six studies evaluated some aspect of foot morphology, whereas only one evaluated full leg alignment parameters."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Results were conflicting but, in general, did not support clinical beliefs of the detrimental effects of decreased longitudinal foot arch and varus tibiofemoral alignment as risk factors for lower extremity overuse injury. Differences in methodologic rigor and outcome definition prevent a meaningful synthesis of existing work. Directions for future research are suggested."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

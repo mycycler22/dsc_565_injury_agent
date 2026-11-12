@@ -1,0 +1,40 @@
+{
+  "pmid": "25524323",
+  "title": "Platelet-Rich Plasma in the Treatment of Patellar Tendinopathy: A Systematic Review.",
+  "year": "2015",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy (PT) is a major cause of morbidity in both high-level and recreational athletes. While there is good evidence for the effectiveness of eccentric exercise regimens in its treatment, a large proportion of patients have disease that is refractory to such treatments. This has led to the development of novel techniques, including platelet-rich plasma (PRP) injection, which aims to stimulate a normal healing response within the abnormal patellar tendon. However, little evidence exists at present to support its use."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the safety and effectiveness of PRP in the treatment of PT and to quantify its effectiveness relative to other therapies for PT."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was conducted in accordance with the preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines. A literature review was conducted of the Medline, EMBASE, and Cochrane databases as well as trial registries. Both single-arm and comparative studies were included. The outcomes of interest were pain (as measured by visual analog or other, comparable scoring systems), functional scores, and return to sport. Study quality and risk of bias were assessed using the methodological index for nonrandomized studies (MINORS) score and the Cochrane risk of bias tool."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eleven studies fit the inclusion criteria. Of these, 2 were randomized, controlled trials (RCTs), and 1 was a prospective, nonrandomized cohort study. The remainder were single-arm case series. All noncomparative studies demonstrated a significant improvement in pain and function after PRP injection. Complications and adverse outcomes were rare. The results of the comparative studies were inconsistent, and superiority of PRP over control treatments could not be conclusively demonstrated."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Platelet-rich plasma is a safe and promising therapy in the treatment of recalcitrant PT. However, its superiority over other treatments such as physical therapy remains unproven. Further RCTs are required to determine the relative effectiveness of the many available treatments for PT and to determine the subgroups of patients who stand to gain the most from the use of these therapies."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

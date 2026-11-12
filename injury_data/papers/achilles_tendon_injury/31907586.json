@@ -1,0 +1,45 @@
+{
+  "pmid": "31907586",
+  "title": "Epidemiology of Achilles tendon injuries in collegiate level athletes in the United States.",
+  "year": "2020",
+  "journal": "International orthopaedics",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles injuries are devastating injuries, especially for competitive athletes. No studies have examined the outcomes of Achilles injuries in NCAA athletes. Therefore, a better characterization and understanding of the epidemiology is crucial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Achilles injuries across 16 sports among NCAA men and women during the 2004-2005 to 2013-2014 academic years were analyzed using the NCAA Injury Surveillance Program (NCAA-ISP). Achilles tendon injury rate (IR) per 100,000 athlete-exposures (AEs), operative rate, annual injury rate trends, reinjury rates, mechanism of injury, in-season status (pre/regular/post season), and time loss distributions were compiled and calculated. A sub-analysis of comparing gender and injury mechanism was also performed for both all injuries and severe injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, N = 255 Achilles injuries were identified with an injury rate (IR) of 2.17 (per 100,000 AEs). These injuries occurred most often in women's gymnastics (IR = 16.73), men's basketball (IR = 4.26), and women's basketball (IR = 3.32), respectively. N = 52 injuries were classified as severe injuries which have higher median time loss (48 days) and higher operative rate (65.4%). For severe Achilles injuries, female athletes had higher operative (77.8% vs. 58.8%) and higher time loss compared to male athletes (96 days vs. 48 days). Contact mechanisms were associated with a higher season-ending injury rate."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Overall, 20.4% of Achilles injuries were considered severe with 65.6% operative rate. About 73.1% were season-ending injuries, and the remaining athletes have a median time loss of 48 days. Severe Achilles injuries create significant impact on playing time and career for NCAA athletes."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "N = 52 injuries were classified as severe injuries which have higher median time loss (48 days) and higher operative rate (65.4%)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "For severe Achilles injuries, female athletes had higher operative (77.8% vs. 58.8%) and higher time loss compared to male athletes (96 days vs. 48 days)."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "About 73.1% were season-ending injuries, and the remaining athletes have a median time loss of 48 days."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

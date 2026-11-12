@@ -1,0 +1,31 @@
+{
+  "pmid": "42217613",
+  "title": "Return to sport after ulnar collateral ligament repair and reconstruction.",
+  "year": "2026",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Given the rising incidence of elbow ulnar collateral ligament (UCL) injury among young athletes in overhead sports, it is important to identify optimal treatments. The historic gold standard is UCL reconstruction. However, suture-augmented UCL repair techniques have become increasingly popular given their high rates of return to play in partial or full thickness avulsion UCL tears. The purpose of this study was to determine complications, clinical outcomes, and return to sport in UCL repair and reconstruction. We hypothesized that there would be a similar rate of return to sport in repair but in less time and with fewer complications."
+    },
+    {
+      "label": "METHODS",
+      "text": "This was a retrospective study of 73 consecutive patients who underwent UCL repair or reconstruction by a single surgeon at an academic institution between March 2017 and March 2023. Demographic, history, exam, imaging, and intraoperative variables were collected. At 2-year follow-up we collected patient satisfaction, whether there were any reoperations, whether there were any postoperative complications or issues with ulnar nerve function, the patients time to return to throwing, and their time to full play and in what capacity they were able to return."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Patients initiated a return to throwing program in 3.4 ± 2.2 months after repair and 4.3 ± 1.8 months after reconstruction. Return to full play occurred after 8.3 ± 4.3 months after repair and 10.0 ± 3.7 months after reconstruction. Ninety-seven percent of patients in both groups returned to play. Ninety-three percent of repairs and 97% of reconstructions able to return to the same level of play postoperatively. Ninety-two percent of reconstructions and 87% of repairs returned to the same position as preoperatively."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Both UCL reconstruction and repair are successful treatment options for UCL injuries in overhead athletes with high return to play rates. Repair was associated with a 0.9-month quicker return to throwing and 1.7-month quicker return to play and lower rates of postoperative ulnar neuritis, but a higher complication rate of 10% compared to 3% in the reconstruction cohort. However, these findings are purely associations given the different indications for each procedure."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

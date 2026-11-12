@@ -1,0 +1,47 @@
+{
+  "pmid": "33530847",
+  "title": "Confidence to Return to Play After Anterior Cruciate Ligament Reconstruction Is Influenced by Quadriceps Strength Symmetry and Injury Mechanism.",
+  "year": "2021",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Although the restoration of quadriceps strength symmetry is a primary rehabilitation goal after anterior cruciate ligament reconstruction (ACLR), little is known about the potential relationship between quadriceps strength symmetry and psychological readiness to return to play (RTP)."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Quadriceps strength symmetry will be associated with psychological readiness to RTP after ACLR. Secondarily, injury mechanism will influence the association between quadriceps strength and psychological readiness to RTP."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Retrospective cohort."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3 (cohort study)."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 78 female patients completed strength testing and the Injury-Psychological Readiness to Return to Sport (I-PRRS) scale at an outpatient clinical facility as part of return to sport testing after ACLR. Linear regression analysis was used to assess the relationship between the I-PRRS and the independent variables of interest (quadriceps strength symmetry and injury mechanism)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For all patients combined, a significant symmetry × mechanism interaction was found. When split by injury mechanism, a significant linear relationship was found between quadriceps strength symmetry and the I-PRRS score in patients who experienced a noncontact injury (n = 55; <i>P</i> = 0.01; <i>R</i><sup>2</sup> = 0.24). No such relationship was found for those who experienced a contact injury (n = 23; <i>P</i> = 0.97; <i>R</i><sup>2</sup> = 0.01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Greater quadriceps strength symmetry was associated with greater psychological readiness to RTP in female athletes after ACLR. This relationship, however, was present only in those who experienced a noncontact injury."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Clinicians should consider both the physical and the psychological factors in assessing a patient's readiness to RTP. This may be particularly important for those who have experienced an ACL tear through a noncontact mechanism."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

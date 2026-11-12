@@ -1,0 +1,47 @@
+{
+  "pmid": "38439549",
+  "title": "Relationship Between Postural Stability and Proprioception, Pain, Quadriceps Strength, and Muscle Tightness in Athletes With Patellar Tendinopathy.",
+  "year": "2024",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Athletes with patellar tendinopathy (PT) have postural stability deficits; however, the underlying mechanisms and factors responsible remain unknown. The effect on postural stability in PT of decreased quadriceps strength, altered proprioception, lower-limb muscle tightness, and knee pain, which explain postural stability deficiency in other populations, is uninvestigated."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Proprioceptive acuity, muscle tightness, quadriceps strength, and pain predict postural stability in athletes with PT."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional comparative study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 43 athletes with PT and 43 healthy athletes were enrolled. Static and dynamic postural stability, proprioceptive acuity, muscle tightness, quadriceps strength, and pain were evaluated using a force platform, Y-balance test (YBT), a weight discrimination protocol, a goniometer, an isometric dynamometer, and a valid questionnaire, respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes with PT had significantly worse static and dynamic postural stability in the affected limb (AL) compared with the nonaffected limb (NAL) (<i>P</i> < 0.01) and the control group (<i>P</i> < 0.01). Athletes suffering from PT revealed lower quadriceps strength (<i>P</i> < 0.01), proprioceptive acuity (<i>P</i> = 0.02), and higher muscle tightness in the AL compared with the NAL and controls. Quadriceps weakness of the AL and pain in athletes with PT explained the variance of dynamic postural stability impairment."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes with PT have postural stability deficiency compared with healthy peers. Our results demonstrate that quadriceps muscle weakness and pain are the factors that explain postural stability impairment."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "These results can assist clinicians in the design of therapeutic balance rehabilitation programs by acting not only on pain relief but also on quadriceps strengthening through resistance training to avoid subsequent injuries in athletes with PT."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "32979079",
+  "title": "Meniscus repairs in the adolescent population-safe and reliable outcomes: a systematic review.",
+  "year": "2020",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study was to determine the outcomes of meniscus repair in the adolescent population, including: (1) failure and reoperation rates, (2) clinical and functional results, and (3) activity-related outcomes including return to sport."
+    },
+    {
+      "label": "METHODS",
+      "text": "Two authors independently searched MEDLINE, Cochrane Central Register of Controlled Trials & Cochrane Library, and CINHAL databases for literature related to meniscus repair in an adolescent population according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. No meta-analysis was performed in this qualitative systematic review."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirteen studies, including no Level I, one Level II, one Level III, and eleven Level IV studies yielded 466 patients with 503 meniscus repairs. All defined meniscal re-tear as a primary endpoint, with a reported failure rate ranging from 0 to 42% at a follow-up ranging from 22 to 211 months. There were a total of 93 failed repairs. IKDC scores were reported in four studies with a mean improvement ranging from 24 to 42 (P < 0.001). Mean post-operative Lysholm scores were reported in seven studies, ranging from 85 to 96. Additionally, four of those studies provided mean pre-operative Lysholm scores, ranging from 56 to 79, with statistically significant mean score improvements ranging from 17 to 31. Mean post-operative Tegner Activity scores were reported in nine studies, with mean values ranging from 6.2 to 8."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This systematic review demonstrates that both subjective and clinical outcomes, including failure rate, Lysholm, IKDC, and Tegner activity scale scores, are good to excellent following meniscal repair in the adolescent population. Further investigations should aim to isolate tear type, location, surgical technique, concomitant procedures, and rehabilitation protocols to overall rate of failure and clinical and functional outcomes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

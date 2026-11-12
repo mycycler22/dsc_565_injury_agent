@@ -1,0 +1,44 @@
+{
+  "pmid": "27166291",
+  "title": "Outcomes of Lisfranc Injuries in the National Football League.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tarsometatarsal (Lisfranc) joint injuries commonly occur in National Football League (NFL) competition; however, the career effect of these injuries is unknown."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To define the time to return to competition for NFL players who sustained Lisfranc injuries and to quantify the effect on athletic performance."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data on NFL players who sustained a Lisfranc injury between 2000 and 2010 were collected for analysis. Outcomes data included time to return to competition, total games played after season of injury, yearly total yards and touchdowns for offensive players, and yearly total tackles, sacks, and interceptions for defensive players. Offensive power ratings (OPR = [total yards/10] + [total touchdowns × 6]) and defensive power ratings (DPR = total tackles + [total sacks × 2] + [total interceptions × 2]) were calculated for the injury season and for 3 seasons before and after the injury season. Offensive and defensive control groups consisted of all players without an identified Lisfranc injury who competed in the 2005 season."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The study group was composed of 28 NFL athletes who sustained Lisfranc injuries during the study period, including 11 offensive and 17 defensive players. While 2 of 28 (7.1%) players never returned to the NFL, 26 (92.9%) athletes returned to competition at a median of 11.1 (interquartile range [IQR], 10.3-12.5) months from time of injury and missed a median of 8.5 (IQR, 6.3-13.0) regular-season games. Analysis of pre- and postinjury athletic performance revealed no statistically significant changes after return to sport after Lisfranc injury. The magnitude of change in median OPR and DPR observed in offensive and defensive Lisfranc-injured study groups, -34.8 (IQR, -64.4 to 1.4) and -13.5 (-30.9 to 4.3), respectively, was greater than that observed in offensive and defensive control groups, -18.8 (-52.9 to 31.5) and -5.0 (-22.0 to 14.0), respectively; however, these differences did not reach statistical significance (P = .33 and .21, respectively). Evaluation of the durability of injured players after the season of injury revealed no statistically significant difference in career length compared with controls."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "More than 90% of NFL athletes who sustained Lisfranc injuries returned to play in the NFL at a median of 11.1 months from time of injury. Offensive and defensive players experienced a decrease in performance after return from injury that did not reach statistical significance compared with their respective control groups over a similar time period."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [
+    {
+      "section": "CONCLUSION",
+      "sentence": "More than 90% of NFL athletes who sustained Lisfranc injuries returned to play in the NFL at a median of 11.1 months from time of injury."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

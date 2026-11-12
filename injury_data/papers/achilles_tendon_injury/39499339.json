@@ -1,0 +1,31 @@
+{
+  "pmid": "39499339",
+  "title": "Towards Achilles Tendon Injury Prevention in Athletes with Structural MRI Biomarkers: A Machine Learning Approach.",
+  "year": "2024",
+  "journal": "Sports medicine - open",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Recent advancements in artificial intelligence have proven their effectiveness in orthopaedic settings, especially in tasks like medical image analysis. This study compares human musculoskeletal radiologists to artificial intelligence in a novel, detailed, short, and cost-effective examination of Achilles tendon magnetic resonance images to uncover potential disparities in their reasoning approaches. Aiming to identify relationships between the structured assessment of the Achilles tendon and its function that could support injury prevention. We examined 72 athletes to investigate the link between Achilles tendon structure, as visualised in magnetic resonance images using a precise T2*-weighted gradient echo sequence with very short echo times, and its functional attributes. The acquired data were analysed using advanced artificial intelligence techniques and reviewed by radiologists. Additionally, we conducted statistical assessments to explore relationships with functional studies in four meaningful groups: dynamic strength, range of motion, muscle torque and stabilography."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The results show notable linear or non-linear relationships between functional indicators and structural alterations (maximal obtained Spearman correlation coefficients ranged from 0.3 to 0.36 for radiological assessment and from 0.33 to 0.49 for artificial intelligence assessment, while maximal normalised mutual information ranged from 0.52 to 0.57 for radiological assessment and from 0.42 to 0.6 for artificial intelligence assessment). Moreover, when artificial intelligence-based magnetic resonance assessment was utilised as an input, the associations consistently proved more robust, or the count of significant relationships surpassed that derived from radiological assessment. Ultimately, utilising only structural parameters as inputs enabled us to explain up to 59% of the variance within specific functional groups."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This analysis revealed that structural parameters influence four key functional aspects related to the Achilles tendon. Furthermore, we found that relying solely on subjective radiologist opinions limited our ability to reason effectively, in contrast to the structured artificial intelligence assessment."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional studies."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

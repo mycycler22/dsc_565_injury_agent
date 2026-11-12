@@ -1,0 +1,24 @@
+{
+  "pmid": "35917094",
+  "title": "Outcomes in Pediatric Hip FAI Surgery: a Scoping Review.",
+  "year": "2022",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Femoracetabular impingement (FAI) is a common source of hip pain in children and adolescents. While nonoperative therapies and open surgical procedures can be effective, hip arthroscopy is a minimally invasive treatment option with substantial benefit. The purpose of this paper is to evaluate the current role of hip arthroscopy in treating FAI within the pediatric population. This article examines its efficacy through a review of hip arthroscopy outcomes in the contemporary orthopaedic literature."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Morphologic changes in the acetabulum and proximal femur seen in FAI can be attributed to a multitude of etiologies-including idiopathic FAI, Legg-Calve-Perthes, and slipped capital femoral epiphysis. In general, arthroscopic treatment of FAI secondary to these conditions leads to statistically significant improvements in pain and patient-reported outcomes in the short and long term. In the pediatric athlete, repetitive stress on the hip perpetuates FAI and can drastically hinder performance. Hip arthroscopy allows for a high rate of return to sport with minimal morbidity in this population. Overall, pediatric hip arthroscopy is effective in treating FAI secondary to a wide variety of conditions. Despite its clinical benefits, patients and their families should be counseled regarding alternative treatments, potential complications, and return to play."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

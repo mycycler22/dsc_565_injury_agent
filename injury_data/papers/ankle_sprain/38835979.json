@@ -1,0 +1,43 @@
+{
+  "pmid": "38835979",
+  "title": "Effect of Sex and Lateral Ankle Sprain History on Dorsiflexion Range Of Motion Asymmetry During the Weight Bearing Lunge Test.",
+  "year": "2024",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Reduced dorsiflexion range of motion (DFROM) which is commonly seen following lateral ankle sprain (LAS) has the potential to influence lower extremity biomechanics which have been linked to increased injury risk in the female athlete. Current research on the effect of sex and LAS history on DFROM is limited."
+    },
+    {
+      "label": "HYPOTHESIS/PURPOSE",
+      "text": "This study had three aims 1) to determine the effect of sex, leg dominance and LAS history on DFROM, 2) to determine the effect of sex and LAS history on magnitude of DFROM symmetry and 3) to examine the association of sex on direction (whether dominant or non-dominant limb had the higher DFROM) of symmetry."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-Sectional Study."
+    },
+    {
+      "label": "METHODS",
+      "text": "DFROM was measured bilaterally in 105 recreational athletes all participating in multidirectional sports using the tape measurement method during the weight bearing lunge test (WBLT). A mean of three measurements was used for analysis. A 3-way mixed ANOVA was carried out to determine the interaction between sex, LAS history and leg dominance on DFROM and a 2-way ANOVA for the effect of sex and LAS history on asymmetry. A chi-square test was used to determine the association of sex and direction of asymmetry."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The results indicate no significant effect of sex, LAS history, and leg dominance on DFROM (p=0.65). Main effects were significant for sex and LAS on DFROM. The mean asymmetry for all participants was reported as 12.25±14.76cm. No significant effect of sex and LAS history on magnitude of asymmetry was reported. There was a significant association of sex and direction of asymmetry (χ2(1) = 11.26, p = 0.00). Sixty-five-point two percent of males were shown to have higher DFROM of their non-dominant limb compared to 75% of females who were higher in their dominant limb."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Findings from this study suggest that DFROM is affected by sex and LAS history. While females have increased DFROM compared to males, those with LAS history are more likely to have a decreased DFROM on the involved side. The results also indicate that interlimb asymmetries in DFROM are present in athletes, therefore practitioners should exercise caution when using bilateral comparisons in injury and return to play assessments."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "2b."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

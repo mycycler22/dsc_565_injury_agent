@@ -1,0 +1,35 @@
+{
+  "pmid": "42830738",
+  "title": "Focused extracorporeal shock wave therapy following intramedullary screw fixation for Jones fractures in high-level athletes may be associated with earlier bone union and return to sport.",
+  "year": "2026",
+  "journal": "Asia-Pacific journal of sports medicine, arthroscopy, rehabilitation and technology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Focused extracorporeal shock wave therapy (F-ESWT) is widely used as a bone growth stimulator in the treatment of various bony injuries; however, no previous studies have specifically investigated the efficacy of F-ESWT following intramedullary screw fixation for Jones fractures in athletes."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate the efficacy of F-ESWT in promoting bone healing following intramedullary screw fixation for Jones fractures in high-level athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study retrospectively analyzed the treatment outcomes of intramedullary screw fixation using cannulated Herbert-type screws for Jones fractures between April 2017 and April 2023. All the study subjects participated in high-level sports activities (Tegner activity score ≥ 8) prior to injury. A total of 34 patients who met the inclusion/exclusion criteria were enrolled in the study. Among these subjects, 13 patients underwent F-ESWT as postoperative adjunctive therapy (ESWT group), while the remaining 21 patients underwent fracture fixation therapy without F-ESWT augmentation (Non-ESWT group). Application of F-ESWT to the fracture site was initiated at 2 weeks postoperatively and was repeatedly performed once a week for 3 to 4 sessions (administration of 2500 impulses; energy flux density of .20 to .25 mJ/mm<sup>2</sup>; frequency of 4 Hz). Based on clinical records, outcomes including the time to achieve bone union, the time to return to the original sport at the pre-injury level, and the presence of any treatment failures or complications were evaluated and statistically compared between the groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "All patients in both groups achieved bone union and returned to their original sports activities at their pre-injury level. The median time to obtain bone union was 8 [interquartile range (IQR), 6-8] weeks in the ESWT group and 10 [IQR, 8-10] weeks in the Non-ESWT group (<i>P</i> < .001). The median time to return to the participant's original sport was 9 [IQR, 8-10] weeks in the ESWT group and 12 [IQR, 10-12] weeks in the Non-ESWT group (<i>P</i> < .001). Only one case of refracture occurred in the Non-ESWT group; however, statistical analysis of treatment failures and complications revealed no significant difference between the two groups (<i>P</i> = 1.000)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The application of F-ESWT after intramedullary screw fixation for Jones fractures may be associated with earlier bone union and return to the original sport in high-level athletes. Further prospective studies with larger sample sizes, particularly randomized controlled trials, are needed to validate these preliminary findings."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

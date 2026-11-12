@@ -1,0 +1,32 @@
+{
+  "pmid": "42067389",
+  "title": "Insurance Type Affects Access to Care for Young Football Athletes with Hip Labrum Tears.",
+  "year": "2026",
+  "journal": "Southern medical journal",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Patients with Medicaid compared with private insurance have increased difficulty gaining access to orthopedic care. How insurance status affects access to care for young athletes (football; from here, all \"young athletes\" are football players) with hip labrum tears has yet to be assessed. The purpose of this study was to determine whether there is a difference in insurance acceptance rates for Medicaid versus Blue Cross Blue Shield (BCBS) for young athletes with a hip labral tear."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifty orthopedic clinics across 10 states were contacted using a standardized script. Each clinic was called twice: once as a young athlete with BCBS and once with a young athlete with Medicaid, requesting an appointment for a hip labral tear. The primary outcome was appointment success. Secondary outcomes included barriers to scheduling and wait times. Statistical analysis was performed using chi-squared and Mann-Whitney <i>U</i> tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "All clinics accepted BCBS insurance, whereas only 16 (32%) accepted Medicaid (<i>P</i><0.0001). Young athletes with BCBS successfully scheduled an appointment 100% of the time compared with only 24% for young athletes with Medicaid (<i>P</i><0.0001). Of the 34 clinics that did not accept Medicaid, 22 (65%) cited not accepting the insurance, and 11 (32%) required a referral. Among clinics that accepted both insurance types, there was no significant difference in median wait time (13 vs 14 days, <i>P</i>=0.44)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "For young athletes with hip labrum tears, it is more difficult to schedule appointments with Medicaid insurance compared with BCBS insurance. The main barrier to care with Medicaid for young athletes is requiring a primary care physician referral."
+    }
+  ],
+  "injury_query": "hip labral tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

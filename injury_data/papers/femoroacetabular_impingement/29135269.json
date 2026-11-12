@@ -1,0 +1,45 @@
+{
+  "pmid": "29135269",
+  "title": "Return to Play After Hip Arthroscopic Surgery for Femoroacetabular Impingement in Professional Soccer Players.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Arthroscopic hip surgery has been shown to be effective in returning professional athletes back to play at a high level of performance in different sports. Limited information exists regarding professional soccer players and their return to play."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the rate and time to return to sport for professional soccer players after hip arthroscopic surgery for the treatment of femoroacetabular impingement (FAI) and to identify possible risk factors associated with a delay in returning to play."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Professional soccer players who underwent hip arthroscopic surgery for FAI by a single surgeon between 2005 and 2015 were evaluated. Data retrieved from www.mlssoccer.com , www.fifa.com , www.transfermarkt.co.uk , and www.wikipedia.org included information on each player's professional career, participation on the national team, length of professional career before surgery, number of appearances (games) before surgery, time between surgery and first appearance in a professional game, and number of appearances after surgery. Other data were obtained from the patient's medical records."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-four professional soccer players (26 hips) were included. The mean age at surgery was 25.0 ± 4.0 years (range, 19-32 years). A total of 96% of patients were able to return to play at the professional level. The mean time between surgery and the first professional game played was 9.2 months (range, 1.9-24.0 months). On average, players played in 70 games after surgery (range, 0-224). National team players were able to return to play significantly earlier than the rest of the players (median, 5.7 months vs 11.6 months, respectively; P = .018). Severe chondral damage and microfracture did not interfere with return to play."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The arthroscopic management of FAI in symptomatic professional soccer players allowed 96% of them to return to play. Players with national team experience were able to return to play earlier than those without it. Severe chondral damage and microfracture did not interfere with return to play."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "National team players were able to return to play significantly earlier than the rest of the players (median, 5.7 months vs 11.6 months, respectively;"
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

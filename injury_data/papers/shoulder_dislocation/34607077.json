@@ -1,0 +1,33 @@
+{
+  "pmid": "34607077",
+  "title": "Development of a single-session physiotherapy and self-management intervention for the treatment of primary traumatic anterior shoulder dislocation for the 'Acute Rehabilitation following Traumatic anterior shoulder dISlocAtioN (ARTISAN)' multi centre RCT.",
+  "year": "2021",
+  "journal": "Physiotherapy",
+  "pub_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Optimum physiotherapy management for people with a conservatively managed primary traumatic anterior shoulder dislocation is not known. The purpose of the ARTISAN trial is to compare the clinical and cost-effectiveness of a course of usual care physiotherapy with a single session of physiotherapy and self-management, the ARTISAN intervention. ARTISAN is a UK multi-centre, two-arm, parallel group, randomised controlled trial with 1:1 treatment allocation."
+    },
+    {
+      "label": "DESIGN",
+      "text": "The intervention was developed following the Medical Research Council framework for developing and evaluating complex interventions and will be reported in line with the template for intervention description and replication checklist (TIDieR) and the Consensus on Exercise Reporting Template (CERT). It was informed by published research, national clinical guidelines, current clinical practice and patient and public involvement."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The ARTISAN intervention comprises education (Phase 1), progressive exercise (Phase 2 and Phase 3) and an optional return to sport component (Phase 4). Behaviour change strategies are embedded throughout intervention. The single session of physiotherapy is delivered by a chartered physiotherapist, within the first six weeks of injury, in an NHS outpatient setting. At the end of the initial session, paper-based booklets and/or a patient website with the same content are provided to participants to aid self-management and progression though the four phases of the trial intervention."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The ARTISAN intervention was successfully implemented throughout the internal pilot and is suitable for testing in the subsequent definitive RCT ARTISAN trial. Trial Registration Number ISRCTN63184243."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

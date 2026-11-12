@@ -1,0 +1,19 @@
+{
+  "pmid": "38151113",
+  "title": "Validation of the Ankle Ligament Reconstruction-Return to Sports after Injury (ALR-RSI) Score as a Tool to Assess Psychological Readiness to Return to Sport in an Active Population After Ankle Fracture Surgery: A Cross-sectional Study.",
+  "year": "2024",
+  "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Ankle injuries account for 15% to 25% of all sports injuries resulting in significant pain and loss of function. The purpose of this cross-sectional study was to validate a scale to help surgeons quantify the psychological readiness to Return To Sport (RTS) in patients undergoing ankle fracture surgery. ALR-RSI was used to assess the psychological readiness for RTS in athletic patients who underwent ankle fracture fixation between January 2020 and January 2021. Participants filled out ALR-RSI and 2 Patient-Related Outcome Measurement (PROM) tools: Olerud-Molander Ankle Score (OMAS) and Self-Reported Foot and Ankle Score (SEFAS). A total of 93 patients were included. There was a strong correlation between ALR-RSI and both OMAS and SEFAS, with Pearson coefficients of r = 0.58 and 0.53, respectively. ALR-RSI was significantly higher in the RTS group than in those who no longer practiced their main preinjury sport. Moreover, the discriminant validity of ALR-RSI (AUC = 0.81) was better than that of the SEFAS and OMAS (AUC = 0.64 and 0.65, respectively, p = .001). The intra-class correlation coefficient ρ of 0.94 showed excellent reproducibility. At an optimal cutoff value of 76.7, ALR-RSI had a sensitivity of 81% and a specificity of 75% with a Youden index of 0.56. In conclusion, ALR-RSI was a valid and reproducible tool to evaluate the psychological readiness for RTS in an active population after an ankle fracture. This score could help surgeons identify athletes who may have unfavorable postoperative outcomes and provide support on the ability to RTS."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

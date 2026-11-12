@@ -1,0 +1,32 @@
+{
+  "pmid": "34637371",
+  "title": "Hamstrings injury incidence, risk factors, and prevention in Rugby Union players: a systematic review.",
+  "year": "2023",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries are one of the most common injuries in Rugby Union, representing up to 15% of all injuries sustained. We aimed to systematically review and summarize the scientific literature that addressed hamstring strain injury incidence, risk factors, injury prevention or strengthening strategies, and strength or asymmetry measures in Rugby Union."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a systematic search to locate published peer-reviewed articles from PubMed, SPORTDiscus<sup>TM</sup>, Web of Science®, and Scopus® e-databases. Studies included were original research conducted in Rugby Union that evaluated hamstring strength, hamstring strengthening interventions, and/or hamstring injury outcomes. Included studies were quality assessed using the Newcastle-Ottawa Scale."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-four studies met inclusion and altogether involved 2866 participants. Isokinetic testing was the most common method used to quantify hamstring strength and imbalances in Rugby Union; with data indicating that professionals are stronger than amateurs, and forwards are stronger than backs. Regarding risk factors, we identified playing position, fatigue, previous injuries, between leg strength imbalances, lack of readiness to return to play post injury, and game actions (i.e. running). There is evidence to support the use of Nordic eccentric strength measures to inform practice, with strength and imbalances useful in predicting injuries. Strengthening programs with Nordic exercises significantly increased hamstring strength, increased muscle thickness, and decreased imbalance ratios in female and male players. A significant reduction in injury incidence and severity in professional players has been observed in players performing routines incorporating progressive Nordic exercises."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The etiology of hamstring strain injuries is multifactorial, with playing position, fatigue, previous injuries, leg imbalances, lack of readiness to return to play, and running actions identified as contributing factors across levels. Combining strategies to prevent hamstring injuries and recurrences, and to inform return to play, is likely worthwhile and should include Nordic strength assessment and Nordic exercises."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

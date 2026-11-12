@@ -1,0 +1,32 @@
+{
+  "pmid": "39175621",
+  "title": "Risk factors of metatarsal stress fracture associated with repetitive sports activities: a systematic review.",
+  "year": "2024",
+  "journal": "Frontiers in bioengineering and biotechnology",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Metatarsal stress fracture is common in people engaged in repetitive weight-bearing activities, especially athletes and recruits. Identifying risk factors in these contexts is crucial for effective prevention."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search on Web of Science, PubMed, EBSCO, SPORTDiscus, MEDLINE, and Cochrane Library was conducted and the date range for the retrieval was set from January 1984 to April 2024."
+    },
+    {
+      "label": "RESULTS",
+      "text": "32 eligible studies were selected from 1,728 related research. Anatomical and biomechanical factors, such as higher foot arch, abnormal inversion/eversion of foot, and longer metatarsal length or larger angles, relatively influence stress fracture risk. However, given that there is no standardized measurement, the results remain to be examined. Soccer is associated with fifth metatarsal fractures, while long-distance running and recruit training often lead to fractures of the second or third metatarsals. High exercise intensity, non-adaptive training, and inadequate equipment heighten fracture risk."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This review highlights the complex interplay of anatomical, biomechanical, and sports-related factors in the risk of metatarsal stress fractures. Relatively, high arches, specific metatarsal morphologies, and foot inversion/eversion patterns are significant risk factors, particularly among athletes. Sports type also correlates with metatarsal stress fracture locations. Despite extensive research, study heterogeneity and inherent biases necessitate cautious interpretation. Comprehensive, multifactorial approaches and personalized injury prevention strategies are essential for reducing the incidence of these injuries and improving the health and performance of athletes."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

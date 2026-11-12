@@ -1,0 +1,44 @@
+{
+  "pmid": "34115525",
+  "title": "Functional Ankle Range of Motion but Not Peak Achilles Tendon Force Diminished With Heel-Rise and Jumping Tasks After Achilles Tendon Repair.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Deficits in sporting performance after Achilles tendon repair may be due to changes in musculotendinous unit structure, including tendon elongation and muscle fascicle shortening."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose was to discern whether Achilles tendon rupture reduces triceps surae muscle force generation, alters functional ankle range of motion, or both during sports-related tasks. We hypothesized that individuals who have undergone Achilles tendon repair lack the functional ankle range of motion needed to complete sports-related tasks."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study included individuals 1 to 3 years after treatment of Achilles tendon rupture with open repair. Participants (n = 11) completed a heel-rise task and 3 jumping tasks. Lower extremity biomechanics were analyzed using motion capture. Between-limb differences were tested using paired <i>t</i> test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Pelvic vertical displacement was reduced during the heel-rise (mean difference, -12.8%; <i>P</i> = .026) but not during the jumping task (<i>P</i> > .1). In the concentric phase of all tasks, peak ankle plantarflexion angle (range of mean difference, -19.2% to -48.8%; <i>P</i> < .05) and total plantar flexor work (defined as the area under the plantar flexor torque - ankle angle curve) (range of mean difference, -9.5% to -25.7%; <i>P</i> < .05) were lower on the repaired side relative to the uninjured side. No significant differences were seen in peak Achilles tendon load or impulse with any of the tasks. There were no differences in plantar flexor work or Achilles tendon load parameters during eccentric phases."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Impaired task performance or increased demands on proximal joints were observed on the repaired side in tasks isolating ankle function. Tasks that did not isolate ankle function appeared to be well recovered, although functional ankle range of motion was reduced with rupture. Reduced plantar flexor muscle-tendon unit work supports previous reports that an elongated tendon and shorter muscle fascicles caused by Achilles tendon rupture constrain functional capacity. Achilles tendon peak load and impulse were not decreased, suggesting that reduced and shifted functional ankle range of motion (favoring dorsiflexion) underlies performance deficits."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "These findings point to the need to reduce tendon elongation and restore muscle length of the triceps surae after Achilles tendon rupture in order to address musculature that is short but not necessarily weak for improved performance with sports-related activities."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

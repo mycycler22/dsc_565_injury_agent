@@ -1,0 +1,52 @@
+{
+  "pmid": "42453597",
+  "title": "Epidemiology and Video Analysis of Hamstring Injuries in the National Basketball Association.",
+  "year": "2026",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Hamstring injuries are common in the National Basketball Association (NBA); however, there is a paucity of epidemiological data regarding these injuries."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The primary aims of this study were to characterize the epidemiology and performance outcomes of hamstring injuries in the NBA over 4 seasons. Secondary aims were to analyze the mechanism of hamstring injury through video analysis."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Publicly available injury reports, player statistics, and game footage from the NBA over 4 seasons (2019-2022)."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "We included a total of 181 injuries sustained by NBA players for analysis. We analyzed available video film for 45 players to determine the mechanism of injury."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "We recorded player demographics and performance data. We used Game Score, which uses box score statistics such as points, rebounds, assists, steals, and blocks to measure player performance. We compared performance outcomes by age, body mass index, game score, and position using paired <i>t</i> tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "By position, guards experienced the highest proportion of injuries (65.7%). Players injured their left hamstring most frequently (59.6%; <i>P</i> = .044). Players missed an average of 5.5 games after injury. Within 3 months of returning to play, 16.0% reinjured their ipsilateral hamstring and 5.0% injured their contralateral hamstring. Player performance declined after injury in the short and long term by -1.1 and -0.8 game score units, respectively. Video analysis revealed most injuries were noncontact (62.2%) and occurred as a player initiated a plant/jump movement with the injured extremity (41.9%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "High-performing players have higher rates of reinjury and a more significant decline in performance compared with low-performing players. Most injuries occurred on offense when the injured player was jumping or landing. Due to the frequency of hamstring injuries, awareness of injury mechanisms and characteristics of injury can be useful for risk mitigation purposes."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Within 3 months of returning to play, 16.0% reinjured their ipsilateral hamstring and 5.0% injured their contralateral hamstring."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

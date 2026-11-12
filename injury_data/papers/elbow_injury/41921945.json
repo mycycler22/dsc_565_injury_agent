@@ -1,0 +1,35 @@
+{
+  "pmid": "41921945",
+  "title": "No Differences Exist in Leg-Length-Normalized Y-Balance Test Scores Between Injured and Uninjured Baseball Athletes.",
+  "year": "2026",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Deficits in balance can negatively impact throwing biomechanics in overhead throwing athletes. Previous work has demonstrated discrepancies in balance, measured by the Y-Balance Test Lower Quarter (YBT-LQ), in baseball athletes. However, there is limited data regarding anterior reach (ANT) YBT-LQ scores in baseball athletes with shoulder and elbow injuries and between athletes undergoing surgical versus conservative treatment. Therefore, the purpose of this study was to determine whether differences exist in ANT YBT-LQ scores between baseball athletes with elbow and shoulder injuries compared with uninjured controls and to determine if differences existed in ANT YBT-LQ scores between those undergoing surgical versus conservative treatment."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional matched control study."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study was conducted at a single outpatient sports medicine facility and local universities close to the project's center. Baseball athletes presenting with a shoulder or elbow injury were matched by age, position, body mass index, limb dominance, and playing years' experience. Leg length was measured bilaterally using a standard cloth tape. The maximum reach distance for the ANT portion of the YBT-LQ test was recorded using previously reported testing procedures. Average scores were normalized to leg length."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 63 injured baseball athletes and 63 uninjured matched controls were included in this study. There were no significant differences found for normalized ANT YBT-LQ scores for either the stance or stride limbs between the elbow injured and control group or between shoulder injured and control group (P > .0125). Similarly, there were no significant differences found between those undergoing surgical versus conservative interventions (P > .0125)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "When normalizing the ANT YBT-LQ to leg length, no differences exist between shoulder or elbow injured and uninjured baseball athletes for either the stance or stride limbs or between injured athletes undergoing surgical versus conservative intervention."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

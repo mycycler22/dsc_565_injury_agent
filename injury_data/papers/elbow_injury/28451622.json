@@ -1,0 +1,43 @@
+{
+  "pmid": "28451622",
+  "title": "The Effects of Elbow Bracing on Medial Elbow Joint Space Gapping Associated With Repetitive Throwing in High School Baseball Players.",
+  "year": "2017",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Throwing athletes risk medial elbow injury from extreme valgus stress generated across the medial elbow during throwing. Braces have been developed to protect the elbow joint; however, no previous study has investigated the effects of elbow bracing on medial elbow joint space gapping associated with repetitive throwing."
+    },
+    {
+      "label": "HYPOTHESIS/PURPOSE",
+      "text": "The purpose of this study was to investigate the effects of elbow bracing on medial elbow joint space gapping during repetitive throwing. Our hypothesis was that an elbow brace may reduce mechanical stress on the elbow by reducing medial elbow joint space gapping."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-five high school baseball players participated in this study. Each subject pitched 100 times under 2 conditions: control (without elbow brace) and elbow brace. The ulnohumeral joint space was measured ultrasonically before pitching and after every block of 20 pitches. Measurement of the ulnohumeral joint space was carried out using ultrasound with the forearm hanging by the side. Two-way repeated-measures analysis of variance and post hoc tests were used to compare ulnohumeral joint space with repeated pitching and between the elbow brace and control conditions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the control condition, ulnohumeral joint space after 60 pitches was significantly greater than that before pitching (<i>P</i> < .01). In contrast, in the elbow brace condition, ulnohumeral joint space was not significantly different after repeated pitching. When comparing these 2 conditions, ulnohumeral joint space in the control condition was significantly greater than that in the elbow brace condition after 60 pitches (<i>P</i> < .01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "An elbow brace has the effect of preventing medial elbow joint space gapping with repeated throwing when determined ultrasonically by measuring the ulnohumeral joint space under gravity load."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "An elbow brace worn during baseball pitching practice may help reduce mechanical stress on the elbow by reducing medial elbow joint space gapping."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

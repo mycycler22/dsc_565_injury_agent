@@ -1,0 +1,32 @@
+{
+  "pmid": "26778530",
+  "title": "Prevalence of cam hip shape morphology: a systematic review.",
+  "year": "2016",
+  "journal": "Osteoarthritis and cartilage",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Cam hip shape morphology is a recognised cause of femoroacetabular impingement (FAI) and is associated with hip osteoarthritis. Our aim was to systematically review the available epidemiological evidence assessing the prevalence of cam hip shape morphology in the general population and any studied subgroups including subjects with and without hip pain."
+    },
+    {
+      "label": "DESIGN",
+      "text": "All studies that reported the prevalence of cam morphology, measured by alpha angles, in subjects aged 18 and over, irrespective of study population or presence of hip symptoms were considered for inclusion. We searched AMED, MEDLINE, EMBASE, CINAHL and CENTRAL in October 2015. Two authors independently identified eligible studies and assessed risk of bias. We planned to pool data of studies considered clinically homogenous."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty studies met inclusion criteria. None of the included studies were truly population-based: three included non-representative subgroups of the general population, 19 included differing clinical populations, while eight included professional athletes. All studies were judged to be at high risk of bias. Due to substantial clinical heterogeneity meta analysis was not possible. Across all studies, the prevalence estimates of cam morphology ranged from 5 to 75% of participants affected. We were unable to demonstrate a higher prevalence in selected subgroups such as athletes or those with hip pain."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There is currently insufficient high quality data to determine the true prevalence of cam morphology in the general population or selected subgroups. Well-designed population-based epidemiological studies that use homogenous case definitions are required to determine the prevalence of cam morphology and its relationship to hip pain."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

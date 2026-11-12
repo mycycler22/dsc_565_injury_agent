@@ -1,0 +1,40 @@
+{
+  "pmid": "27261476",
+  "title": "Are Female Soccer Players at an Increased Risk of Second Anterior Cruciate Ligament Injury Compared With Their Athletic Peers?",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Female soccer players have a well-known risk for anterior cruciate ligament (ACL) injury, but few studies have reported on second ACL injuries in this population."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To (1) report the rates of subsequent ACL injury (ipsilateral graft rupture or contralateral tear) in competitive female soccer players, (2) compare these rates with those of other female athletes of similar competitive level, (3) determine risk factors for second ACL injury, and (4) report clinical outcome scores in this population."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "The medical records at a single institution were reviewed for female patients who were injured during a competitive athletic event and treated with primary ACL reconstruction (ACLR) between 1998 and 2013. Patients were followed for a mean of 68.8 months postoperatively (range, 24-115.2 months). Clinical outcome was obtained via Lysholm and International Knee Documentation Committee (IKDC) scores. Soccer players were matched 1:1 to non-soccer athletes for age, activity level, and graft type."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 180 female ACLR patients with a mean ± SD age of 19.6 ± 6.9 years met the study inclusion and exclusion criteria (90 soccer players and 90 non-soccer players). Soccer players sustained more second ACL injuries, including both graft failures (11% vs 1%; P < .01) and contralateral ACL tears (17% vs 4%; P < .01), compared with non-soccer players. Of the 67 patients who returned to soccer after ACLR (mean age, 17.5 years; range, 13-27 years), significantly more had graft tears compared with those who did not return to soccer (15% vs 0%, respectively; P = .04); however, the difference in contralateral ACL tears (19% for returning players vs 9% for those who did not return; P = .34) was not significant. Relatively older age (odds ratio, 1.5 per year; P = .03) was a significant risk factor for ACL graft tear but not for contralateral ACL injury. Both groups had similar mean Lysholm (96 vs 95) and IKDC scores (95 vs 96) at final follow-up."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Twenty-eight percent of all female soccer players and 34% of those players who returned to soccer had a second ACL tear. Soccer players had an increased rate of both graft tear and contralateral ACL injury compared with similar non-soccer athletes. Older age and return to soccer were significant risk factors for graft rupture."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

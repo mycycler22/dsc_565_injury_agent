@@ -1,0 +1,23 @@
+{
+  "pmid": "32382437",
+  "title": "CrossFit-related hip and groin injuries: a case series.",
+  "year": "2020",
+  "journal": "Journal of hip preservation surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "To provide descriptive data on injury presentation and treatment and to identify risk factors for requiring surgical treatment for athletes presenting with CrossFit-related hip and groin injuries. CrossFit-related injuries (<i>n</i> = 982) were identified within a single hospital system from 2010 to 2017, with 83 (8.5% of total) identified hip or groin injuries. Patient demographics, injury diagnosis, surgical procedure and rehabilitation were assessed. Independent predictors of requiring surgery were analyzed via multivariate logistic regression analysis. Patients with hip or groin injuries were more often female (hip injuries: 63%; all injuries: 50%; <i>P</i> < 0.001) with mean age 34.3 years (standard deviation 10.9). Median symptom duration was 4 months with 70% reporting insidious onset. Most common diagnoses were femoral-acetabular impingement syndrome (34%), hamstring strain (11%), non-specific hip/groin pain (imaging non-diagnostic) (11%), hernia (7%) and iliotibial band syndrome (6%). Most (90%) required physical therapy (median 2 months). Surgery occurred in 24% (<i>n = </i>12 hip arthroscopy, <i>n = </i>5 inguinal hernia repair, <i>n</i> = 3 total hip arthroplasty), with 100% return to sport after arthroscopy or hernia repair. The only predictor of surgery was complaint of primarily anterior hip/groin pain (82% surgical patients, 46% non-surgical) (odds ratio 5.78, 95% confidence interval 1.44-23.1; <i>P</i> = 0.005); age, sex, body mass index, symptom duration and symptom onset (insidious versus acute) were non-significant (<i>P</i> > 0.25). CrossFit athletes with hip and groin injuries often present with prolonged symptoms with insidious onset. Most patients require several months of physical therapy and approximately one quarter require surgery. Patients presenting with primarily anterior hip/groin pain are at increased risk for requiring surgery."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV, case series."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

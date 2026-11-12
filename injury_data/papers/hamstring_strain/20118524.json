@@ -1,0 +1,25 @@
+{
+  "pmid": "20118524",
+  "title": "Hamstring strain injuries: recommendations for diagnosis, rehabilitation, and injury prevention.",
+  "year": "2010",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "Hamstring strain injuries remain a challenge for both athletes and clinicians, given their high incidence rate, slow healing, and persistent symptoms. Moreover, nearly one third of these injuries recur within the first year following a return to sport, with subsequent injuries often being more severe than the original. This high reinjury rate suggests that commonly utilized rehabilitation programs may be inadequate at resolving possible muscular weakness, reduced tissue extensibility, and/or altered movement patterns associated with the injury. Further, the traditional criteria used to determine the readiness of the athlete to return to sport may be insensitive to these persistent deficits, resulting in a premature return. There is mounting evidence that the risk of reinjury can be minimized by utilizing rehabilitation strategies that incorporate neuromuscular control exercises and eccentric strength training, combined with objective measures to assess musculotendon recovery and readiness to return to sport. In this paper, we first describe the diagnostic examination of an acute hamstring strain injury, including discussion of the value of determining injury location in estimating the duration of the convalescent period. Based on the current available evidence, we then propose a clinical guide for the rehabilitation of acute hamstring injuries, including specific criteria for treatment progression and return to sport. Finally, we describe directions for future research, including injury-specific rehabilitation programs, objective measures to assess reinjury risk, and strategies to prevent injury occurrence."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Diagnosis/therapy/prevention, level 5."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

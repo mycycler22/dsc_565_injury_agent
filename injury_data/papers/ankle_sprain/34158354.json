@@ -1,0 +1,36 @@
+{
+  "pmid": "34158354",
+  "title": "Return to sport decisions after an acute lateral ankle sprain injury: introducing the PAASS framework-an international multidisciplinary consensus.",
+  "year": "2021",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Consensus Statement"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Despite being the most commonly incurred sports injury with a high recurrence rate, there are no guidelines to inform return to sport (RTS) decisions following acute lateral ankle sprain injuries. We aimed to develop a list of assessment items to address this gap."
+    },
+    {
+      "label": "METHODS",
+      "text": "We used a three-round Delphi survey approach to develop consensus of opinion among 155 globally diverse health professionals working in elite field or court sports. This involved surveys that were structured in question format with both closed-response and open-response options. We asked panellists to indicate their agreement about whether or not assessment items should support the RTS decision after an acute lateral ankle sprain injury. The second and third round surveys included quantitative and qualitative feedback from the previous round. We defined a priori consensus being reached at >70% agree or disagree responses."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Sixteen assessment items reached consensus to be included in the RTS decision after an acute lateral ankle sprain injury. They were mapped to five domains with 98% panellist agreement-PAASS: <u>P</u>ain (during sport participation and over the last 24 hours), <u>A</u>nkle impairments (range of motion; muscle strength, endurance and power), <u>A</u>thlete perception (perceived ankle confidence/reassurance and stability; psychological readiness), <u>S</u>ensorimotor control (proprioception; dynamic postural control/balance), <u>S</u>port/functional performance (hopping, jumping and agility; sport-specific drills; ability to complete a full training session)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Expert opinion indicated that pain severity, ankle impairments, sensorimotor control, athlete perception/readiness and sport/functional performance should be assessed to inform the RTS decision following an acute lateral ankle sprain injury."
+    },
+    {
+      "label": "TRIAL REGISTRATION NUMBER",
+      "text": "ACTRN12619000522112."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

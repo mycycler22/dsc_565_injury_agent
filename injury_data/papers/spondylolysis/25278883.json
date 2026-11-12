@@ -1,0 +1,20 @@
+{
+  "pmid": "25278883",
+  "title": "Incidental findings on magnetic resonance imaging of the spine in the asymptomatic pediatric population: a systematic review.",
+  "year": "2014",
+  "journal": "Evidence-based spine-care journal",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Study Design Systematic review. Clinical Question What is the prevalence of incidental magnetic resonance imaging (MRI) findings of the spine in asymptomatic pediatric patients? Methods Electronic databases and reference lists of key articles were searched up to December 15, 2013, to identify studies reporting the incidence or prevalence of incidental findings on MRI in asymptomatic pediatric patients. Athletes or children with a known history of trauma, infection, or congenital abnormalities were excluded. Results Seven publications, one prospective cohort, and six cross-sectional studies met the inclusion criteria. The most commonly reported findings on MRI were disc-related and included degenerative disc disease (seven studies, prevalence 19.6%), disc herniation/protrusion (four studies, 2.9%), disc height/narrowed disc space (two studies, 33.7%), and endplate changes (two studies, 5.3%). Other disc-related findings, reported by one study each, included bulging disc, abnormal nucleus shape, annular tear, high intensity zone, and nerve root compression, with prevalences ranging from 4.5 to 51.6%. Spondylolisthesis and spondylolysis were reported by one study each with a prevalence of 2.3 and 0%, respectively. Other findings reported included tumors and infections (one study, 0% for both) and Scheuermann-type changes (one study, 7.7%). Conclusions The prevalence of positive MRI findings in the asymptomatic pediatric population is higher than previously assumed, particularly in regard to disc morphology, highlighting the importance of correlating the history and physical examination to the MRI findings to avoid misdiagnosis or over-treatment in the pediatric population."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "34569907",
+  "title": "Is there an association between high-speed running biomechanics and hamstring strain injury? A systematic review.",
+  "year": "2024",
+  "journal": "Sports biomechanics",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Despite increased awareness of the multifactorial nature of Hamstring Strain Injury (HSI), the role of running biomechanics remains unclear. The aim of this systematic review was to investigate whether an association exists between running biomechanics and HSI. Five databases were searched from inception to January 2021. Eligibility criteria included epidemiological studies that provide data on running biomechanics in athletes who have sustained a HSI (retrospectively or prospectively) and compared to control data. Searches yielded 4,798 articles. Twelve met the selection criteria. Biomechanical analysis differed considerably across studies, thus meta-analyses was not possible. Studies largely found either no differences or contradicting findings between running biomechanics of athletes who have sustained a HSI (retrospectively or prospectively) and controls, with the exception of lateral trunk kinematics and horizontal propulsive forces. It is important to note some concern regarding the quality of included studies, particularly sample size, increasing the risk of bias associated with results. Further research utilising validated methods of biomechanical analysis, is needed to determine if an association exists between running biomechanics and HSI. Until then, definitive conclusions cannot be drawn as to whether specific biomechanical interventions should be included in injury prevention and/or rehabilitation programmes."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

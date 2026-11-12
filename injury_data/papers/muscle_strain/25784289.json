@@ -1,0 +1,31 @@
+{
+  "pmid": "25784289",
+  "title": "Sports hernias: experience in a sports medicine center.",
+  "year": "2016",
+  "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Chronic pain of the inguino-crural region or \"pubalgia\" explains the 0.5-6.2% of the consultations by athletes. Recently, areas of weakness in the posterior wall called \"sports hernias,\" have been identified in some of these patients, capable of producing long-standing pain. Several authors use different image methods (CT, MRI, ultrasound) to identify the lesion and various techniques of repair, by open or laparoscopic approaches, have been proposed but there is no evidence about the superiority of one over others due to the difficulty for randomizing these patients. In our experience, diagnosis was based on clinical and ultrasound findings followed by laparoscopic exploration to confirm and repair the injury. The present study aims to assess the performance of our diagnostic and therapeutic management in a series of athletes affected by \"pubalgia\"."
+    },
+    {
+      "label": "METHODS",
+      "text": "1450 athletes coming from the orthopedic office of a sport medicine center were evaluated. In 590 of them (414 amateur and 176 professionals) sports hernias were diagnosed through physical examination and ultrasound. We performed laparoscopic \"TAPP\" repair and, thirty days after, an assessment was performed to determine the evolution of pain and the degree of physical activity as a sign of the functional outcome. We used the U Mann-Whitney test for continuous scale variables and the chi-square test for dichotomous variables with p < 0.05 as a level of significance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In 573 patients ultrasound examination detected some protrusion of the posterior wall with normal or minimally dilated inguinal rings, which in 498 of them coincided with areas affected by pain. These findings were confirmed by laparoscopic exploration that also diagnosed associated contralateral (30.1%) and ipsilateral defects, resulting in a total of 1006 hernias. We found 84 \"sport hernias\" in 769 patients with previous diagnosis of adductor muscle strain (10.92%); on the other hand, in 127 (21.52%) of our patients with \"sport hernias\" US detected concomitant injuries of the adductor longus tendon, 7 of which merited additional surgical maneuvers (partial tenotomy). Compared with the findings of laparoscopy, ultrasound had a sensitivity of 95.42% and a specificity of 100%; the positive and negative predictive values were 100 and 99.4% respectively. No postoperative complications were reported. Only seven patients suffered recurrence of pain (successful rate: 98.81%); the ultrasound ruled out hernia recurrence, but in three cases it diagnosed tendinitis of the rectus abdominis muscle."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our series reflects the multidisciplinary approach performed in a sports medicine center in which patients are initially evaluated by orthopedic surgeons in order to discard the most common causes of \"pubalgia\". \"Sports hernias\" are often associated with adductor muscle strains and other injuries of the groin allowing speculate that these respond to a common mechanism of production. We believe that, considering the difficulty to design randomized trials, only a high coincidence among the diagnostic and therapeutic instances can ensure a rational health care."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

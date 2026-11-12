@@ -1,0 +1,31 @@
+{
+  "pmid": "31172207",
+  "title": "Incidence and implications of fracture in core muscle injury.",
+  "year": "2019",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the pubic bone fracture incidence and associated injury patterns in patients with core muscle injury."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Ninety-three consecutive patients with core muscle injury protocol MRI showing rectus abdominis-adductor longus aponeurotic plate injuries from June 2007 through August 2017 were independently analyzed in blinded fashion by two musculoskeletal radiologists for the presence or absence of pubic bone fracture. A variety of other osseous and soft tissue injury characteristics were recorded. Pain duration prior to MRI and return to play time were taken from the clinical record. Statistical analysis included fracture incidence as well as the association of fracture with other injury characteristics, duration of pain, and return to play time."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighty-seven men and six women with a mean age of 34.4 years (range, 16-66 years) were included in the study cohort. Overall fracture incidence was 18.3% (17/93) including 13 fatigue fractures of the pubic body and four elevated cortical fractures/fragments. After correction for multiple comparisons, no strong association was identified with osseous or soft tissue injury characteristics, pain duration, or return to play time."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Pubic fractures-particularly fatigue fractures-are a common co-existing injury in patients with a wide range of core muscle injury patterns. The presence of fracture did not have a strong correlation with injury patterns, pain duration, or return to play time but may have implications for patient management."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

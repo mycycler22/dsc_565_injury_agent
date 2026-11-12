@@ -1,0 +1,39 @@
+{
+  "pmid": "41322435",
+  "title": "Anterior Cruciate Ligament Tear Location in National Football League Athletes Based on Magnetic Resonance Imaging.",
+  "year": "2025",
+  "journal": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) tears are common and often devastating injuries among elite athletes. While interest in ACL preservation has highlighted the importance of ACL tear location to treatment decision-making, there is limited data on ACL tear location in elite athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "We sought to describe the distribution of ACL tear location among National Football League (NFL) athletes and test the hypothesis that tear location is associated with injury mechanism."
+    },
+    {
+      "label": "METHODS",
+      "text": "Using a dataset from a study published in 2023, we identified 191 players with magnetic resonance imaging (MRI) of acute ACL tears occurring in NFL practice or games from 2015 to 2019; these were reviewed by 2 musculoskeletal radiologists. Data from these MRIs were linked to each player's electronic medical record data, and injuries from 2018 to 2019 were linked with available video to assess for an association between tear location and mechanism of injury in 73 of those players."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 3% of tears were type I, 20% type II, 74% type III, 2% type IV, and <1% type V. For noncontact injuries, 71% were type III and 29% type II. Among indirect contact injuries, 78% were type III, 13% type II, 4% type IV, and 4% type V. In direct contact injuries, tears were 73% type III, 13% type II, and 13% type IV."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This retrospective review of MRI and video data of ACL tears in NFL players found that mid-substance tears were the most common. There was a higher proportion of type III tears and a lower proportion of type I tears compared to prior studies, suggesting these athletes may be less amenable to preservation techniques."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV: cross-sectional study."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

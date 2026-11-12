@@ -1,0 +1,36 @@
+{
+  "pmid": "36395963",
+  "title": "Athletes Report Favorable Outcomes at 5-Year Minimum Follow-Up After Primary Hip Arthroscopy: A Systematic Review.",
+  "year": "2023",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate minimum 5-year outcomes and survivorship after primary hip arthroscopy in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of current literature was performed with the following key words: \"hip arthroscopy,\" \"long-term,\" \"outcomes,\" \"ten-year,\" \"survivorship,\" \"10-year,\" \"5-year,\" \"five-year,\" \"midterm,\" \"athlete,\" \"sport,\" and \"femoroacetabular impingement\" in PubMed, Cochrane Trials, and Scopus in April 2022 using the Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines. Study and demographic variables such as title, author, publication date, study design, demographic, number of hips, follow-up time, study period, indications for hip arthroscopy, patient-reported outcome scores, and rates of secondary surgeries and conversion to total hip arthroplasty. Radiographic, intraoperative surgical treatment, and clinical benefit was documented as well."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ten studies that captured data on 691 hips were included in this study. Eight studies reported mean and standard deviation for the modified Harris Hip Score. Significant improvements were reported in all studies with postoperative scores ranging from 83.3 to 94.4 (standardized mean difference [SMD] 1.65; 95% confidence interval [CI] 1.39-1.91, P < .00001). Eight studies reported significant improvement in Hip Outcome Score - Sports Specific Scale with postoperative scores ranging from 59.2 to 94.6 (SMD 1.66; 95% CI 1.33-1.98, P < .00001). Seven studies reported significant improvement in Nonarthritic Hip Score with postoperative scores ranging from 79.6 to 95.3 (SMD 1.41; 95% CI 1.16-1.65, P < .00001). Seven studies also reported significant improvement in VAS with postoperative scores ranging from 0.7 to 3.1 (SMD -1.57; 95% CI -1.88, -1.26, P < .00001). Nine of 10 studies reported achieving at least 1 psychometric threshold at a rate of least 75%. Rates of secondary arthroscopy and conversion to total hip arthroplasty varied from 0% to 15.2% and 0% to 33.3%."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes who underwent primary hip arthroscopy demonstrated favorable outcomes and high rates of clinical benefit at 5-year follow-up. In addition, they demonstrated high rates of survivorship and achieving psychometric thresholds."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, systematic review of Level III and IV studies."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

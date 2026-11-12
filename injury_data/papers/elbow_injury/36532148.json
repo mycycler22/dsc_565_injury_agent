@@ -1,0 +1,39 @@
+{
+  "pmid": "36532148",
+  "title": "Knowledge and Perceptions of Ulnar Collateral Ligament Injuries in Baseball Players: A Survey of NCAA Head Baseball Coaches.",
+  "year": "2022",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is growing concern among sports medicine professionals regarding the increasing prevalence of ulnar collateral ligament (UCL) surgery in baseball players. At this time, it is unclear whether collegiate head baseball coaches possess adequate knowledge of UCL injuries."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to assess the knowledge and perceptions of UCL injury among National Collegiate Athletic Association (NCAA) head baseball coaches. It was hypothesized that NCAA head baseball coaches would demonstrate misconceptions and knowledge disparities regarding UCL injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "An online 35-question survey was designed to assess NCAA head baseball coaches' knowledge of UCL injury. The survey included questions related to participant characteristics, UCL injury, biometric performance and pitching variables, throwing fatigue, surgical variables/performance outcomes, and collegiate athlete recruitment. A total of 788 NCAA head baseball coaches were asked to participate. Responses were analyzed and reported using descriptive statistics where appropriate. Statistical comparisons and contrasts were made using chi-square and Fisher exact tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 103 NCAA head baseball coaches participated in the survey, representing a 13.1% response rate. Only 31% of respondents could correctly identify all UCL injury symptoms, and 93% recommended <8 weeks off from overhead throwing during the off-season. Previous elbow injury observation was associated with UCL symptom identification (χ<sup>2</sup> = 10.614; <i>P</i> = .005). Regular access to an athletic trainer (<i>P</i> = .015) and regular access to a strength and conditioning coach (<i>P</i> = .004) were both associated with NCAA division status, with Division I programs having the most access. Neither sports medicine physician (<i>P</i> = .656) nor athletic trainer (<i>P</i> = .611) access was associated with the geographic location of the baseball program; however, strength and conditioning coach access was associated with geographic location (χ<sup>2</sup> = 6.696; <i>P</i> = .010)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study demonstrates that limited UCL injury knowledge and various misconceptions exist among NCAA baseball head coaches. The majority of responding coaches recommended an amount of time off from overhead throwing during the off-season that may be inadequate and were unable to identify all symptoms associated with UCL injury, representing the most concerning findings of the present study."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

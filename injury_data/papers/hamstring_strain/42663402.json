@@ -1,0 +1,31 @@
+{
+  "pmid": "42663402",
+  "title": "Sprint Mechanics Differ Between Pre-injury and Return-to-Sport After Hamstring Strain Injury: A Comparative Statistical Analysis with Machine Learning.",
+  "year": "2026",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To compare horizontal and vertical accelerations of lower limbs and pelvis during sprinting in collegiate football players between pre-injury (baseline) and return-to-sport (RTS) following hamstring strain injury (HSI)."
+    },
+    {
+      "label": "METHODS",
+      "text": "This secondary analysis used inertial measurement unit (IMU) data from 14 NCAA Division I athletes enrolled in the Hamstring Injury (HAMIR) study, collected during on-field sprinting under both conditions. Statistical parametric mapping (SPM) was applied to detect between-condition acceleration differences, and supervised ML models with data augmentation were used to classify conditions. Model-intrinsic interpretability was used to quantify feature contributions to predictions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Exploratory SPM analyses indicated that the healthy limb showed the most pronounced differences in horizontal thigh and shank acceleration during initial swing at RTS, while vertical differences were less marked. In the injured limb, horizontal shank acceleration was significantly reduced for 55% of initial swing, and the pelvis exhibited the greatest vertical difference (20%) across the stride. Among the eight ML models, the XGBoost (mean AUC: 0.75) and Random Forest (mean AUC: 0.79) demonstrated better performance following data augmentation. Global interpretability analysis of ML models identified thigh and pelvis segment features as the most influential variables for distinguishing baseline from RTS."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Collegiate football players showed reduced horizontal acceleration upon RTS following HSI, most evident during initial swing. Augmented ML models accurately distinguished conditions, with thigh and pelvis features most influential. These findings highlight the potential of IMU-based interpretable ML to support RTS decisions."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

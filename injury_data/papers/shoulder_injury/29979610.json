@@ -1,0 +1,40 @@
+{
+  "pmid": "29979610",
+  "title": "Kinematics of Rugby Tackling: A Pilot Study With 3-dimensional Motion Analysis.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Controlled Clinical Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Although improper tackling technique in rugby can affect the outcome of the tackle and lead to head, neck, and shoulder injuries, the effects of the height of the tackle or the side of the leading leg at the time of impact have not been investigated. Hypothesis/Purpose: The purpose was to characterize the trunk orientation at impact during various tackles. It was hypothesized that 3-dimensional motion analysis would be able to capture the critical kinematic differences in the 4 types of tackles studied."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 66 tackles on a tackle bag were recorded among 13 elite rugby players. Four types of tackles were evaluated: the normal shoulder tackle, in which the tackler's dominant shoulder made impact while the leading foot was on the same side as that shoulder; the low tackle, in which the tackler targeted the lower portion of the tackle bag; the opposite-leg tackle, in which the tackler's leading leg was on the opposite side as the shoulder making impact; and the low and opposite-leg tackle, which was a combination of the previous 2 types of tackles. The orientation of the trunk at impact was calculated, and 2-way repeated-measures analyses of variance were used to compare the characteristics of these tackles."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Trunk inclination at impact was lower in the low tackle than in the normal tackle ( P < .01), regardless of the side of the leading leg. Trunk bending to the side of the impacted shoulder was lower in the opposite-leg tackle ( P < .01), and these findings were more significant in the normal-height tackles ( P < .01). Trunk rotation to the side of the impacted shoulder was lower in the opposite-leg tackles ( P < .01) and more significant in the lower-height tackles ( P = .03)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The 3-dimensional motion capture system was effective in investigating the kinematics of rugby tackling. The kinematics in the low and opposite-leg tackles were significantly different from those in the normal shoulder tackle, which may affect tackle performance and the possible risk of contact injury."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "When a rugby coach provides tackling instructions to players, it is advantageous to have information about the kinematics of different types of tackles."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

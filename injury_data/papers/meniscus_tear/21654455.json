@@ -1,0 +1,37 @@
+{
+  "pmid": "21654455",
+  "title": "Meniscus tears in the young athlete: results of arthroscopic repair.",
+  "year": "2011",
+  "journal": "Journal of pediatric orthopedics",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The purpose of this study was to evaluate the results of arthroscopic repair of the meniscus in children and young athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Arthroscopic meniscus repairs performed on 49 knees in 31 male and 14 female patients <18 years old were reviewed. All repairs were done using an inside-out technique, and 31 patients required concomitant anterior cruciate ligament (ACL) reconstruction. Age at time of injury, time to surgery, and the extent, type, and location of meniscus tear were noted. All patients underwent postoperative rehabilitation and clinical evaluation. The level of activity at follow-up and postoperative outcomes scores was determined. Analysis included t tests, Wilcoxon tests, χ tests, and Fisher exact tests, with a level of significance of P ≥ 0.05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Excellent clinical outcomes were noted in 43 of 45 patients, with mean length of follow-up of 27 months. Between the groups with and without ACL tears, there were no significant differences in mean age at the time of injury or surgery, or in the distribution of open versus closed physes, medial versus lateral repairs, or level-of-activity at follow-up. However, patients with ACL reconstruction had significantly longer return-to-activity times (mean 8.23 mo vs. 5.56 mo) and significantly lower Tegner scores (mean 6.8 vs. 8.0) than patients without simultaneous reconstruction."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The clinical results after arthroscopic meniscus repair in the adolescent were excellent, despite long average time from injury to surgery and a high number of tears in poorly vascularized areas. Meniscal tears in skeletally immature athletes may have greater reparative potential, with and without simultaneous ligament reconstruction. Attempts at repair regardless of time from injury or location of tear should be strongly considered in this age group."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III retrospective cohort series."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "32112125",
+  "title": "Surgical stabilization of pediatric anterior shoulder instability yields high recurrence rates: a systematic review.",
+  "year": "2021",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this systematic review was to assess the surgical techniques, indications outcomes and complications for pediatric patients (≤ 19 years old) undergoing shoulder stabilization procedures for anterior shoulder instability."
+    },
+    {
+      "label": "METHODS",
+      "text": "The electronic databases MEDLINE, EMBASE, CINAHL, and Web of Science were searched from data inception to March 14, 2019 for articles addressing surgery for pediatric patients with anterior shoulder instability. The Methodological Index for Non-randomized Studies (MINORS) tool was used to assess the quality of included studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall 24 studies, with a total of 688 patients (696 shoulders) and a mean age of 16.6 ± 2.5 years met inclusion criteria. Mean follow-up was 49 ± 26 months. The majority (59%) of studies only offered shoulder stabilization procedures to patients with more than one shoulder dislocation, however, three studies reported operating on pediatric patients after first time dislocations. Of the included patients 525 had arthroscopic Bankart repair (78%), 75 had open Bankart repair (11%), 34 had modified Bristow (5%), and 26 had Latarjet (4%) procedures. The overall complication rate was 26%. Patients undergoing arthroscopic Bankart repair experienced the highest recurrence rate of 24%. There were no significant differences in recurrent instability (n.s.) or loss of external rotation (n.s.) in pediatric patients treated with arthroscopic Bankart repair compared to open Latarjet. Patients had a 95% rate of return to sport at any level (i.e. preinjury level or any level of play) postoperatively (95%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Pediatric patients are at high risk of recurrent instability after surgical stabilization. The majority of pediatric patients with anterior shoulder instability were treated with arthroscopic Bankart repair. Most studies recommend surgical stabilization only after more than one dislocation. However, given the high rates of recurrence with non-operative management, it may be reasonable to perform surgery at a first-time dislocation, particularly in those with other risk factors for recurrence. With the current evidence and limited sample sizes, it is difficult to directly compare the surgical interventions and their post-operative efficacy (i.e. re-dislocation rates or range of motion). There was an overall high rate of return to sport after surgical stabilization at final follow-up."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "41488377",
+  "title": "Prevalence of Hamstring Injuries in Collegiate Softball Players and Comparison to Collegiate Baseball Players.",
+  "year": "2026",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries (HSIs) are common among collegiate athletes resulting in meaningful time lost from play and high rates of recurrence. There is a paucity of literature regarding the prevalence and characteristics of HSIs in both softball and baseball athletes, with notable underrepresentation of the female athlete."
+    },
+    {
+      "label": "HYPOTHESIS/PURPOSE",
+      "text": "To determine the Hamstring Outcome Score (HaOS) scores, and the self-reported prevalence, recurrence, and time lost from play due to HSI in collegiate softball athletes and to compare these findings to previously collected data on baseball players. Based on the overall similarity of the sports, the null hypothesis was that there would be no difference in scores between the groups."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-Sectional Observational Study."
+    },
+    {
+      "label": "METHOD",
+      "text": "Prior to the beginning of the 2021-2024 collegiate softball seasons, 16 different colleges or universities were approached asking permission to have their players complete a questionnaire regarding their self-reported history of hamstring injury and/or posterior thigh pain. The questionnaire and rationale for the study were presented to athletes from each team by study personnel or certified athletic trainers associated with teams at initial pre-season team meetings. Players used their cell phone and completed the questionnaire using a digitized, validated HaOS assessing history, prevalence, recurrence, time lost from play and functional impact of hamstring injury (HSI) and posterior thigh pain. Participation was voluntary and no players were excluded from the study unless they chose not to complete the questionnaire. A mixed effects linear regression model was fit to examine differences in HaOS between injured and uninjured athletes. Additionally, prior published data on baseball players collected using the same survey was used for comparing HSI and HaOS scores between sports and positions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Responses were received from 12 of the 16 teams initially asked to participate in this study. Of the 264 softball athletes associated with these 12 teams, 156 softball athletes (mean age 19.5 +/- 2.1 years) chose to participate in this self-reported survey study by agreeing to complete the survey (59% completion rate). Of the 156 athletes who responded, 100 (64%) were from Division I programs and 56 (36%) were from Division III programs. HaOS scores were significantly different in all areas and total score between injured and non-injured softball athletes (p <0.001 to 0.039) with the exception of \"soreness\" (p=0.092). Forty-seven softball athletes (30.1%) reported a history of HSI. Of those softball players who reported HSI, 82% returned to play in in less than seven days. By position, 44% of all catchers reported a history of HSI, while HSI reported by other position players ranged from 26-30%. Fifteen players (32%) reported recurrent and/or bilateral injures.Self-reported HSI was higher in softball athletes (30.1%) than in baseball athletes (22.4%), though the difference did not reach statistical significance (p=0.097). However, when comparing athletes by position, a significant difference between the sports was observed in pitchers, with 27% of softball pitchers reporting HSI compared to 12% of baseball pitchers (p=0.041). Among softball players, only 18% missed greater than one week of sports participation versus 47% of baseball players (p=0.009). Recurrence rates were not significantly different between the two groups of athletes (p=0.753). Softball players reported significantly worse overall hamstring health and function compared to baseball players, whether injured or not, based upon the five domains and total scores of the HaOS (p <0.001 to 0.033), with the exception of \"soreness\" between injured and non-injured players (p=0.172)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Softball pitchers self-report significantly more hamstring injuries than baseball pitchers while there was no significant difference reported between other positions. The HaOS demonstrated that collegiate softball players reported significantly poorer overall hamstring health, function and hamstring confidence than baseball players. Despite this, softball athletes lost less time from practice and competition after injury than their baseball counterparts."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "3."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

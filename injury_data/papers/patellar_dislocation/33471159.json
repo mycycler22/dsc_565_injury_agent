@@ -1,0 +1,35 @@
+{
+  "pmid": "33471159",
+  "title": "Patients unable to return to play following medial patellofemoral ligament reconstructions demonstrate poor psychological readiness.",
+  "year": "2021",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Medial patellofemoral ligament reconstruction (MPFLR) is often indicated in athletes with lateral patellar instability to prevent recurrence and allow for a successful return to play. In this patient population, the ability to return to play is one of the most important clinical outcomes. The purpose of the current study was to analyze the characteristics of patients who were unable return to play following MPFL reconstruction."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of patients who underwent MPFL reconstruction and subsequently did not return to play after a minimum of 12-months of follow-up was performed. Patients were evaluated for their psychological readiness to return to sport using the MPFL-Return to Sport after Injury (MPFL-RSI) score, which is a modification of the ACL-RSI score. A MPFL-RSI score > 56 is considered a passing score for being psychologically ready to return to play. Additionally, reasons for not returning to play including Visual Analog Scale for pain (VAS), Kujala score, satisfaction, and recurrent instability (including dislocations and subluxations) were evaluated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The study included a total of 35 patients who were unable to return to play out of a total cohort of 131 patients who underwent MPFL reconstruction as treatment for patellar instability. Overall, 60% were female with a mean age of 24.5, and a mean follow-up of 38 months. Nine patients (25.7%) passed the MPFL-RSI benchmark of 56 with a mean overall score of 44.2 ± 21.8. The most common primary reasons for not returning to play were 14 were afraid of re-injury, 9 cited other lifestyle factors, 5 did not return due to continued knee pain, 5 were not confident in their ability to perform, and 2 did not return due to a feeling of instability. The mean VAS score was 1.9 ± 2.3, the mean Kujala score was 82.5 ± 14.6, and the mean satisfaction was 76.9%. Three patients (8.7%) reported experiencing a patellar subluxation event post-operatively. No patient sustained a post-operative patellar dislocation."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Following MPFL reconstruction, patients that do not return to play exhibit poor psychological readiness with the most common reason being fear of re-injury."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "42334787",
+  "title": "The Management of Acetabular Labral Tears: A Contemporary Review.",
+  "year": "2026",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "To summarize contemporary evaluation and management of acetabular labral tears, particularly in the setting of femoroacetabular impingement syndrome (FAIS), including diagnosis, nonoperative care, surgical decision-making, and rehabilitation."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "The acetabular labrum is critical for maintaining hip stability, preserving the suction seal, and distributing load. Evaluation includes history, provocative examination, radiographs to assess CAM and Pincer morphology, and advanced imaging to confirm labral pathology and exclude alternative pain generators. Nonoperative treatment, including activity modification, targeted physical therapy, and selective intra-articular injections, is first-line. Appropriately selected patients often achieve significant pain relief and functional improvement with arthroscopic hip preservation surgery. Current surgical strategies prioritize labral preservation through repair when viable, reconstruction for irreparable tissue, correction of underlying osseous abnormalities, and meticulous capsular management. Acetabular labral tears are a common source of hip pain frequently associated with FAIS. A structured diagnostic approach and stepwise management encompassing nonoperative and appropriately indicated surgical intervention optimize outcomes. Individualized, phase-based rehabilitation with objective testing and sport-specific criteria supports return to activity and sport, with typical return occurring around 6-8 months but varying widely by sport and athlete demands."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RECENT FINDINGS",
+      "sentence": "Individualized, phase-based rehabilitation with objective testing and sport-specific criteria supports return to activity and sport, with typical return occurring around 6-8 months but varying widely by sport and athlete demands."
+    }
+  ],
+  "pmcid": "13291315",
+  "fulltext_chunks": []
+}

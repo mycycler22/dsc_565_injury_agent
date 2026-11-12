@@ -1,0 +1,27 @@
+{
+  "pmid": "31548994",
+  "title": "A study protocol for the development and internal validation of a multivariable prognostic model to determine lower extremity muscle injury risk in elite football (soccer) players, with further exploration of prognostic factors.",
+  "year": "2019",
+  "journal": "Diagnostic and prognostic research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Indirect muscle injuries (IMIs) are a considerable burden to elite football (soccer) teams, and prevention of these injuries offers many benefits. Preseason medical, musculoskeletal and performance screening (termed periodic health examination (PHE)) can be used to help determine players at risk of injuries such as IMIs, where identification of PHE-derived prognostic factors (PF) may inform IMI prevention strategies. Furthermore, using several PFs in combination within a multivariable prognostic model may allow individualised IMI risk estimation and specific targeting of prevention strategies, based upon an individual's PF profile. No such models have been developed in elite football and the current IMI prognostic factor evidence is limited. This study aims to (1) develop and internally validate a prognostic model for individualised IMI risk prediction within a season in elite footballers, using the extent of the prognostic evidence and clinical reasoning; and (2) explore potential PHE-derived PFs associated with IMI outcomes in elite footballers, using available PHE data from a professional team."
+    },
+    {
+      "label": "METHODS",
+      "text": "This is a protocol for a retrospective cohort study. PHE and injury data were routinely collected over 5 seasons (1 July 2013 to 19 May 2018), from a population of elite male players aged 16-40 years old. Of 60 candidate PFs, 15 were excluded. Twelve variables (derived from 10 PFs) will be included in model development that were identified from a systematic review, missing data assessment, measurement reliability evaluation and clinical reasoning. A full multivariable logistic regression model will be fitted, to ensure adjustment before backward elimination. The performance and internal validation of the model will be assessed. The remaining 35 candidate PFs are eligible for further exploration, using univariable logistic regression to obtain unadjusted risk estimates. Exploratory PFs will also be incorporated into multivariable logistic regression models to determine risk estimates whilst adjusting for age, height and body weight."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "This study will offer insights into clinical usefulness of a model to predict IMI risk in elite football and highlight the practicalities of model development in this setting. Further exploration may identify other relevant PFs for future confirmatory studies and model updating, or influence future injury prevention research."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

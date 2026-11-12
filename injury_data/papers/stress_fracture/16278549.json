@@ -1,0 +1,37 @@
+{
+  "pmid": "16278549",
+  "title": "Management and return to play of stress fractures.",
+  "year": "2005",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of this article is to provide the clinician an evidence/experience-based algorithm for the management of stress fractures."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Medline search of peer reviewed publications regarding stress fracture etiology, classification, treatment, and natural history."
+    },
+    {
+      "label": "DATA SYNTHESIS/METHODS",
+      "text": "The algorithm was developed from a review of retrospective case series, a few evidence-based papers, and the clinical experience of 4 sports medicine team physicians with a combined experience of over 40 years in the care of athletes at the college and professional level. The literature is almost entirely case series without control groups; therefore, clinical consensus is included as the next best guide to treatment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The emphasis of this article is to provide a clear and simple approach to the management of these fractures by classifying them as either high-risk or low-risk. This separation into 2 groups is based on the biomechanical environment and natural history of the fracture. High-risk stress fractures occur in the superolateral femoral neck, anterior tibial shaft, tarsal navicular, proximal fifth metatarsal, and talar neck. Low-risk stress fractures occur in the lateral malleolus, calcaneus, 2nd through 4th metatarsals, and the femoral shaft."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The undertreatment of high-risk stress fractures can lead to catastrophic bone failure and/or prolonged loss of playing time. Overtreatment of low-risk stress fractures can result in unnecessary deconditioning and unneeded loss of playing time. We propose that the use of the simple and clinically relevant algorithm will help guide appropriate management and return to play decision-making as well as encourage future prospective research."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "36528003",
+  "title": "Multi-domain assessment of sports-related and military concussion recovery: A scoping review.",
+  "year": "2023",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "This review explores the literature on multi-domain assessments used in concussion recovery, to inform evidence-based and ecologically valid return-to-play. It asks: What simultaneous, dynamic multi-domain paradigms are used to assess recovery of youth and adults following concussion?"
+    },
+    {
+      "label": "METHODS",
+      "text": "Five databases were searched (CINAHL, EMBASE, MEDLINE, PsycInfo, SPORTDiscus) until September 30, 2021. Records were limited to those published in peer-reviewed journals, in English, between 2002 and 2021. Included studies were required to describe the assessment of concussion recovery using dynamic paradigms (i.e., requiring sport-like coordination) spanning multiple domains (i.e., physical, cognitive, socio-emotional functioning) simultaneously."
+    },
+    {
+      "label": "RESULTS",
+      "text": "7098 unique articles were identified. 64 were included for analysis, describing 36 unique assessments of 1938 concussed participants. These assessments were deconstructed into their constituent tasks: 13 physical, 17 cognitive, and one socio-emotional. Combinations of these \"building blocks\" formed the multi-domain assessments. Forty-six studies implemented level walking with a concurrent cognitive task. The most frequently implemented cognitive tasks were 'Q&A' paradigms requiring participants to answer questions aloud during a physical task."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A preference emerged for dual-task assessments, specifically combinations of level walking and Q&A tasks. Future research should balance ecological validity and clinical feasibility in multi-domain assessments, and work to validate these assessments for practice."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

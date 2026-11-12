@@ -1,0 +1,39 @@
+{
+  "pmid": "38544464",
+  "title": "The Sprint Mechanics Assessment Score: A Qualitative Screening Tool for the In-field Assessment of Sprint Running Mechanics.",
+  "year": "2024",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Qualitative movement screening tools provide a practical method of assessing mechanical patterns associated with potential injury development. Biomechanics play a role in hamstring strain injury and are recommended as a consideration within injury screening and rehabilitation programs. However, no methods are available for the in-field assessment of sprint running mechanics associated with hamstring strain injuries."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the intra- and interrater reliability of a novel screening tool assessing in-field sprint running mechanics titled the Sprint Mechanics Assessment Score (S-MAS) and present normative S-MAS data to facilitate the interpretation of performance standards for future assessment uses."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study (diagnosis); Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Maximal sprint running trials (35 m) were recorded from 136 elite soccer players using a slow-motion camera. All videos were scored using the S-MAS by a single assessor. Videos from 36 players (18 men and 18 women) were rated by 2 independent assessors blinded to each other's results to establish interrater reliability. One assessor scored all videos in a randomized order 1 week later to establish intrarater reliability. Intraclass correlation coefficients (ICCs) based on single measures using a 2-way mixed-effects model, with absolute agreement with 95% CI and kappa coefficients with percentage agreements, were used to assess the reliability of the overall score and individual score items, respectively. <i>T</i>-scores were calculated from the means and standard deviations of the male and female groups to present normative data values. The Mann-Whitney <i>U</i> test and the Wilcoxon signed-rank test were used to assess between-sex differences and between-limb differences, respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The S-MAS showed good intrarater (ICC, 0.828 [95% CI, 0.688-0.908]) and interrater (ICC, 0.799 [95% CI, 0.642-0.892]) reliability, with a standard error of measurement of 1 point. Kappa coefficients for individual score items demonstrated moderate to substantial intra- and interrater agreement for most parameters, with percentage agreements ranging from 75% to 88.8% for intrarater and 66.6% to 88.8% for interrater reliability. No significant sex differences were observed for overall scores, with mean values of 4.2 and 3.8 for men and women, respectively (<i>P</i> = .27)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The S-MAS is a new tool developed for assessing sprint running mechanics associated with lower limb injuries in male and female soccer players. The reliable and easy-to-use nature of the S-MAS means that this method can be integrated into practice, potentially aiding future injury screening and research looking to identify athletes who may demonstrate mechanical patterns potentially associated with hamstring strain injuries."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

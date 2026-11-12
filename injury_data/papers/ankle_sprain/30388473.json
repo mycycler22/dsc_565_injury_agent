@@ -1,0 +1,43 @@
+{
+  "pmid": "30388473",
+  "title": "The reliability, and discriminative ability of the identification of functional ankle instability questionnaire, Japanese version.",
+  "year": "2019",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To assess the discriminability as well as the reliability, and internal consistency of the Identification of Functional Ankle Instability questionnaire translated into Japanese (IdFAI-J)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Collegiate athletic training/sports medicine clinic."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Twenty bilingual and sixty-five collegiate athletes including participants with and without functional instability (FI)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "The sensitivity, specificity, test retest reliability, and internal consistency of IdFAI-J."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The optimal cutoff score between the FI and non-FI participants was >10, with an area under the curve of 0.92. We calculated high sensitivity (0.94) and specificity (0.77) at the cutoff point. For the test-retest reliability, the intraclass correlation coefficient value of the IdFAI-J was 0.96; the standard error of measurement and minimal detectable change value was 1.69 and 3.60, respectively. Cronbach's α was 0.87; there was no improvement when a particular item was deleted from the scale."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The IdFAI-J has excellent discriminability, test-retest reliability, and internal consistency. Hence, the IdFAI-J significantly contribute to clinical practice and future research related to ankle instability in Japan."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

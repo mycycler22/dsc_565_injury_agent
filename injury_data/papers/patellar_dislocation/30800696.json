@@ -1,0 +1,39 @@
+{
+  "pmid": "30800696",
+  "title": "Biomechanical and Functional Outcomes After Medial Patellofemoral Ligament Reconstruction: A Pilot Study.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Previous studies have acknowledged the medial patellofemoral ligament (MPFL) as the primary stabilizer of the patella, preventing lateral displacement. MPFL reconstruction (MPFL-R) restores stability and functionality to the patellofemoral joint and has emerged as a preferred treatment option for recurrent lateral patellar instability."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To objectively measure biomechanical characteristics of athletes cleared for return to sport after MPFL-R compared with healthy controls."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A prospective case-control study design was employed on 31 total athletes. Sixteen athletes (6 male, 10 female; mean age, 16.1 ± 2.74 years; 385 ± 189 days after surgery and 235 ± 157 days after return to sport) underwent MPFL-R and were medically cleared to return to sport. This group was matched by age, sex, and activity level to 15 healthy athletes with no history of lower extremity injuries. Athletes and controls completed validated questionnaires as well as hopping, jumping, and cutting tests with 3-dimensional motion analysis and underwent strength, flexibility, laxity, and balance assessments."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Participants in the MPFL-R group scored significantly lower (worse) on the International Knee Documentation Committee (IKDC) (89.2 ± 7.6 vs 98.1 ± 2.0, respectively; <i>P</i> = .0005) and significantly higher (worse) on the Tampa Scale for Kinesiophobia (TSK) (32.4 ± 5.0 vs 25.4 ± 6.5, respectively; <i>P</i> = .006) than those in the control group, but there was no difference in the Kujala score (95.6 ± 5.3 vs 98.8 ± 3.0, respectively; <i>P</i> = .06). Participants in the MPFL-R group demonstrated reduced hip and ankle flexion relative to those in the control group (<i>P < .</i>05). Participants in the MPFL-R group also took significantly longer to complete the 6-m timed hop test relative to those in the control group (<i>P</i> < .05). No statistically significant differences were found in anthropometrics, knee extension or flexion strength, hamstring flexibility, hip abduction strength, or joint laxity between the MPFL-R and control groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current data indicate that MPFL-R generally restores functional symmetry, while subtle deficits in global power may remain after being released to full activity. Clinicians should ensure that athletes are fully rehabilitated before returning to sport after MPFL-R by emphasizing functional multijoint exercises."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

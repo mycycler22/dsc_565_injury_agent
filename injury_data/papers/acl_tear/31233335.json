@@ -1,0 +1,40 @@
+{
+  "pmid": "31233335",
+  "title": "Anterior Cruciate Ligament Reconstruction in Young Female Athletes: Patellar Versus Hamstring Tendon Autografts.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Female athletes are 2 to 8 times more prone to anterior cruciate ligament (ACL) rupture than males. Furthermore, reinjury to the ipsilateral or contralateral knee can occur in >20% of athletes. Female sex and younger age are known risk factors for graft failure. The optimal graft choice for young females remains unknown and poorly studied."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The authors aimed to compare clinical outcomes in young females who underwent ACL reconstruction (ACLR) with bone-patellar tendon-bone (BTB) and quadrupled hamstring (HS) autografts. It was hypothesized that no significant differences in outcomes exist between graft choices."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Female patients aged 15 to 25 years who underwent primary ACLR with BTB or HS autograft were included for review. Patients were subdivided into 2 age groups: 15 to 20 years and 21 to 25 years. The occurrence of chondral, meniscal, or ligamentous injury to either knee was recorded for comparison."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 256 females were included (BTB, n = 175; HS, n = 81). The majority of patients were between the ages of 15 and 20 years (BTB, 80%; HS, 77.8%). Overall, graft rupture occurred in 23 patients (9%) and contralateral ACL tear occurred in 18 (7%). Subgroup analysis showed that 75% of BTB and 100% of HS graft retears occurred in females aged 15 to 20 years. Within this age group, there was a significantly lower rate of graft ruptures in the BTB group (6.4%) as compared with the HS group (17.5%, <i>P</i> = .02). Allograft augmentation was used in 4 of the 11 HS grafts that retore. When allograft-augmented grafts were excluded, there was no significant difference in graft failure rate between graft choices. Fifteen patients in the BTB group (12%) as opposed to 1 in the HS group (2%) reported extreme difficulty or the inability to kneel on the front of the knee (<i>P</i> = .04)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In females aged 15 to 20 years undergoing ACLR, BTB autograft may lead to fewer graft ruptures than HS autograft. While this difference was not observed in females aged 21 to 25 years, a larger sample may be required to accept the null hypothesis in this age group. BTB autograft significantly increased the risk of kneeling pain as compared with HS regardless of age."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

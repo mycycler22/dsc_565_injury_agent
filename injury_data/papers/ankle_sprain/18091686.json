@@ -1,0 +1,31 @@
+{
+  "pmid": "18091686",
+  "title": "Factors associated with anterior cruciate ligament injury: history in female athletes.",
+  "year": "2007",
+  "journal": "The Journal of sports medicine and physical fitness",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "Little is known about the association of lower extremity structural malalignments, flexibility patterns, generalized laxity, postural control, previous ankle sprain history and the increased risk of anterior cruciate ligament (ACL) injuries in females. We hypothesized that females with a history of ACL injury would be more likely to have a history of prior ankle sprain and different structural alignments than females without a history of ACL injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "It is a case control study: 33 young adult females with a history of an ACL injury and 33 controls with no history of knee injury provided their knee and ankle injury history and had 16 lower extremity measures taken."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The factors most associated with ACL injury history were greater generalized laxity (r(2) change: 0.073), greater genu recurvatum (r(2) change: 0.069), and decreased iliotibial band (ITB) flexibility (r(2) change: 0.069). There was also a significant association between ACL injury history and previous ankle sprain injury history (chi squared=5.27; P=0.02). Those with a history of ACL injury were more likely to have had a prior ipsilateral ankle sprain."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Increased generalized laxity, greater genu recurvatum, and decreased ITB flexibility discriminated between females with and without history of ACL injury. A relationship linking previous ankle injury and ACL injury risk was found. Taking a thorough medical history and screening for generalized laxity, genu recurvatum, and a tight ITB in those with a history of LAS, may help identify those at risk for an ACL injury and who may benefit most from preventive measures."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

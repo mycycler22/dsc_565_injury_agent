@@ -1,0 +1,40 @@
+{
+  "pmid": "36863366",
+  "title": "ABER Position in Direct MR Arthrography of the Shoulder: Useful Adjunct or Waste of Imaging Time?",
+  "year": "2023",
+  "journal": "RoFo : Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin",
+  "pub_types": [
+    "Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The usefulness of direct MR arthrography of the shoulder with additional ABER position (ABER-MRA) has always been discussed. The goals of the following review are to analyze the usefulness of this technique according to the available literature and present recommendations with respect to indications and benefits in diagnostic imaging of shoulder abnormalities in the clinical routine."
+    },
+    {
+      "label": "METHOD",
+      "text": "For this review we assessed the current literature databases of the Cochrane Library, Embase, and PubMed with regard to MRA in the ABER position up to the February 28, 2022. Search terms were \"shoulder MRA, ABER\", \"MRI ABER\", \"MR ABER\", \"shoulder, abduction external rotation MRA\", \"abduction external rotation MRI\" and \"ABER position\". The inclusion criteria were prospective and retrospective studies with surgical and/or arthroscopic correlation within 12 months. Overall, 16 studies with 724 patients fulfilled the inclusion criteria: 10 studies dealing with anterior instabilities, three studies with posterior instabilities and seven studies with suspected rotator cuff pathologies (some studies addressing multiple items)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For anterior instability the use of ABER-MRA in the ABER position led to a significant increase in sensitivity for detecting lesions of the labral ligamentous complex compared with standard 3-plane shoulder MRA (81 % versus 92 %, p = 0.001) while maintaining high specificity (96 %). ABER-MRA demonstrated high sensitivity and specificity (89 % and 100 %, respectively) for SLAP lesions and was able to detect micro-instability in overhead athletes, but case counts are still very small. With regard to rotator cuff tears, no improvement of sensitivity or specificity could be shown with use of ABER-MRA."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Based on the currently available literature, ABER-MRA achieves a level of evidence C in the detection of pathologies of the anteroinferior labroligamentous complex. With regard to the evaluation of SLAP lesions and the exact determination of the degree of rotator cuff injury, ABER-MRA can be of additive value, but is still a case-by-case decision."
+    },
+    {
+      "label": "KEY POINTS",
+      "text": "· ABER-MRA is useful in the evaluation of pathologies of the anteroinferior labroligamentous complex. · ABER-MRA does not increase sensitivity or specificity with regard to rotator cuff tears. · ABER-MRA may be helpful for the detection of SLAP lesions and micro-instability in overhead athletes."
+    },
+    {
+      "label": "CITATION FORMAT",
+      "text": "· Altmann S, Jungmann F, Emrich T et al. ABER Position in Direct MR Arthrography of the Shoulder: Useful Adjunct or Waste of Imaging Time?. Fortschr Röntgenstr 2023; 195: 586 - 595."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

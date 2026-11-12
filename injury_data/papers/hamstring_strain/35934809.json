@@ -1,0 +1,19 @@
+{
+  "pmid": "35934809",
+  "title": "High-speed running during match-play before and after return from hamstring injury in professional footballers.",
+  "year": "2022",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring injuries constitute the single largest cause of lost playing time in professional football. While restoring high-speed running ability is paramount for rehabilitation from these injuries, little evidence exists regarding the extent of return to sport running performance after hamstring injury in football. We examined medical and match performance data available from a sample of 38 professional soccer players competing in the Qatar Stars League (N = 1426 observations) to describe high-speed running performance during match-play prior and subsequent to a hamstring strain injury. Multivariable-adjusted random-effects generalized additive models estimated post- versus pre-hamstring injury differences in maximal speed (km/h), high-speed running (>20 km/h), and sprinting (>25 km/h) distance. Mean effects and uncertainty (95% confidence interval, CI) were interpreted against the estimated random match-to-match variability in maximal sprinting speed, high-speed running distance, and sprinting running distance of ±1.67 km/h (95% CI, 1.62-1.72 km/h), ±102 m (95% CI, 99-105 m), and ±60 m (95% CI, 58-61 m), respectively. The estimated post- versus pre-hamstring injury mean differences in maximal sprinting speed, high-speed running distance, and sprinting running distance primary outcomes were -0.25 km/h (95% CI, -0.38 to -0.12 km/h), -43 m (95% CI, -56 to -30 m), and -22 m (95% CI, -29 to -16 m). Players returning to football match-play after hamstring strain injury experienced reductions in high-speed match physical performance that were well within normal match-to-match variation in performance."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

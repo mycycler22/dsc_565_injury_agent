@@ -1,0 +1,36 @@
+{
+  "pmid": "31169648",
+  "title": "Pediatric ACL Tears: Natural History.",
+  "year": "2019",
+  "journal": "Journal of pediatric orthopedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Increased participation in youth sports is associated with increased rates of anterior cruciate ligament (ACL) tears in the skeletally immature. Historically, ACL reconstruction was avoided in the skeletally immature, or delayed until skeletal maturity, to avoid physeal injury and growth disturbance. Current practices and meta-analyses support early ACL reconstruction in some groups, to allow for return to activities and to avoid delayed cartilage/meniscus injury."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this article was to report on the natural history of ACL injuries in the skeletally immature."
+    },
+    {
+      "label": "METHODS",
+      "text": "A review of published literature on pediatric, skeletally immature ACL tears and conservative, nonoperative treatment was conducted via Pubmed articles published from 1970 to 2018. The search criteria included the key terms \"anterior cruciate ligament,\" \"pediatric\" and/or \"adolescent,\" and \"conservative\" and/or \"nonoperative treatment.\" A PRISMA workflow was used to narrow down the articles to those relevant to our analysis and available in full text format."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Multiple articles on the nonoperative treatment of the ACL showed secondary meniscal and cartilage damage at the time of follow-up. Some articles showed no difference between the rates of secondary injuries between the surgical and nonsurgical treatment groups; however, the nonsurgical treatment groups were often on significant activity modification. Some articles concluded that nonoperative treatment of the ACL tear may be appropriate in low risk, lower level activity patients, and those that will comply with activity restrictions. Even with bracing and PT programs, active athletes treated without surgery appear to have a concerning rate of secondary meniscus injury after the primary ACL injury event."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The natural history of the ACL tear shows nonoperative treatment for the skeletally immature may be a viable treatment pathway for those who are able to comply with the physical activity restrictions. For the general population of young, active adolescents, an ACL injury treated nonoperatively often leads to secondary meniscal and/or cartilage damage, which may lead to knee degeneration and functional instability."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

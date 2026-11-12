@@ -1,0 +1,31 @@
+{
+  "pmid": "32305107",
+  "title": "Injured vs. uninjured elbow opening on clinical stress radiographs and its relationship to ulnar collateral ligament injury severity in throwers.",
+  "year": "2020",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Stress radiography measures medial joint space opening of the elbow, but its value in the management of throwing athletes is unclear. The purpose of this study was to analyze the relationship between medial joint opening (gapping and excess opening) and ulnar collateral ligament (UCL) injury severity on magnetic resonance imaging, as well as to explore factors related to the unexpected finding of a greater opening of the uninjured elbow compared with the injured elbow (negative excess opening) with valgus stress radiography."
+    },
+    {
+      "label": "METHODS",
+      "text": "Medial joint space measurements were independently performed by 2 raters in a clinical series of 74 patients evaluated with standardized valgus stress radiography as part of their clinical workup for throwing-related medial elbow pain. Demographic data were collected by chart review, and UCL injury severity was classified based on available imaging into intact UCLs, partial-thickness tears of the anterior bundle, or full-thickness tears of the anterior bundle."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Joint gapping was related to UCL injury severity (P = .003), and group-level comparison showed a difference among tear severity groups (P = .050). Excess opening was not significantly related to UCL injury severity (P = .109). A negative excess opening was observed in 22% of patients, but no factors corroborating guarding or a mechanical explanation were significant for a decreased medial joint opening of the injured elbow compared with the uninjured elbow."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Medial joint gapping was correlated to UCL injury severity in throwing athletes with medial elbow pain and a clinical suggestion of UCL injury, but no association between injury severity and excess opening was observed in this clinical series, which may limit the usefulness of stress radiography in the clinical workup of throwing athletes."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

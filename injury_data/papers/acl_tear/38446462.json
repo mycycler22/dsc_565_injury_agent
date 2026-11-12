@@ -1,0 +1,57 @@
+{
+  "pmid": "38446462",
+  "title": "Psychological Responses During Latter Rehabilitation and Return to Sport After Anterior Cruciate Ligament Reconstruction Surgery.",
+  "year": "2024",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Despite positive physical outcomes of anterior cruciate ligament reconstruction (ACLR), many athletes do not return to sport afterward."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine if there were differences between athletes who returned to play and those who did not return to sport after ACLR in patterns of psychological responses to injury over the latter course of rehabilitation and return to sport."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Case-control study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Comprehensive orthopedic medical center referrals."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "Thirty-nine recreational and competitive athletes (13 to 58 years, 21 males) with a first ACL tear were observed over the course of the study."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Return to sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifty-two percent of participants returned to play by 9 months post-ACLR. Those who returned showed a linear decrease in reinjury anxiety from 4 to 9 months post-ACLR, whereas those who did not return showed a linear decrease from 4 to 6 months post-ACLR and then a leveling off from 6 to 9 months. Those who returned showed linear and quadratic effects on perceived limitations of ability with a decrease from 4 to 9 months post-ACLR that accelerated over time, whereas nonreturners showed a linear decrease over time. No significant differences were found between returners and nonreturners in knee self-efficacy, perceived percent recovery, and psychological distress."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our results suggest that reinjury anxiety and perceived limitations of ability are psychological constructs on which returners and nonreturners differ and therefore may be points of intervention to increase the likelihood of return to sport."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Fifty-two percent of participants returned to play by 9 months post-ACLR."
+    }
+  ],
+  "pmcid": "11220769",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Fifty-two percent of participants returned to play by 9 months post-ACLR. Those who returned showed a linear decrease in reinjury anxiety from 4 to 9 months post-ACLR, whereas those who did not return showed a linear decrease from 4 to 6 months post-ACLR and then a leveling off from 6 to 9 months. Those who returned showed linear and quadratic effects on perceived limitations of ability with a decrease from 4 to 9 months post-ACLR that accelerated over time, whereas nonreturners showed a linear decrease over time. No significant differences were found between returners and nonreturners in knee self-efficacy, perceived percent recovery, and psychological distress."
+    }
+  ]
+}

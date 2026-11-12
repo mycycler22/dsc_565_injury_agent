@@ -1,0 +1,40 @@
+{
+  "pmid": "29528694",
+  "title": "Outcomes of Surgical Treatment for Anterior Tibial Stress Fractures in Athletes: A Systematic Review.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Although most anterior tibial stress fractures heal with nonoperative treatment, some may require surgical management. To our knowledge, no systematic review has been conducted regarding surgical treatment strategies for the management of chronic anterior tibial stress fractures from which general conclusions can be drawn regarding optimal treatment in high-performance athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This systematic review was conducted to evaluate the surgical outcomes of anterior tibial stress fractures in high-performance athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "In February 2017, a systematic review of the PubMed, MEDLINE, Cochrane, SPORTDiscus, and CINAHL databases was performed to identify studies that reported surgical outcomes for anterior tibial stress fractures. Articles meeting the inclusion criteria were screened, and reported outcome measures were documented."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 12 studies, published between 1984 and 2015, reporting outcomes for the surgical treatment of anterior tibial stress fractures were included in this review. All studies were retrospective case series. Collectively, surgical outcomes for 115 patients (74 males; 41 females) with 123 fractures were evaluated in this review. The overall mean follow-up was 23.3 months. The most common surgical treatment method reported in the literature was compression plating (n = 52) followed by drilling (n = 33). Symptom resolution was achieved in 108 of 123 surgically treated fractures (87.8%). There were 32 reports of complications, resulting in an overall complication rate of 27.8%. Subsequent tibial fractures were reported in 8 patients (7.0%). Moreover, a total of 17 patients (14.8%) underwent a subsequent procedure after their initial surgery. Following surgical treatment for anterior tibial stress fracture, 94.7% of patients were able to return to sports."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The available literature indicates that surgical treatment of anterior tibial stress fractures is associated with a high rate of symptom resolution and return to play in athletes, although the high complication rate and potential need for subsequent procedures are important considerations for surgeons and patients."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

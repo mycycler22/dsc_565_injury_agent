@@ -1,0 +1,39 @@
+{
+  "pmid": "29349094",
+  "title": "Upper Extremity Functional Status of Female Youth Softball Pitchers Using the Kerlan-Jobe Orthopaedic Clinic Questionnaire.",
+  "year": "2018",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Softball is a popular sport with a high incidence of upper extremity injuries. The Kerlan-Jobe Orthopaedic Clinic (KJOC) questionnaire is a validated performance and functional assessment tool used in overhead athletes. Upper extremity pain patterns and baseline KJOC scores have not been reported for active female youth softball pitchers."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to establish the prevalence of upper extremity pain and its effect in female youth softball pitchers over a competitive season. We hypothesized that participants who missed time due to injury in the past year would have lower KJOC scores."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifty-three female softball pitchers aged 12 to 18 years were recruited from softball clinics in Vancouver, British Columbia, Canada. All participants self-identified as a pitcher on a competitive travel team. Participants were administered the KJOC questionnaire before and during the playing season. Missed time due to injury in the past year, current pain patterns, and KJOC scores were primary outcomes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean (±SD) preseason KJOC score was 87.2 ± 10.6. In the preseason, 22.6% of pitchers reported playing with arm trouble, and 32.1% missed time due to injury in the past year. The mean KJOC score for pitchers reporting a previous injury (n = 17) was significantly lower compared with those without an injury (n = 36) (79.5 ± 13.8 vs 90.9 ± 6.2, respectively; <i>P</i> = .02). The posterior shoulder was the most commonly reported pain location. For the cohort completing the questionnaire both before and during the playing season (n = 35), mean KJOC scores did not change significantly over the playing season (<i>P</i> = .64). Lower preseason KJOC scores were significantly related to the in-season injury risk (<i>P</i> = .016). Pitchers with a preseason score of less than 90 had a 3.5 (95% CI, 1.1-11.2) times greater risk of reporting an in-season injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Female youth softball pitchers have a high baseline functional status. However, 1 in 3 pitchers reported missed time due to injury in the previous year, and shoulder pain was more prevalent than elbow pain. The KJOC questionnaire can be used by coaches, researchers, and clinicians to identify youth softball pitchers at risk for injuries who may benefit from interventions."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

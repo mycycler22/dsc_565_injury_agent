@@ -1,0 +1,48 @@
+{
+  "pmid": "26801923",
+  "title": "The Effect of an Orthopaedic Surgical Procedure in the National Basketball Association.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Professional basketball players have a high incidence of injuries requiring surgical intervention. However, no studies in the current literature have compared postoperative performance outcomes among common injuries to determine high- and low-risk procedures to these athletes' careers."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare return-to-play (RTP) rates and performance-based outcomes after different orthopaedic procedures in National Basketball Association (NBA) players and to determine which surgeries are associated with the worst postoperative change in performance."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes in the NBA undergoing anterior cruciate ligament reconstruction, Achilles tendon repair, lumbar discectomy, microfracture, meniscus surgery, hand/wrist or foot fracture fixation, and shoulder stabilization were identified through team injury reports and archives on public record. The RTP rate, games played per season, and player efficiency rating (PER) were determined before and after surgery. Statistical analysis was used to compare the change between pre- and postsurgical performance among the different injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 348 players were included. The RTP rates were highest in patients with hand/wrist fractures (98.1%; mean age, 27.0 years) and lowest for those with Achilles tears (70.8%; mean age, 28.4 years) (P = .005). Age ≥30 years (odds ratio [OR], 3.85; 95% CI, 1.24-11.91) and body mass index ≥27 kg/m(2) (OR, 3.46; 95% CI, 1.05-11.40) were predictors of not returning to play. Players undergoing Achilles tendon repair and arthroscopic knee surgery had a significantly greater decline in postoperative performance outcomes at the 1- and 3-year time points and had shorter career lengths compared with the other procedures."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "NBA players undergoing Achilles tendon rupture repair or arthroscopic knee surgery had significantly worse performance postoperatively compared with other orthopaedic procedures."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The RTP rates were highest in patients with hand/wrist fractures (98.1%; mean age, 27.0 years) and lowest for those with Achilles tears (70.8%; mean age, 28.4 years) (P = .005)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Age ≥30 years (odds ratio [OR], 3.85; 95% CI, 1.24-11.91) and body mass index ≥27 kg/m(2) (OR, 3.46; 95% CI, 1.05-11.40) were predictors of not returning to play."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

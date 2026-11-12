@@ -1,0 +1,39 @@
+{
+  "pmid": "34527757",
+  "title": "Performance Outcomes After Surgical Repair of Achilles Tendon Rupture in the Women's National Basketball Association.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon ruptures are devastating in elite athletes. There are currently no studies examining the effects of Achilles tendon rupture on performance outcomes in the Women's National Basketball Association (WNBA)."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Athletes in the WNBA who sustained an Achilles tendon rupture and underwent subsequent surgical repair will sustain declines in performance metrics when compared with their preinjury statistics and matched controls."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Seventeen WNBA players who sustained an Achilles tendon rupture from 2000 to 2019 were identified through publicly available injury reports and player profiles. Athlete information collected included age, body mass index, position, and service in the WNBA when the tear occurred. Statistics were collected for 1 season before and 2 seasons after the injury, and the player efficiency rating (PER) was calculated. Players were matched to uninjured controls by service in the WNBA, position, and performance statistics."
+    },
+    {
+      "label": "RESULTS",
+      "text": "On average, players were 28 years of age at the time of Achilles tendon rupture, with a service time in the WNBA of 6.5 years. Four players never returned to play in the WNBA, while 7 players failed to play more than 1 season. Players who did return played significantly fewer minutes per game compared with preinjury in both postinjury seasons 1 and 2 (mean difference, -6.11 and -6.54 min/game, respectively; <i>P</i> < .01 for both) and had a significantly decreased PER in postinjury season 2 (mean difference, -2.53; <i>P</i> = .024). After returning to play, the injured players experienced significant decreases when compared with controls in field goals (-0.85 vs +0.20; <i>P</i> = .047), free throws (-1.04 vs +0.12; <i>P</i> < .01), steals (-0.48 vs +0.24; <i>P</i> = .018), and points scored (-2.89 vs +0.58; <i>P</i> = .014)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "WNBA players experienced significant decreases in performance metrics after Achilles tendon rupture compared with their preinjury levels and compared with uninjured controls. Overall, 23.5% of players failed to return to the WNBA, while 41.2% failed to play for more than 1 season."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

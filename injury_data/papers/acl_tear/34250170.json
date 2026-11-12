@@ -1,0 +1,39 @@
+{
+  "pmid": "34250170",
+  "title": "Association of Prior Anterior Cruciate Ligament Tear With Decreased Career Longevity in Women's National Basketball Association.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The incidence of anterior cruciate ligament (ACL) injuries in women's basketball exceeds that of men. There is a paucity of data regarding career performance in Women's National Basketball Association (WNBA) athletes with a history of ACL reconstruction."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine whether WNBA athletes with a history of ACL injury prior to professional play have reduced career game utilization, defined as games played and started and minutes per game (MPG), as well as statistical performance, defined by player efficiency rating (PER)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Included were 42 WNBA players from 1997 to 2018 who had a history of ACL reconstruction before entering professional leagues. Body mass index (BMI), age, and position were collected for each player. Career data and performance statistics were likewise collected for each player's entire WNBA career. A control group of WNBA players with no history of ACL injury were matched by position, BMI, and age at the time of WNBA debut. Statistics compared game utilization and performance to assess the impact of ACL reconstruction."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes who sustained an ACL tear before entering the league played in fewer games per season in their first 3 professional seasons compared with healthy controls (24.2 ± 8.4 vs 28.2 ± 6.1; <i>P</i> = .02). Among athletes with a history of ACL reconstruction, 11 (26.2%) played only a single WNBA season, while no control athletes played in just 1 season. Additionally, athletes who had a previous ACL tear started significantly fewer games per season (9.0 ± 9.4 vs 14.0 ± 9.0; <i>P</i> < .01) and played fewer MPG (15.5 ± 7.2 vs 20.7 ± 5.5; <i>P</i> < .01) during their WNBA career. Athletes with a history of ACL tear had significantly shorter WNBA careers (4.8 ± 4.1 vs 8.1 ± 3.3 seasons; <i>P</i> < .001). Total professional play duration (WNBA + overseas) was significantly reduced in players with an ACL tear compared with controls (<i>P</i> < .05). PER was not significantly different between cohorts at any time point."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "WNBA athletes with a history of an ACL tear before professional play had decreased career game utilization and workload throughout their career despite having similar PER compared with healthy controls."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

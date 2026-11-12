@@ -1,0 +1,19 @@
+{
+  "pmid": "29283828",
+  "title": "Concussion in Athletes.",
+  "year": "1982",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "In brief In mild concussion there is a transient disturbance of neurological function but no loss of consciousness. In the moderate form there is a loss of consciousness for less than five minutes, usually with some retrograde posttraumatic amnesia. The severe category covers loss of consciousness for longer than five minutes, wandering eye movements, and lack of purposeful responses. Loss of short-term memory and coordination are the two primary deficits that occur after concussion. An athlete who loses consciousness should not participate again that day; any athlete who remains unconscious for more than several minutes should be hospitalized. An athlete who has had more than one concussion in a season can return to play when he or she is free of neurological disturbance."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

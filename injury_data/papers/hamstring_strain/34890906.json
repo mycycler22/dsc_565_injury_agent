@@ -1,0 +1,43 @@
+{
+  "pmid": "34890906",
+  "title": "The deficits of isometric knee flexor strength in lengthened hamstring position after hamstring strain injury.",
+  "year": "2022",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate the effects of knee flexion angle on peak torque, rate of torque development (RTD) during isometric contraction and hamstring flexibility after hamstring strain injury (HSI)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional."
+    },
+    {
+      "label": "SETTING",
+      "text": "Controlled laboratory research."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Fourteen male athletes with a history of HSI and 14 athletes without HSI (controls)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Hamstring flexibility was evaluated using active knee extension test. Isometric knee flexion peak torque and RTD were determined at 30°, 60°, and 90° of knee flexion measured by an isokinetic dynamometer."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Individuals with a history of HSI had statistically significant, moderate deficits in isometric peak torque at 30° of knee flexion (P = 0.037; effect size = 0.55) in the HSI limb than in the uninjured limb, but not at 60° and 90° of knee flexion. In the control group, no significant differences in isometric peak torque at any angle were found between limbs. No differences in peak RTD and flexibility were found between limbs in both groups."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Isometric peak torque at 30° of knee flexion was lower in the injured limb than in the uninjured limb. Isometric strength deficits after HSI tended to be affected by lengthened hamstring angles."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

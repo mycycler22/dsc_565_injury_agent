@@ -1,0 +1,20 @@
+{
+  "pmid": "42052940",
+  "title": "Comparative analysis of hip arthroscopy and open surgical dislocation for treating femoroacetabular impingement.",
+  "year": "2024",
+  "journal": "International wound journal",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The purpose of this study was to compare the impact of hip arthroscopy group and open surgical dislocation group as treatments for femoroacetabular impingement (FAI) in young athletes, specifically in relation to early hip osteoarthritis. A systematic search was conducted across four databases to identify controlled trials comparing hip arthroscopy and open surgical dislocation for FAI treatment. The selected studies (9 in total) underwent rigorous literature assessment and data analysis using Review Manager (RevMan) 5.3 software. The meta- analysis revealed that there was no statistically significant difference between hip arthroscopy group (the test group) and the open surgical dislocation group (the control group) concerning the improvement of the alpha angle (Standardized Mean Difference [SMD]: -5.54; 95% Confidence Interval [CI]: - 12.45,1.38; p = 0.117), the Modified Harris Hip Score (mHHS) after a 12- month follow- up (SMD:0.94; 95% CI:- 2.87,4.75; p = 0.629) and the complication rate (OR: 0.66; 95% CI: 0.26,1.65; p = 0.372). However, the meta- analysis revealed that the Nonarthritic Hip Score (NAHS) after a 12- month follow- up of the test group was significantly higher than that of the control group (SMD: 6.31; 95% CI: 0.53, 12.09; p = 0.032). In terms of the reoperation rate, it demonstrated a significantly lower rate in the test group compared to the control group (OR: 0.48; 95% CI: 0.29, 0.82; p < 0.01). These findings suggest that hip arthroscopy may have better outcomes for patients with FAI, as it is associated with improvements in hip function and a lower reoperation rate. However, these conclusions should be validated by further high- quality studies."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

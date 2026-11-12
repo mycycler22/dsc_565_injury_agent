@@ -1,0 +1,35 @@
+{
+  "pmid": "41451667",
+  "title": "Knee-ABC 2 reduces acute, severe and overuse knee injuries.",
+  "year": "2025",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Handball is associated with a high risk of knee injury. This study investigated whether an injury prevention program is effective in reducing acute, severe and overuse knee injuries in handball athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Sixty-nine men's and women's handball teams (U-15, U-17, U-19 and senior athletes) were cluster-randomised into an intervention and control group for one season. Players in the intervention group regularly completed the Knee-ABC 2 injury prevention program. Acute, severe and overuse knee injuries and handball exposure were documented every 8 weeks for both groups using an online questionnaire. The primary outcome parameter was the incidence of acute, severe knee injury. Secondary outcome parameters were prevalence and intensity of overuse knee injuries measured by the Oslo Trauma Research Centre (OSTRC) questionnaire and the Victorian Institute of Sport Assessment - Patellar Tendinopathy (VISA-P) score."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The study included 32 teams (260 players) in the intervention group and 33 teams (215 players) as controls. Acute, severe knee injuries occurred significantly less often in the intervention group (0.059/1000 h) than in the control group (0.348/1000 h). The incidence rate ratio was 0.170 (95% confidence interval [CI] 0.031-0.619), p = 0.002). Players in the intervention group (51.5%) reported less often an OSTRC score >0 than controls (63.8%, p = 0.028) and had lower intensity scores (med 3, interquartile range [IQR] 0-15 vs. med 6 IQR: 0-19, p = 0.046). There were no differences in the VISA-P score between the two groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Frequent use of the Knee-ABC 2 program prevents acute, severe and overuse knee injuries in adolescent and senior handball players and should therefore be included in the practical routine and in the education of team managers."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level Ib."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

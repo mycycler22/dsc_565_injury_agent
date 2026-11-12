@@ -1,0 +1,32 @@
+{
+  "pmid": "35348832",
+  "title": "Superior labral anterior and posterior (SLAP) lesions of the long bicep insertion on the glenoid: management in athletes.",
+  "year": "2022",
+  "journal": "International orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "SLAP injuries are common in athletes but there is no consensus on different aspects such as pathophysiology and treatment options. Currently, the main controversy in the treatment of SLAP II injuries is deciding whether to make a repair or tenodesis. Clinical outcomes have varied according to the patients' age, sports, or work activity. This review aims to present the evidence at points of contention regarding pathophysiology, treatment options, outcomes, return to activities, and complications of type II SLAP."
+    },
+    {
+      "label": "MATERIAL AND METHODS",
+      "text": "The relevant literature on SLAP injuries and their treatment options and results were identified from PubMed and a narrative review was performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Repairing SLAP II injuries seems to show better outcomes in younger patients and athletes who perform overhead movements, while tenodesis (in its various technical options) yields better outcomes in older patients, both as a single injury or associated with other pathologies such as rotator cuff injury or tenosynovitis. On the other hand, there currently seems to be a trend of increasing the indication of tenodesis even in underage patients and athletes, given that there are reports of fewer re-operations and a faster recovery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The evidence is unclear as to which factors influence the failure to achieve optimal outcomes even in cases with anatomical repairs. Studies with a high level of evidence including different variables are necessary to define when to repair, perform tenodesis, and what surgical technique to use for both options."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

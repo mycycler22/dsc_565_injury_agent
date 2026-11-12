@@ -1,0 +1,39 @@
+{
+  "pmid": "39101737",
+  "title": "Arthroscopic Bankart Repair for Anterior Glenohumeral Instability in 488 Adolescents Between 2000 and 2020: Risk Factors for Subsequent Recurrent Instability Requiring Revision Stabilization.",
+  "year": "2024",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "After arthroscopic Bankart repair (ABR) for anterior glenohumeral instability (GHI), adolescent athletes have higher rates of subsequent recurrent GHI than any other subpopulation. Elucidating which adolescents are at highest risk of postoperative recurrent GHI may optimize surgical decision-making."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To identify prognostic factors associated with subsequent recurrent GHI requiring revision stabilization surgery (RSS) after ABR."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study included patients 12 to 21 years old who had undergone ABR for anterior GHI at a pediatric tertiary care hospital by 1 of 5 sports medicine fellowship-trained surgeons between 2000 and 2020. A multivariate Cox proportional hazards model, with percentage of patients with recurrent GHI undergoing subsequent RSS, was used with a time-to-event outcome analysis. The Cox model effects were expressed as the hazard ratio (HR). All tests were 2-sided, with an alpha of .05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Records of 488 adolescent patients with ABR (78% male; mean age, 16.9 ± 1.98 years) were analyzed. Of these, 86 patients (17.6%) underwent subsequent RSS for recurrent GHI, yielding a cumulative risk of 8.8% at 2 years, 16.5% at 5 years, and 20% at 15 years. RSS occurred at a mean of 2.6 ± 2.1 years after ABR. Risk factors for RSS included >1 preoperative dislocation (2 dislocations: HR = 7.4, <i>P</i> = .0003; ≥3 dislocations: HR = 10.9, <i>P</i> < .0001), presence of a Hill-Sachs lesion (small: HR = 2.5, <i>P</i> = .0114; medium-large: HR = 4.2, <i>P</i> = .0004), younger age (1-year decrease: HR = 1.2, <i>P</i> = .0015), and participation in contact sports (HR = 1.8, <i>P</i> = .01). Adolescents with only 1 preoperative dislocation had a cumulative incidence of RSS (3.2%), which was significantly lower than those with 2 (24.2%) or ≥3 preoperative dislocations (33.5%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The number of dislocations before index ABR was the strongest risk factor for recurrent GHI requiring RSS in adolescents with anterior GHI, with 2 dislocations conferring >7-fold increased risk compared with a single preoperative dislocation. Other significant risk factors included the presence of a Hill-Sachs lesion, younger age, and participation in contact sports."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

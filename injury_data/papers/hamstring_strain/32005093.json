@@ -1,0 +1,41 @@
+{
+  "pmid": "32005093",
+  "title": "Pain-Free Versus Pain-Threshold Rehabilitation Following Acute Hamstring Strain Injury: A Randomized Controlled Trial.",
+  "year": "2020",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The primary aim was to compare time from acute hamstring strain injury (HSI) to return-to-play (RTP) clearance following a standardized rehabilitation protocol performed within either pain-free or pain-threshold limits. Secondary aims were to compare isometric knee flexor strength, biceps femoris long head (BFLH) fascicle length, fear of movement, and reinjury occurrence at the 6-month follow-up between pain-free and pain-threshold groups."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Randomized controlled trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty-three men with acute HSIs were randomly allocated to a pain-free (n = 22) or pain-threshold (n = 21) rehabilitation group. Days from HSI to RTP clearance, isometric knee flexor strength, BFLH fascicle length, fear of movement, and reinjury occurrence at the 6-month follow-up were reported."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Median time from HSI to RTP clearance was 15 days (95% confidence interval [CI]: 13, 17) in the pain-free group and 17 days (95% CI: 11, 24) in the pain-threshold group, which was not significantly different (<i>P</i> = .37). Isometric knee flexor strength recovery at 90° of hip and 90° of knee flexion was greater in the pain-threshold group at RTP clearance by 15% (95% CI: 1%, 28%) and by 15% (95% CI: 1%, 29%) at 2-month follow-up, respectively. Improvement in BFLH fascicle length from baseline was 0.91 cm (95% CI: 0.34, 1.48) greater at 2-month follow-up in the pain-threshold group. Two reinjuries occurred in both the pain-free and pain-threshold groups between RTP clearance and the 6-month follow-up."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Pain-threshold rehabilitation did not accelerate RTP clearance, but resulted in greater recovery of isometric knee flexor strength and better maintenance of BFLH fascicle length, compared to pain-free rehabilitation. <i>J Orthop Sports Phys Ther 2020;50(2):91-103. Epub 28 Jun 2019. doi:10.2519/jospt.2020.8895</i>."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Median time from HSI to RTP clearance was 15 days (95% confidence interval [CI]: 13, 17) in the pain-free group and 17 days (95% CI: 11, 24) in the pain-threshold group, which was not significantly different (<i>P</i> = .37)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

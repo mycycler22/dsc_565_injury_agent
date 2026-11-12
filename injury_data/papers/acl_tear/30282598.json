@@ -1,0 +1,22 @@
+{
+  "pmid": "30282598",
+  "title": "Relation of Anterior Cruciate Ligament Tears to Potential Chronic Cardiovascular diseases.",
+  "year": "2018",
+  "journal": "The American journal of cardiology",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "We have enrolled a cohort of former National Football League players (n = 3,506) who played since 1960 to assess potential long term health consequences associated with participating in the sport. Each participant has completed a self-administered questionnaire including reporting of physician-diagnosed health conditions. One of the early assessments was to evaluate whether anterior cruciate ligament (ACL) tears were associated with later life co-morbidities, including cardiovascular effects. We used Cox proportional hazards to estimate hazard ratios (HR) for joint replacement surgeries, myocardial infarction, sleep apnea, arthritis, dementia, and stroke by history of ACL tear during their professional career. For additional outcomes without date of occurrence reported we used logistic regression to estimate odds ratios adjusted for potential confounding variables in all models. After adjusting for covariates, former National Football League players who tore their ACL had approximately a twofold increase in muscular skeletal co-morbidities, including knee joint replacement and arthritis, compared with those without ACL tears. In addition, those with a history of ACL tears also had more than a 50% increased risk of myocardial infarction (HR 1.52; 95% confidence interval 0.97 to 2.38) and a slight increase in sleep apnea (HR 1.15; 95% confidence interval 0.96 to 1.38). ACL tears sustained by athletes may increase the risk of co-morbidities beyond the musculoskeletal system. As there are more than 100,000 ACL reconstructions annually in the United States, our findings could have widespread public health importance if these findings generalize to a population beyond professional football players. In conclusion, enhanced screening for other risk factors for these conditions in patients who have torn their ACL might identify those who could most benefit from prevention strategies."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

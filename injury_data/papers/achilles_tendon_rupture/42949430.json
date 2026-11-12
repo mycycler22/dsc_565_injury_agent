@@ -1,0 +1,40 @@
+{
+  "pmid": "42949430",
+  "title": "Psychological factors as predictors of compliance and outcome in non-operative management of Achilles tendon rupture: a systematic review.",
+  "year": "2026",
+  "journal": "British medical bulletin",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Non-operative management of acute Achilles tendon rupture (ATR) with early functional rehabilitation produces functional outcomes equivalent to surgery, but its effectiveness depends critically on patient compliance with bracing, weight-bearing and physiotherapy. Psychological factors, including motivation, self-efficacy, kinesiophobia, and social support, are plausible determinants of compliance and outcome, yet have received minimal systematic attention."
+    },
+    {
+      "label": "SOURCES OF DATA",
+      "text": "Seven databases were searched from inception to June 2026 without language restriction. Studies of adults with ATR managed non-operatively, with any psychological assessment reporting compliance, re-rupture rate, Achilles Tendon Total Rupture Score (ATRS) or return to sport, were eligible. Six studies met the inclusion criteria (797 non-operative patients in total), and two further non-operative randomized controlled trials were used for functional benchmarking only. Data were synthesized narratively (SWiM framework)."
+    },
+    {
+      "label": "AREAS OF AGREEMENT",
+      "text": "Non-operative management with early functional rehabilitation yields ATRS scores of 72-86 at 6-12 months, comparable to operative cohorts, with re-rupture rates of 5%-12% under functional bracing. Treatment success depends on patient compliance, and functional deficits persist for years irrespective of the management modality."
+    },
+    {
+      "label": "AREAS OF CONTROVERSY",
+      "text": "Surgery continues to carry a lower re-rupture incidence than conservative management, although the absolute difference has narrowed with early functional rehabilitation. Whether pre-treatment psychological profiling should inform the choice between operative and non-operative management remains unvalidated, and no included study reported compliance as a formal outcome or its association with any psychological factor."
+    },
+    {
+      "label": "GROWING POINTS",
+      "text": "Kinesiophobia, anxiety, and depression are present throughout the first year of non-operative rehabilitation, and kinesiophobia scores above the clinical cut-off were observed in most participants of the only dedicated non-operative cohort. Kinesiophobia and readiness-to-return scores do not appear to differ between operatively and non-operatively managed patients, supporting a common psychological assessment framework. Qualitative evidence identifies motivation and social support as key facilitators of recovery."
+    },
+    {
+      "label": "AREAS TIMELY FOR DEVELOPING RESEARCH",
+      "text": "Future non-operative ATR randomized trials should incorporate the I-PRRS, TSK-11, and a validated motivation measure as pre-specified secondary outcomes, together with guideline-based compliance definitions. A prospective cohort study of baseline psychological profile as a predictor of compliance and re-rupture should be prioritized, followed by evaluation of simple psychological screening within consent and treatment-selection pathways."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

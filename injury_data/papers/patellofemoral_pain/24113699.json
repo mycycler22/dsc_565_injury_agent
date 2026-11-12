@@ -1,0 +1,32 @@
+{
+  "pmid": "24113699",
+  "title": "A review of the management of patellofemoral pain syndrome.",
+  "year": "2013",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Patellofemoral pain syndrome (PFPS) is one of the most frequently diagnosed knee conditions in the primary care, orthopedic, and sports medicine settings. Although strength training and stretching programs have traditionally been the mainstay of patient treatment, there are no consensus recovery protocols for runners experiencing PFPS. The purpose of our review is to examine recent literature regarding the efficacy of various treatment modalities in the management of patients with PFPS."
+    },
+    {
+      "label": "METHODS",
+      "text": "Our review included 33 articles from a PubMed literature search using the search term PFPS treatment. The search was limited to randomized controlled trials, crossover case-controlled studies, and cohort studies with ≥ 10 participants, with trial data that were published within the last 5 years."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Strength training and stretching exercises continue to be strongly supported by research as effective treatment options for runners with PFPS. Recent studies have confirmed that quadriceps and hip strengthening combined with stretching in a structured physiotherapy program comprise the most effective treatment for reducing knee pain symptoms and improving functionality in patients with PFPS. As previous studies have shown, therapies such as proprioceptive training, orthotics, and taping may offer benefits as adjunctive therapies but do not show a significant benefit when they are used alone in patients with PFPS. Additionally, recent research has confirmed that surgical and pharmacologic therapies are not effective for the management of patients with PFPS."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A large number of athletes are impacted by PFPS every year, particularly young runners. Sports medicine researchers have investigated many possible therapies for patients with PFPS; however, no clear guidelines have emerged regarding the management of the syndrome. Our review analyzes recent literature on PFPS and identifies specific treatment recommendations. The most effective and strongly supported treatment modality for patients with PFPS is a combined physiotherapy program, including strength training of the quadriceps and hip abductors and stretching of the quadriceps muscle group. Adjunctive therapies, including taping, biofeedback devices, and prefabricated orthotic inserts, may provide limited additive benefits in select populations. Surgery should be avoided in all patients with PFPS."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

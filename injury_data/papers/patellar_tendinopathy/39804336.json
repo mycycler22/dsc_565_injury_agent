@@ -1,0 +1,32 @@
+{
+  "pmid": "39804336",
+  "title": "Efficacy of platelet-rich plasma injection for pain relief in injured athletes: a systematic review of randomized controlled trials.",
+  "year": "2025",
+  "journal": "The Journal of sports medicine and physical fitness",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Sports injuries involving bi-articular muscles like the hip flexors, hamstrings, quadriceps, and gastrocnemius significantly affect athletes' performance and quality of life. Comprehensive rehabilitation is crucial for a pain-free return to play (RTP). Over the past 15 years, platelet-rich plasma (PRP) has emerged for its potential in tissue regeneration. However, the effects in pain relief and early RTP remained debated. This systematic review of randomized controlled trials (RCTs) aimed to evaluate the efficacy of PRP in pain management for injured athletes."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "A systematic review searched on PubMed, Scopus, and Web of Science for randomized controlled trials (RCTs) on PRP injections in injured athletes up to May 28, 2024. Studies had to meet the following population, intervention, control and outcome (PICO) criteria: professional athletes treated with leukocyte-rich or leukocyte-poor PRP versus other treatments, with pain measured by visual analogue scale (VAS), numeric rating scale (NRS), or verbal rating scale (VRS) scales. Systematic review registered on PROSPERO (CRD42024552342)."
+    },
+    {
+      "label": "EVIDENCE SYNTHESIS",
+      "text": "Out of total of 1675 articles, we included seven RCTs on PRP treatment for muscle injuries and tendinopathies in athletes. Two studies on hamstring injuries had conflicting results on PRP's efficacy; two studies on different muscles showed significant pain relief and quicker recovery with ultrasound-guided PRP, limited by small sample sizes and lack of double-blind protocols. For tendinopathies, an anterior cruciate ligament reconstruction study with autologous bone-patellar tendon-bone grafts showed significant pain improvements but had a small sample size. Another study on patellar tendinopathy found no PRP benefits over placebo. A third study found long-term improvement with PRP over shockwave therapy for patellar tendinitis, despite design limitations."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This systematic review suggested that PRP might aid in pain management for athletes, but high-quality evidence is lacking. Further research with standardized methodologies is needed to confirm the PRP efficacy, which could complement multidisciplinary rehabilitation."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

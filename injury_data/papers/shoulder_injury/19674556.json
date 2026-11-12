@@ -1,0 +1,35 @@
+{
+  "pmid": "19674556",
+  "title": "The diagnosis and treatment of shoulder injuries in the throwing athlete.",
+  "year": "2002",
+  "journal": "Journal of chiropractic medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To discuss the general diagnostic and therapeutic considerations involved in managing patients with shoulder injury."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Medline search going back 10 years, and using the key terms \"throwing\" and \"shoulder injuries.\""
+    },
+    {
+      "label": "DATA SYNTHESIS",
+      "text": "Papers which evaluated current treatment protocols as determined by previously published papers in peer reviewed journals or textbooks that had no confounding variables were examined."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The throwing motion is a complex maneuver which requires coordination of a variety of structures. Depending upon the specific kind of injury, rehabilitation may involve numerous different approaches. A 4-phase rehabilitation program is described."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Synthesis of the literature regarding management of throwing injuries is described."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

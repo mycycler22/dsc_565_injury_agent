@@ -1,0 +1,49 @@
+{
+  "pmid": "34173779",
+  "title": "Glenohumeral Internal Rotation Deficit in the Adolescent Overhead Athlete: A Systematic Review and Meta-Analysis.",
+  "year": "2022",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The objective of this review was to investigate the average glenohumeral internal rotation deficit (GIRD) in the dominant arm of adolescent overhead athletes and to examine the association with shoulder and elbow injuries."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "SETTING",
+      "text": "MEDLINE, Embase, and PubMed were searched from inception to August 1, 2020."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Adolescent overhead athletes with glenohumeral range of motion (ROM) measurements."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Nonoperative treatments of GIRD."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Glenohumeral ROM measurements comparing the dominant and nondominant extremities were pooled in a meta-analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-five studies were included in this review, which involved 2522 overhead athletes. Pooled internal rotation (IR) deficit of the dominant arm was 9.60° (95% confidence interval [CI] 7.87°-11.32°, P < 0.00001), with an external rotation (ER) gain of 6.78° (95% CI 4.97°-8.59°, P < 0.00001) and a total ROM (TROM) deficit of 1.78° (95% CI -0.70° to 4.26°, P = 0.16). The association between GIRD and shoulder or elbow injury was not clearly defined. Two studies reported treatment, and both used nonoperative treatment in the form of physiotherapy and sleeper stretches."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The adolescent overhead athlete has roughly 10° of IR deficit in their dominant arm, accompanied by nearly 7° of ER gain, with similar ROM measurements for injured and uninjured athletes. Those with pathological GIRD have a greater degree of IR deficit, but without an accompanying compensatory increase in ER, leading to a TROM deficit of nearly 15°. Surgical treatment in the absence of other indications is rare, whereas physiotherapy and sleeper stretches remain the first-line treatment."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

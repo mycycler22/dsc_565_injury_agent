@@ -1,0 +1,32 @@
+{
+  "pmid": "39068296",
+  "title": "The Biomechanical Influence of Step Width on Typical Locomotor Activities: A Systematic Review.",
+  "year": "2024",
+  "journal": "Sports medicine - open",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Step width is a spatial variable in the frontal plane, defined as the mediolateral distance between the heel (forefoot during sprinting) of bilateral feet at initial contact. Variations in step width may impact the lower limb biomechanics. This systematic review aimed to synthesize the published findings to determine the influence of acute changes in step width on locomotion biomechanics and provide implications for injury prevention and enhanced sports performance."
+    },
+    {
+      "label": "METHODS",
+      "text": "Literature was identified, selected, and appraised in accordance with the methods of a systematic review. Four electronic databases (Web of Science, MEDLINE via PubMed, Scopus, and ScienceDirect) were searched up until May 2023 with the development of inclusion criteria based on the PICO model. Study quality was assessed using the Downs and Black checklist and the measured parameters were summarized."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-three articles and 399 participants were included in the systematic review. The average quality score of the 23 studies included was 9.39 (out of 14). Step width changed the kinematics and kinetics in the sagittal, frontal, and transverse planes of the lower limb, such as peak rearfoot eversion angle and moment, peak hip adduction angle and moment, knee flexion moment, peak knee internal rotation angle, as well as knee external rotation moment. Alteration of step width has the potential to change the stability and posture during locomotion, and evidence exists for the immediate biomechanical effects of variations in step width to alter proximal kinematics and cues to impact loading variables."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Short-term changes in step width during walking, running, and sprinting influenced multiple lower extremity biomechanics. Narrower step width may result in poor balance and higher impact loading on the lower extremities during walking and running and may limit an athlete's sprint performance. Increasing step width may be beneficial for injury rehabilitation, i.e., for patients with patellofemoral pain syndrome, iliotibial band syndrome or tibial bone stress injury. Wider steps increase the supporting base and typically enhance balance control, which in turn could reduce the risks of falling during daily activities. Altering the step width is thus proposed as a simple and non-invasive treatment method in clinical practice."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

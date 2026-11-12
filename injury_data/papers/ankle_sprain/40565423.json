@@ -1,0 +1,46 @@
+{
+  "pmid": "40565423",
+  "title": "Arthroscopic Management of Medial or Rotational Ankle Instability: A Comprehensive Review of Current Evidence.",
+  "year": "2025",
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Rotational ankle instability (RAI), involving combined medial and lateral ligament insufficiency, is an increasingly recognized clinical entity. While open surgery has traditionally been the mainstay for treating deltoid ligament injuries, recent developments in arthroscopic techniques offer a minimally invasive alternative. This systematic review aimed to evaluate the current evidence on the arthroscopic management of medial and rotational ankle instability, focusing on surgical techniques, clinical outcomes, and complications."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic literature search was conducted following PRISMA guidelines using the PubMed, Scopus, and Web of Science databases. The search strategy included the following terms: ((rotation instability) OR (deltoid) OR (medial ankle instability)) AND (ankle arthrosc*). Eligible studies included adult patients undergoing arthroscopic repair of medial ankle instability with a mean 26.4 months follow-up and reported clinical outcomes. Ten studies met the inclusion criteria, encompassing 336 patients and 346 ankles."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean patient age was 32.6 ± 5.0 years, with 80.6% being male. MRI was the primary diagnostic tool across most studies. Ankle sprains were the most common cause of instability. Lateral ligament insufficiency was frequently associated with medial injuries, reported in all studies evaluating this parameter. All patients underwent prior conservative treatment (mean duration: 5.6 months). Surgical management involved all-inside arthroscopic repair using knotless suture anchors. Additional procedures were performed in 90% of studies, including osteophyte resection (33.3%) and microfracture (22.2%). The mean follow-up period was 26.4 months. The mean postoperative AOFAS score was 95.3, with return to sport generally achieved between 3 and 5 months. Complications were minimal, primarily consisting of superficial wound issues and transient nerve irritation; no major complications or revision surgeries were reported."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Arthroscopic management of medial and rotational ankle instability is associated with excellent functional outcomes, low complication rates, and early return to sport. Compared to open procedures, arthroscopic techniques offer advantages including reduced soft tissue trauma, fewer wound complications, and the ability to address concomitant intra-articular lesions in a single session. Although technically demanding, this approach is particularly beneficial in athletic populations. However, high-quality prospective studies are still needed to validate these findings and establish long-term comparative outcomes with open reconstruction techniques."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean postoperative AOFAS score was 95.3, with return to sport generally achieved between 3 and 5 months."
+    }
+  ],
+  "pmcid": "12192630",
+  "fulltext_chunks": [
+    {
+      "section": "3.7. Clinical Outcomes",
+      "text": "Functional outcomes were assessed in all included studies using the American Orthopaedic Foot and Ankle Society (AOFAS) score. The overall mean postoperative AOFAS score was 95.3, with reported values ranging from 86 to 100. Mansur et al. [25] reported a mean score of 91.9 at 14.8 months of follow-up. Vega et al. [23,26,31] reported a score of 100, with follow-up durations of 35, 34, and 22 months, respectively. Buchhorn et al. [19] reported a score of 94.1 at 12 months, Seiça et al. [27] reported a score of 86.9 at 21.3 months, and Li et al. [28] reported a score of 98.0 at 28 months. Hintermann et al. [30] reported a score of 91.6 at 52 months. Lewis et al. [29] and Guelfi et al. [32] did not report AOFAS scores numerically but described favorable outcomes. In one comparative study, return to sport occurred earlier in patients who underwent deltoid ligament repair compared to those managed without repair (4.6 ± 1.6 vs. 6.0 ± 2.5 months; p = 0.03), with similar final scores between groups."
+    },
+    {
+      "section": "TABLE: Inclusion and exclusion criteria.",
+      "text": "Study Aspect | Inclusion Criteria | Exclusion Criteria\nTypes of studies | 1. Therapeutic clinical studies evaluating arthroscopic lateral ankle ligament repair2. Studies with retrospective or prospective design3. Randomized and quasi-randomized controlled trials4. Studies reporting preoperative and postoperative outcome scores5. Minimum 12-month follow-up for all included patients6. Published in peer-reviewed journals7. Written in English8. Full-text available | 1. Review articles2. Case reports3. Technique articles4. Cadaveric studies5. Animal studies6. In vivo basic science studies\nTypes of participants | 1. Adult patients (≥18 years old) diagnosed with medial or rotational ankle instability2. Patients undergoing arthroscopic ligament repair as primary or combined procedure | 1. Pediatric populations (<18 years old)2. Patients treated non-operatively3. Cases involving experimental or non-standard interventions\nTypes of interventions | 1. Arthroscopic surgical procedures for the treatment of medial ankle instability (including deltoid ligament repair or combined repairs) | 1. Open or hybrid procedures without an arthroscopic component2. Non-surgical interventions3. Experimental techniques not supported by outcome data"
+    }
+  ]
+}

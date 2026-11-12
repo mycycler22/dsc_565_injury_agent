@@ -1,0 +1,35 @@
+{
+  "pmid": "28095082",
+  "title": "Effect of Concussion on Performance of National Football League Players.",
+  "year": "2017",
+  "journal": "International journal of sports physiology and performance",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Lingering neurologic injury after concussion may expose athletes to increased risk if return to play is premature. The authors explored whether on-field performance after concussion is a marker of lingering neurologic injury."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort study on 1882 skill-position players who played in the National Football League (NFL) during 2007-2010."
+    },
+    {
+      "label": "METHODS",
+      "text": "Players with concussion based on the weekly injury report were compared with players with other head and neck injuries (controls) on measures of on-field performance using Football Outsiders' calculation of defense-adjusted yards above replacement (DYAR), a measure of a player's contribution controlling for game context. Changes in performance, relative to a player's baseline level of performance, were estimated before and after injury using fixed-effects models."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The study included 140 concussed players and 57 controls. Players with concussion performed no better or worse than their baseline on return to play. However, a decline in DYAR relative to their prior performance was noted 2 wk and 1 wk before appearing on the injury report. Concussed players performed slightly better than controls in situations where they returned to play the same week as appearing on the injury report."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "On return, concussed NFL players performed at their baseline level of performance, suggesting that players have recovered from concussion. Decline in performance noted 2 wk and 1 wk before appearing on the injury report may suggest that concussion diagnosis was delayed or that concussion can be a multihit phenomenon. Athletic performance may be a novel tool for assessing concussion injury and recovery."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "30572182",
+  "title": "Ankle angle variability during running in athletes with chronic ankle instability and copers.",
+  "year": "2019",
+  "journal": "Gait & posture",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Individuals with chronic ankle instability (CAI) demonstrate altered ankle kinematics during running compared to uninjured individuals; however, little is known about differences between individuals with CAI and those who recover successfully from an index sprain (copers)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty-two young male athletes with prior ankle sprain were investigated, eighteen with CAI and fourteen copers. Instrumented running analysis was performed on a treadmill at two velocities: moderate (2.63 ± 0.20 m/s, rate of perceived of exertion = 14/20); and high velocity (3.83 ± 0.20 m/s). Mean ankle kinematics and stride-to-stride variability were analyzed applying the statistical parametric mapping method."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At both running velocities, no statistically significant differences in mean ankle kinematics were observed. At high running velocity, athletes with CAI demonstrated significantly increased frontal plane variability at 17-19% of the running gait cycle (p = 0.009). Additionally, large between-group effect sizes (Hedges' g ≥ 0.8) may potentially indicate increased frontal plane variability during initial contact and terminal swing, as well as decreased variability in sagittal plane at 34-35% in CAI. A similar tendency existed at moderate velocity, with large effect sizes indicating decreased dorsiflexion at 75-89% in CAI, as well as an increased frontal plane variability at 16-25%, and 97-99%."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Compared to copers, individuals with CAI demonstrate increased variability of ankle kinematics - mainly in the frontal plane and particularly during stance phase - while mean ankle kinematics seems minimally affected. Increased ankle variability at high running velocity may best reflect persisting sensorimotor control deficits in athletes with chronically instable ankles."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "17084295",
+  "title": "Ulnar collateral ligament reconstruction in elite throwing athletes.",
+  "year": "2006",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Ulnar collateral ligament (UCL) injuries may result in disabling valgus instability in throwing athletes. We evaluated the docking technique for UCL reconstruction and describe a modification to the technique."
+    },
+    {
+      "label": "METHODS",
+      "text": "UCL surgery was indicated in 20 high-level baseball players (13 professional and 7 collegiate) based on medial elbow pain preventing effective throwing, clinically apparent medial elbow laxity, and magnetic resonance arthrogram consistent with UCL injury. The mean age was 21.7 years (range, 17.9 to 25.3 years). One patient had previous UCL reconstruction. One had previous arthroscopic elbow debridement. The mean time between injury and treatment was 73 days. Reconstruction was performed via a muscle-splitting approach and the docking technique with palmaris or gracilis graft. For the initial 12 patients, a 2-strand construct was used; however, during the study period, we developed and began using a 3-strand construct with a double anterior bundle and a single posterior bundle, which was used in the next 8 patients. The ulnar nerve was not routinely transposed unless there were preoperative ulnar nerve symptoms (1 patient). Two patients had osteophyte debridement. One had removal of a loose body."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Patients were followed up for a mean of 41.9 months (range, 6.4 to 67.1 months). One player was lost to follow-up and could not be identified on a professional roster. Of the remaining 19 patients, 18 returned to their previous level of participation or higher. Two were occasional pitchers who did not wish to return to pitching but continued to play other positions. They were clinically and functionally asymptomatic. The mean time to return to play was 13.1 months (range, 6.3 to 21.3 months). By use of the Timmerman-Andrews 100-point subjective scoring system, the mean preoperative score was 77.0 (range, 65 to 80) and the mean postoperative score was 98.2 (range, 85 to 100). By use of the Conway-Jobe scoring system, the outcome was rated as excellent in 17 patients and good in 2. One patient underwent subsequent ulnar nerve transposition and returned to the previous level of professional play."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "UCL reconstruction with the docking technique is a reproducible and safe operation that can reliably return athletes to a high level of participation with limited adverse effects."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, therapeutic case series."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to return to play was 13.1 months (range, 6.3 to 21.3 months)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

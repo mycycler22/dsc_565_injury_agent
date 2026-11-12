@@ -1,0 +1,20 @@
+{
+  "pmid": "18478310",
+  "title": "The basic science of tendinopathy.",
+  "year": "2008",
+  "journal": "Clinical orthopaedics and related research",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy is a common clinical problem with athletes and in many occupational settings. Tendinopathy can occur in any tendon, often near its insertion or enthesis where there is an area of stress concentration, and is directly related to the volume of repetitive load to which the tendon is exposed. Recent studies indicate tendinopathy is more likely to occur in situations that increase the \"dose\" of load to the tendon enthesis - including increased activity, weight, advancing age, and genetic factors. The cells in tendinopathic tendon are rounder, more numerous, and show evidence of oxidative damage and more apoptosis. These cells also produce a matrix that is thicker and weaker with more water, more immature and cartilage-like matrix proteins, and less organization. There is now evidence of a population of regenerating stem cells within tendon. These studies suggest prevention of tendinopathy should be directed at reducing the volume of repetitive loads to below that which induces oxidative-induced apoptosis and cartilage-like genes. The management strategies might involve agents or cells that induce tendon stem cell proliferation, repair and restoration of matrix integrity."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

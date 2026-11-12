@@ -1,0 +1,47 @@
+{
+  "pmid": "36626305",
+  "title": "Relationship Between Sensory Organization Testing Scores With Lower Extremity Injuries and Prior Concussion in Professional Soccer Players.",
+  "year": "2023",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate for associations between concussion history or lower extremity (LE) injury and computerized sensory organization testing (SOT) performance in professional soccer players."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Tertiary care center."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Thirty-three, professional, male soccer players on an American club, between the years 2019 and 2021."
+    },
+    {
+      "label": "ASSESSMENT OF RISK FACTORS",
+      "text": "Player age, history of reported LE injury (gluteal, hamstring, ankle, knee, hip, groin, and sports hernia), history of diagnosed concussion, and the number of prior concussions were documented for each player."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Baseline SOT of postural sway was conducted in 6 sensory conditions for all players."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eleven athletes (33%) reported a previous concussion, and 15 (45%) reported a previous LE injury. There were no significant differences in SOT scores between those with and without a previous diagnosis of concussion ( P > 0.05). Those reporting a previous LE injury performed better on condition 3 (eyes open, unstable visual surround) than those who did not ( P = 0.03). Athletes aged 25 years or younger performed worse on condition 3 ( P = 0.01) and had worse, although not statistically significant, median performance on all other balance measures than those older than 25 years. Intraclass correlation coefficient for repeat SOT assessment was 0.58, indicating moderate reliability, without an evident practice effect."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Professional soccer players with a previous concussion or history of LE injury did not demonstrate long-term deficits in postural control, as assessed by multiyear computerized SOT baseline testing. The SOT was reliable over time with younger athletes exhibiting greater postural sway than older athletes."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

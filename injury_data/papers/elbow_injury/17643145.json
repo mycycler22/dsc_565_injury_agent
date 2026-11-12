@@ -1,0 +1,20 @@
+{
+  "pmid": "17643145",
+  "title": "Evaluation of elbow and shoulder problems in professional baseball pitchers.",
+  "year": "2007",
+  "journal": "American journal of orthopedics (Belle Mead, N.J.)",
+  "pub_types": [
+    "Clinical Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "When a professional athlete injures an elbow or shoulder, the uninjured joint must receive as much attention as the injured joint. Is there a relationship between injury of one joint and subsequent injury of the other joint? In the prospective study reported here, we created a database (a) to determine whether injury to one joint was more likely to result in a problem with the other joint and (b) to analyze for trends and correlations. A survey was administered to all pitchers on a professional baseball team to collect data about shoulder and elbow problems during their careers. Eighty-four pitchers (737 seasons of experience, 52 index injuries) were evaluated. Of the injured players, 27 were treated surgically. Risk for later injury was 4.6 times larger for players who had an index surgery than for those who had not. Of the players who had ulnar collateral ligament (UCL) reconstruction, 42% later sustained a shoulder injury. No player with rotator cuff surgery sustained a subsequent elbow or shoulder injury. There were significantly more upper extremity injuries with right-handed throwers. An elbow injury was more likely to result in shoulder problems, specifically after UCL reconstruction. Players who required surgery were almost 5 times more likely to have a later injury or surgery than players who did not require surgery."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

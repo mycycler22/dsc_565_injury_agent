@@ -1,0 +1,25 @@
+{
+  "pmid": "41101916",
+  "title": "Return to Sport after Femoroacetabular Impingement.",
+  "year": "2025",
+  "journal": "The Orthopedic clinics of North America",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Femoroacetabular impingement syndrome significantly impacts athletic performance across various sports. Recent literature shows high overall return-to-sport rates (87%-93%) following surgical treatment, particularly with arthroscopic approaches, though return to preinjury performance levels varies (55%-83%). Athletes typically resume sport within 4 to 8 months postsurgery, with outcomes influenced by factors like symptom duration, rehabilitation adherence, and sport-specific demands. Professional athletes generally show better outcomes than recreational athletes, though many experience temporary performance declines in their first season back. Early intervention and sport-specific rehabilitation protocols appear crucial for optimal outcomes."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Athletes typically resume sport within 4 to 8 months postsurgery, with outcomes influenced by factors like symptom duration, rehabilitation adherence, and sport-specific demands."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

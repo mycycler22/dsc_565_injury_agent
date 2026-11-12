@@ -1,0 +1,20 @@
+{
+  "pmid": "24330073",
+  "title": "Acute hamstring strain injury in track-and-field athletes: A 3-year observational study at the Penn Relay Carnival.",
+  "year": "2014",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study aimed to observe the incidence rates of hamstring strain injuries (HSIs) across different competition levels and ages during the Penn Relays Carnival. Over a 3-year period, all injuries treated by the medical staff were recorded. The type of injury, anatomic location, event in which the injury occurred, competition level, and demographic data were documented. Absolute and relative HSI (per 1000 participants) were determined, and odds ratios (ORs) were calculated between sexes, competition levels, and events. Throughout the study period 48,473 athletes registered to participate in the Penn Relays Carnival, with 118 HSIs treated by the medical team. High school girls displayed lesser risk of HSI than high school boys (OR = 0.55, P = 0.021), and masters athletes were more likely than high school- (OR = 4.26, P < 0.001) and college-level (OR = 3.55, P = 0.001) athletes to suffer HSI. The 4 × 400-m relay displayed a greater likelihood of HSI compared with the 4 × 100-m relay (OR = 1.77, P = 0.008). High school boys and masters-level athletes are most likely to suffer HSI, and there is higher risk in 400-m events compared with 100-m events."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

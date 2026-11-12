@@ -1,0 +1,32 @@
+{
+  "pmid": "37616175",
+  "title": "Epidemiology of Anterior Cruciate Ligament Tears in National Collegiate Athletic Association Athletes: 2014/2015-2018/2019.",
+  "year": "2024",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "This study aimed to describe the epidemiology of ACL tears in NCAA men's and women's sports."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injury and exposure data collected within the NCAA Injury Surveillance Program from 2014/2015 to 2018/2019 were analyzed. ACL tear frequencies, injury rates (IR), and injury proportions were used to describe injury incidence by sport, event type, injury mechanism, and injury history. Injury rate ratios (IRR) were used to examine differential injury rates, and injury proportion ratios (IPR) were used to examine differential distributions."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 729 ACL tears were reported from 8,474,401 recorded athlete exposures (AE) during the study period (IR = 0.86 per 10,000 AE), and the competition-related ACL tear rate was higher than the practice-related rate (IRR = 5.52, 95% confidence interval [CI] = 4.75-6.39). Among men's sports, the highest overall ACL tear rate was observed in men's football (IR = 1.44 per 10,000 AE), whereas among women's sports, the highest overall rate was observed in women's soccer (IR = 2.60 per 10,000 AE). Among sex-comparable sports, ACL tear rates were higher in women's basketball, softball, and soccer, as compared with their men's counterparts. ACL tears were more prevalently attributed to player contact mechanisms in men's sports than women's sports (IPR = 1.73, 95% CI = 1.37-2.19), but more prevalently attributed to noncontact mechanisms in women's sports than men's sports (IPR = 1.17, 95% CI = 1.01-1.35)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "ACL tear risk in women's sports continues to warrant attention and prevention efforts. Given the differential rates by event type, future research efforts may also evaluate initiatives to reduce competition-related injury burden in NCAA sports."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

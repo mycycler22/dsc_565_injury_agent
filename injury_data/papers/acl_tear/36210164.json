@@ -1,0 +1,20 @@
+{
+  "pmid": "36210164",
+  "title": "Tibial Spine Fractures in Young Athletes.",
+  "year": "2022",
+  "journal": "Clinics in sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tibial spine fractures are a relatively rare injury in the young athlete. Previously thought to be the equivalent of a \"pediatric anterior cruciate ligament (ACL) tear,\" contemporary understanding of these injuries classifies them as distinct from ACL injuries in this patient population. Successful treatment hinges on accurate diagnosis paying special attention to fracture displacement and the presence of concomitant intraarticular injury. Surgery can be performed using open or arthroscopic techniques and a variety of fixation options. The most common complication after surgical treatment is arthrofibrosis and, therefore, stable fixation is necessary to allow for early, unimpeded knee motion postoperatively."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

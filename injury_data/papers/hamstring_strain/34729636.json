@@ -1,0 +1,31 @@
+{
+  "pmid": "34729636",
+  "title": "Increased short interval intracortical inhibition in participants with previous hamstring strain injury.",
+  "year": "2022",
+  "journal": "European journal of applied physiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Cortical mechanisms may contribute to weakness in participants with previous hamstring strain injury. This study aims to examine intra-cortical inhibition (SICI) and corticospinal excitability in previously injured participants."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this cross-sectional study, TMS was used to examine SICI, silent period, silent period: MEP ratios and area under the stimulus response curve in the biceps femoris and medial hamstrings. Comparisons were made between participants with (n = 10) and without (n = 10) previous hamstring strain injury. Motor threshold and isometric knee flexor strength were also compared between participants and the relationship between strength and SICI in control and previously injured participants was examined."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Isometric knee flexor strength was lower in previously injured limbs compared with control limbs (mean difference = - 41 Nm (- 26%) [95% CI = - 80 to - 2 Nm], p = 0.04, Cohen's d = - 1.27) and contralateral uninjured limbs (mean difference = - 23 Nm (- 17%), [95% CI = - 40 to - 6 Nm], p = 0.01, Cohen's d = - 0.57). Previously injured limbs exhibited smaller responses to paired pulse stimulation (i.e. greater levels of SICI) in the biceps femoris compared with control limbs (mean difference = - 19%, [95% CI = - 34 to - 5%], p = 0.007, Cohen's d = - 1.33). Isometric knee flexor strength was associated with the level of SICI recorded in the biceps femoris in previously injured participants (coefficient = 23 Nm [95% CI = 7-40 Nm], adjusted R<sup>2</sup> = 0.31, p = 0.01). There were no differences in markers of corticospinal excitability between previously injured and control limbs (all p > 0.24, all Cohen's d < 0.40)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes with previous injury in the biceps femoris exhibit increased SICI in this muscle compared with control participants. Increased SICI is related to lower levels of hamstring strength, and rehabilitation programs targeting the removal of intra-cortical inhibition should be considered."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

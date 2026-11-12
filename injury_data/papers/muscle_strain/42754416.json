@@ -1,0 +1,35 @@
+{
+  "pmid": "42754416",
+  "title": "Quantifying kicking loads during pre- and in-season training across two seasons in professional female Australian Football.",
+  "year": "2026",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To quantify kicking loads (kick count and intensity) of professional female Australian Football (AF) players during pre-season and in-season training across two seasons and examine associations between maximal kicking velocity and Kicker force (combined hip flexion and knee extension)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty-five professional female AF players from one club participated across the 2024 and 2025 seasons (80 training sessions). Foot-mounted inertial measurement units (PlayerMaker™) recorded kick count and foot velocity. Kicks were classified as low (≤13.49 m/s), moderate (13.5-16.49 m/s), or high (≥16.5 m/s) velocity. Combined kick count and intensity metrics (Ball release index, Ball cubed) were calculated. Combined isometric hip flexion/knee extension strength was assessed via the ForceFrame Kicker test. Independent t-tests and Pearson correlations were performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Players averaged 37.2 ± 9.6 kicks per training session, with 95.9% on the preferred limb and a typical distribution of 16.5 low intensity, 16.0 moderate intensity and 4.8 high intensity kicks. Mean kicking velocity per week was 13.9 m/s; mean maximum weekly velocity was 18.4 m/s. Pre-season demonstrated significantly higher mean velocities per session than in-season (14.05 vs 13.7 m/s; p = 0.008, d = 0.64). Maximum velocities per week were also higher during pre-season (18.7 vs 18.1 m/s; p = 0.018, d = 0.96). Kicker force normalised to body mass correlated moderately with maximal kicking velocity (r = 0.52, 95% CI = 0.11-0.78, p = 0.016)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This study provides the first two-season analysis of kicking loads in elite women's AF, establishing normative benchmarks for kick count, intensity, and strength-velocity relationships from a single team. These findings provide an example of kicking exposures within a professional female AF program and may inform training design, workload monitoring, and the progression of kicking loads during return to play in elite, sub-elite, and developing AF athletes, particularly following quadriceps muscle strain injury."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

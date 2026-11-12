@@ -1,0 +1,36 @@
+{
+  "pmid": "28717618",
+  "title": "Plantar fasciitis in athletes: diagnostic and treatment strategies. A systematic review.",
+  "year": "2017",
+  "journal": "Muscles, ligaments and tendons journal",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Plantar fasciitis (PF) is reported in different sports mainly in running and soccer athletes. Purpose of this study is to conduct a systematic review of published literature concerning the diagnosis and treatment of PF in both recreational and élite athletes. The review was conducted and reported in accordance with the PRISMA statement."
+    },
+    {
+      "label": "METHODS",
+      "text": "The following electronic databases were searched: PubMed, Cochrane Library and Scopus. As far as PF diagnosis, we investigated the electronic databases from January 2006 to June 2016, whereas in considering treatments all data in literature were investigated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For both diagnosis and treatment, 17 studies matched inclusion criteria. The results have highlighted that the most frequently used diagnostic techniques were Ultrasonography and Magnetic Resonance Imaging. Conventional, complementary, and alternative treatment approaches were assessed."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In reviewing literature, we were unable to find any specific diagnostic algorithm for PF in athletes, due to the fact that no different diagnostic strategies were used for athletes and non-athletes. As for treatment, a few literature data are available and it makes difficult to suggest practice guidelines. Specific studies are necessary to define the best treatment algorithm for both recreational and élite athletes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Ib."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

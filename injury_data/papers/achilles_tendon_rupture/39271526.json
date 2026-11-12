@@ -1,0 +1,28 @@
+{
+  "pmid": "39271526",
+  "title": "[Treatment of chronic ruptures and defects of the Achilles tendon].",
+  "year": "2024",
+  "journal": "Orthopadie (Heidelberg, Germany)",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon ruptures that are older than 4-6 weeks or developed over a more extended period are chronic. Two challenges characterize the treatment. First, defect zones over a length of several centimeters must frequently be bridged. Second, a prolonged loss of function of the muscles leads to an irreversible fatty degeneration of the tissue. So that even if the tendon is restored, significant functional deficits remain. If there are doubts about the ability of the calf muscles to regenerate, regardless of the size of the defect, tendon transfers are recommended to use the power of an additional muscle to support the plantar flexion of the ankle."
+    },
+    {
+      "label": "TREATMENT",
+      "text": "Established concepts are the transposition of the flexor hallucis longus or the peroneus brevis muscle. If the muscle is intact, defects of up to 2 cm can be treated with a direct suture. Defects between 2 and 5 cm can be bridged using a VY-plasty or a turndown flap. For larger defects, free tendon transplants can be considered. The technical alternative for larger defects is a tendon transfer of the flexor hallucis longus or the peroneus brevis muscle. Besides bridging the defect, another advantage of tendon transfer is that vital muscle tissue is placed in the bed of the Achilles tendon. Both tendons are covered with muscle tissue over nearly the full length, which offers advantages, especially in patients with critical soft tissue or after infection."
+    },
+    {
+      "label": "FOLLOW-UP TREATMENT AND PROGNOSIS",
+      "text": "Follow-up treatment is analogous to an acute Achilles tendon rupture. However, permanent impairments are possible; 75-80% of athletes regain their original performance level."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

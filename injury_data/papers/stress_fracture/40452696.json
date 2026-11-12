@@ -1,0 +1,43 @@
+{
+  "pmid": "40452696",
+  "title": "Supplemental Vitamin D3 for the Prevention of Bone Stress Injuries in Collegiate Athletes.",
+  "year": "2025",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Vitamin D is vital for bone mineralization and turnover. Athletes are prone to bone stress injuries (BSIs) when repetitive forces exceed the bone's remodeling capacity. Our study aims to determine if providing supplemental vitamin D to collegiate athletes reduces the incidence of BSIs in this population."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Providing supplemental vitamin D to collegiate athletes will reduce the incidence of BSIs in this population."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "This is a prospective cohort study, with a level of evidence of II, which means a lesser-quality prospective cohort with a retrospective comparative cohort."
+    },
+    {
+      "label": "METHODS",
+      "text": "Two hundred and forty-five collegiate athletes were enrolled from a single institution. Serum 25-hydroxycholecalciferol (25(OH)D) status was measured twice: once in August and once in February. All athletes were provided and subsequently supplemented with 50,000 IU vitamin D3 taken orally once per week for eight weeks. Athletes were monitored during the school year for BSIs. These data were then compared to retrospective stress fracture reports from 2010 to 2015, during which athletes' vitamin D was not screened nor supplemented."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The athletes tested showed seasonal decreases in 25(OH)D levels, but these were consistent across variations in sex and sport. The overall incidence rate of fractures during the season receiving vitamin D supplementation (one of 245, 0.41%) was lower than the cumulative incidence rate of fractures during the five seasons with no supplementation (41 of 1974, 2.08%) with an absolute difference of 1.67%; however, the incidence rate difference was not statistically significant (p=0.073)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study shows that vitamin D supplementation reduces the incidence of BSI in collegiate athletes, although not significantly so.Further studies are needed to characterize whether vitamin D supplementation can reduce fractures in collegiate athletes."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Vitamin D supplementation in collegiate athletes may reduce the overall incidence of BSIs in this cohort."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

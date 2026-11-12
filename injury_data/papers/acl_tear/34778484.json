@@ -1,0 +1,39 @@
+{
+  "pmid": "34778484",
+  "title": "Tendency of Driving to the Basket Is Associated With Increased Risk of Anterior Cruciate Ligament Tears in National Basketball Association Players: A Cohort Study.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Driving to the basket in basketball involves acceleration, deceleration, and lateral movements, which may expose players to increased anterior cruciate ligament (ACL) injury risk. It is unknown whether players who heavily rely on driving have decreased performance on returning to play after ACL reconstruction (ACLR)."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Players with a greater tendency to drive to the basket would be more likely to tear their ACL versus noninjured controls and would experience decreased performance when returning to play after ACLR."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Season-level performance statistics and ACL injuries were aggregated for National Basketball Association (NBA) seasons between 1980 and 2017 from publicly available sources. Players' tendency to drive was calculated using 49 common season-level performance metrics. Each ACL-injured player was matched with 2 noninjured control players by age, league experience, and style of play metrics. Points, playing minutes, driving, and 3-point shooting tendencies were compared between players with ACL injuries and matched controls. Independent-samples <i>t</i> test was utilized for comparisons."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 86 players with a total of 96 ACL tears identified in the NBA, 50 players were included in the final analysis. Players who experienced an ACL tear had a higher career-average drive tendency than controls (<i>P</i> = .047). Players with career-average drive tendency ≥1 standard deviation above the mean were more likely to tear their ACL than players with drive tendency <1 standard deviation (5.2% vs 2.7%; <i>P</i> = .026). There was no significant difference in total postinjury career points (<i>P</i> = .164) or career minutes (<i>P</i> = .237) between cases and controls. There was also no significant change in drive tendency (<i>P</i> = .152) or 3-point shooting tendency (<i>P</i> = .508) after return to sport compared with controls."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "NBA players with increased drive tendency were more likely to tear their ACL. However, players who were able to return after ACLR did not underperform compared with controls and did not alter their style of play compared with the normal changes seen with age. This information can be used to target players with certain playing styles for ACL injury prevention programs."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

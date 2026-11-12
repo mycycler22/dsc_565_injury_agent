@@ -1,0 +1,37 @@
+{
+  "pmid": "30554790",
+  "title": "Concussion Incidence, Duration, and Return to School and Sport in 5- to 14-Year-Old American Football Athletes.",
+  "year": "2019",
+  "journal": "The Journal of pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To collect prospective data on concussion incidence, risk factors, duration of symptoms, and return to school and sport in 5- to 14-year-old American football participants."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "We conducted a prospective cohort study over 2 years collecting data during two 10-week fall seasons. Youth with concussion were followed to determine time to return to school, sport, and baseline level of symptoms. Logistic regression was used to estimate the risk of sustaining a concussion associated with baseline demographic factors. Time to return to school, sport, and baseline symptoms were analyzed using Kaplan-Meier survival curves."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 863 youth followed (996 player-seasons), 51 sustained a football-related concussion, for an athlete-level incidence of 5.1% per season. Youth with history of concussion had a 2-fold increased risk for sustaining an incident concussion (OR, 2.2; 95% CI, 1.1-4.8). Youth with depression had a 5-fold increased risk of concussion (OR, 5.6; 95% CI, 1.7-18.8). After a concussion, 50% of athletes returned to school by 3 days, 50% returned to sport by 13 days, and 50% returned to a baseline level of symptoms by 3 weeks."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Concussion rates in this study were slightly higher than previously reported, with 5 of every 100 youth sustaining a football-related concussion each season. One-half of youth were still symptomatic 3 weeks after injury. Further research is needed to address the risk of concussion in youth football."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "After a concussion, 50% of athletes returned to school by 3 days, 50% returned to sport by 13 days, and 50% returned to a baseline level of symptoms by 3 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "36642037",
+  "title": "The effect of three types of exercises programs on the patella location in athletes with patellofemoral pain.",
+  "year": "2023",
+  "journal": "The Knee",
+  "pub_types": [
+    "Randomized Controlled Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The aim of this study was to compare the effect of exercises focusing on the proximal and distal joints to knee and knee local exercises on the Patellar location in athletes with patellofemoral pain (PFP)."
+    },
+    {
+      "label": "METHODS",
+      "text": "A randomized controlled, single-blinded trial was conducted. Thirty-five athletes with PFP were randomly divided into three groups; proximal (12), distal (11) and local (12). Q Angle was measured with goniometer, tilt and congruence angle were measured with digital radiology before and after the exercise programs. The exercises were performed three sessions of 70 min per week, for 8 weeks. Data were analyzed by mixed analysis of variance, post hoc test and dependent t-test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the pre-intervention, no significant difference was observed between the groups (P > 0.05). But in the post-intervention, Q angle, tilt angle, congruence angle and knee pain in the proximal group were significantly less than the distal and local groups (P < 0.01); while there were no significant differences between the distal and local groups (P > 0.05). Also, in the proximal group, there were significant differences between pre-intervention and post intervention in Q angle, tilt angle and congruence angle (P = 0.001), but no significant differences were observed in the distal and local groups (P > 0.05). Knee pain in all three groups showed significant differences between pre-intervention and post-intervention (P < 0.01)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The findings of the present study indicated further improvement in patellar location and knee pain in the proximal group. Accordingly, proximal group exercises can improve the pain and performance of athletes with PFP by patellar relocation to the normal position."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

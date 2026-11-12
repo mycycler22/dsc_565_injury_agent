@@ -1,0 +1,36 @@
+{
+  "pmid": "34054035",
+  "title": "Effectiveness of exercise interventions to prevent shoulder injuries in athletes: a systematic review protocol.",
+  "year": "2021",
+  "journal": "JBI evidence synthesis",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "This review will evaluate the effectiveness of exercise intervention versus no intervention or alternate intervention to prevent shoulder injuries in athletes."
+    },
+    {
+      "label": "INTRODUCTION",
+      "text": "Injury-prevention research has proven the effectiveness of exercise in preventing sports injuries in general and in the lower limb specifically. However, the results have been extrapolated to sport-related shoulder injuries from limited evidence. Similar reviews have been faced with insufficient high-quality evidence and limited studies due to restrictive target populations, resulting in reduced generalizability."
+    },
+    {
+      "label": "INCLUSION CRITERIA",
+      "text": "Peer-reviewed randomized controlled trials, with adequate control arms, investigating shoulder-injury events after exercise intervention in athletes, both training or competing in sports, will be included. Studies with substitute end points for injury events and non-self-propelled athletes, or vehicle-assisted athletes, will be excluded."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive search of multiple databases will be used to find relevant studies. The databases will be searched from inception to April 2021, with no language restrictions imposed. Keywords and derivatives of \"sport,\" \"exercise intervention,\" \"prevention,\" \"shoulder injury,\" and \"randomized controlled trials\" will be used.Sources will include Academic Search Ultimate (EBSCO), CINAHL Plus (EBSCO), Cochrane Central Register of Controlled Trials (Wiley), MasterFILE Premier (EBSCO), MEDLINE (PubMed), Physiotherapy Evidence Database (PEDro), ProQuest Health and Medical Complete and Nursing and Allied Health Source (ProQuest Complete), ScienceDirect (Elsevier), Scopus (Elsevier), SPORTDiscus (EBSCO), and Web of Science (Clarivate Analytics). Data appraisal, extraction, and synthesis will follow JBI guidance for systematic reviews of effectiveness."
+    },
+    {
+      "label": "SYSTEMATIC REVIEW REGISTRATION NUMBER",
+      "text": "PROSPERO CRD42020204141."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "39392909",
+  "title": "Lateral Femoral Condyle Stress Fracture in an Ultramarathoner: A Case Report.",
+  "year": "2024",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Journal Article",
+    "Case Reports"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "A 62-year-old ultramarathon athlete presented to the clinic with right posterolateral knee pain for 3 to 4 weeks and muscle tightness. Magnetic resonance imaging demonstrated a right lateral femoral condyle fracture. The fracture was treated conservatively, with return full Ironman competition 14 months later."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Femoral condyle fractures should be suspected in endurance athletes with nonspecific knee pain to prevent further injury. These fractures are rare, and more studies are needed to determine risk factors, risk classification, and optimal treatment protocol. With rising popularity of ultraendurance events, sports medicine physicians must educate patients on injury recognition and mitigation strategies."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

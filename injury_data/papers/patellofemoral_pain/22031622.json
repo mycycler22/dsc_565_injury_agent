@@ -1,0 +1,45 @@
+{
+  "pmid": "22031622",
+  "title": "Risk factors for patellofemoral pain syndrome: a systematic review.",
+  "year": "2012",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To systematically outline the risk factors for patellofemoral pain syndrome (PFPS)."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "PFPS is the most commonly diagnosed condition in young individuals with knee complaints. High incidence among athletes suggests a possibility of prevention. The first step toward prevention is identification of possible risk factors."
+    },
+    {
+      "label": "METHODS",
+      "text": "Prospective studies that included 20 or more patients with PFPS and examined at least 1 possible risk factor for PFPS were included. An assessment list was applied to evaluate the quality of the studies. A meta-analysis was conducted using a random-effects model. Significant differences were based on calculated mean differences, with matching 95% confidence intervals (CIs). For dichotomous data, odds ratios or relative risks were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 3845 potentially relevant articles, 7 were included in this review. These studies examined a total of 135 variables, and pooling was possible for 13 potential risk factors. The pooled data showed that knee extension peak torques were significantly lower in the PFPS group than in controls. Mean differences in torque, with negative differences reflecting lower means in the PFPS group, were as follows: (a) standardized relative to body weight at 60°/s, -0.24 Nm (95% CI: -0.39, -0.09); (b) standardized relative to body weight at 240°/s, -0.11 Nm (95% CI: -0.17, -0.05); (c) standardized relative to body mass index at 60°/s, -0.84 Nm (95% CI: -1.23, -0.44); (d) standardized relative to body mass index at 240°/s, -0.32 Nm (95% CI: -0.52, -0.12); (e) nonstandardized in a concentric mode at 60°/s, -17.54 Nm (95% CI: -25.53, -9.54); (f) nonstandardized in a concentric mode at 240°/s, -7.72 Nm (95% CI: -12.67, -2.77)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Weaker knee extension strength, expressed by peak torque, appears to be a risk factor for PFPS, based on meta-analyses of pooled results from multiple studies. Because several other risk factors for PFPS were described only in single studies, these additional risk factors, as well as those with conflicting evidence, need to be confirmed in future studies."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Prognosis, level 1a-."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

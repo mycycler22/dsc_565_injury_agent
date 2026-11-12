@@ -1,0 +1,28 @@
+{
+  "pmid": "41078627",
+  "title": "Bilateral Traumatic Scaphoid Fracture Managed Surgically with Headless Compression Screw: A Case Report with Review Literature.",
+  "year": "2025",
+  "journal": "Journal of orthopaedic case reports",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "The most frequent carpal bone fractures are scaphoid fractures, which frequently affect young people, particularly athletes. These fractures can be difficult to identify, and if left untreated, they can cause problems, including non-union. Although they are uncommon, high-energy trauma can result in bilateral scaphoid fractures, and related injuries can make treatment more difficult."
+    },
+    {
+      "label": "CASE REPORT",
+      "text": "A 20-year-old male who had fallen on an outstretched hand from a tractor appeared with pain, edema, and deformity in both wrists and the left elbow. Upon examination, the scaphoid compression test came back positive on both sides, and there was discomfort in the anatomical snuff box. Bilateral scaphoid fractures, a transcaphoid, trans-triquetrum perilunate dislocation on the left, and a Regan-Moorey II coronoid fracture were discovered by X-ray and computed tomography (CT) scans. The perilunate dislocation was repaired during the surgical procedure, and both scaphoid fractures were internally fixed with headless compression (Herbert) screws. At 6-month follow-up, the fractures had successfully united, and the patient regained full wrist functionality. This case underscores the importance of early diagnosis and surgical intervention for scaphoid fractures to prevent complications."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "High clinical suspicion and quick radiographic assessment are necessary for scaphoid fractures. In addition to improving results, early surgical fixation lowers the chance of non-union and other issues. For precise diagnosis and surgical planning, CT scans are necessary."
+    }
+  ],
+  "injury_query": "scaphoid fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

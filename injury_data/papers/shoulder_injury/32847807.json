@@ -1,0 +1,31 @@
+{
+  "pmid": "32847807",
+  "title": "Nine typical injury patterns in German professional male football (soccer): a systematic visual video analysis of 345 match injuries.",
+  "year": "2020",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "We aimed to systematically analyse the videos of acute injuries in professional men's football and describe typical injury patterns."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injuries were registered with the German statutory accident insurance for professional athletes as part of occupational accident reporting. Following each season (2014-2017), video footage of the two highest divisions in German male football was searched for moderate and severe acute match injuries. Two raters then independently assessed the injuries for: game situation, player and opponent behaviour, referee decision, and injury mechanisms."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The total data set included 7493 acute injuries. Of these, 857 (11%) were moderate or severe match injuries. The video search yielded 345 (40%) clearly identifiable injuries and of those 170 (49%) were contact injuries. We describe nine typical injury patterns: one each for head and shoulder injuries, two for thigh and ankle, and three for knee injuries. The nine patterns are called: (1) Head-to-head injury. (2) Collision-and-fall shoulder injury. (3) Sprinter's thigh injury. (4) Perturbation-and-strain thigh injury. (5) Tackle knee injury. (6) Tackle-and-twist knee injury. (7) Non-contact knee injury. (8) Attacked ankle injury. (9) Collision-and-twist ankle injury. Thigh injuries occurred primarily in non-contact situations (44/81), mostly while the player was sprinting (23/44). Knee injuries were often caused by direct external impact (49/84)-mainly suffered by the tackler during a tackle (17/49)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The nine common injury patterns in football differed substantially in their mechanisms and causes."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

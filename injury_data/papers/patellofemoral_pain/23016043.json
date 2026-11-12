@@ -1,0 +1,39 @@
+{
+  "pmid": "23016043",
+  "title": "Influence of the hip on patients with patellofemoral pain syndrome: a systematic review.",
+  "year": "2011",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Patellofemoral pain syndrome (PFPS) is one of the most common conditions limiting athletes. There is a growing body of evidence suggesting that dysfunction at the hip may be a contributing factor in PFPS."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "MEDLINE (1950-September 2010), CINAHL (1982-September 2010), and SPORTDiscus (1830-September 2010) were searched to identify relevant research to this report."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Studies were included assessing hip strength, lower extremity kinematics, or both in relation to PFPS were included."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Studies included randomized controlled trials, quasi-experimental designs, prospective epidemiology, case-control epidemiology, and cross-sectional descriptive epidemiology in a scientific peer-reviewed journal."
+    },
+    {
+      "label": "RESULTS",
+      "text": "PFPS is associated with decreased hip strength, specifically at the abductors and external rotators. There is a correlation between PFPS and faulty hip mechanics (adduction and internal rotation)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There is a link between the strength and position of the hip and PFPS. These patients have a common deficit once symptomatic. Hip strengthening and a coordination program may be useful in a conservative treatment plan for PFPS."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

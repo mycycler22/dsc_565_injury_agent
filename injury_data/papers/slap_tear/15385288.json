@@ -1,0 +1,32 @@
+{
+  "pmid": "15385288",
+  "title": "Shoulder MR arthrography: which patient group benefits most?",
+  "year": "2004",
+  "journal": "AJR. American journal of roentgenology",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "We sought to compare the diagnostic accuracy of conventional MRI versus MR arthrography of the shoulder in the assessment of high-performance athletes (professional baseball players) and to compare our findings in these patients with the conventional MRI and MR arthrographic findings in an age-matched control group of nonprofessional athletes."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Conventional MRI and MR arthrographic examinations of the shoulder in 20 consecutive professional baseball players with shoulder pain were reviewed retrospectively by two musculoskeletal radiologists in consensus. These interpretations were compared with retrospective consensus interpretations of conventional MRI and MR arthrographic examinations of the shoulder obtained in a control group of 50 consecutive nonprofessional athletes with shoulder pain. MR images were assessed for full- or partial-thickness supraspinatus tendon tears, superior labral anteroposterior (SLAP) tears, and anterior or posterior labral tears."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the 20 consecutive professional athlete patients, two full-thickness and six partial-thickness undersurface supraspinatus tendon tears were seen on MR arthrography but not seen on conventional MRI as well as six SLAP tears, two anterior labral tears, and one posterior labral tear. Three patients had both SLAP tears and full- or partial-thickness supraspinatus tendon tears. Of 14 patients with findings on MR arthrography that were not seen on MRI, 11 had arthroscopic correlation. In all 11, arthroscopic findings confirmed findings on MR arthrography. In the group of 50 nonprofessional athlete patients, five had additional findings on MR arthrography not seen on conventional MRI: two anterior labral tears, two partial-thickness supraspinatus tendon tears, and two SLAP tears. One patient had both a partial-thickness supraspinatus tendon tear and a SLAP tear seen on MR arthrography. The five patients with additional findings on MR arthrography had arthroscopy. In all five, arthroscopic findings confirmed the findings on MR arthrography."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MR arthrography is considerably more sensitive for detection of partial-thickness supraspinatus tears and labral tears than conventional MRI. MR arthrography showed injuries in addition to those seen on conventional MRI in 14 of 20 patients in the high-performance athlete group. These results suggest high-performance athletes may be a subgroup of patients for whom MR arthrography yields considerably more diagnostic information than conventional MRI."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

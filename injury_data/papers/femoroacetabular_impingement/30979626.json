@@ -1,0 +1,37 @@
+{
+  "pmid": "30979626",
+  "title": "Performance and Return to Sport After Hip Arthroscopy for Femoroacetabular Impingement in Professional Athletes Differs Between Sports.",
+  "year": "2019",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To determine (1) return-to-sport rates for National Football League, Major League Baseball, National Basketball Association, and National Hockey League (NHL) athletes after hip arthroscopy for femoroacetabular impingement syndrome, (2) postoperative return-to-sport rate differences between sports, (3) differences in postoperative career length and games per season, (4) differences in preoperative and postoperative performance, and (5) postoperative performance compared with that of matched control players."
+    },
+    {
+      "label": "METHODS",
+      "text": "Professional athletes who underwent hip arthroscopy for femoroacetabular impingement syndrome were identified. Matched control players were identified by position, age, experience, and performance. Return to sport was defined as playing in at least 1 game after surgery. Continuous variables for each group were compared by using a 2-tailed paired-samples Student t test or χ<sup>2</sup> test. A Bonferroni correction was used to control for multiple comparisons with statistical significance defined by a P value < .002."
+    },
+    {
+      "label": "RESULTS",
+      "text": "One hundred seventy-two players (86.4%) (mean age, 28.8 ± 5.2 years) were able to return to sport at an average of 7.1 ± 4.1 months. Athletes played 3.5 ± 2.4 years after surgery without significant differences between sports (P > .002). NHL players who underwent surgery played significantly fewer years (4.4 vs 3.3 years) (P < .001) and fewer games per season (4 fewer games) (P <.001) after surgery compared with control players. NHL players also had a significant decrease in performance after surgery compared with their performance before surgery (P < .001). In National Football League, Major League Baseball, and National Basketball Association athletes, no significant differences were found in games per season, career length, or preoperative performance compared with postoperative performance and performance of matched control players (P > .002)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The RTS rate for professional athletes after surgery for femoroacetabular impingement syndrome is high. Only NHL athletes had significantly shorter careers and played significantly fewer games per season compared with matched control players, with no difference between sports. NHL athletes had significantly worse postoperative performance compared with preoperative performance, with all other sports demonstrating a career-related decline similar to that of matched control players."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "One hundred seventy-two players (86.4%) (mean age, 28.8 ± 5.2 years) were able to return to sport at an average of 7.1 ± 4.1 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

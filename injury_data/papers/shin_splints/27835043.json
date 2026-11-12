@@ -1,0 +1,44 @@
+{
+  "pmid": "27835043",
+  "title": "Risk Factors for Medial Tibial Stress Syndrome in Active Individuals: An Evidence-Based Review.",
+  "year": "2016",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "Reference/Citation: Hamstra-Wright KL, Bliven KC, Bay C. Risk factors for medial tibial stress syndrome in physically active individuals such as runners and military personnel: a systematic review and meta-analysis. Br J Sports Med. 2015;49(6):362-369."
+    },
+    {
+      "label": "CLINICAL QUESTION",
+      "text": "What factors put physically active individuals at risk to develop medial tibial stress syndrome (MTSS)?"
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "The authors performed a literature search of CINAHL, the Cochrane Central Register of Controlled Trials, EMBASE, and MEDLINE from each database's inception to July 2013. The following key words were used together or in combination: armed forces, athlete, conditioning, disorder predictor, exercise, medial tibial stress syndrome, militaries, MTSS, military, military personnel, physically active, predictor, recruit, risk, risk characteristic, risk factor, run, shin pain, shin splints, and vulnerability factor."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Studies were included in this systematic review based on the following criteria: original research that (1) investigated risk factors associated with MTSS, (2) compared physically active individuals with and without MTSS, (3) was printed in English, and (4) was accessible in full text in peer-reviewed journals."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Two authors independently screened titles or abstracts (or both) of studies to identify inclusion criteria and quality. If the article met the inclusion criteria, the authors extracted demographic information, study design and duration, participant selection, MTSS diagnosis, investigated risk factors, mean difference, clinical importance, effect size, odds ratio, and any other data deemed relevant. After the data extraction was complete, the authors compared findings for accuracy and completeness. When the mean and standard deviation of a particular risk factor were reported 3 or more times, that risk factor was included in the meta-analysis. In addition, the methodologic quality was assessed with an adapted checklist developed by previous researchers. The checklist contained 5 categories: study objective, study population, outcome measurements, assessment of the outcome, and analysis and data presentation. Any disagreement between the authors was discussed and resolved by consensus."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "A total of 165 papers were initially identified, and 21 original research studies were included in this systematic review. More than 100 risk factors were identified in the 21 studies. Continuous data were reported 3 or more times for risk factors of body mass index (BMI), navicular drop, ankle plantar-flexion range of motion (ROM), ankle-dorsiflexion ROM, ankle-eversion ROM, ankle-inversion ROM, quadriceps angle, hip internal-rotation ROM, and hip external-rotation ROM. As compared with the control group, significant risk factors for developing MTSS identified in the literature were (1) greater BMI (mean difference [MD] = 0.79, 95% confidence interval [CI] = 0.38, 1.20; P < .001), (2) greater navicular drop (MD = 1.9 mm, 95% CI = 0.54, 1.84 mm; P < .001), (3) greater ankle plantar-flexion ROM (MD = 5.94°, 95% CI = 3.65°, 8.24°; P < .001), and (4) greater hip external-rotation ROM (MD = 3.95°, 95% CI = 1.78°, 6.13°; P < .001). Ankle-dorsiflexion ROM (MD = -0.01°, 95% CI = -0.96, 0.93; P = .98), ankle-eversion ROM (MD = 1.17°, 95% CI = -0.02, 2.36; P = .06), ankle-inversion ROM (MD = 0.98°, 95% CI = -3.11°, 5.07°; P = .64), quadriceps angle (MD = -0.22°, 95% CI = -0.95°, 0.50°; P = .54), and hip internal-rotation ROM (MD = 0.18°, 95% CI = -5.37°, 5.73°; P = .95), were not different between individuals with MTSS and controls."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The primary factors that appeared to put a physically active individual at risk for MTSS were increased BMI, increased navicular drop, greater ankle plantar-flexion ROM, and greater hip external-rotation ROM. These primary risk factors can guide health care professionals in the prevention and treatment of MTSS."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

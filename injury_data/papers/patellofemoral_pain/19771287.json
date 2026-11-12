@@ -1,0 +1,52 @@
+{
+  "pmid": "19771287",
+  "title": "Eccentric hip muscle function in females with and without patellofemoral pain syndrome.",
+  "year": "2009",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Patellofemoral pain syndrome (PFPS) is a common knee condition in athletes. Recently, researchers have indicated that factors proximal to the knee, including hip muscle weakness and motor control impairment, contribute to the development of PFPS. However, no investigators have evaluated eccentric hip muscle function in people with PFPS."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare the eccentric hip muscle function between females with PFPS and a female control group."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Musculoskeletal laboratory."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "two groups of females were studied: a group with PFPS (n = 10) and a group with no history of lower extremity injury or surgery (n = 10)."
+    },
+    {
+      "label": "INTERVENTION(S)",
+      "text": "Eccentric torque of the hip musculature was evaluated on an isokinetic dynamometer."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Eccentric hip abduction, adduction, and external and internal rotation peak torque were measured and expressed as a percentage of body mass (Nm/kg x 100). We also evaluated eccentric hip adduction to abduction and internal to external rotation torque ratios. The peak torque value of 5 maximal eccentric contractions was used for calculation. Two-tailed, independent-samples t tests were used to compare torque results between groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Participants with PFPS exhibited much lower eccentric hip abduction (t(18) = -2.917, P = .008) and adduction (t(18) = -2.764, P = .009) peak torque values than did their healthy counterparts. No differences in eccentric hip external (t(18) = 0.45, P = .96) or internal (t(18) = -0.742, P = .47) rotation peak torque values were detected between the groups. The eccentric hip adduction to abduction torque ratio was much higher in the PFPS group than in the control group (t(18) = 2.113, P = .04), but we found no difference in the eccentric hip internal to external rotation torque ratios between the 2 groups (t(18) = -0.932, P = .36)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Participants with PFPS demonstrated lower eccentric hip abduction and adduction peak torque and higher eccentric adduction to abduction torque ratios when compared with control participants. Thus, clinicians should consider eccentric hip abduction strengthening exercises when developing rehabilitation programs for females with PFPS."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

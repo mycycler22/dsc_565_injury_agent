@@ -1,0 +1,32 @@
+{
+  "pmid": "42730713",
+  "title": "Could creatine supplementation combined with physical rehabilitation accelerate return to play in athletes with patellar tendinopathy?",
+  "year": "2026",
+  "journal": "Journal of the International Society of Sports Nutrition",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Several dietary supplements have been proposed to positively influence the rehabilitation process following injury. However, to date, no studies have specifically examined the effects of scientifically supported ergogenic aids on recovery outcomes when combined with physical performance interventions. Therefore, the aim of this study was to analyze the ergogenic effects of creatine supplementation on neuromuscular performance, tendon thickness, pain, and body composition in athletes diagnosed with patellar tendinopathy (PT)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Using a triple-blind experimental design, 20 federated athletes (age: 33.7 ± 9.84 years) with PT were randomly assigned to either a creatine supplementation group (CR; n = 9) or a placebo group (PLA; n = 11). All participants followed a physical rehabilitation intervention that included daily eccentric training combined with stretching exercises, along with one session every 10 days of extracorporeal shock wave therapy (ESWT) and manual therapy targeting the tendon and surrounding muscle tissue. At the end of each eccentric training session, the participants ingested 3 capsules of creatine monohydrate - Creapure® (CR) or sucrose (PLA). At the beginning (PRE), after 4 weeks (MID), and after 8 weeks (POST), the pain level (Victorian Institute for Sports Assessment-Patella, VISA-<i>P</i>), tendon thickness (echography), body composition (bioelectrical impedance system), and neuromuscular performance using a countermovement jump test (CMJ) and a strength test (5-RM) of knee extension in the injured leg."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A significant main effect of time was observed for VISA-<i>P</i> scores (<i>p</i> < 0.001; η<sup>2</sup> <i>p</i> = 0.626), indicating a reduction in pain over time in both the creatine (CR) and placebo (PLA) groups. At POST, both groups showed significant improvements compared to PRE (CR: 78.0 points [69.2-86.8] vs. 60.6 points [53.4-67.7]; <i>p</i> = 0.002; PLA: 75.2 points [66.3-84.0] vs. 60.0 points [52.5-67.5]; <i>p</i> = 0.003). However, only the CR group showed a statistically significant improvement in the MID compared to PRE (MID: 70.2 points [60.0-80.5]; <i>p</i> = 0.027). A significant main effect of time was observed for both tendon thickness (<i>p</i> < 0.001; η<sup>2</sup> <i>p</i> = 0.629) and the 5-RM leg extension test (<i>p</i> < 0.001; η<sup>2</sup> <i>p</i> = 0.739), with both groups showing progressive improvements over time. Nevertheless, as trend toward a statistically significant time·supplementation interaction was observed (<i>p</i> = 0.099; η2p = 0.126), with an increase in performance only in CMJ in MID vs PRE (36.8  cm (33.8-39.7) vs 34.3  cm (30.8-37.7); <i>p</i> = 0.019) and POST vs MID (POST: 37.6  cm (33.5-41.8); <i>p</i> = 0.015)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A physical rehabilitation program involving eccentric training, stretching, and ESWT is effective in reducing tendon thickness and increasing muscle strength. However. It seems that the addition of CR induces an earlier reduction of pain and a positive effect on CMJ performance. Therefore, CR could be considered as an ergogenic recovery aid in athletes with PT."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "39372327",
+  "title": "Alterations of energy expenditure after anterior cruciate ligament tear and reconstruction. A systematic review.",
+  "year": "2023",
+  "journal": "Hippokratia",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The ever-increasing sport level makes every single detail of the athlete's cardiorespiratory profile count, and therefore, it is deemed crucial to clarify how the anterior cruciate ligament (ACL) reconstruction (ACLR) affects the energy economy of an athlete compared to the ACL-deficient and healthy subjects. The purpose of this review was to systematically analyze the studies investigating the correlation between the energy-oxygen cost in patients following ACLR in unreconstructed and intact ACLs."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted this systematic review according to the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines. PubMed, Cochrane, and Google Scholar databases were searched, and eight articles describing miscellaneous methods for the assessment of oxygen consumption in patients with ACL deficiency or ACL reconstructed knees were included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In total, 285 subjects were recorded with a mean age of 29.61 years. The type of exercise the patients were subjected to varied among the studies, including one-leg cycling, exercise in the closed kinetic chain, walking, jogging, or running at various speeds, and treadmill inclinations. The energy expenditure of an ACL-deficient patient is considerably higher than a healthy subject. Additionally, chronicity of the ACL tear is not correlated with energy expenditure. ACL deficiency leads to higher energy consumption, not only during walking but during jogging as well. ACLR could improve the efficiency of walking by lowering the energy demands. After ACLR, professional soccer players' aerobic capacity (VO<sub>2</sub>max) is improved significantly."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "ACL insufficiency affects substantially the metabolic energy costs, resulting in increased energy expenditure. According to current literature, ACLR can help to partially reverse this condition, as significant improvements and a more efficient, energy-wise, locomotion are expected. However, further research is necessary to clarify if ACLR can completely normalize energy expenditure again. HIPPOKRATIA 2023, 27 (4):119-125."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

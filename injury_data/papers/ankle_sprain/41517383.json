@@ -1,0 +1,19 @@
+{
+  "pmid": "41517383",
+  "title": "Reframing Ankle Sprain Management: The Role of Thermography in Ligament Injury Monitoring.",
+  "year": "2025",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background</b>: Ankle sprains are one of the most frequent ligament injuries in elite sports. Despite their high incidence, current rehabilitation approaches are often based on time-based criteria and neglect the physiological status of the injured tissues. Infrared thermography (IRT) is a non-invasive tool useful for detecting temperature asymmetries related to inflammation and tissue dysfunction. This study aimed to analyze the temporal evolution of ankle temperature asymmetry during return-to-play (RTP). <b>Methods:</b> A retrospective observational study of 26 ankle injuries analyzed with thermography that met the inclusion criteria. Thermograms were processed with a software to calculate temperature asymmetry in the ankle region of interest (ankleROI). Statistical analyses included paired and one-sample t-tests, as well as linear regression models, to assess temporal changes throughout the RTP process. <b>Results</b>: A significant hyperthermic response was observed immediately after injury (Δ = +0.594 °C; <i>p</i> < 0.001, Cohen's d = 0.918). The first significant asymmetry reduction occurred between 21.5 and 28.5 days post-injury (Δ = -0.488 °C; <i>p</i> = 0.004), with a consistent weekly decrease of -0.109 °C (95% CI [-0.143, -0.078]). These findings indicate a progressive decrease in decrement on thermal asymmetry over approximately four weeks of RTP. <b>Conclusions</b>: IRT demonstrates potential as a physiological monitoring tool during the RTP process after ankle sprains. The observed pattern of temperature recovery provides objective reference thresholds that could complement existing functional and clinical criteria."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

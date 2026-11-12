@@ -1,0 +1,40 @@
+{
+  "pmid": "34104660",
+  "title": "Differences in Outcomes Between Anterior and Posterior Shoulder Instability After Arthroscopic Bankart Repair: A Systematic Review and Meta-analysis.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The glenohumeral joint is one of the most frequently dislocated joints in the body, particularly in young, active adults."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To conduct a systematic review and meta-analysis to evaluate and compare outcomes between anterior versus posterior shoulder instability."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was performed using the PubMed, Cochrane Library, and MEDLINE databases (from inception to September 2019) according to PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they were published in the English language, contained outcomes after anterior or posterior shoulder instability, had at least 1 year of follow-up, and included arthroscopic soft tissue labral repair of either anterior or posterior instability. Outcomes including return-to-sport (RTS) rate, postoperative instability rate, and pre- and postoperative American Shoulder and Elbow Surgeons (ASES) scores were recorded and analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 39 studies were included (2077 patients; 1716 male patients and 361 female patients). Patients with anterior instability had a mean age of 23.45 ± 5.40 years (range, 11-72 years), while patients with posterior instability had a mean age of 23.08 ± 8.41 years (range, 13-61 years). The percentage of male patients with anterior instability was significantly higher than that of female patients (odds ratio [OR], 1.36; 95% CI, 1.04-1.77; <i>P</i> = .021). Compared with patients with posterior instability, those with anterior instability were significantly more likely to RTS (OR, 2.31; 95% CI, 1.76-3.04; <i>P</i> < .001), and they were significantly more likely to have postoperative instability (OR, 1.53; 95% CI, 1.07-2.23; <i>P</i> = .018). Patients with anterior instability also had significantly higher ASES scores than those with posterior instability (difference in means, 6.74; 95% CI, 4.71-8.77; <i>P</i> < .001). There were no significant differences found in postoperative complications between the anterior group (11 complications; 1.8%) and the posterior group (3 complications; 1.6%) (OR, 1.12; 95% CI, 0.29-6.30; <i>P</i> = .999)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patients with anterior shoulder instability had higher RTS rates but were more likely to have postoperative instability compared with posterior instability patients. Overall, male patients were significantly more likely to have anterior shoulder instability, while female patients were significantly more likely to have posterior shoulder instability."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

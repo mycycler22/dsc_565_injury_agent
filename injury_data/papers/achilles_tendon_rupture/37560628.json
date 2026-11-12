@@ -1,0 +1,31 @@
+{
+  "pmid": "37560628",
+  "title": "Case study: The influence of Achilles tendon rupture on knee joint stress during counter-movement jump - Combining musculoskeletal modeling and finite element analysis.",
+  "year": "2023",
+  "journal": "Heliyon",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Presently, the current research concerning Achilles tendon rupture repair (ATR) is predominantly centered on the ankle joint, with a paucity of evidence regarding its impact on the knee joint. ATR has the potential to significantly impede athletic performance and increase tibiofemoral contact forces in athletes. The purpose of this study was to prognosticate the distribution of stress within the knee joint during a countermovement jump through the use of a simulation method that amalgamated a musculoskeletal model of a patient who underwent Achilles tendon rupture repair with a finite element model of the knee joint."
+    },
+    {
+      "label": "METHODS",
+      "text": "A male elite badminton player who had suffered an acute Achilles tendon rupture in his right leg one year prior was selected as our study subject. In order to analyze his biomechanical data, we employed both the OpenSim musculoskeletal model and finite element model to compute various parameters such as joint angles, joint moments, joint contact forces, and the distribution of knee joint stress."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the jumping phase, a significantly lower knee extension angle (p < 0.001), ankle dorsiflexion angle (p = 0.002), peak vertical ground reaction force (p < 0.001), and peak tibiofemoral contact force (p = 0.009) were observed on the injured side than on the uninjured side. During the landing phase, the ankle range of motion (ROM) was significantly lower on the injured side than on the uninjured side (p = 0.009), and higher peak vertical ground reaction forces were observed (p = 0.012). Additionally, it is logical that an injured person will put higher load on the uninjured limb, but the finite element analysis indicated that the stresses on the injured side of medial meniscus and medial cartilage were significantly greater than the uninjured side."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "An Achilles tendon rupture can limit ankle range of motion and lead to greater joint stress on the affected area during countermovement jumps, especially during the landing phase. This increased joint stress may also transfer more stress to the soft tissues of the medial knee, thereby increasing the risk of knee injury. It is worth noting that this study only involves the average knee flexion angle and load after ATR in one athlete. Caution should be exercised when applying the conclusions, and in the future, more participants should be recruited to establish personalized knee finite element models to validate the results."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

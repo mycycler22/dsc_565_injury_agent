@@ -1,0 +1,31 @@
+{
+  "pmid": "37410445",
+  "title": "Knee flexor muscle fatigue during repeated Nordic hamstring exercise.",
+  "year": "2023",
+  "journal": "The Journal of sports medicine and physical fitness",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Nordic hamstring exercise is an effective method for preventing hamstring strain injury. In this study, we investigated the response of knee flexors regarding increased muscle force and fatigue when the Nordic hamstring exercise was performed repeatedly to further understand how it can prevent hamstring strain injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "The Nordic hamstring exercise was performed 10 times by 53 athletes; knee flexor peak tensile force and the respective flexion angle were compared at different phases during this sequence: phase 1, 1<sup>st</sup> Nordic hamstring exercise force; phase 2, mean value during the 2-4<sup>th</sup> repetitions; phase 3, mean value during the 5-7<sup>th</sup> repetitions; and phase 4, mean value during the 8-10<sup>th</sup> repetitions. We also divided the knee flexor peak force into deep and slight flexion zones and evaluated changes during different phases."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Knee flexor peak force was most significant in phase 2 and decreased during subsequent phases. The knee angle at which peak force was exerted was greatest in phase 1 and decreased thereafter. When we compared the knee flexor peak force in different flexion angle zones, increased muscle force in the slight flexion zone was greater than increased muscle force in the deep flexion zone in phases 2 and 3."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Enhancement of the knee flexor force, especially in the slight flexion zone occurs after only a few repetitions of the Nordic hamstring exercise."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

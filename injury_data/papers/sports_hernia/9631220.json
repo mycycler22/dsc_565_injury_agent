@@ -1,0 +1,33 @@
+{
+  "pmid": "9631220",
+  "title": "Groin pain associated with ultrasound finding of inguinal canal posterior wall deficiency in Australian Rules footballers.",
+  "year": "1998",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate the prevalence of inguinal canal posterior wall deficiency (sports hernia) in professional Australian Rules footballers using an ultrasound technique and correlate the results with the clinical symptom of groin pain."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty five professional Australian footballers with and without groin pain were investigated blind with a dynamic high resolution ultrasound technique for presence of posterior wall deficiency."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fourteen players had a history of significant recent groin pain and ten of these were found to have bilateral inguinal canal posterior wall deficiency (p < 0.01). The relative risk for a history of groin pain with bilateral deficiency was 8.0 (95% confidence interval 1.73 to 37.1). Groin pain was also found to be associated with increasing age (p < 0.01) which was an independent risk factor. Surgical, clinical, and ultrasound follow up for players who underwent hernia repair confirmed the validity of ultrasound as a diagnostic tool."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Dynamic ultrasound examination is able to detect inguinal canal posterior wall deficiency in young males with no clinical signs of hernia. This condition is very prevalent in professional Australian Rules footballers, including some who are asymptomatic. There was a correlation between bilateral deficiency and groin pain, although the temporal relationship between the clinical and ultrasound findings is not established by the current study. Ultrasound shows promise as a diagnostic tool in athletes with chronic groin pain who are considered possible candidates for hernia repair."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

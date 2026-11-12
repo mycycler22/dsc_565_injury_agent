@@ -1,0 +1,53 @@
+{
+  "pmid": "36146934",
+  "title": "Are Current Prophylactic Programs Effective in Preventing Patellar Tendinopathy in Athletes and Recruits? A Meta-Analysis and Trial Sequential Analysis.",
+  "year": "2023",
+  "journal": "Sports health",
+  "pub_types": [
+    "Systematic Review",
+    "Meta-Analysis",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Patellar tendinopathy (PT), or jumper's knee, is a chronic painful overuse patellar tendon injury. For PT, prevention is more important than treatment. However, there is still a lack of strong evidence to confirm the effectiveness of prevention."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This study will analyze by meta-analysis the effect of a prophylactic program on high PT risk people (but without PT) in reducing PT occurrence."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "PubMed, Embase, the Cochrane Library, Scopus, and Ebscohost, from inception to January 11, 2022."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "A study comparing the effects of prophylactic programs and controls on the risk of PT was included in the analysis. After a database search with search terms ((patellar tendinopathy) OR (jumper's knee) OR (patellar tendinitis) OR (patellar tendinosis) OR (patellar tendonitis)) AND ((Prevent*) OR (prophyla*)), a total of 1444 items were obtained. Of these, 11 studies with 6091 participants were eligible for inclusion in this meta-analysis."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 2."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "The first author's name, publication year, study design, country, population, mean age, sex, prophylactic program, control, study duration, and the frequency or incidence of PT in each group were extracted."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 11 articles were included in the analysis. Overall, no significant difference was considered in the risk of PT between the prophylactic program and control groups based on the random-effect model (odds ratio [OR], 0.85; 95% CI, 0.67, 1.08; <i>P</i> = 0.18). In the recruit subgroup, there was even a tendency to elevate the risk of PT occurrence after prophylaxis was executed (OR, 1.89; 95% CI, 0.68, 5.28; <i>P</i> = 0.22). In athletes, the prophylactic program tended to decrease the risk of PT compared with the control (OR, 0.81; 95% CI, 0.63, 1.04; <i>P</i> = 0.10); however, the difference was not statistically significant. Trial sequential analysis results suggested that prophylaxis may still be effective for athletes, but this needs to be confirmed with a larger sample size."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The risk of PT cannot be reduced with the current prophylactic program. However, for athletes, the negative results may be due to insufficient sample size."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

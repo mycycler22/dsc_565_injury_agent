@@ -1,0 +1,45 @@
+{
+  "pmid": "39381257",
+  "title": "Potential financial loss and risk factors for hamstring muscle injuries in elite male Brazilian soccer players: a season-long prospective cohort pilot study.",
+  "year": "2024",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The aim of this pilot study was to analyze the potential financial loss and a range of potential risk factors for hamstring muscle injuries in elite Brazilian soccer."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty-four male players (age: 25 ± 6 years; stature: 180 ± 8 cm; body mass: 78 ± 9 kg; minutes played in matches: 2243 ± 1423 min) from an elite professional soccer club were monitored during a 12-month season. Muscle injury was identified by magnetic resonance imaging and the severity was defined according to the number of days away: minimal (1-3 days), mild (4-7 days), moderate (8-28 days), severe (>28 days). Potential financial loss due to the team's under achievements was determined. Dorsiflexion range of motion, eccentric knee flexor strength and isokinetic tests were performed during the pre-season. Association between dependent variables and the occurrence of injury was evaluated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nine hamstring muscle injuries with moderate severity were found in 8 athletes. Recovery time was 22 days off the field on average. Potential financial loss was $-43.2 million USD and earnings on merit money was 21%. Previous injury, increased flexor deficit 60° /sec and increased flexor fatigue index 300°/sec were all associated with a greater chance of hamstring muscle injury. Ankle dorsiflexion range of motion was significantly lower in the injured group (35.6 ± 3° vs. 39.1 ± 4.9°; <i>p</i> = 0.017, effect size = -0.74)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "High financial burden was found in elite Brazilian soccer during one full season. Injured athletes had high hamstring fatigue index, knee flexor strength deficit, ankle range of motion restriction and previous hamstring muscle injury when compared to non-injured athletes. Therefore, preventive approaches in professional soccer players with previous hamstring injuries should be a priority."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Recovery time was 22 days off the field on average."
+    }
+  ],
+  "pmcid": "11458431",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Nine hamstring muscle injuries with moderate severity were found in 8 athletes. Recovery time was 22 days off the field on average. Potential financial loss was $-43.2 million USD and earnings on merit money was 21%. Previous injury, increased flexor deficit 60° /sec and increased flexor fatigue index 300°/sec were all associated with a greater chance of hamstring muscle injury. Ankle dorsiflexion range of motion was significantly lower in the injured group (35.6 ± 3° vs. 39.1 ± 4.9°; p = 0.017, effect size = −0.74)."
+    },
+    {
+      "section": "Results",
+      "text": "The sample consisted of 34 soccer players, of which 8 (24%) sustained 9 hamstring muscle injuries. The distribution of the injury by position was: attackers = 4 (44.4%), midfield = 3 (33.3%), full-back = 1 (11.1%) and defender = 1 (11.1%). This single recurrence of the hamstring injury took 47 days to recover (i.e., severe). A total of 202 off-field days were needed for recovery time and an average of 22 days (with median of 18 days) to recovery per hamstring muscle injury. Thus, the hamstring injuries were classified as moderate severity. The average age of the athletes was 25 ± 6 years and the average Body Mass Index (BMI) was 24.07 ± 1.10 kg/m2. Thirteen players were attackers (38.2%), nine were midfield (26.5%), six were full-backs (17.6%) and six were defenders (17.6%). Previous hamstring injury (observed in 19 limbs, 27.9%), previous ACL surgery (observed in 6 limbs, 8.8%) and ankle sprain (observed in 22 limbs, 32.4%) were associated with a greater risk of hamstring injuries. Higher BMI was associated with a reduced injury risk (OR 0.14, 95% CI 0.02; 0.50, p = 0.014) and previous hamstring muscle injury was associated with an increased injury risk (OR 7.08, 95% CI 1.64; 37.36, p = 0.011) (Table 1). In the evaluation of the balance/strength variables (Table 2), higher knee-flexor fatigue index at 300°/sec was associated with an increased risk of injury (OR 1.15, 95% CI 1.04; 1.31, p = 0.013), while increased dorsiflexion range of motion decreased the risk of injury (OR 0.80, 95% CI 0.62; 0.97, p = 0.040). There was no difference in external workload of injured athletes paired with non-injured athletes (Table 3). Furthermore, the same non-significant result was found for the minutes played in matches between groups (injured athletes: median = 1,426 [1,116–1,787] minutes vs. non-injured: median = 1,651 [678–3,309]; p-value = 0.39532). Previous hamstring injury (p = 0.032), greater knee-flexor deficit 60° /sec (p = 0.005) and greater knee-flexor fatigue index 300° /sec (p = 0.009) were associated with a greater risk of hamstring muscle injury (Table 4). Potential financial loss was approximately $ −43.2 million USD (98.7% <=> the team's under achievement due to injured athletes + 1.3% <=> salaries paid to injured athletes) and 21% of the merit money that was obtained by the soccer team (Figure 2; Supplementary Table S1)."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "16558564",
+  "title": "Anterior cruciate ligament injury patterns among collegiate men and women.",
+  "year": "1999",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine potential patterns that cause males and females to tear the anterior cruciate ligament (ACL) while playing basketball or soccer."
+    },
+    {
+      "label": "DESIGN AND SETTING",
+      "text": "We reviewed data submitted to the National Collegiate Athletic Association Injury Surveillance System over the last 10 years, as well as profile data collected from collegiate certified athletic trainers."
+    },
+    {
+      "label": "SUBJECTS",
+      "text": "College athletes involved in basketball or soccer."
+    },
+    {
+      "label": "MEASUREMENTS",
+      "text": "Historical information was collected on those athletes involved in the National Collegiate Athletic Association Injury Surveillance System. Athletes involved in the profiling study underwent physical measurements related to flexibility, as well as a more detailed history relating to the ACL tear."
+    },
+    {
+      "label": "RESULTS",
+      "text": "College-age women involved in basketball or soccer tear their ACLs at significantly higher rates than college-age men involved in the same sports. No distinct physical or historical measurements could be attributed to this different rate of injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although the higher rate at which women compared with men tear their ACLs has persisted over the last 10 years, this increased incidence is not clearly attributable to any physical or historical measurements that were monitored."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

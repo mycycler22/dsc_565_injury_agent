@@ -1,0 +1,48 @@
+{
+  "pmid": "23068589",
+  "title": "Expected prevalence from the differential diagnosis of anterior knee pain in adolescent female athletes during preparticipation screening.",
+  "year": "2012",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Anterior knee pain is a common disorder in female athletes with an undefined cause. The relative prevalence of specific patellofemoral disorders associated with anterior knee pain in adolescent females remains undetermined."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the prevalence of specific patellofemoral disorders obtained using the differential diagnosis of anterior knee pain in adolescent female athletes during preparticipation screening."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Preparticipation screening evaluations at a county public school district in Kentucky."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "A total of 419 unique middle and high school-aged female athletes."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Participants were evaluated by physicians for anterior knee pain over 3 consecutive basketball seasons. Given the longitudinal nature of this study, some participants were tested longitudinally over multiple years."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Over the course of 3 basketball seasons, 688 patient evaluations were performed. Of these, 183 (26.6%) were positive for anterior knee pain. A statistically significant difference was noted in the prevalence of anterior knee pain by school level, with 34.4% (n = 67) in high school-aged athletes versus 23.5% (n = 116) in middle school-aged athletes (P < .05). In the 1376 knees evaluated, patellofemoral dysfunction was the most common diagnosis, with an overall prevalence of 7.3% (n = 100). The only diagnosis shown to be statistically different between age levels was Sinding-LarsenJohansson disease or patellar tendinopathy, with 38 cases (9.7%) in high school-aged and 31 (3.1%) in middle school-aged athletes (P < .05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Anterior knee pain was present in 26.6% of the adolescent female athletes screened over 3 years. Symptoms of anterior knee pain likely persist after middle school-aged onset and reach peak prevalence during the high school years."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "28549903",
+  "title": "Effect of a patellar strap on the joint position sense of the symptomatic knee in athletes with patellar tendinopathy.",
+  "year": "2017",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The primary aim of this study was to investigate the effect of a patellar strap on the proprioception of the symptomatic leg in PT. Secondary aims were to investigate a possible difference in effectiveness between athletes with high and low proprioceptive acuity, and whether predictors of effectiveness could be found."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Randomised cross-over pilot study."
+    },
+    {
+      "label": "METHODS",
+      "text": "24 athletes with PT (age 27.3±9.0, VISA-P 50.6±11.2) performed a joint position sense test with and without a patellar strap. The difference between both conditions was analysed using linear mixed-model analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No improvement in the joint position sense using the strap for the whole group was found, while those classified as having low proprioceptive acuity did improve using the strap (p=0.015, 17.2%). A larger knee girth, longer duration of symptoms and more tendon abnormalities were negatively associated with the strap's effectiveness."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The use of a patellar strap improves the knee joint proprioception - measured with joint position sense - of the symptomatic leg in athletes with poor proprioceptive acuity. Especially athletes with relatively small knee girth, short duration of symptoms and small tendon abnormalities might benefit from the strap. As proprioception plays an important role in motor control, and deficits in proprioception may put an athlete at risk for (re-)injury, these findings may be relevant for prevention as well as rehabilitation purposes in those PT athletes with low proprioceptive acuity."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

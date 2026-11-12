@@ -1,0 +1,35 @@
+{
+  "pmid": "39915172",
+  "title": "Passive hamstring muscles rigidity throughout the menstrual cycle and the effect of oral contraception.",
+  "year": "2025",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Female athletes have a lower risk of hamstring strain injuries than males. The variations in oestradiol and progesterone concentrations happening during the menstrual cycle and oral contraceptive use may influence muscle mechanical properties, potentially affecting muscle injury risk. However, to date, no study has combined an assessment of hamstring muscles' mechanical properties spread over the full knee range of motion with rigorous hormonal control of the menstrual cycle, electromyographic monitoring and inclusion of oral contraceptive users. The present study aims to be the first to rigorously evaluate the association between menstrual cycle, oral contraceptive use and hamstring muscles' mechanical properties."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study with repeated measures."
+    },
+    {
+      "label": "METHODS",
+      "text": "Shear wave elastography measurements were performed at three different times during the menstrual and oral contraceptive cycle. Hormonal assessment and electromyographic monitoring were also carried out."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No difference in hamstring muscles' shear wave speed, anatomical cross-sectional area, knee joint musculoarticular stiffness and maximal range of motion were observed along the menstrual cycle despite the presence of the expected variations in ovarian steroid hormones concentrations. No difference in these parameters was also reported throughout the oral contraception use."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "No differences in the mechanical properties of the hamstring muscles were observed, whether the concentrations of ovarian steroid hormones fluctuate with the menstrual cycle or remain stable with oral contraceptive use, despite the notable effects of these hormones on the muscle composition."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

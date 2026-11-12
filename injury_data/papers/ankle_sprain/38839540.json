@@ -1,0 +1,35 @@
+{
+  "pmid": "38839540",
+  "title": "Ankle sprain, concussion, and anterior cruciate ligament injuries are common and burdensome in sub-elite female Australian football players.",
+  "year": "2024",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To describe the epidemiology of injuries in sub-elite female Australian Football (AF)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective cohort."
+    },
+    {
+      "label": "METHODS",
+      "text": "424 athletes were tracked across a 12-match season. Injury characteristics (location, severity, mechanism) were reported. Injury incidence (injuries per 1000 h) and injury burden (days absent per 1000 h) were calculated. Severity was considered as the number of days missed between injury onset and return to full training. Incidence was compared using incidence rate ratios, and severity using a Mann-Whitney U test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Total injury incidence was 10.8 (95 % confidence interval [CI] = 9.0, 12.8) injuries per 1000 h. Match incidence was 34.6 (95 % CI = 28.0, 42.4) injuries per 1000 h. Ankle sprain injuries (2.2 per 1000 h, 95 % CI = 1.4, 3.1) and concussion (1.6 per 1000 h, 95 % CI = 1.0, 2.5) injuries were the most frequent, followed by anterior cruciate ligament (ACL) injuries (0.9 per 1000 h, 95 % CI = 0.4, 1.6). ACL (40.4 days per 1000 h, 95 % CI = 36.9, 44.1), ankle sprain injuries (31.4 per 1000 h, 95 % CI =28.4, 34.7), and concussion (19.9 per 1000 h, 95 % CI = 17.5, 22.5) injuries were also the most burdensome. There were 78 mild, 34 moderate, and 21 severe injuries. ACL injuries were the most severe injury (56.0 [77.0] in-season days missed)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This research describes the first large-scale injury profile of sub-elite female AF, reporting time-loss measures of incidence and burden for many injury types. Ankle sprain injuries, concussions, and ACL injuries are common and burdensome, and should be prioritised for prevention."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

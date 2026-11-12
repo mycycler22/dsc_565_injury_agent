@@ -1,0 +1,20 @@
+{
+  "pmid": "24923401",
+  "title": "Concussion in ice hockey.",
+  "year": "2014",
+  "journal": "Progress in neurological surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Ice hockey is an aggressive and fast-paced sport which has a high risk of injury, concussions in particular. Although serious head injury has been recognized for nearly 50 years, an increase in mainstream media attention in recent years has led to unprecedented public awareness. As a result, the National Hockey League (NHL) and other professional leagues around the world have initiated concussion protocols in order to better prevent, recognize, and treat concussions. With over 1,000,000 youth hockey participants in Canada and the USA combined, concussion is an issue that reaches beyond the professional level. In this report we review the incidence, evaluation, treatment, return-to-play protocol, and prevention efforts related to concussion in ice hockey."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

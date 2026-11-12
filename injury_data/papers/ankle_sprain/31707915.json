@@ -1,0 +1,35 @@
+{
+  "pmid": "31707915",
+  "title": "The predictive value of the multiple hop test for first-time noncontact lateral ankle sprains.",
+  "year": "2020",
+  "journal": "Journal of sports sciences",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "The predictive value of the multiple hop test for first-time noncontact lateral ankle sprains."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "Lateral ankle sprains (LAS) are very common sports injuries, cause high health care costs and are associated with postural control deficits. From a preventive point of view, clinicians should dispose valid field tests to identify athletes at risk for a LAS. The aim of this study is to evaluate the predictive value of the multiple hop test (MHT) for first-time noncontact LAS."
+    },
+    {
+      "label": "METHODS",
+      "text": "Non-elite athletes (n = 232) performed the MHT at baseline. During a 12-month follow-up period, all noncontact LAS related to health care costs were recorded. Outcomes of the MHT (completion time, balance errors and perceived difficulty) between the injured and uninjured group were compared and odds ratios (OR) and relative risks (RR) were calculated using a logistic regression analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ten first-time noncontact LAS were recorded (4.3%). Injured athletes made significantly more change-in-support strategy (CSS) errors when compared to uninjured athletes (p = .04). The OR of the number of CSS errors was 1.14 (p = .03), the RR 4.1 (p = .04)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athletes scoring > 12 CSS errors, have a four times increased risk for a first-time noncontact LAS. The MHT is a valid field test to identify athletes at risk for a first-time noncontact LAS."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

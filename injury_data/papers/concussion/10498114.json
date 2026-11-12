@@ -1,0 +1,20 @@
+{
+  "pmid": "10498114",
+  "title": "Assessment and management of concussion in sports.",
+  "year": "1999",
+  "journal": "American family physician",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The most common head injury in sports is concussion. Athletes who sustain a prolonged loss of consciousness should be transported immediately to a hospital for further evaluation. Assessment of less severe injuries should include a thorough neurologic examination. The duration of symptoms and the presence or absence of post-traumatic amnesia and loss of consciousness should be noted. To avoid premature return to play, a good understanding of the possible hazards is important. Potential hazards of premature return to play include the possibility of death from second-impact syndrome, permanent neurologic impairment from cumulative trauma, and the postconcussion syndrome."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

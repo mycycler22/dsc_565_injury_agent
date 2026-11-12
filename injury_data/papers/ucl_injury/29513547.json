@@ -1,0 +1,44 @@
+{
+  "pmid": "29513547",
+  "title": "Medial Elbow Joint Space Increases With Valgus Stress and Decreases When Cued to Perform A Maximal Grip Contraction.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Previous research indicates that the amount of valgus torque placed on the elbow joint during overhead throwing is higher than the medial ulnar collateral ligament (UCL) can tolerate. Wrist and finger flexor muscle activity is hypothesized to make up for this difference, and in vitro studies that simulated activity of upper extremity musculature, specifically the flexor digitorum superficialis and flexor carpi ulnaris, support this hypothesis."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess the medial elbow joint space at rest, under valgus stress, and under valgus stress with finger and forearm flexor contraction by use of ultrasonography in vivo."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Participants were 22 healthy males with no history of elbow dislocation or UCL injury (age, 21.25 ± 1.58 years; height, 1.80 ± 0.08 m; weight, 79.43 ± 18.50 kg). Medial elbow joint space was measured by use of ultrasonography during 3 separate conditions: at rest (unloaded), under valgus load (loaded), and with a maximal grip contraction under a valgus load (loaded-contracted) in both limbs. Participants lay supine with their arm abducted 90° and elbow flexed 30° with the forearm in full supination. A handgrip dynamometer was placed in the participants' hand to grip against during the contracted condition. Images were reduced in ImageJ to assess medial elbow joint space. A 2-way (condition × limb) repeated-measures analysis of variance and Cohen's d effect sizes were used to assess changes in medial elbow joint space. Post hoc testing was performed with a Bonferroni adjustment to assess changes within limb and condition."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The medial elbow joint space was significantly larger in the loaded condition (4.91 ± 1.16 mm) compared with the unloaded condition (4.26 ± 1.23 mm, P < .001, d = 0.712) and the loaded-contracted condition (3.88 ± 0.94 mm, P < .001, d = 1.149). No significant change was found between the unloaded and loaded-contracted conditions ( P = .137)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Medial elbow joint space increases under a valgus load and then decreases when a maximal grip contraction is performed. This indicates that wrist and finger flexor muscle contraction may assist in limiting medial elbow joint space, a result similar to findings of previous research in vitro."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Muscle activation of the upper extremity limits the medial elbow joint space, suggesting that injury prevention programs for throwing athletes should incorporate exercises for the elbow, wrist, and hand to limit excessive medial elbow joint space gapping during activities that create high valgus load."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

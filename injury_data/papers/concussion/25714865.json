@@ -1,0 +1,20 @@
+{
+  "pmid": "25714865",
+  "title": "Diagnosis and management of acute concussion.",
+  "year": "2015",
+  "journal": "Seminars in neurology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Mild traumatic brain injury (mTBI), or concussion, constitutes a significant percentage of the millions of TBIs sustained in the United States each year. Symptoms are typically short-lived, and may correlate to physiologic changes in the acute period after injury. There are many available tools that can be utilized on the sideline as well as in the clinical setting for assessment and diagnosis of concussion. It is important to use validated tests in conjunction with a thorough history and physical examination. Neurocognitive testing may be helpful in the subacute period. Management should begin with removal from risk if a concussion is suspected, and once diagnosis is made, education and reassurance should be provided. Once symptoms have resolved, a graded return-to-play protocol can be implemented with close supervision and observation for return of symptoms. Management should be tailored to the individual, and if symptoms are prolonged, further diagnostic evaluation may be necessary."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

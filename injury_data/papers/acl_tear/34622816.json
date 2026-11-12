@@ -1,0 +1,19 @@
+{
+  "pmid": "34622816",
+  "title": "Sport-Specific Increased Risk of Anterior Cruciate Ligament Injury Following a Concussion in Collegiate Female Lacrosse.",
+  "year": "2021",
+  "journal": "Current sports medicine reports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Poor neurocognitive performance has been associated with a greater risk of musculoskeletal injury, and anterior cruciate ligament (ACL) injury prevention protocols include exercises to improve neuromuscular control. Research shows that a concussion elevates the risk for subsequent lower-extremity injury, because concussions lead to lower neurocognitive performance. Studies have been conducted using data within individual male sports, such as football and rugby, or across collegiate sports in aggregate; no study has focused on women's sports. Using 7 years of data collected by athletic training staff at Davidson College, this paper evaluates preconcussive versus postconcussive lower-extremity injury risk across five collegiate women's sports: field hockey, soccer, basketball, volleyball, and lacrosse. Using incidence rate ratios, lacrosse athletes had a five-fold increase in ACL injury risk within 365 d following a concussion. Recognizing that postconcussive ACL tear risk varies across different women's sports is important in informing sport-specific concussion return to play protocols."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

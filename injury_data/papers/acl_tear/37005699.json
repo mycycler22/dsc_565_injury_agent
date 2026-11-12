@@ -1,0 +1,35 @@
+{
+  "pmid": "37005699",
+  "title": "Functional outcomes after anterior cruciate ligament reconstruction: unravelling the role of time between injury and surgery, time since reconstruction, age, gender, pain, graft type, and concomitant injuries.",
+  "year": "2023",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Numerous individual, temporal, injury- and surgery-specific factors impact the functional capacity during rehabilitation, return to sports (RTS), and re-injury prevention after an anterior cruciate ligament (ACL) reconstruction."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This multicentre cohort study evaluated the isolated and interactive contributions of time between injury and surgery, time since reconstruction, age, gender, pain, graft type, and concomitant injuries as to inertial sensor-assessed motor function after ACL reconstructions in multiple linear mixed model regressions."
+    },
+    {
+      "label": "METHODS",
+      "text": "Anonymized data were retrieved from a nationwide German registry. In this cohort study, patients with an acute unilateral ACL rupture, with or without concomitant ipsilateral knee injuries, and having passed an arthroscopically assisted anatomic reconstruction were included. Potential predictors were age [years], gender/sex, time since reconstruction [days], time between injury and reconstruction [days], concomitant intra-articular injuries (isolated ACL tear, meniscal tear, lateral ligament, unhappy triad), graft type (hamstrings, patellar, or quadriceps tendon autograft), and pain during each measurement (visual analogue scale 0-10 cm). Repeated inertial motion unit-assessments of a comprehensive battery of classic functional RTS test were performed in the course of the rehabilitation and return to sports: Joint position sense/kinesthesia (Angle reproduction error [degrees]), Dynamic Balance Composite score [cm] of the Y-Balance test), drop jumps (Knee displacement [cm]), Vertical hop (Hopping height [mm]), Speedy jumps (Duration [seconds]), Side hops (Number of hops [n]), single leg hop for distance (hopping distance [cm]). Repeated measures multiple linear mixed models investigated the impact and nesting interaction of the potential predictors on the functional outcomes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Data from 1441 persons (mean age 29.4, SD 11.8 years; 592 female, 849 male) were included. Most had an isolated ACL rupture: n = 938 (65.1%). Minor shares showed lateral ligament involvement: n = 70 (4.9%), meniscal tear: n = 414 (28.7%), or even unhappy triad: n = 15 (1%). Several predictors such as time between injury and reconstruction, time since reconstruction (estimates for n<sub>days</sub> ranged from + .05 (i.e., an increase of the hopping distance of 0.05 cm per day since reconstruction occurs) for single leg hop for distance to + 0.17 for vertical hopping height; p < 0.001), age, gender, pain, graft type (patellar tendon graft: estimates between + 0.21 for Y-balance and + 0.48 for vertical hop performance; p < 0.001), and concomitant injuries contribute to the individual courses of functional abilities of the reconstructed side after ACL reconstruction. The unimpaired side was mostly influenced by sex, age, the time between injury and reconstruction (estimates between - 0.0033 (side hops) and + 0.10 (vertical hopping height), p < 0.001)), and time since reconstruction."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Time since reconstruction, time between injury and reconstruction, age, gender, pain, graft type, and concomitant injuries are not independent but nested interrelating predictors of functional outcomes after anterior cruciate ligament reconstruction. It might not be enough to assess them isolated; the knowledge on their interactive contribution to motor function is helpful for the management of the reconstruction (earlier reconstructions should be preferred) deficit-oriented function-based rehabilitation (time- and function based rehabilitation instead of solely a time- or function based approach) and individualized return to sports strategies."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

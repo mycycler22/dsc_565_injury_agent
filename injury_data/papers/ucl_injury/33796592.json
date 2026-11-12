@@ -1,0 +1,39 @@
+{
+  "pmid": "33796592",
+  "title": "Return to Play After Platelet-Rich Plasma Injection for Elbow UCL Injury: Outcomes Based on Injury Severity.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) injuries of the elbow are uncommon in the general population but prevalent in the athletic community, particularly among baseball players. Platelet-rich plasma (PRP) injection therapy has become a popular nonoperative adjuvant treatment for such injuries to help reduce recovery time and avoid surgery."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "To analyze patient outcomes by injury severity and identify injury types that responded most favorably and unfavorably to PRP treatment. It was hypothesized that PRP therapy would prove to be most beneficial in the treatment of lower-grade, partial UCL tears and less effective in the treatment of more severe, complete UCL tears."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cohort of 50 patients with UCL injuries in their dominant elbow, diagnosed by MRI (magnetic resonance imaging) arthrogram, underwent PRP therapy in conjunction with an established rehabilitation program. UCL injuries were classified by MRI as low-grade partial tear (Type I), high-grade partial tear (Type II), complete tear (Type III), or tear in more than 1 location (Type IV)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In total, 24 of 39 (61.5%) Type I and II tears, 3 of 3 (100%) Type III tears, and 1 of 8 (12.5%) patients with Type IV tears responded to UCL PRP injection therapy and were able to return to play without surgery. Ten patients required subsequent UCL PRP injections, of which 3 (30%) were able to return to sport without surgery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "PRP treatment for Types I and II UCL tears shows great promise when combined with physical therapy and a rehabilitation program. Type III UCL tears demonstrated a high rate of success, although with low cohort numbers. Type IV UCL tears did not appear to respond well to PRP injection therapy and often required surgical intervention or cessation of sport. Therefore, PRP treatment does not appear to be appropriate for patients with complete Type IV UCL tears but may enhance recovery and improve outcomes in throwing athletes with Types I, II, and III UCL injuries."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "39515953",
+  "title": "Diagnostic Evaluation of Stress Injuries of the Hip Using MR Imaging.",
+  "year": "2025",
+  "journal": "Magnetic resonance imaging clinics of North America",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Understanding the complex anatomy and development of the hip is crucial for diagnosing and categorizing femoral neck stress fractures in athletes. These fractures result from repetitive mechanical loading, affecting trabecular structure. Various risk factors include hormonal imbalances and hip geometry. Although radiographs are initial diagnostic tools, MR imaging is the gold standard, distinguishing between stress reactions and fractures. Treatment involves surgical fixation, whereas nonsurgical methods for less severe fractures have good results. Overall, comprehensive knowledge is essential for effective diagnosis and correct early management of femoral neck stress fractures."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "32543889",
+  "title": "Return to Sport and Patient Satisfaction at 5-Year Follow-up After Nonoperative Treatment for Acute Achilles Tendon Rupture.",
+  "year": "2020",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is controversy whether nonoperative or operative treatment for Achilles tendon rupture is superior. It is unknown if patients with acute Achilles tendon rupture return to previous sports activity. The purpose of this study was to assess 5-year return to sport and subjective satisfaction, minimum 1-year functional outcomes, and complications in patients following nonoperative treatment of Achilles tendon rupture with early weightbearing rehabilitation."
+    },
+    {
+      "label": "METHODS",
+      "text": "An institutional review board-approved, retrospective observational study involving 89 patients was performed. Out of 114 consecutive patients, 89 (78%) responded to questionnaires for sports activity. Nonoperative treatment consisted of an equinus cast and rehabilitation boot that enabled early weightbearing. Sports activity at 1-year and 5-year follow-up was compared to the prerupture status. Based on the prerupture Tegner Activity Scale (TAS), patients were divided into low-level (<6) and high-level (≥6) activity groups. Clinical assessment at minimum 1-year follow-up was performed with the Thermann score. Mean clinical follow-up was 34 ± 23 months."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, >70% of the patients returned to their previous sports activity level after a nonoperative early weightbearing treatment. Return-to-sport rate was significantly (<i>P</i> = .029) higher for patients in the low-level activity group (91%) compared to patients (67%) in the high-level activity group at 5-year follow-up. Subjective satisfaction with treatment was good in both groups (93% and 96%, respectively). The mean Thermann score did not differ between the 2 groups at 1-year follow-up. There were 11 reruptures, 5 deep venous thromboses, and 1 case of complex regional pain syndrome."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Nonoperative treatment for Achilles tendon rupture yielded good functional outcome and high patient satisfaction. For patients with a high preinjury activity level, return to previous sporting level (assessed by TAS) was possible in 67% of the patients compared to >90% of patients with low preinjury activity level."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective comparative series."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

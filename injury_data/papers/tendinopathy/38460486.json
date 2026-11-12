@@ -1,0 +1,44 @@
+{
+  "pmid": "38460486",
+  "title": "Asymmetric running is associated with pain during outdoor running in individuals with Achilles tendinopathy in the return-to-sport phase.",
+  "year": "2024",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine the relationships between (1) Achilles tendon pain and loading symmetry, and (2) number of running bouts and symptom severity, during two weeks of outdoor running in individuals with Achilles tendinopathy."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective, observational study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Biomechanics laboratory and outdoors."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Seventeen runners with Achilles tendinopathy in the return-to-sport phase of rehabilitation."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Symptom severity was recorded with the Victorian Institute of Sports Assessment-Achilles (VISA-A) questionnaire. Running bouts and Achilles tendon pain during runs were recorded with daily training logs. Ground contact time was collected during runs with wearable sensors. Linear mixed modeling determined if the relationship between Achilles tendon pain and ground contact time symmetry during running was moderated by consecutive run days. Multiple regression determined the relationship between number of running bouts and change in VISA-A scores over two weeks, adjusted for run distance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Greater ground contact time on the contralateral leg corresponded to increased ipsilateral tendon pain for each consecutive run day (b = -0.028, p < 0.001). Number of running bouts was not associated with 2-week changes in VISA-A scores (p = 0.672)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Pain during running is associated with injured leg off-loading patterns, and this relationship strengthened with greater number of consecutive run days. Number of running bouts was not related to short-term symptom severity."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

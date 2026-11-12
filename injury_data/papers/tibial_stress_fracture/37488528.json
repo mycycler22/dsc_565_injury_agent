@@ -1,0 +1,31 @@
+{
+  "pmid": "37488528",
+  "title": "Effect of stride length on the running biomechanics of healthy women of different statures.",
+  "year": "2023",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tibial stress fracture is a debilitating musculoskeletal injury that diminishes the physical performance of individuals who engage in high-volume running, including Service members during basic combat training (BCT) and recreational athletes. While several studies have shown that reducing stride length decreases musculoskeletal loads and the potential risk of tibial injury, we do not know whether stride-length reduction affects individuals of varying stature differently."
+    },
+    {
+      "label": "METHODS",
+      "text": "We investigated the effects of reducing the running stride length on the biomechanics of the lower extremity of young, healthy women of different statures. Using individualized musculoskeletal and finite-element models of women of short (N = 6), medium (N = 7), and tall (N = 7) statures, we computed the joint kinematics and kinetics at the lower extremity and tibial strain for each participant as they ran on a treadmill at 3.0 m/s with their preferred stride length and with a stride length reduced by 10%. Using a probabilistic model, we estimated the stress-fracture risk for running regimens representative of U.S. Army Soldiers during BCT and recreational athletes training for a marathon."
+    },
+    {
+      "label": "RESULTS",
+      "text": "When study participants reduced their stride length by 10%, the joint kinetics, kinematics, tibial strain, and stress-fracture risk were not significantly different among the three stature groups. Compared to the preferred stride length, a 10% reduction in stride length significantly decreased peak hip (p = 0.002) and knee (p < 0.001) flexion angles during the stance phase. In addition, it significantly decreased the peak hip adduction (p = 0.013), hip internal rotation (p = 0.004), knee extension (p = 0.012), and ankle plantar flexion (p = 0.026) moments, as well as the hip, knee, and ankle joint reaction forces (p < 0.001) and tibial strain (p < 0.001). Finally, for the simulated regimens, reducing the stride length decreased the relative risk of stress fracture by as much as 96%."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our results show that reducing stride length by 10% decreases musculoskeletal loads, tibial strain, and stress-fracture risk, regardless of stature. We also observed large between-subject variability, which supports the development of individualized training strategies to decrease the incidence of stress fracture."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "22855854",
+  "title": "Management of mid-season traumatic anterior shoulder instability in athletes.",
+  "year": "2012",
+  "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Shoulder dislocation and subluxation injuries are common in young athletes and most frequently occur during the competitive season. Controversy exists regarding optimal treatment of an athlete with an in-season shoulder dislocation, and limited data are available to guide treatment. Rehabilitation may facilitate return to sport within 3 weeks, but return is complicated by a moderate risk of recurrence. Bracing may reduce the risk of recurrence, but it restricts motion and may not be tolerated in patients who must complete certain sport-specific tasks such as throwing. Surgical management of shoulder dislocation or subluxation with arthroscopic or open Bankart repair reduces the rate of recurrence; however, the athlete is unable to participate in sport for the remainder of the competitive season. When selecting a management option, the clinician must consider the natural history of shoulder instability, pathologic changes noted on examination and imaging, sport- and position-specific demands, duration of treatment, and the athlete's motivation."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Rehabilitation may facilitate return to sport within 3 weeks, but return is complicated by a moderate risk of recurrence."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "22021515",
+  "title": "MRI of the reconstructed ulnar collateral ligament.",
+  "year": "2011",
+  "journal": "AJR. American journal of roentgenology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "We are often asked to evaluate the postoperative elbow using MRI. In this article, we present both the normal appearance of the reconstructed ulnar collateral ligament (UCL) and a spectrum of UCL graft abnormalities at MR arthrography."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The UCL is the primary medial stabilizer of the elbow during flexion and is susceptible to injury, particularly in overhead throwing athletes. In the setting of UCL injury, ligament reconstruction is the principal surgical procedure available to restore stability and function and to relieve pain with activity. We have found MR arthrography useful in assessing the reconstructed UCL."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

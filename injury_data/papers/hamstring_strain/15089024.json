@@ -1,0 +1,56 @@
+{
+  "pmid": "15089024",
+  "title": "A comparison of 2 rehabilitation programs in the treatment of acute hamstring strains.",
+  "year": "2004",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective randomized comparison of 2 rehabilitation programs."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "The objectives of this study were to compare the effectiveness of 2 rehabilitation programs for acute hamstring strain by evaluating time needed to return to sports and reinjury rate during the first 2 weeks and the first year after return to sport. A third objective was to investigate the relationship between functional testing performance and time to return to sports and reinjury rates after return to sport."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring muscle strains are common in sports and often result in chronic pain, recurrent hamstring strains, and reduced sports performance. Current rehabilitation programs are primarily developed anecdotally and lack support from prospective, randomized research."
+    },
+    {
+      "label": "METHODS AND MEASURES",
+      "text": "Twenty-four athletes with an acute hamstring strain were randomly assigned to 1 of 2 rehabilitation groups. Eleven athletes were assigned to a protocol consisting of static stretching, isolated progressive hamstring resistance exercise, and icing (STST group). Thirteen athletes were assigned to a program consisting of progressive agility and trunk stabilization exercises and icing (PATS group). The number of days for full return to sports, injury recurrence within the first 2 weeks, injury recurrence within the first year of returning to sports, and lower-extremity functional evaluations were collected for all subjects and compared between groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The average (+/- SD) time required to return to sports for athletes in the STST group was 37.4 +/- 27.6 days, while the average time for athletes in the PATS group was 22.2 +/- 8.3 days. This difference was not statistically significant (P = .2455). In the first 2 weeks after return to sports, reinjury rate was significantly greater (P = .00343, Fisher's exact test) in the STST group, where 6 of 11 athletes (54.5%) suffered a recurrent hamstring strain after completing the stretching and strengthening program, as compared to none of the 13 athletes (0%) in the PATS group. After 1 year of return to sports, reinjury rate was significantly greater (P = .0059, Fisher's exact test) in the STST group. Seven of 10 athletes (70%) who completed the hamstring stretching and strengthening program, as compared to only 1 of the 13 athletes (7.7%) who completed the progressive agility and trunk stabilization program, suffered a recurrent hamstring strain during that 1-year period."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A rehabilitation program consisting of progressive agility and trunk stabilization exercises is more effective than a program emphasizing isolated hamstring stretching and strengthening in promoting return to sports and preventing injury recurrence in athletes suffering an acute hamstring strain. Future randomized clinical trials should investigate the potential for progressive agility and trunk stabilization programs in the prevention of hamstring strain injury during sports."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The average (+/- SD) time required to return to sports for athletes in the STST group was 37.4 +/- 27.6 days, while the average time for athletes in the PATS group was 22.2 +/- 8.3 days."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "In the first 2 weeks after return to sports, reinjury rate was significantly greater (P = .00343, Fisher's exact test) in the STST group, where 6 of 11 athletes (54.5%) suffered a recurrent hamstring strain after completing the stretching and strengthening program, as compared to none of the 13 athletes (0%) in the PATS group."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "After 1 year of return to sports, reinjury rate was significantly greater (P = .0059, Fisher's exact test) in the STST group."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

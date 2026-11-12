@@ -1,0 +1,19 @@
+{
+  "pmid": "42939032",
+  "title": "Return to Running After Extracorporeal Magnetotransduction and Electromagnetic Shockwave Therapy for Bone Stress Injuries: A Retrospective Case Series.",
+  "year": "2026",
+  "journal": "Bioengineering (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Bone stress injuries (BSIs) are overuse injuries to bone that account for substantial time lost for athletes who are training and competing. Each injury varies in healing time based on factors including the Female and Male Athlete Triad (Triad), anatomical location, injury severity, and chronicity. While focused extracorporeal shockwave therapy (ESWT) has been evaluated for management of BSIs, extracorporeal magnetotransduction therapy (EMTT) has been proposed to have synergistic effects. We evaluated return to running in athletes with BSIs treated with combined ESWT and EMTT. Retrospective chart review identified 46 athletes with 50 BSIs (29 female, 17 male; mean age 30.5 ± 13.2 years; body mass index 22.0 ± 2.8 kg/m<sup>2</sup>). Each athlete was comprehensively evaluated and provided individualized management of all risk factors identified, including Triad, anatomical location, MRI grade, and chronicity (acute < 3 months; delayed/nonunion ≥ 3 months). Each athlete elected to receive weekly to biweekly focused electromagnetic ESWT and EMTT (mean values: 4.8 sessions; ESWT, 3424 pulses/session, mean energy flux density 0.41 mJ/mm<sup>2</sup>; EMTT: 80 mT, 8 Hz, 7826 pulses/session). Additional ESWT/EMTT were based on factors including persistent pain during return-to-run progression. Most BSIs were high grade (n=35); Triad risk was moderate in 21 athletes and high in 6. Forty athletes (87%) returned to pain-free running. Return to run was defined as the start of a patient-reported pain-free return-to-run progression. Among 39 athletes with documented dates, this occurred sooner for acute than delayed/nonunion BSIs (12.9 ± 5.8 vs. 23.8 ± 12.1 weeks, p=0.002). Differences by injury grade (p=0.18), Triad risk (p=0.97), and anatomical classification (p=0.26) were not statistically significant, although subgroup sizes were small. While we recognize limitations related to study design and the population studied, our findings suggest the addition of ESWT/EMTT combined with comprehensive management of athletes with BSI may allow for a high rate of return to running."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "19506967",
+  "title": "Does shoe insole modification prevent stress fractures? A systematic review.",
+  "year": "2009",
+  "journal": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Stress fractures can be debilitating in athletes and military personnel. Insoles may lower stress fracture rates by improving biomechanics, lessening fatigue, and attenuating impact. The objective of this study was to systematically review the best evidence on the use of insoles as a method of stress fracture prevention in a high-risk population. Using MEDLINE, Cochrane, Current Controlled Trials, UK National Research Register, ScienceDirect, CINAHL, and EMBASE, a review of randomized (level I) and quasi-randomized (level II) controlled trials was performed using an insole as the intervention and stress fracture incidence as the primary outcome measure. Five trials were included, and a random effects model was used to generate a summary estimate and an overall odds ratio. One study found a significant reduction in overall stress fracture incidence using a semirigid insole, while four studies found no overall reduction in military personnel. However, when the data are pooled, orthotic use was beneficial. When stratified by site, there was a reduction in femoral and tibial stress fracture incidence. Shoe insoles may reduce the overall femoral and tibial stress fracture incidence during military training. It is unclear if the use of insoles would prevent stress fractures in athletes. Additional studies are necessary to determine the efficacy of insoles in an athletic population."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

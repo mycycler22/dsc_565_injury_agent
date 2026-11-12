@@ -1,0 +1,24 @@
+{
+  "pmid": "11798997",
+  "title": "Intramedullary screw fixation of Jones fractures. Analysis of failure.",
+  "year": "2002",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Treatment failures after screw fixation of Jones fractures are reported to be infrequent. Between 1993 and 1999, 15 patients (mean age, 21.7 years) underwent cannulated screw fixation of a Jones fracture at our institution. There were six treatment failures: four refractures and two symptomatic nonunions. The mean time to full activity was 6.8 weeks for the patients with failure compared with 9 weeks for patients who did not have complications. Although all patients were asymptomatic and radiographically progressing to union before return to full activity, only one of six patients with failures had complete radiographic union, compared with six of seven patients with no complications. There was a higher proportion of elite athletes (division I or professional level) among the failure group (83%) compared with those without complications (11%). There were no significant differences in age, sex, screw diameter, use of bone graft, or age of fracture between patients with failures and those without complications. Return to full activity, especially among elite athletes, before complete radiographic union was predictive of failure. Even though intramedullary screw fixation offers advantages over nonoperative treatment, a significant risk of postoperative complications exists."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean time to full activity was 6.8 weeks for the patients with failure compared with 9 weeks for patients who did not have complications."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

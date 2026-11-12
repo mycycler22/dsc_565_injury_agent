@@ -1,0 +1,39 @@
+{
+  "pmid": "27259751",
+  "title": "Return to play post-Achilles tendon rupture: a systematic review and meta-analysis of rate and measures of return to play.",
+  "year": "2016",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "This systematic review and meta-analysis sought to identify return to play (RTP) rates following Achilles tendon rupture and evaluate what measures are used to determine RTP."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A systematic review and meta-analysis were performed. Studies were assessed for risk of bias and grouped based on repeatability of their measure of RTP determination."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "PubMed, CINAHL, Web of Science and Scopus databases were searched to identify potentially relevant articles."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA FOR SELECTING STUDIES",
+      "text": "Studies reporting RTP/sport/sport activity in acute, closed Achilles tendon rupture were included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "108 studies encompassing 6506 patients were included for review. 85 studies included a measure for determining RTP. The rate of RTP in all studies was 80% (95% CI 75% to 85%). Studies with measures describing determination of RTP reported lower rates than studies without metrics described, with rates being significantly different between groups (p<0.001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "80 per cent of patients returned to play following Achilles tendon rupture; however, the RTP rates are dependent on the quality of the method used to measure RTP. To further understand RTP after Achilles tendon rupture, a standardised, reliable and valid method is required."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

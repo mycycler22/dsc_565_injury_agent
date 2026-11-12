@@ -1,0 +1,31 @@
+{
+  "pmid": "32093507",
+  "title": "The incidence and pattern of iliopsoas tendinitis following hip arthroscopy.",
+  "year": "2021",
+  "journal": "Hip international : the journal of clinical and experimental research on hip pathology and therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Iliopsoas tendinitis is a known source of extra-articular hip pain and it has been shown to be a common cause of continued hip pain following total hip arthroplasty. While iliopsoas tendinitis after hip arthroscopy is a well-known phenomenon amongst hip arthroscopists, its presentation, course, and treatment has yet to be elucidated."
+    },
+    {
+      "label": "METHODS",
+      "text": "An IRB-approved chart review was performed of patients undergoing hip arthroscopy for femoroacetabular impingement (FAI) between March 2015 and July 2017. No cases of dysplasia were included. All patients had combined cam/pincer impingement as well as labral pathology. Tendinitis patients were identified. Patient demographics, surgical data, time to onset/diagnosis of iliopsoas tendinitis, treatment (oral anti-inflammatories, corticosteroid injection, physical therapy), and resolution of symptoms were recorded. These cases were age- and sex-matched to a control group that did not develop postoperative iliopsoas tendinitis for comparison. Patient outcomes were measured with the modified Harris Hip Score (mHHS) and Nonarthritic Hip Score (NAHS) recorded from the preoperative and 1-year postoperative visits."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 258 hip arthroscopy cases, 18 cases (7.0%) of postoperative iliopsoas tendinitis were diagnosed under high resolution ultrasound. On average, iliopsoas tendinitis was diagnosed 2.8 ± 1.8 months after surgery. There were no significant differences in age, sex, and BMI between patients that developed IP tendinitis compared to those that did not. No specific procedures were found to be significantly associated with incidence of postoperative IP tendinitis, including capsular closure.18 patients were treated with corticosteroid injection, which provided mild to moderate improvement for 5 (27.8%) patients and completely resolved symptoms for 13 patients (72.2%). Of all 18 patients with postoperative iliopsoas tendinitis confirmed by response to a diagnostic injection, 10 (55.6%) had symptoms improve within 3 months of diagnosis, 2 (11.1%) between 3 and 6 months, 4 (22.2%) between 6 and 12 months, and 2 (11.1%) after 1 year. No patients went on to have surgery for this problem. Patients with iliopsoas tendinitis had lower MHHS (<i>p</i> <i>=</i> 0.04) and NAHS (<i>p</i> = 0.09) scores at their 1-year postoperative visits."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Iliopsoas tendinitis is a common source of pain following arthroscopic hip surgery and can be effectively diagnosed and treated with ultrasound-guided injection. Therefore, surgeons performing arthroscopic procedures of the hip must remain aware of and include it in their differential when encountering patients with hip flexion pain after surgery. Research should be continued to further evaluate the long-term outcomes and return to sport rates of these patients."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "34906242",
+  "title": "Hand and wrist injuries among collegiate athletes vary with athlete division.",
+  "year": "2021",
+  "journal": "Injury epidemiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The rates, severity and consequences of hand and wrist injuries sustained by National Collegiate Athletic Association athletes are not well characterized. This study describes the epidemiology of hand and wrist injuries among collegiate athletes competing in different divisions."
+    },
+    {
+      "label": "METHODS",
+      "text": "The National Collegiate Athletic Association Injury Surveillance Program (NCAA-ISP) was accessed from 2004 to 2015 for the following sports: baseball, basketball, football, ice hockey, lacrosse, soccer, wrestling, field hockey, gymnastics, softball and volleyball. The data were used to identify all hand and wrist injuries, the specific injury diagnosis, mean time loss of activity following injury, and need for surgery following injury. These were then stratified by gender. Descriptive statistics were performed to examine the association between sports, event type and division. Student's t test was used to calculate p-values for independent variables. Chi-Square test was used to calculate odds ratio. P < 0.05 was considered significant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "103,098 hand and wrist injuries were reported in in the studied NCAA sports from 2004 to 2015. Male athletes sustained 72,423 injuries (6.01/10,000 athlete exposure) and female athletes sustained 30,675 injuries (4.13/10,000 athlete exposure). Division I athletes sustained significantly more injuries compared to divisions II and III. Overall, 3.78% of hand and wrist injuries required surgical intervention. A significantly higher percentage of division I athletes (both male and female) underwent surgical intervention compared to divisions II and III. The mean time lost due to hand and wrist injury was 7.14 days for all athletes. Division I athletes missed the fewest days due to injury at 6.29 days though this was not significant."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Hand and wrist injuries are common among collegiate athletes. Division I athletes sustain higher rates of injuries and higher surgical intervention rates, while tending to miss fewer days due to injury. Improved characterization of divisional differences in hand and wrist injuries can assist injury management and prevention."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

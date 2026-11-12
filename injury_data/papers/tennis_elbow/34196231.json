@@ -1,0 +1,33 @@
+{
+  "pmid": "34196231",
+  "title": "Psychometric properties and cross-cultural adaptation of the Patient-Rated Tennis Elbow Evaluation (PRTEE); a systematic review and meta-analysis.",
+  "year": "2022",
+  "journal": "Disability and rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To synthesize and appraise the evidence on the translation, cross-cultural adaptation, and psychometric properties of the Patient-Rated Tennis Elbow Evaluation (PRTEE)."
+    },
+    {
+      "label": "METHOD",
+      "text": "Five electronic databases were searched from 1999 to 2021. Two independent reviewers assessed the risk of bias and quality of the included studies using the COSMIN recommended guidelines. The overall quality of the evidence on each psychometric property was provided using the GRADE approach."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-one studies met the criteria for inclusion in this review. The PRTEE was translated and cross-culturally adapted to 13 languages and cultures. High quality of evidence supports sufficient pooled results for test-retest reliability (0.96(CI: 0.94-0.97)), construct validity (against Disabilities of the Arm, Shoulder, and Hand (DASH): 0.81(CI: 0.76-0.85), against Visual Analogue Scale (VAS): 0.70 (0.62-0.74)), and responsiveness of the PRTEE. The overall rating of the structural validity and internal consistency (0.96(CI: 0.94-0.97)) was indeterminate, and the quality of evidence was low and moderate, respectively. Regarding measurement error, the overall rating of the summarized results (Standard error of measurement (SEM): 3.1 (1.8 to 4.4) and Minimal Detectable Change (MDC<sub>95</sub>): 8.9 (5.3-12.5)) was sufficient, and the quality of evidence was moderate."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Moderate to high quality evidence supports adequate psychometric properties of the PRTEE in terms of internal consistency, test-retest reliability, measurement error, hypothesis testing for construct validity, and responsiveness.Implications for RehabilitationThe PRTEE can measure the construct of pain and disability at a single time-point and detect changes over time precisely.The PRTEE can be used in clinical setting for patients with acute, subacute, and chronic Lateral Elbow Tendinopathy (LET), athletes who suffer from elbow pain and tennis players."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

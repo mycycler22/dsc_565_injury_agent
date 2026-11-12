@@ -1,0 +1,53 @@
+{
+  "pmid": "20616949",
+  "title": "Arthroscopic isolated posterior labral repair in rugby players.",
+  "year": "2009",
+  "journal": "International journal of shoulder surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The shoulder is the second most frequently injured joint after the knee in rugby players and labral tears appear to be common. There is limited data available in the literature regarding the mechanisms of posterior labral injury in rugby players and the management of these injuries."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this study is to report the clinical presentation, arthroscopic findings, surgical technique for repair, and the functional outcome in elite English rugby players with isolated posterior labral injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series (level IV evidence)"
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Over a 5-year period we surgically treated 142 elite rugby players, of whom 11 (7.8%) had isolated posterior labral injuries. All these 11 patients had significant contact injury. Only three (24%) patients had a true posterior shoulder dislocation. Pre- and postoperative assessment included Constant score, Oxford shoulder score, and Oxford instability score. We also assessed the time taken to return to preinjury level of fitness and the complications of surgery."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Average follow-up was for 32 months (range 17-54 months). The mean Constant score improved from 66 to 99. The Oxford score indicated improvement, decreasing from 33 to 18; similarly, the Oxford instability score also decreased from 52.2 to 12.3. Return to playing rugby at peak level was at a mean of 4.3 months after arthroscopic repair."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Successful clinical results and rapid return to play can be achieved by appropriate early arthroscopic repair and supervised accelerated rehabilitation for posterior labral tears in elite rugby players."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Return to playing rugby at peak level was at a mean of 4.3 months after arthroscopic repair."
+    }
+  ],
+  "pmcid": "2895298",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Average follow-up was for 32 months (range 17–54 months). The mean Constant score improved from 66 to 99. The Oxford score indicated improvement, decreasing from 33 to 18; similarly, the Oxford instability score also decreased from 52.2 to 12.3. Return to playing rugby at peak level was at a mean of 4.3 months after arthroscopic repair."
+    },
+    {
+      "section": "RESULTS",
+      "text": "In all patients, thorough examination of both shoulders were performed after anesthesia, once patient was completely relaxed. All shoulders were graded using the scale described by Altchek et al. to quantify posterior humeral translation.[6] Examination under anesthesia demonstrated grade I posterior laxity in six and grade II laxity in five cases. At arthroscopy, 10 (92%) subjects had posterior labral tears (reverse Bankart lesions), while 1 (8%) had a bony reverse Bankart lesion. Labral injury was in the posteroinferior quadrant of the glenoid in nine (81%) patients and in the posterosuperior quadrant in two (19%) patients. All the patients made uneventful postoperative recovery, without any immediate or early postoperative complications. They were reviewed at regular intervals in the shoulder clinic by the senior author, when Constant, Oxford, and instability scores were also performed. All patients were assessed by experienced shoulder physiotherapists and supervised accelerated shoulder rehabilitation was started immediately postoperatively by the club therapists. The mean follow-up was 32 months (range 17–54 months). The Constant score improved from a mean of 66 preoperatively to 99 postoperatively. The Oxford score indicated improvement, decreasing from 33 to 18 and, similarly, the Oxford instability score also decreased from 52.2 to 12.3. The mean time for return to rugby after surgery was 4.3 months (range: 3–6 months). All returned to their previous level of play. At the time of completion of this study, none of the rugby players had had recurrence of symptoms. One patient had a further tackling injury to the same shoulder the following season and required surgery. Arthroscopy in this patient revealed an anterior labral tear with evidence of an intact and healed previous posterior repair. One patient was diagnosed with a loose suture anchor at 3 months. He had not returned to play at that stage. At arthroscopy, the repair was found to have healed and the anchor was simply removed. He returned to play 4 weeks after anchor removal."
+    }
+  ]
+}

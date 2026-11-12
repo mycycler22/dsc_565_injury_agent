@@ -1,0 +1,52 @@
+{
+  "pmid": "30426832",
+  "title": "Validity of an On-Field Readaptation Program Following a Hamstring Injury in Professional Soccer.",
+  "year": "2019",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Despite the presence of various injury prevention programs, the rate of hamstring injuries and reinjuries is increasing in soccer, warranting the need for a soccer-specific rehabilitation program."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To develop and validate a new, functional on-field program for the rehabilitation and readaptation of soccer players after a hamstring strain injury through a panel of experts; and determine the usefulness of the program through its application in professional soccer players."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A 13-item program was developed, which was validated by a panel of experts and later applied to professional soccer players."
+    },
+    {
+      "label": "SETTING",
+      "text": "Soccer training ground."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Fifteen strength and conditioning and rehabilitation fitness coaches with a professional experience of 15.40 (1.57) years in elite clubs and national teams in Europe validated the program. The program was later applied to 19 professional soccer players of the Spanish First Division (La Liga)."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Once a player sustained a clinically diagnosed injury, the player would first be subject to mobilization and strengthening exercises in the gym after undergoing treatment by percutaneous needle electrolysis. The player would then complete an on-field readaptation program consisting of 13 drills arranged in a progressive manner in terms of complexity. The drills integrated various aspects of repeated sprint abilities, retraining and reeducation of biomechanical patterns, and neuromuscular control of the core and lower limbs."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Aiken's V for each item of the program and number of days taken by the players to return to play."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The experts evaluated all items of the program very highly, as seen from Aiken's V values between 0.78 and 0.98 (0.63-0.99) for all drills, while the return to play was in 22.42 (2.32) days."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This program has the potential to help a player suffering from a hamstring strain injury to adapt to real-match conditions in the readaptation phase through the application of sports-specific drills that were very similar to the different injury mechanisms."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

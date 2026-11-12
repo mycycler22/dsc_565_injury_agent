@@ -1,0 +1,23 @@
+{
+  "pmid": "28359131",
+  "title": "[Sports Injuries and Illnesses of the German National Team during the 2016 Olympic Summer Games in Rio de Janeiro].",
+  "year": "2017",
+  "journal": "Sportverletzung Sportschaden : Organ der Gesellschaft fur Orthopadisch-Traumatologische Sportmedizin",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "<b>Background</b> This article aims to survey and describe the injuries and illnesses of the German Team during the 2016 Olympic Games in Rio de Janeiro. <b>Methods</b> Through an electronic documentation system, injuries and illnesses requiring treatment were recorded and evaluated. An injury or illness was defined as any physical symptom that required medical attention and impaired participation in training and/or competition. The classification distinguished between type of injury (acute or overload), region and type of illness (infections, skin, allergy, etc.). <b>Results</b> A total of 808 treatments were performed on the German team during Rio 2016. Out of 283 musculoskeletal-related treatments, 160 were performed on the lower limb. 70 treatments addressed back problems. 164 treatments were performed due to upper respiratory tract infections. When extrapolated to 1000 athletes, 617 treatments were required due to illness while 672 treatments addressed musculoskeletal problems. The number of treatments for injuries and illness is almost identical. In addition to less severe problems, the following serious injuries occurred: lethal traumatic brain injury, acute thigh compartment syndrome, ACL tear with a medial meniscal lesion and antero-lateral instability, isolated ACL tear, stress fracture of the base of the third metatarsal bone, acute lateral ankle instability, AC joint dislocation, and infected bursa prepatellaris."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The documentation system is reliable for \"injury and illness surveillance\" at multi-sport events. Treatment numbers are consistent with the 2012 Summer Games in London, so a reliable strategy can be assumed. In addition to illnesses predominantly affecting the upper respiratory tract, the system also recorded serious musculoskeletal injuries, which implicates the need for an interdisciplinary setup of the medical team. The methods used for data collection currently do not allow for the identification of risk factors for injuries and illness and should therefore be extended in the future."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "29781908",
+  "title": "Musculoskeletal Injury in Paddle Sport Athletes.",
+  "year": "2020",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Kayak racing has been an Olympic sport since 1936. The sport is evolving with the introduction of ocean skis and stand-up-paddle boards (SUP). Musculoskeletal injury incidence surveys have been conducted for ultra-marathon events, but no data have been published for other racing formats."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To identify and compare the rates and types of injuries sustained by paddling athletes as a function of discipline and training parameters in Sprint, Marathon, Ultra-Marathon, and Ocean events."
+    },
+    {
+      "label": "METHODS",
+      "text": "Competitors from 6 kayak and/or ocean surf-ski races in Australia were surveyed. Before each race, competitors were asked to complete a questionnaire. The questionnaire investigated paddling-related injuries over the previous 5 years, athlete morphology, flexibility, equipment and its setup, training volume, and environment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Five hundred eighty-three competitors were surveyed. Disciplines included 173 racing-kayak (K1), 202 touring-kayak, 146 ocean-skis, 42 SUP, and 20 other. The top 5 paddling-related injuries were shoulder (31%), low back (23.5%), wrist (16.5%), neck (13.7%), and elbow (11.0%). The highest percentage of injury was found in K1 paddlers for shoulder (40.5%), SUP for low back (33.3%), and ocean-ski for wrist (22.6%). After controlling for on-water training hours, the relative risk (RR) of wrist injury was significantly increased in ocean-ski paddlers (1.86) and in paddlers with decreased flexibility (1.53-1.83). Relative risk of shoulder and low-back injury was significantly increased in athletes with lower training volumes (1.82-2.07). Younger athletes had lower RR of wrist and shoulder injury (0.58-0.62)."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

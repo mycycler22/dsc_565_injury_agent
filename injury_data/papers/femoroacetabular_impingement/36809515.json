@@ -1,0 +1,65 @@
+{
+  "pmid": "36809515",
+  "title": "Majority of competitive soccer players return to soccer following hip arthroscopy for femoroacetabular impingement: female and older aged players are less likely to return to soccer.",
+  "year": "2023",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To determine return to soccer rates and soccer performance in a large cohort of competitive soccer players after hip arthroscopic surgery for the treatment of femoroacetabular impingement (FAI) and to identify possible risk factors associated with not returning to soccer."
+    },
+    {
+      "label": "METHODS",
+      "text": "An institutional hip preservation registry was retrospectively reviewed for patients identified as competitive soccer players who underwent primary hip arthroscopy for FAI performed between 2010 and 2017. Patient demographics and injury characteristics as well as clinical and radiographic findings were recorded. All patients were contacted for return to soccer information using a soccer-specific return to play questionnaire. Multivariable logistic regression analysis was used to identify potential risk factors for not returning to soccer."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighty-seven competitive soccer players (119 hips) were included. 32 players (37%) underwent simultaneous or staged bilateral hip arthroscopy. The mean age at surgery was 21.6 ± 7.0 years. Overall, 65 players (74.7%) returned to soccer, of which 43 players (49% of all included players) returned to pre-injury level of play or better. Most common reasons for not returning to soccer were pain or discomfort (50%) followed by fear of re-injury (31.8%). The mean time to return to soccer was 33.1 ± 26.3 weeks. Among 22 players who did not return to soccer, 14 (63.6%) reported satisfaction from surgery. Multivariable logistic regression analysis revealed female players (odds ratio [OR] = 0.27; confidence interval [CI] = 0.083 to 0.872; p = 0.029) and older aged players (OR = 0.895; 95% CI = 0.832 to 0.963; p = 0.003) were less likely to return to soccer. Bilateral surgery was not found to be a risk factor."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip arthroscopic treatment for FAI in symptomatic competitive soccer players allowed three-quarters of them to return to soccer. Despite not returning to soccer, two-thirds of players who did not return to soccer were satisfied with their outcome. Female and older aged players were less likely to return to soccer. These data can better guide clinicians and soccer players with realistic expectations related to the arthroscopic management of symptomatic FAI."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to return to soccer was 33.1 ± 26.3 weeks."
+    }
+  ],
+  "pmcid": "10523359",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Eighty-seven competitive soccer players (119 hips) were included. 32 players (37%) underwent simultaneous or staged bilateral hip arthroscopy. The mean age at surgery was 21.6 ± 7.0 years. Overall, 65 players (74.7%) returned to soccer, of which 43 players (49% of all included players) returned to pre-injury level of play or better. Most common reasons for not returning to soccer were pain or discomfort (50%) followed by fear of re-injury (31.8%). The mean time to return to soccer was 33.1 ± 26.3 weeks. Among 22 players who did not return to soccer, 14 (63.6%) reported satisfaction from surgery. Multivariable logistic regression analysis revealed female players (odds ratio [OR] = 0.27; confidence interval [CI] = 0.083 to 0.872; p = 0.029) and older aged players (OR = 0.895; 95% CI = 0.832 to 0.963; p = 0.003) were less likely to return to soccer. Bilateral surgery was not found to be a risk factor."
+    },
+    {
+      "section": "Return to soccer data",
+      "text": "Overall, 65 players (74.7%) reported returning to soccer. Of those returning to soccer, 43 players (49% of all included players) returned to pre-injury level of play or better. Fifty-five players (85% of players who returned to soccer and 63% of all included players) returned to a better level of play compared to their pre-surgery post-injury level of play. The mean time to return to soccer was 33.1 ± 26.3 weeks and mean of duration of play was 4.2 ± 2.2 years. 40 of the 65 players (61.5%) reported they are still actively playing soccer at the time this study was conducted with a mean time of soccer playing of 5.1 ± 2.0 years (and still counting). For 25 players (38.5%) who stopped playing soccer during the follow-up time, mean time of soccer playing was 2.7 ± 1.8 years after they returned. Most common reasons for stopping or decreasing soccer activity were life circumstances (N = 30, 46.2%) and other physical limitations/injury (N = 19, 29.2%). Among the 65 players who returned to soccer, 60 (92.3%) reported satisfaction from the surgery and would choose to repeat it. Additional data is outlined in Table 4. Twenty-two players (25.3%) did not return to soccer following their hip arthroscopy. The most common reasons for not returning to soccer were pain or discomfort (N = 11, 50%), followed by fear of re-injury (N = 7, 31.8%) and other physical limitations/injury (N = 7, 31.8%). Fourteen of the 22 players who did not return to soccer (63.6%) still reported satisfaction from surgery and 15 (68.2%) would choose to repeat their procedure. Reasons for not returning to soccer and satisfaction data are outlined in Table 5."
+    },
+    {
+      "section": "Hip-based comparative analyses for players who returned vs. did not return to soccer after unilateral surgery",
+      "text": "Univariate analysis of hip-based history information, clinical findings and radiographic data between players who returned to soccer and those who did not return to soccer showed statistically significant difference for duration of hip pain and symptoms prior to seeking medical evaluation (27.3 vs. 43.3 weeks, respectively. P = 0.026); however, this finding was not confirmed with multivariable logistic regression analysis (n.s)."
+    },
+    {
+      "section": "TABLE: Overall RTS data for 65 soccer players who returned to play",
+      "text": " | No. of players (N = 65)\nLevel of play compared to pre-injury | \nBetter | 19 (29.2)\nSame | 24 (36.9)\nWorse | 22 (33.8)\nLevel of play compared to right before surgeryx | \nBetter | 55 (84.6)\nSame | 2 (3.1)\nWorse | 8 (12.3)\nSame position upon return to play | \nNo | 6 (9.2)\nYes | 59 (90.8)\nGames per week upon return to play | 1.7 ± 0.8a\nMinutes per game upon return to play | 67.3 ± 23.7a\nReason(s) for decrease in soccer activity (multiselect) | \nPain or discomfort | 10 (15.4)\nFear of re-injury | 6 (9.2)\nLoss of interest | 6 (9.2)\nOther physical limitation (injury) | 19 (29.2)\nLife circumstances | 30 (46.2)\nPoor performance | 9 (13.8)\nOther | 5 (7.7)\nSatisfaction | \nVery satisfied | 45 (69.2)\nSomewhat satisfied | 15 (23.1)\nNeither satisfied nor dissatisfied | 4 (6.2)\nSomewhat dissatisfied | 0 (0.0)\nVery dissatisfied | 1 (1.5)\nWould choose to repeat surgery | \nYes | 60 (92.3)\nNo | 5 (7.7)\nWould choose to repeat surgery soonerb | \nYes | 33 (55.0)\nNo | 27 (45.0)"
+    },
+    {
+      "section": "TABLE: Overall RTS data for 22 soccer players who did not return to play",
+      "text": " | No. of players (N = 22)\nReason(s) for not returning (multiselect) | \nPain or discomfort | 11 (50.0)\nFear of re-injury | 7 (31.8)\nLoss of interest | 3 (13.6)\nOther physical limitation (injury) | 7 (31.8)\nLife circumstances | 2 (9.1)\nPoor performance | 1 (4.5)\nOther | 1 (4.5)\nSatisfaction | \nVery satisfied | 9 (40.9)\nSomewhat satisfied | 5 (22.7)\nNeither satisfied nor dissatisfied | 3 (13.6)\nSomewhat dissatisfied | 1 (4.5)\nVery dissatisfied | 4 (18.2)\nWould choose to repeat surgery | \nYes | 15 (68.2)\nNo | 7 (31.8)\nWould choose to repeat surgery soonera | \nYes | 12 (80.0)\nNo | 3 (20.0)"
+    },
+    {
+      "section": "TABLE: Overall RTS data for 87 soccer players",
+      "text": " | Returned to play | Did not return to play | P value\nTotal | 65 (74.7) | 22 (25.3) | \nSex |  |  | n.s\nFemale | 25 (67.6) | 12 (32.4) | \nMale | 40 (80.0) | 10 (20.0) | \nPatient age | 21.1 ± 6.3 | 25.9 ± 9.5 | 0.028\nBMI | 23.7 ± 2.6 | 24.5 ± 4.1 | n.s\nPosition |  |  | n.s\nKeeper | 4 (80.0) | 1 (20.0) | \nDefender/sweeper | 17 (73.9) | 6 (26.1) | \nMidfielder | 32 (72.7) | 12 (27.3) | \nStriker | 12 (80.0) | 3 (20.0) | \nDominant leg |  |  | \nContralateral to surgical side | 44 (74.6) | 15 (25.4) | n.s\nIpsilateral to surgical side | 21 (75.0) | 7 (25.0) | \nBilateral |  |  | n.s\nYes | 22 (68.8) | 10 (31.2) | \nNo | 43 (78.2) | 12 (21.8) | \nOnly bilaterala |  |  | 0.005\nFemale | 6 (42.9) | 8 (57.1) | \nMale | 16 (88.9) | 2 (11.1) | "
+    }
+  ]
+}

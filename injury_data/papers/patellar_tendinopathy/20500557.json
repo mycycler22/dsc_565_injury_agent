@@ -1,0 +1,20 @@
+{
+  "pmid": "20500557",
+  "title": "Characterizing patellar tendon loading during the landing phases of a stop-jump task.",
+  "year": "2012",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Excessive extensor mechanism loading from repeated landing has been associated with overuse knee injuries, especially patellar tendinopathy. In order to reduce these loads, it is important to establish which landing task places the highest load on the patellar tendon. It was hypothesized that the horizontal landing would create higher patellar tendon force (F(PT)) compared with the vertical landing. Sixteen male athletes with healthy patellar tendons performed five successful trials of a stop-jump task, which involved a symmetrical two-foot landing after a horizontal approach (horizontal landing) followed by another symmetrical two-foot landing after a vertical jump (vertical landing). For both lower limbs during each trial, the participants' ground reaction forces were recorded, three-dimensional kinematics measured and F(PT) calculated by dividing the net knee joint moment by the patellar tendon moment arm. Compared with the vertical landing, significantly higher F(PT), posterior ground reaction forces and F(PT) loading rates were generated during the horizontal landing, despite lower vertical ground reaction forces (F(V)), highlighting the notion that F(V) should not be used to reflect F(PT). Understanding that a horizontal landing task places the highest load on the patellar tendon, provides an appropriate framework for future research to investigate lower limb landing strategies in athletes with patellar tendinopathy."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

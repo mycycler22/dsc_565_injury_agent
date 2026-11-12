@@ -1,0 +1,19 @@
+{
+  "pmid": "37362377",
+  "title": "Does Chemical Shift Magnetic Resonance Imaging Improve Visualization of Pars Interarticularis Defect?",
+  "year": "2023",
+  "journal": "The Indian journal of radiology & imaging",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Introduction</b>  A unilateral or bilateral pars interarticularis defect (spondylolysis) is a leading cause of axial back pain in adolescent athletes. Currently, a spectrum of imaging modalities is used for assessment of pars interarticularis defects. <b>Objectives</b>  The aim of this study is to compare the accuracy of chemical shift sequence (magnetic resonance imaging [MRI]) technique to conventional MRI sequences in the detection of pars defects. <b>Patients and Methods</b>  Conventional T1, T2, and short tau inversion recovery sagittal and axial, as well as \"in-\" and \"out-\" phase chemical shift sagittal MRI sequences of 70 consecutive patients referred for low back pain were reviewed. Demographic details, clinical indication, and presence/diagnosis of pars defects using a 5-point Likert scale on both conventional and chemical shift MRI sequences. Spearman's correlation was used for statistical analysis. Intraclass correlation coefficient analysis was evaluated to assess the intraclass reliability between observers. Data were analyzed using DATAtab web-based statistics software (2022). <b>Results</b>  A total of 70 patients with an average age of 54.34 years with a female predominance were included. There were 11 pars defects in the cohort. Both in and out phases of chemical shift imaging were able to identify pars defect and intact pars. However, out phase was relatively better in delineating pars defects, while the in phase was superior in identifying an intact pars, though this was not statistically significant. There was good intra- and interobserver reliabilities. <b>Conclusion</b>  Chemical shift MRI sequence is a quicker, complementary technique to assess and analyze pars interarticularis confidently than conventionally utilized MRI sequences in patients being evaluated for axial back pain."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

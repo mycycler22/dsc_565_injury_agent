@@ -1,0 +1,35 @@
+{
+  "pmid": "24944847",
+  "title": "Consistency of clinical biomechanical measures between three different institutions: implications for multi-center biomechanical and epidemiological research.",
+  "year": "2014",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE/BACKGROUND",
+      "text": "Multi-center collaborations provide a powerful alternative to overcome the inherent limitations to single-center investigations. Specifically, multi-center projects can support large-scale prospective, longitudinal studies that investigate relatively uncommon outcomes, such as anterior cruciate ligament injury. This project was conceived to assess within- and between-center reliability of an affordable, clinical nomogram utilizing two-dimensional video methods to screen for risk of knee injury. The authors hypothesized that the two-dimensional screening methods would provide good-to-excellent reliability within and between institutions for assessment of frontal and sagittal plane biomechanics."
+    },
+    {
+      "label": "METHODS",
+      "text": "Nineteen female, high school athletes participated. Two-dimensional video kinematics of the lower extremity during a drop vertical jump task were collected on all 19 study participants at each of the three facilities. Within-center and between-center reliability were assessed with intra- and inter-class correlation coefficients."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Within-center reliability of the clinical nomogram variables was consistently excellent, but between-center reliability was fair-to-good. Within-center intra-class correlation coefficient for all nomogram variables combined was 0.98, while combined between-center inter-class correlation coefficient was 0.63."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Injury risk screening protocols were reliable within and repeatable between centers. These results demonstrate the feasibility of multi-site biomechanical studies and establish a framework for further dissemination of injury risk screening algorithms. Specifically, multi-center studies may allow for further validation and optimization of two-dimensional video screening tools."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "2b."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

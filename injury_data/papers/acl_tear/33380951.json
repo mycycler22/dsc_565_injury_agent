@@ -1,0 +1,35 @@
+{
+  "pmid": "33380951",
+  "title": "Patient-Related Risk Factors for Contralateral Anterior Cruciate Ligament (ACL) Tear After ACL Reconstruction: An Analysis of 3707 Primary ACL Reconstructions.",
+  "year": "2020",
+  "journal": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Return to play after anterior cruciate ligament (ACL) reconstruction can increase risk for both ipsilateral graft rupture and contralateral ACL rupture. The risk for injury of the contralateral knee after ACL reconstruction could be nearly double that of ipsilateral graft rupture."
+    },
+    {
+      "label": "QUESTIONS/PURPOSES",
+      "text": "We sought to identify independent, patient-related risk factors for contralateral ACL rupture following primary ACL reconstruction."
+    },
+    {
+      "label": "METHODS",
+      "text": "A national database was queried for patients who underwent primary ACL reconstruction from 2007 to 2015 with a minimum of 2 years of post-operative follow-up (<i>n</i> = 12,044). Patients who underwent subsequent primary ACL reconstruction on the contralateral extremity were then identified. A multivariate binomial logistic regression analysis was utilized to evaluate patient-related risk factors for contralateral ACL rupture, including demographic and comorbidity variables. Adjusted odds ratios and 95% confidence intervals were calculated for each risk factor."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 3707 patients who had a minimum of 2 years of database activity and comprised the study group, 204 (5.5%) experienced a contralateral ACL rupture requiring reconstruction. Independent risk factors for contralateral ACL rupture included age less than 20 years, female gender, tobacco use, and depression. Obesity, morbid obesity, type 1 diabetes, type 2 diabetes, and a history of anxiety were not significant predictors of contralateral injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "We were able to adequately power an analysis to identify several significant patient-related risk factors for contralateral ACL rupture after primary ACL reconstruction, including younger age, female gender, tobacco use, and depression. This information can be used to counsel patients on the risk of injury to the contralateral knee."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

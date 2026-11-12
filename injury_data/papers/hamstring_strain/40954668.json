@@ -1,0 +1,37 @@
+{
+  "pmid": "40954668",
+  "title": "Comparative effectiveness of rehabilitation protocols for hamstring injuries: A systematic review and meta-analysis.",
+  "year": "2025",
+  "journal": "Journal of bodywork and movement therapies",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strains are prevalent in sports involving high-speed movements and high recurrence-rates (12 %-31 %). Effective rehabilitation is crucial as muscle strains occur from excessive stretching, affecting hamstring's function and leading to prolonged recovery and reinjury risks."
+    },
+    {
+      "label": "AIM",
+      "text": "This study aims to compare the effectiveness of various rehabilitation protocols for hamstring injury recovery in healthy individuals. The protocols evaluated include eccentric training (such as Nordic hamstring exercises), stretching, strength training (C-protocol), L-protocol (eccentric loading), cryotherapy, and the FUNBALL program. The focus is on assessing their impact on recovery time, injury recurrence, and functional outcomes, with the goal of informing clinical rehabilitation strategies for optimal recovery."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search was conducted across database i.e. PubMed, Cochrane, Scopus, and Embase, including nine randomized controlled trials meeting inclusion criteria. PICO question addressed how different rehabilitation protocols compared in terms of recovery outcomes including injury incidence, severity and return-to-play. Data extraction sheet was made using standardized form and Cochrane risk-of-bias, a ROB2 tool, was used for quality assessment. Statistical analysis was performed using RevMan to calculate pooled effect sizes and assess heterogeneity."
+    },
+    {
+      "label": "RESULTS",
+      "text": "This systematic review and meta-analysis evaluated various rehabilitation protocols for hamstring injury recovery. The L-protocol (eccentric exercises) significantly reduced reinjury rates (Mean Difference = -1.95, 95 % CI [-1.81, -0.29]) and accelerated return to play (Mean Difference = -4.39, 95 % CI [-5.67, -3.11]) compared to the C-protocol. The FUNBALL program improved maximal eccentric force (Mean Difference = -13.25, 95 % CI [-25.31, -1.19]) and knee flexor strength (Mean Difference = -8.01, 95 % CI [-10.90, -5.11]). Pain-free rehabilitation (stretching and eccentric training) outperformed cryotherapy in reducing injury duration and recurrence (Mean Difference = 8.38, 95 % CI [-11.56, -5.20])."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This systematic review and meta-analysis demonstrates that eccentric exercise protocols, particularly lengthening exercises (L-protocol), are highly effective in reducing reinjury rates and accelerating return-to-play timelines for hamstring rehabilitation. The FUNBALL program showed strength improvements, while pain-free rehabilitation strategies outperformed cryotherapy. Limitations include a small sample size, male predominance, protocol heterogeneity, and exclusion of non-English studies. Future research should address gender differences and explore the role of coordination in rehabilitation."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

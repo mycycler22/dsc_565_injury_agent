@@ -1,0 +1,31 @@
+{
+  "pmid": "39967047",
+  "title": "Evaluation of sport-related concussion using objective eye tracking.",
+  "year": "2025",
+  "journal": "Brain injury",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Evaluate EyeBOX in an adolescent sport-related concussion (SRC) population by comparing scores between concussed and non-concussed athletes, examining sensitivity/specificity, and assessing clinical recovery associations."
+    },
+    {
+      "label": "METHODS",
+      "text": "A prospective, unmatched case-control study examined concussed adolescents (11-22 years) treated in a sports concussion clinic who underwent EyeBOX testing. Concussed participants completed symptom scales and follow-up assessments. Analyses included t-tests comparing groups, sensitivity/specificity analyses, and models examining relationships between BOX scores and recovery outcomes, including initial post-concussion symptom severity (PCSS) scores, return to learn (RTL), symptom resolution (SR), and return to play (RTP)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Participants included 36 youth athletes with SRCs and 30 non-concussed controls. BOX scores were significantly higher in concussed participants (7.9 ± 5.2) compared to controls (5.4 ± 5.1; <i>t</i> = 2.062, <i>p</i> = 0.043, Cohen's d = 0.479). Sensitivity for detecting concussion ranged from 22% (BOX<u>></u>10) to 61% (BOX<u>></u>5), while specificity ranged from 63%-87%. Multivariable linear regression showed that higher BOX scores predicted higher initial PCSS scores (β = 0.323, <i>p</i> = 0.049) but did not predict RTL, SR, or RTP."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "EyeBOX demonstrated moderate specificity but limited sensitivity for identifying SRC and scores were associated with initial symptom severity. While it may not be useful as a standalone diagnostic tool, EyeBOX may serve as an adjunct for confirming concussion in youth athletes."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "38515603",
+  "title": "Effect of Age and Body Mass Index on Time to Advanced Imaging and Surgery in Young Athletes With Anterior Cruciate Ligament Injury.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In young athletes with anterior cruciate ligament (ACL) injury, increased times from injury to magnetic resonance imaging (MRI) and injury to surgery can lead to the accrual of new injuries over time."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the patient characteristics associated with differences in timing between injury, MRI, and surgery in young athletes with ACL tears."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "We reviewed the electronic medical records of patients aged 13 to 25 years who underwent isolated primary ACL reconstruction between January 2017 and June 2020 at a single orthopaedic surgery department. The times from injury to MRI, MRI to surgery, and injury to surgery were documented. Patient demographic data (age, sex, body mass index [BMI], race and ethnicity, and insurance type) were recorded. Multivariable analysis was used to determine if any patient characteristic had a significant association with increased time to MRI or surgery."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 369 patients (mean age, 18.0 years; 56% female) were included. Both age and BMI were found to be significantly associated with timing of care while holding all other predictors constant. For every 1-year increase in patient age, time from injury to MRI increased by 9.6 days (95% CI, 1.8-17.4 days; <i>P</i> = .02), time from MRI to surgery increased by 7.4 days (95% CI, 4.4-10.5 days; <i>P</i> < .001), and time from injury to surgery increased by 17.0 days (95% CI, 8.4-25.6 days; <i>P</i> < .001). Compared with patients with normal BMI, overweight patients (BMI range, 25-29.9 kg/m<sup>2</sup>) had an MRI-to-surgery time that was on average 37.2 days (95% CI, 11.7-62.7 days; <i>P</i> < .004) longer and an injury to surgery time that was on average 71.8 days (95% CI, 0.5-143.0 days; <i>P</i> = .048) longer. Obese patients (BMI ≥30 kg/m<sup>2</sup>) did not demonstrate a significant relationship with the studied time intervals."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Increasing age and elevated BMI were found to be associated with increased time to MRI and surgical care in young athletes with ACL injuries."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

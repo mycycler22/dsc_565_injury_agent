@@ -1,0 +1,31 @@
+{
+  "pmid": "39696421",
+  "title": "CCL4L2 participates in tendinopathy progression by promoting macrophage inflammatory responses: a single-cell analysis.",
+  "year": "2024",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tendinopathy is very common in clinical practice, which is highly prevalent in athletes, sports enthusiasts and other people involved in high-load weight-bearing activities. Common types of tendinopathy include rotator cuff injury, Achilles tendinitis, tennis elbow and so on. Macrophages (Macs) are key immune cells in the pathogenesis of tendinopathy. In this study, CCL4L2<sup>+</sup> M1-related signaling pathways were screened by combining single-cell RNA sequencing (scRNA-seq) to explore their significance in tendinopathy treatment."
+    },
+    {
+      "label": "METHODS",
+      "text": "Immune cell populations were screened by Uniform Manifold Approximation and Projection (UMAP) downscaling, and Mac cell subsets were annotated using cell marker genes. The cellular communication mechanism between different cellular subsets such as Macs and tendon stem/progenitor cells (TSPCs) was demonstrated by cellular communication analysis. Based on cell marker genes of CCL4L2 + M1, Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment were performed to compare the expression differences in M1 and M2 between the Disease and Healthy groups. Associations between CCL4L2<sup>+</sup> M1 and TSPCs were inferred by cell-cell communication analysis. The effects of CCL4L2 on Mac polarization and TSPCs were verified by enzyme-linked immunosorbent assay (ELISA) and real-time fluorescence quantitative PCR (qPCR)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The proportions of TSPCs, endothelial cells (ECs), smooth muscle cells (SMCs), and immune cells were significantly elevated in the Disease group. The proportion of M1 cells in the Disease group was higher than that in the Healthy group, while the proportion of M2 cells was lower than that in the Healthy group. M1 differentially expressed genes (DEGs) were mainly enriched to disease-related and immunoinflammation-related signaling pathways. Signaling intensities between M1 and TSPCs in pathways related to immunoinflammation and ischemic injury were significantly increased in the Disease group. The proportion of CCL4L2 + M1 in the Disease group was significantly higher than in the Healthy group, and communications between CCL4L2 + M1 and TSPCs varied significantly. Compared with the Control group, the expression levels of inflammatory cytokines were higher in the CCL4L2 group, and the expression levels of tendon differentiation markers (Egr1, Mkx, Scx, Type 1 collagen, Tnmd) were significantly down-regulated."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The present study analyzed the heterogeneous alterations in the Healthy and Disease groups by scRNA-seq data and found that there was a significant inflammatory infiltrate in the Disease group with markedly increased Mac activity, which was associated with activation of the CCL4L2 + M1-associated signaling pathways. CCL4L2 promotes M1 polarization and inhibits TSPC differentiation through activating M1-related inflammatory signaling pathways. These findings contribute to a more comprehensive understanding of tendon injury progression and provide potential targets for tendinopathy treatment."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

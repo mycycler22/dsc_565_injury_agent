@@ -1,0 +1,19 @@
+{
+  "pmid": "35147057",
+  "title": "Altered gut microbiota richness in individuals with a history of lateral ankle sprain.",
+  "year": "2023",
+  "journal": "Research in sports medicine (Print)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study aimed to examine differences in the intestinal microbiota diversity in individuals with and without a history of a lateral ankle sprain (LAS). Fifty male college student athletes with (n=32) and without (n=18) a LAS history participated in this study. Faecal samples were collected in the morning after awakening during an off-season, and faecal microbiota were characterized via bacteria 16S rRNA amplicon sequencing. Alpha-diversity metrics and ß-diversity indices were calculated to assess the gut microbiota diversity. The LAS-history group significantly had lower Chao1 (p=0.020) and abundance-based coverage estimators (p=0.035) indices compared to the control group. Gut microbiota composition was not significantly different between athletes with a LAS history and controls (R<sup>2</sup> =0.01, p 0.414). Athletes with a history of LASs had significantly higher proportions of <i>Bacteroides Fragilis</i> (p=0.024) and <i>Ruminococcus Gnavus</i> (p=0.021) compared with controls. The gut microbiota of athletes with a LAS history had less richness compared to controls, indicating potential associations between a LAS and the gut microbiota. This study highlights the potential link of a LAS to global health. This study may help raise awareness of strategies to prevent long-term health-related negative consequences in people suffering from LASs."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

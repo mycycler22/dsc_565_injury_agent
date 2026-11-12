@@ -1,0 +1,20 @@
+{
+  "pmid": "25902964",
+  "title": "Application of a tri-axial accelerometer to estimate jump frequency in volleyball.",
+  "year": "2015",
+  "journal": "Sports biomechanics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Patellar tendinopathy is prevalent among athletes, and most likely associated with a high jumping load. If methods for estimating jump frequency were available, this could potentially assist in understanding and preventing this condition. The objective of this study was to explore the possibility of using peak vertical acceleration (PVA) or peak resultant acceleration (PRA) measured by an accelerometer to estimate jump frequency. Twelve male elite volleyball players (22.5 ± 1.6 yrs) performed a training protocol consisting of seven typical motion patterns, including jumping and non-jumping movements. Accelerometer data from the trial were obtained using a tri-axial accelerometer. In addition, we collected video data from the trial. Jump-float serving and spike jumping could not be distinguished from non-jumping movements using differences in PVA or PRA. Furthermore, there were substantial inter-participant differences in both the PVA and the PRA within and across movement types (p < 0.05). These findings suggest that neither PVA nor PRA measured by a tri-axial accelerometer is an applicable method for estimating jump frequency in volleyball. A method for acquiring real-time estimates of jump frequency remains to be verified. However, there are several alternative approaches, and further investigations are needed."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

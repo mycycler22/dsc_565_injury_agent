@@ -1,0 +1,44 @@
+{
+  "pmid": "35647880",
+  "title": "Risk Factors for Quadriceps Muscle Strain Injuries in Sport: A Systematic Review.",
+  "year": "2022",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To identify risk factors for quadriceps muscle strain injury in sport."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Risk factor systematic review."
+    },
+    {
+      "label": "LITERATURE SEARCH",
+      "text": "A systematic search was conducted in the MEDLINECINAHL, Embase, AMED, AUSPORT, SPORTDiscus, PEDro, and Cochrane Library databases (from inception to September 2021)."
+    },
+    {
+      "label": "STUDY SELECTION CRITERIA",
+      "text": "Studies reporting prospective data to evaluate risk factors related to index and/or recurrent quadriceps muscle strain injury."
+    },
+    {
+      "label": "DATA SYNTHESIS",
+      "text": "A risk-of-bias assessment (using a modified Quality in Prognosis Studies tool) was performed, and we used best-evidence synthesis to qualitatively synthesize the data to quantify relationships between risk factors and quadriceps muscle injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Sixteen studies were included, capturing 2408 quadriceps injuries in 11 719 athletes. Meta-analyses were not performed due to clinical heterogeneity. The dominant kicking leg (over 3154 individuals, 1055 injuries), a previous history of quadriceps muscle injury (6208 individuals, 975 injuries), and a recent history of hamstring strain (4087 individuals, 581 injuries) were intrinsic factors associated with quadriceps injury. Extrinsic factors relating to the preseason period and competitive match play increased quadriceps injury risk; participating at higher levels of competition decreased quadriceps injury risk. Age, weight, and flexibility (intrinsic factors) had no association with quadriceps injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Previous quadriceps injury, recent hamstring injury, the dominant kicking leg, and competitive match play were the strongest risk factors for future quadriceps muscle injury in sport. <i>J Orthop Sports Phys Ther 2022;52(6):389-400. doi:10.2519/jospt.2022.10870</i>."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

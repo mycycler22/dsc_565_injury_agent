@@ -1,0 +1,35 @@
+{
+  "pmid": "10724085",
+  "title": "Soft tissue injuries to USA paralympians at the 1996 summer games.",
+  "year": "2000",
+  "journal": "Archives of physical medicine and rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To report the soft tissue injuries sustained by the members of four disabled sports organizations (DSOs) who competed as the USA Team at the 1996 Paralympic Games."
+    },
+    {
+      "label": "SETTING",
+      "text": "1996 Paralympic Games, Atlanta, Georgia."
+    },
+    {
+      "label": "METHODS",
+      "text": "Soft tissue (strain, sprain, tendonitis, bursitis, or contusion) injury frequencies sustained by Disabled Sports USA (DSUSA, n = 66), the United States Association for Blind Athletes (USABA, n = 53), the United States Cerebral Palsy Athletic Association (USCPAA, n = 56), and Wheelchair Sports USA (WSUSA, n = 129) athletes were compared by body region with chi-square tests (p<.05) and standardized residual assessment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 254 soft tissue injuries (67% acute onset, 170/254) were sustained by the participant DSO members. Statistical design limitations and poor USCPAA athlete homogeneity prompted their exclusion from group comparisons (descriptive results are reported). The most common injury regions for specific DSOs were shoulder (26%), hip-thigh (14%), and ankle (12%) for DSUSA; hip-thigh (21%), cervicothoracic region (19%), and shoulder (17%) for USABA; lumbar region (14%), foot-toe (13%), and ankle (9%) for USCPAA; and shoulder (18%), arm-elbow (12%), forearm-wrist (12%), and lumbar region (9%) for USUSA. Chi-square residual analysis showed that the USABA athletes contributed more to cervicothoracic and lower leg region injury frequencies than DSUSA or WSUSA athletes. The WSUSA athletes contributed more to elbow-arm and forearm-wrist region injury frequencies than DSUSA or USABA athletes. The DSUSA athletes contributed more to ankle region injury frequencies than USABA or WSUSA athletes."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Differences in soft tissue injury frequency among athletes of differing DSOs suggest that the competitive use of adaptive or assistive devices, in combination with sport-specific stressors and the athletes' disabilities, is related to the development of predictable soft tissue injury patterns. The decreased incidence of shoulder injury among WSUSA athletes suggests that the injury prevention advice provided by previous studies is being implemented among athletes at this competitive level. The increased incidence of ankle injuries among DSUSA athletes suggests lower extremity load imbalances (prosthetic vs. uninvolved) during running. The increased incidence of lower leg injuries among USABA athletes suggests \"overuse\" injury patterns typical of nondisabled runners, or inadvertent contacts (contused shins), whereas the increased incidence of cervicothoracic injuries suggests injuries related to falls, \"near falls,\" or sudden directional changes prompted by guidance aids."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

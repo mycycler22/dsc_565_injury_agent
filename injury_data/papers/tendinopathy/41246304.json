@@ -1,0 +1,20 @@
+{
+  "pmid": "41246304",
+  "title": "Mechanistic insights into IL-1β-mediated progression of tendinopathy.",
+  "year": "2025",
+  "journal": "Frontiers in immunology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy, a chronic degenerative musculoskeletal disorder characterized by pain, edema, and functional impairment, exhibits increased prevalence among elderly populations and athletes. Despite extensive research efforts targeting the attenuation of this degenerative process, clinical outcomes frequently remain suboptimal. Recent evidence underscores the critical need for more precisely targeted modulation of inflammatory pathways to improve therapeutic efficacy. Notably, the proinflammatory cytokine interleukin-1β (IL-1β) has been implicated as a prominent mediator in the pathogenesis of tendinopathy. This review synthesizes current understanding of IL-1β synthesis and its downstream signaling transduction pathways, with the primary objective of elucidating the mechanisms by which IL-1β contributes to tendinopathy progression. Through this approach, we seek to reveal novel therapeutic targets and inform improved management strategies. Although IL-1β represents a promising therapeutic candidate for tendinopathy, as evidenced by numerous investigations, current understanding of its pathogenic role is limited by several factors, including the heterogeneity of experimental models, a lack of translational studies, and insufficient evidence linking IL-1β signaling to specific clinical manifestations. Consequently, further research is essential to delineate the precise mechanisms of IL-1β involvement in tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

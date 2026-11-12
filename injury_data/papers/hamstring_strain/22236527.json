@@ -1,0 +1,22 @@
+{
+  "pmid": "22236527",
+  "title": "Activation and aponeurosis morphology affect in vivo muscle tissue strains near the myotendinous junction.",
+  "year": "2012",
+  "journal": "Journal of biomechanics",
+  "pub_types": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strain injury is one of the most common injuries in athletes, particularly for sports that involve high speed running. The aims of this study were to determine whether muscle activation and internal morphology influence in vivo muscle behavior and strain injury susceptibility. We measured tissue displacement and strains in the hamstring muscle injured most often, the biceps femoris long head muscle (BFLH), using cine DENSE dynamic magnetic resonance imaging. Strain measurements were used to test whether strain magnitudes are (i) larger during active lengthening than during passive lengthening and (ii) larger for subjects with a relatively narrow proximal aponeurosis than a wide proximal aponeurosis. Displacement color maps showed higher tissue displacement with increasing lateral distance from the proximal aponeurosis for both active lengthening and passive lengthening, and higher tissue displacement for active lengthening than passive lengthening. First principal strain magnitudes were averaged in a 1cm region near the myotendinous junction, where injury is most frequently observed. It was found that strains are significantly larger during active lengthening (0.19 SD 0.09) than passive lengthening (0.13 SD 0.06) (p<0.05), which suggests that elevated localized strains may be a mechanism for increased injury risk during active as opposed to passive lengthening. First principal strains were higher for subjects with a relatively narrow aponeurosis width (0.26 SD 0.15) than wide (0.14 SD 0.04) (p<0.05). This result suggests that athletes who have BFLH muscles with narrow proximal aponeuroses may have an increased risk for BFLH strain injuries."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

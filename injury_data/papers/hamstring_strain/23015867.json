@@ -1,0 +1,35 @@
+{
+  "pmid": "23015867",
+  "title": "An evidence-based approach to hamstring strain injury: a systematic review of the literature.",
+  "year": "2009",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injury is a common problem within sport. Despite research interest, knowledge of risks for and management of hamstring strain is limited, as evidenced by high injury rates."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To present the current best evidence for hamstring strain injury risk factors and the management of hamstring strain injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "MEDLINE, AMED, SportDiscus, and AUSPORT databases were searched (key terms \"hamstring\" and \"strain,\" \"injury,\" \"pull,\" or \"tear\") to identify relevant literature published between 1982 and 2007 in the English language. Studies of adult athlete populations (older than 18 years) pertaining to hamstring strain incidence, prevalence, and/or intervening management of hamstring strain injury were included. Articles were limited to full-text randomized, controlled studies or cohort studies. Twenty-four articles were included. Articles were critically appraised using the McMaster Quantitative Review Guidelines instrument. Data pertaining to injury rates and return to sport outcomes were extracted. Each author undertook independent appraisal of a random selection of articles after establishing inter-rater agreement of appraisal."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Previous strain, older age, and ethnicity were consistently reported as significant risks for injury, as was competing in higher levels of competition. Associations with strength and flexibility were conflicting. Functional rehabilitation interventions had preventive effects and resulted in significantly earlier return to sport. Additionally, weak evidence existed for other interventions."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Current evidence is inconclusive regarding most interventions for hamstring strain injury, while the effect of potentially modifiable risks is unclear. Further high-quality prospective studies into potential risks and management are required to provide a better framework within which to target interventions."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

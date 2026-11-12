@@ -1,0 +1,35 @@
+{
+  "pmid": "34092599",
+  "title": "The prevalence of spondylolysis and intervertebral disc degeneration in male pole vaulters.",
+  "year": "2022",
+  "journal": "Journal of back and musculoskeletal rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The lower back is the most common injury location in pole vaulters, but the prevalence of lumbar spondylolysis and intervertebral disc degeneration is not known."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This study aimed to determine the prevalence of lumbar spondylolysis and intervertebral disc degeneration in pole vaulters."
+    },
+    {
+      "label": "METHODS",
+      "text": "This cross-sectional study was conducted in the Tokai area of Japan and included 21 pole vaulters (mean ± standard deviation [range]: age, 22.2 ± 3.2 [18-28] years; height, 172.2 ± 4.7 [165.0-182.0] cm; body weight, 67.6 ± 7.3 [54.0- 80.0] kg). The majority of pole vaulters were collegiate athletes. We performed anterior, lateral, and oblique radiography at 45∘ and magnetic resonance imaging in the sagittal and coronal planes of the lumbar spine. The evaluation was performed independently of whether the athletes had lower back pain (LBP). Moreover, we investigated the duration of pole-vaulting experience and history and current presence of LBP using a questionnaire."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The prevalence of lumbar spondylolysis and intervertebral disc degeneration was 28.6% (6/21) and 38.1% (8/21), respectively. Herniation was found in six discs in four vaulters (19.0%). All athletes had a history of LBP. The prevalence of lumbar spondylolysis was high (28.6%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Sport-specific movements performed by pole vaulters may be a risk factor for lumbar spondylolysis."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

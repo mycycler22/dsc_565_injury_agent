@@ -1,0 +1,20 @@
+{
+  "pmid": "39790059",
+  "title": "Evaluating the Biomechanical Effects and Real-World Usability of a Novel Ankle Exo for Runners.",
+  "year": "2025",
+  "journal": "Journal of biomechanical engineering",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achilles tendon overuse injuries are common for long-distance runners. Ankle exos (exoskeletons and exosuits) are wearable devices that can reduce Achilles tendon loading and could potentially aid in the rehabilitation or prevention of these injuries by helping to mitigate and control tissue loading. However, most ankle exos are confined to controlled lab testing and are not practical to use in real-world running. Here, we present the design of an unpowered ankle exo aimed at reducing the load on the Achilles tendon during running while also overcoming key usability challenges for runners outside the lab. We fabricated a 500-gram ankle exo prototype that attaches to the outside of a running shoe. We then evaluated the reliability, acceptability, transparency during swing phase, and offloading assistance provided during treadmill and outdoor running tests. We found that the exo prototype reliably assisted 95-99% of running steps during indoor and outdoor tests, was deemed acceptable by more than 80% of runners in terms of comfort and feel, and did not impede natural ankle dorsiflexion during leg swing for 86% of runners. During indoor tests, the exo reduced peak Achilles tendon loads for most participants during running; however, reductions varied considerably, between near zero and 12%, depending on the participant, condition (speed and slope) and the precise tendon load metric used. This next-generation ankle exo concept could open new possibilities for longitudinal and real-world research on runners, or when transitioning into the return-to-sport phase after an Achilles tendon injury."
+    }
+  ],
+  "injury_query": "Achilles tendon injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

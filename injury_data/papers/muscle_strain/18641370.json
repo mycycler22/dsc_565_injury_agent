@@ -1,0 +1,48 @@
+{
+  "pmid": "18641370",
+  "title": "Hip injuries and labral tears in the national football league.",
+  "year": "2008",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Injuries to the hip account for approximately 10% of all injuries in football, but definitive diagnosis is often challenging. Although these injuries are often uncomplicated contusions or strains, intra-articular lesions are increasingly found to be sources of hip pain."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The objective was to define the incidence and etiologic factors of intra- and extra-articular hip injuries in the National Football League (NFL)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "The NFL Injury Surveillance System was used to define all hip-related injuries from 1997 to 2006. Injuries were included if the athlete missed more than 2 days. All hip and groin injuries were included for evaluation. The authors also report on NFL players with intra-articular injuries seen at their institution outside of the NFL Injury Surveillance System."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were a total of 23 806 injuries from 1997 to 2006, of which 738 were hip injuries (3.1%) with an average of 12.3 days lost per injury. Muscle strains were the most common injury. Intra-articular injuries resulted in the most time lost. Contact injuries most likely resulted in a contusion, and noncontact injuries most often resulted in a muscle strain. In the authors' institutional experience, many of the athletes with labral tears have persistent adductor strains that do not improve despite adequate therapy."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip injuries represent a small but substantial percentage of injuries that occur in the NFL. A majority of these injuries are minor, with a return to play within 2 weeks. Intra-articular injuries are more serious and result in a significant loss of playing time. The \"sports hip triad\" (labral tear, adductor strain, and rectus strain) is described as a common injury pattern in the elite athlete."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "There were a total of 23 806 injuries from 1997 to 2006, of which 738 were hip injuries (3.1%) with an average of 12.3 days lost per injury."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "A majority of these injuries are minor, with a return to play within 2 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

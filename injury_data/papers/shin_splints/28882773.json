@@ -1,0 +1,48 @@
+{
+  "pmid": "28882773",
+  "title": "Shockwave treatment for medial tibial stress syndrome in military cadets: A single-blind randomized controlled trial.",
+  "year": "2017",
+  "journal": "International journal of surgery (London, England)",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "Medial tibial stress syndrome (MTSS) is a common injury in athletes and soldiers. Several studies have demonstrated the effectiveness of extracorporeal shockwave treatment (ESWT) in athletes with MTSS."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To assess whether one session of focused ESWT is effective in the treatment of military cadets with MTSS."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A randomized, prospective, controlled, single-blind, parallel-group clinical study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Ib."
+    },
+    {
+      "label": "SETTING",
+      "text": "Military School of Cadets of the Colombian Army."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty-two military cadets with unilateral chronic MTSS were randomly assigned to either one session of focused electromagnetic ESWT (1500 pulses at 0.20 mJ/mm<sup>2</sup>) plus a specific exercise programme (muscle stretching and strengthening exercises) or the exercise programme alone. The primary endpoint was change in asymptomatic running test (RT) duration at four weeks from baseline. Secondary endpoints were changes in the visual analogue scale (VAS) after running and modified Roles and Maudsley (RM) score also at four weeks from baseline."
+    },
+    {
+      "label": "RESULTS",
+      "text": "ESWT patients were able to run longer. Mean RT after four weeks was 17 min 33 s (SE: 2.36) compared to 4 min 48 s (SE: 1.03) in the exercise-only group (p = 0.000). Mean VAS after running was 2.17 (SE: 0.44) in the ESWT group versus 4.26 (SE: 0.36) in the exercise-only group (p = 0.001). The ESWT group had a significantly higher RM score, with excellent or good results for 82.6% of patients vs. 36.8% in the exercise-only group (p = 0.002). No significant adverse effects of ESWT were observed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A single application of focused shockwave treatment in combination with a specific exercise programme accelerates clinical and functional recovery in military cadets with MTSS."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

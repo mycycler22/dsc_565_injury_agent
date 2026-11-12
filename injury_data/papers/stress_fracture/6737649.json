@@ -1,0 +1,20 @@
+{
+  "pmid": "6737649",
+  "title": "The diagnosis of stress fractures in athletes.",
+  "year": "1984",
+  "journal": "JAMA",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Eighteen patients with shin pain that was clinically considered to be caused by a stress fracture of the tibia or fibula underwent radiological, thermographic, and scintigraphic studies and a test of ultrasound-induced pain. When initially seen, 15 had stress fractures confirmed by scintigraphy. Of these, 12 had abnormal thermograms, eight had positive test results for ultrasound-induced pain, and seven had abnormal radiographs. Thermography used alone seemed to be a safe, rapid means of diagnosis for stress fractures in the tibia or fibula and was not found to be related to symptom duration. In the radiologically normal group of stress fractures, four (50%) had positive test results for ultrasound stress tests and normal thermograms. The combination of these two tests should provide an early method of detecting stress fractures in the tibia and fibula, thereby avoiding scintiscans in some athletes."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

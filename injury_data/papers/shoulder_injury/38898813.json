@@ -1,0 +1,52 @@
+{
+  "pmid": "38898813",
+  "title": "Risk Factors for Shoulder Injuries in Female Athletes Playing Overhead Sports: A Systematic Review.",
+  "year": "2025",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Sports involving overhead motions put substantial biomechanical demands on the shoulder and may result in injuries."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine risk factors (RFs) for shoulder injuries in female athletes who play overhead sports and evaluate strategies to reduce shoulder injuries in these athletes."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "A systematic electronic search was performed according to Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) guidelines. Databases included were PubMed, Tulane Matas Library Search Engine, and Google Scholar, with search terms: \"Overhead injuries/Shoulder AND female athletes AND Risk Factors.\""
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Of the initial 1574 studies identified, 314 were evaluated for eligibility by full-text review and 291 studies were excluded. Overall, 23 studies were included in this study. Studies were published from 2000 to 2021, subject age range was 15 to 35 years, with documented prevalence of shoulder injuries in female athletes playing overhead sports."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 2."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Two independent researchers completed abstract and full-text review. Data extraction used the Covidence and Cochrane Consumer guide template."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Volleyball was the most common sport with shoulder injuries (6/23; 26%) followed by softball 5/23 (22%), swimming 5/23 (22%), gymnastics 4/23 (17%), tennis 3/23 (13%), water polo 2/23 (8%), and basketball 1/23 (4%). Six RFs (dominant shoulder, volume/overuse, time in sport, older age at time of injury, past injury, and multidirectional instability) were described. Of the 23 studies, 9 (39%) identified the dominant shoulder as a RF for sustaining injury (mean risk ratio [RR], 2.04), while 6 (26%) cited volume of repetition and overuse as a prominent RF (RR, 1.45)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This systematic review demonstrates important RFs for shoulder injuries in female athletes associated with playing overhead sports. Multiple prevention strategies are described. Prevention programs are helpful in reducing the risk of reinjury."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

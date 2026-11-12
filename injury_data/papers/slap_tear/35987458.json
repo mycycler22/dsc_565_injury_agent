@@ -1,0 +1,40 @@
+{
+  "pmid": "35987458",
+  "title": "High Rate of Return to Sporting Activity Among Overhead Athletes With Subpectoral Biceps Tenodesis for Type II SLAP Tear.",
+  "year": "2023",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the functional and athletic outcomes after primary subpectoral biceps tenodesis for type II SLAP tear in overhead athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "All competitive elite athletes with type II SLAP tears undergoing biceps tenodesis by a single surgeon were isolated between 2007 and 2015. Exclusion criteria were applied to individuals not involved in overhead athletics, clinical follow-up <24 months, adjacent rotator cuff or labral repair, concomitant SLAP repair, and/or previous arthroscopic shoulder surgery. Patient-reported outcome measures included visual analog scale (VAS), Kerlan Jobe Orthopaedic Clinic shoulder score, and Single Assessment Numerical Assessment. Clinical and sporting outcomes were recorded using a sports-specific questionnaire."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 22 identified patients, 16 competitive overhead athletes (72.7%; 11 men, 5 women) with a mean age of 21.0 years were available at mean 4.5-year follow-up. Baseball or softball comprised the majority of patients (n = 9; 56.3%), followed by gymnastics (n = 2), swimming (n = 2), and other sports (n = 3). At mean 4.1 months postoperatively, 13 patients (81.3%) returned to previous level of athletic activity, whereas 2 patients (12.5%) failed to return to sporting activity and 1 (6.3%) returned at a lower level of competition. VAS pain significantly decreased from an average of 4.4 preoperatively to 1.7 postoperatively (P = .002), and mean Single Assessment Numerical Assessment scores also demonstrated significant improvement (55.4-76.7; P = .008). Final mean Kerlan Jobe Orthopaedic Clinic score was 74.0 (standard deviation 25.9), including 2 patients with suboptimal outcomes due to persistent pain. There were no significant differences in mean forward flexion or rotation in either the adducted or throwing position (P > .05), although small, significant decreases in postoperative active abduction were noted (165° vs 155°; P = .003)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In the current series of competitive overhead athletes, 81% of patients returned to previous level of play at an average of 4.1 months postoperatively after subpectoral biceps tenodesis for symptomatic SLAP tear. Athletes reliably experienced significant decreased activity-related pain with athletic function."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV, case series."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "At mean 4.1 months postoperatively, 13 patients (81.3%) returned to previous level of athletic activity, whereas 2 patients (12.5%) failed to return to sporting activity and 1 (6.3%) returned at a lower level of competition."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

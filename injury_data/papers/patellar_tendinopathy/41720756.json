@@ -1,0 +1,26 @@
+{
+  "pmid": "41720756",
+  "title": "Arthroscopic management of patellar tendinopathy: a systematic review evaluating clinical outcomes and return to sport.",
+  "year": "2026",
+  "journal": "Research in sports medicine (Print)",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This systematic review evaluates the effectiveness of arthroscopic management of patellar tendinopathy, focusing primarily on return to sport (RTS) and complication rates. A search following PRISMA guidelines was performed in the PubMed, Embase and Scopus databases to identify studies reporting outcomes of arthroscopic management of patellar tendinopathy. A meta-analysis comparing preoperative and postoperative patient-reported outcome measures (PROMs) was performed using a random effects model, and a mean difference (MD) was calculated. A <i>p</i>-value <0.05 was considered statistically significant. There were significant improvements after surgery in the VISA-P (MD: 40.5; <i>p</i> < 0.00001), Lysholm (MD: 41.6; <i>p</i> < 0.00001), SANE (MD: 46.3; <i>p</i> < 0.00001), VAS Pain (MD: 5.1; <i>p</i> < 0.00001), and Blazina scores (preoperative: 4.1; postoperative: 0.4; MD: 3.8; <i>p</i> < 0.00001). The pooled surgical complication and secondary surgery rates were 0.8% and 1.0%, respectively. The pooled rate of RTS at preinjury level was 82.2%. The pooled mean time to RTS was 4.0 months. Patients undergoing arthroscopic management of patellar tendinopathy demonstrated significant improvements in PROMs, low rates of surgical complications and secondary surgeries, and high rates of RTS."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The pooled mean time to RTS was 4.0 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

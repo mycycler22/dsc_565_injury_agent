@@ -1,0 +1,43 @@
+{
+  "pmid": "25364484",
+  "title": "Case series of first metatarsophalangeal joint injuries in division 1 college athletes.",
+  "year": "2014",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Injuries of the first metatarsophalangeal (hallux MP) joint can be debilitating in the athletic population. Turf toe and plantar plate injuries are typically diagnosed similarly. However, variance in injury mechanism as well as compromised integrity of soft tissue and ligamentous structures make it difficult to accurately diagnose specific hallux MP injuries. Recent literature has supported the use of both radiographic imaging and the Lachman test as reliable indicators of joint instability in the presence of hallux MP injuries. To date, research supporting specific rehabilitation interventions and return-to-play decision making for hallux MP injuries has been limited to case studies and suggested guidelines from literature reviews. There is limited evidence suggesting specific criteria for surgical and nonsurgical decision making in conjunction with rehabilitation progressions to return an athlete to sport when managing hallux MP injuries."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "A literature search was performed using Medline, PubMed, and Google Scholar to find and review articles from 1970 to 2013 that addressed the basic anatomy of the plantar plate, injuries to this anatomical structure, and the evaluation, diagnosis, surgical and nonsurgical management, and rehabilitation of these injuries, specifically in the athletic population. Medical information for each case was gathered from electronic medical records from the individual athletes cited in this case series, which included imaging reports, rehabilitation documentation, and both evaluation and surgical reports. No statistical analysis was used."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Treatment plans for each case varied depending on surgical and nonsurgical intervention and rehabilitation outcomes. However, each athlete was able to return to sports-specific activities."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Successful outcomes for hallux MP injuries are contingent on thorough evaluation, appropriate clinical decision making with regard to surgical versus nonsurgical treatment planning, and a multidisciplinary team approach for ensuring a safe return to sport."
+    },
+    {
+      "label": "STRENGTH-OF-RECOMMENDATION TAXONOMY SORT",
+      "text": "C."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "32825999",
+  "title": "Multimodal management of patellar tendinopathy in basketball players: A retrospective chart review pilot study.",
+  "year": "2020",
+  "journal": "Journal of bodywork and movement therapies",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The aim of this observational study was to document changes in pain, dysfunction, and fear of movement in basketball players using a multimodal rehabilitation approach for managing patellar tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "A multimodal treatment approach was utilized with basketball athletes during a competitive season. Numeric pain rating scale (NPRS), Victorian Institute of Sport Assessment Patellar (VISA-P) questionnaire, and a Tampa Scale of Kinesiophobia were used as outcome measures to assess for patellar tendon pain and knee function. A single group, pre-test/post-test, de-identified, retrospective chart review was performed at the end of the season."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nine basketball players were diagnosed and treated for patellar tendinopathy during the course of a single season. VISA-P questionnaire scores were significantly higher at the end of the season, with a mean increase of 30 points (95% CI 22-38 p < 0.05). This magnitude of improvement exceeds the minimum clinically important difference of the VISA-P of 13 points. The NPRS during training over the previous week was significantly improved by 4.6 points (95% CI 2.6-6.6) from the start of treatment to the end of the season."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Dry needling, Extracorporeal Shockwave Therapy (ESWT), hands on manual therapy, and corrective exercise may be safe and effective strategies to reduce patellar tendon pain and improve knee function. Future research involving a larger sample size, control group, and randomization is indicated."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

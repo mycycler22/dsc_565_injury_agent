@@ -1,0 +1,39 @@
+{
+  "pmid": "30645183",
+  "title": "Identifying Factors That Contribute to Adolescent Bony Stress Injury in Secondary School Athletes: A Comparative Analysis With a Healthy Athletic Control Group.",
+  "year": "2019",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Bony stress injuries (BSIs) are common among adolescents involved in high school sports. A better understanding of factors that contribute to adolescent BSI is needed to target preventative measures."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Individuals who suffer a BSI will demonstrate significant differences in training methods, sleep, diet, and history of injury compared with a healthy, noninjured control group."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiologic study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data from the National High School Stress Fracture Registry (NHSSFR), an internet-based adolescent BSI survey, were used to identify variables reported with adolescent (13-18 years of age) BSI. These findings were compared with a survey of 100 (50 males, 50 females) healthy athletic controls to identify significant differences between healthy adolescents and those with BSI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 346 stress fractures were reported in 314 (206 females, 108 males) athletes within the NHSSFR. Comparison with healthy control participants demonstrated multiple significant findings. In particular, body mass index was significantly lower for patients with BSI injury compared with controls (<i>P</i> < 0.001). Patients slept significantly less than the control group (7.2 vs 7.95 hours; <i>F</i> = 34.41; <i>P</i> < 0.001). Females also slept significantly less hours than males (7.2 vs 7.63 hours; <i>F</i> = 11.02; <i>P</i> < 0.001). Fifty-eight percent of those who reported a BSI did not engage in any weight training. Those with a BSI had significantly higher average stress ratings than control participants (1.67 vs 1.42; <i>P</i> < 0.001), and females also rated their stress levels significantly higher than males (1.8 vs 1.38; <i>P</i> < 0.001). A significant difference between patients with any BSI and control participants existed for history of \"shin splints\" (Pearson χ<sup>2</sup> = 28.31; <i>P</i> < 0.001), and females also expressed having shin pain lasting for longer than 4 weeks (Pearson χ<sup>2</sup> = 8.12; <i>P</i> < 0.001) and more often (Pearson χ<sup>2</sup> = 5.84; <i>P</i> = 0.02) than males. There was also a significant difference between patients with BSI and control subjects regarding dairy intake (2.25 vs 2.69; F = 6.43; P = 0.01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Findings revealed significant differences between those who reported a BSI relative to healthy athletic adolescents. These differences included body mass index, prior history of shin splints, involvement in weight training, amount of sleep, daily stress, and dairy intake. Preventive measures should be developed to address these areas to reduce the incidence of BSIs in the adolescent population."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

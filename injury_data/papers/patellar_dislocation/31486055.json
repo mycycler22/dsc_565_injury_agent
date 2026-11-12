@@ -1,0 +1,24 @@
+{
+  "pmid": "31486055",
+  "title": "Timing for Safe Return to Sport after Medial Patellofemoral Ligament Reconstruction: The Role of a Functional Test Battery.",
+  "year": "2021",
+  "journal": "The journal of knee surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The purpose of this article was to analyze clinical and functional results after medial patellofemoral ligament (MPFL) reconstruction and to establish if a computer-assisted physical test battery could determine a \"safe timing\" to return to sport. We hypothesized that \"time-based\" criteria to declare safe return to sport could not be reliable to predict functional recover. Fifty-eight young athletic patients were selected after isolated reconstruction of MPFL. The minimum follow-up was 8 months. All the patients were evaluated subjectively with Kujala and Short Form 36 (SF-36) scores and objectively through a standardized computer-assisted physical battery of seven tests (Back in Action, Corehab). No patient was lost at the end point of follow-up and no recurrence of patellar dislocation was reported. At 8 months, 31 patients (53.4%) returned to sport at preoperative levels, and 23 (39.6%) participated in sports at lower levels. The subjective evaluation reported an increase of Kujala (60-92.7) and SF-36 score (28.6/25.4-52.2/53.6). At computer-assisted objective assessment, only 23 patients (39.6%) fulfilled the criteria for safe return to sport, while 31 (53.4%) got an insufficient outcome and 4 (6.9%) failed to complete the test. From our data, clinical scores after MPFL reconstruction provide only little insight into return to sport. The introduction of a computer-assisted objective analysis in the decision-making process for proper return to sport is necessary to evaluate functional recovery and dynamic knee stability."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "At 8 months, 31 patients (53.4%) returned to sport at preoperative levels, and 23 (39.6%) participated in sports at lower levels."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

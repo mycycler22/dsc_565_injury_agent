@@ -1,0 +1,31 @@
+{
+  "pmid": "29266094",
+  "title": "Predictive Modeling of Hamstring Strain Injuries in Elite Australian Footballers.",
+  "year": "2018",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Three of the most commonly identified hamstring strain injury (HSI) risk factors are age, previous HSI, and low levels of eccentric hamstring strength. However, no study has investigated the ability of these risk factors to predict the incidence of HSI in elite Australian footballers. Accordingly, the purpose of this prospective cohort study was to investigate the predictive ability of HSI risk factors using machine learning techniques."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eccentric hamstring strength, demographic and injury history data were collected at the start of preseason for 186 and 176 elite Australian footballers in 2013 and 2015, respectively. Any prospectively occurring HSI were reported to the research team. Using various machine learning techniques, predictive models were built for 2013 and 2015 within-year HSI prediction and between-year HSI prediction (2013 to 2015). The calculated probabilities of HSI were compared with the injury outcomes and area under the curve (AUC) was determined and used to assess the predictive performance of each model."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The minimum, maximum, and median AUC values for the 2013 models were 0.26, 0.91, and 0.58, respectively. For the 2015 models, the minimum, maximum and median AUC values were, correspondingly, 0.24, 0.92, and 0.57. For the between-year predictive models the minimum, maximum, and median AUC values were 0.37, 0.73, and 0.52, respectively."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although some iterations of the models achieved near perfect prediction, the large ranges in AUC highlight the fragility of the data. The 2013 models performed slightly better than the 2015 models. The predictive performance of between-year HSI models was poor however. In conclusion, risk factor data cannot be used to identify athletes at an increased risk of HSI with any consistency."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

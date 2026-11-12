@@ -1,0 +1,31 @@
+{
+  "pmid": "42231983",
+  "title": "Psycho-social-contextual landscape of return to sport after hamstring strain injuries: a scoping review.",
+  "year": "2026",
+  "journal": "BMJ open sport & exercise medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Hamstring strain injuries (HSI) are a leading cause of time loss and reinjury in elite sport, yet return-to-sport (RTS) decisions remain largely based on physical criteria. This scoping review aimed to map the psychological, social and contextual factors associated with RTS after HSI and to examine how psychological readiness has been conceptualised in RTS after HSI."
+    },
+    {
+      "label": "METHODS",
+      "text": "Following Joanna Briggs Institute methodology, seven databases (MEDLINE, Embase, PsycINFO, CINAHL, SPORTDiscus, Scopus and ProQuest) were systematically searched for studies published until September 2025 in five languages. Eligible studies included original research identifying or describing psychological, social or contextual factors influencing RTS after HSI. Methodological quality was assessed using the Mixed Methods Appraisal Tool and the Oxford Centre for Evidence-Based Medicine. Data were synthesised thematically."
+    },
+    {
+      "label": "RESULTS",
+      "text": "10 studies (n=663 participants, mostly in elite football) met the inclusion criteria. Three overarching domains were identified. Psychological factors were most frequently reported, including anxiety, fear of reinjury or failure and self-perceived readiness, as well as motivation and self-efficacy. Social factors encompassed therapeutic alliance, communication within the rehabilitation team and hierarchical dynamics within professional environments. Contextual factors referred to situational and organisational influences such as season timing, resource availability and operational practices. Psychological readiness was inconsistently defined and typically assessed informally rather than through validated instruments."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Psychological, social and contextual factors are under-screened in RTS after HSI. Incorporating structured psychosocial screening and shared decision-making alongside physical criteria may improve RTS safety and sustainability. Athlete-centred research is warranted to refine the assessment of psychological readiness and inform holistic, context-sensitive RTS frameworks."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

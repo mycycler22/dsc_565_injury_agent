@@ -1,0 +1,32 @@
+{
+  "pmid": "34392780",
+  "title": "Interest of platelet rich plasma in Achilles tendon rupture management: a systematic review.",
+  "year": "2022",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Acute Achilles tendon rupture (ATR) is a disabling sport-related injury. Its management involves conservative treatment with early weight-bearing or surgical treatment. Platelet-rich plasma (PRP) has raised interest as an adjuvant for treatment, given its properties on tendon repair and its anti-inflammatory effect. We aimed to assess clinical impact of PRP use in surgical or non-surgical treatment of acute ATR: range of motion, muscle strength, function, return to sport and adverse events."
+    },
+    {
+      "label": "METHOD",
+      "text": "A systematic literature research was performed using PubMed, ScienceDirect, and Google Scholar databases to collect studies reporting clinical outcomes after acute ATR treated with PRP."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eight studies were eligible and included 543 acute ATR. Four were randomized comparative studies. A total of 128 patients were treated surgically and 415 were treated conservatively, 271 received PRP injection. Five studies described the type of PRP used, which was variable. Only one study including 12 patients found significant outcomes in favor of the PRP group, with a 4-week earlier recovery of a normal range of motion and a 7-week earlier return to running. No difference in clinical or morphological evaluations, strength measurement, and functional outcomes was found in other studies both at short and long-term. PRP did not seem to modify the frequency of adverse events."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Data are not clearly in favor of a significant effect of the PRP use for treatment of ATR. There might be a slight effect on evolution during the first months. Its interest should be assessed in future studies with strong methodology."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

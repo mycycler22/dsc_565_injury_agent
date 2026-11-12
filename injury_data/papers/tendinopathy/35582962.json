@@ -1,0 +1,19 @@
+{
+  "pmid": "35582962",
+  "title": "Farrerol alleviates collagenase-induced tendinopathy by inhibiting ferroptosis in rats.",
+  "year": "2022",
+  "journal": "Journal of cellular and molecular medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy is mainly characterized by local pain, functional limitation and decreased athletic ability, which seriously affects the quality of life of patients and the career of athletes. Farrerol (FA), one of the main active compounds extracted from Rhododendron and plants in the Rhododendron family, has a wide range of pharmacological activities, such as immunomodulatory, anti-inflammatory and antiviral effects. However, the effect of FA on tendinopathy is unclear. Here, we investigated the pharmacological effect and mechanism of FA in tendon injury through collagenase-induced tendinopathy in vivo and RSL3-induced tenocytes injury in vitro. The results showed that FA alleviated the infiltration of inflammatory cells, promoted tenogenesis and improved mechanical properties of the Achilles tendon in rats. In addition, ferroptosis inducer RSL3 inhibits the tenogenesis in vitro and in vivo, which accelerates the progression of tendinopathy. Moreover, FA effectively inhibited iron accumulation and alleviated ferroptosis in the Achilles tendon. Using in vitro experiments, we found that FA antagonized ferroptosis by reducing lipid peroxidation and iron accumulation in tenocytes. Finally, we found that glutathione peroxidase 4 silencing could block the protective effect of FA on ferroptosis of tenocytes. Therefore, the results of this study suggest that FA can relieve collagenase-induced tendinopathy by inhibiting ferroptosis, and reveal that FA may be a potentially effective drug for the treatment of tendinopathy in the future."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

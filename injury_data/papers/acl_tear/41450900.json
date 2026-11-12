@@ -1,0 +1,31 @@
+{
+  "pmid": "41450900",
+  "title": "Injuries at elite field hockey tournaments: results of a new injury assessment protocol.",
+  "year": "2025",
+  "journal": "BMJ open sport & exercise medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Accurate assessment of injury severity is crucial for effective injury risk management in elite sports. To standardise the documentation of injury severity, the International Hockey Federation (FIH) introduced a new injury assessment protocol (IAP), completed by FIH medical officials. This study aimed to evaluate the application of the IAP, with a specific focus on capturing injury severity."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injury data, including injury site, affected body part, cause and type of injury, were collected during the Olympic Games (2021, 2024), Commonwealth Games (2022) and Women's FIH World Cup (2022). Medical officials classified injury severity based on estimated absence from competition: mild (1-7 days), moderate (8-28 days) and severe (>28 days)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall injury incidence was 39.71 per 1000 player match hours in men and 29.99 in women. Overall, 22 injuries were classified as moderate, representing 8.9% of male and 14.4% of female injuries. Four severe injuries were recorded (3.3% in men, 1.0% in women). The remaining cases were no time-loss injuries and mild injuries (87.8% in men, 84.6% in women). Among female athletes, 64.3% (9/14) of moderate injuries involved the head. Among men, 75.0% (6/8) of moderate injuries affected the upper and lower extremities. Severe injuries included two contusions, one ACL tear and one temporal bone fracture."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The IAP delivered comprehensive injury data, including severity. The introduction of the IAP will contribute to setting a new standard of injury surveillance in (elite) field hockey. Special attention will need to be paid to head injuries in future trials."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

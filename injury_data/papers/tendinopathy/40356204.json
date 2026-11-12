@@ -1,0 +1,74 @@
+{
+  "pmid": "40356204",
+  "title": "Long-term Prognosis of Athletes With Patellar Tendinopathy Receiving Physical Therapy: Patient-Reported Outcomes at 5-Year Follow-up.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy (PT) is a highly prevalent injury among jumping athletes. The long-term prognosis of athletes with PT following physical therapy is unknown."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess self-perceived recovery rate and the 5-year change in pain levels, disability, and sports participation, and to explore the prognostic factors associated with self-perceived recovery."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes with PT who were previously enrolled in a randomized trial and received education, load management advice, and exercise therapy instructions at baseline were eligible. An online questionnaire was sent 5 years after inclusion. Self-perceived recovery was assessed by a dichotomized 7-point global rating of change (recovery was defined as \"significantly improved\" to \"completely recovered\"). Pain levels during sports (0-10 points) and disability assessed by the Victorian Institute of Sport Assessment-Patellar (VISA-P) score were recorded at baseline and 5 years. Sports participation was categorized into return to performance, return to sport, return to participation, and quitting sports. Nonparametric tests were performed to compare scores at baseline and 5 years. Logistic regression models were used to identify prognostic factors."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 76 eligible participants, 58 (76%) responded (mean age, 30 years [SD, 4 years]; 28% female). At a mean follow-up of 5 years, 76% of participants felt recovered. Pain levels during sports (median, 7 points [IQR, 7-8 points] to 2 points [IQR, 1-4 points]) and VISA-P score (median, 57 [IQR, 45-66] to 82 [IQR, 74-97] points) significantly improved from baseline to 5 years (all <i>P</i> < .001). In total, 41 participants (71%) returned to their desired sports (68% to performance and 32% below preinjury level), 12 participants (21%) returned to participation in other sports, and 5 (9%) completely ceased sports participation. Participants who felt unrecovered had higher levels of pain and disability and lower return to performance (all <i>P</i> < .05). No prognostic factors were identified that were associated with self-perceived recovery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes with PT after physical therapy can expect a generally acceptable long-term prognosis. However, almost one-quarter did not feel recovered and perceived worse patient-reported outcomes. Clinicians treating athletes with PT may use these findings to estimate the average prognosis."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "At a mean follow-up of 5 years, 76% of participants felt recovered."
+    }
+  ],
+  "pmcid": "12125489",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Of 76 eligible participants, 58 (76%) responded (mean age, 30 years [SD, 4 years]; 28% female). At a mean follow-up of 5 years, 76% of participants felt recovered. Pain levels during sports (median, 7 points [IQR, 7-8 points] to 2 points [IQR, 1-4 points]) and VISA-P score (median, 57 [IQR, 45-66] to 82 [IQR, 74-97] points) significantly improved from baseline to 5 years (all P < .001). In total, 41 participants (71%) returned to their desired sports (68% to performance and 32% below preinjury level), 12 participants (21%) returned to participation in other sports, and 5 (9%) completely ceased sports participation. Participants who felt unrecovered had higher levels of pain and disability and lower return to performance (all P < .05). No prognostic factors were identified that were associated with self-perceived recovery."
+    },
+    {
+      "section": "Results",
+      "text": "Of the 76 athletes included at baseline, 58 (76%) completed the online questionnaire at a mean follow-up of 5 years (SD, 0.2 years). At follow-up, the mean age was 30 years (SD, 4 years), 28% of the athletes were female, and the mean height and weight were 185 cm (SD, 10 cm) and 84 kg (SD, 14 kg), respectively. The baseline characteristics for these participants at the start of the JUMPER study are shown in Table 1. Of the 18 nonparticipants, 3 (17%) refused to participate in the follow-up assessment, and 15 (83%) did not respond to telephone or 2 email reminders within 4 weeks (Figure 1). There was no significant difference in baseline variables between responders and nonresponders (Appendix Table B1, available online). Most participants (95%) received or applied nonoperative treatment approaches between the end of the trial (6-month follow-up) and the 5-year follow-up. One participant received patellar tendon debridement surgery at 2.5 years (Table 2)."
+    },
+    {
+      "section": "Self-Perceived Recovery",
+      "text": "Of the 58 participants, 44 (76%) were defined as recovered at 5 years, with 16 (36%) stating complete recovery and 28 (64%) reporting significant improvement. Fourteen participants (24%) did not feel recovered. Among those who were categorized as nonrecovered, none reported a worse condition compared with baseline (Table 3)."
+    },
+    {
+      "section": "Subgroup Analysis of Nonrecovered Participants",
+      "text": "In the subgroup analysis (Table 6), participants who felt unrecovered had greater impairments in pain levels, disability, quality of life, and sports participation at 5 years compared with those who felt recovered (all P < .05)."
+    },
+    {
+      "section": "TABLE: Self-Perceived Recovery Using the GROC With 7-Point Likert Scale (N = 58) a",
+      "text": "Item | No. (%)\nRecovered | 44 (76)\nCompletely recovered | 16 (28)\nSignificantly improved | 28 (48)\nNonrecovered | 14 (24)\nSlightly improved | 8 (14)\nRemained the same | 6 (10)\nSlightly worsened | 00 (0)\nSignificantly worsened | 00 (0)\nWorse than ever | 00 (0)"
+    },
+    {
+      "section": "TABLE: Subgroup Analysis of Participants With Self-Perceived Recovery and Nonrecovery for the Patient-Reported Outcomes at 5 Years a",
+      "text": "Outcome at 5 years | Recovery (n = 44) | Nonrecovery (n = 14) | P Value\nPain levels during ADL | 1 [0-2] | 4 [2-5] | <.001\nPain levels during sports b | 1 [0-3] | 6 [5-7] | <.001\nVISA-P score | 90 [75-87] | 73 [63-78] | <.001\nEQ-5D-3L index | 0.987 [0.984-0.987] | 0.898 [0.846-0.984] | .002\nSports participation |  |  | .027\nReturn to performance | 25 (57) | 3 (21) | \nReturn to sport | 6 (14) | 7 (50) | \nReturn to participation | 9 (20) | 3 (21) | \nQuit sports | 4 (9) | 1 (7) | \nFrequency of sports activity | 3 [3-4] | 3 [2-3] | <.001\nDuration of sports activity | 2 [2-4] | 3 [2-3] | .926"
+    },
+    {
+      "section": "TABLE: Univariable and Multivariable Models Evaluating the Association Between Baseline Factors and Self-Perceived Recovery Status a",
+      "text": " | Univariable | Multivariable\n | OR (95% CI) | P Value b | OR (95% CI) | P Value\nFemale sex | 1.24 (0.40-7.61) | .556 |  | \nAge, y | 1.09 (0.93-1.30) | .308 |  | \nBMI, kg/m2 | 1.26 (0.97-1.74) | .108 | 1.27 (0.97-1.77) | .112\nSymptom duration, wk | 1.00 (0.99-1.00) | .200 |  | \nVISA-P score (0-100 points) | 1.03 (0.99-1.09) | .148 | 1.03 (0.99-1.09) | .158\nQuadriceps muscle strength, N/kg | 0.95 (0.53-1.72) | .862 |  | "
+    }
+  ]
+}

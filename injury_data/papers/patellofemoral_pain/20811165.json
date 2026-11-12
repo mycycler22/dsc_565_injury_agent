@@ -1,0 +1,39 @@
+{
+  "pmid": "20811165",
+  "title": "Lower extremity kinematics of females with patellofemoral pain syndrome while stair stepping.",
+  "year": "2010",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional case-control design."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "Although the etiology of patellofemoral pain syndrome (PFPS) is not completely understood, there is some evidence to suggest that hip position during weight-bearing activities contributes to the disorder."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare the knee and hip motions (and their coordination) during stair stepping in female athletes with and without PFPS."
+    },
+    {
+      "label": "METHODS",
+      "text": "Two groups of female recreational athletes, 1 group with PFPS (n = 10) and a control group without PFPS (n = 10), were tested. All participants ascended and descended stairs (condition) at 2 speeds (self-selected comfortable and taxing [defined as 20% faster than the comfortable speed]), while the knee and hip angles were measured with a magnetic-based kinematic data acquisition system. Angle-angle diagrams were used to examine the relationship between flexion/extension of the knee and flexion/extension, adduction/abduction, and internal/external rotation of the hip. The angle of the knee and the 3 angles of the hip at foot contact on the third step were compared between groups by means of 3-way analyses of variance (ANOVA), with repeated measures on speed and condition."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Group-by-speed interaction for knee angle was significant, with knee flexion being greater for the PFPS group for stair ascent and descent at a comfortable speed. Both the angle-angle diagrams and ANOVA demonstrated greater adduction and internal rotation of the hip in the individuals with PFPS compared to control participants during stair descent."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Compared to control participants, females with PFPS descend stairs with the knee in a more flexed position and have the hip in a more adducted and internally rotated position at foot contact during stair stepping at a comfortable speed."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

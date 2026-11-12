@@ -1,0 +1,36 @@
+{
+  "pmid": "16278551",
+  "title": "A review of spine injuries and return to play.",
+  "year": "2005",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To review the literature for evidence that pertains to return to play and spine injuries, including cervical spinal stenosis, congenital and developmental abnormalities of the cervical spine, stingers, herniated nucleus pulposus, and spondylolysis/spondylolisthesis."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Electronic databases, Pubmed (1966-2005) and Sport Discus (1975-2005), were searched for pertinent literature. Also, additional articles were reviewed from bibliographies."
+    },
+    {
+      "label": "DATA SYNTHESIS/METHODS",
+      "text": "Summation of literature is given. No formal statistical analysis is presented."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Even though the problems addressed in this paper can be serious, the literature is lacking evidence for guidance in return to play. The majority of the literature presented is expert opinion."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Cervical spinal stenosis continues to be controversial, with different experts giving different definitions and return to play recommendations. Authors discuss functional cervical spinal stenosis seen on MRI and how this can lead to permanent sequelae. In regard to stingers, herniated nucleus pulposus, and spondylolysis/spondylolisthesis, there are differing opinions on evaluation and treatment. These conditions have less disagreement with regard to return to play. Most experts agree that with these problems or any other problem in sports medicine, an athlete needs to be symptom-free and have full active range of motion with near to full strength, even though there is a lack of research evidence in the literature."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

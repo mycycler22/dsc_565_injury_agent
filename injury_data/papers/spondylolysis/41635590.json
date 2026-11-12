@@ -1,0 +1,39 @@
+{
+  "pmid": "41635590",
+  "title": "Utilization of Imaging in Young Athletes with Low Back Pain.",
+  "year": "2026",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sports medicine physicians routinely evaluate and treat young athletes-children and adolescents (6-18 years) participating in organized sports-with extension-based low back pain (EBLBP). This condition is most often associated with spondylolysis, spondylolisthesis, stress reaction, or other mechanical causes. However, there is no consensus regarding the appropriate use and timing of imaging in this population, particularly given concerns about radiation exposure and health care costs."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the imaging practices of sports medicine physicians managing young athletes with EBLBP and to identify physician and contextual factors associated with potential overutilization, in order to inform evidence-based recommendations."
+    },
+    {
+      "label": "METHODS",
+      "text": "A 13-question online survey focusing on imaging and treatment preferences for young athletes with EBLBP was emailed to 2,185 sports medicine physicians. Responses were summarized with descriptive statistics, and exploratory subgroup analyses were performed by percentage of sports medicine in the practice, practice setting, and years in sports medicine practice."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 397 physicians completed the survey. Almost three-quarters 271 (68%) reported that they always or most of the time order radiographs on the first visit. Advanced imaging was ordered on the first visit by 13.1% and within four weeks by an additional 27.2%. MRI was the preferred advanced imaging modality (69.3%), followed by SPECT (19.2%) and CT (5.0%). Initial radiograph use was high across subgroups and was most common in orthopedic offices, private sports medicine settings, and among less-experienced physicians. Practice setting, years in practice, and sports-medicine caseload were also associated with differences in advanced imaging. MRI was the predominant modality across groups, while SPECT use was more frequent in orthopedic and private sports practices, varied across sports medicine caseload groups, and was higher among those with more years in practice."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Sports medicine physicians frequently obtain radiographs and, in many cases, advanced imaging early in the evaluation of young athletes with EBLBP. Given that most cases improve with conservative management and that delayed imaging does not appear to worsen outcomes, these findings may support efforts to reduce unnecessary imaging and establish clearer, evidence-based guidelines for this athletic population."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "3."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

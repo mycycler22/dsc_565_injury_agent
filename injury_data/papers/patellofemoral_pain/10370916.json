@@ -1,0 +1,40 @@
+{
+  "pmid": "10370916",
+  "title": "Effects of a thermoplastic foot orthosis on patellofemoral pain in a collegiate athlete: a single-subject design.",
+  "year": "1999",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Single-subject, A-B-A-B format."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate the effects of a foot orthosis on pain and function by controlling forefoot pronation."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "Foot orthoses have been recommended to treat patellofemoral pain by controlling excessive pronation, but few studies have used an experimental design to validate this approach."
+    },
+    {
+      "label": "METHODS AND MEASURES",
+      "text": "A 19-year-old collegiate softball player had an acute onset of patellofemoral pain in her left knee. A visual analog scale was used to assess pain intensity and a functional index questionnaire (FIQ) was used to measure the subject's perceived functional level."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Statistical analysis using the celeration line technique showed significant improvements between all the consecutive baseline and intervention phases of the VAS data and in 7 of the 9 paired phases of the FIQ data."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Limiting pronation with a thermoplastic orthosis was an effective treatment for this subject."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

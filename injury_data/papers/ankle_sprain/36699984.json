@@ -1,0 +1,19 @@
+{
+  "pmid": "36699984",
+  "title": "Baseball injuries in adolescent athletes with ADHD.",
+  "year": "2022",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "At the intersection of injury-prone sports such as baseball and conditions like ADHD that affect all aspects of life, there is a lack of research. This limits the availability of preventive care programs designed to target potential risks and promote a safe experience. In this retrospective cohort study, we assess the frequency of injury in youth baseball players with and without ADHD, along with further investigation into how treatment with stimulant medication may modify risk factors. The data for this study were obtained in deidentified, aggregate format from the TriNetX research database. We identified all patients under 25 years of age with a designation of baseball activity. Within this population, we separated patients by presence or absence of ADHD diagnosis, and then by stimulant usage. The studied outcomes were injuries commonly occurring in baseball, including fractures, sprains, and specific injury patterns. We identified 17,710 patients under 25 years old with designated baseball activity, 1,183 of which had a diagnosis of ADHD. Of these, 511 had a history of stimulant medication and 470 had no history of stimulant use. For most events (i.e., injuries), there were no statistical differences between cohorts. The overall ADHD cohort significantly differed from the Not ADHD cohort in 3 events: \"thorax, abdomen, pelvis injuries,\" \"ankle sprain,\" and \"concussion.\" When athletes with ADHD received treatment, this trend reversed for select injuries: \"any fracture\", \"head or neck injuries\", \"upper limb injuries\", and \"lower limb injuries\" were less likely in ADHD athletes on stimulants. Given the ongoing debate around stimulant use in athletics, our study is relevant to many patients, providers, and the baseball community."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

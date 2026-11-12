@@ -1,0 +1,69 @@
+{
+  "pmid": "30148179",
+  "title": "Return to Play After PRP and Rehabilitation of 3 Elite Ice Hockey Players With Ulnar Collateral Ligament Injuries of the Elbow.",
+  "year": "2018",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ulnar collateral ligament (UCL) injury is a well-described etiology of pain and decreased performance for the overhead athlete. Despite a growing volume of literature regarding the treatment of these injuries for overhead athletes, there is a paucity of such data regarding stickhandling collision sport athletes, such as ice hockey players."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to characterize this injury among 3 elite ice hockey players and to describe the ability of these athletes to return to play, as well as to review the unique sport-specific implications of this injury, evaluation, nonsurgical management, and considerations for return to play. The authors hypothesized that elite ice hockey players will be able to return to play at the same level following nonoperative treatment of UCL injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data from 3 elite professional ice hockey players who sustained a high-grade injury to the UCL were retrospectively reviewed. All athletes underwent 2 autologous conditioned plasma injections as part of their treatment and were evaluated with ultrasonography and magnetic resonance imaging."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Three consecutive elite ice hockey players were included in this study, and no patients were excluded. Players were cleared to full return to play at a mean 36 days postinjury. Follow-up examination at this time point demonstrated full range of motion of the elbow for all athletes, without tenderness to palpation over the UCL, including no tenderness over the humeral insertion site. Stability examination improved as well, demonstrating a soft to moderate endpoint with valgus stress, although this was not symmetric to the contralateral side. All athletes were able to continue to play at the same level of competition as before the injury occurred, without any complaints. No players had repeat injury during the same or following seasons."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The authors present 3 elite-level ice hockey players who sustained a high-grade injury to the UCL. Successful return to play was possible after nonoperative treatment with injection of autologous conditioned plasma at a mean 36 days following injury. Athletes who injure either the top or bottom hand can return to play at the same elite level following this injury."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Players were cleared to full return to play at a mean 36 days postinjury."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Successful return to play was possible after nonoperative treatment with injection of autologous conditioned plasma at a mean 36 days following injury."
+    }
+  ],
+  "pmcid": "6100131",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Three consecutive elite ice hockey players were included in this study, and no patients were excluded. Players were cleared to full return to play at a mean 36 days postinjury. Follow-up examination at this time point demonstrated full range of motion of the elbow for all athletes, without tenderness to palpation over the UCL, including no tenderness over the humeral insertion site. Stability examination improved as well, demonstrating a soft to moderate endpoint with valgus stress, although this was not symmetric to the contralateral side. All athletes were able to continue to play at the same level of competition as before the injury occurred, without any complaints. No players had repeat injury during the same or following seasons."
+    },
+    {
+      "section": "Physical Therapy and Return to Play",
+      "text": "Athletes underwent a course of progressive therapy following the injury, with the goal of maintaining range of motion, decreasing swelling, and strengthening the common flexor-pronator muscles, as this muscle group acts as a secondary stabilizer protecting against valgus laxity of the joint. Fourteen days after injury and as a result of significantly decreased tenderness over the injury zone, diminished pain overall, and restored range of motion, the athlete was allowed to stickhandle while skating. This was progressed to puck handling, light passing and receiving, and then cross-ice passing. Every 48 hours, if progression was pain free, then increased activity was added. At 3 weeks postinjury, the player was allowed to start wrist shots and then progress to incremental velocity slap shots. At 4 to 4.5 weeks following the injury, light contact was initiated. Patients were cleared to return to play in games with similar advancement criteria of pain-free activity in full-contact practice, with full range of motion. Throughout this process, the elbow was always protected in a hinged brace, and the athlete reported minimal symptoms. Athletes were evaluated over their remaining current and following seasons."
+    },
+    {
+      "section": "Clinical History and Return to Play",
+      "text": "Each athlete was closely observed throughout his recovery, with progress in range of motion noted in Table 2. ACP was injected into the proximal insertion of the UCL at a mean 3 days postinjury, with a repeat injection at a mean 9 days postinjury, which is noted in Table 4. At 4 weeks postinjury, physical examination revealed resolution of the elbow effusion, bilaterally symmetric range of motion, and minimal tenderness over the proximal origin of the UCL. Joint laxity examination improved for all athletes, and moving valgus stress demonstrated significantly diminished pain between 70° and 120°. Flexor-pronator strength was nearly symmetric. Repeat MRI of the elbow showed a persistent fluid cleft between the UCL and its humeral attachment but with some evidence of bridging scar tissue (representative athlete noted in Figure 2B). There was also resolution of the static widening of the ulnotrochlear joint. Likewise, decreased edema within the common flexor-pronator suggested progressive partial healing of the injury. Repeat sonographic dynamic valgus confirmed the finding as well as decreased stress widening of the joint space. Players were cleared to full return to play at a mean 36 days postinjury (Table 4). Follow-up examination at that time demonstrated full range of motion of the elbow for all athletes, without tenderness to palpation over the UCL, including no tenderness over the humeral insertion site. Stability examination improved as well, demonstrating a soft to moderate endpoint with valgus stress, although this was not symmetric to the contralateral side. All athletes were able to continue to play at the same level of competition as before the injury occurred, without any complaints. Repeat MRI of the elbow revealed a healing UCL (representative athlete noted around time of return to play in Figure 2B and at 3 months in Figure 2C). No repeat injuries occurred during the remainder of the current season or the following season."
+    },
+    {
+      "section": "TABLE: Range of Motion of Each Athlete at Time of Injury, 2 Weeks After Injury, and Time of Return to Playa",
+      "text": " | Elbow Range of Motion, deg\n | Player A | Player B | Player C\n | Injured | Contralateral | Injured | Contralateral | Injured | Contralateral\nTime of injury | 15 | 0 | 5 | 0 | 5 | 0\n | 125 | 145 | 130 | 145 | 135 | 145\n2 wk after injury | 10 | 0 | 5 | 0 | 5 | 0\n | 140 | 145 | 130 | 145 | 140 | 145\nReturn to play | 0 | 0 | 0 | 0 | 0 | 0\n | 145 | 145 | 145 | 145 | 145 | 145"
+    },
+    {
+      "section": "TABLE: Duration From Time of Injury to Return to Play and Until ACP Injections to the Injured Proximal UCLa",
+      "text": " | Player A | Player B | Player C\nDays to return to play | 35 | 43 | 31\nWeeks to return to play | 5 | 6.14 | 4.43\nDays to ACP 1 | 2 | 5 | 2\nDays to ACP 2 | 9 | 11 | 7"
+    }
+  ]
+}

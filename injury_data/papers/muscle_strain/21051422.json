@@ -1,0 +1,45 @@
+{
+  "pmid": "21051422",
+  "title": "Reinjury after acute posterior thigh muscle injuries in elite track and field athletes.",
+  "year": "2011",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring muscle strains often recur. The authors studied the effect of the grade of initial injury on the subsequent risk of reinjury."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "No difference in reinjury rate between acute low-grade (grades I and II) and high-grade (III and IV) hamstring muscle strains would be seen."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study (prognosis); Level of evidence, 1."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between 1999 and 2007, the authors managed 165 elite track and field athletes with acute, first-time unilateral hamstring muscle strains. Strains were classified into 4 grades (I, II, III, and IV) based on knee active range of motion deficit at 48 hours. The same rehabilitation protocol was prescribed, and the rate of reinjury was recorded during the following 24 months."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The average time to return to sport after initial injury was 7.4 days for grade I injuries, 12.9 days for grade II injuries, 29.5 days for grade III injuries, and 55.0 days for grade IV injuries. At follow-up, 23 of the 165 athletes (13.9%) had experienced a second hamstring muscle strain. Of the 75 athletes with a grade I injury, 7 (9.3%) had experienced a recurrence after 24 months. Of the 58 athletes with a grade II injury, 14 (24.1%) experienced a recurrence. Of the 26 athletes with a grade III injury, 2 (7.7%) experienced a recurrence, and of the 6 athletes with a grade IV injury, none had experienced a recurrence after 24 months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Low-grade hamstring muscle lesions appear to lead to a higher risk of reinjury than high-grade hamstring muscle lesions. However, there were disproportionately fewer high-grade injuries than low-grade injuries. Objective clinical findings can accurately determine the risk of reinjury after acute hamstring muscle strains in elite track and field athletes."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The average time to return to sport after initial injury was 7.4 days for grade I injuries, 12.9 days for grade II injuries, 29.5 days for grade III injuries, and 55.0 days for grade IV injuries."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "33192196",
+  "title": "Early-Application Extracorporeal Shockwave Therapy for Plantar Fasciitis in a Chiropractic Clinic: A Case Report.",
+  "year": "2020",
+  "journal": "Journal of chiropractic medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of this report is to describe the successful management of plantar fasciitis (PF) using only extracorporeal shockwave therapy."
+    },
+    {
+      "label": "CLINICAL FEATURES",
+      "text": "A 26-year-old male former athlete presented with insidious right posterior medial foot pain of 3 months' duration. He reported a past history of similar symptoms 12 years previously and was successfully treated with tape, ice, and electric stimulation. For the current episode, he attempted to manage with orthotics, motor nerve stimulation, and ice, and when that was insufficient, he sought care in our clinic. Initial history and evaluation found provocation of pain and functional limitations while wearing dress shoes, running, and playing basketball. Examination found palpatory tenderness at the medial aspect of the distal right calcaneus, and pain with right ankle dorsiflexion. Radiographs were unremarkable. Patient presentation and exam findings supported a working diagnosis of PF."
+    },
+    {
+      "label": "INTERVENTION AND OUTCOMES",
+      "text": "Treatment was applied with a Richard Wolf WellWave low-energy shockwave therapy unit with focused dosage of 4000 shock pulsations at 10-mm depth to the site of pain. Treatment was applied 11 × over 5 weeks, after which the patient reported a complete resolution of pain and resumption of all activities."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Extracorporeal shockwave therapy appeared to be an effective treatment approach for the management of this patient's PF."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

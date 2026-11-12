@@ -1,0 +1,32 @@
+{
+  "pmid": "32874161",
+  "title": "Effort Thrombosis in 2 Athletes Suspected of Musculoskeletal Injury.",
+  "year": "2019",
+  "journal": "Journal of chiropractic medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "This case series describes the clinical presentation of effort thrombosis and the utility of sonography in its diagnosis."
+    },
+    {
+      "label": "CLINICAL FEATURES",
+      "text": "Two young male athletes presented to separate chiropractic clinics with suspected musculoskeletal shoulder injury. The first complained of dull shoulder pain after pitching in a baseball game and had no other signs or symptoms. The second presented after performing a weighted plank exercise and had prominent edema and discoloration of the affected extremity."
+    },
+    {
+      "label": "INTERVENTION AND OUTCOME",
+      "text": "In the first patient, who had no physical signs to suggest thrombosis, a normal sonographic musculoskeletal shoulder exam prompted imaging in the abduction-external rotation position. This provided visualization of a thrombus in the axillosubclavian vein. Emergent referral followed, and treatment was initiated with thrombolysis and surgery, which resolved his condition. The second patient had physical signs consistent with effort thrombosis and was also referred to the emergency department, where sonography was performed and revealed thrombosis of the axillary and basilic veins. He responded to anticoagulants and thrombolysis and avoided surgery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Effort thrombosis has a variable presentation that can mimic common musculoskeletal disorders and has a poorly defined diagnostic pathway. Acute shoulder pain in an athlete, especially with extremity edema after repetitive exertion, warrants urgent imaging such as sonography and emergent referral. Clinicians should understand the importance of a timely evaluation and diagnosis of effort thrombosis and that imaging may include sonography as a first-line imaging tool."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

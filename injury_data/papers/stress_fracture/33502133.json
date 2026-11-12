@@ -1,0 +1,24 @@
+{
+  "pmid": "33502133",
+  "title": "Unusual Stress Fracture in a CrossFit Athlete: A Case Report.",
+  "year": "2021",
+  "journal": "JBJS case connector",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CASE",
+      "text": "This is a case of a 28-year-old CrossFit athlete who was observed at the emergency department after a competition with acute right shoulder pain. After investigation, she claimed of some posterior shoulder tightness for the past month, without any trauma associated. After the imaging study, we diagnosed a scapula stress fracture. After 8 weeks of rest, she was pain free and returned to sports."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Stress fracture of the scapula should be considered in the differential diagnosis of shoulder pain in overhead activities athletes. This case illustrates an excellent prognosis with conservative treatment and the potencial for full return to sports."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "28680893",
+  "title": "Return to Sport and Performance After Anterior Cruciate Ligament Reconstruction in National Football League Linemen.",
+  "year": "2017",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tears of the anterior cruciate ligament (ACL) are common in the National Football League (NFL). The impact of these injuries on the careers of NFL linemen is unknown."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To define the percentage of NFL linemen who return to sport (RTS) after ACL reconstruction, the mean time to RTS, and the impact on performance compared with matched controls."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data on NFL offensive and defensive linemen who sustained an ACL tear and underwent ACL reconstruction between 1980 and 2015 were analyzed. Players were identified through NFL team websites, publicly available injury reports, player profiles, and press releases. Demographics and mean in-game performance data preinjury and post-ACL reconstruction were recorded. A player was deemed to have returned to sport if he played in at least 1 NFL game after his ACL reconstruction. A healthy control group was selected to compare in-game performance data and was matched with the study group on several parameters."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 73 NFL linemen met the inclusion criteria; 47 (64.3%) returned to play after ACL reconstruction (62.5% of offensive linemen, 65.9% of defensive linemen). All offensive linemen successfully returned to play the season after injury. No difference existed in number of seasons, total number of games played, mean number of games played, or mean number of games started per season when offensive linemen who RTS after ACL reconstruction were compared with matched controls (all <i>P</i> > .05). Among defensive linemen who RTS, most returned the season after injury (88.9%). There was no difference between defensive linemen who RTS after ACL reconstruction and matched controls in any performance metrics as an average over the remainder of their career (all <i>P</i> > .05). However, NFL defensive linemen who tore their ACL played fewer total seasons than matched controls (<i>P</i> = .020)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Overall, 64.3% of NFL offensive and defensive linemen who undergo ACL reconstruction returned to play. Linemen who RTS do so at a high level, with no difference in in-game performance or career duration when compared with matched controls."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

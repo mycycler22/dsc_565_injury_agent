@@ -1,0 +1,42 @@
+{
+  "pmid": "29601207",
+  "title": "Nonsurgical Treatments of Patellar Tendinopathy: Multiple Injections of Platelet-Rich Plasma Are a Suitable Option: A Systematic Review and Meta-analysis.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy is a condition characterized by anterior knee activity-related pain. It has a high incidence among athletes engaged in jumping sports and may become a chronic condition. Nonoperative management is the first choice in these patients, and several nonsurgical treatment options have been proposed. Nonetheless, clear indications on the most effective approach to address patellar tendinopathy are still lacking."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To analyze the evidence on nonoperative options to treat chronic patellar tendinopathy through a systematic review of the literature and to perform a meta-analysis to identify the most effective nonsurgical option."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "The search was conducted with the PubMed and Cochrane databases on January 4, 2017. All clinical English-language reports of any level of evidence on nonsurgical treatment of patellar tendinopathy were included. The quality of each article was assessed by use of the Coleman score. A meta-analysis was performed on all articles reporting the Victorian Institute of Sport Assessment scale for patellar tendinopathy to evaluate the results of the most described treatments."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 70 studies involving 2530 patients were included in the qualitative data synthesis. The Coleman score showed an overall poor study quality. The most described treatment groups that could be included in the meta-analysis were reported in 22 studies on eccentric exercise, extracorporeal shockwave therapy (ESWT), and platelet-rich plasma (PRP). Single and multiple PRP injections were evaluated separately. Eccentric exercise therapies obtained the best results ( P < .05) at short-term (<6 months, mean 2.7 ± 0.7 months). However, multiple injections of PRP obtained the best results ( P < .05), followed by ESWT and eccentric exercise, at long-term follow-up (≥6 months, mean 15.1 ± 11.3 months)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The literature documents several nonsurgical approaches for the treatment of chronic patellar tendinopathy with important limitations in terms of study quality. The available evidence showed an overall positive outcome, but some differences have been highlighted. Eccentric exercises may seem the strategy of choice in the short-term, but multiple PRP injections may offer more satisfactory results at long-term follow-up and can be therefore considered a suitable option for the treatment of patellar tendinopathy."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

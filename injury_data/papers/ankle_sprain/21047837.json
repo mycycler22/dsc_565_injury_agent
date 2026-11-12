@@ -1,0 +1,32 @@
+{
+  "pmid": "21047837",
+  "title": "Optimising ankle sprain prevention: a critical review and practical appraisal of the literature.",
+  "year": "2010",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To establish the effect of preventive measures and assert the optimal prevention strategy for acute lateral ligament injury to the ankle."
+    },
+    {
+      "label": "METHODS",
+      "text": "An electronic literature search was employed to look for published randomised controlled trials, a controlled trials or time interventions containing research questions regarding the prevention of lateral ankle ligament injuries. Two reviewers reviewed relevant studies for strengths and weaknesses in design and methodology, according to a standardised set of predefined criteria. A total of 24 relevant studies met the criteria for inclusion and were analysed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall taping, bracing and neuromuscular training were all effective for the prevention of ankle-sprain recurrences. The RRs of these prophylactic measures are of similar magnitude, ranging from 0.2 to 0.5 when compared with control groups. Although preventive effects have been reported in a general athletic population, evidence suggests this overall effect is due to a strong preventive effect in previously injured athletes and that any effect on fresh ankle sprains is either non-existent or very low."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Based on these outcomes, a combination of an external prophylactic measure (tape or brace) with neuromuscular training will achieve the best preventive outcomes with minimal burden for the athlete."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "28752792",
+  "title": "Strain distribution in the porcine lumbar laminae under asymmetric loading.",
+  "year": "2017",
+  "journal": "Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "If the articular facets of the vertebra grow in an asymmetric manner, the developed geometry causes an asymmetry of loading. When the loading environment is altered by way of increased activity, the likelihood of acquiring a stress fracture may be increased. The combination of geometric asymmetry and increased activity is hypothesised to be the precursor to the stress fracture under investigation in this study, spondylolysis. This vertebral defect is an acquired fracture with 7% prevalence in the paediatric population. This value increases to 21% among athletes who participate in hyperextension sports. Tests were carried out on porcine lumbar vertebrae, on which the effect of facet angle asymmetry was simulated by offsetting the load laterally by 7 mm from the mid-point. The aim of the study is to investigate whether an increase in the coronal orientation of one facet leads to an increase in strain in the corresponding vertebral lamina. Strain in the laminae was recorded using six 3-element stacked rosette strain gauges placed bilaterally. Results show that a significant linear predictive relationship exists between load offset and average strain level in the vertebral laminae with p values of 0.006 and 0.045 for principal strains ε<sub>1</sub> and ε<sub>2</sub> on the right-hand side, and p-values of 0.009 and 0.001 for principal strains ε<sub>1</sub> and ε<sub>2</sub> on the left-hand side ( R<sup>2</sup> all >0.9). This study concludes that facet angle asymmetry does lead to a difference in strain in the vertebral laminae. Change in principal strain as a result of facet asymmetry has a linear relationship and an asymmetry threshold exists beyond which compressive strain on the more coronally oriented facet can be increased by up to 15%."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

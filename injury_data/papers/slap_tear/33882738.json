@@ -1,0 +1,33 @@
+{
+  "pmid": "33882738",
+  "title": "Repair versus biceps tenodesis for the slap tears: A systematic review.",
+  "year": "2021",
+  "journal": "Journal of orthopaedic surgery (Hong Kong)",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The ideal treatment algorithm is still controversial for Superior Labral Anterior-Posterior (SLAP) tears. In this systematic review, we aimed to clarify and ascertain which treatment modality is effective and more usable in which conditions."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this systematic review, we used the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guidelines established for systematic reviews and meta-analysis. \"SLAP or Superior Labral Anterior-Posterior\" and \"biceps tenodesis\" search terms were used in The Cochrane Library database and Pubmed from their inception to the 30th of September 2020. A total of 2326 titles were screened and 2069 articles were removed because of their ineligibility. Full texts of 14 studies were screened and finally, six were suitable for the present systematic review. Demographic details and study characteristics, patient satisfaction, functional outcomes, return to preinjury sports level, reoperation, stiffness, sling time and rehabilitation protocols were reviewed and compared between SLAP repair and biceps tenodesis groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 2326 titles were screened and six studies were detected eligible. Results of 287 patients (SLAP repair: 160, Biceps Tenodesis: 127) were reviewed in included six studies. Biceps tenodesis was showed as more satisfied technique in four of the studies but the statistical comparing results of two groups were not significantly different in each study. Different functional scoring systems used in the studies were not statistically significantly different between the groups. The percentage of return to sport and preinjury level is higher in biceps tenodesis in the five studies. The total reoperation rate for SLAP repair was 19/160 (12%) and biceps tenodesis was 7/127 (6%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The biceps tenodesis has a higher return to preinjury sports level, higher patient satisfaction and lower reoperation rates but functional scores are similar between SLAP repair groups in patients with SLAP tear."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "40215473",
+  "title": "A Systematic Review of Surgical Treatment for Refractory Patellar Tendinopathy.",
+  "year": "2025",
+  "journal": "Journal of the American Academy of Orthopaedic Surgeons. Global research & reviews",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "With the advent of new classification systems and surgical options, clarification is needed regarding the most effective surgical management for refractory patellar tendinopathy (PT). The objective of this systematic review is to investigate outcomes of surgical management of refractory PT."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed was searched from January 1, 2000, through July 12, 2021, using the Medical Subject Headings function and the following Boolean operators: \"Patellar Ligament/surgery\"[Mesh] NOT \"Anterior Cruciate Ligament\"[Mesh]. Original research articles that discussed surgical management of PT were included, and outcomes were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifteen studies (2 studies level 1 and 13 studies level 4) were included comprising 485 patients with an average age of 29.5 years and 523 patellar tendons treated. The seven studies reporting both preoperative and postoperative Victorian Institute of Sports Assessment scores demonstrated increases of 39.60, whereas the seven studies reporting visual analog scores demonstrated decreases of 6.11. Average return-to-play rate was 87.08%. Study designs and in surgical techniques were heterogenous, which precluded the ability to perform a meta-analysis."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Surgical treatment of refractory PT leads to notable improvement in patient-reported outcomes and high return-to-play rates. However, there is a paucity of high-quality research investigating newer surgical options and classification systems for PT."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

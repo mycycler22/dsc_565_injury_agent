@@ -1,0 +1,39 @@
+{
+  "pmid": "31125270",
+  "title": "Lateral Posterior Tibial Slope in Male and Female Athletes Sustaining Contact Versus Noncontact Anterior Cruciate Ligament Tears: A Prospective Study.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lateral posterior tibial slope (PTS) has been identified as a risk factor for primary anterior cruciate ligament (ACL) tears."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose was to prospectively determine if there was a difference in lateral PTS between male and female athletes sustaining contact ACL tears as compared with a group of sex-, age-, and activity-matched athletes who sustained noncontact ACL tears. It was hypothesized that there would be no difference in degree of lateral PTS between contact and noncontact mechanisms among patients sustaining primary ACL tears in sports."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data from patients who underwent primary ACL reconstruction without posterior cruciate ligament injury between 2016 and 2018 by a single surgeon were prospectively analyzed. Measurements of lateral PTS were performed on magnetic resonance imaging. Mean values of lateral PTS were compared between the ACL tear groups. Additionally, a group of patients with intact knee ligaments were matched to patients with ACL tears to serve as controls."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 245 patients had complete primary ACL tears during the inclusion period. Of these, 56 (23%) reported a contact mechanism of injury at the time of ACL tear, and 56 patients who sustained noncontact ACL tears were matched to the contact ACL tear group. There were no significant differences in sex (<i>P</i>≥ .999), age (<i>P</i> = .990), or body mass index (<i>P</i> = .450) between the patient groups. The mean lateral PTS was 9.1°± 2.9° for the ACL contact and 9.9°± 3.0° for the ACL noncontact group (<i>P</i> = .180). There was a significant difference in mean lateral PTS between the ACL tear groups (noncontact and contact: 9.5°± 3.0°) and matched control group (5.6°± 1.9°, <i>P</i> = .0001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The lateral PTS was significantly increased among patients with contact and noncontact ACL tears as compared with controls. However, there were no differences in lateral PTS between patients who sustained contact and noncontact ACL tears. Lateral PTS measured on magnetic resonance imaging does not appear to be predictive of the mechanism of injury type among patients who sustain a contact or noncontact primary ACL tear."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

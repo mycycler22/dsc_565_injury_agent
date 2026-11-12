@@ -1,0 +1,43 @@
+{
+  "pmid": "32460219",
+  "title": "Patellar tendinopathy outcome predictors in jumping athletes: feasibility of measures for a cohort study.",
+  "year": "2020",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The main aim was to assess feasibility by testing data collection procedures for a cohort study. Measurements validity and reliability were secondary objectives."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Feasibility study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Combination of remote contact, assessment in clinic and biomechanical evaluation."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "36 jumping athletes (female:17, male:19) equally spread between those with patellar tendinopathy, other knee problems and controls."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Measurements validity, reliability and feasibility."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There was no systematic difference between administration methods for patient reported outcome measures and miscellaneous questions (range of d = -0.32 to 0.26) without any order effect (all p > 0.05) except KOOS-PF (p = 0.02). Questionnaires' inter-session reliability was moderate to excellent (ICCs = 0.68-0.93). Pain maps were 94% matched between methods. Training load recall percentage decreased until week-3 with only 20% maintaining a training diary completing the full 6 weeks. The graded loaded challenge was clinically applicable, biomechanically valid with increasing load through progression and reliable (ICCs = 0.63-0.98)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The tested questionnaires were valid and reliable for online use, therefore being suitable for clinical and research purposes. A shorter survey to reduce burden and collecting training load using shorter recall duration should improve feasibility. Biomechanical measures were valid and reliable, and a graded loaded challenge, suitable for further testing, has been defined."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

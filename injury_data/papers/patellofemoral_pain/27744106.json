@@ -1,0 +1,31 @@
+{
+  "pmid": "27744106",
+  "title": "High- compared to low-arched athletes exhibit smaller knee abduction moments in walking and running.",
+  "year": "2016",
+  "journal": "Human movement science",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "High- (HA) and low-arched athletes (LA) experience distinct injury patterns. These injuries are the result of the interaction of structure and biomechanics. A suggested mechanism of patellofemoral pain pertains to frontal plane knee moments which may be exaggerated in LA athletes. We hypothesize that LA athletes will exhibit greater peak knee abduction moments than high-arched athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty healthy female recreational athletes (10HA and 10LA) performed five over-ground barefoot walking and five barefoot running trials at a self-selected velocity while three-dimensional kinematics and ground reaction forces were recorded. Peak knee abduction moments and time-to-peak knee abduction moments were calculated using Visual 3D."
+    },
+    {
+      "label": "RESULTS",
+      "text": "High-arched athletes had smaller peak knee abduction moments compared to low-arched athletes during walking (KAM1: p=0.019; KAM2: p=0.015) and running (p=0.010). No differences were observed in time-to-peak knee abduction moment during walking (KAM1: p=0.360; KAM2: p=0.085) or running (p=0.359)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "These findings demonstrate that foot type is associated with altered frontal plane knee kinetics which may contribute to patellofemoral pain. Future research should address the efficacy of clinical interventions including orthotics and rehabilitation programs in these athletes."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

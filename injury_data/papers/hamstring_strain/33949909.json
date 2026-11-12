@@ -1,0 +1,19 @@
+{
+  "pmid": "33949909",
+  "title": "Hamstring and gluteal activation during high-speed overground running: Impact of prior strain injury.",
+  "year": "2021",
+  "journal": "Journal of sports sciences",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This study examined the spatial patterns of hamstring and gluteal muscle activation during high-speed overground running in limbs with and without aprior hamstring strain injury. Ten active males with arecent (<18 month) unilateral biceps femoris long head (BFLH) strain injury underwent functional magnetic resonance imaging before and immediately after arepeat-sprint running protocol. Transverse relaxation (T2) time, an index of muscle activation, of the BFLH and short head (BFSH), semitendinosus (ST), semimembranosus (SM), gluteus maximus (GMAX) and medius (GMED) was assessed pre-post exercise. No significant between-limb differences in running-induced mean T2 changes were observed (p = 0.949), however, decision tree induction revealed that previously injured limbs were characterised by highly variable intramuscular activation of the ST (SD5.3). T2 times increased more for GMAX than all other muscles (all p< 0.001, d= 0.5-2.5). Further, T2 changes were greater for ST than BFSH, SM, GMED, and BFLH (all p≤ 0.001, d= 0.5-2.9); and were greater for BFLH than BFSH, SM, and GMED (all p< 0.001, d= 1.2-1.6). Athletes display heterogenous patterns of posterior thigh activation when sprinting (G<sub>MAX</sub>>ST>BF<sub>LH</sub>>G<sub>MED</sub>>SM>BF<sub>SH</sub>) and may exhibit altered intramuscular hamstring activation after returning to sport from BFLH strain injury."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

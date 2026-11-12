@@ -1,0 +1,41 @@
+{
+  "pmid": "33115342",
+  "title": "Progression of Strength, Flexibility, and Palpation Pain During Rehabilitation of Athletes With Acute Adductor Injuries: A Prospective Cohort Study.",
+  "year": "2021",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate the relationship between repeated clinical measures and the progression of rehabilitation of male athletes with acute adductor injuries."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective observational cohort study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male athletes with acute adductor injuries received a standardized criteria-based rehabilitation program with 4 repeated clinical measures during rehabilitation: the extent of palpation pain (length and width in centimeters), the bent-knee fall-out test (BKFO; in centimeters), hip abduction range of motion (in degrees), and eccentric hip adduction strength (in Newton meters per kilogram). We analyzed the association between each clinical measure and the percent progression of rehabilitation until return to sport (RTS), divided into 2 RTS milestones: (1) clinically pain free, and (2) completion of controlled sports training."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The analyses included 61 male athletes for RTS milestone 1 and 50 athletes for RTS milestone 2, and 381 to 675 tests were performed for each clinical measure. The median time to RTS milestones 1 and 2 was 15 days (interquartile range, 12-29 days) and 24 days (interquartile range, 16-34 days), respectively. Each repeated clinical measure individually explained 13% to 36% of the variance in rehabilitation progression to the RTS milestones. The extent of palpation pain explained the highest variance of the progression of rehabilitation (<i>R</i><sup>2</sup> = 0.26-0.27 for length and <i>R</i><sup>2</sup> = 0.36 for width, <i>P</i><.001). Eccentric adduction strength (<i>R</i><sup>2</sup> = 0.19-0.27, <i>P</i><.001) improved throughout rehabilitation, whereas the flexibility tests (BKFO, <i>R</i><sup>2</sup> = 0.13-0.15; <i>P</i><.001 and hip abduction range of motion, <i>R</i><sup>2</sup> = 0.19-0.21; <i>P</i><.001) returned to normal values early in rehabilitation."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Repeated measures of adductor strength, flexibility, and palpation pain provided only a rough impression of rehabilitation progress following acute adductor injuries in male athletes. These clinical measures cannot define a precise recovery point during rehabilitation. <i>J Orthop Sports Phys Ther 2021;51(3):126-134. Epub 28 Oct 2020. doi:10.2519/jospt.2021.9951</i>."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The median time to RTS milestones 1 and 2 was 15 days (interquartile range, 12-29 days) and 24 days (interquartile range, 16-34 days), respectively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

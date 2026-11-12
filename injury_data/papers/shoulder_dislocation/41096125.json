@@ -1,0 +1,20 @@
+{
+  "pmid": "41096125",
+  "title": "The Role of Early and Delayed Surgery in Return to Sport After Anterior Shoulder Dislocation-A Scoping Review.",
+  "year": "2025",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background</b>: Anterior shoulder dislocations are common in athletes, particularly in contact sports. Surgical stabilization reduces recurrence, but the optimal timing-early versus delayed-remains uncertain, especially for in-season athletes. <b>Methods</b>: A systematic search of PubMed, Embase, and Cochrane (2013-2023) yielded 945 articles; 15 met the inclusion criteria. Data were charted on procedure type, outcomes, follow-up, patient group, and timing of surgery. Search terms, e.g., 'shoulder', 'athlete', 'anterior' and 'shoulder dislocation', were used in a broad search protocol casting a wide net to maximize the likelihood of capturing all available data. <b>Results</b>: Surgery was superior to conservative care in lowering recurrence and enabling return-to-play, with arthroscopic and combined procedures most effective in high-contact sports. Conservative management carried higher instability risk. Evidence directly comparing early versus delayed surgery was scarce, and therefore inconclusive. <b>Conclusions</b>: Surgical stabilization remains the treatment with better outcomes compared to conservative treatment for young athletes. Still, athletes opt to delay surgery until postseason, with the impact of delaying surgery being unclear. Further research is needed to evaluate early versus delayed surgery regarding recurrence, joint damage, and return to sport."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

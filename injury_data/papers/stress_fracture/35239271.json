@@ -1,0 +1,19 @@
+{
+  "pmid": "35239271",
+  "title": "[Stress fracture of the calcaneus].",
+  "year": "2022",
+  "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Calcaneal stress fracture is an injury that particularly affects athletes and runners owing to repeated stress on the lower extremities without sufficient recovery time. Medial and lateral heel pain during activity raises suspicion of the injury, but radiological examinations are required for a definitive diagnosis. The treatment is usually conservative, involving rest and dietary correction, and a pharmacological or surgical approach is only relevant in some few cases."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

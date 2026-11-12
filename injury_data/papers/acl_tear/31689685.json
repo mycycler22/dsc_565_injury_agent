@@ -1,0 +1,51 @@
+{
+  "pmid": "31689685",
+  "title": "Decreased Postural Control in Patients Undergoing Anterior Cruciate Ligament Reconstruction Compared to Healthy Controls.",
+  "year": "2020",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Patients with anterior cruciate ligament (ACL) tears are likely to have deficient dynamic postural stability compared with healthy sex- and age-matched controls."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To test the hypothesis that patients undergoing ACL reconstruction have decreased dynamic postural stability compared with matched healthy controls."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective case-control study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Orthopedic sports medicine and physical therapy clinics."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "Patients aged 20 years and younger with an ACL tear scheduled for reconstruction were enrolled prospectively. Controls were recruited from local high schools and colleges via flyers."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Patients underwent double-stance dynamic postural stability testing prior to surgery, recording time to failure and dynamic motion analysis (DMA) scores. Patients were then matched with healthy controls."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Demographics, time to failure, and DMA scores were compared between groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 19 females and 12 males with ACL tears were matched with controls. Individuals with ACL tears were more active (Marx activity score: 15.7 [1.0] vs 10.8 [4.9], P < .001); had shorter times until test failure (84.4 [15.8] vs 99.5 [14.5] s, P < .001); and had higher (worse) DMA scores (627 [147] vs 481 [132], P < .001), indicating less dynamic postural stability. Six patients with ACL deficiency (1 male and 5 females) demonstrated lower (better) DMA scores than their controls, and another 7 (4 males and 3 females) were within 20% of controls."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Patients undergoing ACL reconstruction had worse global dynamic postural stability compared with well-matched controls. This may represent the effect of the ACL injury or preexisting deficits that contributed to the injury itself. These differences should be studied further to evaluate their relevance to ACL injury risk, rehabilitation, and return to play."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

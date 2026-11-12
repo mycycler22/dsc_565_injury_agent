@@ -1,0 +1,40 @@
+{
+  "pmid": "40726051",
+  "title": "Magnetic Resonance Neurography of Sports-Related Peripheral Nerve Injuries of the Shoulder Region.",
+  "year": "2026",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Although many sports-related injuries in the shoulder region are self-limiting, those involving the peripheral nerves can have a profound adverse effect on an athlete's career. While physical examination and electrodiagnostic testing are the mainstays for assessing such injuries, peripheral nerve magnetic resonance (MR) imaging, also known as MRN, can play an important and complementary role in helping further characterize injury extent and localization. This review explores the application of MRN in diagnosing and managing sports-related peripheral nerve injuries."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "A narrative overview of the literature combined with the clinical and research expertise of the authors."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Narrative review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS",
+      "text": "MRN helps localize preganglionic and postganglionic traumatic brachial plexus injuries, facilitating the planning of appropriate surgical interventions and determining the extent of nerve injury. MRN may also be used to assess thoracic outlet syndrome, commonly implicated in overhead sports activities. In cases of shoulder dislocation, MRN can depict altered nerve signal intensity and morphology of the axillary nerve that may be stretched. MRN also plays an important role in detecting and guiding the management of iatrogenic nerve-related injuries, and helping define alternative diagnoses, such as Parsonage-Turner syndrome, that might be the culprit in the postsurgical setting. Bone-sensitive and angiography MR pulse sequences can help delineate the spatial relationship among peripheral nerves, osseous structures, and blood vessels."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MRN is valuable in assessing sports-related traumatic nerve injuries of the shoulder region, as well as newly developed neurological symptoms following shoulder surgery. Specifically, MRN provides a global evaluation of regional muscles and nerves, which and can help localize injury to one or more nerve segments that may be targeted for therapeutic intervention.Strength-of-Recommendation Taxonomy (SORT):Evidence B, level 3."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

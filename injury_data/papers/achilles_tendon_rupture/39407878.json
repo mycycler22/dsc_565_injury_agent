@@ -1,0 +1,37 @@
+{
+  "pmid": "39407878",
+  "title": "The Effectiveness of the Modified Side-Locking Loop Suture Technique with Early Accelerated Rehabilitation for Acute Achilles Tendon Rupture in Athletes.",
+  "year": "2024",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background/Objectives:</b> An early accelerated rehabilitation is generally recommended after surgery for acute Achilles tendon ruptures (ATRs). The modified side-locking loop suture (MSLLS) is a surgical technique that provides high tensile strength to the repaired Achilles tendon and allows for a safe, early accelerated rehabilitation protocol without requiring postoperative immobilization. However, there are no reports investigating the clinical outcomes of the MSLLS technique with early accelerated rehabilitation for ATRs. To clarify the effectiveness of the MSLLS technique with an early accelerated rehabilitation protocol for ATR in athletes. <b>Methods:</b> We retrospectively analyzed 27 athletes (Tegner activity score ≥ 6) who underwent surgical treatment using the MSLLS technique for ATR between April 2017 and August 2022. All patients underwent an early accelerated rehabilitation protocol without immobilization. Outcome measures included the American Orthopaedic Foot and Ankle Society Ankle-Hindfoot Scale (AOFAS) score taken preoperatively and one year postoperatively, the time required to perform 20 continuous double-leg heel raises (DHR) and single-leg heel raises (SHR), the time to return to the original sport, and the presence of any complications. <b>Results:</b> The mean AOFAS score significantly improved from 37.2 ± 9.7 preoperatively to 96.3 ± 5.3 one year postoperatively. The mean time to be able to perform 20 continuous DHR and SHR was 7.7 ± 1.2 weeks and 11.3 ± 1.6 weeks, respectively. All patients were able to return to their original sport at their pre-injury level in an average of 22.7 ± 3.7 weeks without complication. <b>Conclusions:</b> The MSLLS technique in conjunction with an early accelerated rehabilitation protocol for ATR in athletes produced satisfactory results, with all patients able to return to their original sport at their preinjury level without complication."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean time to be able to perform 20 continuous DHR and SHR was 7.7 ± 1.2 weeks and 11.3 ± 1.6 weeks, respectively."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "All patients were able to return to their original sport at their pre-injury level in an average of 22.7 ± 3.7 weeks without complication. <b>Conclusions:</b> The MSLLS technique in conjunction with an early accelerated rehabilitation protocol for ATR in athletes produced satisfactory results, with all patients able to return to their original sport at their preinjury level without complication."
+    }
+  ],
+  "pmcid": "11477104",
+  "fulltext_chunks": [
+    {
+      "section": "2.2. Postoperative Rehabilitation Protocol and Follow-Ups",
+      "text": "Postoperative immobilization was not applied, and active and passive range of motion exercises of the operated ankle were immediately initiated the day after surgery. When the active dorsiflexion of the operated ankle was 0° or more, partial weight-bearing was allowed. Full weight-bearing without crutches began at 4 weeks postoperatively. Double-leg heel raises (DHR) and muscle-strengthening exercises were initiated at 6 weeks postoperatively, and single-leg heel raises (SHR) exercises were started when the patients were able to perform DHR without support. Jogging was permitted at 8 weeks postoperatively, and competition-specific exercises were allowed once the patients were able to perform 20 continuous SHR. The patients were followed up every 2 weeks until they returned to their original sport. Thereafter, they were followed up at 3-month intervals."
+    },
+    {
+      "section": "3. Results",
+      "text": "Of the 30 patients initially enrolled, two patients with less than one year of follow-up and one patient with a history of previous surgery on the affected lower extremity were excluded from the study, and the remaining 27 patients were analyzed. The 27 patients consisted of 21 male and 6 female athletes, with a mean age of 35.8 ± 10.3 years (range, 20–54 years) at the time of surgery and a mean Tegner activity score of 6.7 ± 1.1 (range, 6–9). Thirteen athletes were injured during soccer, four during basketball, three during volleyball, two during judo, two during kendo, and three during other sports. The average follow-up period was 32.4 ± 9.1 months (range, 12–60 months). Patient demographics from this study are presented in Table 1. The mean AOFAS score improved significantly from 37.2 ± 9.7 preoperatively to 96.3 ± 5.3 one year postoperatively (p < 0.001). The average time it took each patient to perform 20 continuous DHR and 20 continuous SHR was 7.7 ± 1.2 weeks and 11.3 ± 1.6 weeks, respectively. All patients were able to return to their original sport at their pre-injury level in an average of 22.7 ± 3.7 weeks. There were no reported complications. The clinical outcomes of this study are presented in Table 2."
+    }
+  ]
+}

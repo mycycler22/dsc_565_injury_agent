@@ -1,0 +1,40 @@
+{
+  "pmid": "41905494",
+  "title": "Progressive tendon-loading eccentric exercise therapy in athletes with patellar tendinopathy improves postural control, quadriceps strength, and pain: A randomized clinical trial.",
+  "year": "2026",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION/OBJECTIVES",
+      "text": "Athletes with patellar tendinopathy (PT) have impaired postural control and an increased subsequent sport injury risk of sports injuries. Improving their postural control is crucial to reduce future sports injuries. The aim of this study was to investigate the effects of a 12-week eccentric quadriceps rehabilitation program using decline squats with progressive loading on postural control in athletes with PT."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this randomized controlled trial, 40 athletes from local volleyball, basketball, and handball teams suffering from PT were randomized to either the eccentric exercise group (EEG) or the control group (CG). The EEG also followed a 12-week progressive loading eccentric rehabilitation program using decline squats. The CG continued their regular sports activities only. Static postural control was assessed using a stabilometric platform with the eyes open (EO) and closed (EC), with the mean center of pressure velocity (CoPv) serving as the outcome measure. Dynamic postural control was evaluated using the Y-Balance Test (YBT). Isometric strength of the quadriceps was measured with a dynamometer. Pain was quantified using the Victorian Institute of Sport Assessment-Patella (VISA-P) questionnaire. For YBT, maximal voluntary isometric contraction (MVIC), visual analog scale (VAS), and VISA-P outcomes, data were analyzed using repeated-measures analysis of variance (ANOVA) to examine the effects of group and session. For CoPv, repeated-measures ANOVA were used to assess the effects of group, session, and visual control."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Following 10 withdrawals, 30 participants were included in the final analyses. The CoPv decreased statistically significantly (P = 0.04) after the intervention compared to preintervention in the EEG only, mainly under the EC condition (mean difference = 2.64 mm/s) in the bipedal posture on the foam surface and in the unipedal posture on the firm surface (mean difference = 19.58 mm/s). The reach distances and the composite score (CS) of the YBT increased statistically significantly (ANT: mean difference = 9.21%; PM: mean difference = 9.59%; PL: mean difference = 9.78%; CS: mean difference = 9.52%) postintervention compared to baseline in the EEG only. For the secondary outcomes, the quadriceps strength (mean difference = 99N) and pain (mean difference = 20.24) improved statistically significantly (P < 0.01) post-intervention in the EEG only."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study highlights the effectiveness of eccentric decline squat in improving postural control in athletes with PT."
+    },
+    {
+      "label": "CLINICAL TRIAL REGISTRATION",
+      "text": "Pan-African Clinical Trials Registry: PACTR202304561563965 on 3/3/2023."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level II."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

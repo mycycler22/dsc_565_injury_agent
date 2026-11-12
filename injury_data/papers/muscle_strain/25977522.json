@@ -1,0 +1,39 @@
+{
+  "pmid": "25977522",
+  "title": "Diagnosis of Acute Groin Injuries: A Prospective Study of 110 Athletes.",
+  "year": "2015",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute groin injuries are common in high-intensity sports, but there are insufficient data on injury characteristics such as injury mechanisms and clinical and radiological findings."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe these characteristics in a cohort of athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 110 male athletes (mean age, 25.6 ± 4.7 years) with sports-related acute groin pain were prospectively included within 7 days of injury from August 2012 to April 2014. Standardized history taking, a clinical examination, magnetic resonance imaging (MRI), and/or ultrasound (US) were performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The most frequent injury mechanism in soccer was kicking (40%), and change of direction was most frequent in other sports (31%). Clinically, adductor injuries accounted for 66% of all injuries and primarily involved the adductor longus on imaging (91% US, 93% MRI). The iliopsoas and proximal rectus femoris were also frequently injured according to all examination modalities (15%-25%). Acute injury findings were negative in 22% of the MRI and 25% of the US examinations. Of the clinically diagnosed adductor injuries, 3% (US) and 6% (MRI) showed a radiological injury in a different location compared with 35% to 46% for clinically diagnosed iliopsoas and proximal rectus femoris injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Adductor injuries account for the majority of acute groin injuries. Iliopsoas and proximal rectus femoris injuries are also common. More than 1 in 5 injuries showed no imaging signs of an acute injury. Clinically diagnosed adductor injuries were often confirmed on imaging, whereas iliopsoas and rectus femoris injuries showed a different radiological injury location in more than one-third of the cases. The discrepancy between clinical and radiological findings should be considered when diagnosing acute groin injuries."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

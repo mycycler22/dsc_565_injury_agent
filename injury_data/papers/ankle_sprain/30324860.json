@@ -1,0 +1,36 @@
+{
+  "pmid": "30324860",
+  "title": "Factors influencing return to play following conservatively treated ankle sprain: a systematic review.",
+  "year": "2019",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle sprain is a very common injury, yet uncertainty exists in what is appropriate time to return to play (RTP). Such guidance may inform treatment pathways and effective practice."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine if consensus exist about potential influencing factors for time to RTP in conservatively treated ankle sprain."
+    },
+    {
+      "label": "METHODS",
+      "text": "We searched AMED, CINAHL Plus, Cochrane library, EMBASE, MEDLINE (EBSCO), SPOERDiscus, PsycINFO, PEDro, Scopus, unpublished literature and ongoing trials and Google Scholar from inception until April 2017. The quality of the eligible papers was assessed using the Downs and Black tool for randomized controlled trials (RCTs) and Critical Appraisal Skills Program (CASP) for observational studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The initial search identified 1885 articles. After screening, 14 articles were included. Of these, 11 were RCTs and 3 were prospective observational studies. Individual treatment methods that resulted in a shorter time to RTP were functional treatment, compression stockings, anteroposterior joint mobilization, hyaluronic acid injection (HA), Jump Stretch Flex Band programme (JSFB) and diclofenac medication. Prognostic factors for determining time to RTP in the included prospective observational studies were measures of Global function, SF 36PF, athlete's ambulation status, weight-bearing activity scores and self-reported athletic ability."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "To our knowledge, this is the first review to report influencing factors for time to RTP following conservatively treated ankle sprain. Findings from this review identified factors that influence time to RTP. However, caution should be taken in generalizing these results due to the heterogeneity of studies and inability to clearly define and list the criteria for safe RTP. The inclusion of factors such as age, sex, BMI, level of sport, injury related factors in future studies might help to understand the course of injury and therefore assist in constructing safer criteria."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

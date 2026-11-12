@@ -1,0 +1,31 @@
+{
+  "pmid": "33858759",
+  "title": "Current practice for safe return-to-play after lateral ankle sprain: A survey among French-speaking physicians.",
+  "year": "2022",
+  "journal": "Foot and ankle surgery : official journal of the European Society of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Recommendations are available for assessment criteria for safe return-to-play (RTP) after a lateral ankle sprain. However, their current use among physicians is unknown."
+    },
+    {
+      "label": "METHODS",
+      "text": "French-speaking physicians in Belgium, France and Switzerland were asked to complete an online survey and report their clinical assessment of selected RTP criteria."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The respondent sample (n=109) included physicians with and without Sports Medicine education, varied level of experience and proportion of athletes in their practice population. Pain was the most selected criterion for safe RTP (90% of physicians), followed by ability to engage in functional tasks (82%), functional instability (73%), range of motion (61%), proprioception (47%), mechanical instability (39%), strength (38%) and swelling (31%). A low proportion of physicians use quantitative measures to assess these criteria (between 4% and 53%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A large proportion of physicians consider the recommended criteria for RTP decisions. However, physicians do not frequently use quantitative measures."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

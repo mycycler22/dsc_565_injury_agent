@@ -1,0 +1,53 @@
+{
+  "pmid": "40309048",
+  "title": "Open Acromioclavicular Joint Reconstruction via Cerclage With Semitendinosus Allograft.",
+  "year": "2024",
+  "journal": "Video journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acromioclavicular (AC) joint separations occur most often in young male patients, commonly in athletes. Initially described by Jones et al. in 2001, reconstruction with semitendinosus allograft via cerclage has been increasingly adopted in recent times, though this not been as well described in video journals."
+    },
+    {
+      "label": "INDICATIONS",
+      "text": "Operative management of AC joint separation is classically indicated in Rockwood grade IV or higher AC joint injuries and controversial for grade III separations. One such treatment is AC joint reconstruction with semitendinosus allograft as described in this 37-year-old male patient, with a grade IIIB AC joint separation."
+    },
+    {
+      "label": "TECHNIQUE DESCRIPTION",
+      "text": "A 6-cm incision was created overlying the clavicle. No distal clavicle excision was performed, but coracoclavicular (CC) scar tissue was elevated with medial and lateral windows about the coracoid. A passing suture was placed around the coracoid, and holes were drilled in the clavicle at 17% and 31% of the total clavicle length, consistent with ratios described by Rios et al; 5-mm tunnels were created corresponding to the trapezial and conoid limbs of the CC ligaments and tapped to 5.5 mm. A semitendinosus allograft was passed and fixed with two 5.5 × 15 mm polyetheretherketone (PEEK) screws after primary fixation with a FiberTape cerclage looped around the coracoid and clavicle independently with use of a tensiometer for maximal tightening. A FiberTak was used to fix the additional graft limb at the acromion to stabilize the AC joint and reinforced on itself with 0 vicryl. The patient was placed in a sling and assigned physical therapy (PT) focusing on limiting shoulder abduction and forward flexion for the first 6 weeks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At 6 months postoperation, the patient continues to progress from PT, with low pain and near full range of motion. Although PT protocols vary widely, a full recovery is expected by 6 months, with the patient able to return to work, lifting no greater than 50 pounds."
+    },
+    {
+      "label": "DISCUSSION/CONCLUSION",
+      "text": "This study describes the treatment of an acute grade IV AC joint separation in a 37-year-old male patient. Further adoption of AC joint reconstruction utilizing a semitendinosus allograft via cerclage continues to be a viable option for patients requiring operative management."
+    },
+    {
+      "label": "PATIENT CONSENT DISCLOSURE STATEMENT",
+      "text": "The author(s) attests that consent has been obtained from any patient(s) appearing in this publication. If the individual may be identifiable, the author(s) has included a statement of release or other written form of approval from the patient(s) with this submission for publication."
+    }
+  ],
+  "injury_query": "AC joint injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Although PT protocols vary widely, a full recovery is expected by 6 months, with the patient able to return to work, lifting no greater than 50 pounds."
+    }
+  ],
+  "pmcid": "11752530",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "At 6 months postoperation, the patient continues to progress from PT, with low pain and near full range of motion. Although PT protocols vary widely, a full recovery is expected by 6 months, with the patient able to return to work, lifting no greater than 50 pounds."
+    },
+    {
+      "section": "Results",
+      "text": "Radiographs obtained following surgery showed good alignment of the CC interval and tunnel locations in accordance with the ratios described by Eisenstein and colleagues, 5 which demonstrated the importance of anatomic tunnel placement in mitigating risk of postoperative failure. In terms of pearls to keep in mind, obtain final reduction and secure fixation prior to attempting allograft placement, keep the sutures organized and maintain proper orientation of the suture card, and ensure that graft and tunnel widths are approximately the same to ensure easy passing of the graft.8,20 As for potential pitfalls, be aware of surrounding neurovascular structures while drilling and avoid forcing allograft through an underdrilled tunnel to prevent damaging it.8,20 Patients typically remain immobilized in a sling for the first 4 weeks following surgery. PT for the first 6 weeks is focused on strengthening and range of motion while maintaining limited forward flexion and shoulder abduction with the goal of eventual progression to full range of motion by 12 weeks postoperatively, and return to contact sports at 4 to 6 months.3,9"
+    }
+  ]
+}

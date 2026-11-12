@@ -1,0 +1,32 @@
+{
+  "pmid": "27218249",
+  "title": "[Extracorporeal shockwave terapy in sports and non-sports population. Preliminary results].",
+  "year": "2015",
+  "journal": "Acta ortopedica mexicana",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Inflammatory and calcifying diseases of the soft tissues are disorders having significant economical and social repercussions. They can be treated with drugs or physical therapy, and if these fail, surgery used to be the last existing therapeutic step. In recent years, a non-surgical alternative is being used to treat them, the application of extracorporeal shock waves. This work aims to verify the capacity of this therapeutic technique to diminish pain and to define its application rules."
+    },
+    {
+      "label": "METHOD",
+      "text": "We treated 18 athletes and 12 patients from normal population with heel spurs, calcified and noncalcified tendonitis and plantar fasciitis. The results were evaluated with a visual analogical scale of pain and by echography, prior to treatment and after."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The treatment was effective in 100% of the subjects."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "We conclude that once the medical therapeutic and the physical therapy measures are used up, treatment with shock waves is a good alternative to using surgery."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "18593843",
+  "title": "Achilles tendon Doppler flow may be associated with mechanical loading among active athletes.",
+  "year": "2008",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tendon Doppler flow may be associated with tendon pain in symptomatic patients, but the relationship between Doppler flow and pain among athletes who are still competing is unclear."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Among active athletes, Doppler flow may partly reflect tendon adaptation to increased mechanical load and/or asymptomatic tendinopathy."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "The Achilles tendons of 61 badminton players (24 elite, 37 recreational) were examined with gray-scale and color Doppler ultrasound. Achilles tendon pain and activity level (badminton training, badminton playing, badminton years) were measured."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Doppler flow was not associated with current Achilles tendon pain but was associated with an increased anteroposterior tendon diameter (an indicator of tendinopathy) (P = .02). Athletes who had been playing badminton for longer were more likely to have Doppler flow (P < .01), and there was a trend toward an association between a greater number of badminton playing hours per week and Doppler flow (P = .07)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Achilles tendon Doppler flow appears to be a sign of asymptomatic tendinopathy rather than pain among active athletes. The association between weekly badminton hours and badminton years and Doppler flow suggests that Doppler flow may be a response to mechanical load in this cohort."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "41143691",
+  "title": "One competitive season of injuries in professional football: a retrospective study from a Portuguese first league team.",
+  "year": "2025",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To describe the injury profile of a Portuguese professional football team over one competitive season, focusing on the type, severity, mechanism, timing, and management of time-loss injuries."
+    },
+    {
+      "label": "DESIGN",
+      "text": "This is a retrospective, observational study based on a single professional team from the Portuguese first football league. The study was conducted over one full competitive season (2024/2025)."
+    },
+    {
+      "label": "METHODS",
+      "text": "All time-loss injuries resulting in missed official matches were included. Collected data included player demographics, injury type, anatomical location, mechanism (traumatic or overuse), recurrence, time-loss duration, and the use of image-guided interventional procedures. Injuries were diagnosed using clinical evaluation and confirmed by imaging (ultrasound, X-ray or Magnetic Resonance Imaging). Descriptive statistics were used."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 26 injuries were recorded, corresponding to an overall incidence of 2.1 injuries per 1000 hours of player exposure (training: 1.5/1000 h; match: 13.5/1000 h; incidence rate ratio = 9.0). Muscle injuries of the hip and thigh were most common (<i>n</i> = 14, 53.8%), particularly hamstring (<i>n</i> = 6) and adductor strains (<i>n</i> = 4). Traumatic mechanisms accounted for 92.3% (<i>n</i> = 24) of cases, while 2 were overuse injuries. Sixteen injuries (61.5%) occurred during training and 8 (30.8%) during matches. The mean time-loss was 20.8 days, corresponding to 4.2 matches missed per injury. Injury peaks were observed in February and April. Defenders were the most affected (<i>n</i> = 15, 57.7%). Four players underwent ultrasound-guided procedures, including three platelet-rich plasma (PRP) injections and one corticosteroid plus hyaluronic acid injection, all with favorable outcomes and return to play."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This study reinforces the importance of context-specific surveillance to guide injury prevention and treatment. The predominance of traumatic training injuries and successful application of image-guided interventions highlight key considerations for elite football medical teams."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

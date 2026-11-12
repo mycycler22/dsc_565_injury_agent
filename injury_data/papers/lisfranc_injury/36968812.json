@@ -1,0 +1,35 @@
+{
+  "pmid": "36968812",
+  "title": "Patient-Reported Outcome Measures After Surgical Management of Unstable Lisfranc Injuries in Athletes.",
+  "year": "2023",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Athletes sustaining Lisfranc joint instability after a low-energy injury often undergo surgical fixation. Limited studies report validated patient-reported outcome measures (PROMs) for this specific patient population. Our purpose was to report PROMs of athletes experiencing instability after a low-energy Lisfranc injury and undergoing surgical fixation."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-nine athletes (23 competitive, 6 recreational) sustained an unstable Lisfranc injury (14 acute, 15 chronic) and met our inclusion criteria. Injuries were classified as acute if surgically managed within 6 weeks. All athletes completed validated PROMs pre- and postoperatively. The cohort underwent various open reduction internal fixation methods. We evaluated outcomes with the Foot and Ankle Ability Measure (FAAM) activities of daily living (ADL) and sports subscales."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fourteen of 29 (48%) athletes reported PROMs at ≥2 years with a median follow-up time of 44.5 months. Substantial improvement for both FAAM ADL (50% vs 93%; <i>P</i> < .001) and sports (14.1% vs 80%; <i>P</i> = .002) subscales were found, when comparing preoperative to postoperative scores at ≥2 years."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study provides outcomes information for the young athletic population that were treated operatively for low-energy Lisfranc injury with apparent joint instability. Based on the FAAM sports subscale, these patients on average improved between their 6-month evaluation and their final ≥2 years but still scored 80% of the possible 100%, which indicates continued but \"slight\" difficulty with lower extremity function."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, case series."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

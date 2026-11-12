@@ -1,0 +1,32 @@
+{
+  "pmid": "28919494",
+  "title": "Shoulder injury in water polo: A systematic review of incidence and intrinsic risk factors.",
+  "year": "2018",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Water polo is a popular water-based contact sport that involves swimming, throwing and defending. Cumulatively, these repetitive overhead activities are thought to increase the risk of shoulder injury and, subsequently to affect players' physical conditioning as well as team performance. The purpose of this review was to examine available evidence relating to shoulder injury rates and risk factors for shoulder injury in water polo."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review METHODS: CINAHL, AUSPORT, Pubmed, Pedro and SPORTDiscus databases were searched for original research papers using the predefined terms (\"water polo\") AND (shoulder OR glenohumeral* OR arm OR \"upper limb\")."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty papers were identified as suitable for inclusion. Reported shoulder injury rates varied from 24% - 51%. Shoulder injuries were more likely to become chronic compared to all other reported injuries. Injury data during the last three World Championships indicates an increasing rate of shoulder injuries-per-year with participation in aquatic sports. Risk for shoulder injury in water polo is multi-factorial. Volume of shooting, range of motion, scapular dyskinesis, strength imbalance, proprioceptive deficit and altered throwing kinematics have been proposed to be associated with an increased risk of injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although this review showed water polo to have a high propensity for shoulder injury, the descriptive nature of the included papers limited the inferences that could be drawn from the pooled literature. Future directions for research include collecting normative data for shoulder range of motion, strength ratio and proprioception with prospective analysis of these attributes in relation to injury rates and time lost."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

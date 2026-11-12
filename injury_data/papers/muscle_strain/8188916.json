@@ -1,0 +1,31 @@
+{
+  "pmid": "8188916",
+  "title": "MRI of muscle strain injuries.",
+  "year": "1994",
+  "journal": "Journal of computer assisted tomography",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of our study was to evaluate (a) the characteristics of muscle strain injuries on MRI and (b) the potential of a frequency-selective fat suppression technique for diagnosing such injuries."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Muscle strain injuries in seven athletes were examined by MRI. Spin echo sequences were obtained with and without fat suppression sequences. The absolute values of the contrast-to-noise (C/N) ratios for lesion versus muscle or fat were then compared for both types of images."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We obtained two types of characteristic findings for muscle strain. Lesions of the fascia and adjacent muscles showed a characteristic spray-like or fan-like appearance, extending longitudinally from a shared tendon to the muscle belly in five athletes. This finding was better displayed on coronal images. In contrast, lesions inside a muscle showed a diffuse and inhomogeneous appearance in two athletes. The absolute C/N ratios for lesion versus fat and lesion versus muscle were not significantly different for images with and without fat suppression according to the sign test. However, fat-suppressed images revealed subtle abnormalities that were not seen on conventional images."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Magnetic resonance can provide detailed information on muscle strain injuries, especially when coronal fat-suppressed images are obtained."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "23684371",
+  "title": "Regional bone geometry of the tibia in triathletes and stress reactions--an observational study.",
+  "year": "2014",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The association between tibial morphology and tibial stress fractures or tibial stress syndrome was examined in triathletes with an unusually high incidence of these injuries."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A cross-sectional study design examined associations between tibial geometry from MRI images and training and injury data between male and female triathletes and between stress fracture (SF) and non-stress fracture (NSF) groups."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifteen athletes (7 females, 8 males) aged 17-23 years who were currently able to train and race were recruited from the New Zealand Triathlete Elite Development Squad. Geometric measurements were taken at 5 zones along the tibia using MRI and compared between symptomatic and asymptomatic tibiae subjects."
+    },
+    {
+      "label": "RESULTS",
+      "text": "SF tibiae displayed either oedema within the cancellous bone and/or stress fracture on MRI. When collapsed across levels, symptomatic tibiae had thicker medial cortices (F1,140=9.285, p=0.003), thicker lateral cortices (F1,140=10.129, p=0.002) and thinner anterior cortices (F1,140=14.517, p=0.000) than NSF tibiae. Only medial cortex thickness in SF tibia was significantly different (F4,140=3.358, p=0.012) at different levels. Follow-up analysis showed that athletes showing oedema within the cancellous bone and/or stress fracture on MRI had, within 2 years of analysis, subsequently taken time off training and racing due a tibial stress fracture."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The thinner anterior cortex in SF tibiae is associated with a stress reaction in these triathletes."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

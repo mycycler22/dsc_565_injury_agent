@@ -1,0 +1,45 @@
+{
+  "pmid": "38435033",
+  "title": "Outcomes of the Latarjet procedure in female patients: A case series and matched-pair analysis.",
+  "year": "2024",
+  "journal": "Shoulder & elbow",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The objective of this study was to retrospectively report on the outcomes of female patients undergoing the Latarjet procedure."
+    },
+    {
+      "label": "METHODS",
+      "text": "Female patients undergoing the Latarjet procedure with minimum 1 year follow-up were identified and contacted to obtain Numeric Pain Rating Scale (NPRS), Subjective Shoulder Value (SSV), and return to sport (RTS) data. Eligible females were then matched 1:1 with a male counterpart based on laterality and age (± 3 years), and outcomes compared."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 20 female patients with a mean follow-up of 73.8 months reported postoperative NPRS and SSV scores of 2.2  ±  2.3 and 69.3  ±  22.0, respectively. Of the nine athletes, 3 (33%) reported a successful RTS at a mean of 9 months. Four patients (20.0%) required reoperation at a mean of 27.1 months. The matched analysis demonstrated similar NPRS scores between male and female patients and a trend towards lower SSV scores and rates of RTS."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "At mid-term follow-up female patients reported pain levels similar to female-specific literature reports, but overall low subjective shoulder function and RTS. Compared to propensity-matched males, females reported similar levels of pain, lower shoulder function, and lower rates of RTS, however, differences did not reach statistical significance."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV, retrospective case series."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Of the nine athletes, 3 (33%) reported a successful RTS at a mean of 9 months."
+    }
+  ],
+  "pmcid": "10902412",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "A total of 20 female patients with a mean follow-up of 73.8 months reported postoperative NPRS and SSV scores of 2.2 ± 2.3 and 69.3 ± 22.0, respectively. Of the nine athletes, 3 (33%) reported a successful RTS at a mean of 9 months. Four patients (20.0%) required reoperation at a mean of 27.1 months. The matched analysis demonstrated similar NPRS scores between male and female patients and a trend towards lower SSV scores and rates of RTS."
+    }
+  ]
+}

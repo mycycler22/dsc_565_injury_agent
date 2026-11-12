@@ -1,0 +1,36 @@
+{
+  "pmid": "38616585",
+  "title": "Epidemiology of Stress Fracture in Police Trainees.",
+  "year": "2024",
+  "journal": "Journal of Nepal Health Research Council",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Military recruits and athletes have high occurrence of stress fractures, with very high incidence among military recruits. Symptomatic stress fractures can be disabling in some people. This study aims at identifying pattern and distribution of such fractures in Nepal Police trainee and assess the risk factors and demographics that may help to develop the local guidelines."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study analysed 65 police trainees who presented to the orthopaedic Out Patient Department at Nepal Police and Province Police Hospital diagnosed as a case of stress fracture from 29 December, 2020 to 29 December, 2021. Ethical approval was obtained and different variables analysed were age, sex, Body Mass Index, location of fracture, duration of pain, method of treatment, time to heal the fracture and time to pain free mobilisation of patient."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 65 trainees with 86 sites of fracture at different bones with 50.8% (33) of male population. The majority of fracture was located at tibia (58.1%) followed by pubic rami (33.7%) with potentially debilitating fracture neck of femur seen in 4.6% subjects. Mean duration of pain was 20.7±14.2 days with mean time for pain free mobilisation 42.2±17.7 days after presentation. 96.5% of those recovered with conservative treatment (activity restriction or cast)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The location of stress fracture depends upon the type of training or activities. Modification of activities in early phase of training with early visit for medical care in case of trainees with increasing pain may decrease morbidities and complications requiring operative treatment."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mean duration of pain was 20.7±14.2 days with mean time for pain free mobilisation 42.2±17.7 days after presentation. 96.5% of those recovered with conservative treatment (activity restriction or cast)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "28972820",
+  "title": "Injuries in Cricket.",
+  "year": "2018",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Cricket is a popular global sport that requires a combination of physical fitness, skill, and strategy. Although a noncontact sport, overuse and impact injuries are common since players engage in a wide range of physical activities, including running, throwing, batting, bowling, catching, and diving. Significant or match time-loss injuries are defined as those that either prevent a player from being fully available for selection in a major match, or during a major match, cause a player to be unable to bat, bowl, or keep wicket when required by either the rules or the team's captain. This review describes the various region-wise injuries sustained in cricket along with their epidemiology, biomechanics, treatment, and prevention."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "Data were collected from peer-reviewed articles (obtained via PubMed search) published through November 2016 that involved the medical, biomechanical, and epidemiological aspects of cricket injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Clinical review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Cricket was one of the first sports to publish recommended methods for injury surveillance in 2005 from England, South Africa, Australia, the West Indies, and India. While the incidence of injuries is about the same, the prevalence of injuries has increased due to game format changes, increasing number of matches played, and decreased rest between matches. Bowling (41.3%), fielding, and wicket keeping (28.6%) account for most injuries. Acute injuries are most common (64%-76%), followed by acute-on-chronic (16%-22.8%) and chronic ones (8%-22%). The most common modern-day cricket injury is hamstring strain, and the most severe is lumbar stress fracture in young fast bowlers."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "With improved understanding of the scientific and medical aspects of cricket, along with advances in surgical and nonsurgical treatment techniques, the time to return to play has shortened considerably. While the prevalence of cricket injuries has increased, their severity has decreased over the past decades."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "26674136",
+  "title": "RELIABILITY OF TWO METHODS OF CLINICAL EXAMINATION OF THE FLEXIBILITY OF THE HIP ADDUCTOR MUSCLES.",
+  "year": "2015",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "An inadequate level of flexibility of the adductor muscles is one of the most critical risk factors for chronic groin pain and strains. However, measurement methods of adductor muscle flexibility are not well defined."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the inter-session reliability of the biarticular and monoarticular adductor muscle flexibility measures obtained from passive hip abduction with the knee flexed over the edge of the plinth test (PHA) and the passive hip abduction test at 90° of hip flexion (PHA90°)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Clinical Measurement Reliability study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifty healthy recreational athletes participated in this study. All participants performed the PHA and PHA90° on four different occasions, with a two-week interval between testing sessions. Reliability was examined through the change in the mean between consecutive pairs of testing sessions (ChM), standard error of measurement expressed in absolute values (SEM) and as a percentage of the mean score (%SEM), minimal detectable change at 95% confidence interval (MDC95), and intraclass correlation coefficients (ICC2,k)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The findings showed negligible or trivial ChM values for the two adductor flexibility measures analyzed (<2°). Furthermore, the SEM and MDC95 were 2.1° and 5.9° and 2.2° and 6.2° for the measures obtained from the PHA and PHA90°, respectively, with %SEM scores lower than 5% and ICC scores higher than 0.90."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The findings from this study suggest that the adductor muscle flexibility measures analyzed have good to excellent inter-session reliability in recreational athletes. Thus, clinicians can be 95% confident that an observed change between two measures larger than 5.9° and 6.2° for the flexibility measures obtained from the PHA and PHA90°, respectively, would indicate a real change in muscle flexibility."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "2."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

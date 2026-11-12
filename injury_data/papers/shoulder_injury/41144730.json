@@ -1,0 +1,36 @@
+{
+  "pmid": "41144730",
+  "title": "Objective clinical tests to inform decision-making prior to return to sport in athletes with shoulder instability: A scoping review.",
+  "year": "2026",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "This review systematically maps the existing research on objective return to sport criteria for shoulder injuries, with a focus on clinical tests that inform decision-making."
+    },
+    {
+      "label": "METHODS",
+      "text": "A scoping review was performed. The following databases were searched from inception up to July 2025: Cochrane Library, Embase, Medline, PEDRo, Cinahl and AMED. All studies, regardless of design, which assessed any kind of shoulder function with regard to return to sport decision-making in individuals participating in sports and presented with a shoulder injury were included. The result was qualitatively presented in free text, tables and figures."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eleven studies were identified that reported objective shoulder tests prior to return to sport in athletes after shoulder instability surgery. The tests evaluated various parameters, including range of motion, muscular strength, muscular endurance, power, plyometrics, movement quality and trunk control. The passing rates of isokinetic shoulder strength tests ranged from 40% to 70%, the isometric shoulder strength tests from 28% to 100%, for shoulder endurance tests from 70% to 81% and shoulder performance tests from 29% to 100%. These assessments were conducted within a time frame of 4-21 months following surgery. The rate of subsequent shoulder instability or re-dislocation ranged from 5% to 10% after returning to sport."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Passing rates for objective shoulder tests, including muscular strength and endurance, as well as performance tests, varied widely, with re-dislocation rates between 5% and 10% after returning to sport. However, the predominance of case series limits the ability to draw definitive conclusions about the effectiveness of these tests in reducing the risk of subsequent shoulder instability."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, scoping review of level III."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

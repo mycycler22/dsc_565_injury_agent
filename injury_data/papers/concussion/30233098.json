@@ -1,0 +1,24 @@
+{
+  "pmid": "30233098",
+  "title": "\"Put Me Back In, Coach!\" Concussion and Return to Play.",
+  "year": "2017",
+  "journal": "Missouri medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussion is a mild traumatic brain injury (TBI) sustained as a result of blunt force or acceleration/deceleration injury to the head.1,2 Approximately 1.4-3.8 million concussions occur each year in the United States, making the understanding of concussion pathophysiology and how it can impact one's gross function an essential part of a physician's toolbelt.3,4 It is important to recognize that the biochemical changes of concussion that result in functional cognitive deficits and compromised synaptic plasticity are greatest at three days and still active more than 15 days post-injury.6,7 Therefore, prompt diagnosis of concussion and subsequent proper treatment can help promote adequate healing and prevent synergistic effects of second-impact syndrome. Recognition of the common signs and symptoms of concussion combined with pertinent physical examination findings, concussion assessment tools aid with proper identification and triage of patients. Consensus guidelines have delineated return to play protocol and treatment regimen for these patients and athletes. The goal of treatment for concussion is important to limit long-term deleterious effects that can result from single or multiple injuries to the brain."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Concussion is a mild traumatic brain injury (TBI) sustained as a result of blunt force or acceleration/deceleration injury to the head.1,2 Approximately 1.4-3.8 million concussions occur each year in the United States, making the understanding of concussion pathophysiology and how it can impact one's gross function an essential part of a physician's toolbelt.3,4 It is important to recognize that the biochemical changes of concussion that result in functional cognitive deficits and compromised synaptic plasticity are greatest at three days and still active more than 15 days post-injury.6,7 Therefore, prompt diagnosis of concussion and subsequent proper treatment can help promote adequate healing and prevent synergistic effects of second-impact syndrome."
+    }
+  ],
+  "pmcid": "6143567",
+  "fulltext_chunks": []
+}

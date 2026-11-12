@@ -1,0 +1,35 @@
+{
+  "pmid": "19108813",
+  "title": "Retrospective case evaluation of gender differences in sports injuries in a Japanese sports medicine clinic.",
+  "year": "2008",
+  "journal": "Gender medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Although both gender- and sports-specific injuries exist among athletes, gender differences in the types of injuries caused by sports activities, except for anterior cruciate ligament (ACL) injury and anterior knee pain, are not well established."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "An observational study with a retrospective case-series design was conducted to investigate gender-specific differences in the types of injuries sustained while engaging in sports activities common to both males and females."
+    },
+    {
+      "label": "METHODS",
+      "text": "We analyzed injuries sustained during sports activities including basketball, volleyball, tennis, skiing, track and field, and swimming, using data on age, sex, sports activities, activity levels, and sports injuries that had been computerized at our sports medicine (orthopedics) clinic. Inclusion criteria were sports activities that had a record of >100 injuries in total and athletes aged <50 years who were engaging in only 1 sports activity. We determined the absolute number of patients in each category and their percentage (proportion) of our cohort. The proportions of common injuries caused by sports activities were investigated, and gender-specific differences in the types of common injuries caused by sports activities were clarified. The Fisher exact test was used to determine the significance (P < 0.01) of the gender-specific differences in the types of sports injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "According to our database, during the 14-year period between October 1992 and December 2006, a total of 2,989 athletes (1,624 males and 1,365 females) aged <50 years who engaged in 1 of the 6 sports activities described consulted our sports medicine clinic. The most common sports injuries were ACL injury (14.3%) and knee pain (13.7%), followed by ankle sprain (9.4%), lumbar disc disease (7.0%), meniscus injury (5.1%), stress fracture (2.9%), low back pain (2.5%), patellar tendinitis (2.1%), injury of the medial collateral ligament of the knee (2.0%), lumbar spondylolysis (1.7%), and muscle strain (1.5%). Among these 11 types of sports injuries, a significantly higher proportion of females who engaged in basketball (24.4% vs 10.5%), volleyball (20.5% vs 4.5%), or skiing (41.4% vs 26.5%) presented with an ACL injury, compared with their male counterparts (all, P < 0.001). There was also a significantly higher proportion of females than of males among the track and field athletes who presented with stress fractures (18.7% vs 3.9%; P < 0.001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The findings of this retrospective study suggest that there are gender-specific differences in the types of injuries sustained during sports activities."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "42969581",
+  "title": "Tibial bone stress injury-a common cause of leg pain in sports.",
+  "year": "2026",
+  "journal": "British medical bulletin",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Tibial bone stress injuries (TBSI), encompassing tibial stress fractures (TSF) and medial tibial stress syndrome (MTSS), represent a significant spectrum of overuse pathology in active individuals, accounting for 22%-46% of sports-related stress injuries. These conditions feature distinct pathophysiological mechanisms and management pathways requiring precise diagnostic differentiation."
+    },
+    {
+      "label": "SOURCES OF DATA",
+      "text": "Narrative review of primary and secondary literature sourced from PubMed and relevant clinical databases."
+    },
+    {
+      "label": "AREAS OF AGREEMENT",
+      "text": "Both conditions result from repetitive tibial loading without adequate rest and share overlapping risk factors. Management is primarily non-operative, with activity modification followed by graded rehabilitation. Magnetic resonance imaging (MRI) is the definitive imaging modality for TSF and is valuable in excluding differential diagnoses in MTSS."
+    },
+    {
+      "label": "AREAS OF CONTROVERSY",
+      "text": "The utility of the Fredericson MRI grading system is debated. Certain intermediate grades may be clinically indistinguishable, and its prognostic value in paediatric populations is questioned. Furthermore, heterogeneous nomenclature used interchangeably impedes clear clinical communication."
+    },
+    {
+      "label": "GROWING POINTS",
+      "text": "Whether MTSS and TSF represent a shared pathological continuum or distinct clinical entities with overlapping risk factors remains unresolved, with histological evidence suggesting divergent pathophysiological mechanisms. Multicentre validation of MRI grading against functional outcomes and longitudinal studies evaluating early biomechanical interventions are key research priorities."
+    },
+    {
+      "label": "AREAS TIMELY FOR DEVELOPING RESEARCH",
+      "text": "Generalizability of evidence is limited by homogenous study populations and the absence of a universal return-to-sport definition. Priority must be given to establishing multidisciplinary consensus on nomenclature, diagnostic imaging thresholds, and risk-stratified rehabilitation protocols tailored to injury severity and comorbidities."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

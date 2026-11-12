@@ -1,0 +1,44 @@
+{
+  "pmid": "20063110",
+  "title": "Minimal Repair technique of sportsmen's groin: an innovative open-suture repair to treat chronic inguinal pain.",
+  "year": "2010",
+  "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sportsmen's groin, also known as sportsman's hernia, sports hernia, (athletic) pubalgia or athletic hernia, especially in professional sportsmen, is a difficult clinical problem, and may place an athlete's career at risk. It presents with acute or chronic inguinal pain exacerbated with physical activity. So far, the diagnostic criteria and treatment modalities are inconsistently described and there is no evidence-based consensus available to guide decision-making."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "We developed an innovative open suture repair, called the \"Minimal Repair\" technique. With this technique, the defect of the posterior wall of the inguinal canal is not enlarged, the suture is nearly tension-free and the patient can, therefore, return to full training and athletic activity within the shortest time."
+    },
+    {
+      "label": "METHODS",
+      "text": "In September 2008, we started a prospective cohort study to evaluate the outcome of patients undergoing operations under the Minimal Repair technique for sportsmen's groin. Between September 2008 and May 2009, 129 patients were included in the study and were questioned at entry and 4 weeks after the operation. The primary endpoints were time to complete freedom of pain and time to resumption of exercise and sport. Here, we present the results observed 4 weeks after operation under the Minimal Repair technique."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At enrollment, all but three patients reported a significant restriction of physical activities due to severe groin pain (median duration of pain 142 days, interquartile range [IQR] 57-330 days). Four weeks after operation under the Minimal Repair technique, 96.1% had resumed training (median 7 days, IQR 5-14 days). At this time, there was a full return to pre-injury sports activity levels in 75.8% (median 18.5 days, IQR 11.75-28 days). Focusing on the group of professional athletes, 83.7% had returned to unrestricted sports activities (median 14 days, IQR 10-28 days). In this subgroup, the median time to complete pain relief was 14 days (IQR 6-28 days)."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "The surgical treatment of sportsmen's groin is common practice when non-surgical treatment has failed over a period of 6 weeks or more. However, there is no evidence-based data on the type of treatment. A wide variety of techniques with and without mesh are being performed. So far, laparoscopic repair is believed to enable a faster recovery and return to unrestricted sports activities. Our results, however, show that the outcome after operation under the Minimal Repair technique is very fast, without exposing the patient to possible risks related to mesh insertion or laparoscopic procedures."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The Minimal Repair technique is an effective and safe way to treat sportsmen's groin."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "In this subgroup, the median time to complete pain relief was 14 days (IQR 6-28 days)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

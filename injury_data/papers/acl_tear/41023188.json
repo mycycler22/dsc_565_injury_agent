@@ -1,0 +1,19 @@
+{
+  "pmid": "41023188",
+  "title": "Classification of anterior cruciate ligament tears in knee magnetic resonance images using pre-trained model and custom model.",
+  "year": "2025",
+  "journal": "Scientific reports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "An anterior cruciate ligament (ACL) tear is a prevalent knee injury among athletes, and aged people with osteoporosis are at increased risk for it. For early detection and treatment, precise and rapid identification of ACL tears is significant. A fully automated system that can identify ACL tear is necessary to aid healthcare providers in determining the nature of injuries detected on Magnetic Resonance Imaging (MRI) scans. Two Convolutional Neural Networks (CNN), the pretrained model and the CustomNet model are trained and tested using 581 MRI scans of the knee. Feature extraction is done with the pre-trained ResNet-18 model, and the ISOMAP algorithm is used in the CustomNet model. Linear and nonlinear dimensionality reduction techniques are employed to extract the needed features from the image. For the ResNet-18 model, the accuracy rate ranges between 86% and 92% for various data partitions. After performing PCA, the improved classification rate ranges between 92% and 96.2%. The CustomNet model's accuracy rate ranges from 40 to 70%, 70-90%, 60-70%, and 50-70% for different hyperparameter ensembles. Five-fold cross validation is implemented in CustomNet and it achieved an overall accuracy of 85.6%. These two models demonstrate superior efficiency and accuracy in classifying normal and ACL torn Knee MR images."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

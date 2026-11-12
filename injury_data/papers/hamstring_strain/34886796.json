@@ -1,0 +1,35 @@
+{
+  "pmid": "34886796",
+  "title": "Spatial frequency analysis detects altered tissue organization following hamstring strain injury at time of injury but not return to sport.",
+  "year": "2021",
+  "journal": "BMC medical imaging",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injury (HSI) diagnosis is often corroborated using ultrasound. Spatial frequency analysis (SFA) is a quantitative ultrasound method that has proven useful in characterizing altered tissue organization. The purpose of this study was to determine changes in muscular tissue organization using SFA following HSI."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ultrasound B-mode images were captured at time of injury (TOI) and return to sport (RTS) in collegiate athletes who sustained an HSI. Spatial frequency parameters extracted from two-dimensional Fourier Transforms in user-defined regions of interest (ROI) were analyzed. Separate ROIs encompassed injured and adjacent tissue within the same image of the injured limb and mirrored locations in the contralateral limb at TOI. The ROIs for RTS images were drawn to correspond to the injury-matched location determined from TOI imaging. Peak spatial frequency radius (PSFR) and the fascicular banded pattern relative to image background (Mmax%) were compared between injured and adjacent portions within the same image with separate paired t-tests. Within-image differences of SFA parameters in the injured limb were calculated and compared between TOI and RTS with Wilcoxon rank sum tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Within the injured limb at TOI, PSFR differences in injured and healthy regions did not strictly meet statistical significance (p = 0.06), while Mmax% was different between regions (p < 0.001). No differences were observed between regions in the contralateral limb at TOI (PSFR, p = 0.16; Mmax%, p = 0.30). Significant within-image differences in PSFR (p = 0.03) and Mmax% (p = 0.04) at RTS were detected relative to TOI."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "These findings are a first step in determining the usefulness of SFA in muscle injury characterization and provide quantitative assessment of both fascicular disruption and edema presence in acute HSI."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

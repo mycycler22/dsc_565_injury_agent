@@ -1,0 +1,35 @@
+{
+  "pmid": "34737655",
+  "title": "Medial Meniscus Repair in Major League Soccer Players Results in Decreased Performance Metrics for One Year and Shortened Career Longevity.",
+  "year": "2021",
+  "journal": "Open access journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The rate of medial meniscus tear (MMT) in professional soccer players is high. There are no studies on objective performance metrics following medial meniscus repair in these athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "Examine the impact of MMT treated with surgical repair on performance metrics and career longevity in Major League Soccer (MLS) players."
+    },
+    {
+      "label": "METHODS",
+      "text": "MLS players who sustained an MMT between 1993 and 2019 were identified via publicly available databases. These players were each matched to 2 uninjured controls by debut date, experience, position, race, ethnicity, height, weight, and body mass index (BMI). Demographic data and performance metrics were then collected for both groups. Matches, minutes, goals, assists, shots, shots on target, duels, and duel percentage won are collectively referred to as performance metrics. Statistical analysis compared demographic distributions and performance metrics between the MMT and control groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-three MLS players who had undergone medial meniscus repair were identified and matched to 66 controls. All performance metrics decreased in the MMT group when compared to their controls in the first year after injury. This difference remained significant even when the performance metrics were normalized with respect to time, indicating that the injured players both played less and were not as productive. At 2 years after injury, performance metrics returned to pre-injury levels and were equivalent to those of the healthy controls. Career length was found to be significantly different between the two groups at 8.81 ± 3.9 years for the MMT group and 12.63 ± 3.51 years for the control group (<i>P</i> < 0.001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MLS players undergoing medial meniscus repair had decreased performance metrics in the first year after injury but returned to baseline levels of play at the second year after injury. Their careers were also shorter than those of their uninjured controls."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "39307600",
+  "title": "The surveillance and assessment of acute injuries in different age categories in national wrestling championships.",
+  "year": "2025",
+  "journal": "Chinese journal of traumatology = Zhonghua chuang shang za zhi",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study is to surveil the injuries in wrestling according to the different age categories and wrestling styles throughout the competition season."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study was designed as a descriptive study. The study was conducted during the wrestling competition season in 2023 (from January 2023 to July 2023), which includes 5 different age categories: U-15, U-17, U-20, U-23, and seniors, along with the Turkey National Wrestling Championships. The data of injuries was recorded immediately after the acute injury was treated by the medical expert during the competitions and evaluated according to the parameters that were obtained. In the statistical analysis, the frequency and percentage values were presented as descriptive statistics and the Chi-square test was used."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The study incorporated a total of 6214 wrestlers and a total of 7151 wrestling bouts were performed during these competitions. The analyses indicated that the rate of injury incidence was 42.65‰ in all wrestling styles. When taking account of the injured body parts in all wrestlers' exposures, the occurrence of injuries to the head-face, neck, trunk, upper extremity, and lower extremity, rates of 17.6‰, 1.3‰, 3.6‰, 13.5‰, and 6.6‰, respectively, were observed. According to the pre-diagnosis based on freestyle, Greco-Roman, and female wrestling styles, injuries with bleeding (39.6%, 46.3%, and 14.6%, respectively) and muscle strain (37.9%, 28.7 %, and 52.6%, respectively) most often occurred."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The study findings indicate that most cases of injury appeared to occur in bleeding and muscle strain in all wrestling styles. We suggest that medical experts should set up their health equipment with consideration to the injuries that occur most frequently."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "30202125",
+  "title": "Prognostic value of focal scintigraphic findings in clinically suspected cases of tibial stress fracture.",
+  "year": "2018",
+  "journal": "Radiologia brasileira",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate the correlation between tracer uptake on bone scintigraphy and recovery time in patients with tibial stress fracture."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "We evaluated two groups of athletes: those with clinical suspicion and a radiological diagnosis of tibial stress fracture (TSF group, n = 21); and those with no symptoms or evidence of fracture (control group, n = 10). All subjects underwent bone scintigraphy and magnetic resonance imaging with a maximum interval of 7 days between the assessments."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Using the region of interest technique, we obtained a quantitative evaluation index, comparing affected and unaffected legs. The mean uptake of <sup>99m</sup>Tc-MDP was significantly higher in the TSF group than in the control group (2.54 ± 0.77 vs. 1.05 ± 0.11; <i>p</i> < 0.001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In our sample of athletes, determining the bone scintigraphy uptake indices provided an objective method to estimate the appropriate recovery time after a tibial stress fracture."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

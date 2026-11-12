@@ -1,0 +1,33 @@
+{
+  "pmid": "39485043",
+  "title": "Return to Play Guidelines in Pediatric Concussion: A Systematic Review of Current Literature.",
+  "year": "2025",
+  "journal": "The Journal of craniofacial surgery",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Pediatric concussions, particularly in youth sports, are a significant public health concern, with up to 18% of children experiencing one by age 17. Return-to-play (RTP) guidelines aim to protect athletes from the adverse effects of repeated injuries, but these protocols vary widely based on factors such as age, sport, and geography. This review synthesizes current literature on RTP guidelines for pediatric concussions to provide evidence-based recommendations."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search of PubMed was conducted using Medical Subject Headings (MeSH) terms \"return to play,\" \"pediatric concussion,\" and \"mild traumatic brain injury.\" Studies published between January 2000 and December 2023 were included if they focused on RTP protocols for children aged 5 to 17. After screening 60 articles, 45 were selected for review. Study quality was assessed using the Newcastle-Ottawa Scale and Cochrane Risk of Bias Tool."
+    },
+    {
+      "label": "RESULTS",
+      "text": "RTP protocols showed significant variability influenced by age, gender, and sport type. Common themes included initial rest followed by a gradual return to activity. Female athletes generally required longer recovery periods. Multidisciplinary care and early therapeutic interventions, such as vestibular therapy, were associated with better outcomes and faster recovery."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There is a need for standardized, evidence-based RTP guidelines to address inconsistencies in concussion management. Future research should focus on creating universally applicable protocols, with attention to gender, sport-specific factors, and early intervention to improve recovery outcomes for young athletes."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

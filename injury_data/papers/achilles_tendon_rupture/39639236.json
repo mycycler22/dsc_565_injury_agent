@@ -1,0 +1,35 @@
+{
+  "pmid": "39639236",
+  "title": "Correlation between MRI findings and functional outcomes in patients with calf muscle strain injuries: a retrospective study on 78 patients.",
+  "year": "2024",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Calf muscle strain injuries (CMSI), also known as \"tennis leg,\" are frequently observed in middle-aged and physically active people, including non-professional athletes. While magnetic resonance imaging (MRI) is frequently used to assess the extent of these injuries, the relationship between MRI findings and long-term functional outcomes in non-athletic populations remains underexplored. This study aimed to investigate the correlation between MRI-detected injury severity and functional outcomes using the Achilles Tendon Rupture Score (ATRS) and the Tegner Activity Scale (TAS)."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was conducted on 78 non-athletic patients diagnosed with CMSI and were followed for an average of 25.6 ± 16.1 months. Injury severity was classified into three grades: Grade 1 (edema without architectural disruption), Grade 2 (partial muscle disruption with hematoma), and Grade 3 (complete muscle disruption or tendon detachment) based on MRI examination. The functional outcomes were assessed using the ATRS and TAS. A simple linear regression analysis was conducted to assess the impact of demographic variables and MRI findings on ATRS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean ATRS at the final follow-up was 92.9 ± 10.6, with 75.6% of patients achieving an excellent outcome. Despite the excellent ATRS scores, a notable reduction in TAS was evident from the pre-injury assessment (4.4 ± 1.2) to the final follow-up (3.8 ± 1.3; p < 0.001). Moreover, 44.9% of patients did not resume their pre-injury activity levels. The regression analysis demonstrated no statistically significant correlation between MRI-detected injury severity, demographic factors (age, gender, BMI), and ATRS outcomes (R² = 0.094, adjusted R² = -0.011)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MRI-detected injury severity does not significantly predict long-term functional outcomes in patients with CMSI, even though most patients achieved excellent ATRS scores. However, nearly half of the patients did not return to their pre-injury activity levels. These findings suggest that additional factors might influence recovery, and further research is needed to elucidate these factors in non-athletic patients."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, Retrospective case series."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

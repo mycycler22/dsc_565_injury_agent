@@ -1,0 +1,39 @@
+{
+  "pmid": "35417438",
+  "title": "Altered Cervical Spine Position Results in Decreased Shoulder Rotation Strength.",
+  "year": "2022",
+  "journal": "Clinical orthopaedics and related research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Strength testing of shoulder rotation is commonly used in clinical examinations of the shoulder. People prone to shoulder injury, such as overhead athletes and manual trade workers, place their shoulders under tremendous amounts of stress when the cervical spine is in nonneutral positions. If these nonneutral cervical spine positions result in decreased shoulder strength, it may help explain the etiology of the high prevalence of shoulder injuries in these populations. Given standard clinical strength assessments are performed with a neutral cervical spine, an investigation into the effects of cervical spine rotation is warranted."
+    },
+    {
+      "label": "QUESTIONS/PURPOSES",
+      "text": "We sought to compare isokinetic shoulder rotation strength while in a neutral position with rotated cervical spine positions, specifically (1) with the cervical spine rotated contralaterally with the shoulder elevated in the frontal plane and (2) with the cervical spine rotated ipsilaterally and the shoulder elevated in the scapular plane."
+    },
+    {
+      "label": "METHODS",
+      "text": "A convenience sample of 52 individuals (height 170 ± 10 cm; weight 73 ± 18 kg, age 21 ± 2 years; 18 males, 34 females), without shoulder or cervical spine pathology participated in this study. Participants were screened for eligibility via questionnaire. Concentric shoulder internal and external rotation torque was measured through a 90° arc on an isokinetic dynamometer with the shoulder elevated 90° in the frontal plane, and again 45° anterior to the frontal plane (scapular plane). Two repetitions were performed in a single testing session with the participant's cervical spine in neutral in both planes, maximally rotated contralaterally in the frontal plane, and maximally rotated ipsilaterally with the shoulder in the scapular plane; the second repetition was used for analysis. The testing order was randomized. Data were imported into a platform for statistical parametric mapping analysis (a technique that allows data from the entire arc of motion to be compared with data from another arc to identify differences in the wave form) to compare strength between positions throughout 90° arc of motion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Rotating the cervical spine contralaterally with the shoulder in the frontal plane resulted in a decrease in external (2.24 Nm or 12% average difference; p < 0.001) and internal (2.22 Nm or a 6% average difference; p = 0.02) rotation strength with the forearm within 15° and 20° of the vertical position. Rotating the cervical spine ipsilaterally with the shoulder in the scapular plane resulted in a decrease in external rotation strength (1.27 Nm or a 6% average difference; p < 0.001) throughout nearly all the motion, with peaks approximately 20° and 60° from the horizontal position, and internal rotation strength (1.78 Nm or 5% average difference; p < 0.001) the last 60° towards the horizontal position."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patient populations who require strenuous use of their shoulders in altered cervical spine positions may be at increased risk for injury from decreased shoulder rotator strength."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Clinicians should assess shoulder strength in the position the patient requires to use their shoulder because cervical spine position may cause weakness that would be missed in standard testing positions."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

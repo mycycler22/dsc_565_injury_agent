@@ -1,0 +1,31 @@
+{
+  "pmid": "34170794",
+  "title": "Sport-related injuries in Iranian basketball players: evidence from a retrospective epidemiologic study (2019-20).",
+  "year": "2022",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Basketball is a contact sport with complex movements that include jumps, turns, and changes in direction, which cause frequent musculoskeletal injuries in all regions of the body. Also, injury patterns among athletes, particularly basketball players, continue to evolve and change. The current retrospective epidemiologic study aimed to investigate the incidence, severity, and sports-related risk factors of injuries in Iranian basketball players from 2019 to 2020."
+    },
+    {
+      "label": "METHODS",
+      "text": "Using the Information Retrospective Injury Questionnaire (online version), data on basketball-related injuries were collected retrospectively for 204 basketball players of the Iranian league (professional super league and first-division league) during the 2019/2020 season."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 628 injuries were reported, which was equivalent to 6.07 injuries/1000 h. The ankle was the location of most injuries (n = 116 or 26.9%; overuse injuries (n = 40 or 20.3%)), followed by lower back/pelvis injuries (acute injury n = 67 (15.5%) and overuse injuries (n = 23; 11.6%)), knee injuries (acute injury n = 62 (15.7%) and overuse injuries (n = 31 (14.3%)), wrist/fingers injuries (acute injury (n = 85 (13.4%)) and overuse injuries (n = 8; 4.0%)), and shin/calf injuries (acute injury (n = 35; 8.1%) and overuse injuries (n = 28; 14.2%)). Mean time loss in first-division league players was much higher than professional super league players (7.84/1000 h exposure vs. 4.30/1000 h exposure), respectively."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The ankle sprain was the most common injury in our study. Lower back/pelvis injuries had the longest time loss. Injury was more frequent among first-division league players than those in the professional super league. Injuries during practice were notably more frequent than during competition with different patterns of injuries."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

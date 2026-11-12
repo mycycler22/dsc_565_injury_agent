@@ -1,0 +1,57 @@
+{
+  "pmid": "40919406",
+  "title": "What is a recurrence? The onset, frequency and time loss impact of recurrent calf muscle strain injuries in elite male Australian football players over a decade.",
+  "year": "2025",
+  "journal": "BMJ open sport & exercise medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To evaluate the onset, frequency and time loss impact of recurrent calf muscle strain injuries in elite male Australian football players over a decade. To explore how outcomes are affected by alternative recurrence definitions."
+    },
+    {
+      "label": "METHOD",
+      "text": "Calf muscle strain injuries were reported to the Soft Tissue Injury Registry of the Australian Football League (2014-2023). Cases were categorised as index versus recurrent injuries. Alternate recurrence definitions varied based on: (1) timing (ie, subsequent injuries occurring before or after full recovery (a return to full training) and (2) location (ie, subsequent injuries involving the same side but not necessarily same muscle vs only those confirmed to involve the same muscle)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "563 injuries in 359 players were evaluated. Recurrences resulted in ≥2153 total days lost over 10 years and ≥35.6 days lost on average per injury. Recurrence frequencies within 2 years (13%-21.3%), within the same season (7.5%-13.9%) and within 2 months (2.9%-7.3%) varied depending on the definition. 20% of all subsequent injuries occurred before full recovery, and these injuries took on average 46.7±25.6 days to return to play."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Recurrent calf muscle strain injuries in elite male Australian football players commonly have prolonged time loss, irrespective of timing or location. A 2-year recurrence susceptibility is consistent across onsets, and cases that fail early can have a large impact when accounted for. We need to 'talk the same language' in research and practice to better understand and prevent recurrences for a given type of injury across different sports and sporting levels."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Recurrences resulted in ≥2153 total days lost over 10 years and ≥35.6 days lost on average per injury."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Recurrence frequencies within 2 years (13%-21.3%), within the same season (7.5%-13.9%) and within 2 months (2.9%-7.3%) varied depending on the definition. 20% of all subsequent injuries occurred before full recovery, and these injuries took on average 46.7±25.6 days to return to play."
+    }
+  ],
+  "pmcid": "12410626",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "563 injuries in 359 players were evaluated. Recurrences resulted in ≥2153 total days lost over 10 years and ≥35.6 days lost on average per injury. Recurrence frequencies within 2 years (13%–21.3%), within the same season (7.5%–13.9%) and within 2 months (2.9%–7.3%) varied depending on the definition. 20% of all subsequent injuries occurred before full recovery, and these injuries took on average 46.7±25.6 days to return to play."
+    },
+    {
+      "section": "TABLE: Epidemiological approaches to define recurrence",
+      "text": "Definition | Surveillance | Onset | Location | Recurrence definition\nD1 | 2 years | Any time ≤2 years | Same leg | Recurrences are subsequent calf muscle strain injuries affecting the same leg, occurring at any stage after the index injury within a 2-year period.\nD2 | 2 years | After full recovery, and ≤2 years | Same leg | Recurrences are subsequent calf muscle strain injuries affecting the same leg, occurring after full recovery and within a 2-year period.\nD3 | 2 years | Any time ≤2 years | Same muscle | Recurrences are subsequent calf muscle strain injuries affecting the same muscle as the index injury, occurring at any stage after the index injury within a 2-year period.\nD4 | 2 years | After full recovery, and ≤2 years | Same muscle | Recurrences are subsequent calf muscle strain injuries affecting the same muscle as the index injury, occurring after full recovery but within a 2-year period."
+    },
+    {
+      "section": "TABLE: Recurrent calf muscle strain injury frequency in the AFL 2014–2023",
+      "text": " | D1 (n=563):≤2 years, same leg | D2 (n=539): After recovery and ≤2 years, same leg | D3 (n=563): ≤2 years, same muscle | D4 (n=545): After recovery and≤2 years, same muscle\nn (%) | Proportion (%) | n (%) | Proportion (%) | n (%) | Proportion (%) | n (%) | Proportion (%)\nTotal 2-year recurrences | 120 (21.3) | 100.0 | 96 (17.7) | 100.0 | 89 (15.8) | 100.0 | 71 (13.0) | 100.0\nSame season recurrences | 78 (13.9) | 65.0 | 54 (10.0) | 56.3 | 59 (10.5) | 66.3 | 41 (7.5) | 57.7\nRecurrences prior to recovery | 24 (4.3) | 20.0 | N/A | 18 (3.2) | 20.2 | N/A\nTime-course of recurrence |  |  |  | \n0–2 months | 41 (7.3) | 34.2 | 19 (3.5) | 19.7 | 32 (5.7) | 35.9 | 16 (2.9) | 22.5\n2–6 months | 35 (6.2) | 29.2 | 31 (5.8) | 32.3 | 26 (4.6) | 29.2 | 22 (4.0) | 30.9\n6–12 months | 20 (3.6) | 16.7 | 22 (4.1) | 22.9 | 11 (1.9) | 12.4 | 13 (2.4) | 18.3\n12 months–2 years | 24 (4.3) | 20.0 | 24 (4.3) | 25.0 | 20 (3.6) | 22.5 | 20 (3.7) | 28.2\nTime to recurrence |  |  |  | \nOverall (Mdn (IQR), range) | 109 (44–315.75), 4–697 | 172 (70.25–374.45), 15–697 | 84 (41.5–326.5), 4–697 | 168(68–385), 15–697\nPrior to recovery (Mdn (IQR), range) | 22 (16–28.75), 4–78 | N/A | 22.5 (19.75–31.5), 4–59 | N/A"
+    },
+    {
+      "section": "TABLE: The 10-year time loss (days) impact of recurrent calf muscle strain injuries in the AFL: 2014–2023",
+      "text": " | D1: ≤2 years,same leg | D2: After recovery and ≤2 years, same leg | D3: ≤2 years,same muscle | D4: After recovery and ≤2 years, same muscle\nTotal 10-year time loss | 3907 | 3187 | 2556 | 2153\nTime loss per injury |  |  |  | \nIndex injuries | 25.1±16.4, 21 (14–33), 2–109 | 25.2±16.5, 21(20–48), 2–109 | 25.6±17.1, 21 (14–33), 2–109 | 25.8±17.4, 21 (14–33.3), 2–109\nRecurrences | 37.2±23.5, 30 (20–49), 7–102* | 36.2±22.6, 30 (20–48), 7–102* | 38.7±23.2, 33 (21.3–49), 7–102* | 35.6±25.6, 30 (21–47.3), 12–102*\nRecurrence onset |  |  |  | \nPrior to full recovery | 46.7±25.6, 38 (30–57), 12–90 | N/A | 46.7±25.6, 38 (30–57), 12–90 | N/A\nEarly: ≤2 months | 40.3±26.8, 30 (21.5–56), 12-102 | 36.9±26.8, 28 (20.5–45), 12–102 | 45.3±28.9, 35 (22.5–68.5), 12–102 | 37.6±26.1, 27 (20–55), 14–102\nLate: 2–12 months | 37.4±23.0, 32 (21.5–48.5), 9-101 | 35.9±22.7, 30.5 (20–47.5), 9–101 | 37.5±19.5, 28 (24–48), 13–101 | 40.9±23.3, 35 (26–49), 13–101\nDelayed: >12 months | 37.4±21.7, 40.5 (18–50.5), 7–88 | 37.4±21.7, 40.5 (18–50.5), 7–88 | 35.5±21.9, 39 (17–47), 7–88 | 35.5±21.9, 39 (17–47), 12–88\nRecurrence severity |  |  |  | \nMild: 4–7 days | 1 (1.1%) | 1 (1.0%) | 1 (1.6%) | 0 (0.0%)\nModerate: 8–28 days | 40 (44.4%) | 38 (44.7%) | 25 (39.1%) | 23 (45.1%)\nSevere: >28 days | 49 (54.4%) | 46 (54.1%) | 38 (59.4%) | 28 (54.9%)"
+    }
+  ]
+}

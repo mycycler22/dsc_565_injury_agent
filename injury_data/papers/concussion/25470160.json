@@ -1,0 +1,28 @@
+{
+  "pmid": "25470160",
+  "title": "Sports concussion diagnosis and management.",
+  "year": "2014",
+  "journal": "Continuum (Minneapolis, Minn.)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "To provide the neurologist with a framework for the clinical approach to sports concussion diagnosis and management."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "As the issue of brain injury in athletes has emerged and developed, shifting the landscape of public concern, neurologists have become more directly involved in the diagnosis and management of sports concussion. Neurologists are now playing an increased role in acute concussion diagnosis, early injury management, return-to-play decisions, and evaluation for potential long-term effects from exposure to biomechanical forces on brain health. Concussion is only one part of this spectrum, but it is no small concern. Sports concussion diagnosis and management require a comprehensive neurologic approach as the return-to-play decision is a medical one covering a spectrum of potential complications and future risks. Understanding the clinical syndrome of concussion as well as the underlying pathophysiologic mechanism is essential to providing care. Employing classic neurologic diagnostic techniques while concurrently respecting the unique nature of caring for athletes is also critical. Without an objective method of measuring the underlying metabolic injury, concussion management is, by necessity, a clinically intense endeavor that requires a broad skill set."
+    },
+    {
+      "label": "SUMMARY",
+      "text": "Providing recommendations regarding the long-term effects of brain trauma and the need for retirement from contact sports requires an appreciation for both the reason for concern and the lack of data to frame this risk. As science continues to advance in this area, so will our diagnostic approaches and management schema. Neurologists caring for athletes with brain trauma should continue to seek the best possible evidence to help shape their clinical decisions."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

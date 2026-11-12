@@ -1,0 +1,35 @@
+{
+  "pmid": "29460072",
+  "title": "New MRI muscle classification systems and associations with return to sport after acute hamstring injuries: a prospective study.",
+  "year": "2018",
+  "journal": "European radiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine agreement between modified Peetrons, Chan acute muscle strain injury classification and British Athletics Muscle Injury Classification (BAMIC) and to investigate their associations and ability to predict time to return to sport (RTS)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male athletes (n=176) with acute hamstring injury and MRI (1.5T) ≤5 days were followed until RTS. MRIs were scored using standardised forms."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For MRI-positive injuries there was moderate agreement in severity grading (κ = 0.50-0.56). Substantial variance in RTS was demonstrated within and between MRI categories. Mean differences showed an overall main effect for severity grading (p < 0.001), but post hoc pairwise comparisons for BAMIC (grade 0a/b vs. 1, p = 0.312; 1 vs 2, p = 0.054; 0a/b vs 2, p < 0.001; 1 vs 3, p < 0.001) and mean differences for anatomical sites (BAMIC a-c, p < 0.001 [a vs b, p = 0.974; a vs c, p = 0.065; b vs c, p = 0.007]; Chan anatomical sites 1-5, p < 0.077; 2A-C, p = 0.373; 2a-e, p = 0.008; combined BAMIC, p < 0.001) varied. For MRI-positive injuries, total explained RTS variance was 7.6-11.9% for severity grading and BAMIC anatomical sites."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There was wide overlap between/variation within the grading/classification categories. Therefore, none of the classification systems could be used to predict RTS in our sample of MRI-positive hamstring injuries."
+    },
+    {
+      "label": "KEY POINTS",
+      "text": "• Days to RTS varied greatly within the grading and classification categories. • Days to RTS varied greatly between the grading and classification categories. • Using MRI classification systems alone to predict RTS cannot be recommended. • The specific MRI classification used should be reported to avoid miscommunication."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

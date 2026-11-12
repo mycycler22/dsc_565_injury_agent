@@ -1,0 +1,39 @@
+{
+  "pmid": "31984213",
+  "title": "Clinical Value of an Acute Popping Sensation in Throwing Athletes With Medial Elbow Pain for Ulnar Collateral Ligament Injury.",
+  "year": "2020",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Throwing athletes sustaining an ulnar collateral ligament (UCL) injury may recall a popping sensation originating from the medial elbow at the time of injury. There are no studies available that inform clinicians how to utilize this salient anamnestic information and what amount of diagnostic weight to afford to it."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess the diagnostic value of a popping sensation for significant UCL injury in throwing athletes who sustained an injury causing medial elbow pain."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study (prognosis); Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 207 consecutive patients with throwing-related medial elbow pain were evaluated for UCL injury by the senior author between 2011 and 2016. The presence or absence of a popping sensation was routinely reported by the senior author. Magnetic resonance imaging was evaluated for UCL injury severity and classified into intact, edema/low-grade partial-, high-grade partial-, and full-thickness tears."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall frequency of a pop was 26%. The proportion of patients who reported a pop significantly increased with UCL tear severity (<i>P</i> < .001), from 13% in patients with low-grade UCL injuries to 26% in patients with high-grade partial-thickness tears and 51% in patients with full-thickness tears. The positive likelihood ratio, negative likelihood ratio, and odds ratio of a popping sensation for significant UCL injury were 3.2, 0.7, and 4.4 (<i>P</i> < .001), respectively (<i>P</i> < .001). A pop was not associated with either distal or proximal UCL tears (<i>P</i> ≥ .999)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A popping sensation at the time of injury in throwing athletes with medial elbow pain was associated with UCL injury severity. When a throwing athlete reports a pop, this should moderately increase a clinician's suspicion for a significant UCL injury. Conversely, absence of a pop should not substantially decrease suspicion for significant UCL injury. The findings of this study allow for the clinical interpretation of the salient anamnestic finding of a pop at the time of injury, which can be used for diagnostic purposes as well as patient counseling. This study provides reference foundation for future studies of predictive and diagnostic factors for UCL injury in throwing athletes."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

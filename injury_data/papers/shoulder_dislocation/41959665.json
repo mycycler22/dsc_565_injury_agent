@@ -1,0 +1,36 @@
+{
+  "pmid": "41959665",
+  "title": "British Elbow and Shoulder Society practice guidelines: Rehabilitation following traumatic anterior shoulder dislocation (post-operative and non-operative care).",
+  "year": "2026",
+  "journal": "Shoulder & elbow",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Traumatic anterior shoulder dislocation is common and carries a high risk of recurrence. Rehabilitation is central to management following both surgical and non-surgical treatment. However, consistency in rehabilitation practice and continuity of care are lacking. The British Elbow and Shoulder Society (BESS) therefore commissioned the development of guidelines for post-operative and non-operative rehabilitation."
+    },
+    {
+      "label": "METHODS",
+      "text": "This guideline was developed through a multi-staged process that combined a UK national survey, Delphi consensus, evidence synthesis, and a final expert workshop. The post-operative guideline was based on a BESS best-practice framework, while the non-operative guideline was informed by the ARTISAN intervention development methodology, with both organised into phase-based protocols."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The process produced aligned rehabilitation protocols comprising five sequential phases: (1) Acute protection and education (0-3 weeks), (2) Movement and early strengthening (3-6 weeks), (3) Progressive strengthening (6-12 weeks), and (4) Return to sport (>12 weeks) and (5) high-level function. Key guidance following surgical treatment included sling use after surgery, initiation of through-range resisted exercise, and criteria-based progression to contact sport. The non-operative pathway mirrored these phases, with earlier sling weaning."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Through a rigorous process, BESS has established pragmatic, evidence-informed rehabilitation guidelines for traumatic anterior shoulder dislocation, promoting consistent, safe, and adaptable patient-centred care across both operative and non-operative management."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The process produced aligned rehabilitation protocols comprising five sequential phases: (1) Acute protection and education (0-3 weeks), (2) Movement and early strengthening (3-6 weeks), (3) Progressive strengthening (6-12 weeks), and (4) Return to sport (>12 weeks) and (5) high-level function."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

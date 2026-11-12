@@ -1,0 +1,39 @@
+{
+  "pmid": "33889646",
+  "title": "Use of Preoperative Magnetic Resonance Imaging to Predict Clinical Outcomes After Core Muscle Injury Repair.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Core muscle injury (CMI), often referred to as a sports hernia or athletic pubalgia, is a common cause of groin pain in athletes. Imaging modalities used to assist in the diagnosis of CMI include ultrasound (US) and magnetic resonance imaging (MRI)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine if preoperative MRI findings predict clinical outcomes after surgery for CMI."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective cohort study was performed on a consecutive series of patients who were operatively treated for CMI by a single surgeon. CMI was diagnosed based on history, physical examination, and a positive US. In addition, all patients underwent a preoperative MRI. Patients were divided into 2 groups based on whether the MRI was interpreted as positive or negative for CMI. All patients underwent mini-open CMI repair. Patient-reported outcomes (PROs) were collected both pre- and postoperatively and included a visual analog scale (VAS) for pain, the University of California, Los Angeles (UCLA) activity score, and the modified Harris Hip Score."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 39 hips were included in this study, of which 17 had a positive MRI interpretation for CMI (44%) and 22 had a negative MRI interpretation (56%). Mean age at the time of surgery was 35 years (range, 17-56 years), and mean follow-up was 21 months (range, 12-35 months). No significant difference was found between groups in mean age or time to follow-up. Patients in both groups demonstrated significant improvement from preoperative to most recent follow-up in terms of the UCLA activity score (<i>P</i> < .05). VAS scores significantly improved for patients with a positive MRI interpretation (<i>P</i> = .001) but not for those with a negative MRI interpretation (<i>P</i> = .094). No significant difference on any PROs was found between groups at the most recent follow-up."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Successful clinical outcomes can be expected in patients undergoing surgery for CMI diagnosed based on history, physical examination, and US. Patients with a preoperative MRI consistent with CMI may experience greater improvement in pain postoperatively, although MRI does not predict postoperative activity level in these patients."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

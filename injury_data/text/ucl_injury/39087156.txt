@@ -1,0 +1,21 @@
+Title: Return to Activity Following Isolated Ulnar Nerve Surgery: A Systematic Review. | Type: Journal Article, Review | PMID: 39087156 | Year: 2024 | Injury query: UCL injury
+[UNLABELED] There were a total of 358 patients with a reported return to play or activity status across all studies with an average age of 27.2 years (range, 11-75).
+[FULLTEXT: TABLE: Subcutaneous transposition return to activity rate.RTA: return to activity; SAT: subcutaneous anterior transposition.] Study | Sample size (N) | RTA (No.) | Percent | Same or higher level of return (No.) | Percent return to same level or higher
+Eaton et al. (1980) [12] | 14 | 13 | 92.9 | - | -
+Aoki et al. (2005) [6] | 6 | 5 | 83.3 | 5 | 83.3
+Dunn (SAT) et al. (2019) [14] | 67 | 56 | 84 | - | -
+Black et al. (2000) [8] | 47 | 46 | 97.9 | - | -
+Richmond et al. (1982) [11] | 16 | 14 | 87.5 | - | -
+Hadley et al. (2021) [3] | 15 | 13 | 86.7 | 10 | 66.7
+Smith et al. (2017) [5] | 6 | 5 | 83.3 | 5 | 83.3
+Nicholson et al. (2020) [4] | 26 | 24 | 92 | 16 | 62
+Del Pizzo et al. (1977) [13] | 15 | 9 | 60 | - | -
+Rettig et al. (1993) [9] | 20 | 19 | 95 | - | -
+Total | 232 | 204 | 87.9 | 36 | 67.9
+[FULLTEXT: TABLE: Simple decompression return to activity rate.RTA: return to activity; SD: simple decompression.] Study | Sample size (N) | Number to RTA | Percent to RTA (%)
+Nathan et al. (1992) [10] | 41 | 30 | 73
+Dunn (SD) et al. (2019) [14] | 65 | 50 | 77
+Total | 106 | 80 | 75.5
+[FULLTEXT: TABLE: Submuscular transposition return to activity rate.RTA: return to activity.] Study | Sample size (N) | Number to RTA | Percent to RTA (%)
+Fitzgerald et al. (2004) [7] | 20 | 19 | 95.0
+Total | 20 | 19 | 95.0

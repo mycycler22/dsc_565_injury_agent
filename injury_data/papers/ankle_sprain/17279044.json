@@ -1,0 +1,21 @@
+{
+  "pmid": "17279044",
+  "title": "Acute treatment of inversion ankle sprains: immobilization versus functional treatment.",
+  "year": "2007",
+  "journal": "Clinical orthopaedics and related research",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Inversion ankle sprains are one of the most common injuries in sports. Although these injuries are often considered minor, they can lead to persistent disability in athletes. We conducted a systematic review of the literature to evaluate the effect of immobilization versus early functional treatment on time to return to preinjury activity after inversion ankle sprain. Residual subjective instability, recurrent injury, and patient satisfaction were secondary outcomes. A systematic review identified 9 randomized controlled trials. Return to preinjury activity was less with early functional treatment in 4 of 5 studies that evaluated this outcome. Subjective instability was less in 3 of 5 studies. Similarly, reinjury rate was less in 5 of 6 studies. Patient satisfaction was not substantially different in the two studies that evaluated this outcome. Limitations of the identified trials included small sample size, heterogeneity of treatment methods, and lack of standardized outcome measures. However, based on our review the current best evidence suggests a trend favoring early functional treatment over immobilization for the treatment of acute lateral ankle sprains."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

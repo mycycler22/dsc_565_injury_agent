@@ -1,0 +1,32 @@
+{
+  "pmid": "29660962",
+  "title": "Return to learn: Transitioning to school and through ascending levels of academic support for students following a concussion.",
+  "year": "2018",
+  "journal": "NeuroRehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this article is to familiarize healthcare providers and parents with educational language, laws, and processes as they relate to a comprehensive ascending level of academic supports as it pertains to promoting a smooth and supported transition to school following a concussion."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "Returning to learn (RTL) following a concussion is of parallel importance to returning to sport (RTS). A successful RTL is a critical part of concussion management. Many RTL articles advise healthcare providers and parents to request formalized educational supports, also known as Tier 2 or Tier 3 services, for children with concussion as they return to school."
+    },
+    {
+      "label": "FINDINGS",
+      "text": "Premature requests for formal (Tier 2 or 3) educational services, rather than allowing for immediate informal educational supports (known as Tier 1), can actually delay academic supports and have the potential to cause adversarial relationships between parents and schools. Additionally, this practice contradicts current research demonstrating the need for fast, flexible, temporary academic supports within the first month post-injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Allowing school districts to direct the application of existing ascending levels of educational support for students with concussion as they return to school can promote robust and positive outcomes."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

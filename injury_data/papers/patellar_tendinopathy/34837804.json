@@ -1,0 +1,43 @@
+{
+  "pmid": "34837804",
+  "title": "Preventive effect of tailored exercises on patellar tendinopathy in elite youth athletes: A cohort study.",
+  "year": "2022",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate the effects of an intervention with tailored exercises on the incidence of patellar tendinopathy (PT) in elite youth jumping athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective crossover cohort."
+    },
+    {
+      "label": "SETTING",
+      "text": "One sport club facility."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "271 elite youth basketball and volleyball player were followed in the first year of the study (Observation year) and 270 athletes were followed in the second year (intervention year)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE",
+      "text": "Incidence rates of PT per 1,000h of exposure. Cox survival analysis was used to verify the effects of the intervention (exercises implemented according to the findings of a preseason assessment) on PT incidence."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The exercise prevention program significantly reduced the number of cases of PT, with athletes submitted to the intervention showing 51% less risk of developing PT. The overall PT incidence in the Observation year (5.9 per 1,000h of exposure) was significantly higher than that in the intervention year (2.8 per 1,000h of exposure) (P = .037). Twenty-six athletes developed PT in the observation year, whereas 13 athletes developed PT in the intervention year."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A tailored preventive program may be able to reduce the incidence of patellar tendinopathy, especially in male youth volleyball athletes. Randomized controlled trials are encouraged to confirm these findings."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "42713028",
+  "title": "Proximal Hamstring-Related Sciatic Nerve Entrapment Presenting as Recurrent Hamstring Strain in a Professional Footballer: A Case Report.",
+  "year": "2026",
+  "journal": "Journal of orthopaedic case reports",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Hamstring injuries are common in elite football and are associated with high recurrence rates. When posterior thigh pain persists or repeatedly recurs despite apparent tissue healing on imaging, mechanisms other than repeat muscle injury should be considered. Proximal hamstring-related sciatic nerve entrapment is an under-recognized cause of chronic posterior thigh pain that can mimic recurrent hamstring strain."
+    },
+    {
+      "label": "CASE REPORT",
+      "text": "This study reported a case of a 33-year-old male professional football midfielder who played for more than 20 years and had multiple clinically diagnosed recurrent hamstring strains over 12 months following an initial Grade II injury. Despite standard rehabilitation and magnetic resonance imaging demonstrating interval tissue healing, he continued to experience deep posterior thigh and buttock pain with high-intensity activity. Clinical reassessment reproduced concordant symptoms with neurodynamic provocation and palpation near the proximal hamstring-sciatic interface. A brief, targeted intervention focusing on sciatic nerve mobility and proximal neuromuscular interface release was administered following clinical suspicion of neural mechanosensitivity. The athlete returned to unrestricted training and competition and remained symptom-free at 14-month follow-up."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Persistent or recurrent posterior thigh pain following an apparently healed hamstring strain may arise from proximal sciatic nerve entrapment or mechanosensitivity rather than repeated muscle injury. Proximal neural involvement should therefore be included in the differential diagnosis, particularly when symptoms persist despite appropriate rehabilitation and normal or improving imaging findings."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

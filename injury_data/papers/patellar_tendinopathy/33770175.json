@@ -1,0 +1,33 @@
+{
+  "pmid": "33770175",
+  "title": "A Narrative Review Evaluating Extracorporeal Shockwave Therapy as a Potential Regenerative Treatment for Musculoskeletal Conditions in Military Personnel.",
+  "year": "2021",
+  "journal": "Military medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Extracorporeal shockwave therapy (ESWT) has a wide variety of clinical applications ranging from urology to orthopedics. Extracorporeal shockwave therapy is of particular interest to military medicine in the treatment of diverse musculoskeletal injuries, including recalcitrant tendinopathy. Much of the evidence for ESWT is from studies in the civilian population, including athletes. A few investigations have been conducted within military personnel. Musculoskeletal conditions within military personnel may contribute to pain and physical limitations. Optimal functional outcomes could be achieved through ESWT. The purpose of this narrative review is to summarize the current evidence on the efficacy of ESWT the in management of lower extremity musculoskeletal injuries in the military. Further, we explore the relative efficacy of ESWT compared to regenerative medicine procedures, including studies with treatment using platelet-rich plasma."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "A literature review was performed in April 2020 to identify studies evaluating the use of ESWT for lower extremity conditions commonly observed in military personnel, including plantar fasciitis, Achilles tendinopathy, patellar tendinopathy, medial tibial stress syndrome, and knee arthritis. The literature search was completed by two researchers independently, using PubMed and Embase databases and same search terms. Disagreements were adjudicated by a senior author. Due to the paucity of relevant search results, the search term parameters were expanded to incorporate active participants."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Two studies evaluated the use of ESWT in a military population for lower extremity injuries. This included a randomized control trial in active military with medial tibial stress syndrome and an unblinded retrospective study for the chronic plantar fasciitis condition. Both studies in the military had favorable outcomes in the use of ESWT compared to other treatment arms. The remaining studies predominantly included athletes. Although heterogeneity on the quality of the studies may prevent meta-analysis and limit the generalization of the findings, the majority of studies demonstrated an improvement in pain and return to activity using ESWT. Two studies using platelet-rich plasma as a treatment arm identified similar short-term outcomes compared to ESWT for Achilles tendinopathy and patellar tendinopathy."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our findings suggest that ESWT is a safe and well-tolerated intervention with positive outcomes for lower extremity conditions commonly seen in the military. The few studies comparing ESWT to PRP suggest regenerative benefits similar to orthobiologics in the shorter term. More robust quality designed research may enable the evaluation of ESWT efficacy within the military population. In summary, the use of ESWT may provide pain reduction and improved function in active populations with lower extremity musculoskeletal injuries. Further research in the military is needed to evaluate shockwave efficacy in order to advance musculoskeletal care and improve outcomes."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "39409466",
+  "title": "Effect of Unanticipated Tasks on Side-Cutting Stability of Lower Extremity with Patellofemoral Pain Syndrome.",
+  "year": "2024",
+  "journal": "Sensors (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain syndrome (PFPS) is one of the most common causes of anterior knee pain encountered in the outpatient setting. The purpose of this study was to compare the lower limb biomechanical differences during anticipated and unanticipated side-cutting in athletes with PFPS."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifteen male basketball players diagnosed with PFPS were enrolled in the study. Participants executed both anticipated and unanticipated 45-degree side-cutting tasks. Motion analysis systems, force plates, and electromyography (EMG) were used to assess the lower limb joint angles, joint moments, joint stiffness, and patellofemoral joint contact forces. Analyzed biomechanical data were used to compare the differences between the two circumstances."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Unanticipated side-cutting resulted in significantly increased ankle plantarflexion and dorsiflexion angles, knee abduction and internal rotation angles, and hip abduction angles, as well as heightened knee adduction moments. Additionally, patellofemoral joint contact forces and stress increased, while contact area decreased during unanticipated tasks."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Unanticipated movement raises the demands for joint stability and neuromuscular control, increasing injury risks in athletes with PFPS. These findings have practical implications for developing targeted rehabilitation programs and injury prevention strategies."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

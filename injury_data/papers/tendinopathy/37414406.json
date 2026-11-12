@@ -1,0 +1,35 @@
+{
+  "pmid": "37414406",
+  "title": "The Effects of High-Load Slow-Velocity Resistance Exercise Training in Athletes With Tendinopathy: A Critically Appraised Topic.",
+  "year": "2023",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CLINICAL SCENARIO",
+      "text": "Tendinopathy is a musculoskeletal pathological condition experienced by athletes that can result in pain, impaired muscle performance, and loss of physical function and can hinder return to sports. Various types of resistance exercise training are effective for treating tendinopathy, including isometric, concentric, eccentric, and high-load slow-velocity resistance exercise."
+    },
+    {
+      "label": "CLINICAL QUESTION",
+      "text": "What are the effects of high-load slow-velocity resistance exercise training, compared with other forms of resistance exercise, on tendon morphology and patient-reported outcomes in athletes with tendinopathy?"
+    },
+    {
+      "label": "SUMMARY OF KEY FINDINGS",
+      "text": "The findings of 4 randomized clinical trials were included. One study compared high-load slow-velocity resistance exercise with moderate-load slow-velocity resistance exercise. Two studies investigated the effects of high-load slow-velocity resistance exercise versus eccentric resistance exercise. The fourth study compared high-load slow-velocity resistance exercise with inertia-based resistance exercise. In all of the studies, high-load slow-velocity resistance exercise was as effective as the other forms of resistance exercise for improving patient-reported outcomes and pain. Three studies found no significant differences in changes in tendon morphology between patients who received high-load slow-velocity resistance exercise versus those who received the other forms of resistance exercise. One study showed that high-load slow-velocity resistance exercise was more effective than eccentric exercise for improving tendon morphology outcomes."
+    },
+    {
+      "label": "CLINICAL BOTTOM LINE",
+      "text": "Current evidence supports the use of high-load slow-velocity resistance exercise as a treatment option for patellar and Achilles tendinopathy in athletes."
+    },
+    {
+      "label": "STRENGTH OF RECOMMENDATION",
+      "text": "Results from level 2 studies suggest grade B evidence in support of high-load slow-velocity resistance exercise for treating athletes with tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

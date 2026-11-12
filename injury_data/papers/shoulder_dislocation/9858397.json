@@ -1,0 +1,25 @@
+{
+  "pmid": "9858397",
+  "title": "Axillary nerve injuries in contact sports: recommendations for treatment and rehabilitation.",
+  "year": "1998",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Axillary nerve injuries are some of the most common peripheral nerve injuries in athletes who participate in contact sports. Resulting deltoid muscle paralysis is secondary to nerve trauma which occurs following shoulder dislocation or a direct blow to the deltoid muscle. Compression neuropathy has been reported to occur in quadrilateral space syndrome as the axillary nerve exits this anatomic compartment. The axillary nerve is also extremely vulnerable during any operative procedure involving the inferior aspect of the shoulder, and iatrogenic injury to the axillary nerve remains a serious complication of shoulder surgery. Accurate diagnosis of axillary nerve injury is based on a careful history and physical examination as well as an understanding of the anatomy of the shoulder and the axillary nerve in particular. Inspection, palpation and neurological testing provide the bases for diagnosis. A clinically suspected axillary nerve injury should be confirmed by electrophysiological testing, including electromyography and nerve conduction studies. During the acute phase of injury, the athlete should be rested and any ligamentous or bony injury should be treated as indicated. Patients should undergo an extensive rehabilitation programme emphasising active and passive range of motion as well as strengthening of the rotator cuff, deltoid and periscapular musculature. Shoulder joint contracture should be avoided at all costs as a loss of shoulder mobility may ultimately affect functional outcome despite a return of axillary nerve function. If no axillary nerve recovery is observed by 3 to 4 months following injury, surgical exploration is indicated. Athletes who sustain injury to the axillary nerve have a variable prognosis for nerve recovery, although the return of function of the involved shoulder is typically good to excellent. We recommend that athletes who sustain axillary nerve injury may return to contact sport participation when they achieve full active range of motion of the shoulder and when shoulder strength is documented to be good to excellent by isometric or manual muscle testing."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "If no axillary nerve recovery is observed by 3 to 4 months following injury, surgical exploration is indicated."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

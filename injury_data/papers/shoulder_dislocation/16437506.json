@@ -1,0 +1,44 @@
+{
+  "pmid": "16437506",
+  "title": "Conservative management following closed reduction of traumatic anterior dislocation of the shoulder.",
+  "year": "2006",
+  "journal": "The Cochrane database of systematic reviews",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute anterior dislocation is the commonest type of shoulder dislocation and usually results from an injury. Subsequently, the shoulder is less stable and more susceptible to redislocation, especially in active young adults."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To compare methods of conservative (non-surgical) management versus no treatment or different methods of conservative management after closed reduction of traumatic anterior dislocation of the shoulder. Interventions include methods of postreduction immobilisation and rehabilitation."
+    },
+    {
+      "label": "SEARCH STRATEGY",
+      "text": "We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (March 2005), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 3, 2005), MEDLINE, EMBASE, the National Research Register (UK), conference proceedings and reference lists of articles."
+    },
+    {
+      "label": "SELECTION CRITERIA",
+      "text": "Randomised or quasi-randomised controlled trials comparing various conservative interventions versus control (no or sham treatment) or other conservative interventions applied after closed reduction of traumatic anterior dislocation of the shoulder."
+    },
+    {
+      "label": "DATA COLLECTION AND ANALYSIS",
+      "text": "All authors selected trials, assessed methodological quality and extracted data. Study authors were contacted for additional information."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "One flawed quasi-randomised trial was included. A \"preliminary report\" gave the results for 40 adults with primary traumatic anterior dislocation of the shoulder treated by post-reduction immobilisation with the arm in either external or internal rotation. There was no statistically significant difference between the two groups in the failure to return to pre-injury sports by previously active athletes, in redislocation or shoulder instability. Similar numbers of participants of the two groups removed their immobiliser before one week had passed."
+    },
+    {
+      "label": "AUTHORS' CONCLUSIONS",
+      "text": "There is a lack of evidence from randomised controlled trials to inform the choices for conservative management following closed reduction of traumatic anterior dislocation of the shoulder. Sufficiently powered, good quality, well reported randomised controlled trials with long-term surveillance of conservative management are required. In particular, trials examining the type and duration of immobilisation would be useful."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

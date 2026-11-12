@@ -1,0 +1,27 @@
+Title: Surgical and Biological Treatment with a Platelet-Rich Fibrin Matrix for Patellar Tendinopathy: Clinical Outcomes and Return to Sport at 2-Year Follow-Up. | Type: Journal Article | PMID: 38929787 | Year: 2024 | Injury query: tendinopathy
+[CONCLUSIONS] Surgical debridement and autologous PRFM application in patients with chronic PT resulted in a higher rate of return to sports when compared to solely surgical treatment, significantly improved clinical outcomes and excellent patient satisfaction at 24 months.
+[FULLTEXT: 2.6. Outcomes] Two years after the procedure, we asked patients to rate their operation using five validated self-administered questionnaires: the visual analog scale (VAS), the Victorian Institute of Sports Assessment for Patellar Tendinopathy questionnaire (VISA-P), the Blazina Score as modified in 2002 by Ferretti et al. [27], The Tegner Activity Scale (TAS) and the Tampa Scale of Kinesiofobia (TSK). The first four questionnaires asked questions regarding the period before the operation and the end of the 2-year follow-up, whereas the TKS asked about patients’ fear of reinjury at 2 years. The VAS is a sensitive, subjective tool [28]. It can measure the patient’s pain experience at the beginning, during rehabilitation and at the final stages, offering precise indications about its intensity and variations [29]. The VISA-P is an 8-item questionnaire designed to assess PT symptom severity and its impact on physical function [30]. Scores range from 0 to 100, the lower scores indicating greater disability. The Blazina Score as modified by Ferretti et al. provides a thorough qualitative description of the clinical progression of a patellar tendon injury. The changes to the original classification are as follows:Stage 0: no pain;Stage 1: pain only after intense sports activity with no functional impairment;Stage 2: moderate pain during sports activity with no restriction on sports performance;Stage 3: pain with slight restriction on performance;Stage 4: pain with severe restriction of sports performance;Stage 5: pain during daily activity and inability to participate in sport at any level. Participants’ fear of movement and of incurring a new injury, or kinesiophobia, was captured using the 2-factor 13-item TSK, where the fear of movement domain is separated from other conceptual domains such as pain, function, and mood alterations [30]. Scores range from 13 to 52 points, with higher scores indicating a greater fear of movement and re-injury. Pilot studies have found that the majority of patients with PT have clinically significant levels of kinesiophobia. The TAS is a subjective satisfaction score where patients rate their perception of the general function of the operated knee. The activity level is scored from 0 to 10, where 10 is perfect and 0 corresponds to disability. The TAS arbitrarily groups sports activities into different levels without considering their frequency [31]. Any complications or recurrences were carefully reported in the database.
+[FULLTEXT: 3.3. Return to Sport] As concerns the third endpoint, Table 3 shows that 92.10% of patients returned to sports. In this regard, it is interesting to note that the three patients who did not return were those with the highest TKS scores (37 points). However, not all patients were able to return to the same level of sport engagement as before PT. In fact, the TAS showed a reduction from the baseline value of 7.79 (SD 1.53) to 7.08 (SD 1.94). Comparison of the MRI scans taken before surgery and at 6 months demonstrated the disappearance of the characteristic signal in the posterior region of the proximal patellar tendon and the inferior pole of the patella, with the restoration of normal tendon thickness. No complications or severe adverse events related to the surgical procedure or to PRFM application were observed during treatment or follow-up.
+[FULLTEXT: TABLE: Postoperative functional tests and patient satisfaction before the procedure and at 24 months.]  | Values | p-Value
+VAS 1 |  | <0.001
+Baseline, mean (SD 2) [range] | 8.58 (0.89) [7–10] | 
+24 months follow-up, mean (SD) [range] | 1.68 (2.08) [0–5] | 
+VISA-P 3 |  | <0.001
+Baseline, mean (SD) [range] | 58.05 (21.69) [15–82] | 
+24 months follow-up, mean (SD) [range] | 80.32 (20.58) [35–100] | 
+TAS 4 |  | <0.001
+Baseline, mean (SD) [range] | 7.79 (1.53) [4–10] | 
+24 months follow-up, mean (SD) [range] | 7.08 (1.94) [4–10] | 
+Blazina score |  | <0.001
+Baseline, mean (SD) [range] | 3.16 (0.75) [2–4] | 
+24 months follow-up, mean (SD) [range] | 0.68 (1.09) [0–3] | 
+[FULLTEXT: TABLE: Return to sport at 24 months.]  | Values
+Return to sport | 
+No (%) | 3 (7.90)
+Yes (%) | 35 (92.10)
+Time of return to sport 24-month | 87.83 (41.92) [60–240]
+follow-up, mean (SD 1) [range] | 
+TKS 2 | 
+24-month follow-up, mean (SD) [range] | 19.53 (8.09) [13–37]
+Satisfaction | 
+24-month follow-up, mean (SD) [range] | 9.21 (1.21) [6–10]

@@ -1,0 +1,40 @@
+{
+  "pmid": "30048212",
+  "title": "Development of a Footwear Sizing System in the National Football League.",
+  "year": "2019",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT:",
+      "text": "Footwear performance and injury mitigation may be compromised if the footwear is not properly sized for an athlete. Additionally, poor fit may result in discomfort and foot injury such as fifth metatarsal stress fracture, foot deformities, turf toe, and blisters. Current footwear fitting methods consist of foot length and width measurements, which may not properly describe the shape of the individual foot, correlated with shoe size descriptors that are not standardized. Footwear manufacturers employ a range of sizing rubrics, which introduces shoe size and shape variability between and even within footwear companies. This article describes the synthesis of literature to inform the development and deployment of an objective footwear fitting system in the National Football League (NFL). The process may inform athletic footwear fitting at other levels of play and in other sports."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION:",
+      "text": "Literature related to footwear fitting, sizing, and foot scanning from 1980 through 2017 was compiled using electronic databases. Reference lists of articles were examined for additional relevant studies. Sixty-five sources are included in this descriptive review."
+    },
+    {
+      "label": "STUDY TYPE:",
+      "text": "Descriptive review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE:",
+      "text": "Level 5."
+    },
+    {
+      "label": "RESULTS:",
+      "text": "Current methods of footwear fitting and variability in the size and shape of athletic footwear complicate proper fitting of footwear to athletes. An objective measurement and recommendation system that can match the 3-dimensional shape of an athlete's foot to the internal shape of available shoe models can provide important guidance for footwear selection. One such system has been deployed in the NFL."
+    },
+    {
+      "label": "CONCLUSION:",
+      "text": "An objective footwear fitting system based on 3-dimensional shape matching of feet and shoes can facilitate the selection of footwear that properly fits an athlete's foot."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

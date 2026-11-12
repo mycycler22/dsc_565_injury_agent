@@ -1,0 +1,40 @@
+{
+  "pmid": "26781131",
+  "title": "Operative Treatment of Fifth Metatarsal Jones Fractures (Zones II and III) in the NBA.",
+  "year": "2016",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Proximal fractures of the fifth metatarsal (zone II and III) are common in the elite athlete and can be difficult to treat because of a tendency toward delayed union, nonunion, or refracture. The purpose of this case series was to report our experience in treating 10 NBA players, determine the healing rate, return to play, refracture rate, and role of foot type in these athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "The records of 10 professional basketball players were retrospectively reviewed. Seven athletes underwent standard percutaneous internal fixation with bone marrow aspirate concentrate (BMAC) whereas the other 3 had open bone grafting primarily in addition to fixation and BMAC. Radiographic features evaluated included fourth-fifth intermetatarsal, fifth metatarsal lateral deviation, calcaneal pitch, and metatarsus adductus angles."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Radiographic healing was observed at an overall average of 7.5 weeks and return to play was 9.8 weeks. Three athletes experienced refractures. There were no significant differences in clinical features or radiographic measurements except that the refracture group had the highest metatatarsus adductus angles. Most athletes were pes planus and 9 of 10 had a bony prominence under the fifth metatarsal styloid."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This is the largest published series of operatively treated professional basketball players who exemplify a specific patient population at high risk for fifth metatarsal fracture. These players were large and possessed a unique foot type that seemed to be associated with increased risk of fifth metatarsal fracture and refracture. This foot type had forefoot metatarsus adductus and a fifth metatarsal that was curved with a prominent base. We continue to use standard internal fixation with bone marrow aspirate but advocate additional prophylactic open bone grafting in patients with high fourth-to-fifth intermetatarsal, fifth metatarsal lateral deviation, and metatarsus adductus angles as well as prominent fifth metatarsal styloids in order to improve fracture healing and potentially decrease the risk of refracture."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, case series."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Radiographic healing was observed at an overall average of 7.5 weeks and return to play was 9.8 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "24286412",
+  "title": "Clinical characteristics of 4355 patients with anterior cruciate ligament injury.",
+  "year": "2013",
+  "journal": "Chinese medical journal",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Clinical features of anterior cruciate ligament (ACL) injury are important for its prevention, diagnosis and treatment. However, few studies have reported such data, especially in China. The purpose of this study was to describe the clinical characteristics of ACL injury on a large cohort."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between 1993 and 2007, a total of 4355 ACL deficient inpatients (612 athletes and 3743 non-athletes) were registered. Data were collected using a special database system. And the distributions of characteristics in different groups were compared and analyzed statistically."
+    },
+    {
+      "label": "RESULTS",
+      "text": "All subjects were confirmed with ACL tear during surgery. Statistical analysis revealed that the percentage of females in Athlete Group was significantly higher than that in Non-athlete Group (56.05% vs. 24.95%, P < 0.001). This study also found that sports trauma was the main cause of ACL tears. Soccer, basketball, judo, wrestling and track and field were the five most responsible activities for athletes. The average injury time for athletes was significantly shorter than that for non-athletes (413.3 days vs. 717.5 days, P < 0.001). Three thousand nine hundred and eight cases were ordered ACL reconstruction (76.04% single-bundle, 18.30% double-bundle). Three hundred and forty-five patients (7.92%) were combined with other ligaments injuries, 2667 (61.24%) were found with various grades of cartilage lesions, and 3377 (77.54%) were found with meniscal injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Sports trauma was the main cause of ACL tears in China, and reconstruction had become the principal surgical choice. In order to restore knee joint stability and reduce the incidence of cartilage and meniscal injury, patienttailored ACL reconstruction should be suggested at the right moment."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

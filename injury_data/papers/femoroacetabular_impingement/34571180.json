@@ -1,0 +1,35 @@
+{
+  "pmid": "34571180",
+  "title": "Postoperative Alpha Angle Is Predictive of Return to Sport in Athletes Undergoing Hip Arthroscopy for Femoroacetabular Impingement.",
+  "year": "2022",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To identify clinical and radiographic factors that predict return to sport in athletes undergoing hip arthroscopy and to determine thresholds for significant predictors."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data were reviewed on all patients who underwent primary hip arthroscopy between November 2008 and August 2018. Patients were included if they played professional, college, or high school sports within 1 year before surgery and had preoperative, 3-month, 1-year, and 2-year postoperative patient-reported outcome scores for modified Harris Hip Score, Hip Outcome Score-Sport Specific-Subscale, and Nonarthritic Hip Score. Rates of achieving the minimal clinically important difference also were evaluated. Patients were divided into groups based on whether they returned to sport at the same or greater level. Multivariate logistic regression and receiver operator characteristic analysis were used to evaluate the correlation between significant variables and return to sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 136 patients with a mean age of 20.8 ± 7.07 years were included. Among athletes who attempted to return, professional and collegiate athletes returned to sport at any level at a rate of 85.0% (51/60), and high-school athletes returned at a rate of 88.1% (52/59). Competition level, postoperative alpha angle, change in alpha angle, and postoperative patient-reported outcomes were significantly different between groups. Athletes who returned to sport achieved the minimal clinically important difference for Hip Outcome Score-Sport Specific-Subscale at significantly higher rates than athletes who did not return to sport (91.6% vs 71.7%, P = .002, S = 8.97). The multivariate logistic regression model identified postoperative alpha angle as a statistically significant predictor of return to sport (P < .001, S > 9.97 [odds ratio 0.85, 95% confidence interval 0.79-0.91]). The receiver operator characteristic curve for postoperative alpha angle demonstrated acceptable discrimination between patients returning to sport and patients not returning to sport with an area under the curve of 0.71 and a threshold value of 46°. Athletes with a postoperative alpha angle ≤46° returned to sport at significantly higher rates than those with a postoperative alpha angle >46° [(P < .001, S > 9.97 [odds ratio 6.3, 95% confidence interval 2.6-15.2])."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Postoperative alpha angle was identified as a predictor of return to sport in athletes. The odds of returning to sport were 6.3 times greater in athletes with postoperative alpha angles ≤46° compared with athletes with angles >46°."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III, retrospective cohort study."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

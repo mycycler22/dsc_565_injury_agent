@@ -1,0 +1,31 @@
+{
+  "pmid": "21285672",
+  "title": "Value of lateral blood pool imaging in patients with suspected stress fractures of the tibia.",
+  "year": "2011",
+  "journal": "Clinical nuclear medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "To critically evaluate the use of lateral blood pool imaging in athletes with lower limb pain and with a clinical suspicion of stress fracture."
+    },
+    {
+      "label": "METHODS",
+      "text": "Two experienced nuclear medicine physicians evaluated 3-phase bone scans using 99mTc-methylene diphosphonate performed in 50 consecutive patients referred from a specialist sports injury clinic for suspected tibial stress fracture. The vascularity to the tibia as seen on the blood pool (second phase) images in the anterior/posterior views was compared with the lateral/medial view assessments. Stress fractures were presumed to be present when on the delayed images (third phase) there was a focal or fusiform area of increased tracer uptake involving the tibial cortex. Shin splints which are a recognized cause of lower limb pain in athletes mimicking stress fracture were diagnosed if increased tracer uptake was seen extending along the posterior tibial surface with no significant focal or fusiform area of uptake within this. Inter-reviewer agreement for the assessment of vascularity was also assessed using Cohen's Kappa scores."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-four stress fractures in 24 patients and 66 shin splints in 40 patients were diagnosed. In 18 patients stress fracture and shin splints coexisted. In 10 patients no tibial pathology was identified. Of the 24 patients diagnosed with stress fractures, lateral/medial blood pool imaging was superior in the assessment of blood pool activity (P < 0.001) identifying increased vascularity in 21 cases compared with the anterior/posterior views positive in only 11 cases. The inter-reviewer agreement was near perfect for lateral/medial views, κ = 0.86 while very good for anterior/posterior views, κ = 0.68."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In patients with suspected tibial stress fractures, lateral views of the tibia provide the optimal method for evaluation of vascularity. Prospective studies with quantitative or semi-quantitative assessment of skeletal vascularity could provide supplementary information relating to the pathophysiology of stress fractures, for example, the time scale of vascular changes after a tibial stress fracture, and potentially could have clinical relevance as to the assessment of the severity of stress fractures and their prognosis."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

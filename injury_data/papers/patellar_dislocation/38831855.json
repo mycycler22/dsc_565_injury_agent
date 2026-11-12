@@ -1,0 +1,35 @@
+{
+  "pmid": "38831855",
+  "title": "Outcomes of treatment of patella fractures in children and adolescents.",
+  "year": "2024",
+  "journal": "Journal of children's orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study is to assess clinical and functional outcomes in separate cohorts of operatively and nonoperatively managed pediatric patella fractures."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review was completed for patients aged 5-19 years treated for a unilateral patella fracture at a single pediatric level-1 trauma center. Patients were excluded for osteochondral fracture associated with patellar dislocation, polytrauma presentation with additional fractures, or <3 months of clinical follow-up. Functional outcomes were assessed via the Pediatric International Knee Documentation Committee form and the Marx Knee Activity Scale."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 53 patients met inclusion criteria; 30 patients were treated operatively and 23 patients were treated nonoperatively. Patients with patellar sleeve/pole fractures were significantly younger by 5.2 years (p < 0.01) and presented with greater variability in mechanism of injury (p < 0.01). The nonoperative cohort achieved bony healing and returned to sports at a median (interquartile range) of 1.7 (1.2-2.3) months and 2.8 (2.3-3.3) months, respectively, post-injury. The operative group achieved bony healing and returned to sports at 2.8 (2.1-3.5) months and 5.9 (4.0-7.1) months, respectively, following surgery. Median (interquartile range) Pediatric International Knee Documentation Committee and Marx scores were 98 (89-100) and 14 (10-16), respectively, for the nonoperative group, and 92 (84-99) and 13 (12-16), respectively, for the operative group. No significant differences in patient-reported outcomes were observed between fracture patterns or treatment cohorts."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Pediatric and adolescent patients sustaining patella fractures reported long-term functional outcomes comparable to normative values, across multiple fracture patterns and with appropriate operative and nonoperative treatment. Fractures requiring surgery were expectedly associated with slower healing and return to sport timelines."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Therapeutic Level III."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

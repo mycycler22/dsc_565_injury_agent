@@ -1,0 +1,32 @@
+{
+  "pmid": "26976373",
+  "title": "The Effectiveness of Multimodal Care for Soft Tissue Injuries of the Lower Extremity: A Systematic Review by the Ontario Protocol for Traffic Injury Management (OPTIMa) Collaboration.",
+  "year": "2016",
+  "journal": "Journal of manipulative and physiological therapeutics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of this systematic review was to evaluate the effectiveness of multimodal care for the management of soft tissue injuries of the lower extremity."
+    },
+    {
+      "label": "METHODS",
+      "text": "We systematically searched MEDLINE, EMBASE, PsycINFO, CINAHL, and the Cochrane Central Register of Controlled Trials from 1990 to 2015. Random pairs of independent reviewers screened studies for relevance and critically appraised eligible studies using the Scottish Intercollegiate Guidelines Network criteria. We included studies with a low risk of bias in our best evidence synthesis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We screened 6794 articles. Six studies had a low risk of bias and addressed the following: plantar heel pain (n = 2), adductor-related groin pain (n = 1), and patellofemoral pain (n = 3). The evidence suggests that multimodal care for the management of persistent plantar heel pain may include mobilization and stretching exercise. An intensive, clinic-based, group exercise program (strengthening, stretching, balance, agility) is more effective than multimodal care for the management of adductor-related groin pain in male athletes. There is inconclusive evidence to support the use of multimodal care for the management of persistent patellofemoral pain. Our search did not identify any low risk of bias studies examining multimodal care for the management of other soft tissue injuries of the lower extremity."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A multimodal program of care for the management of persistent plantar heel pain may include mobilization and stretching exercise. Multimodal care for adductor-related groin pain is not recommended based on the current evidence. There is inconclusive evidence to support the use of multimodal care for the management of persistent patellofemoral pain."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

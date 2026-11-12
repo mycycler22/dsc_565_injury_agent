@@ -1,0 +1,32 @@
+{
+  "pmid": "21283996",
+  "title": "Analysis of achilles tendon vascularity with second-generation contrast-enhanced ultrasound.",
+  "year": "2011",
+  "journal": "Journal of clinical ultrasound : JCU",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To compare morphological, power Doppler, and contrast-enhanced ultrasound (CEUS) features of the Achilles tendon between asymptomatic athletes and athletes who had undergone surgical repair of a previous rupture."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-four athletes were divided in two groups (A and B). Group A included 14 patients with a median age of 32 years (range 27 to 47 years) who had undergone surgical repair for unilateral Achilles tendon rupture. Group B (control group) included 10 subjects with a median age of 34 years (range 27 to 40 years) with no previous or present history of tendinopathy. All patients were evaluated with ultrasound, power Doppler, and CEUS with second-generation contrast agent. We studied the uninjured Achilles tendon in athletes of group A and either the left or the right Achilles tendon of the athletes in group B."
+    },
+    {
+      "label": "RESULTS",
+      "text": "CEUS showed a significantly greater ability to detect a greater number of vascular spots within the uninjured tendon of group A compared to group B (<0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In athletes who had suffered a tear of an Achilles tendon, CEUS detected small vessels that were not identified by power Doppler ultrasound in the uninjured contralateral Achilles tendon. CEUS is useful to evaluate vascularity not detected by other imaging techniques. Vascularity in the uninjured tendon seems to be increased in patients who had a previous rupture."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

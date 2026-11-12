@@ -1,0 +1,36 @@
+{
+  "pmid": "22508247",
+  "title": "Is body composition associated with an increased risk of developing anterior knee pain in adolescent female athletes?",
+  "year": "2012",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the relationship between relative body composition and body mass to height, anterior knee pain, or patellofemoral pain (PFP) in adolescent female athletes."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain is common in female athletes and has an undefined etiology. The purpose of this study was to examine whether there was an association among higher body mass index (BMI), BMI z-scores, and relative body fat percentage in the development of PFP in an adolescent female athlete population. We hypothesized that female athletes who developed PFP over the course of a competitive basketball season had higher relative body mass or body fat percentage compared with those who did not develop PFP."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifteen middle school basketball teams that consisted of 248 basketball players (mean age, 12.76 ± 1.13 years; height, 158.43 ± 7.78 cm; body mass, 52.35 ± 12.31 kg; BMI, 20.73 ± 3.88 kg/m(2)) agreed to participate in this study over the course of 2 basketball seasons, resulting in 262 athlete-seasons. Testing included the completion of the Anterior Knee Pain Scale (AKPS), International Knee Documentation Committee (IKDC) form, standardized history, physician-administered physical examination, maturational estimates, and anthropometrics."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 262 athlete-seasons monitored, 39 athletes developed PFP over the course of the study. The incidence rate of new PFP was 1.57 per 1000 athlete-exposures. The cumulative incidence of PFP was 14.9%. There was no difference in BMI between those who developed PFP (mean body mass, 20.2 kg/m(2); 95% CI,18.9-21.4) and those who did not develop PFP (mean body mass, 20.8 kg/m(2); 95% CI, 20.3-21.3;P > 0.05). Body mass index z-scores were not different between those who developed PFP (mean, 0.3; 95% CI, 0.7-0.6) and those who did not develop PFP (mean, 0.4; 95% CI, 0.3-0.6;P > 0.05). A similar trend was noted in relative body fat percentage, with mean scores of similar ranges in those who developed PFP (mean body fat percentage, 22.2%; 95% CI, 19.4-24.9) to the referent group who did not (mean body fat percentage, 22.9%; 95% CI, 21.8-24.1;P > 0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our results do not indicate a relationship between relative body composition or relative body mass to height to the propensity to develop PFP in middle school-aged female basketball players. Although previous data indicate a relationship between higher relative body mass and overall knee injury, these data did not support this association with PFP specifically. These data suggest the underlying etiology of PFP may be neuromuscular in nature. Further research is needed to understand the predictors, etiology, and ultimate prevention of this condition."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

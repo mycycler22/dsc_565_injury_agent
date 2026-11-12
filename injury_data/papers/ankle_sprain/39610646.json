@@ -1,0 +1,31 @@
+{
+  "pmid": "39610646",
+  "title": "Hormonal Fluctuation and Ankle Instability in Women-Is There a Correlation?",
+  "year": "2024",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "With higher incidences of ankle sprains and chronic ankle instability in women, it has been postulated that hormonal modulation and ligamentous laxity influences injury propensity. The purpose of this study is to investigate the impact of hormonal fluctuation on ankle stability and ligamentous laxity and their potential contribution to injury propensity in the female athlete."
+    },
+    {
+      "label": "METHODS",
+      "text": "In November 2023, a systematic review of the MEDLINE, Embase, and Cochrane Library databases was performed following PRISMA guidelines. Articles were included if they were published after the year 2000, evaluated outcomes related to the impact of hormones on ankle stability in healthy patients, and included menstrual tracking. The following search terms were used: \"(sex or gender) AND (ankle stability)\" and \"(hormone) AND (ankle).\""
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirteen articles were included, with 253 (76.4%) women at a weighted mean age of 21.9 ± 2.0 years (range, 20.0-25.9). Five studies evaluated postural sway and balance noting greater sway rates during ovulation compared with the follicular phase. Greater muscle tone (<i>P</i> < .001) was observed in the follicular phase than ovulation for the tibialis anterior, peroneus longus, and lateral gastrocnemius. Significantly higher ankle joint laxity was observed in ovulation (<i>P</i> = .016)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This review found that during ovulation, when estrogen peaks, subjects showed impaired balance with higher postural sway rates, greater ankle joint laxity, and decreased muscle and ligamentous tone and stiffness-an indicator of laxity. An underlying hormonally mediated etiology for the increased propensity to ankle instability in the female athlete is suggested. Syncing an athlete's workout type and intensity around menstrual cycle phase may be an advantageous strategy for injury prevention."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

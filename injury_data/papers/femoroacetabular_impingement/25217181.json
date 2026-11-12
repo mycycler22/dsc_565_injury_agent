@@ -1,0 +1,46 @@
+{
+  "pmid": "25217181",
+  "title": "Rehabilitation and return to sport after bilateral open surgery for femoroacetabular impingement in a professional ice hockey player: A case report.",
+  "year": "2015",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case report."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "The aim of this case report was to describe the rehabilitation and return to sport of a professional ice hockey player with symptomatic femoroacetabular impingement (FAI) after bilateral open hip surgery."
+    },
+    {
+      "label": "CASE DESCRIPTION",
+      "text": "A 21-year-old professional ice hockey player with symptomatic FAI underwent bilateral surgical hip dislocations within a 6-week time period. After the second surgery (right hip), he experienced right hip pain due to iliotibial band dehiscence, which required additional revision surgery. The athlete underwent a standardized rehabilitation protocol. Hip muscle strength was objectively assessed during rehabilitation."
+    },
+    {
+      "label": "OUTCOMES",
+      "text": "Iliotibial band dehiscence did not allow the athlete to increase ipsilateral hip abductor strength. This prolonged the rehabilitation period for 12 weeks. The athlete returned to training on the ice without physical contact and to competitive matchplay after 7 and 8 months, respectively."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "This case report showed that iliotibial band dehiscence occurred after open hip surgery and delayed the return to sport of this athlete. Standardized rehabilitation following bilateral open hip surgery was however successful for the return to sport of this professional ice hockey player with bilateral symptomatic FAI."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "OUTCOMES",
+      "sentence": "This prolonged the rehabilitation period for 12 weeks."
+    },
+    {
+      "section": "OUTCOMES",
+      "sentence": "The athlete returned to training on the ice without physical contact and to competitive matchplay after 7 and 8 months, respectively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

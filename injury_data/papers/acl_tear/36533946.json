@@ -1,0 +1,40 @@
+{
+  "pmid": "36533946",
+  "title": "Effect of Delayed Anterior Cruciate Ligament Reconstruction on Repair of Concomitant Medial Meniscus Tears in Young Athletes.",
+  "year": "2023",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Delayed anterior cruciate ligament (ACL) reconstruction (ACLR) is associated with an increased risk of meniscal injury. Limited data are available regarding the relationship between surgical delay and meniscal repairability in the setting of ACLR in young patients."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine whether time from ACL injury to primary ACLR was associated with the incidence of medial and/or lateral meniscal repair in young athletes who underwent meniscal treatment at the time of ACLR."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Records were retrospectively reviewed for patients aged 13 to 25 years who underwent primary ACLR between January 2017 and June 2020 by surgeons from a single academic orthopaedic surgery department. Demographic data were collected, and operative reports were reviewed to document all concomitant pathologies and procedures. Univariable and multivariable logistic regression analyses were used to determine factors associated with meniscal repair, including time elapsed from ACL injury to surgery."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Concomitant meniscal tears were identified and treated in 243 of 427 patients; their mean age was 17.9 ± 3.3 years, and approximately half (47.7%) of patients were female. There were 144 (59.3%) medial tears treated and 164 (67.5%) lateral tears treated; 65 (26.7%) patients had both medial and lateral tears treated. Median time from ACL injury to ACLR was 2.4 months (interquartile range, 1.4-4.7 months). Adjusted univariate analysis showed a statistically significant correlation between medial meniscal repair and time to surgery, with a 7% decreased incidence of medial meniscal repair per month elapsed between injury and surgery (odds ratio, 0.93 per month; 95% CI, 0.89-0.98; <i>P</i> = .006). No similar relationship was found between lateral meniscal repair and time to surgery (odds ratio, 1.02; 95% CI, 0.99-1.06; <i>P</i> = .24)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In the setting of concomitant ACL and meniscal injuries, surgical delay decreased the incidence of medial meniscal repair in young athletes by 7% per month from time of injury."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

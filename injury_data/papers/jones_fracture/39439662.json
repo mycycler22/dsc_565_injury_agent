@@ -1,0 +1,35 @@
+{
+  "pmid": "39439662",
+  "title": "Comparison of Clinical and Radiographic Outcomes Between Solid Headless and Headed Screws in the Treatment of Zone II and III Fifth Metatarsal Fractures in Elite Athletes.",
+  "year": "2024",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Zone II and III fifth metatarsal (5-MT) fractures among athletes are typically managed with percutaneous fixation following anatomic reduction. However, screw head discomfort and refracture after bone union can occur because of the loads placed on the foot during play. Several hardware systems that use a smaller screw head compared to traditional hardware systems have been developed to minimize the rate of postoperative hardware complications. This study compares clinical and radiographic outcomes of 5-MT fractures in elite athletes treated with a solid headless screw vs a solid headed screw. We hypothesized that the headless screw would be associated with faster union rates, faster clearance times, and lower incidence of symptomatic hardware compared to the headed screw."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes competing at a collegiate level or higher treated for a zone II or III 5-MT fracture between 2016 and 2022 by 2 surgeons fellowship-trained in foot and ankle orthopaedics were screened. Operative notes were reviewed to determine the hardware system used. Subjects were divided based on the hardware system used during operation: headed screw and headless screw. Time to radiographic union, time to full clearance, and return to competition were determined. Postoperative complications, including nonunions, need for revision, need for hardware removal, and refractures were also noted."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Forty eligible patients (44 feet) were identified. The solid headed screw group included 20 patients (21 fractures), and the solid headless screw group included 20 patients (23 fractures). Average time to union for the headed screw group was 11.78 (range, 5.86-19.00) weeks; average time to union for the headless screw group was 11.65 (range, 6.00-22.57) weeks (<i>P</i> = .93). Nineteen out of twenty (95%) patients were able to return to competition in both groups. Average time to return to competition for the headed screw group was 26.9 (range, 10.00-47.86) weeks, while average time for the headless screw group was 21.2 (range, 6.86-55.00) weeks (<i>P</i> = .55). The overall complication rate for the headed screw was 23.8%, which was not statistically different from the overall complication rate for the headless screw of 13.0% (<i>P</i> = .35)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In this relatively small sample of elite athletes undergoing operative fixation of a 5-MT fracture, fixation using either a headless or headed screw system had similar good outcomes in regard to times to union, return to competition, and complication rate regardless of solid screw head type used."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective cohort study."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

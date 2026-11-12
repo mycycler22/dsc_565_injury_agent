@@ -1,0 +1,31 @@
+{
+  "pmid": "31435567",
+  "title": "Dash-Associated Spondylolysis Hypothesis.",
+  "year": "2019",
+  "journal": "Spine surgery and related research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "In past biomechanical studies, repetitive motion of lumbar extension, rotation, or a combination of both, frequently seen in batting or pitching practice in baseball, shooting practice in soccer, and spiking practice in volleyball, have been considered important risk factors of lumbar spondylolysis. However, clinically, these have been identified in many athletes performing on a running track or on the field, which requires none of the practices described above. The purpose of this study was to verify how much impact running has on the pathologic mechanism of lumbar spondylolysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "In study 1, 89 consecutive pediatric patients diagnosed with lumbar spondylolysis at a single outpatient clinic between January 2012 and February 2017 were retrospectively analyzed. In study 2, motion analysis was performed on 17 male volunteers who had played on a soccer team without experiencing low back pain or any type of musculoskeletal injury. A Vicon motion capture system was used to evaluate four movements: maximal effort sprint (Dash), comfortable running (Jog), instep kick (Shoot), and inside kick (Pass)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In study 1, 13 of the 89 patients with lumbar spondylolysis were track and field athletes. In study 2, motion analysis revealed that the hip extension angle, spine rotation angle, and hip flexion moment were similar in Dash and Shoot during the maximum hip extension phase. The pelvic rotation angle was significantly greater in the kicking conditions than in the running conditions."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Kinematically and kinetically, the spinopelvic angles in Dash were considered similar to those in Shoot. Dash could cause mechanical stress at the pars interarticularis of the lumbar spine, similar to that caused by Shoot, thus leading to spondylolysis."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

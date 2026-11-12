@@ -1,0 +1,24 @@
+{
+  "pmid": "32501519",
+  "title": "Return to Sport Following Adolescent Concussion: Epidemiologic Findings From a High School Population.",
+  "year": "2020",
+  "journal": "Orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "High school athletes sustaining a concussion require careful attention when determining return-to-sport (RTS) readiness. The purpose of this study was to determine epidemiological and RTS data of a large cohort of high school athletes who sustained 1 or more concussions. Records of 357 consecutive youth patients who sustained concussions and presented to a single health care system between September 2013 and December 2016 were reviewed. Demographic data, RTS, and concussion-related variables were obtained via chart review. Immediate Post-Concussion Assessment and Cognitive Testing (ImPACT) scores at baseline and following concussions were performed by neuropsychologists. The average age at injury was 15.5 years (range, 14-18 years), 61.9% of patients were male, 6.7% reported a loss of consciousness, and 14.3% reported amnesia, requiring 30.4±23.3 days of recovery prior to RTS. The most common sport of injury was football (27.7%). There was a high incidence of previous concussion (33.1%), and 32 athletes sustained a recurrent concussion. A multivariate model demonstrated that females, players with a history of concussion, and those diagnosed in-clinic rather than in-game required increased time to RTS. Memory ImPACT scores were found to increase as players had recurrent concussions. Visual motor speed and reaction time scores decreased with recurrent concussions. [Orthopedics. 2020;43(4):e306-e310.]."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The average age at injury was 15.5 years (range, 14-18 years), 61.9% of patients were male, 6.7% reported a loss of consciousness, and 14.3% reported amnesia, requiring 30.4±23.3 days of recovery prior to RTS."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

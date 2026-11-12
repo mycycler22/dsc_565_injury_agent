@@ -1,0 +1,43 @@
+{
+  "pmid": "37020443",
+  "title": "Elbow Injuries Among MLB Pitchers Increased During Covid-19 Disrupted Season, But Not Other Baseball Injuries.",
+  "year": "2023",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The 2020 Major League Baseball Season (MLB) demonstrated season disruptions due to the COVID-19 pandemic. Changes in training and seasonal time frames may be associated with higher rates of injury."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To use publicly available data to compare injury rates during the 2015-2019 seasons, COVID-19 shortened season (2020), and the 2021 season stratified by body region and position (pitchers versus position players)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "A retrospective cohort study utilizing publicly available data."
+    },
+    {
+      "label": "METHODS",
+      "text": "MLB players who competed in 1+ seasons between 2015-2021 were included and stratified by position (pitcher, position player). Incidence rate (IR), reported by 1000 x Athlete-Game Exposures (AGEs), was calculated for each season, and stratified by position and body region. Poisson regressions were performed for all injuries and stratified by position to determine association between season and injury incidence. Subgroup analyses were performed on the elbow, groin/hip/thigh, shoulder."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Four thousand, two hundred and seventy-four injuries and 796,502 AGEs across 15,152 players were documented. Overall IR was similar across seasons (2015-2019:5.39; 2020:5.85; 2021:5.04 per 1000 AGEs). IR remained high for the groin/hip/thigh for position players (2015-2019:1.7; 2020:2.0; 2021:1.7 per 1000 AGEs). There was no difference in injury rates between 2015-2019 and 2020 seasons [1.1 (0.9-1.2), p=0.310]. The 2020 season demonstrated a significant increase in elbow injuries [2.7 (1.8-4.0), p<0.001]; when stratified by position, this increase remained significant for pitchers [pitchers: 3.5 (2.1-5.9), p<0.001; position players: 1.8 (0.9-3.6), p=0.073]. No other differences were observed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The groin/hip/thigh demonstrated the highest IR in 2020 among position players across all season time frames, indicating that continued injury mitigation for this region is necessary. When stratified by body region, elbow injury rates among pitchers demonstrated 3.5 times the rate of injury in 2020 compared to previous seasons, impacting injury burden for the most vulnerable body region among pitchers."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

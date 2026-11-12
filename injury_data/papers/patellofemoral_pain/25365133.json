@@ -1,0 +1,69 @@
+{
+  "pmid": "25365133",
+  "title": "Strengthening of the hip and core versus knee muscles for the treatment of patellofemoral pain: a multicenter randomized controlled trial.",
+  "year": "2015",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Patellofemoral pain (PFP) is the most common injury in running and jumping athletes. Randomized controlled trials suggest that incorporating hip and core strengthening (HIP) with knee-focused rehabilitation (KNEE) improves PFP outcomes. However, no randomized controlled trials have, to our knowledge, directly compared HIP and KNEE programs."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare PFP pain, function, hip- and knee-muscle strength, and core endurance between KNEE and HIP protocols after 6 weeks of rehabilitation. We hypothesized greater improvements in (1) pain and function, (2) hip strength and core endurance for patients with PFP involved in the HIP protocol, and (3) knee strength for patients involved in the KNEE protocol."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Randomized controlled clinical trial."
+    },
+    {
+      "label": "SETTING",
+      "text": "Four clinical research laboratories in Calgary, Alberta; Chicago, Illinois; Milwaukee, Wisconsin; and Augusta, Georgia."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "Of 721 patients with PFP screened, 199 (27.6%) met the inclusion criteria (66 men [31.2%], 133 women [66.8%], age = 29.0 ± 7.1 years, height = 170.4 ± 9.4 cm, weight = 67.6 ± 13.5 kg)."
+    },
+    {
+      "label": "INTERVENTION(S)",
+      "text": "Patients with PFP were randomly assigned to a 6-week KNEE or HIP protocol."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Primary variables were self-reported visual analog scale and Anterior Knee Pain Scale measures, which were conducted weekly. Secondary variables were muscle strength and core endurance measured at baseline and at 6 weeks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Compared with baseline, both the visual analog scale and the Anterior Knee Pain Scale improved for patients with PFP in both the HIP and KNEE protocols (P < .001), but the visual analog scale scores for those in the HIP protocol were reduced 1 week earlier than in the KNEE group. Both groups increased in strength (P < .001), but those in the HIP protocol gained more in hip-abductor (P = .01) and -extensor (P = .01) strength and posterior core endurance (P = .05) compared with the KNEE group."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Both the HIP and KNEE rehabilitation protocols produced improvements in PFP, function, and strength over 6 weeks. Although outcomes were similar, the HIP protocol resulted in earlier resolution of pain and greater overall gains in strength compared with the KNEE protocol."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "Both the HIP and KNEE rehabilitation protocols produced improvements in PFP, function, and strength over 6 weeks."
+    }
+  ],
+  "pmcid": "4560005",
+  "fulltext_chunks": [
+    {
+      "section": "Main Outcome Measure(s):",
+      "text": "Primary variables were self-reported visual analog scale and Anterior Knee Pain Scale measures, which were conducted weekly. Secondary variables were muscle strength and core endurance measured at baseline and at 6 weeks."
+    },
+    {
+      "section": "Results:",
+      "text": "Compared with baseline, both the visual analog scale and the Anterior Knee Pain Scale improved for patients with PFP in both the HIP and KNEE protocols (P < .001), but the visual analog scale scores for those in the HIP protocol were reduced 1 week earlier than in the KNEE group. Both groups increased in strength (P < .001), but those in the HIP protocol gained more in hip-abductor (P = .01) and -extensor (P = .01) strength and posterior core endurance (P = .05) compared with the KNEE group."
+    }
+  ]
+}

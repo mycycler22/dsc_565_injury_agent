@@ -1,0 +1,53 @@
+{
+  "pmid": "37578852",
+  "title": "Republication of \"High-Speed Video Analysis of Syndesmosis Injuries in Soccer-Can It Predict Injury Mechanism and Return to Play? A Pilot Study\".",
+  "year": "2023",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle syndesmosis injuries in professional soccer may lead to an unpredictable and prolonged recovery. This injury has been investigated in anatomical and radiologic studies but the precise mechanism leading to syndesmosis injury is not well understood and remains debated. The 2 goals of this study were to (1) evaluate the relationship between the mechanism of syndesmosis injury as determined by high-speed video analysis and the injured structures identified by clinical and radiologic examination and to (2) investigate the relationship between mechanism of injury and time of return to play."
+    },
+    {
+      "label": "METHODS",
+      "text": "This pilot study prospectively reviewed high-speed video analysis of 12 professional soccer players who sustained syndesmosis injuries. The mechanism of injury was compared with the clinical and MRI evaluation and the time taken to return to play."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Higher-grade syndesmosis injuries occurred during ankle external rotation with dorsiflexion. Supination-inversion injuries with a standard lateral ankle sprain (rupture of the anterior talofibular ligament) may extend proximally, causing a lower-grade syndesmosis injury. These may present with signs of a high ankle sprain but have a quicker return to sport than those following a dorsiflexion-external rotation injury (mean 26 days vs 91 days)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Video analysis confirmed that at least 2 mechanisms may result in injury to the ankle syndesmosis. Those \"simple\" ankle sprains with signs of syndesmosis injury had a quicker return to play. This new finding may be used by club medical teams during their initial assessment and help predict the expected time away from soccer in players with suspected high ankle sprains."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, retrospective cohort study."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "These may present with signs of a high ankle sprain but have a quicker return to sport than those following a dorsiflexion-external rotation injury (mean 26 days vs 91 days)."
+    }
+  ],
+  "pmcid": "10422888",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Higher-grade syndesmosis injuries occurred during ankle external rotation with dorsiflexion. Supination-inversion injuries with a standard lateral ankle sprain (rupture of the anterior talofibular ligament) may extend proximally, causing a lower-grade syndesmosis injury. These may present with signs of a high ankle sprain but have a quicker return to sport than those following a dorsiflexion-external rotation injury (mean 26 days vs 91 days)."
+    },
+    {
+      "section": "TABLE: Modified West Point Grading.",
+      "text": "Criteria | Grade I | Grade II | Grade III\nEvidence of instability | None | None or slight | Definite\nLocalization of syndesmosis tenderness | Mild tenderness AITFL only | Tender AITFL, ± PITFL and proximally <6 cm | Tender AITFL, PITFL and proximally >6 cm\nDeltoid ligament involvement | No | Yes/No | Yes\nWeight-bearing ability <5 days from injury | Full or partial without significant pain | Difficult or impossible without supportive device (ie, brace, tape, or cane) | Impossible\nSpecialist tests | Positive external rotation test resultsPositive/negative squeeze test results | Positive external rotation test resultsPositive squeeze test results | Positive external rotation test resultsPositive squeeze test results\nPlain radiographs | No mortice widening | No mortice widening | Mortice widening\nMRI findings | Isolated sprain to AITFL | Rupture AITFL and IOLDeltoid injury ± PITLF | Rupture AITFL, IOL and PITFLDeltoid injury"
+    },
+    {
+      "section": "TABLE: Player Demographics, Injuries, Treatments, and Return to Play.",
+      "text": "Player | Age | Injury | Mechanism | AITFL | ATFL | PITFL | Management | RTP\n1 | 23 | Contact | DF-Ext Rot | Ruptured | Intact | Intact | Nonoperative | 86\n2 | 27 | Contact | DF-Ext Rot | Ruptured | Intact | Intact | Nonoperative | 61\n3 | 18 | Contact | DF-Ext Rot | Ruptured | Intact | Intact | Nonoperative | 40\n4 | 21 | Contact | DF-Ext Rot | Ruptured | Intact | Intact | Operative | 96\n5 | 20 | Contact | DF-Ext Rot | Ruptured | Intact | Intact | Operative | 100\n6 | 26 | Contact | DF-Ext Rot | Ruptured | Intact | Intact | Nonoperative | 60\n7 | 29 | Contact | DF-Ext Rot | Ruptured | Intact | Ruptured | Nonoperative | 165\n8 | 25 | Contact | DF-Ext Rot | Ruptured | Intact | Ruptured | Operative | 140\n9 | 27 | Contact | Sup-Inv | Partial rupture | Ruptured | Intact | Nonoperative | 21\n10 | 22 | Contact | Sup-Inv | Partial rupture | Ruptured | Intact | Nonoperative | 35\n11 | 21 | Contact | Sup-Inv | Partial rupture | Ruptured | Intact | Nonoperative | 22\n12 | 20 | Non-contact | DF-Ext Rot | Ruptured | Intact | Intact | Operative | 72"
+    }
+  ]
+}

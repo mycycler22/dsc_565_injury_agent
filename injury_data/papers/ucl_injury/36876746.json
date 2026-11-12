@@ -1,0 +1,41 @@
+{
+  "pmid": "36876746",
+  "title": "Return to Sport After Nonoperative Management of Elbow Ulnar Collateral Ligament Injuries: A Systematic Review and Meta-analysis.",
+  "year": "2023",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Elbow ulnar collateral ligament (UCL) injuries can result in significant functional impairment in throwing and overhead athletes. UCL reconstruction and repair are proven treatments to restore stability, but the efficacy of nonoperative management is unclear."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the rate of return to sports (RTS) and return to previous level of play (RTLP) in athletes sustaining medial elbow ulnar collateral ligament (UCL) injuries treated nonoperatively."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A literature search was performed using Scopus, PubMed, Medline, the Cochrane Database for Systematic Review, and the Cochrane Central Register for Controlled Trials according to the 2020 PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) statement. Inclusion criteria were limited to level 1 to 4 human studies reporting on RTS outcomes after nonoperative management of UCL injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 15 studies, consisting of 365 patients with a mean age of 20.45 ± 3.26 years, were identified. Treatment primarily consisted of platelet-rich plasma (PRP) injections with physical therapy (n = 189 patients; n = 7 studies) versus physical therapy alone (n = 176 patients; n = 8 studies). The overall RTS rate was 79.7% and the overall RTLP rate was 77.9%. Increasing UCL injury severity grade was associated with lower RTS rates. The RTS rate for proximal tears (89.7%; n = 61/68) was significantly greater than that for distal tears (41.2%; n = 14/34) (<i>P</i> < .0001). No significant difference in RTS rate was seen in patients treated with PRP versus those who did not receive PRP (<i>P</i> = .757)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "For athletes undergoing nonoperative management of UCL injuries, the overall RTS and RTLP rates were 79.7% and 77.9%, respectively, with excellent outcomes in grade 1 and grade 2 UCL injuries, specifically. The RTS rate for proximal tears was significantly higher than that for distal tears. Athletes were most commonly treated with PRP injection and physical therapy."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

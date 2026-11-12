@@ -1,0 +1,39 @@
+{
+  "pmid": "40052181",
+  "title": "Nonoperative Treatment of Anterior Cruciate Ligament Tears With 5-Year Follow-up.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "It remains unknown whether anterior cruciate ligament (ACL) reconstruction (ACLR) alters the natural history of degenerative changes or prevents further injury compared with nonoperative treatment."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to evaluate the midterm risk of knee surgery in patients who sustained an ACL tear treated with initial nonoperative management. It was hypothesized that the majority of patients who pursue initial nonoperative treatment after ACL rupture will not undergo further surgery within 5 years."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "An electronic health record search was performed for all patients aged 12 to 65 years from 2011 to 2012 with magnetic resonance imaging-confirmed ACL tear. Patients who did not undergo ACLR within 6 months after diagnosis comprised our initial cohort. Patients were longitudinally followed until August 31, 2017. The primary outcome was an occurrence of ipsilateral knee surgery, including ACLR and non-ACLR procedures."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 932 patients with a mean age of 36.2 ± 13.6 years were included. The mean follow-up time was 57.9 ± 7.4 months. During the follow-up period, 365 patients (39.2%) had ipsilateral knee surgery, with a mean time from ACL tear diagnosis to the first procedure of 11.9 ± 13.0 months. Overall, 67% of surgeries occurred within 12 months of diagnosis. ACLR was performed in 211 patients (22.6%); 284 patients had non-ACLR knee procedures, with 130 undergoing ACLR and non-ACLR surgery and 154 patients undergoing non-ACLR procedures alone. After adjusting for demographic and clinical factors, younger age remained a significant risk factor for undergoing ACLR: patients aged 12 to 18 years and those aged 19 to 30 years had similar adjusted hazard ratios compared with patients aged 51 to 65 years (5.49 [95% CI, 2.78-10.88] and 5.48 [95% CI, 2.85-10.53], respectively; <i>P</i> < .001 for both)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In this universally insured, contained patient cohort, 39.2% of the patients underwent a subsequent surgical procedure on the ipsilateral knee within 5 years of ACL injury, with 22.6% of patients opting to undergo delayed ACLR. Younger age was an independent risk factor for undergoing ACLR."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

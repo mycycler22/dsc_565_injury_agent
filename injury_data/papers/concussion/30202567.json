@@ -1,0 +1,20 @@
+{
+  "pmid": "30202567",
+  "title": "Genetic findings in sport-related concussions: potential for individualized medicine?",
+  "year": "2017",
+  "journal": "Concussion (London, England)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussion is a traumatic transient disturbance of the brain. In sport, the initial time and severity of concussion is known giving an opportunity for subsequent analysis. Variability in susceptibility and recovery between individual athletes depends, among other parameters, on genetic factors. The genes-encoding polypeptides that determine incidence, severity and prognosis for concussion are the primary candidates for genetic analysis. Genetic polymorphisms in the genes contributing to plasticity and repair (<i>APOE</i>), synaptic connectivity (<i>GRIN2A</i>), calcium influx (<i>CACNA1E</i>), uptake and deposit of glutamate (<i>SLC17A7</i>) are potential biomarkers of concussion incidence and recovery rate. With catalogued genetic variants, prospective genotyping of athletes at the beginning of their career will allow medical professionals to improve concussion management and return-to-play decisions."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

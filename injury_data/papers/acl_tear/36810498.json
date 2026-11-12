@@ -1,0 +1,19 @@
+{
+  "pmid": "36810498",
+  "title": "Morphometric MRI Evaluation of Three Autografts Used in Anterior Cruciate Ligament Reconstruction in Athletes.",
+  "year": "2023",
+  "journal": "Journal of functional morphology and kinesiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The purpose of the present study was to quantify the morphometric characteristics of three tendon autografts (hamstring tendons (HT), quadriceps tendon (QT), and patellar tendon (PT)) used in anterior cruciate ligament (ACL) reconstruction. For this purpose, knee magnetic resonance imaging (MRI) was obtained in 100 consecutive patients (50 males and 50 females) with an acute, isolated ACL tear without any other knee pathology were used. The level of the physical activity of the participants was determined using the Tegner scale. Measurements of the tendons' dimensions (PT and QT tendon length, perimeter, cross-sectional area (CSA), and maximum mediolateral and anteroposterior dimensions) were performed perpendicular to their long axes. Higher values were recorded as regards the mean perimeter and CSA of the QT in comparison with the PT and the HT (perimeter QT: 96.52 ± 30.43 mm vs. PT: 63.87 ± 8.45 mm, HT: 28.01 ± 3.73 mm, F = 404.629, <i>p</i> < 0.001; CSA QT: 231.88 ± 92.82 mm<sup>2</sup> vs. PT: 108.35 ± 28.98 mm<sup>2</sup>, HT: 26.42 ± 7.15 mm<sup>2</sup>, F = 342.415, <i>p</i> < 0.001). The length of the PT was shorter in comparison with the QT (53.1 ± 7.8 vs. 71.7 ± 8.6 mm, respectively, <i>t</i> = -11.243, <i>p</i> < 0.001). The three tendons showed significant differences in relation to sex, tendon type, and position as regards the perimeter, CSA, and the mediolateral dimensions but not for the maximum anteroposterior dimension."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

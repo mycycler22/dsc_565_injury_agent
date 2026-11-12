@@ -1,0 +1,24 @@
+{
+  "pmid": "41457115",
+  "title": "Neural Modification To Treat Chronic Tendinopathy: Emerging Evidence and Opportunities for Pain Practitioners - A Systematic Review.",
+  "year": "2025",
+  "journal": "Current pain and headache reports",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "This systematic review aims to evaluate procedural interventions for chronic tendinopathy, with a focus on neurogenic mechanisms such as nerve ingrowth and neovascularization. Tendinopathy affects both athletes and the general population significantly, with up to 45% of cases eventually requiring surgical intervention despite conventional treatments. Recent advances highlight neurogenic mechanisms, such as nociceptive and autonomic fiber proliferation, as central to the pathology of chronic tendon pain, shifting focus toward targeted procedural interventions. The present investigation evaluates the efficacy and safety of interventions targeting chronic tendon neurogenesis, considered to be a major regulator of chronic tendon pain. The study focuses on procedural treatments, encompassing both percutaneous and surgical approaches, to manage tendinopathy effectively."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "A systematic review included eleven clinical studies investigating interventions targeting nerve ingrowth, such as high-volume injections (HVIs; including high-volume distension injection [HVDI] and high-volume image-guided injection [HVIGI]), sclerosing injections, radiofrequency microtenotomy, minimally invasive stripping, electrocoagulation therapy, and surgical procedures. These studies demonstrated moderate methodological quality, with MINORS scores ranging from 10 to 13. The pooled analysis of outcomes showed a mean reduction in VAS pain scores of 33.15 mm (SD: 17.70 mm), indicating significant pain relief. Functional improvement was also notable, with a pooled mean change in VAS function scores of 29.28 mm (SD: 23.64 mm). In addition, the pooled mean improvement in VISA scores was 23.90 points (SD: 18.98 points), while the pooled mean change in disability levels was 3.20 (SD: 25.0), highlighting the positive impact of these interventions in reducing functional impairment. Collectively, these findings support the efficacy of procedural treatments targeting neurogenic mechanisms in the management of chronic tendinopathy. This review included eleven clinical studies evaluating six types of interventional procedures. Interventions focusing on nerve ingrowth mechanisms demonstrated promising outcomes for chronic tendinopathy, significantly reducing pain and enhancing functional capabilities. Despite promising results, the variability in study quality, particularly in blinding, underscores the need for more robust trials. This study supports integrating neurogenic targeting strategies into clinical practice, which could potentially revolutionize treatment paradigms in tendinopathy within pain medicine."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

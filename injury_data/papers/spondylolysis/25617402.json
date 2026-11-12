@@ -1,0 +1,39 @@
+{
+  "pmid": "25617402",
+  "title": "Pre-existing lumbar spine diagnosis as a predictor of outcomes in National Football League athletes.",
+  "year": "2015",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "It is currently unknown how pre-existing lumbar spine conditions may affect the medical evaluation, draft status, and subsequent career performance of National Football League (NFL) players."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine if a pre-existing lumbar diagnosis affects a player's draft status or his performance and longevity in the NFL."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "The investigators evaluated the written medical evaluations and imaging reports of prospective NFL players from a single franchise during the NFL Scouting Combine from 2003 to 2011. Players with a reported lumbar spine diagnosis and with appropriate imaging were included in this study. Athletes were then matched to control draftees without a lumbar spine diagnosis by age, position, year, and round drafted. Career statistics and performance scores were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of a total of 2965 athletes evaluated, 414 were identified as having a pre-existing lumbar spine diagnosis. Players without a lumbar spine diagnosis were more likely to be drafted than were those with a diagnosis (80.2% vs. 61.1%, respectively, P < .001). Drafted athletes with pre-existing lumbar spine injuries had a decrease in the number of years played compared with the matched control group (4.0 vs. 4.3 years, respectively, P = .001), games played (46.5 vs. 50.8, respectively, P = .0001), and games started (28.1 vs. 30.6, respectively, P = .02) but not performance score (1.4 vs. 1.8, respectively, P = .13). Compared with controls, players were less likely to be drafted if they had been diagnosed with spondylosis (62.37% vs. 78.55%), a lumbar herniated disc (60.27% vs. 78.43%), or spondylolysis with or without spondylolisthesis (64.44% vs. 78.15%) (P < .001 for all), but there was no appreciable effect on career performance; however, the diagnosis of spondylolysis was associated with a decrease in career longevity (P < .05). Notably, 2 athletes who had undergone posterior lateral lumbar fusion were drafted. One played in 125 games, and the other is still active and has played in 108 games."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The data in this study suggest that athletes with pre-existing lumbar spine conditions were less likely to be drafted and that the diagnosis is associated with a decrease in career longevity but not performance. Players with lumbar fusion have achieved successful careers in the NFL."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

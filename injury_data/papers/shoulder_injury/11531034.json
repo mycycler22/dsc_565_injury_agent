@@ -1,0 +1,44 @@
+{
+  "pmid": "11531034",
+  "title": "Comparing sports injuries in men and women.",
+  "year": "2001",
+  "journal": "International journal of sports medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To compare the pattern of injury between men and women in seven collegiate sports to determine if gender-specific factors exist which could be modified to reduce the risk of injury to female athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort study of injury reports compiled by certified athletic trainers between Fall 1980 and Spring 1995."
+    },
+    {
+      "label": "SETTING",
+      "text": "An NCAA division III College."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Eighteen to 22 year-old male and female college athletes competing in seven like sports (basketball, cross-country running, soccer, swimming, tennis, track and water polo) at the intercollegiate level, playing similar number of contests and using the same facilities."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Analyses of injury patterns, classified by sport and anatomic location, for men and women in seven like sports."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 3,767 participants were included in the study, with 1874 sports-related injuries reported among the men and women's teams. Of these injuries, 856 (45.7%) were sustained by female and 1018 (54.3%) by male athletes. Overall, no statistically significant gender difference was found for injuries per 100 participant-years (52.5 for female athlete versus 47.7 for males). A statistically significant gender difference in injury incidence (p < 0.001) was seen for two sports: swimming and water polo. Female swimmers reported more back/neck, shoulder, hip, knee and foot injuries: and female water polo players reported more shoulder injuries. When evaluating all sports concurrently, female athletes reported a higher rate of hip, lower-leg and shoulder injuries, while male athletes reported a higher rate of thigh injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Except for some minor gender differences in total injuries for two sports and several differences in total injuries by anatomic location, our data suggest very little difference in the pattern of injury between men and women competing in comparable sports. The increased rate of shoulder injury among female swimmers probably resulted from the more rigorous training philosophy of their coach. Thus, no gender-specific recommendations can be suggested for decreasing the incidence of injury to female athletes competing in these sports."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

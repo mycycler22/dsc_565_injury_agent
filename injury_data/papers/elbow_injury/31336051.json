@@ -1,0 +1,40 @@
+{
+  "pmid": "31336051",
+  "title": "Throwing Injuries in Youth Baseball Players: Can a Prevention Program Help? A Randomized Controlled Trial.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Throwing injuries of the shoulder and elbow are common among youth baseball players."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "A prevention program will reduce the incidence of throwing injuries of the shoulder and elbow by 50% among youth baseball players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Randomized controlled trial; Level of evidence, 1."
+    },
+    {
+      "label": "METHODS",
+      "text": "The authors block randomized 16 youth baseball teams consisting of 237 players aged 9 to 11 years into an intervention group (8 teams, 117 players) and a control group (8 teams, 120 players). The intervention program consisted of 5 stretching, 2 dynamic mobility, and 2 balance training exercises performed during warm-up. Both groups were followed up for 12 months, during which the incidence of shoulder and elbow injuries was recorded. In addition, ball speed during pitching as a performance-related factor and variables of physical function (passive range of motion of the elbow, shoulder and hip, dynamic balance, and thoracic kyphosis angle) were assessed during the pre- and postintervention periods."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The incidence of shoulder and elbow injuries in the intervention group (1.7 per 1000 athlete-exposures) was significantly lower than that in the control group (3.1 per 1000 athlete-exposures) (hazard ratio, 1.940; 95% CI, 1.175-3.205; <i>P</i> = .010). The factors related to pitching performance, as assessed by ball speed, tended to increase in the intervention group as compared with the control group (<i>P</i> = .010). The program also improved shoulder horizontal adduction deficits on the dominant side, hip internal rotation on the nondominant side, and the thoracic kyphosis angle."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A prevention program decreases throwing injuries of the shoulder and elbow and enhances the parameter of pitching performance in youth baseball players."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

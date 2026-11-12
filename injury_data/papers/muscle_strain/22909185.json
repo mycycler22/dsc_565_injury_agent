@@ -1,0 +1,36 @@
+{
+  "pmid": "22909185",
+  "title": "Which screening tools can predict injury to the lower extremities in team sports?: a systematic review.",
+  "year": "2012",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Injuries to lower extremities are common in team sports such as soccer, basketball, volleyball, football and field hockey. Considering personal grief, disabling consequences and high costs caused by injuries to lower extremities, the importance for the prevention of these injuries is evident. From this point of view it is important to know which screening tools can identify athletes who are at risk of injury to their lower extremities."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this article is to determine the predictive values of anthropometric and/or physical screening tests for injuries to the leg, anterior cruciate ligament (ACL), knee, hamstring, groin and ankle in team sports."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was conducted in MEDLINE (1966 to September 2011), EMBASE (1989 to September 2011) and CINAHL (1982 to September 2011). Based on inclusion criteria defined a priori, titles, abstracts and full texts were analysed to find relevant studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The analysis showed that different screening tools can be predictive for injuries to the knee, ACL, hamstring, groin and ankle. For injuries in general there is some support in the literature to suggest that general joint laxity is a predictive measure for leg injuries. The anterior right/left reach distance >4 cm and the composite reach distance <4.0% of limb length in girls measured with the star excursion balance test (SEBT) may predict leg injuries. Furthermore, an increasing age, a lower hamstring/quadriceps (H : Q) ratio and a decreased range of motion (ROM) of hip abduction may predict the occurrence of leg injuries. Hyperextension of the knee, side-to-side differences in anterior-posterior knee laxity and differences in knee abduction moment between both legs are suggested to be predictive tests for sustaining an ACL injury and height was a predictive screening tool for knee ligament injuries. There is some evidence that when age increases, the probability of sustaining a hamstring injury increases. Debate exists in the analysed literature regarding measurement of the flexibility of the hamstring as a predictive screening tool, as well as using the H : Q ratio. Hip-adduction-to-abduction strength is a predictive test for hip adductor muscle strain. Studies do not agree on whether ROM of the hamstring is a predictive screening tool for groin injury. Body mass index and the age of an athlete could contribute to an ankle sprain. There is support in the literature to suggest that greater strength of the plantar flexors may be a predictive measure for sustaining an ankle injury. Furthermore, there is some agreement that the measurement of postural sway is a predictive test for an ankle injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The screening tools mentioned above can be recommended to medical staff and coaches for screening their athletes. Future research should focus on prospective studies in larger groups and should follow athletes over several seasons."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

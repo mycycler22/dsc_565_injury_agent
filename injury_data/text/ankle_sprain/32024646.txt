@@ -1,0 +1,3 @@
+Title: Fifteen-week window for recurrent muscle strains in football: a prospective cohort of 3600 muscle strains over 23 years in professional Australian rules football. | Type: Journal Article | PMID: 32024646 | Year: 2020 | Injury query: ankle sprain
+[RESULTS] For all muscle strains combined, the risk of injury recurrence gradually reduced, with recurrence risks of 9% (hamstring), 5% (quadriceps), 2% (calf) and 6% (groin) in the first match back and remaining elevated for 15 weeks after return to play.
+[CONCLUSION] Recent injury is the greatest risk factor for the four major muscle strains, with increased risk persisting for 15 weeks after return to play.

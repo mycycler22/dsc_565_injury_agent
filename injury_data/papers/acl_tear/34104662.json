@@ -1,0 +1,57 @@
+{
+  "pmid": "34104662",
+  "title": "Return-to-Play Times and Player Performance After ACL Reconstruction in Elite UEFA Professional Soccer Players: A Matched-Cohort Analysis From 1999 to 2019.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) rupture is one of the most common injuries afflicting soccer players and requires a lengthy recovery processes after reconstructive surgery. The impact of ACL reconstruction (ACLR) on return to play (RTP) time and player performance in professional soccer players remains poorly studied."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "To determine player performance and RTP rate and time after ACLR in elite professional soccer players with a retrospective matched-cohort analysis. We expected that the RTP time and rate will be similar to those of other professional-level athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Included were 51 players from 1 of the 5 elite Union of European Football Associations (UEFA) soccer leagues who suffered a complete ACL rupture between 1999 and 2019. These athletes were matched by position, age, season of injury, seasons played, and height and compared to uninjured control players. Change in performance metrics for the 4 years after the season of injury were compared with metrics 1 season before injury. Univariate 2-group comparisons were performed using independent 2-group <i>t</i> tests; Wilcoxon rank-sum tests were used when normality of distributions was violated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 41 players (80%) returned to play after ACL rupture, with 6 (12%) experiencing a subsequent ipsilateral or contralateral ACL tear. The mean (±SD) RTP time for soccer players after ACLR was 216 ± 109 days (26 ± 18 games). Injured athletes played significantly fewer games and minutes per season and recorded inferior performances for 2 seasons after their injury (<i>P</i> < .001). However, the game performance of injured players equaled or exceeded that of their matched controls by season 3 after injury, with the exception of attackers, who demonstrated a continued decline in performance (<i>P</i> < .001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Results indicated that the mean RTP time for soccer players after ACLR is short in comparison with other major sports leagues (216 days). However, RTP rates were high, and rerupture rates were comparable with those of other sports. With the exception of attackers, player performance largely equaled or exceeded that of matched controls by the third postinjury season."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean (±SD) RTP time for soccer players after ACLR was 216 ± 109 days (26 ± 18 games)."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Results indicated that the mean RTP time for soccer players after ACLR is short in comparison with other major sports leagues (216 days)."
+    }
+  ],
+  "pmcid": "8165856",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Overall, 41 players (80%) returned to play after ACL rupture, with 6 (12%) experiencing a subsequent ipsilateral or contralateral ACL tear. The mean (±SD) RTP time for soccer players after ACLR was 216 ± 109 days (26 ± 18 games). Injured athletes played significantly fewer games and minutes per season and recorded inferior performances for 2 seasons after their injury (P < .001). However, the game performance of injured players equaled or exceeded that of their matched controls by season 3 after injury, with the exception of attackers, who demonstrated a continued decline in performance (P < .001)."
+    },
+    {
+      "section": "Demographics and Return to Play",
+      "text": "We identified 51 soccer players (mean age, 24.9 ± 4.1 years) who suffered a complete ACL rupture between 1999 and 2019. Demographic and return to sport characteristics for injured and uninjured controls are presented in Table 1. There were no significant differences in height, age, calendar year of season, or total years played in the league between the injured and uninjured control players (P > .05). The percentage of injured players who returned to play is presented in Figure 1. Overall, 41 players (80%) returned to play in the elite UEFA leagues after ACLR. The majority (71%) of these players returned the year after their injury, with an additional 5% and 4% returning to play at 2 and 3 years after injury, respectively. Of the 51 players undergoing ACLR, 6 (12%) experienced a subsequent ipsilateral or contralateral ACL tear at some point in their career (Table 2)."
+    }
+  ]
+}

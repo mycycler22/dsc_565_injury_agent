@@ -1,0 +1,35 @@
+{
+  "pmid": "35794049",
+  "title": "Early introduction of high-intensity eccentric loading into hamstring strain injury rehabilitation.",
+  "year": "2022",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "This study aimed to investigate the number of days following hamstring strain injury (HSI) taken to introduce high-intensity eccentric loading (HIEL) into rehabilitation based on exercise-specific progression criteria, and whether pain resolution during isometric knee flexion strength testing occurred before or after this milestone."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "METHODS",
+      "text": "We included 42 men (mean ± sd; age = 26 ± 5 years; height = 181 ± 8 cm; mass = 86 ± 12 kg) with HSIs, who performed fully supervised rehabilitation twice per week until they met return to play clearance criteria. Isometric knee flexion strength testing was completed before every rehabilitation session and HIEL was introduced via the Nordic hamstring exercise and unilateral slider once participants could perform a bilateral slider through full eccentric knee flexion range of motion. We reported the median (IQR) number of days following HSI taken to introduce HIEL, along with participant's pain rating during isometric knee flexion strength testing before that rehabilitation session. We also reported the median (IQR) number of days following HSI taken for participants to achieve pain resolution during isometric knee flexion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "HIEL was introduced 5 (2-8) days following HSI, despite 35/42 participants reporting pain during isometric knee flexion strength testing immediately prior to that rehabilitation session, which was rated as 3.5 (3-5) on a 0-10 numeric rating scale. Pain resolution during isometric knee flexion strength testing was achieved 11 (9-13) days following HSI."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "HIEL can be safely introduced into early HSI rehabilitation based on exercise-specific progression criteria, without needing to wait for pain resolution during isometric knee flexion strength testing before doing so."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

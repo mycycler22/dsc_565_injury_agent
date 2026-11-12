@@ -1,0 +1,40 @@
+{
+  "pmid": "41508815",
+  "title": "Frequency of Adjunctive MRI Findings on First-Time Patellar Dislocations in Pediatric Patients: A Systematic Review.",
+  "year": "2026",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar dislocation in pediatric athletes often involve additional injuries not identified on plain films."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To identify the rate of medial patellofemoral ligament (MPFL) injury and adjunctive injury findings identified by magnetic resonance imaging (MRI) in first-time patellar dislocations in the pediatric population."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "This review was registered with the International Prospective Register of Systematic Reviews (PROSPERO) (CRD: 42024559285). PubMed, EMBASE, and SPORTDiscus were searched for studies on MRI findings after first-time pediatric patellar dislocations. Abstracts and articles were screened using predefined inclusion and exclusion criteria. The inclusion criteria were (1) first-time patellar dislocation, (2) explicit documentation of MRI findings, (3) patients <18 years, and (4) written in English. The exclusion criteria were (1) abstract only, case reports, or review articles; (2) overlapping or repeated patient sets; in such cases, the article containing the more comprehensive variables was retained. Data were extracted regarding patient characteristics and MRI findings. Pooled rates were calculated using only the studies that reported the specific variable in question. Bias was assessed using the Newcastle-Ottawa Scale for cohort and case-control studies, and the Joanna Briggs Institute Critical Appraisal tools for the cross-sectional studies and case series."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 322 studies were initially identified. After screening by 2 independent reviewers, 12 articles were included in the data extraction. Findings include complete MPFL tears in 47% of cases, while partial MPFL tears were present in 41% of the time. Osteochondral (OC) injury was present in 50% of the MRIs. Among these, chondral lesions were reported in 75% of MRIs, OC lesions in 21%, and OC fractures in 37%. The location of these lesions was isolated to the medial patella facet 66% of the time, compared with the lateral femoral condyle, which was the location for 31% of the lesions. Additionally, loose bodies were found in 34% of MRIs."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study highlights the frequent occurrence of significant MRI findings in pediatric first-time acute patellar dislocations, showing that obtaining MRI after first-time patellofemoral instability events in the pediatric population should be standard of care."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

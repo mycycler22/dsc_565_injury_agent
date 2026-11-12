@@ -1,0 +1,33 @@
+{
+  "pmid": "33217880",
+  "title": "Arthroscopic versus open treatment for femoroacetabular impingement: A systematic review and meta-analyses.",
+  "year": "2020",
+  "journal": "Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement (FAI) is a common cause of hip pain and restricted range of motion in young adults and athletes. This study aims to compare clinical results and complications between patients treated for FAI who underwent either arthroscopic or open treatment."
+    },
+    {
+      "label": "METHODS",
+      "text": "The 7 studies were acquired from PubMed, Medline, Embase, and Cochrane Library. The data were extracted analyzed by RevMan5.3. Mean differences (MDs), odds ratios (ORs), and 95% confidence intervals (CIs) were calculated. The Newcastle-Ottawa Scale were used to assess risk of bias."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seven observational studies were assessed. The methodological quality of the trials indicated a low risk of bias. The pooled results of the modified Harris Hip Score (mHHS), the Non-Arthritic Hip Score (NAHS), the Visual Analogue Scale (VAS), and satisfaction rate showed that the differences were not statistically significant between arthroscopic treatment (AT) and open treatment (OT). The difference of postoperative alpha angle was statistically significant, and OT was more effective [MD = 3.08, 95% confidence interval (95% CI) = 1.45-4.70, P = .0002]. The difference of postoperative internal rotation angle was statistically significant, and OT had better internal rotation angle (MD = -3.21, 95% CI = -6.14 to -0.28, P = .03). However, the difference of complications was statistically significant and AT achieved better result than OT (OR = 0.41, 95% CI = 0.22-0.74, P =0.003)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "AT had comparable effect and lower complications than OT, but had less improvement in alpha angle and internal rotation angle."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

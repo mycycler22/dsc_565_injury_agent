@@ -1,0 +1,25 @@
+{
+  "pmid": "29864036",
+  "title": "Managing Sports-related Concussions From Time of Injury Through Return to Play.",
+  "year": "2018",
+  "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sports-related concussions continue to generate widespread interest. A concussion is a complex pathophysiologic process, with or without loss of consciousness, that results in a disturbance of brain function. Risk factors include age <18 years, female sex, and history of a previous concussion. A sideline physical examination with standardized assessment tools can assist diagnosis. Management for suspected concussion begins with immediate removal from play and requires clinical follow-up. Symptoms are usually self-limited and resolve within 2 to 3 weeks. Initial treatment consists of a reduction in cognitive activity and physical rest. A stepwise return-to-play protocol, taking into consideration state laws, with a gradual increase in activity until the athlete is able to perform full activity without symptoms should be followed. Neuropsychologic testing may be used as a tool in management. For prolonged concussion, physical rehabilitation or medications for headaches, mood, or sleep disturbance may be required. Education, rule changes, and equipment improvements may assist in prevention. The long-term consequences of concussions are not fully understood and merit additional research."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Symptoms are usually self-limited and resolve within 2 to 3 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

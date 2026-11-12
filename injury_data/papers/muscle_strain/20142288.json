@@ -1,0 +1,32 @@
+{
+  "pmid": "20142288",
+  "title": "Shoulder injuries in US high school baseball and softball athletes, 2005-2008.",
+  "year": "2010",
+  "journal": "Pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The objective of this study was to determine factors that are involved in shoulder injury rates among high school athletes who participate in organized baseball and softball."
+    },
+    {
+      "label": "METHODS",
+      "text": "Baseball- and softball-related injury data were collected during the 2005-2008 academic years from approximately 74 nationally representative high schools via High School Reporting Information Online."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Certified athletic trainers reported 91 baseball shoulder injuries and 40 softball shoulder injuries during 528147 and 399522 athlete exposures, respectively. The injury rate was 1.72 injuries per 10000 athlete exposures for baseball and 1.00 injuries per 10000 athlete exposures for softball. Muscle strain/incomplete tears were the most common injuries in both baseball (30.8%) and softball (35.0%). In practices, throwing, not including pitching, caused more than half of softball injuries (68.2%) as compared with competition injuries (23.5%; injury proportion ratio [IPR]: 2.90 [95% confidence interval (CI): 1.17-7.15]; P = .015), whereas pitching was the most common mechanism in causing shoulder injuries during baseball practice (41.9%) compared with competitions (25.6%; IPR: 1.64 [95% CI: 0.88-3.04]; P = .17). Eighty-one percent of the baseball shoulder injuries and 82.5% of the softball shoulder injuries were new. Ten percent of baseball athletes and 5.3% of softball athletes sustained injuries that required surgery (IPR: 1.40 [95% CI: 0.32-6.10]; P = .93). Injuries that were sustained while the athlete was on the pitcher's mound were significantly more likely to result in surgery than any other field position (IPR: 2.64 [95% CI: 1.65-4.21]; P = .0061). Injured baseball players were more than twice as likely to be pitchers."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although rates and patterns of shoulder injuries are similar between baseball and softball players, injury rates and patterns differ between field positions within each sport, as well as by injury severity and the athletes' year in school."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

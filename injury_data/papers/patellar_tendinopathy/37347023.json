@@ -1,0 +1,39 @@
+{
+  "pmid": "37347023",
+  "title": "Epidemiology of Patellar Tendinopathy in Athletes and the General Population: A Systematic Review and Meta-analysis.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy (PT) mainly affects athletes who use the tendon for repeated energy storage and release activities. It can have a striking impact on athletes' careers, although data on its real prevalence and incidence are sparse. Research efforts should start from the results of reliable and updated epidemiological research to help better understand the impact of PT and underpin preventative measures."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the prevalence and incidence of PT in athletes and the general population."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of the literature was performed on January 17, 2022, and conducted according to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. The PubMed, Web of Science, and Wiley Cochrane Library databases were searched for epidemiological reports of any evidence level and clinical studies reporting data on the incidence or prevalence of PT for the 11,488 retrieved records. The primary endpoint was the prevalence and incidence of PT in sport-active patients. The secondary endpoints were PT prevalence and incidence in subgroups of athletes based on sex, age, sport type, and sport level played, as well as the same epidemiological measures in the general population."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 28 studies, with 28,171 participants, were selected and used for the qualitative and quantitative analysis. The general and athletes' populations reported an overall PT prevalence of 0.1% and 18.3%, respectively. In athletes, the prevalence of PT was 11.2% in women and 17% in men (<i>P</i> = .070). The prevalence of PT in athletes <18 years was 10.1%, while it was 21.3% in athletes ≥18 years (<i>P</i> = .004). The prevalence of PT was 6.1% in soccer players, 20.8% in basketball players, and 24.8% in volleyball players. Heterogeneous PT diagnostic approaches were observed. Higher prevalence values were found when PT diagnoses were made using patient-reported outcomes versus clinical evaluations (<i>P</i> = .004)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This review demonstrated that PT is a common problem in the male and female sport-active populations. There are twice as many athletes aged ≥18 years than there are <18 years. Volleyball and basketball players are most affected by PT."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

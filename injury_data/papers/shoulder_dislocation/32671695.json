@@ -1,0 +1,31 @@
+{
+  "pmid": "32671695",
+  "title": "Cumulative Sport-Related Injuries and Longer Term Impact in Retired Male Elite- and Amateur-Level Rugby Code Athletes and Non-contact Athletes: A Retrospective Study.",
+  "year": "2020",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Rugby union and rugby league are popular team contact sports, but they bring a high risk of injury. Although previous studies have reported injury occurrence across one or several seasons, none have explored the total number of injuries sustained across an entire career. As the first to do so, the aim of this study was to report on cumulative injuries and their perceived long-term impact in retired rugby code athletes compared to athletes from non-contact sports."
+    },
+    {
+      "label": "METHODS",
+      "text": "One hundred and eighty-nine former rugby code athletes (rugby union n = 145; rugby league n = 44) and 65 former non-contact athletes were recruited to the UK Rugby Health Project between September 2016 and December 2018. Details on sports participation, sports injuries and concussion history, sports injury-related surgeries, and previous and current health were obtained from a validated, online self-report questionnaire."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Former elite rugby code athletes (n = 83) reported more total injuries per player (median 39, IQR 35) than former amateur rugby code athletes (n = 106; median 23, IQR 30; p = 0.014) and non-contact sports athletes (n = 65; median 7.5, IQR 15; p < 0.001). Concussion was the most frequently reported injury for the elite and amateur rugby code groups, followed by upper/lower back and knee ligament injuries. These injuries also presented with the highest recurrence. Rugby code groups reported a higher continued impact of previous concussion, neck injuries, shoulder dislocation, ACL tears, and knee ligament injuries (p = 0.003-0.045). The reported prevalence of osteoarthritis was more than twofold greater in the elite rugby code group than in non-contact athletes (51% v 22%, p < 0.001). The prevalence of back pain and/or severe and regular joint pain was high across all groups (47-80%), particularly the elite rugby code group. The total number of joint injuries and sport injury-related surgeries was higher in those who reported current osteoarthritis and current severe and regular joint pain (p < 0.001-p = 0.028)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Across multiple injury types, past participation in rugby union and rugby league, particularly at elite level, is associated with a high cumulative injury load and a continued impact of previous injuries post-retirement. Given the high number of reported concussions (and their recurrence) and associations between previous injuries during a player's career and current musculoskeletal conditions, efforts should be prioritized to reduce the occurrence and recurrence of injuries in rugby codes at all levels of the sport. Strategies should also be developed for supporting the specific physical health needs of rugby code athletes post-retirement."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

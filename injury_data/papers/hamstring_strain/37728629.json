@@ -1,0 +1,31 @@
+{
+  "pmid": "37728629",
+  "title": "MRI radiomics for hamstring strain injury identification and return to sport classification: a pilot study.",
+  "year": "2024",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine if MRI-based radiomics from hamstring muscles are related to injury and if the features could be used to perform a time to return to sport (RTS) classification. We hypothesize that radiomics from hamstring muscles, especially T2-weighted and diffusion tensor imaging-based features, are related to injury and can be used for RTS classification."
+    },
+    {
+      "label": "SUBJECTS AND METHODS",
+      "text": "MRI data from 32 athletes at the University of Wisconsin-Madison that sustained a hamstring strain injury were collected. Diffusion tensor imaging and T1- and T2-weighted images were processed, and diffusion maps were calculated. Radiomics features were extracted from the four hamstring muscles in each limb and for each MRI modality, individually. Feature selection was performed and multiple support vector classifiers were cross-validated to differentiate between involved and uninvolved limbs and perform binary (≤ or > 25 days) and multiclass (< 14 vs. 14-42 vs. > 42 days) classification of RTS."
+    },
+    {
+      "label": "RESULT",
+      "text": "The combination of radiomics features from all diffusion tensor imaging and T2-weighted images provided the most accurate differentiation between involved and uninvolved limbs (AUC ≈ 0.84 ± 0.16). For the binary RTS classification, the combination of all extracted radiomics offered the most accurate classification (AUC ≈ 0.95 ± 0.15). While for the multiclass RTS classification, the combination of features from all the diffusion tensor imaging maps provided the most accurate classification (weighted one vs. rest AUC ≈ 0.81 ± 0.16)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This pilot study demonstrated that radiomics features from hamstring muscles are related to injury and have the potential to predict RTS."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

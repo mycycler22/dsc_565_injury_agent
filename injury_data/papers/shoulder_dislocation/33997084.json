@@ -1,0 +1,39 @@
+{
+  "pmid": "33997084",
+  "title": "Epidemiology of Shoulder Instability in the National Football League.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder instability is a common and potentially debilitating injury among collision sport athletes that can lead to long-term damage of the glenohumeral joint. Limited data exist regarding instability among elite athletes in the National Football League (NFL)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the epidemiology of shoulder instability in the NFL from 2012 through 2017."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "The NFL's injury database was reviewed for shoulder instability injuries resulting in missed time during the study inclusion dates. Injuries were classified by type and direction, as well as timing, setting, and mechanism. Median missed time was determined for the different types and directions of instability. Incidence rates for game-related injuries were calculated based on timing during the season and player position. Finally, the relationship between player position and instability direction was assessed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the 6-year study period, 355 players sustained 403 missed-time shoulder instability injuries. Most injuries occurred during games (65%) via a contact mechanism (85%). The overall incidence rate of game-related instability was 3.6 injuries per 100,000 player-plays and was highest during the preseason (4.9 per 100,000 player-plays). The defensive secondary position accounted for the most injuries, but quarterbacks had the highest incidence rate in games (5.5 per 100,000 player-plays). Excluding unspecified events (n = 128; 32%), 70% (n = 192) of injuries were subluxations and 30% (n = 83) were dislocations; 75% of dislocations were anterior, while subluxations were more evenly distributed between the anterior and posterior directions (45% vs 52%, respectively). Players missed substantially more time after dislocation compared with subluxation (median, 47 days vs 13 days, respectively). When instability direction was known, the majority of instability events among quarterbacks and offensive linemen were posterior (73% and 53%, respectively), while anterior instability was most common for all other positions."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Shoulder instability is a common injury in the NFL and can result in considerable missed time. Dislocations occur less frequently than subluxations but lead to greater time lost. While most dislocations are anterior, more than half of subluxations are posterior, which is likely the result of repetitive microtrauma to the posterior capsulolabral complex sustained during sport-specific motions such as blocking. The risk of instability varies by player position, and position may also influence instability direction."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

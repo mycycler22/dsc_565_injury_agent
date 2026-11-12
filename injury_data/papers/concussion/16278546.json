@@ -1,0 +1,32 @@
+{
+  "pmid": "16278546",
+  "title": "Return to play after concussion: principles and practice.",
+  "year": "2005",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The sport medicine team is increasingly being asked to manage concussed athletes and to provide written clearance for return to play postconcussion, making it critical to have a good understanding of concussion recognition, assessment, and management."
+    },
+    {
+      "label": "DATA SOURCES/SYNTHESIS",
+      "text": "A handy way to think of concussion management is the four Rs: recognition, response, rehabilitation, and return."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes, coaches, parents, therapists, and physicians need a thorough understanding of concussion signs and symptoms. An athlete suspected of having sustained a concussion should be removed from the game or practice and assessed by a member of the sideline medical team. All athletes who sustain a concussion should be evaluated by a medical doctor. Rehabilitation has similarities to but also differs from the traditional orthopedic model in that the first step is rest, both physical and cognitive. Once asymptomatic at rest, a step-wise return to activity is undertaken."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This protocol has been adapted for various sports. It may be used for children, although it is prudent to be more conservative and to progress more slowly than in an older age group."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

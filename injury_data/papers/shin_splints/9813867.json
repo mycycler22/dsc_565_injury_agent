@@ -1,0 +1,33 @@
+{
+  "pmid": "9813867",
+  "title": "A prospective controlled study of diagnostic imaging for acute shin splints.",
+  "year": "1998",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of this prospective, observational study was to examine the relationship of clinical examination, plain radiograph (XR), triple-phase bone scan (TPBS), and magnetic resonance imaging (MRI) in the investigation of patients presenting with acute shin splints."
+    },
+    {
+      "label": "METHODS",
+      "text": "23 subjects with exercise induced lower leg pain and diffuse tibial tenderness of less than 3 months' duration were recruited. Subjects were excluded if there was clinical evidence of compartment syndrome, muscle hernia, or stress fracture. Each subject underwent XR, TPBS, and MRI within 2 wk of physical examination. Four asymptomatic controls underwent TPBS and MRI. Clinical findings, XR, TPBS, and MRI findings were independently recorded using a consistent template and subsequently analyzed. A single consensus lesion was chosen that provided the greatest overlap and highest grade to allow comparison of clinical and imaging findings. Sensitivity and specificity were calculated from data relating to clinical findings and diagnostic imaging."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighteen subjects had bilateral symptoms and five unilateral with a mean duration of symptom of 5.4 wk (+/- 3.5). Of 41 symptomatic lower legs, there were TPBS abnormalities in 36 and MRI findings in 34. Analysis of clinical findings to TPBS and MRI demonstrated a sensitivity and specificity of 84%, 33% and 79%, 33%, respectively. Assuming TPBS as the \"gold-standard,\" MRI findings demonstrated a sensitivity of 95% and specificity of 67%. There was poor agreement between the grading of TPBS and MRI (k = 0.3). In the 5/46 asymptomatic limbs, 3/5 demonstrated uptake on bone scan and 4/5 signal change with MRI. Imaging abnormalities were similarly seen in the four control patients."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "MRI may be used rather than TPBS and radiographs for evaluating acute tibial pain in athletes where avoidance of radiation exposure is desirable. Similar sensitivity and specificity may be expected from both investigations; however, in the light of abnormal TPBS and MRI findings in control and asymptomatic limbs, we recommend further studies be performed to define the extent of nonpathological TPBS and MRI changes."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

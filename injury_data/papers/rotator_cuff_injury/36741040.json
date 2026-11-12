@@ -1,0 +1,43 @@
+{
+  "pmid": "36741040",
+  "title": "Arthroscopic Reduction and Internal Fixation of an Osseous Bankart Lesion.",
+  "year": "2022",
+  "journal": "JBJS essential surgical techniques",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELLED",
+      "text": "Operative treatment of anterior glenohumeral instability is challenging, particularly with the presence of an anterior glenoid rim fracture, also called an \"osseous Bankart lesion.\" Successful reduction and fixation of the lesion has been shown to greatly reduce the risk of recurrent dislocations while achieving osseous union and normalization of glenoid anatomy<sup>1</sup>."
+    },
+    {
+      "label": "DESCRIPTION",
+      "text": "The current surgical video article outlines a technique for an osseous Bankart repair in a patient with a displaced fracture as well as substantial pain and instability. First, the amount of bone loss is measured on 3-dimensionally reconstructed computed tomography (CT) imaging, with the humeral head digitally subtracted<sup>2</sup>. The procedure is then performed arthroscopically with the patient in the lateral decubitus position. A diagnostic evaluation, beginning with posterior and anterior portal placement in the rotator interval, is completed to assess any rotator cuff injury and the extent of labral tearing and osseous displacement. Next, the bone fragment is elevated into its anatomical position. This fragment is then reduced with use of a double-row suture technique, followed by concomitant capsulolabral repair."
+    },
+    {
+      "label": "ALTERNATIVES",
+      "text": "Nonoperative treatment with a sling can be utilized as long as post-reduction CT scans reveal anteroposterior centering of the humeral head on the glenoid<sup>3</sup>. Rehabilitation can include active-assisted and passive glenohumeral mobilization, as well as daily pendulum exercises and physiotherapy."
+    },
+    {
+      "label": "RATIONALE",
+      "text": "Osseous Bankart repair has been shown to effectively improve patient-reported outcomes and normalize glenoid morphology<sup>1,3,4</sup>. Failure to recognize and appropriately treat an osseous Bankart fracture may lead to osseous erosion caused by repetitive episodes of subluxations or dislocations, along with substantial pain and weakness<sup>5</sup>. Indications for arthroscopic Bankart repair include young, active patients with a reducible fracture fragment, an anterior glenoid deficit of >10%, and a history of failed nonoperative treatment<sup>3-8</sup>."
+    },
+    {
+      "label": "EXPECTED OUTCOMES",
+      "text": "Clinical outcomes following the osseous Bankart repair procedure have been shown to be highly successful, with high rates of return to sport, minimal reduction in range of motion, and restoration of shoulder function and stability<sup>4</sup>. Additionally, long-term follow-up has shown successful osseous union and normalization of glenoid anatomy<sup>1</sup>."
+    },
+    {
+      "label": "IMPORTANT TIPS",
+      "text": "Apply tension to sutures with a suture retriever before the PushLock anchors (Arthrex) are placed during fracture reduction.Utilize a trans-subscapularis portal for anchor placement medial to the fracture on the glenoid neck.Perform adjustable tensioning during labral repair with knotless all-suture anchors.Utilize a lateral distraction device with the patient in the lateral decubitus position to completely visualize the anteroinferior glenoid.Chronic onset and late intervention may cause difficulties in the reduction of the bone fragment.Suture management may be difficult, particularly for surgeons at an early stage of the learning curve.A defect that is wide (from medial to lateral) may be difficult to maneuver around and reduce."
+    },
+    {
+      "label": "ACRONYMS AND ABBREVIATIONS",
+      "text": "GH = glenohumeralGHL = glenohumeral ligamentPts = patientsPMH = previous medical historyFE = forward elevationER = external rotationIR = internal rotationABD = abductionEXT = external rotationXR = radiographic imagingMRI = magnetic resonance imagingCT = computed tomographyROM = range of motionFU = follow-upRTS = return to sportsRTPP = return to previous level of play."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "10796367",
+  "title": "Interventions for preventing and treating stress fractures and stress reactions of bone of the lower limbs in young adults.",
+  "year": "2000",
+  "journal": "The Cochrane database of systematic reviews",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Stress reaction in bone, which may proceed to a fracture, is a significant problem in military recruits and in athletes, particularly long distance runners."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "To evaluate the evidence from controlled trials of treatments and programmes for prevention or management of lower limb stress fractures and stress reactions of bone in active young adults."
+    },
+    {
+      "label": "SEARCH STRATEGY",
+      "text": "We searched the Cochrane Musculoskeletal Injuries Group Trials Register, The Cochrane Library, MEDLINE, EMBASE, Current Contents, Dissertation Abstracts, Index to UK Theses and the bibliographies of identified articles. Date of last search: December 1997"
+    },
+    {
+      "label": "SELECTION CRITERIA",
+      "text": "Any randomised or quasi-randomised trial evaluating a programme or treatment to prevent or treat lower limb stress reactions of bone or stress fractures in active young adults."
+    },
+    {
+      "label": "DATA COLLECTION AND ANALYSIS",
+      "text": "Searching, a decision on inclusion or exclusion, methodological assessment, and data extraction were carried out according to a predetermined protocol included in the body of the review. Analysis using Review Manager software allowed pooling of data and calculation of Peto odds ratios and absolute risk reductions, each with 95% confidence intervals."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "The use of \"shock absorbing\" insoles, evaluated in four trials, appears to reduce the incidence of stress fractures and stress reactions of bone (Peto odds ratio 0.47, 95% confidence interval 0. 30 to 0.76). Incomplete data from one trial indicated that reduction of running and jumping intensity may also be effective. The use of pneumatic braces in the rehabilitation of tibial stress fractures significantly reduces the time to recommencing training (weighted mean difference -42.6 days, 95% confidence interval -55.8 to -29.4 days)."
+    },
+    {
+      "label": "REVIEWER'S CONCLUSIONS",
+      "text": "The use of shock absorbing insoles in footwear reduces the incidence of stress fractures in athletes and military personnel. Rehabilitation after tibial stress fracture is aided by the use of pneumatic bracing."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [
+    {
+      "section": "MAIN RESULTS",
+      "sentence": "The use of pneumatic braces in the rehabilitation of tibial stress fractures significantly reduces the time to recommencing training (weighted mean difference -42.6 days, 95% confidence interval -55.8 to -29.4 days)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

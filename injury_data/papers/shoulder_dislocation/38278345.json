@@ -1,0 +1,40 @@
+{
+  "pmid": "38278345",
+  "title": "Traumatic avulsion of the subscapularis tendon in adolescents: Return to sport after surgical repair.",
+  "year": "2024",
+  "journal": "Orthopaedics & traumatology, surgery & research : OTSR",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Traumatic complete rotator cuff tears are rare in the pediatric population. These injuries might be a result of shoulder dislocation or direct trauma experienced during contact sports (i.e., rugby, judo). The purpose of this study was to identify the epidemiologic and clinical characteristics of these injuries and assess the medium- and long-term outcomes following surgery, with return to sport as the primary endpoint."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "An electronic questionnaire was sent to all surgeons who were members of the French Shoulder and Elbow Society (SOFEC) and/or the French Society of Arthroscopy (SFA), asking if they ever had to surgically treat a traumatic complete tear of 1 or more rotator cuff tendons in a child or adolescent. Ninety (38.6%) of the 233 surgeons members of the SOFEC and/or the SFA responded to our questionnaire. We then contacted the 15 surgeons who answered affirmatively to collect the complete medical records of their patient(s)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We reviewed the records of 17 children and adolescents who underwent surgery for a traumatic complete rotator cuff tear. The mean age at surgery was 15.2 years (range, 12-17). Glenohumeral dislocation during contact sports (n=7/17) was a frequent mechanism of injury (41%). All of these cases involved at least the subscapularis muscle with an avulsed bony insertion. The injury involved other rotator cuff tendons in 29% of cases (5/17). The bone and tendon repair was either performed as open surgery (n=5/17) or arthroscopically (n=12/17). At a median follow-up of 24 months and a mean follow-up of 50 months, 82.4% of patients had returned to sport at their preinjury level. Three patients presented neurologic complications resulting from the traumatic event, but only 1 of them required nerve grafting with a favorable outcome. We also reported 3 cases of nonunion of the lesser tuberosity that required revision surgery with good outcomes. Only 1 patient out of all those with at least 1 episode of dislocation presented a recurrent anterior shoulder instability that required a bone block-type procedure 7 years after the initial surgery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Traumatic complete rotator cuff tears are rare in children and adolescents. They often occur during contact sports. These types of injuries are diagnosed by clinical examination and confirmed by cross-sectional imaging, ideally magnetic resonance imaging. Tendon injuries mainly involve the subscapularis but can also affect other cuff tendons. Return to preinjury activity levels after surgical management was possible in more than 80% of cases."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "At a median follow-up of 24 months and a mean follow-up of 50 months, 82.4% of patients had returned to sport at their preinjury level."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

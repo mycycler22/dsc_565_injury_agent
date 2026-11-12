@@ -1,0 +1,20 @@
+{
+  "pmid": "19492690",
+  "title": "Management of the adolescent concussion victim.",
+  "year": "2009",
+  "journal": "Adolescent medicine: state of the art reviews",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Increasing awareness and understanding of the implications of concussion have shaped a more proactive management approach to this problem. Although the incidence of brain injuries in adolescent athletes is probably in the range of 1.6 to 3.8 million per year (Centers for Disease Control and Prevention, National Center for Injury Prevention and Control. Facts for physicians about mild traumatic brain injury. Available at: www.cdc.gov/ncipc/pubres/tbi_toolkit/physicians/mtbi/mtbi.pdf), difficulties in recognizing and diagnosing this condition mean that as many as 80% go unrecognized and have led to its being known as \"the silent epidemic.\" Attempts to improve the evaluation on the sidelines, in the outpatient clinic, and in the home are helping to improve management. Better understanding of the prognosis and clinical course of concussion, as well as the importance of physical and mental rest, have also helped healthcare providers to make better decisions about allowing athletes to return to play."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

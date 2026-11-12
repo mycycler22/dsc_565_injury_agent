@@ -1,0 +1,31 @@
+{
+  "pmid": "34836720",
+  "title": "Neither heel-rise Height (HRH) nor Achilles tendon resting angle (ATRA) show strong correlations to patient limitations and return to previous activities one year after acute Achilles tendon rupture.",
+  "year": "2022",
+  "journal": "Foot and ankle surgery : official journal of the European Society of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Knowledge is limited about how Achilles tendon elongation following acute Achilles tendon rupture (ATR) affects the ability to return to work and return to sport. This study aimed to examine if the indirect length measures, the heel-rise height (HRH) and the Achilles tendon resting angle (ATRA), correlated with patient limitations and return to previous activities one year after ATR."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study was performed as a registry study in the Danish Achilles tendon Database (DADB). The analyses investigated if HRH (limb symmetry index (LSI)) and relative ATRA one year after rupture, correlated with return to the same type of work, return to the same type of sport and the Achilles tendon total rupture score (ATRS) at the same time point."
+    },
+    {
+      "label": "RESULTS",
+      "text": "477 patients were included in the study. HRH (LSI) showed fair correlation to ATRS (r = 0.35, p < 0.001), poor correlation to same type of work (r = 0.29, p < 0.001) and did not statistically significantly correlate with return to the same type of sport. Relative ATRA showed poor correlation to ATRS (r = 0.09, p = 0.04) and did not correlate statistically significantly with return to same type of work or sport."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Neither relative ATRA nor HRH (LSI) showed strong correlations to return to work, return sport or ATRS. When comparing the relative ATRA and HRH (LSI), HRH (LSI) seems to be a better outcome in reflecting patient limitations and return to previous activities one year after ATR."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

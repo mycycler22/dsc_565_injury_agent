@@ -1,0 +1,47 @@
+{
+  "pmid": "38327463",
+  "title": "Damage for gain: The useful damage of the Pitcher's paradox.",
+  "year": "2024",
+  "journal": "Heliyon",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Sport-specific adaptations of the glenohumeral joint may arise in adolescent overhead athletes who begin high-performance sports early in life. Research mainly addresses overuse injuries, leaving gaps in prevention, with adults studied more than youths."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This study aims to investigate sport-adaptations of the glenohumeral joint in asymptomatic adolescent volleyball players to identify potential shoulder injury risk factors."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Observational study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Clinical screening campaign conducted at the Physical Medicine and Rehabilitation Unit of Policlinic Hospital in Catania, Italy."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Forty asymptomatic under-16 athletes were evaluated."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Shoulder internal rotation (IR) and external rotation (ER), range of motion (ROM), total-rotation ROM, glenohumeral IR deficit (GIRD), general joint laxity using Beighton score, apprehension, relocation, O'Brian tests, and ultrasound (US) glenohumeral distance were tested bilaterally. Variables such as the player's position, the age they began the sport, limb dominance, weight, and height were also considered."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The median US glenohumeral distance was at 0.42 ± 0.26 cm, which is consistent with the range found in non-dislocated shoulders of a healthy non-athletic population. The ER ROM was significantly greater in the dominant shoulder than the contralateral one (P = 0.0001), and there was a significant correlation between the ER ROM of attackers and their US glenohumeral distance (P = 0.0413). Furthermore, shoulder IR ROM and US glenohumeral distance were not significantly different between the dominant and contralateral limbs (P = 0.05). None of the athletes presented GIRD. Other tests, including the Beighton score, apprehension, and relocation tests, yielded no significant differences between the dominant and contralateral limbs."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Despite an increased shoulder ER in the dominant limb, the glenohumeral joint remains stable, suggesting that greater ROM in ER does not equate to instability in overhead athletes without hyperlaxity. Nevertheless, increased ER impacts glenohumeral distance in attacker volleyball players. This finding suggests that the shoulder morphological adaptation process starts early in attackers."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

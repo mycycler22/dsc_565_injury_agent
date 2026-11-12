@@ -1,0 +1,39 @@
+{
+  "pmid": "42146839",
+  "title": "Incidence of Elbow Medial Ulnar Collateral Ligament Repair and Reconstruction: A US Population Database Study 2016 to 2022.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Medial ulnar collateral ligament (UCL) injuries of the elbow affect overhead athletes with an increasing incidence over the past few decades. Growing evidence supports UCL repair as a treatment option in patients with low-grade UCL injuries or complete avulsion tears without chronic degenerative changes of the ligament. With this evolution in treatment options, accurate epidemiological data are needed to better understand and treat these injuries."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the trends of elbow UCL repair and reconstruction as it relates to the incidence of surgically managed UCL injury diagnoses from 2016 to 2022."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "The Agency for Healthcare Research and Quality's Nationwide Ambulatory Surgical Sample database was examined from the period of 2016 to 2022. Patient demographics, diagnosis codes from the <i>International Classification of Diseases, 10th Revision, Clinical Modification</i>, and Current Procedural Terminology codes were collected, and descriptive statistics reported for those who underwent elbow UCL reconstruction versus repair. Survey-weighted Poisson regression, including covariates for age and sex, was used to report trends in UCL procedures from 2016 through 2022. A subgroup of patients 10 to 39 years old was analyzed to approximate the population of overhead athletes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "From 2016 to 2022, there was a relatively greater increase in volume of UCL repairs compared with reconstructions performed (129% vs 0%). Among the 10- to 39-year-old population, there was an increased incidence of outpatient visits coded with UCL injury diagnoses by 59% (age-adjusted incidence rate ratio [IRR], 1.60; 95% CI, 1.25-2.06; <i>P</i> < .001). There was an increased incidence of repair by 150% (age-adjusted IRR, 2.53; 95% CI, 2.11-3.03; <i>P</i> < .001) and a stable incidence of reconstruction (age-adjusted IRR, 0.97; 95% CI, 0.88-1.08; <i>P</i> = .63)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Outpatient encounters for UCL injury and incidence of UCL repairs increased with a stable incidence of UCL reconstructions from 2016 to 2022. This may suggest UCL repair is becoming a more favorable treatment option for certain UCL injuries; however, further studies evaluating indications and outcomes of UCL repair versus reconstruction are warranted to guide management."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

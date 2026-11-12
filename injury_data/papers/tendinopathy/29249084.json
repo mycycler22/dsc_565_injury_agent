@@ -1,0 +1,44 @@
+{
+  "pmid": "29249084",
+  "title": "Return to Sport in Athletes with Midportion Achilles Tendinopathy: A Qualitative Systematic Review Regarding Definitions and Criteria.",
+  "year": "2018",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Midportion Achilles tendinopathy (AT) can cause long-term absence from sports participation, and shows high recurrence rates. It is important that the decision to return to sport (RTS) is made carefully, based on sharply delimited criteria. Lack of a well-defined definition and criteria hampers the decision to RTS among athletes with AT, and impedes comparison of RTS rates between different studies."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this study was to systematically review the literature for definitions of, and criteria for, RTS in AT research."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Qualitative systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "The PubMed, EMBASE, Cochrane, CINAHL, PEDro, and Scopus electronic databases were searched for articles that reported on the effect of a physiotherapeutic intervention for midportion AT. Article selection was independently performed by two researchers. Qualitative content analysis was used to analyze the included studies and extract definitions of, and criteria for, RTS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-five studies were included in the content analysis, showing large variety in both the definitions and criteria. Thirty-two studies reported a definition of RTS, but only 19 studies described the criteria for RTS. The content analysis revealed that 'reaching pre-injury activity/sports level, with the ability to perform training and matches without limitations', 'absence of pain', and 'recovery' were the main content categories used to define RTS. Regarding the criteria for RTS, eight different content categories were defined: (1) 'level of pain'; (2) 'level of functional recovery'; (3) 'recovery of muscle strength'; (4) 'recovery of range of motion'; (5) 'level of endurance of the involved limb'; (6) 'medical advice'; (7) 'psychosocial factors'; and (8) 'anatomical/physiological properties of the musculotendinous complex'. Many criteria were not clearly operationalized and lacked specific information."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This systematic review shows that RTS may be defined according to the pre-injury level of sports (including both training and matches), but also with terms related to the absence of pain and recovery. Multiple criteria for RTS were found, which were all related to level of pain, level of functional recovery, muscular strength, range of motion, endurance, medical advice, psychosocial factors, or anatomical/physiological properties of the Achilles tendon. For most of the criteria we identified, no clear operationalization was given, which limits their validity and practical usability. Further research on how RTS after midportion AT should be defined, and which criteria should be used, is warranted."
+    },
+    {
+      "label": "PROSPERO REGISTRATION NUMBER",
+      "text": "CRD42017062518."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

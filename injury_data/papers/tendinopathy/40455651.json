@@ -1,0 +1,40 @@
+{
+  "pmid": "40455651",
+  "title": "Neuroplastic periodization in tendinopathy.",
+  "year": "2025",
+  "journal": "British medical bulletin",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Periodized rehabilitation for tendinopathies integrates principles of athletic training into structured protocols to optimize tendon healing and functional recovery minimizing recurrence. This review explores the role of concurrent and phasic periodization strategies in tendon rehabilitation, focusing on optimizing strength, power, and neuromuscular control."
+    },
+    {
+      "label": "AREAS OF AGREEMENT",
+      "text": "Early phases prioritize pain management and load capacity through prolonged isometric contractions, to improve neuromuscular engagement without exacerbating symptoms. Heavy, slow resistance exercises, central to progressive loading, facilitate tendon remodeling and strength development. Subsequent phases incorporate energy storage and release, sport-specific exercises tailored to individual goals, using externally paced movements to enhance motor control and corticospinal drive. Neuroplastic training is promising, aligning physical rehabilitation with cognitive engagement to optimize motor learning and reduce maladaptive patterns."
+    },
+    {
+      "label": "AREAS OF CONTROVERSY",
+      "text": "At present, no randomized controlled trials have tested the periodization concept in the management of tendinopathy conditions."
+    },
+    {
+      "label": "GROWING POINTS",
+      "text": "Systematic evaluation, including range of motion, tissue flexibility, and limb biomechanics, is necessary to identify and address kinetic chain dysfunctions in patients with tendon ailments. Reintegration into sport or activity should follow clear benchmarks, such as symmetrical strength, pain-free function, and tolerance for high-intensity loads."
+    },
+    {
+      "label": "SOURCE OF DATA",
+      "text": "Analysis of the current literature, and expert opinion."
+    },
+    {
+      "label": "AREAS TIMELY FOR DEVELOPING RESEARCH",
+      "text": "This evidence-based framework offers clinicians a practical roadmap for tendon rehabilitation, combining physiological and biomechanical considerations to support safe return to sport or activity. A structured individualized approach ensures optimal recovery by addressing movement dysfunctions, monitoring load tolerance, and reducing the risk of re-injury."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

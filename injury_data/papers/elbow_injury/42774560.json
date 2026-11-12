@@ -1,0 +1,35 @@
+{
+  "pmid": "42774560",
+  "title": "The relationship of grip and three-point pinch strength to ball velocity and elbow varus torque in high school pitchers.",
+  "year": "2026",
+  "journal": "JSES reviews, reports, and techniques",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hand and forearm strength play an essential role in modulating and controlling forces across the elbow during pitching. In particular, grip and pinch strength reflect functional capacity of the flexor-pronator mass, which contributes to both performance and dynamic stability of the elbow. While diminished grip strength is often used clinically to monitor recovery following shoulder and elbow injury, values in adolescent pitchers are lacking. Furthermore, the relationship between grip and pinch strength with ball velocity and elbow varus torque remains poorly defined."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty-eight healthy high school pitchers (16.0 ± 0.9 years, 183.3 ± 6.0 cm, 78.1 ± 9.2 kg) were included in this study. Bilateral grip and three-point pinch strength were assessed prior to pitching. Pitchers were then analyzed using 3D motion capture (480 Hz) and ball velocity was recorded with Trackman throwing fastballs. The pitch with the greatest ball velocity was used in the analysis. Paired t-tests compared dominant and non-dominant grip and pinch strength, and linear regression examined relationships between strength, ball velocity, and elbow torque (α = 0.05)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Dominant arm grip strength was greater than the non-dominant throwing arm (<i>P</i> = .001), while pinch strength showed no side to side differences (<i>P</i> = .696). Dominant grip strength demonstrated weak associations with height (r<sup>2</sup> = 0.221, <i>P</i> = .002), weight (r<sup>2</sup> = 0.217, <i>P</i> = .002), and ball velocity (r<sup>2</sup> = 0.116, <i>P</i> = .021). No significant relationships were found between grip strength and elbow varus torque. Pinch strength was not associated with height, weight, age, elbow varus torque, or ball velocity."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "While forearm musculature is thought to enhance medial elbow stability, grip and pinch strength were not associated with elbow varus torque in high school pitchers. These results suggest that static hand strength measures may not reflect the complex, dynamic demands placed on the elbow during pitching. Further evaluation may be necessary to determine secondary impact such as load and subsequent fatigue on the flexor pronator complex."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Grip and pinch strength values in high school pitchers may serve as reference data for clinicians assessing adolescent pitchers. Grip strength demonstrated a weak association with ball velocity; however, neither grip nor pinch strength was significantly related to elbow loading. This highlights the need for future work examining dynamic forearm muscle function in injury risk, recovery, and performance."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

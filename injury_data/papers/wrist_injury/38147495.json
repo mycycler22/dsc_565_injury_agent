@@ -1,0 +1,31 @@
+{
+  "pmid": "38147495",
+  "title": "Optimal Immobilization After Fixation of Bennett's Fracture: A Cadaveric Study.",
+  "year": "2024",
+  "journal": "Orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Treating high-level athletes involves a balance between early and safe return to play. Various types of protective immobilization have been recommended after operatively treated Bennett's fracture. The purpose of this study was to investigate if hand-based immobilization offers protection equivalent to forearm-based immobilization."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "A cadaveric model of Bennett's fracture was created in 8 fresh-frozen, cadaveric forearms. Osteosynthesis was performed using a single headless compression screw. Three matched pairs were casted in either hand-based or forearm length, thumb spica casts, while 2 specimens remained un-casted as controls. Specimens were mounted on a custom testing apparatus. Weights were added in 6.8-kg increments until fixation failed and the fracture displaced. Fluoroscopy was performed after each trial. We used the Kruskal-Wallis non-parametric test to compare the groups. We considered <i>P</i><.05 statistically significant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Failure of fixation occurred at 6.8 kg in the control specimens. Fixation failed in hand-based and forearm length casts at a mean of 18.1±5.1 kg. We did not find a statistically significant difference between median values of load at failure in kilograms across control specimens and 2 immobilization categories (<i>P</i>=.114). All specimens in the hand-based group sustained additional wrist injuries, while no additional injuries were noted in the forearm length group."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our study results showed that hand-based immobilization provides equivalent protection against fixation failure for operatively treated Bennett's fractures but may predispose athletes to increased risk of wrist injury compared with traditional, forearm-based casting. [<i>Orthopedics</i>. 2024;47(3):157-160.]."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

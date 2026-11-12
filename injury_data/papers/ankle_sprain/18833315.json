@@ -1,0 +1,45 @@
+{
+  "pmid": "18833315",
+  "title": "Ankle ligament healing after an acute ankle sprain: an evidence-based approach.",
+  "year": "2008",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To perform a systematic review to determine the healing time of the lateral ankle ligaments after an acute ankle sprain."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "We identified English-language research studies from 1964 to 2007 by searching MEDLINE, Physiotherapy Evidence Database (PEDro), SportDiscus, and CINAHL using the terms ankle sprain, ankle rehabilitation, ankle injury, ligament healing, and immobilization."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "We selected studies that described randomized, controlled clinical trials measuring ligament laxity either objectively or subjectively immediately after injury and at least 1 more time after injury."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Two reviewers independently scored the 7 studies that met the inclusion criteria. Because of differences in study designs, a meta-analysis could not be performed. Effect sizes and confidence intervals could be calculated only for 1 study. The percentages of subjective and objective instability were calculated for the remaining studies."
+    },
+    {
+      "label": "DATA SYNTHESIS",
+      "text": "Ankle laxity improved over a period of 6 weeks to 1 year. One author showed stress talar tilt values of 16.10 +/- 8.8 degrees immediately after injury and 3.4 +/- 3.6 degrees at 3 months after injury. In 2 articles, the authors reported that positive anterior drawer tests were still present in 3% to 31% of participants at 6 months after injury. Additionally, feelings of instability affected 7% to 42% of participants up to 1 year after injury."
+    },
+    {
+      "label": "CONCLUSIONS/RECOMMENDATIONS",
+      "text": "In the studies that we examined, it took at least 6 weeks to 3 months before ligament healing occurred. However, at 6 weeks to 1 year after injury, a large percentage of participants still had objective mechanical laxity and subjective ankle instability. Direct comparison among articles is difficult because of differences in methods. More research focusing on more reliable methods of measuring ankle laxity is needed so that clinicians can know how long ligament healing takes after injury. This knowledge will help clinicians to make better decisions during rehabilitation and for return to play."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "CONCLUSIONS/RECOMMENDATIONS",
+      "sentence": "In the studies that we examined, it took at least 6 weeks to 3 months before ligament healing occurred."
+    }
+  ],
+  "pmcid": "2547872",
+  "fulltext_chunks": []
+}

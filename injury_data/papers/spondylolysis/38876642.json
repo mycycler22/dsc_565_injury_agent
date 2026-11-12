@@ -1,0 +1,31 @@
+{
+  "pmid": "38876642",
+  "title": "Are trunk muscle sizes different between acute lumbar spondylolysis and nonspecific low back pain?",
+  "year": "2024",
+  "journal": "Journal of bodywork and movement therapies",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Morphological differences in the trunk muscles between adolescent athletes with lumbar spondylolysis (LS) and nonspecific low back pain (NSLBP) have not been fully elucidated. This study aimed to investigate the differences in physiological cross-sectional areas (CSA) of the trunk muscles between athletes with acute LS and those with acute NSLBP."
+    },
+    {
+      "label": "METHODS",
+      "text": "Magnetic resonance images of 48 patients aged 13-14 years diagnosed with acute LS or NSLBP were retrospectively evaluated. The CSA of the paraspinal, psoas major, and rectus abdominis muscles at the L4-5 intervertebral disc level were measured."
+    },
+    {
+      "label": "RESULTS",
+      "text": "CSA of the left and right paraspinal muscles in the acute LS group were significantly larger than those in the acute NSLBP group (left: mean difference, 276.0 mm<sup>2</sup>; 95% confidence interval [CI], 68.5-483.6 mm<sup>2</sup>; P = 0.01; right: mean difference, 228.8 mm<sup>2</sup>; 95% CI, 7.6-450.1 mm<sup>2</sup>; P = 0.04). The ratio between the left paraspinal muscles and left psoas major in the acute LS group was significantly larger than that in the acute NSLBP group (mean difference, 0.2; 95% CI, 0.0-0.4; P = 0.03)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Trunk muscle size may differ between adolescent athletes with acute LS and those with NSLBP. Future research involving healthy controls is required to better understand the morphological characteristics of these injuries."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

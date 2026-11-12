@@ -1,0 +1,32 @@
+{
+  "pmid": "23784808",
+  "title": "[Active muscle extension testing of the hamstrings: reference values and impacting factors].",
+  "year": "2013",
+  "journal": "Sportverletzung Sportschaden : Organ der Gesellschaft fur Orthopadisch-Traumatologische Sportmedizin",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Less muscle elasticity of the hamstrings increases the risk of muscle strain. Muscle balance is the purpose of muscle stretching. The active knee-extension test (AKE) represents an established test of muscle elasticity. For evaluating the test results standard values are necessary. The aim of this study is to measure standard values of the AKE test in a collective of healthy male and female fitness athletes and to determine factors of muscle elasticity."
+    },
+    {
+      "label": "MATERIAL AND METHODS",
+      "text": "We performed the AKE test in 119 healthy fitness athletes (56 women, 63 men) evaluated biometric and anthropometric data, examined joint function in knee and hip activity scores (WOMAC, Lysholm score, Tegner score, UCLA-acitivity scale), psychological score (HADS scale) and clinical evidence of rheumatoid criteria (ACR). Unpaired t-test and multiple regressions were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The average knee extension deficit was as measured 31.6 ± 12.6° (men: 35.6 ± 10.4°; women 27.1 ± 13.5°, p = 0.0002), factors like \"female gender\", \"physical work\", \"sports activities for many years\", \"hip flexion\" and \"body fat content\" influence the muscle elasticity."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "For the first time, standard values for the AKE test are available, allowing an estimation of muscle elasticity of the hamstrings. Factors like \"female gender\", \"physical work\" and \"sports activities for many years\" affect the muscle elasticity, while \"body fat content\" and \"hip flexion\" are combined to female gender and are considered as indirect factors of hamstring flexibility."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

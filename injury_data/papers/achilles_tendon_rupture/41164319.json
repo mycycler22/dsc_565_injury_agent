@@ -1,0 +1,54 @@
+{
+  "pmid": "41164319",
+  "title": "Successful functional outcomes and return to sport rate can be achieved after surgery for acute Achilles tendon rupture: A systematic review.",
+  "year": "2025",
+  "journal": "Journal of experimental orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Achilles tendon disorders are frequently seen in sports, and its rupture is one of the most common and debilitating injury. Among the most used surgical techniques there are traditional open surgeries, minimally invasive, and percutaneous techniques. The choice of technique often depends on the nature of the injury, the athlete's profile, and the surgeon's preferences. This systematic review aimed to analyze the functional outcomes, return to sport (RTS) rate and time, and complications in patients who underwent surgical repair for acute Achilles tendon lesions."
+    },
+    {
+      "label": "METHODS",
+      "text": "The PubMed, MEDLINE, Scopus, and Cochrane Central databases were used for the research, and 9 studies were included. The first author, journal name, year of publication, patient demographics, type of sports, level of play, dominant limb and follow-up period were recorded for each article. Data extracted for quantitative analysis included different types of lesions, types of surgical repair, RTS rate and time, the visual analog scale (VAS) for pain, the AOFAS score, the Tegner score, and the ATRS score, and the number and types of complications."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 748 patients who underwent surgical repair of Achilles tendon were identified. Male patients represented 84% of the cases. The frequency-weighted mean age at the time of the operation was 40.7 ± 11.8 years, and the frequency-weighted mean follow-up was 40.9 ± 11.7 months. The postoperative functional outcomes improved. A total of 579 patients (77.4%) returned to sport. Postoperative infection was reported in 25 patients (3.3%) and Achilles tendon re-rupture was reported in 17 patients (2.3%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Patients who underwent Achilles tendon surgical repair reported successful functional outcomes and low postoperative pain scores after a mean 3.5-year follow-up. Postoperative AOFAS and Tegner scores higher than the normative values can be achieved. The RTS rate was 77% with a mean time of 8.1 months. Postoperative infection and tendon re-rupture were the most common reported complications."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "The RTS rate was 77% with a mean time of 8.1 months."
+    }
+  ],
+  "pmcid": "12560252",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "A total of 748 patients who underwent surgical repair of Achilles tendon were identified. Male patients represented 84% of the cases. The frequency‐weighted mean age at the time of the operation was 40.7 ± 11.8 years, and the frequency‐weighted mean follow‐up was 40.9 ± 11.7 months. The postoperative functional outcomes improved. A total of 579 patients (77.4%) returned to sport. Postoperative infection was reported in 25 patients (3.3%) and Achilles tendon re‐rupture was reported in 17 patients (2.3%)."
+    },
+    {
+      "section": "RESULTS",
+      "text": "A total of 812 relevant articles were identified through the initial search, 468 abstracts were screened, and 250 full‐text articles were assessed for eligibility based on our inclusion criteria, resulting in 9 studies that were eligible for the systematic review (Figure 1). A total of 748 patients who underwent surgical repair of Achilles tendon were identified. The baseline characteristics of the patients are summarized in Table 2. Overall, male patients represented 84% of the cases. The frequency‐weighted mean age at the time of the operation was 40.7 ± 11.8 years, and the frequency‐weighted mean follow‐up was 40.9 ± 11.7 months. The prevalence of smoking habits was 4.3%. The most common sports practiced by the patients were soccer (15%), running (6%), tennis (1.9%), basketball (1.5%), and handball (1.3%). Considering the level of play, 15.4% of the patients played sport at a professional level while 633 (84.6%) were nonprofessional athletes. The injured limb was the right in 315 (42%) patients while in 311 (41.6%) patients was the left one. All the patients had an acute Achilles tendon lesion. The lesion was in the proximal part in 13 patients (1.8%), in the midportion in 729 (97.4%) patients, and in the distal part in 6 patients (0.8%). The overall weighted meantime between the injury and surgery was 14 days. A total of 47.2% (354) of the cases underwent open surgery while 52.8% (395) underwent a minimally invasive repair. Tenorrhaphy was performed in 637 patients (85.2%). In 111 patients (14.8%) the lesion was repaired with a reconstruction with a graft: in 85 patients (76.6%) a flexor hallucis longus was used."
+    },
+    {
+      "section": "Functional outcomes and RTS",
+      "text": "The postoperative VAS score was measured in 4 studies [3, 12, 27, 39], involving 377 cases, with a mean value of 2.5 ± 1.9. The postoperative AOFAS score was evaluated in 6 studies [1, 3, 12, 18, 26, 39], involving 378 patients, with a mean value of 95.2 ± 7.3 that was higher than the normative AOFAS age‐related data (40–49 years, 91.1 ± 2.3) (p < 0.001). The mean postoperative AOFAS score was 105% that of healthy individuals. In 2 studies [1, 39] the postoperative Tegner score was evaluated in 185 patients with a mean value of 6.0 ± 2.2 that was higher than the normative Tegner data (4 ± 2.1) (p < 0.001). The mean postoperative Tegner score was 150% that of healthy individuals. The postoperative ATRS score was evaluated in 4 studies [1, 3, 4, 39], involving 430 patients, with a mean value of 94 ± 7.2. A total of 579 patients (77.4%) returned to sport. The overall weighted mean time between surgery and RTS was 8.1 ± 4.5 months. The postoperative functional outcomes are shown in Table 3."
+    }
+  ]
+}

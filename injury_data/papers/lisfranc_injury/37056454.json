@@ -1,0 +1,69 @@
+{
+  "pmid": "37056454",
+  "title": "Return to Play, Performance, and Economic Analysis of National Football League Players After Lisfranc Injury.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "A Lisfranc injury can occur to either the ligament or bone, which causes instability when attempting to perform strength and balance maneuvers."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The study's aims were to (1) analyze the return-to-play (RTP) rate and performance level of players in the National Football League (NFL) after Lisfranc injury and (2) determine the economic and financial impact of Lisfranc injuries to the NFL. We hypothesized that there would be a low RTP rate following Lisfranc injury in the NFL."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Multiple online public records were used to identify NFL players with Lisfranc injuries between the 2009 and 2020 seasons. Players were assessed according to their RTP statistics: snap count, approximate value (AV), games played, and games started. Nonparametric methods were used to compare player statistics before and after injury. Also, player salaries while injured were calculated (in 2022 US dollars after adjusting for inflation) to approximate economic loss for those players who returned to play."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 33 NFL athletes sustained a Lisfranc injury during the study period. Most Lisfranc injuries were experienced by offensive linemen (n = 8; 24.2%), followed by running backs (n = 7; 21.2%). Overall 27 players (81.8%) returned to play after injury at a median of 11.0 months (IQR, 10.2-11.8 months). There were no significant differences between pre- and postinjury snap counts or number of games played and started. In terms of player performance, there was a statistically significant decrease in AV at 1 year postinjury (median [IQR], 6.0 [4.0-10.0] preinjury vs 5.0 [2.5-7.5] postinjury; <i>P</i> = .022). The overall cost of recovery amounted to $104.7 million, with quarterbacks (n = 4) accounting for the greatest cost at $32.6 million. The next 2 most expensive positions were offensive and defensive linemen (n = 5 each) at $19.4 million each."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our results did not support the hypothesis, as the RTP rate for NFL athletes sustaining Lisfranc injuries was 81.8%. This injury was associated with a significant decrease in AV 1 year postinjury. In terms of economic impact, quarterbacks accounted for almost one-third of expenses while constituting only 14.8% of injuries."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Overall 27 players (81.8%) returned to play after injury at a median of 11.0 months (IQR, 10.2-11.8 months)."
+    }
+  ],
+  "pmcid": "10087650",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 33 NFL athletes sustained a Lisfranc injury during the study period. Most Lisfranc injuries were experienced by offensive linemen (n = 8; 24.2%), followed by running backs (n = 7; 21.2%). Overall 27 players (81.8%) returned to play after injury at a median of 11.0 months (IQR, 10.2-11.8 months). There were no significant differences between pre- and postinjury snap counts or number of games played and started. In terms of player performance, there was a statistically significant decrease in AV at 1 year postinjury (median [IQR], 6.0 [4.0-10.0] preinjury vs 5.0 [2.5-7.5] postinjury; P = .022). The overall cost of recovery amounted to $104.7 million, with quarterbacks (n = 4) accounting for the greatest cost at $32.6 million. The next 2 most expensive positions were offensive and defensive linemen (n = 5 each) at $19.4 million each."
+    },
+    {
+      "section": "Time Missed and Return to Competition",
+      "text": "Time missed was defined as the number of NFL regular season games missed from the date of a player’s Lisfranc injury to when the player returned to a game and played in at least 1 snap. Preseason and playoff games missed were not calculated, as player participation is highly variable. Per the methodology by Mody et al, 15 the Pro Football Reference database was used to collect the following data points: BMI, draft position, snap counts, games played, games started, and approximate value (AV). AV has been utilized in the NFL to create a standard metric to compare the performance of players of different positions. 15 It is provided by Pro Football Reference and is a numeric calculation of the contribution that an athlete makes toward the success of their team. Each position has its own unique formula, which weighs the relative contribution of the more commonly measured statistics. The AV metric has been utilized multiple times in previous studies on NFL players who have sustained injuries.8,15,19 Performance data were collected from 3 years before and after a player’s return from Lisfranc injury. Players who were injured in their rookie year were excluded from performance analysis as they did not have preinjury data, and 3-year statistics were analyzed only for players with 3 years of pre- and postinjury data. Players served as their own internal control in this study. RTP time was collected by calculating the number of days between the injury date and the date that the player returned to the field. This was determined by cross-referencing Pro Football Reference match logs with the online resources previously described. All statistics were collected until the end of the 2021 season."
+    },
+    {
+      "section": "Results",
+      "text": "A total of 33 NFL athletes sustained a Lisfranc injury during the 2009-2020 seasons, with 26 undergoing surgery. Of these 33 players, 27 returned to the NFL postinjury and were included in RTP analysis (Figure 1). Most Lisfranc injuries were experienced by offensive linemen (n = 8; 24.2%), followed by running backs (n = 7; 21.2%), defensive linemen (n = 5; 15.2%), and quarterbacks (n = 4; 12.1%). In players who returned to play, 24 experienced their injury during an in-season game, while 3 experienced theirs during the off-season/preseason. Athletes who did not return were significantly older (median [IQR], 31.0 years [29.0-33.0] vs 26.0 [23.5-28.5]; P = .007) and had played in the NFL for a longer period (8.5 years [5.5-12.2] vs 3.0 [2.0-6.0]; P = .008) (Table 1). An overall 81.8% (27 of 33) of players returned to play after their injury, with 88.5% (23 of 26) remaining in the NFL for ≥2 seasons after their injury and 76.2% (16 of 21) remaining ≥3 years. These values were adjusted to include only players injured through 2019 for 2-year RTP and 2018 for 3-year RTP, as postinjury data were available only through the most recent season (2021). Of the 27 players who returned to play and met inclusion criteria for analysis, the median time to return was 11.0 months (IQR, 10.2-11.8 months)."
+    },
+    {
+      "section": "TABLE: Player Characteristics According to RTP After Lisfranc Injury a",
+      "text": " | Players, Median (IQR) or No. (%) | \nPlayer Characteristic | Returned (n = 27) | Did Not Return (n = 6) | P b\nAge, y | 26.0 (23.5-28.5) | 31.0 (29.0-33.0) | .007\nBody mass index | 30.6 (28.6-34.0) | 34.5 (29.2-37.4) | .624\nTime in NFL before injury, y | 3.0 (2.0-6.0) | 8.5 (5.5-12.2) | .008\nInjury characteristics |  |  | ≥.999 c\nPreseason/off-season | 3 (11.1) | 0 (0) | \nIn-season | 24 (88.9) | 6 (100.0) | \nSurgery performed | 23 (85.2) | 3 (50.0) | \nPlayer draft status |  |  | \nDraft position | 45.0 (20-78) | 35.5 (6-100) | .811\nDrafted in rounds 1-3 | 18 (66.7) | 3 (50.0) | .643 d\nDrafted in rounds ≥4/undrafted | 9 (33.3) | 3 (50.0) | \nPlayer position |  |  | .533\nQuarterback | 4 (14.8) | 0 (0) | \nRunning back | 5 (18.5) | 2 (33.3) | \nReceiver: tight end and wide receiver | 3 (11.1) | 0 (0) | \nOffensive lineman: guard, center, offensive tackle | 5 (18.5) | 3 (50.0) | \nDefensive lineman: defensive end and tackle | 5 (18.5) | 0 (0) | \nLinebacker | 3 (11.1) | 0 (0) | \nCornerback | 2 (7.4) | 1 (16.7) | "
+    },
+    {
+      "section": "TABLE: RTP Rates at 1, 2, and 3 Years Postinjury According to Player Position a",
+      "text": " |  | RTP Postinjury | Remained Active Postinjury\nPosition | No. of Players (n = 33) | 1 y (n = 27) | Time, mo, Median (IQR) | 2 y (n = 23) b | 3 y (n = 16) c\nQuarterback | 4 | 4/4 | 11.0 (9.9-17.5) | 3/4 | 2/3\nRunning back | 7 | 5/7 | 10.6 (9.9-10.6) | 5/5 | 4/5\nReceiver | 3 | 3/3 | 11.3 (10.8-11.3) | 2/3 | 0/1\nOffensive lineman | 8 | 5/8 | 11.1 (11.0-11.7) | 4/5 | 3/5\nDefensive lineman | 5 | 5/5 | 10.8 (10.6-11.5) | 4/4 | 2/2\nLinebacker | 3 | 3/3 | 9.9 (8.0-10.8) | 3/3 | 3/3\nCornerback | 3 | 2/3 | 12.3 (11.4-13.1) | 2/2 | 2/2"
+    },
+    {
+      "section": "TABLE: Change in Snap Counts and AV After Return to Play According to Player Position (22 Players) a",
+      "text": " |  | Mean Change, %\nPosition | No. | Snap Count | AV\nQuarterback | 4 | –25.3 | –74.9\nRunning back | 3 | –8.9 | –44.5\nReceiver | 3 | +3.6 | –41.1\nOffensive lineman | 4 | –8.6 | –16.9\nDefensive lineman | 4 | +23.2 | +84.2\nLinebacker | 2 b | –54.2 | –73.2\nCornerback | 2 | –23.2 | –32.1\nMean | — | –8.8 | –22.6"
+    }
+  ]
+}

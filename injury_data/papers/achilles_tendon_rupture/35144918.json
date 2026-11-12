@@ -1,0 +1,40 @@
+{
+  "pmid": "35144918",
+  "title": "Return-to-play and performance after operative treatment of Achilles tendon rupture in elite male athletes: a scoping review.",
+  "year": "2022",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To examine the current evidence regarding return-to-play (RTP) and performance after Achilles tendon rupture in elite athletes treated with operative intervention."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Scoping review."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Published sources identified through a PubMed search of elite athletes, defined as professional or division one collegiate athletes in baseball, basketball, American football or soccer."
+    },
+    {
+      "label": "METHODS",
+      "text": "Our search yielded a total of 2402 studies, with 13 studies fulfilling the study criteria of reporting elite athletes with objective measures of their athletic performance. A total of 709 elite athletes were included from the NBA, NFL, Major League Baseball (MLB), National Collegiate Athletic Association (NCAA) football and professional soccer."
+    },
+    {
+      "label": "RESULTS AND DISCUSSION",
+      "text": "Overall, 61%-100% of elite male athletes RTP after Achilles tendon rupture and operative repair. NBA players had inferior performance compared with their preoperative status as well as controls of non-injured players. Studies did not show significantly different performance after Achilles injury for MLB players. Professional soccer, NFL and NCAA football studies reported varying performance after injury."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Evidence suggests that sports with explosive plantarflexion demands, such as basketball, may be associated with a greater decrease in performance despite operative intervention after Achilles rupture."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

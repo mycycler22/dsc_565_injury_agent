@@ -1,0 +1,20 @@
+{
+  "pmid": "40094902",
+  "title": "The Effects of Kinesio Tape on Acute Ankle Sprain: A Systematic Review.",
+  "year": "2025",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background:</b> An ankle sprain is a frequent musculoskeletal injury, often leading to chronic instability and an increased risk of post-traumatic osteoarthritis. Kinesio Tape, an elastic adhesive tape, is widely used in rehabilitation for its supposed benefits in reducing pain, controlling edema, and improving ankle function. However, its effectiveness in managing acute ankle sprains remains debated. <b>Methods:</b> This systematic review aims to evaluate the evidence on the impact of Kinesio Taping on pain reduction, edema control, and return to sport in patients with acute ankle sprains. A systematic review was conducted in line with the PRISMA guidelines. The literature from PubMed, MEDLINE, and the Cochrane Library was searched for studies published from 2004 to 2024. Seven studies met the inclusion criteria, involving 247 patients with acute ankle sprains. Data on patient demographics, follow-up duration, Kinesio Taping protocols, and clinical outcomes were extracted and analyzed. <b>Results:</b> The review revealed mixed findings. Some studies reported short-term pain relief and reduced need for analgesics in the Kinesio Taping group, especially when combined with manual therapy. However, no significant differences were found in the edema control compared to bracing or casting. Functional recovery, as assessed by scales like the Karlsson scoring scale, showed no clear advantage for Kinesio Taping over other treatments. <b>Conclusions:</b> Kinesio Taping provides limited benefits for ankle sprain management, particularly in terms of long-term functional recovery and edema reduction. While it may offer short-term pain relief, it should be considered as an adjunctive treatment rather than a primary intervention."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

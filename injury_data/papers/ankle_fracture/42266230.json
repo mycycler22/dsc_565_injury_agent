@@ -1,0 +1,47 @@
+{
+  "pmid": "42266230",
+  "title": "Fear of reinjury is associated with failure to return to preinjury level of activity after operative repair of ankle fractures.",
+  "year": "2026",
+  "journal": "OTA international : the open access journal of orthopaedic trauma",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Prior literature indicates fear of reinjury (FORI) as a limitation in recovery from various orthopaedic conditions. However, no studies evaluate whether fear affects return to activity after ankle fractures. This study, therefore, investigates whether FORI is associated with failure to return to preinjury activity level regardless of fracture subtype. This study also sought to determine the proportion of patients experiencing fear after ankle fractures."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Urban, quaternary care academic medical center."
+    },
+    {
+      "label": "PATIENTS/PARTICIPANTS",
+      "text": "All patients who underwent ankle fracture surgery at a single institution between 2016 and 2021 were stratified by fracture subtype and final follow-up reduction quality. Multiple injuries, pilon variants, open fractures, nonanatomically reduced fractures at final follow-up, and patients with inadequate follow-up were excluded. One hundred eighty-two eligible patients completed postoperative questionnaires regarding ability to return to activity and whether patients experienced FORI."
+    },
+    {
+      "label": "INTERVENTION",
+      "text": "The exposure was FORI."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Primary outcome was whether FORI was associated with failure to return to activity."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seventy percent (128/182) reported return to preinjury level of activity. All 36 patients who experienced FORI failed to return to preinjury activity level. Fear was significantly associated with failure to return to activity, as 100% (36/36) of patients with fear failed to return compared with 12.3% (18/146) of patients without FORI (<i>P</i> < 0.001). FORI was twice as common in moderate-high preinjury activity levels compared with sedentary-light levels."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "FORI may limit patient ability to return to activity after ankle fracture surgery. This effect may be greater for those with higher activity levels."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

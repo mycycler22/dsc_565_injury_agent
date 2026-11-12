@@ -1,0 +1,52 @@
+{
+  "pmid": "41934363",
+  "title": "Deterioration in Performance Metrics After Acute Achilles Tendon Ruptures in Elite Rugby Union Players: A Retrospective Sports Database Study.",
+  "year": "2026",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute Achilles tendon ruptures (AATRs) are devastating injuries for athletes, yet outcomes in elite rugby union players remain poorly characterized."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Elite rugby union players who sustain AATRs will demonstrate significantly reduced performance metrics postinjury compared with preinjury levels."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Retrospective case series."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of elite rugby union players who sustained Achilles ruptures from 2013 to 2025 was performed. Data, including player demographics, injury characteristics, and performance metrics, were collected from rugby databases and media reports. A Wilcoxon signed rank test was used to compare pre- and postrupture performance metrics. Effect size was calculated using matched-pairs rank-biserial correlation, with median paired differences and 95% CIs. A <i>P</i> value <0.05 was determined as statistically significant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 52 elite rugby union players with a median age of 28 years were identified. Overall, 80.8% of players returned to play (RTP) at a median time of 8.5 months. In the season immediately after injury, games played, tries, tries per game, points, and points per game were all significantly lower than preinjury values (all <i>P</i> ≤ 0.003; <i>r</i> = -0.49 to -0.61). Across all seasons, games per season, tries per season, tries per game, points per season, and points per game were significantly lower after injury (all <i>P</i> < 0.001; <i>r</i> = -0.47 to -0.72)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "AATRs in elite rugby union players were associated with significant declines in performance metrics in both the immediate postinjury season and across subsequent seasons. These findings highlight the substantial performance impact of AATRs and support the need for improved position-specific prevention strategies and targeted postinjury rehabilitation protocols."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Clinicians can use these findings to counsel rugby athletes and teams on prognosis, treatment decisions, and realistic performance expectations after AATRs."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Overall, 80.8% of players returned to play (RTP) at a median time of 8.5 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

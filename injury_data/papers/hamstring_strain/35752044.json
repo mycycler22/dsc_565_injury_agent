@@ -1,0 +1,37 @@
+{
+  "pmid": "35752044",
+  "title": "Return to sport and beyond following intramuscular tendon hamstring injury: A case report of an English Premier League football player.",
+  "year": "2022",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries are the most common type of injury in elite football and are associated with a high risk of reinjury, particularly those involving the intramuscular tendon (IMT). Limited information is available regarding the rehabilitation and return to sport (RTS) processes following such injuries. This case study describes the clinical presentation of an elite football player following IMT hamstring injury, their on- and off-pitch rehabilitation alongside performance monitoring throughout RTS and beyond."
+    },
+    {
+      "label": "CASE SCENARIO",
+      "text": "An elite football player suffered a grade 2c hamstring injury during an English Premier League (EPL) match. The player underwent early post-injury management, alongside progressive off-pitch physical preparation. The 'control-chaos continuum' was used as a framework for on-pitch rehabilitation to prepare the player for a return to full team training and competition. Objective and subjective markers of the player's response to progressive on- and off-pitch loading were monitored throughout RTS and beyond."
+    },
+    {
+      "label": "OUTCOMES",
+      "text": "The player returned to on-pitch rehabilitation after 11 days, to full team training having achieved weekly pre-injury chronic running load outputs after 35 days and played in the EPL 40 days post-injury. The player did not suffer reinjury for the rest of the EPL season."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "An understanding the unique structural and mechanical properties of the IMT, alongside expected RTS timeframes are important to inform rehabilitation and decision-making processes post-injury. Performance and frequent load-response monitoring throughout RTS and beyond, in conjunction with practitioner experience and effective communication are critical in facilitating effective RTS and reduce risk of reinjury following IMT injury."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "OUTCOMES",
+      "sentence": "The player returned to on-pitch rehabilitation after 11 days, to full team training having achieved weekly pre-injury chronic running load outputs after 35 days and played in the EPL 40 days post-injury."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

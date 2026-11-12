@@ -1,0 +1,36 @@
+{
+  "pmid": "41551697",
+  "title": "Case Report: Xsens motion analysis and virtual reality-based rehabilitation in a national-level badminton player following MPFL reinjury leading to postoperative patellar fracture.",
+  "year": "2025",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Recurrent patellar dislocation presents a significant rehabilitation challenge, particularly in athletes engaged in high-demand, multi-directional sports such as badminton. This case report describes a complex presentation in a state-level athlete with multiple patellar dislocations, followed by medial patellofemoral ligament (MPFL) reconstruction and a subsequent comminuted patellar fracture. The case was further complicated by proprioceptive deficits, extension lag, sensory changes, and kinesiophobia, all of which limited the athlete's functional performance and return to sport."
+    },
+    {
+      "label": "CASE PRESENTATION",
+      "text": "A 23-year-old male National-level badminton player reported persistent functional limitations after recurrent patellar dislocations and two surgeries (MPFL reconstruction and patellar fracture fixation using K-wires). Clinical examination revealed quadriceps atrophy, patellar hypomobility, altered infrapatellar sensation, genu valgum, proprioceptive errors, and fear of dynamic movements. Functional impairments included difficulty with squatting, running, and agility. Gait analysis using the Xsens system confirmed altered joint kinematics and asymmetrical movement patterns."
+    },
+    {
+      "label": "INTERVENTION",
+      "text": "A comprehensive, phase-wise rehabilitation program was designed targeting biomechanical, neuromuscular, and psychological recovery. Key components included quadriceps reactivation, proprioceptive retraining, neuromuscular electrical stimulation (<i>N</i>MES), agility drills, sensory re-education, and mindfulness-based training. Virtual reality (VR)-based rehabilitation using <i>Oculus Quest</i> (RehabVR) was introduced to enhance neuro-motor integration and patient engagement. Objective readiness was tracked via functional testing and motion analysis."
+    },
+    {
+      "label": "OUTCOMES",
+      "text": "The athlete showed marked recovery in pain-free range of motion (0°-125°), quadriceps strength (MMT Grade 5), and proprioceptive precision (joint position error reduced from 6.3° to 2.1°). KOOS improved from 62 to 100, and LEFS from 55 to 80. Xsens gait analysis demonstrated improved step length symmetry, gait velocity (1.32 m/s), normalized foot progression, and restored center of mass balance. Kinesiophobia resolved, and the athlete returned safely to non-contact sport activities."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This case emphasizes the need for individualized, multidisciplinary rehabilitation in athletes with recurrent patellar instability and surgical complications. Integration of virtual reality, motion analysis, and mindfulness training supported neuromuscular recovery and psychological readiness."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

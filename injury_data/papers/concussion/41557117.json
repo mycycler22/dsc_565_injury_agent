@@ -1,0 +1,49 @@
+{
+  "pmid": "41557117",
+  "title": "Concussion recovery time, return-to-play protocols, and mandated sit-out periods among adult amateur contact field sports: A systematic review.",
+  "year": "2026",
+  "journal": "Irish journal of medical science",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Field-based contact sports, including American football and rugby are among those with the highest sport-related concussion (SRC) rates. Regarding SRC treatment, gradual return-to-play (RTP) protocols are commonly used, however variability in RTP protocols between sporting bodies and scholastic institutions makes accurately interpreting published SRC severity data difficult."
+    },
+    {
+      "label": "AIMS",
+      "text": "Compare SRC recovery times, RTP protocols, and mandated sit-out period duration among adult amateur contact field sports."
+    },
+    {
+      "label": "METHODS",
+      "text": "MEDLINE, CINAHL Complete, SPORTDiscus, APA PsycInfo, and APA PsycArticles were searched on May 13th, 2024. Eligibility criteria included (1) published in English in a peer-reviewed journal from 2015 to 2024, (2) adult population, (3) amateur, field-based contact sport athlete population, (4) diagnosed and/or suspected SRC, and (5) recovery time (days/weeks) data available."
+    },
+    {
+      "label": "RESULTS",
+      "text": "19/6085 (< 1%) studies comprising 58 datasets met all inclusion criteria. The studies comprised American football (10/19, 52.6%), field-hockey (5/19, 26.3%), lacrosse (9/19, 47.4%), ladies gaelic football (1/19, 5.3%), rugby (8/19, 42.1%), soccer (10/19, 52.6%), and sprint football (1/19, 5.2%). Mandated sit-out periods ranged from 0 to 21 days across sports, and RTP protocol durations ranged from 5 to 21 days. The most common RTP protocol duration was 7 days (n = 31/58), and mandated sit-out period was no same-day return (n = 25/58). Field hockey had the longest reported SRC recovery duration (34 days), and rugby had the longest mandated sit-out period (21 days)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Recovery time following concussion in contact sports should be interpreted in light of sport type, mandated sit-out policies, and RTP protocols. Empirical evidence should drive decisions in RTP protocols and sit-out periods, which are currently inconsistent between sports."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mandated sit-out periods ranged from 0 to 21 days across sports, and RTP protocol durations ranged from 5 to 21 days."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The most common RTP protocol duration was 7 days (n = 31/58), and mandated sit-out period was no same-day return (n = 25/58)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Field hockey had the longest reported SRC recovery duration (34 days), and rugby had the longest mandated sit-out period (21 days)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

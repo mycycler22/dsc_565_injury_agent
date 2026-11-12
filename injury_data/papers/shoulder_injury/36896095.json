@@ -1,0 +1,39 @@
+{
+  "pmid": "36896095",
+  "title": "Validity of Video-Based Analysis for Analyzing Shoulder Injuries in the National Basketball Association.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder injuries are very common in athletes playing in the National Basketball Association (NBA). With increasing injury video uploads available online, we may be able to identify and systematically describe the mechanism of these injuries in these athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To (1) determine the validity of video-based analysis to evaluate mechanisms of shoulder injuries in NBA players during the 2010-2020 seasons and (2) report on commonly sustained injuries, circumstances associated with injury, and number of games missed owing to injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "An injury report data set was queried for shoulder injuries among NBA players between the 2010-2011 season and the 2019-2020 season, and results were cross-referenced using YouTube.com to identify high-quality videos of the injuries. Out of 532 shoulder injuries in this time frame, video evidence from 39 (7.3%) were evaluated for mechanism of injury and other corresponding situational data. From the remaining shoulder injuries, a randomly selected control cohort of 50 injuries occurring in the same interval was assessed for descriptive injury data, incidence of recurrence, necessity for surgery, and number of games missed, to compare with corresponding data from injuries in the videographic evidence cohort."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the videographic evidence cohort, the most common mechanism of injury was lateral contact to the shoulder (41%; <i>P</i> < .001), which was associated with an injury to the acromioclavicular joint (30.8%; <i>P</i> < .001). Injuries occurred more often when the team was on offense (58.9%; <i>P</i> < .001) versus defense. Players who required surgery missed 33 more games on average than players who did not require surgery (<i>P</i> < .001). For the injured players, a 33% incidence of reinjury was identified in the 12 months after their initial injury. As compared with the control cohort, no significant differences were noted in injury laterality, recurrence rates, necessity for surgical management, time in the season, or number of games missed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Despite its low yield of 7.3%, video-based analysis may be a useful tool to determine the mechanism of shoulder injuries in the NBA, given the similarities of injury characteristics as compared with the control group."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

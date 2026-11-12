@@ -1,0 +1,44 @@
+{
+  "pmid": "16558536",
+  "title": "Pneumomediastinum in a high school football player: a case report.",
+  "year": "1998",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To provide athletic trainers with information about the mechanism, evaluation, and treatment of pneumomediastinum."
+    },
+    {
+      "label": "BACKGROUND",
+      "text": "This is a case study of a high school football player who suffered pneumomediastinum as a result of a flat-handed thump to his sternal area during a blocking drill. Pneumomediastinum is a relatively rare occurrence in sports. Common mechanisms include direct blunt trauma, vomiting, sneezing, Valsalva maneuver, and forceful coughing. Typical signs and symptoms include chest pain, dyspnea, tenderness, crepitus in the neck that can be aggravated with swallowing, and a positive Hamman's sign with auscultations."
+    },
+    {
+      "label": "DIFFERENTIAL DIAGNOSIS",
+      "text": "Pneumothorax, pneumopericardium, sternal contusion, rib fracture, upper respiratory infection, and myocardial infarction."
+    },
+    {
+      "label": "TREATMENT",
+      "text": "Conservative management includes restriction from athletic activities, prophylactic antibiotics, and sleeping in a semireclined position. Surgical repair of the defect may be indicated if repeat radiographs fail to show improvement after 1 week."
+    },
+    {
+      "label": "UNIQUENESS",
+      "text": "It is rare that a relatively light blow through shoulder pads would result in a pneumomediastinum. Review of the literature does not include this athlete's symptoms of congestion, nasal voice, or sore throat as typical signs of pneumomediastinum."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The literature indicates that an uncomplicated pneumomediastinum will typically resolve in 2 weeks' time. In this case, symptomatic evaluation warranted only 1 week of rest before the athlete was allowed to return to full activity."
+    }
+  ],
+  "injury_query": "rib fracture",
+  "hits": [
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "The literature indicates that an uncomplicated pneumomediastinum will typically resolve in 2 weeks' time."
+    }
+  ],
+  "pmcid": "1320589",
+  "fulltext_chunks": []
+}

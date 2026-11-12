@@ -1,0 +1,44 @@
+{
+  "pmid": "31362925",
+  "title": "Eighty-two per cent of male professional football (soccer) players return to play at the previous level two seasons after Achilles tendon rupture treated with surgical repair.",
+  "year": "2020",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate the time to return to playing following acute Achilles tendon rupture (ATR) and surgical repair in professional male football (soccer) players."
+    },
+    {
+      "label": "METHODS",
+      "text": "Professional male football (soccer) players who sustained an ATR and underwent surgical repair were identified through internet-based injury reports from January 2008 to August 2018. Only League 1 and 2 players with injuries who had at least 1 year of follow-up from the search date were included. Injury history and time to return to play were retrieved from the public platform <i>transfermarkt.com</i>. For athletes who competed for at least two seasons after returning to play, re-ruptures and number of matches played were reported."
+    },
+    {
+      "label": "RESULTS",
+      "text": "118 athletes (mean age 27.2±7.2 years) were included. 113 (96%) returned to unrestricted practice after a mean of 199±53 days, with faster recovery in players involved in national teams. Return to competition was after a mean of 274±114 days. In the 76 athletes with at least two seasons of follow-up, 14 (18%) did not compete at the pre-injury level during the two seasons following the index injury. Six players (8%) sustained a re-rupture within the first two seasons after return to play; four re-ruptures were in footballers who returned to play <180 days after injury. Age >30 years and re-ruptures had higher odds ratios of not returning to the same level of play."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "96% of professional male football players who underwent surgery to repair an ATR returned to unrestricted practice and then competition after an average time of 7 and 9 months, respectively. However, 18% did not return to the same level of play within the two seasons following their return, with a higher risk in those experiencing a re-rupture."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "118 athletes (mean age 27.2±7.2 years) were included. 113 (96%) returned to unrestricted practice after a mean of 199±53 days, with faster recovery in players involved in national teams."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Return to competition was after a mean of 274±114 days."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Six players (8%) sustained a re-rupture within the first two seasons after return to play; four re-ruptures were in footballers who returned to play <180 days after injury."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

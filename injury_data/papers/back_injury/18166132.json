@@ -1,0 +1,32 @@
+{
+  "pmid": "18166132",
+  "title": "Lumbar position sense and the risk of low back injuries in college athletes: a prospective cohort study.",
+  "year": "2007",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Impaired proprioception in the lumbar spine has often been reported in people with low back pain. However, no prospective studies exist to assert the cause and effect of this association. We hypothesized that athletes with a history of low back injury (LBI) would demonstrate poorer lumbar position sense (PS) than athletes without a history of LBI, and that this deficit would be a risk factor for future LBI."
+    },
+    {
+      "label": "METHODS",
+      "text": "This was a prospective cohort study with 2-3 year follow-up. Lumbar spine PS in the transverse plane was evaluated in 292 athletes using three tests: 1) passive and 2) active trunk repositioning, and 3) motion perception threshold. Mean absolute (accuracy) and variable (precision) errors were computed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were no significant differences in the repositioning errors or motion perception threshold between athletes with and without a history of LBI or between those who did and did not get injured during the follow-up. Active trunk repositioning resulted in smaller errors than passive repositioning (1.6 degrees +/- 0.8 degrees ) versus 2.1 degrees +/- 1.0 degrees ) and 1.7 degrees +/- 0.8 degrees ) versus 2.3 degrees +/- 1.1 degrees ) for the absolute and relative errors, respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Poor trunk PS in transverse plane is not associated with LBI in athletes, nor does it appear that poor trunk PS predisposes athletes to LBI."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "25804711",
+  "title": "Dynamic techniques for clinical assessment of the athlete.",
+  "year": "2015",
+  "journal": "Clinics in podiatric medicine and surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Clinical diagnostic tests objectively evaluate lower extremity ailments of the athlete. The positive squeeze test is found to be reproducible for ankle syndesmotic injury but is a poor prognosticator. The anterior drawer and talar tilt tests assess lateral ankle sprains. These have limitations secondary to positioning and guarding by the athlete, so comparison with the asymptomatic extremity is recommended. The Ottawa ankle rules assess possible fractures of the ankle and midfoot. The Thompson test evaluates Achilles tendon tears, whereas the windlass technique and the modified Lachman test examine the integrity of the plantar fascia and metatarsophalangeal joint capsule."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

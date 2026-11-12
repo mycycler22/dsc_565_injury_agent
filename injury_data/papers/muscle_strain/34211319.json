@@ -1,0 +1,20 @@
+{
+  "pmid": "34211319",
+  "title": "Incidence Rate of Musculoskeletal Injuries among Professional Tennis Players during 2019 International Tournaments in Indonesia.",
+  "year": "2021",
+  "journal": "Journal of sports science & medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Several studies have indicated that musculoskeletal injuries are common during a professional tennis competition. However, data from a tropical country like Indonesia is lacking. This study aimed to obtain the incidence rate and injury characteristics and identify risk factors of musculoskeletal injuries among professional tennis players competing in Indonesia under the International Tennis Federation (ITF). The study was a prospective cohort during professional tennis tournaments in Jakarta, Indonesia in 2019, consisting of the ITF Women's Circuit Indonesia (two weeks) and ITF Men's Future Indonesia (three weeks). All athletes were enrolled in this study. Injuries were assessed based on the ITF Consensus Statement. Incidence rate was the number of injuries per 1000 player hours (i.e., the total duration from before the match starts to completion of the match after the final point). The magnitude of risk was expressed as a relative risk (RR) and its 95% confidence interval (CI). Independent risk factors were identified using multivariate analyses. A total of 161 tennis players were enrolled; 71 (44.1%) were men. Their mean age was 22 years old. The incidence rate of musculoskeletal injuries was 30.8 injuries per 1000 player hours (95% CI: 28.2-33.5). The most common onset was acute injuries (61.1%), while the most common location and type of injury was the trunk (38.9%) and muscle strain (61.1%). Risk factors associated with musculoskeletal injury were higher body height, skill level, history of previous injury, and wet bulb globe temperature (WBGT) zone. There was no injury during the doubles matches. Previous injury was an independent risk factor (adjusted RR: 48.1 (95% CI: 11.3-155.0; p < 0.001). The incidence of musculoskeletal injuries among professional tennis player is considerably high. Factors associated with injury are body height, skill level, previous injury, and WBGT zone. Future injury prevention programmes should incorporate the management of previous injuries and take into account the effect of environmental temperature."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

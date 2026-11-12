@@ -1,0 +1,36 @@
+{
+  "pmid": "37009417",
+  "title": "Are Prospective Criteria or Objective Clinical Measures Utilized in Return to Play (RTP) Decision Making After Ankle Surgery? A Scoping Review.",
+  "year": "2023",
+  "journal": "Foot & ankle orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Manuscripts discussing return to play (RTP) following ankle surgery are common. However, the definition for RTP and the method by which it is determined remains unclear. The purpose of this scoping review was to clarify how RTP is defined following ankle surgery in physically active patients, to identify key factors informing RTP decision making (such as objective clinical measures), and make recommendations for future research."
+    },
+    {
+      "label": "METHODS",
+      "text": "A scoping literature review was performed in April 2021 using PubMed, EMBASE, and Nursing and Allied Health databases. Thirty studies met inclusion criteria: original research following ankle surgery reporting at least 1 objective clinical test and documentation of RTP. Data were extracted for study methods and outcomes (RTP definition, RTP outcomes, and objective clinical tests)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The scoping review found studies on 5 ankle pathologies: Achilles tendon rupture, chronic lateral ankle instability, anterior ankle impingement, peroneal tendon dislocation, and ankle fracture. RTP criteria were not provided in the majority of studies (18/30 studies). In the studies that provided them, the RTP criteria were primarily based on time postsurgery (8/12) rather than validated criteria. Objective clinical outcome measures and patient-reported outcome measures (PROMs) were documented for each surgery when available. Both clinical outcomes and PROMs were typically measured >1 year postsurgery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In physically active patients who have had ankle surgery, RTP remains largely undefined and is not consistently based on prospective objective criteria nor PROMS. We recommend standardization of RTP terminology, adoption of prospective criteria for both clinical measures and PROMs to guide RTP decision making, and enhanced reporting of patient data at the time of RTP to develop normative values and determine when the decision to RTP is not safe."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, scoping review."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

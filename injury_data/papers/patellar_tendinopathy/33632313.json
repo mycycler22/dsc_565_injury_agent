@@ -1,0 +1,35 @@
+{
+  "pmid": "33632313",
+  "title": "Pain-guided activity modification during treatment for patellar tendinopathy: a feasibility and pilot randomized clinical trial.",
+  "year": "2021",
+  "journal": "Pilot and feasibility studies",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Activity modification is a key component of patellar tendinopathy treatment but there is a lack of evidence guiding activity modification prescription. Use of activity modification in treatment studies has varied widely and the impact of those recommendations has not been directly investigated or compared. The purpose of this study was to assess (1) the feasibility of using pain-guided activity modification during treatment for patellar tendinopathy and (2) if our outcome measures are responsive to changes in tendon health over the course of treatment."
+    },
+    {
+      "label": "METHODS",
+      "text": "This was an unblinded, randomized two-arm pilot and feasibility study randomized clinical trial with parallel assignment, conducted in Newark, DE. Individuals between the ages of 16 and 40 years old with patellar tendinopathy were included. Participants were randomly assigned to a pain-guided activity (PGA) or pain-free activity (PFA) group using a spreadsheet-based randomization scheme. All participants received standardized treatment using a modified version of the heavy-slow resistance protocol 3×/week for 12 weeks. For the first 6 weeks, the PGA group used the Pain-Monitoring Model to guide activity outside of treatment and the PFA group was restricted from running, jumping, or activities that provoked their patellar tendon pain. Feasibility outcomes included recruitment, enrollment, randomization, compliance, and retention percentages. Clinical evaluations were conducted at baseline, 6, and 12 weeks to assess symptom severity, psychological factors, tendon morphology and mechanical properties, lower extremity function, and quadriceps muscle performance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In a ~ 13-month period, 108 individuals were screened, 47/108 (43.5%) were eligible for participation, and 15/47 (32.0%) of those were enrolled (9 PGA, 6 PFA). The recruitment rate was 1.15 participants/month. The mean ± SD compliance with treatment was PGA: 86.1 ± 13.0% and PFA: 67.1 ± 30.7%. There was one missed evaluation session and two adverse events, which were not due to study interventions. Changes exceeding the smallest detectable change were observed for at least one outcome in each domain of tendon health."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Use of pain-guided activity modification during exercise therapy for patellar tendinopathy was found to be feasible, and the proposed outcome measures appropriate. Computer-based allocation concealment, blinding of evaluators, and greater recruitment of high-level athletes should be implemented in future trials."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "ClinicalTrials.gov identifier: NCT03694730 . Registered 3<sup>rd</sup> of October, 2018."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

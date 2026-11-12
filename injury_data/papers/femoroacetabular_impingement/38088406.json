@@ -1,0 +1,20 @@
+{
+  "pmid": "38088406",
+  "title": "[What surgical treatment for femoro-acetabular impingement?].",
+  "year": "2023",
+  "journal": "Revue medicale suisse",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Femoroacetabular impingement (FAI) is a frequent cause of hip pain in young people and athletes. It requires a complete work-up, including X-rays, hip arthro-MRI and CT coxometry with measurement of femoral torsion. The surgical management of CFA must be adapted to the morphological anomalies of the femur (cam), acetabulum (pincer) and femoral torsional disorders. Most CFA can be treated by hip arthroscopy, with correction of the cam and suture of the labrum. Some CFA with a bulky or posterior cam require surgical hip dislocation. A femoral rotation or derotation osteotomy can correct an associated torsional disorder. In cases of marked retroversion of the acetabulum, anteverting periacetabular osteotomy can reorient the acetabulum."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

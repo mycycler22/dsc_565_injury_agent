@@ -1,0 +1,31 @@
+{
+  "pmid": "25653174",
+  "title": "Anterior cruciate ligament injury: post-traumatic bone marrow oedema correlates with long-term prognosis.",
+  "year": "2016",
+  "journal": "International orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Bone marrow oedema (BME) in the knee is a feature of several pathological conditions, and it has been described with high frequency in patients with acute anterior cruciate ligament (ACL) injury. The aim of this study is to evaluate the significance of BME, assessed in MRIs performed for ACL injury, with regards to clinical outcome and return to sport."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 134 patients (98 men, 36 women) with ACL tear and MRI knee scan within six months from trauma were analysed. The presence of BME was evaluated on MRI images considering: extension and hyperintensity, the WORMS score oedema classification, and measuring the BME area. The clinical results were documented by IKDC-subjective score and the sport activity level by Tegner score at a minimum of five years follow up."
+    },
+    {
+      "label": "RESULTS",
+      "text": "BME was present in 74 knees (55.2 %), with a mean area of 523 ± 370 mm². The presence of BME showed a gradual decrease over time (p = 0.008), being detectable in MRIs performed more than three months after trauma in just 25.0 % of cases. Although 54 % of the patients without BME after three months returned to their previous sport level, no patients with oedema reached a full sport recovery (p = 0.01). In the group that underwent ACL reconstruction, the BME area was significantly correlated with a return to the previous sport level at the mid/long-term follow-up (p = 0.038)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "BME is a common finding, which decreases over time after injury. However, when BME is still detectable it correlates with clinical prognosis, and even in sport-active patients undergoing ACL reconstruction, a higher BME area is a negative predictive factor for a successful outcome at the mid/long-term follow-up."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

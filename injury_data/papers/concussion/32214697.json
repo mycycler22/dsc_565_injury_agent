@@ -1,0 +1,20 @@
+{
+  "pmid": "32214697",
+  "title": "Concussion and Mild-Traumatic Brain Injury in Rural Settings: Epidemiology and Specific Health Care Considerations.",
+  "year": "2020",
+  "journal": "Journal of neurosciences in rural practice",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background</b>  Mild-traumatic brain injury (mTBI) and concussions cause significant morbidity. To date, synthesis of specific health care disparities and gaps in care for rural mTBI/concussion patients remains needed. <b>Methods</b>  A comprehensive literature search was performed using PubMed database for English articles with keywords \"rural\" and (\"concussion\" or \"mild traumatic brain injury\") from 1991 to 2019. Eighteen articles focusing on rural epidemiology ( <i>n</i> = 5), management/cost ( <i>n</i> = 5), military ( <i>n</i> = 2), and concussion prevention/return to play ( <i>n</i> = 6) were included. <b>Results</b>  mTBI/concussion incidence was higher in rural compared with urban areas. Compared with urban patients, rural patients were at increased risk for vehicular injuries, lifetime number of concussions, admissions for observation without neuroimaging, and injury-related costs. Rural patients were less likely to utilize ambulatory and mental health services following mTBI/concussion. Rural secondary schools had decreased access to certified personnel for concussion evaluation, and decreased use of standardized assessment instruments/neurocognitive testing. While school coaches were aware of return-to-play laws, mTBI/concussion education rates for athletes and parents were suboptimal in both settings. Rural veterans were at increased risk for postconcussive symptoms and posttraumatic stress. Telemedicine in rural/low-resource areas is an emerging tool for rapid evaluation, triage, and follow-up. <b>Conclusions</b>  Rural patients are at unique risk for mTBI/concussions and health care costs. Barriers to care include lower socioeconomic status, longer distances to regional medical center, and decreased availability of neuroimaging and consultants. Due to socioeconomic and distance barriers, rural schools are less able to recruit personnel certified for concussion evaluation. Telemedicine is an emerging tool for remote triage and evaluation."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

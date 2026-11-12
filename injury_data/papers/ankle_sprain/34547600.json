@@ -1,0 +1,24 @@
+{
+  "pmid": "34547600",
+  "title": "Isometric exercise during immobilization reduces the time to return to play after lateral ankle sprain.",
+  "year": "2021",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "[Objectives] Immobilization reduces symptoms after lateral ankle sprain but may worsen the range of motion (ROM) of the ankle and delay return to play (RTP). We aimed to elucidate the correlation between ankle ROM and time to RTP following immobilization for lateral ankle sprain and investigated if isometric exercise during immobilization would increase ROM and shorten the time to RTP. [Participants and outcome measures] Eighty-two patients with acute lateral ankle sprain were treated by a short-leg cast with or without isometric exercise and electrical muscle stimulation (EMS); intervention group or control group, respectively. The correlation between ankle ROM at cast removal and time to RTP was analyzed. The total and side-to-side ankle ROM and the time to RTP were compared between the two groups. [Results] Side-to-side difference in total ankle ROM significantly correlated with time to RTP (r = 0.38, p = 0.02). The intervention reduced the side-to-side difference in total ROM (20° versus 31°, p = 0.01) and time to RTP (46 versus 65 days, p = 0.01) compared to the control group. [Conclusion] Increased deficiency in ankle ROM led to a longer time to RTP, and isometric exercise combined with EMS during immobilization increased the total ankle ROM and shortened the time to RTP."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The intervention reduced the side-to-side difference in total ROM (20° versus 31°, p = 0.01) and time to RTP (46 versus 65 days, p = 0.01) compared to the control group. [Conclusion] Increased deficiency in ankle ROM led to a longer time to RTP, and isometric exercise combined with EMS during immobilization increased the total ankle ROM and shortened the time to RTP."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

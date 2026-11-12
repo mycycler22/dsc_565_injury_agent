@@ -1,0 +1,20 @@
+{
+  "pmid": "35989757",
+  "title": "The Effectiveness of Extracorporeal Shockwave Therapy for Midportion Achilles Tendinopathy: A Systematic Review.",
+  "year": "2022",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achilles tendinopathy is one of the most common lower limb injuries in both athletes and the general population. Despite the plethora of conservative treatment options available for the management of Achilles tendinopathy, as many as one in four patients will go on to require surgery. Extracorporeal shockwave therapy (ESWT) has emerged as a promising treatment option and has been successful in the management of other common musculoskeletal injuries such as plantar fasciitis. However, the evidence for ESWT in the management of Achilles tendinopathy remains inconclusive. Therefore, the aim of this systematic review was to evaluate the current evidence for the use of ESWT in the management of midportion Achilles tendinopathy. A comprehensive literature search was conducted using the databases MEDLINE (Pubmed), AMED, EMBASE, CINAHL, and CENTRAL. The databases were searched from their inception to December 2021. This was conducted to identify randomised control trials (RCTs) evaluating the effectiveness of ESWT versus control treatment in the management of midportion Achilles tendinopathy. Following a comprehensive search of the literature, a total of 283 articles were identified. Following the screening of titles and abstracts, 236 articles were excluded. The main reasons for exclusion were the identification of duplicates, non-randomised studies, and the use of ESWT on other pathology. Following the exclusion of 236 articles, 47 articles were retrieved for full-text review. Of these 47 articles, 40 were excluded leaving a total of 7 RCTs eligible for inclusion in this review. There was consistent evidence from 4 RCTs that ESWT is effective in the management of midportion Achilles tendinopathy. This review suggests that ESWT is a safe and effective modality for treating midportion Achilles tendinopathy as it reduces pain and improves function. The best available evidence suggests that a combination of ESWT with eccentric exercises and stretching may be even more effective than ESWT alone. Further research is required to confirm this and to determine the optimum ESWT treatment protocol."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

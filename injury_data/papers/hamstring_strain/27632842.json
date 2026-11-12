@@ -1,0 +1,47 @@
+{
+  "pmid": "27632842",
+  "title": "Rehabilitation After Hamstring-Strain Injury Emphasizing Eccentric Strengthening at Long Muscle Lengths: Results of Long-Term Follow-Up.",
+  "year": "2017",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Hamstring-strain injuries have a high recurrence rate."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine if a protocol emphasizing eccentric strength training with the hamstrings in a lengthened position resulted in a low recurrence rate."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Longitudinal cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Sports-medicine physical therapy clinic."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Fifty athletes with hamstring-strain injury (age 36 ± 16 y; 30 men, 20 women; 3 G1, 43 G2, 4 G3; 25 recurrent injuries) followed a 3-phase rehabilitation protocol emphasizing eccentric strengthening with the hamstrings in a lengthened position."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Injury recurrence; isometric hamstring strength at 80°, 60°, 40°, and 20° knee flexion in sitting with the thigh flexed to 40° above the horizontal and the seat back at 90° to the horizontal (strength tested before return to sport)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Four of the 50 athletes sustained reinjuries between 3 and 12 mo after return to sport (8% recurrence rate). The other 42 athletes had not sustained a reinjury at an average of 24 ± 12 mo after return to sport. Eight noncompliant athletes did not complete the rehabilitation and returned to sport before initiating eccentric strengthening in the lengthened state. All 4 reinjuries occurred in these noncompliant athletes. At time of return to sport, compliant athletes had full restoration of strength while noncompliant athletes had significant hamstring weakness, which was progressively worse at longer muscle lengths (compliance × side × angle P = .006; involved vs noninvolved at 20°, compliant 7% stronger, noncompliant 43% weaker)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Compliance with rehabilitation emphasizing eccentric strengthening with the hamstrings in a lengthened position resulted in no reinjuries."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

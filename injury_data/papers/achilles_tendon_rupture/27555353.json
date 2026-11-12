@@ -1,0 +1,26 @@
+{
+  "pmid": "27555353",
+  "title": "Knotless Repair of Achilles Tendon Rupture in an Elite Athlete: Return to Competition in 18 Weeks.",
+  "year": "2017",
+  "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Rupture of the Achilles tendon is an increasingly common injury, particularly in physically active males, and current evidence favors minimally invasive surgical repair. We describe the case of a 36-year-old male elite bobsled athlete with complete rupture of the Achilles tendon. He was treated with surgical repair of the ruptured tendon using an innovative, minimally invasive procedure based on an internal bracing concept and was able to undergo early mobilization and aggressive physiotherapy rehabilitation. His recovery was such that he returned to training at 13 weeks postoperatively and participated in an international competition at 18 weeks, winning a World Cup silver medal. He subsequently raced at the 2014 Winter Olympic Games at 29 weeks after surgery. At >2 years since his injury, he has experienced no complications or reinjury. This represents an exceptional recovery that far exceeds the standard expected for such injuries. The use of this technique for athletes could enable accelerated return to sporting activity and attainment of their preinjury activity levels."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "His recovery was such that he returned to training at 13 weeks postoperatively and participated in an international competition at 18 weeks, winning a World Cup silver medal."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "39552688",
+  "title": "Survivorship and outcomes of arthroscopic bankart repair for anterior shoulder dislocations: A minimum of 2 year follow-up.",
+  "year": "2025",
+  "journal": "Shoulder & elbow",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "This study aims to evaluate long-term survivorship of arthroscopic Bankart repair (ABR)."
+    },
+    {
+      "label": "METHODS",
+      "text": "About 101 patients under a single surgeon were followed up for ≥2 years post-ABR. Primary outcome was survivorship, defined as re-dislocation post-surgery. Secondary outcomes included a range of motion, strength, pain, University of California-Los-Angeles shoulder score, Oxford shoulder score (OSS), Oxford Shoulder Instability Score (OSIS), Constant Murley Score, and satisfaction. Clinical factors were correlated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eight patients experienced postoperative dislocation (5 high-energy trauma, 2 low-energy trauma, 1 atraumatic), with 2 patients requiring revision. The mean time to post-operative dislocation was 1.5 years (range 0.3-3.8). Competitive athletes demonstrated worse survivorship (p = 0.027) but greater isometric strength at 6 months (p = 0.041) compared to recreational players. Patients ≥25 years old experienced slower recovery of internal rotation at 3 months (p = 0.006). Patients with surgery >1 year after injury had slower recovery of external rotation (p = 0.006), worse Constant scores at 3 months (p = 0.036) and lesser improvements in isometric strength at 3 months (p = 0.032). Patients with single pre-operative dislocations (p = 0.036 OSS; p = 0.039 OSIS) and patients ≥25 years old (p = 0.044 OSS) had worse Oxford scores at 3 months."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "ABR demonstrates good outcomes with low recurrence. This study prognosticates long-term outcomes across various subgroups."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to post-operative dislocation was 1.5 years (range 0.3-3.8)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Patients ≥25 years old experienced slower recovery of internal rotation at 3 months (p = 0.006)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Patients with surgery >1 year after injury had slower recovery of external rotation (p = 0.006), worse Constant scores at 3 months (p = 0.036) and lesser improvements in isometric strength at 3 months (p = 0.032)."
+    }
+  ],
+  "pmcid": "11562411",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Eight patients experienced postoperative dislocation (5 high-energy trauma, 2 low-energy trauma, 1 atraumatic), with 2 patients requiring revision. The mean time to post-operative dislocation was 1.5 years (range 0.3–3.8). Competitive athletes demonstrated worse survivorship (p = 0.027) but greater isometric strength at 6 months (p = 0.041) compared to recreational players. Patients ≥25 years old experienced slower recovery of internal rotation at 3 months (p = 0.006). Patients with surgery >1 year after injury had slower recovery of external rotation (p = 0.006), worse Constant scores at 3 months (p = 0.036) and lesser improvements in isometric strength at 3 months (p = 0.032). Patients with single pre-operative dislocations (p = 0.036 OSS; p = 0.039 OSIS) and patients ≥25 years old (p = 0.044 OSS) had worse Oxford scores at 3 months."
+    }
+  ]
+}

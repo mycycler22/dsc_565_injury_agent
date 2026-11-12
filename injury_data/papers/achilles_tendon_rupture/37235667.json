@@ -1,0 +1,25 @@
+{
+  "pmid": "37235667",
+  "title": "Return to sport after surgical repair of the Achilles tendon.",
+  "year": "2023",
+  "journal": "British journal of hospital medicine (London, England : 2005)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achilles tendon rupture is among the most common sports injuries. In patients with high functional demands, surgical repair is preferred to facilitate early return to sporting function. This article reviews the literature and provides evidence-based guidance for return to sport after operative management of Achilles tendon rupture. A search was performed using PubMed, Embase and Cochrane Library for all studies reporting on return to sport after operative management of Achilles tendon rupture. The review included 24 studies reporting on 947 patients, and found that 65-100% of patients were able to return to sport between 3 and 13.4 months post-injury, with incidence of rupture recurrence 0-5.74%. These findings will help patients and healthcare professionals plan a recovery timeline, discuss athletic functionality post-recovery, and understand complications of repair and risk of tendon re-rupture."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The review included 24 studies reporting on 947 patients, and found that 65-100% of patients were able to return to sport between 3 and 13.4 months post-injury, with incidence of rupture recurrence 0-5.74%."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

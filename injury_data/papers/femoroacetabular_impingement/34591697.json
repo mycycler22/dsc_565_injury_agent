@@ -1,0 +1,49 @@
+{
+  "pmid": "34591697",
+  "title": "Criteria for Return to Play After Hip Arthroscopy in the Treatment of Femoroacetabular Impingement: A Systematic Review.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement (FAI) is a common pathology in athletes that often requires operative management in the form of hip arthroscopy."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To systematically review the rates and level of return to play (RTP) and the criteria used for RTP after hip arthroscopy for FAI in athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of the literature, based on the PRISMA guidelines, was performed using PubMed, Embase, and Scopus databases. Studies reporting outcomes after the use of hip arthroscopy for FAI were included. Outcomes analyzed were RTP rate, RTP level, and criteria used for RTP. Statistical analysis was performed using SPSS software."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Our review found 130 studies, which included 14,069 patients (14,517 hips) and had a mean methodological quality of evidence (MQOE) of 40.4 (range, 5-67). The majority of patients were female (53.7%), the mean patient age was 30.4 years (range, 15-47 years), and the mean follow-up was 29.7 months (range, 6-75 months). A total of 81 studies reported RTP rates, with an overall RTP rate of 85.4% over a mean period of 6.6 months. Additionally, 49 studies reported the rate of RTP at preinjury level as 72.6%. Specific RTP criteria were reported in 97 studies (77.2%), with time being the most commonly reported item, which was reported in 80 studies (69.2%). A total of 45 studies (57.9%) advised RTP at 3 to 6 months after hip arthroscopy."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The overall rate of reported RTP was high after hip arthroscopy for FAI. However, more than one-fourth of athletes who returned to sports did not return at their preinjury level. Development of validated rehabilitation criteria for safe return to sports after hip arthroscopy for FAI could potentially improve clinical outcomes while also increasing rates of RTP at preinjury levels."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "A total of 81 studies reported RTP rates, with an overall RTP rate of 85.4% over a mean period of 6.6 months."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "A total of 45 studies (57.9%) advised RTP at 3 to 6 months after hip arthroscopy."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

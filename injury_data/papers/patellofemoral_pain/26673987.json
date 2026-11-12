@@ -1,0 +1,43 @@
+{
+  "pmid": "26673987",
+  "title": "CHANGES IN PATELLOFEMORAL JOINT STRESS DURING RUNNING WITH THE APPLICATION OF A PREFABRICATED FOOT ORTHOTIC.",
+  "year": "2015",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Foot orthotics are commonly utilized in the treatment of patellofemoral pain (PFP) and have shown clinical benefit; however, their mechanism of action remains unclear. Patellofemoral joint stress (PFJS) is thought to be one of the main etiological factors associated with PFP."
+    },
+    {
+      "label": "HYPOTHESIS/PURPOSE",
+      "text": "The primary purpose of this study was to investigate the effects of a prefabricated foot orthotic with 5 ° of medial rearfoot wedging on the magnitude and the timing of the peak PFJS in a group of healthy female recreational athletes. The hypothesis was that there would be significant reduction in the peak patellofemoral joint stress and a delay in the timing of this peak in the orthotic condition."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional."
+    },
+    {
+      "label": "METHODS",
+      "text": "Kinematic and kinetic data were collected during running trials in a group of healthy, female recreational athletes. The knee angle and moment data in the sagittal plane were incorporated into a previously developed model to estimate patellofemoral joint stress. The dependent variables of interest were the peak patellofemoral joint stress as well as the percentage of stance at which this peak occurred, as both the magnitude and the timing of the joint loading are thought to be important in overuse running injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The peak patellofemoral joint stress significantly increased in the orthotic condition by 5.8% (p=.02, ES=0.24), which does not support the initial hypothesis. However, the orthotic did significantly delay the timing of the peak during the stance phase by 3.8% (p=.002, ES=0.47)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The finding that the peak patellofemoral joint stress increased in the orthotic condition did not support the initial hypothesis. However, the finding that the timing of this peak was delayed to later in the stance phase in the orthotic condition did support the initial hypothesis and may be related to the clinical improvements previously reported in subjects with PFP."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "38284216",
+  "title": "Outcomes and Proportions of Subsequent Contralateral Sports Hernia Repair Following Primary Unilateral Repair.",
+  "year": "2024",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In the event that nonoperative treatment for sports hernia fails, surgical repair may be warranted. Bilateral repair can occur in up to 45% of surgically treated patients."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the clinical outcomes of athletes who underwent unilateral sports hernia repair and determine the proportion of patients who required contralateral sports hernia repair."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "We identified patients at our institution who underwent primary unilateral sports hernia repair (rectus abdominis-adductor longus aponeurotic plate repair and adductor lengthening) with a single surgeon between 2015 and 2020. We assessed patient-reported outcomes using the Hip Outcome Score-Sport (HOS-Sport), the Numeric Pain Rating Scale, and an internally developed return-to-play questionnaire. We further collected data regarding subsequent sports hernia procedures on the ipsilateral or contralateral side. We calculated summary statistics for outcomes and examined the association between preinjury patient characteristics and the HOS-Sport score at follow-up or successful return to preinjury sport using linear and logistic regression, respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 104 of 128 (81.3%) eligible patients (mean age at surgery, 23.0 ± 6.2 years; 94.2% male; 51.9% American football athletes) completed follow-up at a mean time of 4.4 ± 1.5 years. Overall, 79.8% of athletes (n = 83) were able to return to their preinjury sport/activity, but 90.2% (83/92) who attempted to return were able to do so. When examining reasons for not returning to preinjury sport, only 9 patients reported not returning to preinjury sport because of limitations or persistent symptoms from their original injury. Only 4 patients underwent subsequent sports hernia procedures (3 contralateral, 1 ipsilateral revision) after their index unilateral sports hernia repair. At follow-up, the mean HOS-Sport score was high (94.0 ± 10.8), and the mean Numeric Pain Rating Scale score was low (0.31 ± 1.26). There were no preinjury patient characteristics associated with either the HOS-Sport score at follow-up or the successful return to preinjury sport."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patients with unilateral sports hernia symptoms can undergo repair and return to sport at the preinjury level with little concern for injuries to the contralateral groin. In our cohort, patient-reported hip function and pain outcomes at follow-up were excellent."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

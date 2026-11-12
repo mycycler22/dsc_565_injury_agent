@@ -1,0 +1,65 @@
+{
+  "pmid": "38291765",
+  "title": "Restorative Physical Function and Patient-Reported Outcomes After Acute Lateral Ankle Sprain in High School Athletes.",
+  "year": "2024",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Limited longitudinal data exist on patient-reported outcomes (PROs) after acute lateral ankle sprain (LAS). The impact of prospective hop testing on PROs at return to play (RTP) and 6 months post-RTP is unclear."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine if high school athletes with an LAS who return to baseline physical function as measured by a single-leg hop for distance (SLHOP) have better PROs relative to individuals who return to symmetry."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Ten high schools over 2 years."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "Two hundred six high school athletes who sustained an LAS were included. Baseline SLHOP testing was completed preinjury. Patient-reported outcomes were recorded at time of injury, RTP, and 6 months post-RTP. Participants were classified as symmetry (n = 134) or restorative (n = 72). Symmetry was defined as achieving an SLHOP performance within 10% of the uninjured limb at RTP. Restorative was defined as achieving an SLHOP performance within 10% of preinjury levels."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "The Foot and Ankle Ability Measure (FAAM)-Activities of Daily Living, FAAM-Sport, Patient-Reported Outcomes Measurement Information System (PROMIS) Anxiety, and PROMIS Depression were analyzed using a 2-way nonparametric analysis of variance. The interaction term of group by time was the main comparison of interest and was interpreted if significant. Post hoc multiple comparisons were performed using the Tukey-Kramer test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The restorative group reported better FAAM scores at RTP and 6 months post-RTP (P < .05) relative to the symmetry group. There were no differences in PROMIS Anxiety scores at time of injury, RTP, or 6 months post-RTP between groups (P > .05). There were no differences in PROMIS Depression scores at time of injury between groups (P = .34), but the restorative group had worse PROMIS Depression scores at RTP (P = .03)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The restorative group reported better FAAM-ADL and FAAM-Sport scores at RTP and 6 months post-RTP relative to the symmetry group. Restoring individuals to baseline physical function rather than limb symmetry may ensure better PROs after an LAS."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The restorative group reported better FAAM scores at RTP and 6 months post-RTP (P < .05) relative to the symmetry group."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "There were no differences in PROMIS Anxiety scores at time of injury, RTP, or 6 months post-RTP between groups (P > .05)."
+    },
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "The restorative group reported better FAAM-ADL and FAAM-Sport scores at RTP and 6 months post-RTP relative to the symmetry group."
+    }
+  ],
+  "pmcid": "11537217",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "The restorative group reported better FAAM scores at RTP and 6 months post-RTP (P < .05) relative to the symmetry group. There were no differences in PROMIS Anxiety scores at time of injury, RTP, or 6 months post-RTP between groups (P > .05). There were no differences in PROMIS Depression scores at time of injury between groups (P = .34), but the restorative group had worse PROMIS Depression scores at RTP (P = .03)."
+    }
+  ]
+}

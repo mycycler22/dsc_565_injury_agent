@@ -1,0 +1,49 @@
+{
+  "pmid": "34969012",
+  "title": "Evidence for Rehabilitation Interventions After Acute Lateral Ankle Sprains in Athletes: A Scoping Review.",
+  "year": "2022",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Acute lateral ankle sprain (LAS) is a common injury in athletes and is often associated with decreased athletic performance and, if treated poorly, can result in chronic ankle issues, such as instability. Physical performance demands, such as cutting, hopping, and landing, involved with certain sport participation suggests that the rehabilitation needs of an athlete after LAS may differ from those of the general population."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To review the literature to determine the most effective rehabilitation interventions reported for athletes returning to sport after acute LAS."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "Data Sources: Databases PubMed, Embase, CINAHL, SPORTDiscus, and PEDro were searched to July 2020."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "A scoping review protocol was developed and followed in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analysis Extension for Scoping Reviews guidelines and registered (https://osf.io/bgek3/). Study selection included published articles on rehabilitation for ankle sprain in an athletic population."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Parameters included athlete and sport type, age, sex, intervention investigated, outcome measures, measurement tool, and follow-up period."
+    },
+    {
+      "label": "DATA SYNTHESIS",
+      "text": "A qualitative synthesis for all articles was undertaken, and a quantitative subanalysis of randomized controlled trials and critical methodological appraisal was also conducted."
+    },
+    {
+      "label": "EVIDENCE SYNTHESIS",
+      "text": "A total of 37 articles were included in this review consisting of 5 systematic and 20 narrative reviews, 7 randomized controlled trials, a single-case series, case report, position statement, critically appraised topic, and descriptive study. Randomized controlled trial interventions included early dynamic training, electrotherapy, and hydrotherapy."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Early dynamic training after acute LAS in athletes results in a shorter time to return to sport, increased functional performance, and decreased self-reported reinjury. The results of this scoping review support an early functional and dynamic rehabilitation approach when compared to passive interventions for athletes returning to sport after LAS. Despite existing research on rehabilitation of LAS in the general population, a lack of evidence exists related to athletes seeking to return to sport."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

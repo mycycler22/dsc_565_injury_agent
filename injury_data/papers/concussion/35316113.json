@@ -1,0 +1,40 @@
+{
+  "pmid": "35316113",
+  "title": "Factors Associated With a Prolonged Time to Return to Play After a Concussion.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Prognosticating recovery times for individual athletes with a concussion remains a challenge for health care providers. Several preinjury and postinjury factors have been proposed to be predictive of prolonged return-to-play (RTP) times, but the data in this area are still sparse."
+    },
+    {
+      "label": "PURPOSES",
+      "text": "This study aimed to identify risk factors associated with prolonged recovery times and determine which are most predictive of prolonged recovery times in a head-to-head comparison."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "All concussions occurring between September 2017 and August 2020 at a single National Collegiate Athletic Association Division I institution were reviewed and included in this study. Preinjury modifiers including age, sex, sport, concussion history, and past medical problems were collected from the electronic medical records. Postinjury modifiers analyzed included initial and follow-up Sport Concussion Assessment Tool 5th Edition scores, vestibular evaluation findings, and eye tracking results."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 159 athletes and 187 concussion cases were included. Preinjury factors that were correlated with prolonged RTP times included a history of concussions (<i>P</i> = .015), a history of migraines (<i>P</i> = .013), and whether an athlete participated in an individual sport (<i>P</i> = .009). Postinjury factors correlated with prolonged RTP times included the total number (<i>P</i> = .020) and severity (<i>P</i> = .023) of symptoms as well as abnormal Vestibular Ocular Motor Screening findings (<i>P</i> = .002). Overall, 6 different symptoms (balance problems, difficulty concentrating, light sensitivity, drowsiness, fatigue/low energy, and difficulty remembering) were significantly correlated with prolonged RTP times. The study also found that the number and severity of symptoms were additive in a dose-dependent fashion. On multivariable analysis of all these factors, a history of concussions was found to be the most predictive of prolonged RTP times, while participation in an individual sport had the largest effect on recovery times."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Several preinjury and postinjury risk factors were identified as being correlated with prolonged recovery times. Many of these risk factors were also found to be additive in nature. This information provides clinicians with a valuable tool in prognosticating and estimating recovery times for athletes. The study also revealed that athletes participating in individual sports had longer RTP times compared with athletes in team sports, which is a novel finding that requires further research."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

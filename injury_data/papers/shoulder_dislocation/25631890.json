@@ -1,0 +1,25 @@
+{
+  "pmid": "25631890",
+  "title": "First-time anterior shoulder dislocations: should they be arthroscopically stabilised?",
+  "year": "2014",
+  "journal": "Singapore medical journal",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The glenohumeral joint is inherently unstable because the large humeral head articulates with the small shadow glenoid fossa. Traumatic anterior dislocation of the shoulder is a relatively common athletic injury, and the high frequency of recurrent instability in young athletes after shoulder dislocation is discouraging to both the patient and the treating physician. Management of primary traumatic shoulder dislocation remains controversial. Traditionally, treatment involves initial immobilisation for 4-6 weeks, followed by functional rehabilitation. However, in view of the high recurrence rates associated with this traditional approach, there has been an escalating interest in determining whether immediate surgical intervention can lower the rate of recurrent shoulder dislocation, improving the patient's quality of life. This review article aims to provide an overview of the nature and pathogenesis of first-time primary anterior shoulder dislocations, the widely accepted management modalities, and the efficacy of primary surgical intervention in first-time primary anterior shoulder dislocations."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Traditionally, treatment involves initial immobilisation for 4-6 weeks, followed by functional rehabilitation."
+    }
+  ],
+  "pmcid": "4293959",
+  "fulltext_chunks": []
+}

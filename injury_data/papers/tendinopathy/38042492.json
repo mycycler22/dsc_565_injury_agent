@@ -1,0 +1,20 @@
+{
+  "pmid": "38042492",
+  "title": "TRIM54 alleviates inflammation and apoptosis by stabilizing YOD1 in rat tendon-derived stem cells.",
+  "year": "2024",
+  "journal": "The Journal of biological chemistry",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy is a disorder of musculoskeletal system that primarily affects athletes and the elderly. Current treatment options are generally comprised of various exercise and loading programs, therapeutic modalities, and surgical interventions and are limited to pain management. This study is to understand the role of TRIM54 (tripartite motif containing 54) in tendonitis through in vitro modeling with tendon-derived stem cells (TDSCs) and in vivo using rat tendon injury model. Initially, we observed that TRIM54 overexpression in TDSCs model increased stemness and decreased apoptosis. Additionally, it rescued cells from tumor necrosis factor α-induced inflammation, migration, and tenogenic differentiation. Further, through immunoprecipitation studies, we identified that TRIM54 regulates inflammation in TDSCs by binding to and ubiquitinating YOD1. Further, overexpression of TRIM54 improved the histopathological score of tendon injury as well as the failure load, stiffness, and young modulus in vivo. These results indicated that TRIM54 played a critical role in reducing the effects of tendon injury. Consequently, these results shed light on potential therapeutic alternatives for treating tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

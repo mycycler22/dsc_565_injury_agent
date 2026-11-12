@@ -1,0 +1,48 @@
+{
+  "pmid": "40205694",
+  "title": "Effects of sleep symptomatology post-concussion on return to sport in collegiate athletes.",
+  "year": "2025",
+  "journal": "Brain injury",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To describe the relationship between sleep-symptom severity and number of days to return to play following concussion in student-athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Case series."
+    },
+    {
+      "label": "SETTING",
+      "text": "A D1 NCAA university athletic department (institutional care)."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "The study enrolled 84 varsity athletes who suffered a sport-related concussion at the university from 2015 to 2021."
+    },
+    {
+      "label": "INDEPENDENT VARIABLES",
+      "text": "Prior concussion(s), total symptom burden, and sleep symptomatology (sleeping more, sleeping less, trouble falling asleep, drowsiness, and fatigue) scores as reported using Post-Concussion Symptom Scale from the Immediate Post-Concussion Assessment and Cognitive Testing (ImPACT)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE",
+      "text": "The number of days an athlete took to return to play following concussion."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Individuals who reported trouble falling asleep, sleeping less, fatigue, and drowsiness took significantly longer to return to play following concussion than individuals who did not report such symptoms (F<sub>1,102</sub> = 34.12, <i>p</i> < 0.0001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Sleep symptomatology present after concussion is predictive of days until return to sport. This study demonstrates the importance of sleep symptomatology post-concussion for athletes."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

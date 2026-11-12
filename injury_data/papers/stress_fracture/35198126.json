@@ -1,0 +1,32 @@
+{
+  "pmid": "35198126",
+  "title": "Humerus Diaphyseal Stress Fracture in a Teenage Tennis Athlete: Case Report.",
+  "year": "2022",
+  "journal": "Revista brasileira de ortopedia",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "A teenage male tennis player had chronic pain in his dominant arm during tennis practice. Magnetic resonance imaging (MRI) suggested humerus diaphyseal stress injury. After 4 weeks, he became asymptomatic and resumed playing. However, pain recurred after 3 days. A new MRI revealed a diaphyseal undisplaced humerus fracture and significant bone marrow edema. The patient remained in rest for 4 weeks. After that, strengthening exercises were introduced and return to training was allowed after 12 weeks. Even if asymptomatic, we suggest that these patients should not return to play before 12 weeks, depending on the physical exam and imaging findings."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "After 4 weeks, he became asymptomatic and resumed playing."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "After that, strengthening exercises were introduced and return to training was allowed after 12 weeks."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "Even if asymptomatic, we suggest that these patients should not return to play before 12 weeks, depending on the physical exam and imaging findings."
+    }
+  ],
+  "pmcid": "8856851",
+  "fulltext_chunks": []
+}

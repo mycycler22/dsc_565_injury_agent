@@ -1,0 +1,36 @@
+{
+  "pmid": "27855130",
+  "title": "Return to Play Following Open Treatment of Femoroacetabular Impingement in Adolescent Athletes.",
+  "year": "2016",
+  "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "After treatment of femoroacetabular impingement (FAI) in adolescent competitive athletes, the rate, timing, and level of return to play have not been well reported."
+    },
+    {
+      "label": "METHODS",
+      "text": "Adolescent athletes who underwent open FAI treatment were assessed at a minimum 1-year follow-up. Patients completed a self-reported questionnaire centered on the time and level of return to play. Pain and functional outcomes were assessed using the modified Harris Hip Score (mHHS) and the Hip Disability and Osteoarthritis Outcome Score (HOOS)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Among the 24 athletes included, 21 (87.5%) (95% confidence interval [CI], 67.6% to 97.3%) successfully returned to play after open FAI treatment. The median time to return to play was 7 months (95% CI, 6 to 10 months). Of the 21 who returned to play, 19 (90%) returned at a level that was equivalent to or greater than their level of play before surgery. Three athletes (12.5%) did not return to play and indicated that failure to return to play was unrelated to their hip. There was significant improvement in the mHHS (P < 0.0001), HOOS (P < 0.0001), α angle (P < 0.0001), and offset (P < 0.0001)."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Most adolescent athletes can expect to return to the same or better level of sports participation during the first year after open treatment of FAI."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The median time to return to play was 7 months (95% CI, 6 to 10 months)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

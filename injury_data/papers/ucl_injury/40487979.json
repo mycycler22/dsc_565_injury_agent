@@ -1,0 +1,35 @@
+{
+  "pmid": "40487979",
+  "title": "Return to play and performance metrics following ulnar collateral ligament reconstruction in major league baseball pitchers.",
+  "year": "2025",
+  "journal": "Journal of orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The introduction of ulnar collateral ligament reconstruction (UCLR) (i.e., Tommy John surgery) has revolutionized the management of UCL injury. Many athletes and coaches may perceive surgery to enhance performance, warranting an investigation of the reliability of reporting of outcomes. Multiple studies suggest improved return to sport metrics, but this may be limited by variables examined and sample sizes."
+    },
+    {
+      "label": "HYPOTHESIS/PURPOSE",
+      "text": "We assessed performance metrics in Major League Baseball (MLB) pitchers before and after UCLR in a large publicly available database."
+    },
+    {
+      "label": "METHODS",
+      "text": "All MLB pitchers who had undergone UCLR between 1983 and 2022 were obtained from a publicly available database: FanGraphs (www.fangraphs.com). Inclusion criteria included: (1) pitchers who appeared in ≥10 MLB games during a single season and (2) a minimum of 24 months follow-up. Exclusion criteria included: non-pitcher position players, minor league players, and prior UCL reconstruction. Data collected included: games played, innings pitched, earned run average (ERA), walks and hits per inning pitched (WHIP), walks per 9 innings (BB/9), strikeouts per 9 innings (K/9), wins above replacement (WAR), and runs above replacement (RAR)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 357 MLB players who had undergone UCLR were identified between 1983 and 2022. There were 276 of 357 players (77.3 %) who returned to play after UCLR. Average WAR (6.99 vs. 4.81, p = 0.04) and RAR (66.84 vs. 46.41, p = 0.04) were greater in the pre-UCLR cohort than post-UCLR cohort, respectively. The average games played, innings pitched, ERA, WHIP, BB/9, K/9, and pitch selection (fastball, slider, cutter, curveball, and changeup) were similar between the cohorts (all p > 0.05). Fastball velocity (mph) were similar between the cohorts (92.3 ± 2.9 vs. 91.5 ± 7.6; p = 0.20)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MLB pitchers returning to playing level after UCLR were found to have decreased WAR and RAR as compared to pre-UCLR, however fastball velocity was similar upon return. Utilizing advanced performance statistics, such as WAR and RAR, provides a more comprehensive view of player performance and works towards improving the reliability of the reporting of outcomes in the literature. These results corroborate the utility of UCLR in return to play and should help guide shared decision making as well as patient/surgeon expectations when considering UCLR."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "42741895",
+  "title": "Injury patterns and technique-specific determinants in competitive arm wrestling: implications for performance-oriented rehabilitation.",
+  "year": "2026",
+  "journal": "The Journal of sports medicine and physical fitness",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Arm wrestling is characterized by high torsional and compressive forces acting on the upper limb, predisposing athletes to both acute traumatic and overuse injuries. Despite increasing recognition of injury patterns, quantitative evaluation of technique-specific determinants and their relationship to injury localization remains limited. The aim of the study is to investigate the patterns and mechanisms of upper limb injuries in competitive arm wrestling and to identify technique- and experience-related determinants associated with injury occurrence."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cross-sectional observational study was conducted involving 46 competitive arm wrestling athletes. Data were collected using a structured anonymous self-reported online questionnaire without independent clinical or radiological verification, assessing recalled injury type, anatomical location, perceived injury mechanism, training experience, and healthcare utilization. Descriptive statistics were calculated, and associations between variables were examined using cross-tabulation analyses with Chi-square or Exact testing, as appropriate. Univariate logistic regression analysis was performed to evaluate the relationship between technique and injury localization."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Muscle and ligament injuries were the most frequent (45.6%), followed by fractures (34.8%) and dislocations (19.6%). The elbow joint was the most commonly affected region (54.3%), followed by the shoulder (23.9%) and wrist (13.0%). The hook technique was the most frequently associated with injury occurrence (52.2%) and demonstrated a statistically significant exploratory association with elbow injury occurrence based on Fisher-Freeman-Halton Exact testing (P=0.041). Exploratory univariate logistic regression suggested that the hook technique was associated with higher self-reported odds of elbow injury (OR = 2.5, 95% CI 1.1-5.8, P=0.03); however, these findings require cautious interpretation given the limited sample size and uneven subgroup distribution, which may have reduced the stability and precision of the estimated associations. Less experienced athletes were more likely to sustain fractures, whereas more experienced athletes predominantly reported soft tissue injuries based on exploratory Exact-test analysis."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Upper limb injuries in arm wrestling are predominantly localized to the elbow and are strongly influenced by technique-specific loading patterns and training experience. The hook technique was associated with a higher self-reported occurrence of elbow injury and should be interpreted as an exploratory risk indicator rather than a clinically verified risk factor. These findings support the integration of technique optimization, neuromuscular control, and progressive load management strategies in both injury prevention and performance-oriented rehabilitation programs."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

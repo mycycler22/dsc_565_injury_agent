@@ -1,0 +1,33 @@
+{
+  "pmid": "15632676",
+  "title": "Hamstring muscle kinematics during treadmill sprinting.",
+  "year": "2005",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION/PURPOSE",
+      "text": "The objective of this study was to characterize hamstring muscle kinematics during sprinting, so as to provide scientific data to better understand injury mechanisms and differences in injury rates between muscles."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted three-dimensional motion analyses of 14 athletes performing treadmill sprinting at speeds ranging from 80 to 100% of maximum. Scaled musculoskeletal models were used to estimate hamstring muscle-tendon lengths throughout the sprinting gait cycle for each speed. We tested the hypothesis that the biceps femoris (BF) long head would be stretched a greater amount, relative to its length in an upright posture, than the semitendinosus (ST) and semimembranosus (SM). We also tested the hypothesis that increasing from submaximal to maximal sprinting speed would both increase the magnitude and delay the occurrence of peak muscle-tendon length in the gait cycle."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Maximum hamstring lengths occurred during the late swing phase of sprinting and were an average of 7.4% (SM), 8.1% (ST), and 9.5% (BF) greater than the respective muscle-tendon lengths in an upright configuration. Peak lengths were significantly larger in the BF than the ST and SM (P < 0.01), occurred significantly later in the gait cycle at the maximal speed (P < 0.01), but did not increase significantly with speed. Differences in the hip extension and knee flexion moment arms between the biarticular hamstrings account for the intermuscle variations in the peak lengths that were estimated."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "We conclude that intermuscle differences in hamstring moment arms about the hip and knee may be a factor contributing to the greater propensity for hamstring strain injuries to occur in the BF muscle."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

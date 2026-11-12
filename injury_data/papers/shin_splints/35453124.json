@@ -1,0 +1,35 @@
+{
+  "pmid": "35453124",
+  "title": "Effect of Compression Therapy in the Treatment of Tibial Stress Syndrome in Military Service Members.",
+  "year": "2022",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Tibial stress syndrome (TSS) is an overuse injury of the lower extremities. There is a high incidence rate of TSS among military recruits. Compression therapy is used to treat a wide array of musculoskeletal injuries. The purpose of this study was to investigate the use of compression therapy as a treatment for TSS in military service members."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A parallel randomized study design was utilized."
+    },
+    {
+      "label": "METHODS",
+      "text": "Military members diagnosed with TSS were assigned to either a relative rest group or compression garment group. Both groups started the study with 2 weeks of lower extremity rest followed by a graduated running program during the next 6 weeks. The compression garment group additionally wore a shin splints compression wrap during the waking hours of the first 2 weeks and during activity only for the next 6 weeks. Feelings of pain, TSS symptoms, and the ability to run 2 miles pain free were assessed at baseline, 4 weeks, and 8 weeks into the study."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Feelings of pain and TSS symptoms decreased during the 8-week study in both groups (P < .05), but these changes were not significantly different between groups (P > .05). The proportion of participants who were able to run 2 miles pain free was significantly different (P < .05) between the 2 groups at the 8-week time point with the compression garment group having a significantly increased ability to complete the run without pain."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although perceptions of pain at rest were not different between groups, the functional ability of running 2 miles pain free was significantly improved in the compression garment group. These findings suggest that there is a moderate benefit to using compression therapy as an adjunct treatment for TSS, promoting a return to training for military service members."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

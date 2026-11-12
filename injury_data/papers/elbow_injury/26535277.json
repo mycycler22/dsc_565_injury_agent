@@ -1,0 +1,39 @@
+{
+  "pmid": "26535277",
+  "title": "Is Tommy John Surgery Performed More Frequently in Major League Baseball Pitchers From Warm Weather Areas?",
+  "year": "2014",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Medial ulnar collateral ligament (UCL) reconstruction is a common procedure performed on Major League Baseball (MLB) pitchers with symptomatic UCL insufficiency, frequently due to overuse. Warm weather climates afford youth pitchers the opportunity to throw year-round, potentially placing them at risk for overuse elbow injuries."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "To determine whether the proportion of MLB pitchers who underwent medial UCL reconstruction and who pitched competitive youth baseball in warm weather areas is higher than those from cold weather areas. The hypothesis was that MLB pitchers from warm weather areas were more likely to undergo UCL reconstruction than pitchers from cold weather areas."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiological study."
+    },
+    {
+      "label": "METHODS",
+      "text": "All MLB pitchers with symptomatic UCL deficiency who underwent UCL reconstruction as of June 1, 2014, were evaluated. The state/country where they played high school baseball was identified from online reference websites. Warm and cold weather areas were defined by latitude distance from the equator and mean annual temperatures. A chi-square test was used to compare the proportion of MLB pitchers from warm versus cold weather areas who underwent UCL reconstruction. The study was 99.6% powered to detect a 100% effect size (eg, 1% vs 2%) and 71.4% powered to detect a 50% effect size (eg, 1% vs 1.5%) with setting α = .05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 247 pitchers were identified who had undergone UCL reconstruction; 139 (56.3%) pitched high school baseball in warm weather areas, 108 (43.7%) pitched in cold weather areas. A significantly higher proportion of pitchers who underwent UCL reconstruction (2.2% [95% CI, 1.9%-2.6%]) were from warm weather areas compared with cold weather areas (0.94% [95% CI, 0.78%-1.1%]) (P < .0001). Warm weather pitchers had a mean (±SD) age of 27.6 ± 0.6 years and had played 4.0 ± 0.6 seasons in MLB at the time of surgery, while cold weather pitchers were aged 28.4 ± 0.8 years and had played 5.0 ± 0.9 seasons in MLB (P = .089 and P = .047, respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MLB pitchers who played high school baseball in warm weather climates have undergone medial UCL reconstruction more frequently and earlier in their MLB careers than pitchers who played in cold weather areas."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "37596551",
+  "title": "Feasibility of return to sports assessment 6 months after patellar instability surgery.",
+  "year": "2023",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The evidence regarding the usefulness of assessment tools to support decisions of return-to-sport after surgery for patellar instability is scarce. The purpose of this study was therefore to explore the feasibility of functional tests assessing readiness for return-to-sport six months after patellar stabilizing surgery. However, there is little evidence on what a functional assessment should include to support these decisions following surgery for patellar instability. Therefore the purpose of this study was to explore the feasibility of functional tests assessing readiness for return-to-sport six months after patellar stabilizing surgery."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this cross-sectional study a prospective cohort of 78 patients were subjected to a range of return-to-sport readiness tests at six months after surgery for patellar instability with an \"a la carte\" approach. Lower Quarter Y-Balance Test (YBT-LQ), single-legged hop tests and isokinetic strength tests were performed. In addition, self-reported function was measured with the Banff Patellofemoral Instability Instrument 2.0 (BPII) and Norwich Patellar Instability score (NPI). Return-to-sport clearance criteria were defined as: ≤4 cm YBT-LQ anterior reach difference between legs, leg-symmetry-index (LSI) ≥ 95% in the YBT-LQ composite score, mean sum score LSI ≥ 85% of all single-leg hop tests and LSI ≥ 90% in isokinetic quadriceps strength."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Sixty-four patients (82%) were able to complete all functional tests, while only eleven (14%) patients were deemed ready for return-to-sport, passing all return-to-sport clearance criteria. Patients with bilateral problems demonstrated worse performance in the contralateral leg, which resulted in higher LSI scores compared to individuals with unilateral instability. A supplementary finding was that the extent of surgery (MPFL-R only versus combined surgery) did not predict and mainly did not affect self-reported function or functional performance at the follow-up."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The functional assessment used in the current study seems feasible to conduct at six months after patellar stabilizing surgery. However, current suggested clearance standards and the use of leg-symmetry-index seems inappropriate for patients with patellar instability. Therefore, further exploration of appropriate tests and return-to-sport clearance criteria is justified."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "clinicaltrial.gov, NCT05119088. Registered 12.11.2021 - Retrospectively registered, https://clinicaltrials.gov/ct2/show/NCT05119088 ."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

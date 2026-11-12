@@ -1,0 +1,78 @@
+Title: Return to play after surgery for isolated unstable syndesmotic ankle injuries (West Point grade IIB and III) in 110 male professional football players: a retrospective cohort study. | Type: Journal Article | PMID: 31473593 | Year: 2020 | Injury query: high ankle sprain
+[RESULTS] The mean time required to begin on field rehabilitation was 37±12 days, while the mean time to return to team training was 72±28 days.
+[FULLTEXT: Results] Between January 2012 and December 2017, a total of 110 male professional football players were included. The mean time required to begin on field rehabilitation was 37±12 days, while the mean time to return to team training was 72±28 days. The first official match was played on average 103±28 days postoperatively. Multivariable analysis revealed that the severity of injury, the concomitant presence of talar cartilage injury and the age of the player were significantly associated (p<0.00001) with time to return to on field rehabilitation, team training and match play.
+[FULLTEXT: Return to sport outcomes] The mean time required to begin the sports-specific rehabilitation was 37±12 days, while the time to return to train with team was 72±28 days. The first official match after surgical syndesmosis fixation was played on average after 103±28 days (table 2). Mean time-loss for unstable grade IIB injuries are shown in table 2 and those for grade three injuries are presented in table 3. One month postoperatively, 55% of players had started on field rehabilitation, 4% had already returned to team training and none had participated in an official match. At 2 months, almost all of the players (97%) had started sport-specific rehabilitation, 47% were training with their team and 4% had already participated in an official match. At 3 months 73% of the players were allowed to train with their team and nearly half (44%) had played an official match. The return to training and to match play were respectively 95% and 76% at 5 months and 98% and 95% at 6 months (figure 3). During the postoperative follow-up, 5 patients (5%) experienced delayed wound closure. None of these patients required additional treatment and all healed within 50 days after surgery.
+[FULLTEXT: Association between injury and return to play] In our study, we differentiated the mean return to train time (72 days) and the mean return to play time (103 days) after unstable grade IIB and III syndesmotic ankle injuries in elite football. A recent prospective study by Calder et al reported on 36 athletes with an unstable grade IIB ankle injury. In their surgically treated cohort, they observed a mean return to sport of 64 days. However, no comparison with grade III injuries was described but they did find an additional increase in return to sports of 21.5 days if a concomitant deltoid ligament lesion was apparent. In their study, no differentiation was made on whether return to sports meant sport-specific rehabilitation, team training or first official match.12 In our study on 110 elite football athletes, we compared grade IIB with grade III injuries (table 3) and observed a mean return to sport of 72 days (table 2). We also differentiated the time to return to sport-specific rehabilitation, team training and official match between grade IIB and grade III injuries. Beside from concomitant deltoid lesions (known as West Point grade III injury), we identified that concomitant cartilage injury and greater age were associated with significantly longer return to play times (table 1). In division I collegiate American football players following high ankle sprains, there is a clear association between injury severity as measured by physical examination and the time to return to unrestricted play. Although these injuries are less common than isolated lateral ankle sprains, their clinical course was shown to be more protracted and unpredictable.13 A report on collegiate athletes with syndesmotic sprains also found an association between injury height on physical examination and time lost from athletic participation.14 Although this study was not restricted to football players only (without the effect of sex or sport in their results), similar mean times lost from athletic participation are reported (13.4 vs 15.5 days).14 Similar findings were observed in our study with a time to return to unrestricted play of 57 days (grade IIB) versus 105 days (grade III) which means an increase in time of 48 days based on injury severity (table 3). When compared with time loss to play with lateral ankle sprains, numerous authors report a significantly greater time loss to play with high ankle sprains.12 13 15–17 In professional football players this results in a higher inability to train (11.7 vs 3.5 training sessions) and play official matches (1.4 vs 0.3 matches) compared with those with simple lateral ankle sprains only.16 Furthermore, unstable syndesmotic injuries are associated with persistent ankle pain (40%) and premature ankle arthritis (42%) if left untreated.17 Indeed, although our study didn’t look into the return to play after lateral ankle sprains, our findings confirm the longer rehabilitation time of high ankle sprains, compared with previous study results on lateral ankle sprains.9 10
+[FULLTEXT: TABLE: Postoperative return to sport activities] Time landmarks | Return to on field rehabilitation | Return to train with team | Return to first match
+0 months | 7 days (1 week) | – | – | – | – | – | –
+14 days (2 weeks) | 0% | (SE 0%) | – | – | – | –
+21 days (3 weeks) | 4% | (SE 2%) | 0% | (SE 0%) | – | –
+28 days (4 weeks) | 19% | (SE 4%) | 1% | (SE 1%) | – | –
+1 month | 35 days (5 weeks) | 55% | (SE 5%) | 4% | (SE 2%) | 0% | (SE 0%)
+42 days (6 weeks) | 76% | (SE 4%) | 10% | (SE 3%) | 0% | (SE 0%)
+49 days (7 weeks) | 86% | (SE 3%) | 20% | (SE 4%) | 1% | (SE 1%)
+56 days (8 weeks) | 94% | (SE 2%) | 35% | (SE 5%) | 2% | (SE 1%)
+2 months | 63 days (9 weeks) | 97% | (SE 2%) | 47% | (SE 5%) | 4% | (SE 2%)
+70 days (10 weeks) | 98% | (SE 1%) | 56% | (SE 5%) | 5% | (SE 2%)
+77 days (11 weeks) | 99% | (SE 1%) | 67% | (SE 4%) | 16% | (SE 3%)
+84 days (12 weeks) | 100% | (SE 0%) | 69% | (SE 4%) | 29% | (SE 4%)
+3 months | 91 days (13 weeks) | – | – | 73% | (SE 4%) | 44% | (SE 5%)
+98 days (14 weeks) | – | – | 79% | (SE 4%) | 53% | (SE 5%)
+105 days (15 weeks) | – | – | 86% | (SE 3%) | 60% | (SE 5%)
+112 days (16 weeks) | – | – | 93% | (SE 2%) | 66% | (SE 5%)
+4 months | 119 days (17 weeks) | – | – | 95% | (SE 2%) | 76% | (SE 4%)
+126 days (18 weeks) | – | – | 97% | (SE 2%) | 85% | (SE 3%)
+133 days (19 weeks) | – | – | 97% | (SE 2%) | 91% | (SE 3%)
+140 days (20 weeks) | – | – | 98% | (SE 1%) | 93% | (SE 2%)
+5 months | 147 days (21 weeks) | – | – | 98% | (SE 1%) | 95% | (SE 2%)
+154 days (22 weeks) | – | – | 98% | (SE 1%) | 97% | (SE 2%)
+161 days (23 weeks) | – | – | 100% | (SE 0%) | 97% | (SE 2%)
+168 days (24 weeks) | – | – |  |  | 97% | (SE 2%)
+6 months | 175 days (25 weeks) | – | – | – | – | 98% | (SE 1%)
+182 days (26 weeks) | – | – | – | – | 98% | (SE 1%)
+189 days (27 weeks) | – | – | – | – | 99% | (SE 1%)
+196 days (28 weeks) | – | – | – | – | 100% | (SE 0%)
+Mean±SD | 37±12 days | 72±28 days | 103±28 days
+[FULLTEXT: TABLE: Return to sport according to injury severity] Time landmarks | Grade IIB injuries (n=75) | Grade III injuries (n=35)
+Return to on field rehabilitation | Return to train with team | Return to first match | Return to on field rehabilitation | Return to train with team | Return to first match
+0 months | 7 days (1 week) | – | – | – | – | – | – | – | – | – | – | – | –
+14 days (2 weeks) | 0% | (SE 0%) | – | – | – | – | – | – | – | – | – | –
+21 days (3 weeks) | 7% | (SE 3%) | 0% | (SE 0%) | – | – | – | – | – | – | – | –
+28 days (4 weeks) | 28% | (SE 5%) | 1% | (SE 1%) | – | – | 0% | (SE 0%) | – | – | – | –
+1 month | 35 days (5 weeks) | 79% | (SE 5%) | 7% | (SE 3%) | – | – | 3% | (SE 3%) | – | – | – | –
+42 days (6 weeks) | 96% | (SE 2%) | 15% | (SE 4%) | 0% | (SE 0%) | 34% | (SE 8%) | – | – | – | –
+49 days (7 weeks) | 99% | (SE 1%) | 29% | (SE 5%) | 1% | (SE 1%) | 57% | (SE 8%) | 0% | (SE 0%) | – | –
+56 days (8 weeks) | 100% | (SE 0%) | 49% | (SE 6%) | 3% | (SE 2%) | 80% | (SE 7%) | 3% | (SE 3%) | – | –
+2 months | 63 days (9 weeks) | – | – | 65% | (SE 6%) | 7% | (SE 3%) | 91% | (SE 5%) | 9% | (SE 5%) | – | –
+70 days (10 weeks) | – | – | 77% | (SE 5%) | 8% | (SE 3%) | 94% | (SE 4%) | 9% | (SE 5%) | – | –
+77 days (11 weeks) | – | – | 95% | (SE 3%) | 23% | (SE 5%) | 97% | (SE 3%) | 9% | (SE 5%) | – | –
+84 days (12 weeks) | – | – | 97% | (SE 2%) | 43% | (SE 6%) | 100% | (SE 0%) | 9% | (SE 5%) | 0% | (SE 0%)
+3 months | 91 days (13 weeks) | – | – | 100% | (SE 0%) | 63% | (SE 6%) | – | – | 14% | (SE 6%) | 3% | (SE 3%)
+98 days (14 weeks) | – | – | – | – | 76% | (SE 5%) | – | – | 34% | (SE 8%) | 3% | (SE 3%)
+105 days (15 weeks) | – | – | – | – | 84% | (SE 4%) | – | – | 54% | (SE 8%) | 9% | (SE 5%)
+112 days (16 weeks) | – | – | – | – | 93% | (SE 3%) | – | – | 77% | (SE 7%) | 9% | (SE 5%)
+4 months | 119 days (17 weeks) | – | – | – | – | 100% | (SE 0%) | – | – | 86% | (SE 6%) | 26% | (SE 7%)
+126 days (18 weeks) | – | – | – | – | – | – | – | – | 91% | (SE 5%) | 51% | (SE 8%)
+133 days (19 weeks) | – | – | – | – | – | – | – | – | 91% | (SE 5%) | 71% | (SE 8%)
+140 days (20 weeks) | – | – | – | – | – | – | – | – | 94% | (SE 4%) | 77% | (SE 7%)
+5 months | 147 days (21 weeks) | – | – | – | – | – | – | – | – | 94% | (SE 4%) | 83% | (SE 6%)
+154 days (22 weeks) | – | – | – | – | – | – | – | – | 94% | (SE 4%) | 91% | (SE 5%)
+161 days (23 weeks) | – | – | – | – | – | – | – | – | 100% | (SE 0%) | 91% | (SE 5%)
+168 days (24 weeks) | – | – | – | – | – | – | – | – | – | – | 91% | (SE 5%)
+6 months | 175 days (25 weeks) | – | – | – | – | – | – | – | – | – | – | 94% | (SE 4%)
+182 days (26 weeks) | – | – | – | – | – | – | – | – | – | – | 94% | (SE 4%)
+189 days (27 weeks) | – | – | – | – | – | – | – | – | – | – | 97% | (SE 3%)
+196 days (28 weeks) | – | – | – | – | – | – | – | – | – | – | 100% | (SE 0%)
+Mean±SD |  | 32±7 days | 57±14 days | 88±16 days | 49±11 days | 105±22 days | 136±21 days
+[FULLTEXT: TABLE: Multiple regression models for return to sport outcomes] Independent variables | Return to on field rehabilitation | Return to train with team | Return to first match
+Coeff. | SE | P value | Coeff. | SE | P value | Coeff. | SE | P value
+(Constant) | 31.2 |  |  | 56.4 |  |  | 87.5 |  | 
+Grade III injury | 15.7 | 1.8 | <0.0001 | 43.0 | 3.6 | <0.0001 | 43.8 | 3.8 | <0.0001
+Cartilage injury | 4.4 | 2.0 | =0.0277 | 10.7 | 4.0 | =0.0096 | 9.2 | 4.2 | =0.0311
+Age (years) | −0.4 | 0.2 | =0.0460 | −0.8 | 0.4 | =0.0475 | −1.1 | 0.4 | =0.0121
+Injury during training | – | – | n.s. | – | – | n.s. | – | – | n.s.
+Reinjury | – | – | n.s. | – | – | n.s. | – | – | n.s.
+Contact injury | – | – | n.s. | – | – | n.s. | – | – | n.s.
+Dominant leg | – | – | n.s. | – | – | n.s. | – | – | n.s.
+Significance of the model | p<0.0001 |  | p<0.0001 |  | p<0.0001 | 
+Residual SD | 8.0 |  | 16.3 |  | 16.9 | 

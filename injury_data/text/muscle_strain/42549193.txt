@@ -1,0 +1,56 @@
+Title: Accelerated Return to Competition Following a Full-Thickness Abdominal Wall Tear in an Elite Sprinter: A Data-informed Case Report. | Type: Case Reports, Journal Article | PMID: 42549193 | Year: 2026 | Injury query: muscle strain
+[UNLABELED] Progression was guided by athlete response and objective performance data rather than predetermined time-based criteria. # Outcomes Pain-free sprinting was achieved within 16 days, unrestricted training resumed by Day 18, and the athlete returned to competition on Day 28, recording a lifetime personal best of 10.08 seconds in the 100 m.
+[FULLTEXT: TABLE: Day-by-day progression of rehabilitation and return-to-play] Day | Component | Intervention details | Athlete response
+2 | Optimal loading | Physiotherapy assessment; light trunk isometrics (anti-side flexion, anti-rotation); whole-body exercises within pain-free limits (Appendix 1) | Daily program initiated; linked to early muscle healing principles
+4 | Optimal loading | ↑ Tension in isometrics; through-range trunk exercises with light resistance (Appendix 1) | Pain used as guide for intensity
+5 | Technical drills | Sport-specific function assessed; A/B/C skips pain-free; high knees at ~80% to maintain form (Appendix 2) | All drills pain-free except mild awareness at higher intensities
+5 | S&C | Normal S&C program reintroduced under physiotherapist supervision; 2 exercises modified for range, load, or RFD (Appendix 3) | Athlete tolerated re-introduction well
+8 | Optimal loading | Progressed daily trunk program; low-force but more dynamic | Pain-free
+8 | S&C | Continued normal S&C with minor modifications (Appendix 3) | 
+8 | Technical drills | Technical drills mostly pain-free, mild awareness noted in one drill (Appendix 2) | 
+8 | High-speed running | Flying 30 m sprints at 60–85% effort; max 9.3 m/s (Table 3) | Pain-free at lower intensities; mild tightness in final reps
+8 | Force profiling | 1080Q session: 2 exercises (Eriksrud et al14) (Table 2) | Pain-free, advised to produce maximal force
+10 | Force profiling | Second 1080Q session (Table 2) | 
+11 | High-speed running | Flying 30 m sprints to 95% effort; max 10.6 m/s (Table 3) | No pain reported
+12 & 14 | S&C | Substituted sessions on cable machine when unable to attend Sport Ireland Institute (SII) | 
+13 | Technical drills | Progressed high-speed running: longer distance repetitions | Tolerated
+16 | Force profiling | Third 1080 Quantum session (Table 2) | 
+16 | Acceleration | Sprint starts from blocks | Symptom-free, normal stride parameters based off pre-injury historical Optojump data
+18 | Force profiling | Final 1080 session; cable session (Table 2) | Athlete cleared for full training
+21 | Return-to-play | Planned race (cancelled) | 
+28 | Return-to-play | Competition: 100 m race, personal best 10.08 s | Returned to competition
+[FULLTEXT: TABLE: Progressive changes in trunk force output and asymmetry measure using the 1080 Quantum during rehabilitation. Testing was performed in isotonic mode (5 kg concentric/eccentric load; concentric speed 0]  |  | Average Force (N) | Peak Force (N) | 
+Date | Exercise | Left | Right | Left | Right | Asymmetry %*
+Day 8 | VP | 262 | 292 | 292 | 320 | -12%
+Day 10 | VP | 272 | 313 | 297 | 312 | -15%
+Day 16 | VP | 279 | 318 | 279 | 353 | -14%
+Day 31 | VP | 223 | 259 | 311 | 338 | -16%
+Day 59 | VP | 340 | 366 | 438 | 445 | -8%
+Day 72 | VP | 334 | 366 | 378 | 476 | -9%
+Day 8 | SB | 162 | 172 | 182 | 181 | -6%
+Day 10 | SB | 205 | 223 | 248 | 255 | -9%
+Day 16 | SB | 230 | 189 | 248 | 198 | 18%
+Day 31 | SB | 204 | 202 | 224 | 224 | 1%
+Day 59 | SB | 225 | 236 | 246 | 273 | -5%
+Day 72 | SB | 226 | 229 | 258 | 268 | -1%
+Day 8 | RP | 279 | 241 | 328 | 267 | 14%
+Day 10 | RP | 326 | 322 | 370 | 450 | 1%
+Day 16 | RP | 268 | 283 | 295 | 293 | -6%
+Day 31 | RP | 280 | 262 | 311 | 285 | 6%
+Day 59 | RP | 277 | 297 | 307 | 378 | -7%
+Day 72 | RP | 282 | 290 | 316 | 309 | -3%
+Day 8 | SR | 144 | 143 | 146 | 144 | 1%
+Day 10 | SR | 185 | 190 | 201 | 202 | -2%
+Day 16 | SR | 193 | 194 | 201 | 199 | 0%
+Day 31 | SR | 182 | 179 | 188 | 183 | 1%
+Day 59 | SR | 205 | 201 | 265 | 254 | 2%
+Day 72 | SR | 208 | 212 | 214 | 220 | -2%
+[FULLTEXT: TABLE: Graded Return to Sport Specific Activity: High Speed Running via OptoJump testing performed on a 120 m indoor track using a 30 m approach and 30 m deceleration zone. Athlete wore habitual sprint spike] Day | Rep & Effort Prescribed: | Maximum Velocity (m/s) | % of Historical Maximum Velocity (11.3 m/s) | Symptom Reporting (0-10)
+Day 8 | Rep 1 @ 60% | 7.4 | 65% | 0/10
+ | Rep 2 @ 65-70% | 8.7 | 77% | 0/10
+ | Rep 3 @ 80-85% | 9.3 | 82% | 1/10
+ | Rep 4 @ 80-85% | 9.0 | 80% | 1/10
+Day 11 | Rep 1 @ 90-100% | 10.6 | 94% | 0/10
+ | Rep 2 @ 90-100% | 10.6 | 94% | 0/10
+ | Rep 3 @ 90-100% | 10.5 | 93% | 0/10
+ | Rep 4 @ 90-100% | 10.4 | 92% | 0/10

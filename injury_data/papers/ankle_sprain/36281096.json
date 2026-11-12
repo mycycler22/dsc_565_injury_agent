@@ -1,0 +1,31 @@
+{
+  "pmid": "36281096",
+  "title": "Kinesio taping for ankle sprain in youth athlete: A protocol for systematic review and meta-analysis.",
+  "year": "2022",
+  "journal": "Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle sprain is considered a major problem that may hinder youth athletes' athletic development because it will lead to ongoing dysfunction, reoccurrence of ankle sprain, chronic ankle instability, and posttraumatic osteoarthritis. Kinesio taping (KT) is a therapeutic taping technique that has been widely used in the treatment of various ankle issues including sprained ankles and in the prevention of ankle sprains. It can not only provide the injured ankle with support during the rehabilitation phase, but also enhance the ankle stability during activity. However, the available evidence regarding its effectiveness in the treatment and prevention of ankle sprain is inconsistent. Therefore, a systematic review will help clinicians and coaches better understand the application of KT in clinical and training practices. This study is to systematically review the literature on the use of KT to improve outcomes including ankle function, proprioception, and pain and to evaluate the effectiveness of KT in the treatment and prevention of ankle sprain injuries."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive electronic search of the literature will be undertaken in the following databases: PubMed, CINAHL, SPORTDiscus, Cochrane library, Web of Science and Scopus from 1979 to August 2022. The Physiotherapy Evidence Database scale will be used to assess the methodological quality of all included studies and RevMan 5.3 (Copenhagen, The Nordic Cochrane Centre) for the data analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "This study will provide a standardized evaluation and comparison for effects of KT on the treatment and prevention of ankle sprains in youth athletes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This review will provide the evidence of the effectiveness of KT used in the treatment and prevention of ankle sprain in youth athletes. This review will also provide directions and recommendations for future research and clinical practices targeting treatment and prevention of ankle sprains in youth athletes."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

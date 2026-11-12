@@ -1,0 +1,32 @@
+{
+  "pmid": "38408057",
+  "title": "A retrospective comparison of the biceps femoris long head muscle structure in athletes with and without hamstring strain injury history.",
+  "year": "2024",
+  "journal": "PloS one",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Hamstring strain injuries (HSI) and re-injuries are endemic in high-speed running sports. The biceps femoris long head (BFlh) is the most frequently injured muscle among the hamstrings. Structural parameters of the hamstring muscle are stated to be susceptible to strain injuries at this location. This retrospective study targeted comparing the BFlh's structural parameters between previously injured and uninjured athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Nineteen male athletes with previous BFlh strain injury history and nineteen athletes without former lower extremity injury history were included in this study. Fascicle length, mid-muscle belly and distal musculotendinous (MTJ) passive stiffnesses of the biceps femoris long head (BFlh) were examined via b-mode panoramic ultrasound scanning and ultrasound-based shear-wave elastography. Parameter comparisons of both legs within and between athletes with and without injury history were performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Comparison of the BFlh fascicle length between the injured leg of the injured group and the legs of the controls revealed a trend to shorter fascicle lengths in the injured leg (p = 0.067, d = -0.62). However, the mid-muscle belly passive stiffness of the BFlh was significantly higher in the injured legs (p = 0.009, d = 0.7) compared with the controls. Additionally, the distal MTJ stiffness was much higher in the previously injured legs compared with controls (p < 0.001, d = 1.6)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Outcomes support the importance of BFlh properties related to stiffness, and fascicle length for injury susceptibility in athletes. Future prospective studies should determine whether the higher stiffness in the injured athletes is a cause or consequence of the HSI. Physical therapy and rehabilitation programmes after HSI should focus on BFlh muscle properties i.e., elasticity and fascicle length for reducing re-injury and increasing sports performance."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

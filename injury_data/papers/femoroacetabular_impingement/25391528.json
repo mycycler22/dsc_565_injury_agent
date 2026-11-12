@@ -1,0 +1,36 @@
+{
+  "pmid": "25391528",
+  "title": "Biomechanical study of plantar pressures during walking in male soccer players with increased vs. normal hip alpha angles.",
+  "year": "2015",
+  "journal": "Technology and health care : official journal of the European Society for Engineering and Medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement (FAI) is accompanied by increased hip alpha angles, in particular in athletes with high impact sports."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of our study was to investigate the dynamic function of the foot during walking in male soccer players with increased versus normal alpha angles."
+    },
+    {
+      "label": "METHODS",
+      "text": "Plantar pressures of 20 injury-free male soccer players were recorded during barefoot walking at 1.6 m/s. Ten subjects had bilaterally increased (>55°) (IA) and ten subjects normal (<50°) hip alpha angles (NA). Both standing and kicking leg were analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Compared to NA, IA showed lower force-time-integrals (-23%; p< 0.01), pressure-time-integrals (-29%; p< 0.001) and relative loads (p< 0.05) under the heel. In IA contact area of the hallux is about 13% (p< 0.05) reduced. In IA relative loads are increased under the lateral midfoot (p< 0.05) and the second toe (p< 0.05). Higher loading of the lateral midfoot is also reflected in the increased force-time integral (+33%; p< 0.001). No differences between legs and no interactions, indicating a specifity in kicking or standing leg, are found."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Compared to NA, soccer players with IA show a forward shifting of the center of pressure which indicates a compensatory mechanism of the foot during walking."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

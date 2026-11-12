@@ -1,0 +1,39 @@
+{
+  "pmid": "37840903",
+  "title": "Determining the True Incidence of Glenohumeral Instability Among Players in the National Football League: An Epidemiological Study of Non-Missed Time Shoulder Instability Injuries.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder instability encompasses a spectrum of glenohumeral pathology ranging from subluxation to dislocation. While dislocation frequently leads to removal from play, athletes are often able to play through subluxation. Previous research on glenohumeral instability among athletes has largely focused on missed-time injuries, which has likely disproportionately excluded subluxation injuries and underestimated the overall incidence of shoulder instability."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the epidemiology of shoulder instability injuries resulting in no missed time beyond the date of injury (non-missed time injuries) among athletes in the National Football League (NFL)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "The NFL's electronic medical record was retrospectively reviewed to identify non-missed time shoulder instability injuries during the 2015 through 2019 seasons. For each injury, player age, player position, shoulder laterality, instability type, instability direction, injury timing, injury setting, and injury mechanism were recorded. For injuries that occurred during games, incidence rates were calculated based on time during the season as well as player position. The influence of player position on instability direction was also investigated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 546 shoulder instability injuries documented during the study period, 162 were non-missed time injuries. The majority of non-missed time injuries were subluxations (97.4%), occurred during games (70.7%), and resulted from a contact mechanism (91.2%). The overall incidence rate of game-related instability was 1.6 injuries per 100,000 player-plays and was highest during the postseason (3.5 per 100,000 player-plays). The greatest proportion of non-missed time injuries occurred in defensive secondary players (28.4%) and offensive linemen (19.8%), while kickers/punters and defensive secondary players had the highest game incidence rates (5.5 and 2.1 per 100,000 player-plays, respectively). In terms of direction, 54.3% of instability events were posterior, 31.9% anterior, 8.5% multidirectional, and 5.3% inferior. Instability events were most often anterior among linebackers and wide receivers (50% and 100%, respectively), while posterior instability was most common in defensive linemen (66.7%), defensive secondary players (58.6%), quarterbacks (100.0%), running backs (55.6%), and tight ends (75.0%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The majority of non-missed time shoulder instability injuries (97.4%) were subluxations, which were likely excluded from or underreported in previous shoulder instability studies due to the inherent difficulty of detecting and diagnosing shoulder subluxation."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

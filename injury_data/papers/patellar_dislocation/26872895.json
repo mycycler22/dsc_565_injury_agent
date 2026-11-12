@@ -1,0 +1,41 @@
+{
+  "pmid": "26872895",
+  "title": "Outcomes After Isolated Medial Patellofemoral Ligament Reconstruction for the Treatment of Recurrent Lateral Patellar Dislocations: A Systematic Review and Meta-analysis.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "A patellar dislocation is a common knee injury in the young, athletic patient population. Recent trends indicate that the use of long-term nonoperative treatment is decreasing, and surgical intervention is more commonly recommended for those patients who fail initial nonoperative management with recurrent patellar dislocations. Medial patellofemoral ligament (MPFL) reconstruction has become increasingly utilized in this regard."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate outcomes, particularly return to sports and its relationship to postoperative instability, of isolated MPFL reconstruction for the treatment of recurrent patellar dislocations."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "A review of the current literature was performed using the terms \"medial patellofemoral ligament reconstruction\" and \"MPFL reconstruction\" in the electronic search engines PubMed and EBSCOhost (CINAHL, MEDLINE, SPORTDiscus) on July 29, 2015, yielding 1113 abstracts for review. At the conclusion of the search, 14 articles met the inclusion criteria and were included in this review of the literature. Means were calculated for population size, age, follow-up time, and postoperative Tegner scores. Pooled estimates were calculated for postoperative Kujala scores, return to play, total risk of postoperative instability, risk of positive apprehension sign, and risk of reoperation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean patient age associated with MPFL reconstruction was 24.4 years, with a mean postoperative Tegner score of 5.7. The pooled estimated mean postoperative Kujala score was 85.8 (95% CI, 81.6-90.0), with 84.1% (95% CI, 71.1%-97.1%) of patients returning to sports after surgery. The pooled total risk of recurrent instability after surgery was 1.2% (95% CI, 0.3%-2.1%), with a positive apprehension sign risk of 3.6% (95% CI, 0%-7.2%) and a reoperation risk of 3.1% (95% CI, 1.1%-5.0%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A high percentage of young patients return to sports after isolated MPFL reconstruction for chronic patellar instability, with short-term results demonstrating a low incidence of recurrent instability, postoperative apprehension, and reoperations."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

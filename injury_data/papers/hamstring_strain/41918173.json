@@ -1,0 +1,19 @@
+{
+  "pmid": "41918173",
+  "title": "Hamstring Mechanics During Acceleration, Deceleration and Sidestep Cutting.",
+  "year": "2026",
+  "journal": "Scandinavian journal of medicine & science in sports",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strain injuries (HSI) are common in field-based sports. Musculoskeletal modeling studies have been used to investigate hamstring mechanics during steady-state running. Accelerative and decelerative running as well as change of direction actions, which are common mechanisms of HSI, have been largely overlooked. Therefore, the aim of the present study was to investigate the mechanics of the biarticular hamstrings during acceleration, deceleration, and sidestep cutting tasks. Three-dimensional motion analysis, ground reaction force and electromyography data were collected for 20 recreationally active adults performing acceleration, deceleration and 45-degree sidestep cutting. Musculoskeletal modeling was used to solve for musculotendinous (MTU) force, stretch, and work. Peak MTU force occurred during acceleration for biceps femoris long head (1.5 body weights (BW)) and semimembranosus (2.7 BW), whereas it occurred during deceleration for semitendinosus (0.7 BW). Peak stretch was highest in deceleration for all hamstrings (10.9% to 13.7%), followed by sidestep cutting (8.9% to 12.4%) then acceleration (5.5% to 10.2%). The greatest negative work performed by biceps femoris long head occurred during acceleration and sidestep cutting (-0.25 J·kg<sup>-1</sup>) but occurred during sidestep cutting for semimembranosus (-0.50 J·kg<sup>-1</sup>) and deceleration for semitendinosus (-0.12 J·kg<sup>-1</sup>). Acceleration, deceleration and sidestep cutting impose substantial demands on the hamstrings. Deceleration imposed the largest kinematic (i.e., stretch) demand on all hamstrings, whilst the task imposing the greatest kinetic demands (i.e., force and negative work) varied depending on the individual hamstring. These findings may help to inform HSI preventative and return-to-sport strategies."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

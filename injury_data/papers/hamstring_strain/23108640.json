@@ -1,0 +1,39 @@
+{
+  "pmid": "23108640",
+  "title": "Rate of torque and electromyographic development during anticipated eccentric contraction is lower in previously strained hamstrings.",
+  "year": "2013",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The effect of prior strain injury on myoelectrical activity of the hamstrings during tasks requiring high rates of torque development has received little attention."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine if recreational athletes with a history of unilateral hamstring strain injury will exhibit lower levels of myoelectrical activity during eccentric contraction, rate of torque development (RTD), and impulse (IMP) at 30, 50, and 100 milliseconds after the onset of myoelectrical activity or torque development in the previously injured limb compared with the uninjured limb."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-six recreational athletes were recruited. Of these, 13 athletes had a history of unilateral hamstring strain injury (all confined to biceps femoris long head), and 13 had no history of hamstring strain injury. Following familiarization, all athletes undertook isokinetic dynamometry testing and surface electromyography (integrated EMG; iEMG) assessment of the biceps femoris long head and medial hamstrings during eccentric contractions at -60 and -180 deg·s(-1)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the injured limb of the injured group, compared with the contralateral uninjured limb, RTD and IMP was lower during -60 deg·s(-1) eccentric contractions at 50 milliseconds (RTD: injured limb, 312.27 ± 191.78 N·m·s(-1) vs uninjured limb, 518.54 ± 172.81 N·m·s(-1), P = .008; IMP: injured limb, 0.73 ± 0.30 N·m·s vs uninjured limb, 0.97 ± 0.23 N·m·s, P = .005) and 100 milliseconds (RTD: injured limb, 280.03 ± 131.42 N·m·s(-1) vs uninjured limb, 460.54 ± 152.94 N·m·s(-1), P = .001; IMP: injured limb, 2.15 ± 0.89 N·m·s vs uninjured limb, 3.07 ± 0.63 N·m·s, P < .001) after the onset of contraction. Biceps femoris long head muscle activation was lower at 100 milliseconds at both contraction speeds (-60 deg·s(-1), normalized iEMG activity [×1000]: injured limb, 26.25 ± 10.11 vs uninjured limb, 33.57 ± 8.29, P = .009; -180 deg·s(-1), normalized iEMG activity [×1000]: injured limb, 31.16 ± 10.01 vs uninjured limb, 39.64 ± 8.36, P = .009). Medial hamstring activation did not differ between limbs in the injured group. Comparisons in the uninjured group showed no significant between limbs difference for any variables."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Previously injured hamstrings displayed lower RTD and IMP during slow maximal eccentric contraction compared with the contralateral uninjured limb. Lower myoelectrical activity was confined to the biceps femoris long head. Regardless of whether these deficits are the cause of or the result of injury, these findings could have important implications for hamstring strain injury and reinjury. Particularly, given the importance of high levels of muscle activity to bring about specific muscular adaptations, lower levels of myoelectrical activity may limit the adaptive response to rehabilitation interventions and suggest that greater attention be given to neural function of the knee flexors after hamstring strain injury."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

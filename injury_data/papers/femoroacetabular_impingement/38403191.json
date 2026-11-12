@@ -1,0 +1,35 @@
+{
+  "pmid": "38403191",
+  "title": "Hip arthroscopy is an effective treatment for high-level female athletes.",
+  "year": "2024",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "This study aimed to assess the outcomes of hip arthroscopic surgery in high-level female athletes diagnosed with femoroacetabular impingement (FAI) compared to those with lower levels of sports activity. Additionally, we investigated the effectiveness of patient-reported outcomes (PROs) and the potential ceiling effect as a lack of sensitivity in detecting clinically statistically significant changes in high-level female athletes due to high baseline scores."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a retrospective analysis of prospectively collected data from female patients who underwent hip arthroscopy for FAI between January 2016 and August 2022 with a minimum 1-year follow-up. Patients were categorised into two groups: high-level athletes (group A) and low sports activity level (group B). Various PROs, visual analogue scales for pain, and patient satisfaction were assessed preoperatively and postoperatively. Return to sports (RTS) rates were determined based on the patient's reported ability to return to their previous level of sports activity. The minimally clinically important differences (MCIDs) and the Patient-Acceptable Symptomatic State (PASS) analyses were used to evaluate the clinical impact of the Hip Outcome Score-Sport Subscale (HOS-SSS)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 11 high-level female athletes were included in group A, and 22 were included in the low sports activity level group B. Both groups showed significant improvements in PROs, with no significant differences between them. RTS rates were lower in high-level athletes (63.6%) than in low sports activity patients (85.7%). Visual analogue scales for pain improved significantly in both groups. Patient satisfaction was high in both groups, with a median score of 9. The HOS-SSS showed no ceiling effect, and the MCID and PASS analyses indicated that a high proportion of patients in both groups achieved clinically relevant improvement in HOS-SSS."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hip arthroscopic surgery is effective for FAI treatment in high-level female athletes, with outcomes similar to those in patients with lower sports activity levels. The absence of a ceiling effect in sports-related outcomes suggests that PROs can detect clinically significant changes in high-level female athletes. Although RTS rates were lower in high-level athletes, this difference was not significant. These findings underscore the value of using PROs to evaluate outcomes in female athletes with different sports-activity levels."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

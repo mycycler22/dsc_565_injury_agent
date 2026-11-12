@@ -1,0 +1,41 @@
+{
+  "pmid": "29466679",
+  "title": "A Biomechanical Comparison of Fifth Metatarsal Jones Fracture Fixation Methods.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Fifth metatarsal base fractures of the metaphyseal-diaphyseal watershed junction (Jones fracture) are commonly treated with surgical fixation in athletes. Intramedullary screw fixation remains the most utilized construct, although plantar-lateral plating is an alternative. Purpose/Hypothesis: The purpose was to compare the mechanical strength of fracture fixation between an intramedullary screw and plantar-lateral plating. The hypothesis was that plantar-lateral plate fixation would allow for more cycles and higher peak loads before failure, as well as less fracture gapping, than would an intramedullary screw in cadaveric foot specimens with simulated Jones fractures exposed to cantilever bending."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twelve pairs of male cadaver feet were separated into 2 groups (plate or screw) to conduct contralateral comparative testing of 2 devices with equally numbered right and left feet. For each fifth metatarsal, an osteotomy with a microsagittal saw was created to simulate a Jones fracture. The plate group underwent fixation with a 3.0-mm 4-hole low-profile titanium plate placed plantar-laterally with 3 locking screws and 1 nonlocking screw. The screw group underwent fixation with a 40- or 45-mm × 5.5-mm partially threaded solid titanium intramedullary screw. After fixation, the metatarsals were excised for biomechanical testing. Cyclic cantilever failure testing was conducted with a gradient-cycle method. Sinusoidal loading forces were applied, increasing by 5.0-pound-force increments per 10 cycles, until each specimen experienced mechanical failure of implant or bone. Failure mode, number of cycles to failure, peak failure load, gap width at the last mutual prefailure loading, and video data were recorded. Paired 2-tailed t test (α = 0.05) was used to compare groups ( P < .05 set for significance)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Failure mode in both groups occurred predominantly at the bone-implant interface. Plate fixation resulted in significantly higher mean ± SD values for cycles to failure (63.9 ± 27.0 vs 37.3 ± 36.9, P = .01) and peak failure load (159.2 ± 60.5 N vs 96.5 ± 45.8 N, P = .01), with a significantly lower mean gap width (0.0 ± 0.0 mm vs 3.2 ± 2.4 mm, P < .01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "As compared with intramedullary screw fixation, plantar-lateral plating allowed for greater cycles to failure and peak load before failure, as well as less gap width, when applied to cadaver foot specimens with simulated Jones fractures exposed to cantilever bending in a load frame."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Early return to play among athletes before Jones fracture union is associated with increased risk of failure. This study introduces a plantar-lateral plating construct that performed more favorably than intramedullary screw fixation when applied to simulated Jones fractures in cadaveric foot specimens. Further clinical comparative studies are needed to assess the clinical use of this construct."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

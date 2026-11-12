@@ -1,0 +1,57 @@
+{
+  "pmid": "27489418",
+  "title": "Epidemiological profile of sports-related knee injuries in northern India: An observational study at a tertiary care centre.",
+  "year": "2016",
+  "journal": "Journal of clinical orthopaedics and trauma",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sports-related knee injuries occur commonly in athletes. However, there is no published epidemiological study from India till date."
+    },
+    {
+      "label": "OBJECTIVES",
+      "text": "The purpose of this study was to identify common injuries sustained by Indian athletes participating in different sports and to study various associated demographic features. A secondary objective was to investigate different factors, which may affect return to sport by the athlete."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study (observational study)."
+    },
+    {
+      "label": "STUDY CENTRE",
+      "text": "Sports injury clinic, PGIMER, Chandigarh."
+    },
+    {
+      "label": "METHODS",
+      "text": "Out of 465 athletes who presented to us with sports-related knee injuries over a 5-year period, 363 athletes (from 24 different sports) with complete records were identified. Data were analysed for demographic features, type of sport, mechanism of injury, injury scenario, athlete's level of play, injury duration at presentation, injury patterns and type of management. Telephonic interviews were conducted with each athlete to enquire about return to sport and time lost in sport due to the knee injury. Factors associated with return to sport were investigated using statistical tests of association."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Soccer was found to be the most common sport associated with knee injuries accounting for 30.6% of the injuries followed by kabaddi (20.9%). The most common mechanism was non-contact injury (64.4%). Competitive injuries were found to be significantly more than practice/training injuries (p < 0.0001). The most common injuries noted were ACL tears (n = 314) followed by meniscus injuries (n = 284) and the most common combination of injuries were an ACL tear with medial meniscus tear (n = 163). Only 39.8% of the athletes returned to sport. Mean duration of time lost in sport among those who returned to sport was 8.84 months. Return to sport was significantly associated with body mass index, level of competitiveness of the athlete and type of management (p = 0.017, 0.045 and <0.0001, respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Knee injuries take a huge toll on an athlete's career as observed in this study. Prevention of knee injuries is of paramount importance and more focussed epidemiological studies are needed for formulating policies to prevent sports injuries in both professional and amateur athletes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mean duration of time lost in sport among those who returned to sport was 8.84 months."
+    }
+  ],
+  "pmcid": "4949405",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Soccer was found to be the most common sport associated with knee injuries accounting for 30.6% of the injuries followed by kabaddi (20.9%). The most common mechanism was non-contact injury (64.4%). Competitive injuries were found to be significantly more than practice/training injuries (p < 0.0001). The most common injuries noted were ACL tears (n = 314) followed by meniscus injuries (n = 284) and the most common combination of injuries were an ACL tear with medial meniscus tear (n = 163). Only 39.8% of the athletes returned to sport. Mean duration of time lost in sport among those who returned to sport was 8.84 months. Return to sport was significantly associated with body mass index, level of competitiveness of the athlete and type of management (p = 0.017, 0.045 and <0.0001, respectively)."
+    }
+  ]
+}

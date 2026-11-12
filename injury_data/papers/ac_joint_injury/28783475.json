@@ -1,0 +1,45 @@
+{
+  "pmid": "28783475",
+  "title": "Prevalence and Management of Coracoid Fracture Sustained During Sporting Activities and Time to Return to Sport: A Systematic Review.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Coracoid fractures sustained during sporting activities are rare. Previous reports are limited to individual case reports, small case series, and retrospective analyses."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To systematically review the literature and identify coracoid fractures sustained during sporting activities to determine fracture prevalence, sporting activities/mechanisms, management, and time to return to sport."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was conducted investigating all studies in the literature published between January 1970 and April 2017 that reported on athletes sustaining coracoid fractures during sporting activity. The systematic review followed the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines and used PubMed, Biosis Previews, SPORTDiscus, PEDro, and EMBASE databases. Inclusion criteria were studies detailing (1) coracoid fractures with reported sporting activity causing injury, (2) fracture management (operative vs nonoperative), and (3) patient outcome. Exclusion criteria were (1) studies concerning fractures secondary to nonsporting activities (mechanical falls, motor vehicle accidents) and (2) studies not reporting fracture management or patient outcomes. Sporting activities, the presence or absence of associated acromioclavicular (AC) joint injury, fracture management, patient outcomes, and time to return to sport were analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 21 cases of coracoid fractures sustained during sporting activity were identified; acute trauma was responsible for 71% (n = 15/21) of fractures, and the remaining injuries were secondary to fatigue fractures. Concurrent AC joint injury was present in 60% (n = 9/15) of athletes sustaining acute trauma and in no athlete with fatigue fractures. Fractures were treated conservatively in 76% (n = 16/21) of patients, with only 19% (n = 3/16) of athletes reporting complications. Mean overall time to return to sport was 2.8 ± 2.0 months; no significant differences in return to sport were noted in athletes with traumatic versus fatigue fractures or those with or without AC joint injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Coracoid fractures secondary to sporting activities are rare, occurring primarily from direct trauma with associated AC joint injury, and are treated successfully with nonoperative management. No difference in return to sport was found regardless of fracture mechanism, treatment, or the presence of associated AC joint injury."
+    }
+  ],
+  "injury_query": "AC joint injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mean overall time to return to sport was 2.8 ± 2.0 months; no significant differences in return to sport were noted in athletes with traumatic versus fatigue fractures or those with or without AC joint injury."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

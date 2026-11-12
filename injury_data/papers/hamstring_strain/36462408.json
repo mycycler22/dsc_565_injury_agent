@@ -1,0 +1,43 @@
+{
+  "pmid": "36462408",
+  "title": "Comparison of eccentric hamstring strength and asymmetry at return-to-sport after hamstring strain injury among those who did and did not re-injure.",
+  "year": "2023",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The primary aim of this study was to describe eccentric hamstring strength magnitude and asymmetry at the time of return-to-sport (RTS) after an index hamstring strain injury (HSI) and determine if there were differences in strength asymmetry at RTS between those who did and did not go on to re-injure within 1-month and within 3-months of RTS."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Laboratory-based."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Sixty National Collegiate Athletic Association Division I athletes with index HSI."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Maximum hamstring eccentric strength for each limb, total maximum strength summed across limbs, and between-limb asymmetry at the time of RTS following the index HSI, assessed using the NordBord Hamstring Testing System."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 60 index HSIs, 8 (13%), and 11 (18%) re-injuries occurred within 1 and 3-months of RTS, respectively. There were no differences between those who did and did not re-injure in maximum eccentric force of either limb (p-values≥0.52), total force from both limbs (p-values≥0.47), and between limb force asymmetry (p-values≥0.91), regardless if re-injury occurred within 1 or 3-months after RTS."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Eccentric hamstring strength and asymmetry measured at the time of RTS did not differ between those who did and did not re-injure within 3-months of RTS."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

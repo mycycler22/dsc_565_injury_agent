@@ -1,0 +1,39 @@
+{
+  "pmid": "36250034",
+  "title": "Low Back Pain and Lumbar Degeneration in Japanese Professional Baseball Players.",
+  "year": "2022",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Baseball is one of the most popular sports in Asia. It is known that baseball can easily lead to back pain. However, there has been no survey of low back pain (LBP) and lumbar disc degeneration in Japanese professional baseball players to date."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the cause of LBP and lumbar degeneration in professional Japanese baseball players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "We retrospectively reviewed the medical records of Japanese professional baseball players with LBP who visited our hospital. Data were collected from July 2018 to April 2021. We also investigated whether the results differed between players in their 20s and 30s or between pitchers and fielders. Data analysis was performed using the chi-square test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We surveyed 32 professional baseball players. The most frequent causes of LBP among players in their 20s (n = 21) were lumbar disc herniation (LDH; 57%) and spondylolysis (24%). Of the players with spondylolysis, 50% had adult-onset spondylolysis. Players in their 30s (n = 11) most commonly had discogenic pain (55%) as well as LDH and facet joint arthritis (each 18%). The incidence of lumbar intervertebral disc degeneration was significantly higher in players in their 30s (91%) than those in their 20s (14%), as was the incidence of Schmorl nodes and Modic type 1 changes. There was no significant difference in the cause of LBP or the incidence of lumbar intervertebral disc degeneration between pitchers and fielders (<i>P</i> = .59)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Among professional baseball players in their 20s, lumbar degeneration was less common, and they most frequently developed diseases less related to degeneration, such as LDH. However, among players in their 30s, lumbar degeneration was more advanced, and degenerative diseases such as discogenic pain occurred more frequently. Research on training methods could lead to the prevention of LBP. Our data may be applicable to other professional athletes and will contribute to diagnosis and treatment."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

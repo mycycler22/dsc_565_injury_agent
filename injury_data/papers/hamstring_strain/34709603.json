@@ -1,0 +1,31 @@
+{
+  "pmid": "34709603",
+  "title": "Anterior Cruciate Ligament Reconstruction Increases the Risk of Hamstring Strain Injury Across Football Codes in Australia.",
+  "year": "2022",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this study was to determine the impacts of anterior cruciate ligament reconstruction (ACLR) and recent (< 12 months) hamstring strain injury (HSI) on (1) future HSI risk, and (2) eccentric knee flexor strength and between-limb imbalance during the Nordic hamstring exercise. A secondary goal was to examine whether eccentric knee flexor strength was a risk factor for future HSI in athletes with prior ACLR and/or HSI."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this prospective cohort study, 531 male athletes had preseason eccentric knee flexor strength tests. Injury history was also collected. The main outcome was HSI occurrence in the subsequent competitive season."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 74 athletes suffered at least one prospective HSI. Compared with control athletes, those with a lifetime history of ACLR and no recent HSI had 2.2 (95% confidence interval [CI] 1.1-4.4; p = 0.029) times greater odds of subsequent HSI while those with at least one HSI in the previous 12 months and no history of ACLR had 3.1 (95% CI 1.8-5.4; p < 0.001) times greater odds for subsequent HSI. Only athletes with a combined history of ACLR and recent HSI had weaker injured limbs (p = 0.001) and larger between-limb imbalances (p < 0.001) than uninjured players. An exploratory decision tree analysis suggested eccentric strength may protect against HSI after ACLR."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "ACLR and recent HSI were similarly predictive of future HSI. Lower levels of eccentric knee flexor strength and larger between-limb imbalances were found in athletes with combined histories of ACLR and recent HSI. These findings may have implications for injury rehabilitation."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

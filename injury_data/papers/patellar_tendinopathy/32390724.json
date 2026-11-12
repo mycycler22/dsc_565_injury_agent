@@ -1,0 +1,21 @@
+{
+  "pmid": "32390724",
+  "title": "One Session of Extracorporeal Shockwave Therapy-Induced Modulation on Tendon Shear Modulus is Associated with Reduction in Pain.",
+  "year": "2020",
+  "journal": "Journal of sports science & medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The aim of the study was to examine the immediate effect of 1 session of extracorporeal shockwave therapy (ESWT) on patellar tendon stiffness and to explore the relationship between the change in tendon stiffness and the pain intensity. Thirty-four male athletes aged 22.2 ± 3.8 with patellar tendinopathy were recruited. The participants were randomized into ESWT and sham groups. The ESWT group received 1500 impulses of ESWT at 4 Hz with maximal tolerable pain intensity and the sham group received intensities below 0.08 mJ/mm<sup>2</sup>. Supersonic Shearwave Imaging (SSI) was used to measure tendon shear modulus (an index of tissue stiffness), and a visual analogue scale was used to quantify the pain intensity during compression with 10 lb (4.535 kg) pressure directed on the most tender part and then during a single-leg declined-squat test. A significant reduction in tendon shear modulus (from 57.4 ± 25.5 kPa to 40.6 ± 17.6kPa, p = 0.001) was detected in the ESWT receiving ESWT with an intensity from 0.13-0.33 mJ/mm<sup>2</sup> but not the sham group (from 47.7 ± 17.1 kPa to 41.0 ± 12.7 kPa; p = 0.06). In the ESWT group, the change in tendon shear modulus was associated with the change in the intensity of pain during single-legged declined-squat test (ρ = 0.55; p = 0.023) but not pressure pain (p > 0.05). These findings suggest that one session of ESWT induces reduction of tendon stiffness in volleyball and basketball players with patellar tendinopathy. The reduction in tendon stiffness is associated with reduction in pain during single-legged declined-squat test."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

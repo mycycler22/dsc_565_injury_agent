@@ -1,0 +1,37 @@
+{
+  "pmid": "21611916",
+  "title": "[Treatment of locked chronic posterior dislocation of the shoulder].",
+  "year": "2011",
+  "journal": "Sportverletzung Sportschaden : Organ der Gesellschaft fur Orthopadisch-Traumatologische Sportmedizin",
+  "pub_types": [
+    "Case Reports",
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "The posterior locked shoulder dislocation is a rare injury that is often associated with an impression fracture of the anteromedial aspect of the humeral head. The majority of posterior shoulder dislocations are missed on the initial examination."
+    },
+    {
+      "label": "METHODS",
+      "text": "We demonstrate the case of an athlete, who presented with a posterior shoulder dislocation after a trauma two months ago."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The patient was treated with a M. subscapularis transfer in the reverse-hill-sachs-lesion."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "The diagnosis of the posterior shoulder dislocation remains a problem in the clinical setting. Treatment is based on the size defect of the anteromedial humeral head. Different treatment options are still controversially discussed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "To diagnose a posterior shoulder dislocation correctly a standard clinical and radiological assessment is necessary."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

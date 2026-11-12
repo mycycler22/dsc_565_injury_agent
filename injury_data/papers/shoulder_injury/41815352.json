@@ -1,0 +1,35 @@
+{
+  "pmid": "41815352",
+  "title": "Wesam Al Attar singularity evaluation-infinity: a predictive simulation framework for motor intent collapse in athletes.",
+  "year": "2026",
+  "journal": "Frontiers in sports and active living",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Sustainable athletic performance requires maintaining motor intent stability under physiological stress. Current injury prediction approaches focus on isolated biomechanical markers rather than integrated physiological system dynamics."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To develop and validate through comprehensive simulation the Wesam Al Attar Singularity evaluation-infinity (WASe-∞) framework for predicting motor intent collapse by integrating neuromuscular, cognitive, and coordination factors into a unified risk assessment model with clear pathways for empirical validation."
+    },
+    {
+      "label": "METHODS",
+      "text": "A rigorous simulation-based approach was employed using parameters derived from published biomechanics datasets. The WASe-∞ framework integrates five physiological domains through a weighted convergence equation with coefficients derived through systematic three-stage optimization including comprehensive sensitivity analysis. The foundational model was validated using 60 simulated athlete profiles across four sports over 60-minute sessions, generating 360,000 data points for analysis with built-in AI integration capabilities."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The WASe-∞ framework achieved strong predictive performance within the controlled simulation environment with an area under the curve of 0.930 and 95% confidence interval of 0.915-0.946. Risk stratification revealed realistic distributions: 20.5% low-risk, 58.2% moderate-risk, 20.0% high-risk, and 1.4% critical-risk measurements. Sport-specific differences emerged with swimming showing highest mean scores (0.727 ± 0.210) and running lowest (0.605 ± 0.178), consistent with epidemiological data indicating elevated shoulder injury risk in competitive swimmers (40%-70% prevalence). Strong factor correlations supported theoretical foundations with comprehensive sensitivity analysis confirming framework robustness (AUC remained >0.90 for coefficient variations up to ±15%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This foundational study establishes the WASe-∞ framework as a theoretically robust foundation for future empirical validation with human athletic populations. The simulation-based validation demonstrates strong theoretical validity while providing clear performance benchmarks and detailed protocols for subsequent real-world validation studies. The framework's architecture positions it for integration with emerging multimodal sensor technologies, representing a critical step toward transforming injury prevention from reactive treatment to proactive risk management."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

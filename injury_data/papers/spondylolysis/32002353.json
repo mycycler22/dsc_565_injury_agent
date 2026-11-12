@@ -1,0 +1,36 @@
+{
+  "pmid": "32002353",
+  "title": "The Incidence of Pars Interarticularis Defects in Athletes.",
+  "year": "2020",
+  "journal": "Global spine journal",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "Literature review."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To conduct a literature review of studies reporting the incidence of pars interarticularis defects in athletes of specific sports, in order to allow more targeted prevention and treatment strategies to be implemented for the groups at highest risk."
+    },
+    {
+      "label": "METHODS",
+      "text": "Electronic searches were performed using PubMed, Ovid Medline, EMBASE, Google Scholar, Cochrane Database of Systematic Reviews, and Cochrane Database of Controlled Trials from their dates of inception to September 2017, with the following keywords: \"spondylolysis,\" \"sports,\" \"low back pain,\" and \"pars defects.\""
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 509 total articles were retrieved, of which 114 were used in the final review. The incidence of pars interarticularis defects was found to be highest in diving (35.38%), cricket (31.97%), baseball/softball (26.91%), rugby (22.22%), weightlifting (19.49%), sailing (17.18%), table tennis (15.63%), and wrestling (14.74%). Only 5 studies reported the management instituted for their participants, and these were all case reports. Of 74 players with spondylolysis in these studies, 70 (94.59%) underwent conservative treatment and 4 (5.41%) underwent surgical treatment. 61 (82.43%) returned to their previous level of play, 6 (8.11%) retired, and the disposition of the final 7 was not reported."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current medical literature provides good evidence that the incidence of pars interarticularis defects is higher in the athletic population, with the highest incidence in diving. There remains no gold standard protocol for the management of pars interarticularis defects. Further research is required to compare conservative therapy to surgical therapy and to compare the various surgical techniques to each other."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

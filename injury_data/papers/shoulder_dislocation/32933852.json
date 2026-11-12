@@ -1,0 +1,35 @@
+{
+  "pmid": "32933852",
+  "title": "Current practices in the management of anterior glenohumeral instability in rugby union players.",
+  "year": "2021",
+  "journal": "The surgeon : journal of the Royal Colleges of Surgeons of Edinburgh and Ireland",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Rugby has the highest incidence of traumatic injuries of any sport, and glenohumeral injuries result in the lengthy delay in return to play. The purpose of this study is to survey surgeons from the American Shoulder and Elbow Surgeons (ASES), and the British Elbow and Shoulder Society (BESS) to evaluate the current state of management of anterior glenohumeral instability, and compare the differences in practices."
+    },
+    {
+      "label": "METHODS",
+      "text": "A survey of surgeons from ASES and BESS was conducted. Treatment options were proposed in a variety of clinical scenarios of glenohumeral instability. The time of immobilization post-operatively, return to play, and attitudes on current contact regulations. Results were compared using the chi-square test or t-test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ninety-seven surgeons responded to the survey. There was a significant difference in treatment between ASES and BESS surgeons in the setting of primary dislocation (p < 0.05), but not recurrent dislocation (p > 0.05). The period of immobilization following injury and surgery was different between both treating groups. There was a significant difference in return to play between ASES and BESS surgeons with arthroscopic stabilization and open Bankart repair (p < 0.05), but not following conservative treatment or the Latarjet procedure (p > 0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There remains wide variance on the management of glenohumeral instability in rugby union players among surgeons. While immobilization times post-operatively were similar, the BESS surgeons were more confident in allowing earlier return to play. There is also a significant concern that contact levels should be regulated to protect player safety."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4 (case series)."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

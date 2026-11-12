@@ -1,0 +1,31 @@
+{
+  "pmid": "35362817",
+  "title": "Isolated medial patellofemoral ligament reconstruction is valid to stabilize patellofemoral joint but uncertain to reduce patellar height in setting of lateral patellar dislocation and patella alta.",
+  "year": "2023",
+  "journal": "Archives of orthopaedic and trauma surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Medial patellofemoral ligament reconstruction (MPFLR) is the most commonly used surgical treatment for patients with lateral patellar dislocation (LPD). It is still poorly understood whether or not MPFLR has a contributory effect on decreasing patellar height."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Forty-five patients who underwent isolated MPFLR for LPD and patella alta were evaluated with a mean follow-up period of 24 months (22-25 months). Knee joint functions were evaluated by Banff patellofemoral instability instrument (BPII) 2.0 scores and Kujala scores. Patellofemoral engagement and stability were assessed by the patella tilt angle (PTA) and patellar congruence angle (PCA) measured by CT scans, and the patellar-glide test. Patellar height was calculated on lateral radiographs according to three methods: Caton-Deschamps ratios (CDR), Insall-Salvati ratios (ISR), and Blackburne-Peel ratios (BPR). A threshold value of p < 0.05 denoted a statistically significant difference."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Significant improvements were found in both BPII 2.0 scores, which increased from 41.7 to 77.8 (p < 0.001) and Kujala scores, which increased from 49.2 to 85.5 (p < 0.001). Post-operative PTAs and PCA decreased from 19.6 ± 8.8 to - 3.4 ± 6.2, and from 24.6 ± 7.3 to 13.1 ± 3.8 degrees respectively (p < 0.001). No patients showed lateral translation more than grade II in the patellar-glide test. Regarding patellar height, a tiny reduction (Δ = 0.02, Δ <sub>max</sub> = 0.09) was discovered in using CDR (p = 0.027), rather than ISR or BPR. All measurements of radiographic indices had an excellent intra- and inter-rater reliability (ICC > 0.75)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Isolated anatomic MPFLR is sufficient to achieve good clinical outcomes, as well as patellofemoral stability and high rates of return-to-sport. However, it is unclear if the reconstructed MPFL has a contributory effect on reducing patellar height."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

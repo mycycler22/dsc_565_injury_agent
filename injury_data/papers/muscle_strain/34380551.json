@@ -1,0 +1,49 @@
+{
+  "pmid": "34380551",
+  "title": "An epidemiologic comparison of acute and overuse injuries in high school sports.",
+  "year": "2021",
+  "journal": "Injury epidemiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute and overuse injuries affect millions of high school athletes annually and a better understanding of differences between these injuries is needed to help guide prevention, treatment, and rehabilitation strategies. This study compares acute and overuse injuries using a nationally representative sample of high school athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injuries among United States high school athletes participating in 5 boys' sports (football, soccer, basketball, wrestling, baseball) and 4 girls' sports (soccer, volleyball, basketball, softball) reported in the High School RIO™ surveillance system during the 2006-07 through 2018-19 school years were classified as acute or overuse. National estimates and injury rates were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 17 434 646 estimated injuries, 92.0 % were acute and 8.0 % were overuse. The acute injury rate was higher than the overuse injury rate among both male (Rate Ratio [RR] 16.38, 95 % CI: 15.70-17.10) and female (RR 8.14, 95 % CI: 7.71-8.60) athletes. The overuse injury rate per 10,000 athlete exposures among female athletes (1.8) was slightly higher than among males (1.4). The rate of acute injury compared with the rate of overuse injury was higher during competition (RR 32.00, 95 % CI: 29.93-34.22) than practice (RR 7.19, 95 % CI: 6.91-7.47). Boys' football contributed the most acute (42.1 %) and overuse (23.7 %) injuries among the 9 sports. Among female sports, girls' soccer contributed the most acute (15.6 % of all acute injuries) and overuse (19.4 % of all overuse injuries) injuries. The lower extremity was most commonly injured in acute (48.9 %) and overuse (65.9 %) injuries. Ligament sprain (31.7 %) and concussion (21.0 %) were the most common acute injury diagnoses, while muscle strain (23.3 %) and tendonitis (23.2 %) were the most common overuse injury diagnoses. Compared with acute injuries, overuse injuries were more likely to result in time loss from sports participation of < 1 week among both boys and girls and across most sports. Acute injuries were more likely than overuse injuries to cause a time loss of 1-3 weeks or medical disqualification from sports participation."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Acute and overuse injuries display many differences that provide opportunities for data-informed athlete preparation, treatment, and rehabilitation, which may reduce injuries and improve injury outcomes in high school athletics."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Compared with acute injuries, overuse injuries were more likely to result in time loss from sports participation of < 1 week among both boys and girls and across most sports."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Acute injuries were more likely than overuse injuries to cause a time loss of 1-3 weeks or medical disqualification from sports participation."
+    }
+  ],
+  "pmcid": "8356388",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Of 17 434 646 estimated injuries, 92.0 % were acute and 8.0 % were overuse. The acute injury rate was higher than the overuse injury rate among both male (Rate Ratio [RR] 16.38, 95 % CI: 15.70–17.10) and female (RR 8.14, 95 % CI: 7.71–8.60) athletes. The overuse injury rate per 10,000 athlete exposures among female athletes (1.8) was slightly higher than among males (1.4). The rate of acute injury compared with the rate of overuse injury was higher during competition (RR 32.00, 95 % CI: 29.93–34.22) than practice (RR 7.19, 95 % CI: 6.91–7.47). Boys’ football contributed the most acute (42.1 %) and overuse (23.7 %) injuries among the 9 sports. Among female sports, girls’ soccer contributed the most acute (15.6 % of all acute injuries) and overuse (19.4 % of all overuse injuries) injuries. The lower extremity was most commonly injured in acute (48.9 %) and overuse (65.9 %) injuries. Ligament sprain (31.7 %) and concussion (21.0 %) were the most common acute injury diagnoses, while muscle strain (23.3 %) and tendonitis (23.2 %) were the most common overuse injury diagnoses. Compared with acute injuries, overuse injuries were more likely to result in time loss from sports participation of < 1 week among both boys and girls and across most sports. Acute injuries were more likely than overuse injuries to cause a time loss of 1–3 weeks or medical disqualification from sports participation."
+    },
+    {
+      "section": "TABLE: Time Loss Attributable to Acute and Overuse Injuries by Gender and Sport",
+      "text": " | Time Lost to Acute Injuries | Time Lost to Overuse Injuries | Injury Proportion Ratiosc\n | < 1 wk | 1–3 wks | > 3 wks | Med DQa | Otherb | < 1 wk | 1–3 wks | > 3 wks | Med DQa | Otherb | < 1 wk | 1–3 wks | > 3 wks | Med DQa | Otherb\nVariable | %d | %d | %d | %d | %d | %d | %d | %d | %d | %d | Ratio (95 % CI) | Ratio (95 % CI) | Ratio (95 % CI) | Ratio (95 % CI) | Ratio(95 % CI)\nTotal | 38.9 | 35.5 | 8.1 | 5.6 | 11.8 | 55.1 | 28.4 | 6.3 | 3.2 | 7.0 | 0.70 (0.68, 0.74) | 1.25 (1.16, 1.34) | 1.30 (1.10, 1.52) | 1.75 (1.43, 2.14) | 1.68 (1.45, 1.96)\nGender (all sports)\nMale | 39.3 | 34.7 | 8.4 | 5.8 | 11.8 | 52.3 | 28.8 | 7.7 | 4.0 | 7.3 | 0.75 (0.71, 0.79) | 1.20 (1.11, 1.31) | 1.10 (0.92, 1.32) | 1.46 (1.16, 1.83) | 1.61 (1.33, 1.95)\nFemale | 37.9 | 37.5 | 7.4 | 5.2 | 11.9 | 58.8 | 27.9 | 4.5 | 2.2 | 6.6 | 0.65 (0.60, 0.69) | 1.35 (1.20, 1.51) | 1.65 (1.23, 2.23) | 2.33 (1.56, 3.50) | 1.80 (1.40, 2.31)\nGender (Gender- comparable sports)\nMale | 43.7 | 34.1 | 7.5 | 4.4 | 10.3 | 54.7 | 26.8 | 7.8 | 2.9 | 7.8 | 0.80 (0.74, 0.86) | 1.27 (1.11, 1.46) | 0.96 (0.72, 1.27) | 1.51 (1.00, 2.28) | 1.32 (0.99, 1.75)\nFemale | 36.9 | 37.7 | 7.4 | 5.7 | 12.4 | 57.6 | 28.9 | 4.8 | 2.3 | 6.4 | 0.64 (0.59, 0.69) | 1.31 (1.15, 1.49) | 1.54 (1.11, 2.13) | 2.43 (1.59, 3.72) | 1.93 (1.44, 2.57)\nSport\nBoys’ Football | 38.2 | 34.9 | 8.5 | 6.2 | 12.2 | 48.7 | 31.4 | 8.3 | 4.8 | 6.7 | 0.78 (0.73, 0.85) | 1.11 (0.99, 1.24) | 1.02 (0.81, 1.30) | 1.29 (0.95, 1.75) | 1.82 (1.38, 2.39)\nBoys’ Soccer | 44.1 | 34.0 | 6.7 | 4.3 | 10.9 | 61.1 | 23.8 | 6.4 | 2.4 | 6.3 | 0.72 (0.65, 0.81) | 1.43 (1.14, 1.79) | 1.05 (0.63, 1.77) | 1.78 (0.87, 3.65) | 1.73 (1.03, 2.92)\nBoys’ Basketball | 44.3 | 35.5 | 7.6 | 3.9 | 8.7 | 53.1 | 26.6 | 7.7 | 3.4 | 9.2 | 0.83 (0.73, 0.96) | 1.33 (1.05, 1.69) | 0.99 (0.60, 1.63) | 1.16 (0.56, 2.40) | 0.95 (0.59, 1.53)\nBoys’ Wrestling | 32.0 | 35.3 | 11.4 | 7.3 | 14.0 | 56.7 | 27.0 | 2.4 | 6.6 | 7.2 | 0.56 (0.48, 0.67) | 1.30 (0.96, 1.77) | 4.78 (2.49, 9.17) | 1.16 (0.56, 2.40) | 1.94 (1.07, 3.50)\nBoys’ Baseball | 41.2 | 32.1 | 10.0 | 5.4 | 11.2 | 43.7 | 32.5 | 10.6 | 3.4 | 9.7 | 0.94 (0.81, 1.10) | 0.99 (0.81, 1.21) | 0.94 (0.63, 1.41) | 1.57 (0.85, 2.91) | 1.15 (0.77, 1.72)\nGirls’ Soccer | 35.6 | 38.5 | 6.8 | 5.7 | 13.4 | 56.7 | 30.4 | 4.1 | 2.6 | 6.2 | 0.63 (0.56, 0.71) | 1.27 (1.04, 1.54) | 1.67 (0.95, 2.93) | 2.18 (1.21, 3.90) | 2.16 (1.37, 3.40)\nGirls’ Volleyball | 44.8 | 36.1 | 7.6 | 2.6 | 9.0 | 64.4 | 23.1 | 3.0 | 1.9 | 7.6 | 0.70 (0.62, 0.78) | 1.56 (1.20, 2.02) | 2.54 (1.25, 5.19) | 1.37 (0.40, 4.68) | 1.17 (0.72, 1.91)\nGirls’ Basketball | 38.2 | 37.8 | 8.0 | 5.9 | 10.1 | 55.9 | 26.1 | 8.7 | 2.1 | 7.3 | 0.68 (0.61, 0.77) | 1.45 (1.18, 1.78) | 0.93 (0.61, 1.39) | 2.85 (1.35, 5.98) | 1.39 (0.90, 2.15)\nGirls’ Softball | 39.6 | 34.9 | 8.6 | 5.1 | 11.9 | 60.4 | 28.0 | 3.4 | 1.9 | 6.3 | 0.66 (0.57, 0.75) | 1.24 (0.99, 1.57) | 2.53 (1.23, 5.19) | 2.64 (1.05, 6.62) | 1.90 (1.11, 3.25)"
+    }
+  ]
+}

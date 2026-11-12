@@ -1,0 +1,39 @@
+{
+  "pmid": "28451612",
+  "title": "Performance and Return to Sport After Sports Hernia Surgery in NFL Players.",
+  "year": "2017",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Recognition, diagnosis, and treatment of athletic pubalgia (AP), also known as sports hernia, once underrecognized and undertreated in professional football, are becoming more common. Surgery as the final treatment for sports hernia when nonsurgical treatment fails remains controversial. Given the money involved and popularity of the National Football League (NFL), it is important to understand surgical outcomes in this patient population."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "After AP surgery, players would: (1) return to sport (RTS) at a greater than 90% rate, (2) play fewer games for fewer years than matched controls, (3) have no difference in performance compared with before AP surgery, and (4) have no difference in performance versus matched controls."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Internet-based injury reports identified players who underwent AP surgery from January 1996 to August 2015. Demographic and performance data were collected for each player. A 1:1 matched control group and an index year analog were identified. Control and case performance scores were calculated using a standardized scoring system. Groups were compared using paired Student <i>t</i> tests."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifty-six NFL players (57 AP surgeries) were analyzed (mean age, 28.2 ± 3.1 years; mean years in NFL at surgery, 5.4 ± 3.2). Fifty-three players were able to RTS. Controls were in the NFL longer (<i>P</i> < .05) than players who underwent AP surgery (3.8 ± 2.4 vs 3.2 ± 2.1 years). Controls played more games per season (<i>P</i> < .05) than post-AP players (14.0 ± 2.3 vs 12.0 ± 3.4 games per season). There was no significant (<i>P</i> > .05) difference in pre- versus post-AP surgery performance scores and no significant (<i>P</i> > .05) difference in postoperative performance scores versus controls post-index."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There was a high RTS rate after AP surgery without a significant difference in postoperative performance, though career length and games per season after AP surgery were significantly less than that of matched controls."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "41613525",
+  "title": "A Review of Research on Throwing Biomechanics, Upper Extremity Injuries, and Treatment of Throwing Injuries in Professional Baseball and Football.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Throwing is a fundamental skill in many sports that requires intricate biomechanical coordination to achieve maximum performance and minimize injury. Baseball pitchers and football quarterbacks have distinct throwing motions that involve unique demands on the upper extremity, which ultimately contribute to injury, especially in cases of overuse."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare the throwing biomechanics, incidence, and types of injuries sustained and their respective treatments between baseball pitchers and football quarterbacks."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Narrative review."
+    },
+    {
+      "label": "METHODS",
+      "text": "Comprehensive literature review examining biomechanical differences between baseball pitching and football quarterback throwing motions, analyzing injury patterns and prevalence in both sports, and evaluating current treatment approaches for throwing-related upper extremity injuries. Multiple databases (Google Scholar and PubMed) were queried for peer-reviewed publications related to baseball/football throwing biomechanics (biomechanics, kinematics, kinetics, electromyography, throwing phases, arm slot, external rotation, varus torque, kinetic chain), injury entities (ulnar collateral ligament [UCL], rotator cuff, superior labrum anterior-posterior/labral, acromioclavicular joint, biceps tendinopathy, ulnar neuritis, posteromedial impingement, flexor-pronator, latissimus dorsi/teres major), and management (rehabilitation/physical therapy, arthroscopy, UCL reconstruction/repair/internal brace, return to play); pediatric/adolescent studies and nonoverhand sports were excluded. Studies were screened for inclusion by 2 reviewers and synthesized qualitatively due to heterogeneity."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Significant differences in timing, velocity, and arm angles were observed between baseball and football throwing motions, which affected injury prevalence and nature. Baseball pitchers demonstrated higher rates of both elbow and shoulder injuries compared to football quarterbacks, with elbow injuries being particularly prevalent due to the high volume of repetitive throwing motions. Treatment options ranged from nonoperative approaches, including physical therapy, to operative interventions such as UCL reconstruction."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The biomechanics of throwing in baseball and football differ significantly, leading to distinct injury patterns between sports. Baseball pitchers experience more shoulder and elbow injuries due to repetitive high-velocity throwing, while quarterbacks typically sustain trauma-related injuries rather than overuse injuries."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

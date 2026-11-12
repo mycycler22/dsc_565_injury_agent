@@ -1,0 +1,39 @@
+{
+  "pmid": "41026237",
+  "title": "A systematic review and meta-analysis of tension band plating vs. intramedullary nailing for anterior tibial diaphyseal stress fractures in athletes.",
+  "year": "2025",
+  "journal": "Archives of orthopaedic and trauma surgery",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Return to sport (RTS) and optimal operative management for anterior tibial diaphyseal stress fractures (aTDSF) in athletes remain poorly defined."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review was performed following PRISMA guidelines. Included studies examined aTDSF treated with IM nailing or tension band plating and reported time to RTS. Exclusions included non-English studies, abstracts, reviews, or those published before 1990, acute tibial fractures, or lacking operative management data. Extracted data included RTS rates, time to RTS, complications, demographics, and total aTDSF cases. A mixed method meta-analysis compared RTS times between treatment modalities."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eight studies comprising 37 athletes met inclusion criteria. RTS was achieved in 100% (14/14) of IM nailing cases and 95% (19/20) of tension band plating cases. IM nailing had a mean RTS of 19.7 weeks, while tension band plating had a mean RTS of 11.4 weeks, showing a significant difference (p < 0.01). Subgroup analysis revealed negligible heterogeneity for tension band plating (I^2 = 0%) and moderate heterogeneity for IM nailing (I^2 = 66.7%). Complications for IM nailing included chronic anterior knee pain (2/14, 14%), while tension band plating complications included symptomatic hardware removal (6/20, 30%) and one athlete unable to compete (1/20, 5%). The included studies were small case series or case reports and thus prone to bias."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Both IM nailing and tension band plating yield high RTS rates, but tension band plating may offer faster RTS, albeit with higher hardware-related complication rates. The moderate heterogeneity observed in the IM nailing subgroup, coupled with a moderate risk of bias across all included studies, underscores the need for further high-quality research to validate these findings."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "IM nailing had a mean RTS of 19.7 weeks, while tension band plating had a mean RTS of 11.4 weeks, showing a significant difference (p < 0.01)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

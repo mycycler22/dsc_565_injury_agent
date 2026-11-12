@@ -1,0 +1,41 @@
+{
+  "pmid": "27633025",
+  "title": "Can ultrasound imaging predict the development of Achilles and patellar tendinopathy? A systematic review and meta-analysis.",
+  "year": "2016",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ultrasound (US) imaging is commonly used to visualise tendon structure. It is not clear whether the presence of structural abnormalities in asymptomatic tendons predicts the development of future tendon symptoms in the Achilles or patellar tendon."
+    },
+    {
+      "label": "AIM",
+      "text": "To perform a systematic review and meta-analysis investigating the ability of US imaging to predict future symptoms of patellar or Achilles tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "Prospective studies that performed US imaging of Achilles OR patellar tendon structure among asymptomatic patients at baseline and a clinical measure of pain and/or function at follow-up were included. Study quality was assessed using the Critical Appraisal Skills Programme tool by two independent reviewers, and predictive ability of US was assessed using meta-analyses."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The majority of participants in the review were from sporting populations. Meta-analysis revealed that tendon abnormalities on US are associated with future symptoms of both patellar and Achilles tendinopathy (RR=4.97, 95% CI 3.20 to 7.73). Subgroup analysis indicated that tendon abnormalities at baseline were associated with an increased risk of both Achilles (RR=7.33, 95% CI 2.95 to 18.24) and patellar (RR=4.35, 95% CI 2.62 to 7.23) tendinopathy."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This systematic review and meta-analysis indicates that tendon abnormalities visualised using US in asymptomatic tendons are predictive of future tendinopathy and are associated with at least a fourfold increased risk."
+    },
+    {
+      "label": "IMPLICATIONS",
+      "text": "Identification of at-risk athletes using screening tools such as US may allow preventative programmes to be implemented. However, it is clear that other factors beyond tissue structure are involved in the development of lower limb tendinopathy."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

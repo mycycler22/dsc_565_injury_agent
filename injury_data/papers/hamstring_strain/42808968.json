@@ -1,0 +1,47 @@
+{
+  "pmid": "42808968",
+  "title": "Hamstring Strain Grade on MRI and Return to Play in Elite Australian Cricket Players.",
+  "year": "2026",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The aims of this study were to (1) examine the relationship between magnetic resonance imaging (MRI)-confirmed hamstring strain grade and time to return to play; (2) examine this relationship specifically in pace bowlers; and (3) describe the incidence, prevalence, and grade of MRI-confirmed hamstring strains in elite Australian cricket players."
+    },
+    {
+      "label": "DESIGN",
+      "text": "This is a retrospective cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Elite Australian cricket teams over 13.5 seasons were analyzed."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Four hundred seventy-eight male and 365 female contracted Australian cricketers participated in this study."
+    },
+    {
+      "label": "INDEPENDENT VARIABLE",
+      "text": "British Athletics Muscle Injury Classification system grading of hamstring strains, which had received MRI scan, was the independent variable."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE",
+      "text": "The main outcome was time to return to play (days)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "One hundred forty-one hamstring strain injuries with available MRI imaging scans were recorded during the study period (average 3.2 per 100 players per season: male 4.5, female 1.2). The most commonly injured muscle was biceps femoris (63%, 95% confidence interval: 56%-71%) and the most frequent category of injury was grade 2C (27%, 20%-35%). Across all injury grades, players were unavailable for full participation for a median of 22 (interquartile range: 15-38) days and missed 3 (1-6) matches. The number of days unavailable were higher for injuries that were graded 2 or 3, compared with grade 1 injuries (P = 0.004 and P = 0.007, respectively), and injuries that included the tendon compared with those which did not (P = 0.002). Pace bowlers has a higher number of days unavailable compared with players with other dominant skills for grade B and C injuries combined (P = 0.046)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This study provides evidence that higher grade injuries and those involving the intramuscular tendon are associated with a more prolonged return to play. This finding should be viewed in context of the study limitation that MRI findings may have informed management."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

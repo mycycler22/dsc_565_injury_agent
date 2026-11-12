@@ -1,0 +1,57 @@
+{
+  "pmid": "36395375",
+  "title": "Patient-Reported Outcomes at Return to Sport After Lateral Ankle Sprain Injuries: A Report From the Athletic Training Practice-Based Research Network.",
+  "year": "2023",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Limited evidence exists regarding the assessment of single-item patient-reported outcomes when patients are medically cleared to return to sport after a lateral ankle sprain (LAS) injury."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To evaluate self-reports of improvement in health status, pain, function, and disability at return to sport after an LAS."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Sixty-nine athletic training facilities across 24 states."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "A total of 637 patients (males = 53.2%) who were diagnosed with an LAS, restricted from sport after injury, and subsequently medically cleared to return to sport within 60 days were included."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Descriptive statistics were used to summarize scores for health status (Global Rating of Change), pain (Numeric Pain Rating Scale), function (Global Rating of Function), and disability (Global Rating of Disability). Mann-Whitney U tests were used to compare score differences between sexes. A Kaplan-Meier analysis was performed to provide a visual depiction of sex differences in the time to return to sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Most patients sustained an LAS injury while participating in basketball, football, or soccer and were cleared to return to sport 8 days after injury. More than two-thirds of patients reported a meaningful improvement in health status between the time of injury and return to sport. However, many noted deficits related to pain (65.1%), function (86.2%), or disability (35.8%) at return to sport. No differences were seen between males and females for pain (P = .90), function (P = .68), change in health status (P = .45), or disability (P = .21) at return to sport, although males returned to sport slightly sooner than females (P = .025)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Despite self-perceived improvements in health status since the time of injury, patients typically returned to sport with deficits in pain, function, and disability after an LAS. Patients may be returning to unrestricted sport participation before they feel their bodies have fully recovered from the injury."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Most patients sustained an LAS injury while participating in basketball, football, or soccer and were cleared to return to sport 8 days after injury."
+    }
+  ],
+  "pmcid": "10569251",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Most patients sustained an LAS injury while participating in basketball, football, or soccer and were cleared to return to sport 8 days after injury. More than two-thirds of patients reported a meaningful improvement in health status between the time of injury and return to sport. However, many noted deficits related to pain (65.1%), function (86.2%), or disability (35.8%) at return to sport. No differences were seen between males and females for pain (P = .90), function (P = .68), change in health status (P = .45), or disability (P = .21) at return to sport, although males returned to sport slightly sooner than females (P = .025)."
+    }
+  ]
+}

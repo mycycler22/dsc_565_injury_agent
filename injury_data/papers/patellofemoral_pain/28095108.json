@@ -1,0 +1,47 @@
+{
+  "pmid": "28095108",
+  "title": "The Relationship Between 2-Dimensional Knee-Valgus Angles During Single-Leg Squat, Single-Leg-Land, and Drop-Jump Screening Tests.",
+  "year": "2017",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Injuries to the anterior cruciate ligament (ACL) and patellofemoral joint (PFJ) are a significant problem in female athletes. A number of screening tasks have been used in the literature to identify those at greatest risk of injury. To date, no study has examined the relationship in 2-dimensional (2D) knee valgus between common screening tasks to determine whether individuals exhibit similar movement patterns across tasks."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To establish whether frontal-plane projection angle (FPPA) during the single-leg squat (SLS), single-leg land (SLL), and drop jump (DJ) are related."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "University laboratory."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "52 national-league female football players and 36 national-league female basketball players."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "2D FPPA during the SLS, SLL, and DJ screening tasks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Significant correlations were found between tasks. FPPA in the SLS was significantly correlated with SLL (r = .52) and DJ (r = .30), whereas FPPA in the SLL was also significantly correlated to DJ (r = .33). FPPA was significantly greater in the SLS than in the SLL (P < .001) and DJ (P < .001) and in the SLL than in the DJ (P < .001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The results showed that 2D FPPA is correlated across the SLS, SLL, and DJ tasks. However, significantly greater FPPA values in the unilateral tasks suggest that the DJ may not identify risk of injury in sports where primary injury mechanisms are during unilateral loading tasks. Therefore, it is recommended that both unilateral and bilateral tasks be included when screening for ACL and PFJ injury risk."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

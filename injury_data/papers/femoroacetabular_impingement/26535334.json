@@ -1,0 +1,43 @@
+{
+  "pmid": "26535334",
+  "title": "Position-Specific Hip and Knee Kinematics in NCAA Football Athletes.",
+  "year": "2014",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement is a debilitating hip condition commonly affecting athletes playing American football. The condition is associated with reduced hip range of motion; however, little is known about the range-of-motion demands of football athletes. This knowledge is critical to effective management of this condition."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To (1) develop a normative database of game-like hip and knee kinematics used by football athletes and (2) analyze kinematic data by playing position. The hypothesis was that kinematics would be similar between running backs and defensive backs and between wide receivers and quarterbacks, and that linemen would perform the activities with the most erect lower limb posture."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty National Collegiate Athletic Association (NCAA) football athletes, representing 5 playing positions (quarterback, defensive back, running back, wide receiver, offensive lineman), executed game-like maneuvers while lower body kinematics were recorded via optical motion capture. Passive hip range of motion at 90° of hip flexion was assessed using a goniometer. Passive range of motion, athlete physical dimensions, hip function, and hip and knee rotations were submitted to 1-way analysis of variance to test for differences between playing positions. Correlations between maximal hip and knee kinematics and maximal hip kinematics and passive range of motion were also computed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Hip and knee kinematics were similar across positions. Significant differences arose with linemen, who used lower maximal knee flexion (mean ± SD, 45.04° ± 7.27°) compared with running backs (61.20° ± 6.07°; P < .001) and wide receivers (54.67° ± 6.97°; P = .048) during the cut. No significant differences were found among positions for hip passive range of motion (overall means: 102° ± 15° [flexion]; 25° ± 9° [internal rotation]; 25° ± 8° [external rotation]). Several maximal hip measures were found to negatively correlate with maximal knee kinematics."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A normative database of hip and knee kinematics utilized by football athletes was developed. Position-specific analyses revealed that linemen use smaller joint motions when executing dynamic tasks but do not demonstrate passive range of motion deficits compared with other positions."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Knowledge of requisite game-like hip and knee ranges of motion is critical for developing goals for nonoperative or surgical recovery of hip and knee range of motion in the symptomatic athlete. These data help to identify playing positions that require remedial hip-related strength and conditioning protocols. Negative correlations between hip and knee kinematics indicated that constrained hip motion, as seen in linemen, could promote injurious motions at the knee."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "37366929",
+  "title": "Awareness of Anterior Cruciate Ligament Injury-Preventive Training Programs among Saudi Athletes.",
+  "year": "2023",
+  "journal": "Clinics and practice",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) tear is a common medical condition that entails a stretch or sprain of the ACL, which is present in the knee joint. The incidence of ACL injury in the Kingdom of Saudi Arabia is estimated to be 31.4%. Prevention training programs (PTPs) can be used to reduce ACL injuries sustained during physical activity, as they primarily focus on improving strength, balance, and lower limb biomechanics and reducing landing impact. This study aimed to assess Saudi athletes' awareness of ACL injury PTPs."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cross-sectional survey in the form of a self-administered questionnaire in the Arabic language was carried out from 22 December 2022 to 7 March 2023 and included 1169 Saudi athletes. Statistical analyses were performed on the collected data using frequency and percentages. Binary logistic regression was used for the adjusted analysis and determining associations between athletes playing high- and low-risk sports."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 52% of participants were female athletes, and 48% were male athletes. The western region of the country had the highest response rate (28.9%). The most common sport played was football at 36.6%. Most participants (70.97%) reported that their information on ACL injury was taken by their coaches. When assessing whether participants were familiar with the concept of an ACL injury PTP, the majority of the participants answered no, representing 971 (662 high-risk, 309 low-risk), compared to those who answered yes, representing only 198 (167 high-risk, 31 low-risk), with a statistically significant difference (adjusted OR: 2.106; 95% confidence interval: 1.544-2.873; <i>p</i>-value < 0.001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In general, the level of awareness of ACL injury PTPs among Saudi athletes was poor."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "24587864",
+  "title": "Sports hernia/athletic pubalgia: evaluation and management.",
+  "year": "2014",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Sports hernia/athletic pubalgia has received increasing attention as a source of disability and time lost from athletics. Studies are limited, however, lacking consistent objective criteria for making the diagnosis and assessing outcomes."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "PubMed database through January 2013 and hand searches of the reference lists of pertinent articles."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Review article."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 5."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nonsurgical outcomes have not been well reported. Various surgical approaches have return-to-athletic activity rates of >80% regardless of the approach. The variety of procedures and lack of outcomes measures in these studies make it difficult to compare one surgical approach to another. There is increasing evidence that there is an association between range of motion-limiting hip disorders (femoroacetabular impingement) and sports hernia/athletic pubalgia in a subset of athletes. This has added increased complexity to the decision-making process regarding treatment."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "An association between femoroacetabular impingement and athletic pubalgia has been recognized, with better outcomes reported when both are managed concurrently or in a staged manner."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

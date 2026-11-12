@@ -1,0 +1,37 @@
+{
+  "pmid": "32514700",
+  "title": "Relationship Between Jump-Landing Kinematics and Lower Extremity Overuse Injuries in Physically Active Populations: A Systematic Review and Meta-Analysis.",
+  "year": "2020",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lower extremity overuse injuries are common in athletes participating in sports with repeated bouts of landing manoeuvres. Biomechanical alterations during landing may be associated with these types of injuries. The objective of this systematic review with meta-analysis was to summarise and determine the relationship between kinematic alterations during a landing task and the development of lower extremity overuse injuries in physically active populations."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed, Embase, Web of Science, CINAHL, and SPORTDiscus were consulted up to and including February 2020. Cohort, cross-sectional or case-control studies were included if they investigated the relationship between three-dimensional (3D) landing kinematics in physically active populations and either new incidence or a history of lower extremity overuse injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-three studies that investigated 3D landing kinematics in subjects with either patellar tendinopathy (PT), patellofemoral pain (PFP), exertional medial tibial pain (EMTP) or groin overuse injury met the inclusion criteria. Based on this systematic review, there is evidence for decreased knee flexion range of motion (ROM) and increased knee abduction ROM during landing as risk factors for PFP. For PT, risk factors are poorly understood. Furthermore, the meta-analysis demonstrated significantly greater hip adduction at initial contact (IC) (p = 0.02), greater knee internal rotation at IC (p < 0.001), greater peak knee external rotation (p = 0.05) and less ankle dorsiflexion at peak vertical ground reaction force (vGRF) (p = 0.05) in subjects with knee overuse injuries compared to healthy controls. There is evidence of increased trunk, hip and knee transversal ROM as risk factors for EMTP. Groin injuries are associated with greater pelvic and hip frontal and transversal plane ROM in the injured group compared to the healthy controls."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The results of this systematic review and meta-analysis provide preliminary evidence for impaired landing kinematics associated with lower extremity overuse injuries. Excessive frontal and transversal plane movements during landing manoeuvres might increase impact and tensile forces resulting in lower extremity overuse injuries."
+    },
+    {
+      "label": "REGISTRATION",
+      "text": "This systematic review was registered in the PROSPERO international prospective register of systematic reviews (ID = CRD42019135602)."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

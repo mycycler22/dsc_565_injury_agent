@@ -1,0 +1,36 @@
+{
+  "pmid": "28303544",
+  "title": "Intervention Strategies Used in Sport Injury Prevention Studies: A Systematic Review Identifying Studies Applying the Haddon Matrix.",
+  "year": "2017",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Prevention of sport injuries is crucial to maximise the health and societal benefits of a physically active lifestyle. To strengthen the translation and implementation of the available evidence base on effective preventive measures, a range of potentially relevant strategies should be considered."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "Our aim was to identify and categorise intervention strategies for the prevention of acute sport injuries evaluated in the scientific literature, applying the Haddon matrix, and identify potential knowledge gaps."
+    },
+    {
+      "label": "METHODS",
+      "text": "Five electronic databases were searched (PubMed, EMBASE, SPORTDiscus, CINAHL, Cochrane) for studies that evaluated the effect of interventions on the occurrence of acute sport injuries. Studies were required to include a control group/condition, prospective data collection, and a quantitative injury outcome measure."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 155 studies were included, mostly randomised controlled trials (43%). The majority of studies (55%) focussed on strategies requiring a behavioural change on the part of athletes. Studies predominantly evaluated the preventive effect of various training programmes targeted at the 'pre-event' phase (n = 73) and the use of equipment to avoid injury in the 'event phase' (n = 29). A limited number of studies evaluated the preventive effect of strategies geared at rules and regulations (n = 14), and contextual modifications (n = 18). Studies specifically aimed at preventing re-injuries were a minority (n = 8), and were mostly related to ankle sprains (n = 5)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Valuable insight into the extent of the evidence base of sport injury prevention studies was obtained for 20 potential intervention strategies. This approach can be used to monitor potential gaps in the knowledge base on sport injury prevention."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "41163497",
+  "title": "Quantitative T2* With Ultrashort Time-to-Echo MRI Differentiates Tendonitis Severity in Lateral Epicondylitis.",
+  "year": "2026",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lateral epicondylitis (LE), or tennis elbow, severely affects elbow mobility due to degeneration of and injury to the extensor carpi radialis brevis (ECRB) tendon. Conventional magnetic resonance imaging (MRI), although relied upon to determine LE severity, is a qualitative measure of tendon degeneration. Novel quantitative T2*-mapping using ultrashort time-to-echo (UTE) assesses the collagen component of the tendon and could provide a more objective assessment of tendon pathology."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "UTE T2* values differentiate LE severity grades and correlate with conventional MRI signal."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective and cross-sectional."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "UTE T2* MRI was acquired in 30 patients (11 female/19 male; age, 48.7 ± 13.8 years) with elbow pain at a field strength of 3 T. The ECRB tendon and muscle were segmented to obtain mean T2* values and conventional proton-density MRI signal. Elbows were grouped by a qualitative radiologic grading scale of increasing LE severity (0, no degeneration; 1, degeneration; 2, partial tear; 3, full-thickness tear). T2* and PD values were compared between groups using Wilcoxon rank-sum tests and against each other with Spearman's rank correlation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Mean T2* was significantly higher in partially torn tendon (15.3 ms) versus normal and degenerated tendon (7.70 ms, <i>P</i> < 0.01). Mean T2* was also higher in partially torn tendon (15.3 ms) versus degenerated tendon (8.32 ms, <i>P</i> = 0.04). The correlation coefficient between T2* and PD was moderate at <i>r</i> = 0.624 (<i>P</i> < 0.01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "T2* differentiates between tendon severity grades and may provide additional information to conventional MRI scan assessment for increased sensitivity to tendon changes in LE."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "T2* UTE may detect early changes in LE as a quantitative basis for making objective return-to-play or treatment decisions."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

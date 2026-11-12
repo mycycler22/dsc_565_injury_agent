@@ -1,0 +1,47 @@
+{
+  "pmid": "30439727",
+  "title": "Performance Outcomes and Return-to-Sport Rate of National Hockey League Athletes Vary After Common Orthopedic Surgical Procedures.",
+  "year": "2021",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Evaluate performance-based outcomes and return-to-sport rate in National Hockey League (NHL) athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Public records. No direct patient care was provided."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "National Hockey League athletes who underwent different orthopedic procedures were identified using public records. Three hundred thirty-seven athletes met inclusion criteria."
+    },
+    {
+      "label": "INDEPENDENT VARIABLES",
+      "text": "Common orthopedic surgical procedures in NHL athletes."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Return-to-play and preoperative and postoperative performance measures were collected to calculate a position-specific performance score. Short-term and medium-term outcomes were defined as 1 and 2 to 3 seasons after surgery, respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Three hundred seven athletes (92.6%) successfully returned to play. The number of games played during the first season after surgery compared with baseline was significantly decreased for hip arthroscopy (HA), noninstability shoulder arthroscopy (ie, shoulder arthroscopy procedure to address pathology other than shoulder instability), knee arthroscopy, and sports hernia repair (P = 0.002, 0.009, 0.03, and 0.01, respectively). The number of games played for seasons 2 and 3 after surgery was significantly decreased for both HA and noninstability shoulder arthroscopy (P = 0.01 and 0.001, respectively). Short-term postoperative performance scores were significantly decreased for HA, noninstability shoulder arthroscopy, and anterior cruciate ligament reconstruction (P = 0.00004, 0.02, and 0.02, respectively) while medium-term scores were significantly decreased for HA only (P = 0.009)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "National Hockey League athletes return to play at a high rate after common orthopedic surgeries. However, certain procedures portend poorer performance scores and game participation than others. In particular, HA and noninstability shoulder arthroscopy have the greatest negative effect on NHL careers after surgery."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

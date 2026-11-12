@@ -1,0 +1,41 @@
+{
+  "pmid": "28035586",
+  "title": "Criteria for Progressing Rehabilitation and Determining Return-to-Play Clearance Following Hamstring Strain Injury: A Systematic Review.",
+  "year": "2017",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Rehabilitation progression and return-to-play (RTP) decision making following hamstring strain injury (HSI) can be challenging for clinicians, owing to the competing demands of reducing both convalescence and the risk of re-injury. Despite an increased focus on the RTP process following HSI, little attention has been paid to rehabilitation progression and RTP criteria, and subsequent time taken to RTP and re-injury rates."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this systematic review is to identify rehabilitation progression and RTP criteria implemented following HSI and examine the subsequent time taken to RTP and rates of re-injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic literature review of databases MEDLINE, CINAHL, SPORTDiscus, Cochrane Library, Web of Science and EMBASE was conducted to identify studies of participants with acute HSI reporting time taken to RTP and rates of re-injury after a minimum 6-month follow-up. General guidelines and specific criteria for rehabilitation progression were identified for each study. In addition, RTP criteria were identified and categorised as performance tests, clinical assessments, isokinetic dynamometry or the Askling H-test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Nine studies were included with a total of 601 acute HSI confirmed by clinical examination or magnetic resonance imaging within 10 days of initial injury. A feature across all nine studies was that the injured individual's perception of pain was used to guide rehabilitation progression, whilst clinical assessments and performance tests were the most frequently implemented RTP criteria. Mean RTP times were lowest in studies implementing isokinetic dynamometry as part of RTP decision making (12-25 days), whilst those implementing the Askling H-test had the lowest rates of re-injury (1.3-3.6%)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This systematic review highlights the strong emphasis placed on the alleviation of pain to allow HSI rehabilitation progression, and the reliance on subjective clinical assessments and performance tests as RTP criteria. These results suggest a need for more objective and clinically practical criteria, allowing a more evidence-based approach to rehabilitation progression, and potentially reducing the ambiguity involved in the RTP decision-making process."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mean RTP times were lowest in studies implementing isokinetic dynamometry as part of RTP decision making (12-25 days), whilst those implementing the Askling H-test had the lowest rates of re-injury (1.3-3.6%)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

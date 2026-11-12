@@ -1,0 +1,34 @@
+{
+  "pmid": "40629410",
+  "title": "Surgical treatment versus conservative management for acute Achilles tendon rupture: a systematic review and meta-analysis.",
+  "year": "2025",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute Achilles tendon rupture (AATR) is one of the most common sports injuries, however, the optimal treatment remains controversial. The purpose of this study was to compare the effectiveness of surgical and conservative treatment on clinical outcomes."
+    },
+    {
+      "label": "METHODS",
+      "text": "The PubMed, Web of Science, Embase, and Cochrane Library databases were searched to identify relevant studies published from database inception up to April 2025. Two reviewers independently screened titles and abstracts using specified criteria. Included studies compared differences between surgical and conservative treatment in terms of re-rupture rate, incidence of other complications, rate of return to sports, and Achilles Tendon Total Rupture Score (ATRS), and to examine the effect of platelet-rich plasma (PRP) on clinical outcomes. Dichotomous outcomes are expressed as odds ratio (OR), and continuous data are expressed as mean difference (MD) with corresponding 95% confidence interval (CI). Heterogeneity was assessed using the I2 statistic, A fixed effects model was used when I2 ≤ 50%; otherwise, the random effects model was used. Statistical analysis was performed using Review Manager version 5.4.1."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-three studies comprising 35896 patients were included. Compared with the nonoperative group, the operation group exhibited lower re-rupture rates (risk ratio [RR] 0.44 [95% confidence interval (CI), 0.34-0.57], P < .00001), a higher rates of return to sport (RR 1.32 [95% CI, 1.03-1.69], P = .03), higher infection rates (RR 2.54 [95% CI, 1.62-3.98], P < .0001), including deep infection (RR 1.91 [95% CI, 1.15-3.16], P = .01) and superficial infection (RR 4.89 [95% CI, 1.57-15.24], P = .006) and higher nerve injury rates (RR 3.67 [95% CI, 1.34-10.06], P = .01). Surgery reduced re-rupture rates by 3.52%, increased the rates of return to sport by 14.44%, conservative treatment reduced the nerve injury rates by 3.33%, and the infection rates by 0.53%. There was no statistical difference between the 2 treatments in the incidence of other complications, such as deep venous thrombosis (RR 0.93 [95% CI, 0.77-1.12], P = .43) and pulmonary embolism (RR 1.63 [95% CI, 0.49-5.48], P = .43), nor effect on ATRS (mean difference [MD] 7.02 [95% CI, -1.35-15.38], P = .10). Regardless of surgical or conservative treatment, there was no difference in the effects of PRP on the re-rupture rate, rate of return to sports, ATRS, and ankle range of motion."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Surgical treatment significantly reduced the risk for re-rupture and increased the rate of return to sports compared with conservative treatment; however, the incidence of complications, including nerve injury and infection, was lower with conservative treatment. Regardless of surgical or conservative treatment, PRP did not yield superior clinical or functional outcomes."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

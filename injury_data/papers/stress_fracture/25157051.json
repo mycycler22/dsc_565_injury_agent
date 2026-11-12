@@ -1,0 +1,20 @@
+{
+  "pmid": "25157051",
+  "title": "Chronic leg pain in athletes.",
+  "year": "2015",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Chronic leg pain is commonly treated by orthopaedic surgeons who take care of athletes. The sources are varied and include the more commonly encountered medial tibial stress syndrome, chronic exertional compartment syndrome, stress fracture, popliteal artery entrapment syndrome, nerve entrapment, Achilles tightness, deep vein thrombosis, and complex regional pain syndrome. Owing to overlapping physical examination findings, an assortment of imaging and other diagnostic modalities are employed to distinguish among the diagnoses to guide the appropriate management. Although most of these chronic problems are treated nonsurgically, some patients require operative intervention. For each condition listed above, the pathophysiology, diagnosis, management option, and outcomes are discussed in turn."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

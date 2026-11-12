@@ -1,0 +1,21 @@
+{
+  "pmid": "42544070",
+  "title": "[Femoral neck stress fracture in a young female runner].",
+  "year": "2026",
+  "journal": "Revue medicale de Liege",
+  "pub_types": [
+    "Case Reports",
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Stress fractures of the femoral neck account for 2-5 % of all stress fractures in athletes, and generally affect military recruits and endurance athletes. The initial symptomatology is insidious, with atraumatic coxalgia, not always inguinal, occurring in a context of intensifying sports activity and relieved by rest. After standard X-ray, MRI is the second-line examination of choice for early diagnosis of this type of fracture. Non-surgical management consists of a period of unloading, followed by a gradual resumption of physical activity in the broad sense, and then of the activity in question. Surgical management involves osteosynthesis by triple screw fixation or Dynamic Hip Screw (DHS). If left untreated, secondary displacement may occur, with delayed or non-union callus or avascular osteonecrosis of the femoral head. These fractures are high-risk stress fractures, with a high risk of complications. This underlines the importance of correct, early diagnosis and treatment, given the potentially dramatic consequences, especially in young patients, with a long time to full recovery."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "22878909",
+  "title": "Surgical treatment of chronic groin pain in athletes.",
+  "year": "2012",
+  "journal": "International orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Conservative treatment of chronic groin pain is prolonged and recurrence is quite common. Coexistence of sports hernia and adductor tendinitis/tendinosis in a single patient is noted in the literature. In our study we evaluated our operative treatment that should enable pain elimination and fast return to sports activities."
+    },
+    {
+      "label": "METHODS",
+      "text": "We performed a prospective study over a six-year period. Ninety-nine (99) patients, all male, with chronic groin pain, resistant to conservative treatment, underwent a surgical procedure."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seventy athletes with sports hernia returned to sports in an average 4.23 weeks (range three-16). Adductor tendinosis symptoms were present in 24 patients (2 %) with sports hernia. Twenty-four patients that had an additional adductor tenotomy performed returned to sports in an average 11.6 weeks (range ten-15). Five patients with isolated adductor tendinosis (7 %) returned to sports in an average 13.4 weeks (range 12-16). All athletes except two (2.8 %) treated for sports hernia were satisfied with the results of treatment and could continue their previous level of activity."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Any surgical procedure used for treating chronic groin pain should address the common causes of pain in this region. Adductor tendinosis can be present in up to 24.2 % of cases with sports hernia or may be isolated in 7 % of cases with chronic groin pain and must be treated by tenotomy. Resection of the genital branch of genitofemoral nerve and ilioinguinal nerve neurolysis should also be performed in patients with sports hernia."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Seventy athletes with sports hernia returned to sports in an average 4.23 weeks (range three-16)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Twenty-four patients that had an additional adductor tenotomy performed returned to sports in an average 11.6 weeks (range ten-15)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Five patients with isolated adductor tendinosis (7 %) returned to sports in an average 13.4 weeks (range 12-16)."
+    }
+  ],
+  "pmcid": "3479270",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Seventy athletes with sports hernia returned to sports in an average 4.23 weeks (range three–16). Adductor tendinosis symptoms were present in 24 patients (2 %) with sports hernia. Twenty-four patients that had an additional adductor tenotomy performed returned to sports in an average 11.6 weeks (range ten–15). Five patients with isolated adductor tendinosis (7 %) returned to sports in an average 13.4 weeks (range 12–16). All athletes except two (2.8 %) treated for sports hernia were satisfied with the results of treatment and could continue their previous level of activity."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "15680101",
+  "title": "Uniportal endoscopic plantar fasciotomy: a prospective study on athletic patients.",
+  "year": "2004",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Endoscopic techniques have been described to surgically treat plantar fasciitis in the general patient population. A prospective, single-surgeon study was conducted to evaluate if a uniportal endoscopic plantar fasciotomy technique is effective in allowing athletic patients to return to their desired activities."
+    },
+    {
+      "label": "METHODS",
+      "text": "Sixteen patients with plantar fasciitis who were athletically active were compared to a control group that consisted of 10 patients who did not engage in sports. Most of the athletic patients were runners. Mean age at time of surgery was 39.8 +/- 13.1 years for the athletic group and 51.2 +/- 5.5 years for the control group (p < .01). All patients had conservative treatment for a minimum of 8 months (mean 19.4 months; range 8 to 50). All patients were rated for body mass index (BMI), and the Modified Plantar Fascia Score (MPFS) was obtained before and after endoscopic release. The preoperative MPFS was 42.0 +/- 2.5 for the athletic group and 23.6 +/- 15.7 for the control group (p < .01). All patients had uniportal endoscopic plantar fasciotomy with transection of the medial 50% of the plantar fascia. Postoperatively patients were kept in a low, below-knee, removable cast-boot for a total of 4 weeks, nonweightbearing for the first 2 weeks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean return-to-activity time after surgery was 2.6 +/- 0.7 months. The mean postoperative MPFS was 93.3 +/- 2.4, which was a significant improvement (p = .00001). Using this scoring system score, all results in athletes were excellent or good. The control group had a mean postoperative MPFS of 63.6 +/- 27.1, also significantly improved (p = .0006) but lower than the athletic group (p = .00001). All five poor results in the controls had a BMI of more than 27. Good or excellent results in the control group were obtained only in patients who walked for exercise. The BMI was statistically lower in the athletic group than in the control group (p = .00001). The average BMI in women was significantly higher (p = .02) than in men, and they required a longer time to return to activity (p = .01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletic patients undergoing uniportal endoscopic plantar fasciotomy can expect good to excellent results based on the MPFS. Fifty percent of the patients with a BMI of more than 27 had poor results."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

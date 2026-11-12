@@ -1,0 +1,41 @@
+{
+  "pmid": "34734143",
+  "title": "Surgical repair of lumbar stress fractures in professional cricketers .",
+  "year": "2021",
+  "journal": "Journal of spine surgery (Hong Kong)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Professional cricket fast bowlers sustain high rates of lumbar stress fractures (spondylolysis). Limited research exists around the success of surgical repair when these injuries fail conservative treatment. We present an ambispective cohort study of spondylolysis surgical repair in a consecutive group of multi-national professional cricket fast bowler using a technique not previously reported in this unique sporting group."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between 2004 and 2019, a consecutive series of male professional fast bowlers with lumbar spondylolysis who had repeatedly failed conservative treatment and subsequently received surgical repair using a cable-screw construct were reviewed. Analysis comprised of ambispective outcome and radiological data collection and a survey at final follow-up."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The cohort included 13 elite (7 state and 6 international) cricket fast bowlers from 3 countries (New Zealand, Australian and India) with an average age of 26 years (range, 20.3-29.5 years). All returned to play professional cricket at a median time of 8 months (IQR, 7-11 months) post surgery. All ten players surveyed at final follow-up [median, 38 (IQR, 31-103) months, range, 15-197 months] rated their bowling performance as the 'same or better' compared with prior to surgery. At final follow-up, 10 players continue to play cricket professionally ranging from 15 to 107 months post-surgery [median 35 (IQR, 24-43) months]."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Our cohort demonstrated favorable return to play rates and career longevity following surgical repair of spondylolysis. To our knowledge it is the largest published surgical series of spondylolysis repair in cricketers, and the first to document the success of a cable-screw surgical technique in this sporting group."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "All returned to play professional cricket at a median time of 8 months (IQR, 7-11 months) post surgery."
+    }
+  ],
+  "pmcid": "8511568",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "The cohort included 13 elite (7 state and 6 international) cricket fast bowlers from 3 countries (New Zealand, Australian and India) with an average age of 26 years (range, 20.3–29.5 years). All returned to play professional cricket at a median time of 8 months (IQR, 7–11 months) post surgery. All ten players surveyed at final follow-up [median, 38 (IQR, 31–103) months, range, 15–197 months] rated their bowling performance as the ‘same or better’ compared with prior to surgery. At final follow-up, 10 players continue to play cricket professionally ranging from 15 to 107 months post-surgery [median 35 (IQR, 24–43) months]."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "34836488",
+  "title": "A scoping review of postoperative return to sport criteria and protocols for patients with femoroacetabular impingement syndrome.",
+  "year": "2023",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To identify the objective criteria and guidelines utilized to determine if patients diagnosed with FAIS can safely return to sport following hip arthroscopy."
+    },
+    {
+      "label": "METHODS",
+      "text": "The electronic databases MEDLINE Ovid, EMBASE Ovid, and CINAHL were searched to identify eligible studies. Details of study design, sample size, primary diagnosis, and return to sport protocol, duration, and rate were collected by two reviewers, independently."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Sixty-two studies were selected for full text review of which 14 were included in the final analysis. Of these, nine were clinical commentaries and five were retrospective cohort studies. Three types of rehabilitation guidelines are currently utilized postoperatively: 4-phase, 5-phase, and 6-phase protocols. Although all 14 studies recommend using various types of outcome measures to evaluate a patient's ability to return to sport, only eleven outlined the specific outcome criteria they must achieve to do so. The most utilized outcome measures are the hip outcome score, active and passive range of motion tests, gait analysis, single- and double-leg squat tests, and the Vail hip sports test. Criteria across all three types of protocols was variable, but they all evaluated the same international classification of disability and function constructs described by the World Health Organization: body function, body structure limitations, and activity capacity limitations."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "There is no consensus on the optimal methods of evaluating a patient's readiness to return to sport after undergoing hip arthroscopy, with most criteria focused on expert opinion. Performance-based return to sport outcome criteria is not clearly defined, and validated outcome measures are not being used for FAIS patients post hip arthroscopy. Lastly, well-conducted prospective cohort studies using validated outcome measures and objective definitions of return to sport are needed to consistently identify signs that are prognostic of safe return to sport."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

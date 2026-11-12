@@ -1,0 +1,32 @@
+{
+  "pmid": "31287023",
+  "title": "A novel kartogenin-platelet-rich plasma gel enhances chondrogenesis of bone marrow mesenchymal stem cells in vitro and promotes wounded meniscus healing in vivo.",
+  "year": "2019",
+  "journal": "Stem cell research & therapy",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The meniscus tear is one of the most common knee injuries particularly seen in athletes and aging populations. Subchondral bone sclerosis, irreparable joint damage, and the early onset of osteoarthritis make the injured meniscus heal difficultly."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study was performed by in vitro and in vivo experiments. The in vitro experiments were carried out using the bone marrow stem cells (BMSCs) isolated from the rabbits, and the stemness of the BMSCs was tested by immunostaining. The BMSCs positively expressed stem cell markers were cultured with various concentrations of kartogenin (KGN) for 2 weeks. The chondrogenesis of BMSCs induced by KGN was examined by histochemical staining and quantitative RT-PCR. The in vivo experiments were completed by a rabbit model. Three holes were created in each meniscus by a biopsy punch. The rabbits were treated with four different conditions in each group. Group 1 was treated with 20 μl of saline (saline); group 2 was treated with 5 μl of 100 μM KGN and 15 μl saline (KGN); group 3 was treated with 5 μl of 100 μM KGN, 5 μl of 10,000 U/ ml thrombin, and 10 μl of PRP (KGN+PRP); group 4 was treated with 10,000 BMSCs in 10 μl of PRP, 5 μl of saline solution, and 5 μl of 10,000 U/ml thrombin (PRP+BMSC); group 5 was treated with 10,000 BMSCs in 10 μl of PRP, 5 μl of 100 μM KGN, and 5 μl of 10,000 U/ml thrombin (KGN+PRP+BMSC). The menisci were collected at day 90 post-surgery for gross inspection and histochemical analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The histochemical staining showed that KGN induced chondrogenesis of BMSCs in a concentration-dependent manner. The RT-PCR results indicated that chondrocyte-related genes were also increased in the BMSCs cultured with KGN in a dose-dependent manner. The in vivo results showed that large unhealed wound areas were still found in the wounds treated with saline and KGN groups. The wounds treated with BMSCs-containing PRP gel healed much faster than the wounds treated without BMSCs. Furthermore, the wounds treated with BMSCs-containing KGN-PRP gel have healed completely and formed more cartilage-like tissues than the wounds treated with BMSCs-containing PRP gel."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "BMSCs could be differentiated into chondrocytes when they were cultured with KGN-PRP gel in vitro and formed more cartilage-like tissues in the wounded rabbit meniscus when the wounds were treated with BMSCs-containing KGN-PRP gel. The results indicated that the BMSCs-containing KGN-PRP gel is a good substitute for injured meniscus repair and regeneration."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

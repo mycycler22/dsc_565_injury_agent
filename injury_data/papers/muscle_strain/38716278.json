@@ -1,0 +1,31 @@
+{
+  "pmid": "38716278",
+  "title": "Yoga, a mindfulness therapy to prevent PTSD as to encompass athletes' performance.",
+  "year": "2024",
+  "journal": "Frontiers in psychology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Yoga is one of the physical and mental activities used in elite sports training for risk prevention and medical rehabilitation in case of injuries caused by overtraining or accidents. This study examined the opinions of Romanian elite athletes and coaches on the feasibility of incorporating yoga practice into training regimens for purposes of injury prevention and medical recovery."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study surveyed a group of 500 athletes, coaches, and medical personnel from three universities in Romania, all of which are part of the Faculty of Physical Education and Sport (PES). An online survey was administered which evaluates athletes' experience of yoga integration in pre/post training and its positive effects on reducing posttraumatic stress disorder (PTSD). The data were then analyzed with a structural equation model utilizing SmartPLS software."
+    },
+    {
+      "label": "RESULTS",
+      "text": "According to the survey, Romanian athletes use yoga both before and after competitions to improve their focus, balance, muscle, and joint elasticity, foster a winning mindset, control their emotions and PTSD, visualize their competition performance, and see themselves as winners. The survey also found that yoga is seen as useful for cardiac rehabilitation, neuropathic pain, pulmonary disease, orthopedic illness, muscle strain, and managing symptoms of Posttraumatic Stress Disorder (PTSD)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This study contributes to enhancing athletes' mindfulness and health, offering valuable insights to trainers and athletes interested in incorporating yoga into professional sports activity. The results support the notion that yoga integration in training activity promises to positively influence athletes' performance and reduce collateral side effects of competitions. The results are also in line with the objectives of the Global Action Plan on Physical Activity 2018-2030 (GAPPPA) - with the theme of \"being more efficient to prevent than to treat\" - which places special emphasis on the demands for certain programs and services, sports coverage, and healthy workplace initiatives. The study further indicates that Romanian elite athletes and coaches support the use of yoga is an effective method for enhancing athletic training and medical therapy for post-traumatic illnesses and stress disorders."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

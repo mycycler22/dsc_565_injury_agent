@@ -1,0 +1,39 @@
+{
+  "pmid": "33553444",
+  "title": "Injuries in Collegiate Track and Field Jumping: A 2-Year Prospective Surveillance Study.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Athletes participating in track and field jumping events (long jump, triple jump, high jump, and pole vault) are exposed to ground-reaction forces on the takeoff leg that are several times their body weight. This can cause injuries specific to such activities."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the incidence of injuries in collegiate jumpers using the guidelines set forth by a 2014 consensus statement on injury surveillance during track and field events."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 51 jumpers between April 2016 and March 2017 and 54 jumpers between April 2017 and March 2018 participated in this study. All athletes were from a single college in Japan. Baseline information on athletes participating in the long jump, triple jump, high jump, and pole vault was collected at study enrollment. Practice and competition exposures were reported by the team trainer. Injury incidence was calculated as the number of injuries per 1000 athlete-exposures (AEs)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 147 injuries were reported among 16,998 exposures (8.65 injuries per 1000 AEs). The most common injury locations were the posterior thigh and lateral ankle (17.0%), followed by the posterior foot or toe (12.9%); the most frequent type of injury was strain/muscle rupture/tear (21.1%). The most common injury for long jumpers was ankle sprain (23.3%); for high jumpers, flexor hallucis longus tendinosis (15.8%); and for pole vaulters, hamstring strain (13.2%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The overall characteristics are different for each event; therefore, injuries for each event need to be investigated."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

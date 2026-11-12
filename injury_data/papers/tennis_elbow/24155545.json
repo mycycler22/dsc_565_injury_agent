@@ -1,0 +1,31 @@
+{
+  "pmid": "24155545",
+  "title": "Low level laser therapy for sports injuries.",
+  "year": "2013",
+  "journal": "Laser therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND AIMS",
+      "text": "Our hospital has used LLLT in the treatment of athletes since 1990. We had a good result about LLLT for sports injuries. However, few articles have attempted to evaluate the efficacy of LLLT for sports injuries. The aims of this study was to evaluate the efficacy of LLLT for sports injuries. Materials (Subjects) and Methods: Forty one patients underwent LLLT in our hospital. These patients included 22 men and 19 women with an average age of 38.9 years old. Patients were irradiated by diode laser at points of pain and/or acupuncture points. Patients underwent LLLT a maximum treatment of 10 times (mean 4.1 times). We evaluated the efficacy of LLLT using a Pain relief score (PRS). A score of 2 to 5 after treatment was regarded as very good, 6 to 8 as good, and 9 to 10 as poor. A PRS score of less than 5 was regarded as effective."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The rate of effectiveness (PRS of 5 or less) after LLLT was 65.9% (27/41 patients)."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "In this study, the resulting rate of effectiveness was 65.9% for all sports injuries. However, we have a high rate of effectiveness for Jumper's knee, tennis elbow and Achilles tendinitis and cases that were irradiated laser by a physician."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "LLLT is an effective treatment for sports injuries, particularly jumper's knee, tennis elbow and Achilles tendinitis."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

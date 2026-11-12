@@ -1,0 +1,39 @@
+{
+  "pmid": "38159640",
+  "title": "Clinical outcomes, return to sport, and complications after isolated primary Latarjet versus Latarjet as a revision procedure: A systematic review and meta-analysis.",
+  "year": "2024",
+  "journal": "Orthopaedics & traumatology, surgery & research : OTSR",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Comparative Study",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The purpose of this review was to compare clinical outcomes, return to sport (RTS), and complications in comparative studies examining patients undergoing primary Latarjet procedure versus Latarjet in the revision setting following soft tissue stabilization."
+    },
+    {
+      "label": "METHODS",
+      "text": "A literature search was conducted using PubMed and Scopus databases using Preferred Reporting Items for Systematic Meta-Analyses guidelines. Inclusion criteria consisted of level I to III human clinical studies reporting clinical outcomes (Visual Analogue Pain Scale [VAS]), RTS metrics, and complications in patients following primary versus revision Latarjet procedures. Study quality was assessed using the Methodological Index for Non-Randomized Studies (MINORS) criteria."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of seven studies, consisting of 1170 patients (n=1179 shoulders) with a mean age of 26.4 years, consisting of 91.9% males (n=1083/1179 shoulders), were identified. Mean final follow-up was 46.4 (mean range, 7.3-72.2) months. A total of 748 primary and 431 revision Latarjet procedures were analyzed. Complications were reported in 9.6% (range, 0%-24.2%) of patients undergoing primary and 20.2% (range, 0%-40.7%) in patients undergoing revision procedures (p=0.22). There was no significant difference in the RTS rate between patients undergoing primary (87.3%; range, 83.8%-92.1%) versus Latarjet as a revision procedure (78.9%; range, 60%-100%) (p=0.08). Moreover, no significant difference in postoperative VAS was observed in patients undergoing primary versus Latarjet as a revision procedure (p=0.21). Recurrent shoulder subluxation was significantly greater in patients undergoing revision (12.0%; n=31/259 shoulders; range, 0%-20.7%) compared to primary procedures (3.3%; n=27/511 shoulders; range, 0%-9%) (p<0.001)."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Patients undergoing primary and revision Latarjet demonstrated overall similar rates of complications and return to sport. Of clinical importance, Latarjet as a revision procedure possessed a risk of recurrent subluxation 3.6 times higher than primary Latarjet. While effective, patients should be counseled regarding the differing prognosis between Latarjet as a primary or revision procedure."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III; Systematic review and meta-analysis."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

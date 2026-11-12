@@ -1,0 +1,19 @@
+{
+  "pmid": "40757553",
+  "title": "Predicting Injury in Collegiate Baseball and Softball Athletes Using Functional Testing: A Pilot Study.",
+  "year": "2025",
+  "journal": "Muscles (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Non-contact injuries are common in collegiate throwing athletes. Identifying musculoskeletal issues that predispose athletes to injuries would be valuable for reducing the associated risk. The purpose of this pilot study was to use binomial logistic regression to identify injury-prone athletes with multiple pre-season functional measures and demographic information. Eighteen Division II baseball and softball athletes underwent pre-season functional testing including measures of manual muscle testing of the dominant shoulder muscles (MMT), the functional movement screen (FMS), and closed kinetic chain upper extremity stability (CKCUES). A certified athletic trainer at the university diagnosed and documented the injuries that these athletes sustained over the course of the season. Binomial logistic regression models were used to assess the effects of FMS composite score, CKCUES normative score, MMT scores, and demographic information on the likelihood that participants would sustain (a) any type of injury and (b) a shoulder injury during the competitive season. The model for injury was not significant (<i>p</i> = 0.822), correctly classifying 72.2% of cases. The model for shoulder injury was significant (<i>p</i> = 0.039) and correctly classified 100% of cases. These results suggest that shoulder injury incidence may potentially be predicted using sport-specific movement tests in baseball and softball athletes. A larger sample size is needed to verify these results in the future."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

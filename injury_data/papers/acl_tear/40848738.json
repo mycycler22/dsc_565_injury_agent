@@ -1,0 +1,36 @@
+{
+  "pmid": "40848738",
+  "title": "Twelve-month magnetic resonance imaging after anterior cruciate ligament reconstruction can identify risk factors for subsequent graft rupture and used to guide the return to sport. Results from a high-volume institution.",
+  "year": "2025",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Retear after anterior cruciate ligament reconstruction (ACLR) has been reported between 6% and 31% of cases, resulting in worse outcomes and increased risk of post-traumatic osteoarthritis. This study investigated whether postoperative magnetic resonance imaging (MRI) assessment, clinical outcomes, and return-to-sport test findings can help identify patients at higher risk of early graft retear."
+    },
+    {
+      "label": "METHODS",
+      "text": "Retrospective analysis of 430 patients who underwent primary ACLR using hamstring autograft between 2017 and 2022, with a minimum follow-up of 12 months. Baseline characteristics, intraoperative, and postoperative information were collected. Graft signal, tunnel widening and positioning were assessed through a 12-month MRI. Patients who experienced early graft retear were compared with a matched cohort with a ratio of 1:4. Continuous variables were compared. Logistic regression and analysis of variance were used to identify risk factors and association with retear. p values ​< ​0.05 were considered significant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 346 patients who met the inclusion/exclusion criteria, 19 experienced a graft rupture (5.4 ​%) after the 12-months follow-up. Of those, six patients were excluded due to missing postoperative 1-year MRI. Overall, 13 patients were included in the retear group and compared with 50 matched patients. The mean follow-up was 23.6 ​± ​4.2 months (range, 18-36 months). The 12-month MRI showed a greater signal-to-noise quotient (SNQ) in case of retear (2.93 vs 2.02; p ​= ​0.029). The analysis of variance showed a positive interaction between graft signal and retear (analysis of variance [ANOVA], p ​= ​0.028). Tunnel positioning was comparable between the groups, and not associated with retear. Similarly, tibial and femoral tunnel widening were comparable between the two groups and not associated with graft retear (ANOVA, p ​= ​0.733 and p ​= ​0.190). A greater proportion of patients had an anterior knee laxity >2 ​mm at one year in the retear group (83.3% vs 38.8 ​%, p ​= ​0.058). However, mean laxity was comparable (2.55 ​mm vs 1.35 ​mm; p ​= ​0.189). No differences were noted for clinical scores and return-to-sport testing."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Higher graft signal on MRI at 12 months, indicating poorer graft healing, is associated with early anterior cruciate ligament retear. Resonance imaging after ACLR could be used to guide the follow-up management. Further research is required to confirm these preliminary findings. LEVEL OF EVIDENCE Ⅲ: Retrospective comparative study."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "CONCLUSION",
+      "sentence": "Higher graft signal on MRI at 12 months, indicating poorer graft healing, is associated with early anterior cruciate ligament retear."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

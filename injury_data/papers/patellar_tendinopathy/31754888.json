@@ -1,0 +1,31 @@
+{
+  "pmid": "31754888",
+  "title": "Application of shear wave elastography and B-mode ultrasound in patellar tendinopathy after extracorporeal shockwave therapy.",
+  "year": "2020",
+  "journal": "Journal of medical ultrasonics (2001)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study was to investigate changes in morphological and elastic properties, as estimated by B-mode ultrasound (B-US) and shear wave elastography (SWE), in volleyball athletes with patellar tendinopathy (PT) and changes after extracorporeal shockwave therapy (ESWT) as well as their relationships with US measurements and Victorian Institute of Sport Assessment-Patella (VISA-P) scores in PT."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twelve healthy athletes (24 patellar tendons) and 31 volleyball athletes with PT (48 tendons) were included. All were examined by US and received VISA-P scores before the start of the study. The athletes received 3 months of ESWT and underwent US and VISA-P at 1 month and 3 months. VISA-P scores were used to evaluate therapeutic efficacy. Tendon thickness and cross-sectional area (CSA) were detected by B-US, and the elastic modulus was measured by SWE. Correlations between VISA-P and US measurements were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thickness, CSA, and elastic modulus of the patellar tendon in PT were higher than those in healthy athletes (P < 0.000). In PT with ESWT, VISA-P scores decreased by 22.1% (P < 0.000) and thickness decreased by 11.2% relative to baseline (P < 0.000). CSA decreased by 1.4% (P < 0.000). The elastic modulus decreased by 15.2% (P < 0.000). Elastic modulus, thickness, and CSA had significant negative correlations with VISA-P scores (P ≤ 0.005), with a stronger correlation between elastic modulus and VISA-P."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes with PT had stiffer and larger tendons than healthy athletes. SWE combined with B-US could clearly show the changes in tendon thickness, CSA, stiffness in PT, and changes after treatment. SWE combined with B-US provided visualization with quantitative, reproducible, and noninvasive imaging in the follow-up evaluation of PT and is worth promoting clinically."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

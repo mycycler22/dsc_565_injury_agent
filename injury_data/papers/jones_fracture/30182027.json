@@ -1,0 +1,39 @@
+{
+  "pmid": "30182027",
+  "title": "Jones Fractures Identified at the National Football League Scouting Combine: Assessment of Prognostic Factors, Computed Tomography Findings, and Initial Career Performance.",
+  "year": "2018",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Jones fractures result in subsequent dysfunction and remain an issue for athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To (1) describe the epidemiology, treatment, and impact of Jones fractures identified at the National Football League (NFL) Scouting Combine on players' early careers and (2) establish the value of computed tomography (CT) to determine bony healing after a fracture in prospective players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "All players who attended the combine between 2009 and 2015 were retrospectively reviewed to identify their history of Jones fractures. The playing position, treatment method, and number of missed collegiate games were recorded. The mean overall draft pick number, number of games started and played, snap percentage, and position-specific performance scores (fantasy score) over the first 2 years in the NFL were compared between players with fractures and controls. An imaging classification system was applied based on grading of each quadrant of the fifth metatarsal (plantar, dorsal, medial, lateral), with a score of 0 for not healed or 1 for healed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, the number of Jones fractures identified was 72 in 2285 athletes (3.2%), with all treated via intramedullary screw fixation. The mean overall draft pick number for players with fractures was 111.2 ± 67.9 compared with 99.0 ± 65.9 for controls (<i>P</i> = .12). Performance scores for players with fractures were lower than those for controls across all positions, with a significant difference in running backs (2.6 vs 4.0, respectively; <i>P</i> < .001) and defensive linemen (1.4 vs 2.3, respectively; <i>P</i> = .02). The mean CT score was 2.5 ± 1.3. Of the 32 athletes who underwent imaging, 16 Jones fractures (50.0%) were healed or nearly healed, 12 (37.5%) were partially healed, and 4 (12.5%) showed little or no healing. The plantar cortex demonstrated the least healing (18/32; 56.3%), followed by the lateral cortex (15/32; 46.9%). Players with a mean score <1 were found to have fewer games started (2.7 ± 2.5) than those with 1 to 3 cortices healed (17.4 ± 10.4) or all cortices healed (8.7 ± 11.2)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Based on CT, 50% of all players with a previous Jones fracture demonstrated incomplete healing. Moreover, position-specific performance scores over the first 2 years of a player's career were lower across all positions for those with fractures compared with controls. Players with CT scores <1 were found to start fewer games and were drafted later than controls."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

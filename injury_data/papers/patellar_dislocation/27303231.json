@@ -1,0 +1,28 @@
+{
+  "pmid": "27303231",
+  "title": "Irreducible Lateral Patellar Dislocation: A Case Report and Literature Review.",
+  "year": "2016",
+  "journal": "Ochsner journal",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Acute patellar dislocation is a common injury in young people, especially in adolescent females and athletes. Lateral dislocation is the most common form of patellar dislocation and often reduces spontaneously or with simple manipulation and closed reduction. We report a rare circumstance in which the patella was irreducible and required manipulation and closed reduction in the operating room."
+    },
+    {
+      "label": "CASE REPORT",
+      "text": "While dancing, a 32-year-old female was knocked by a fellow dancer on her left knee, and she fell to the nightclub floor. She was unable to stand or bear weight because of the pain, and her knee was in fixed flexion with lateral displacement of the patella. Multiple attempts at closed reduction under sedation failed in the emergency department. Computed tomography (CT) images revealed a medial border patellar fracture and lipohemarthrosis that required closed reduction and manipulation in the operating room. The patient was placed in a Richards splint for follow-up and referred to a physiotherapist for conservative management."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This case highlights the fact that some lateral patellar dislocations are irreducible on initial attempts, particularly if a fracture is present or another mechanism of impingement impedes relocation. CT imaging is a valuable diagnostic tool, and manipulation under anesthesia or open reduction in the operating room may be necessary. Our review of the literature further highlights the complexity and potential problems associated with treatment of locked lateral patellar dislocations."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

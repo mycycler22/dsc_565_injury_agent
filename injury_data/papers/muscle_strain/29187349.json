@@ -1,0 +1,45 @@
+{
+  "pmid": "29187349",
+  "title": "Isokinetic strength assessment offers limited predictive validity for detecting risk of future hamstring strain in sport: a systematic review and meta-analysis.",
+  "year": "2018",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To examine the value of isokinetic strength assessment for predicting risk of hamstring strain injury, and to direct future research into hamstring strain injuries."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Database searches for Medline, CINAHL, Embase, AMED, AUSPORT, SPORTDiscus, PEDro and Cochrane Library from inception to April 2017. Manual reference checks, ahead-of-press and citation tracking."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA FOR SELECTING STUDIES",
+      "text": "Prospective studies evaluating isokinetic hamstrings, quadriceps and hip extensor strength testing as a risk factor for occurrence of hamstring muscle strain."
+    },
+    {
+      "label": "METHODS",
+      "text": "Independent search result screening. Risk of bias assessment by independent reviewers using Quality in Prognosis Studies tool. Best evidence synthesis and meta-analyses of standardised mean difference (SMD)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twelve studies were included, capturing 508 hamstring strain injuries in 2912 athletes. Isokinetic knee flexor, knee extensor and hip extensor outputs were examined at angular velocities ranging 30-300°/s, concentric or eccentric, and relative (Nm/kg) or absolute (Nm) measures. Strength ratios ranged between 30°/s and 300°/s. Meta-analyses revealed a small, significant predictive effect for absolute (SMD=-0.16, P=0.04, 95% CI -0.31 to -0.01) and relative (SMD=-0.17, P=0.03, 95% CI -0.33 to -0.014) eccentric knee flexor strength (60°/s). No other testing speed or strength ratio showed statistical association. Best evidence synthesis found over half of all variables had moderate or strong evidence for no association with future hamstring injury."
+    },
+    {
+      "label": "SUMMARY/CONCLUSION",
+      "text": "Despite an isolated finding for eccentric knee flexor strength at slow speeds, the role and application of isokinetic assessment for predicting hamstring strain risk should be reconsidered, particularly given costs and specialised training required."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "31106221",
+  "title": "Return to Sport After the Surgical Treatment of Superior Labrum Anterior to Posterior Tears: A Systematic Review.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Controversy exists as to the optimal treatment of superior labrum anterior to posterior (SLAP) tears in athletes. There are no systematic reviews evaluating return-to-sport (RTS) rates after arthroscopic SLAP repair and biceps tenodesis."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare the overall RTS rates in patients with primary type 2 SLAP tears who were managed with arthroscopic SLAP repair versus biceps tenodesis."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A review was performed according to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines by searching the MEDLINE (PubMed), Embase (Elsevier), and Cochrane Library databases. Inclusion criteria were clinical studies that evaluated RTS rates after arthroscopic SLAP repair, arthroscopic SLAP repair with partial rotator cuff debridement, and biceps tenodesis. The studies were analyzed for quality and inclusion in the final analysis. Data relevant to RTS rates were then extracted and compiled, and outcomes were compared."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 337 studies initially identified, 15 (501 patient-athletes) met inclusion criteria. These consisted of 195 patients who underwent isolated arthroscopic SLAP repair (mean age, 31 years; mean follow-up, 3.2 years), 222 patients who underwent arthroscopic SLAP repair with partial rotator cuff debridement (mean age, 22 years; mean follow-up, 5.1 years), and 84 patients who underwent biceps tenodesis (mean age, 42 years; mean follow-up, 3.3 years). The overall RTS rates were high for all 3 procedures (SLAP repair, 79.5%; SLAP repair with rotator cuff debridement, 76.6%; biceps tenodesis, 84.5%), with biceps tenodesis having the highest overall rate. Biceps tenodesis also had the highest RTS rate at the preinjury level (78.6%) compared with SLAP repair (63.6%) and SLAP repair with rotator cuff debridement (66.7%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Primary arthroscopic SLAP repair, arthroscopic SLAP repair with partial rotator cuff debridement, and biceps tenodesis all provide high RTS rates. Biceps tenodesis as an operative treatment of primary SLAP lesions may demonstrate an overall higher RTS rate when compared with traditional SLAP repair in older athletes. More, higher level studies are needed that control for age, level of activity, and type of sport (overhead vs nonoverhead) to determine the efficacy of biceps tenodesis as a primary alternative to arthroscopic SLAP repair in young athletes who present with type 2 SLAP tears."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

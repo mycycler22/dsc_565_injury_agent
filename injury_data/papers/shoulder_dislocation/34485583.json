@@ -1,0 +1,39 @@
+{
+  "pmid": "34485583",
+  "title": "Arthroscopic Bankart Repair Versus Open Latarjet for First-Time Dislocators in Athletes.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In athletes with a first-time shoulder dislocation, arthroscopic Bankart repair (ABR) and the open Latarjet procedure (OL) are the most commonly utilized surgical procedures to restore stability and allow them to return to play (RTP)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare the outcomes of ABR and OL in athletes with a first-time shoulder dislocation."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "We performed a retrospective review of patients with first-time shoulder dislocation who underwent primary ABR and OL and had a minimum 24-month follow-up. Indications for OL over ABR in this population were those considered at high risk for recurrence, including patients with glenohumeral bone loss. Patients who underwent ABR were pair-matched in a 2:1 ratio with patients who underwent OL by age, sex, sport, and level of preoperative play. The rate, level, and timing of RTP, as well as the Shoulder Instability-Return to Sport after Injury (SIRSI) score were evaluated. Additionally, we compared recurrence, visual analog scale pain score, Subjective Shoulder Value, Rowe score, satisfaction, and whether patients would undergo the surgery again."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Overall, 80 athletes who underwent ABR and 40 who underwent OL were included, with a mean follow-up of 50.3 months. There was no significant difference between ABR and OL in rate of RTP, return to preinjury level, time to return, or recurrent dislocation rate. There were also no differences between ABR and OL in patient-reported outcome scores or patient satisfaction. When collision athletes were compared between ABR and OL, there were no differences in RTP, SIRSI score, or redislocation rate."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "ABR and OL resulted in excellent clinical outcomes, with high rates of RTP and low recurrence rates. Additionally, there were no differences between the procedures in athletes participating in collision sports."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

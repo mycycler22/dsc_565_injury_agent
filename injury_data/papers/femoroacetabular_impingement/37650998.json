@@ -1,0 +1,24 @@
+{
+  "pmid": "37650998",
+  "title": "Non-operative Management and Outcomes of Femoroacetabular Impingement Syndrome.",
+  "year": "2023",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To serve as a guide for non-operative physicians in the management of femoroacetabular impingement syndrome and provide an algorithm as to when to refer patients for potential surgical management."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Supervised physical therapy programs that focus on active strengthening and core strengthening are more effective than unsupervised, passive, and non-core-focused programs. There is promising evidence for the use of intra-articular hyaluronic acid and PRP as adjunct treatment options. Recent systematic reviews and meta-analyses have found that in young active patients, hip arthroscopy demonstrates improved short-term outcomes over physical therapy. The decision for the management of FAIS is complex and should be specific to each patient. Consideration of the patient's age, timing to return to sport, longevity of treatment, hip morphology, and degree of cartilage degeneration is required to make an informed decision in the treatment of these patients."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

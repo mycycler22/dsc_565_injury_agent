@@ -1,0 +1,55 @@
+Title: Return to Sport After Acromioclavicular Injury: A Systematic Review of Modifiable Factors. | Type: Journal Article, Review | PMID: 41227052 | Year: 2025 | Injury query: shoulder injury
+[UNLABELED] The overall mean RTS time was 125.0 ± 63.05 days (4.5 months).
+[UNLABELED] Non-operative treatment was associated with faster RTS (52 days [95% CI, 47-58]) compared with operative management (127 days [95% CI, 114-140]).
+[UNLABELED] Rehabilitation timing was also influential: protocols initiating strengthening within 6 weeks were associated with faster RTS (93 vs. 132 days) and higher pre-injury RTS rates (86.8% vs. 72.7%). <b>Conclusions:</b> Most athletes return to sport after ACJ injury, with high RTS rates across treatment approaches.
+[FULLTEXT: 3.3. Return to Sport] The overall rate of RTS was 90.8% (95% CI: 88.4–92.8), with 87.7% (95% CI: 84.1–90.7) of athletes returning to their pre-injury level of play. The overall mean RTS time was 125.0 ± 63.05 days (95% CI: 116.8–133.2), or 4.46 months, across all studies, which included all treatment modalities. Definitions of RTS varied across studies and were based on differing criteria. To ensure transparency, a per-study summary of RTS definitions, criteria (time-based, functional, or clearance-based), and reported sport level has been included in the Supplementary Materials (Table S2).
+[FULLTEXT: 3.7. Time to Surgery] Time from injury to surgery was reported in 22 studies. Time to surgery was divided into an early surgery group, defined as receiving surgery within 21 days from injury, and a late surgery group that received surgery more than 21 days from injury. A total of 13 studies and 559 patients comprised the early surgery group, and there was a total of 9 studies and 239 patients for the late surgery group (Table 11). The early surgery group had a mean RTS time of 126.2 ± 35.1 days (95% CI: 123.1–129.3), with a RTS rate of 92.3% (95% CI: 89.1–94.7) and pre-injury level RTS rate of 84.1% (95% CI: 76.7–89.1). The late surgery group had a mean RTS time of 136.2 ± 47.8 days (95% CI: 128.3–144.1), with a RTS rate of 94.1% (95% CI: 90.2–96.5) and pre-injury level RTS rate of 68.9% (95% CI: 56.4–79.1). All RTS data summarized in Table 12, Table 13 and Table 14.
+[FULLTEXT: 4.4. Time to Surgery] The timing of surgical intervention appears to have an association with certain aspects of RTS after ACJ injury. In our analysis, early surgery (<21 days from injury) was associated with a shorter mean RTS time (126.2 vs. 136.2 days) and a higher rate of return to pre-injury level (84.1% vs. 68.9%) compared with delayed surgery, while overall RTS rates were similar between groups (92.3% vs. 94.1%). These findings suggest that although both early and late surgery allow for high rates of sport resumption, earlier intervention may optimize the likelihood of regaining pre-injury performance levels and reduce time away from competition. There are several potential explanations for the findings in our review. Early stabilization may prevent the development of chronic soft tissue changes such as ligamentous scarring, muscle atrophy, and adaptive scapular dyskinesia, which can complicate surgical reduction and rehabilitation if treatment is delayed [22]. Acute repair of the ACJ capsule, ligaments, and deltotrapezial fascia within three weeks of injury allows for biological healing of soft tissues, whereas chronic cases require graft augmentation due to irreversible soft tissue changes. Delayed reconstruction has been associated with greater technical difficulty due to loss of anatomic landmarks, retraction of the coracoclavicular ligaments, and need for more extensive graft augmentation, all of which may contribute to longer recovery and reduced functional restoration [23]. Prior clinical studies have yielded mixed results [24,25,26]. Hazra et al. [24] reported that surgery within 21 days produced superior clinical outcomes compared with delayed intervention for Rockwood type III and V injuries, though RTS rates remained high in both groups. In contrast, Ladermann et al. [26] found no difference in long-term outcomes between early and delayed surgery when modern combined coracoclavicular and AC ligament reconstructions were used, though their definition of “delayed” often extended far beyond three weeks, limiting direct comparison to our study. Collectively, these findings suggest that while contemporary techniques may mitigate the disadvantages of delayed surgery, early intervention may still confer advantages, particularly for athletes seeking earlier return to pre-injury level. Overall, RTS rates were high regardless of surgical timing, consistent with previous reviews [8,17]. However, the reduced likelihood of regaining pre-injury performance with delayed surgery highlights the potential benefit of early stabilization in competitive athletes and physically demanding populations. Shared decision making is essential to consider patient factors and desires to pursue the best decision possible. Future prospective studies with standardized RTS reporting and stratification by injury grade are needed to better define the role of surgical timing in optimizing sport-specific outcomes.
+[FULLTEXT: TABLE: Operative vs. Non-operative RTS Time.]  | Return to Sport (days) | Studies (n) | Patients (n) | 95% CI (days)
+Operative | 126.8 ± 35.0 | 13 | 525 | 123.8–129.8
+Non-Operative | 51.7 ± 25.3 | 3 | 118 | 47.1–56.3
+[FULLTEXT: TABLE: Operative vs. Non-operative RTS Rate.]  | Return to Sport (%) | Studies (n) | Patients (n/N) * | 95% CI (%)
+Operative | 91.3% | 18 | 559/613 | 88.7–93.2
+Non-Operative | 87.5% | 2 | 91/104 | 79.8–92.5
+[FULLTEXT: TABLE: Operative vs. Non-operative Pre-injury Level RTS Rate.]  | Pre-Injury Return to Sport (%) | Studies (n) | Patients (n/N) * | 95% CI (%)
+Operative | 81.2% | 7 | 168/207 | 75.3–86.0
+Non-Operative | NR | 3 ** | NR | Not Calculable
+[FULLTEXT: TABLE: Surgical Technique RTS Time.]  | Return to Sport (days) | Studies (n) | Patients (n) | 95% CI (days)
+Allograft | 129 ± 12.7 | 2 | 53 | 125.6–132.4
+No Allograft | 132.1 ± 39.5 | 12 | 512 | 128.7–135.5
+[FULLTEXT: TABLE: Surgical Technique RTS Rate.]  | Return to Sport (%) | Studies (n) | Patients (n/N) * | 95% CI (%)
+Allograft | 88.0% | 5 | 98/111 | 81.0–93.0
+No Allograft | 92.3% | 13 | 467/506 | 89.6–94.3
+[FULLTEXT: TABLE: Surgical Technique Pre-injury Level RTS Rate.]  | Pre-injury Return to Sport (%) | Studies (n) | Patients (n/N) * | 95% CI (%)
+Allograft | 84.2% | 1 | 16/19 | 62.4–94.5
+No Allograft | 78.9% | 5 | 140/178 | 72.1–84.0
+[FULLTEXT: TABLE: Time to Surgery.] Early Surgery (<21 Days from Injury)
+Patients (n) | 559
+Studies (n) | 13
+Late Surgery (>21 days from injury)
+Patients (n) | 239
+Studies (n) | 9
+[FULLTEXT: TABLE: Time to Surgery RTS Time.]  | Return to Sport (days) | Studies (n) | Patients (n) | 95% CI (days)
+Early Surgery | 126.2 ± 35.1 | 12 | 498 | 123.1–129.3
+Late Surgery | 136.2 ± 47.8 | 5 | 142 | 128.3–144.1
+[FULLTEXT: TABLE: Time to Surgery RTS Rate.]  | Return to Sport (%) | Studies (n) | Patients (n/N) * | 95% CI (%)
+Early Surgery | 92.3% | 10 | 325/352 | 89.1–94.7
+Late Surgery | 94.09% | 8 | 207/220 | 90.2–96.5
+[FULLTEXT: TABLE: Time to Surgery Pre-injury Level RTS Rate.]  | Pre-Injury Return to Sport (%) | Studies (n) | Patients (n/N) * | 95% CI (%)
+Early Surgery | 84.1% | 4 | 114/136 | 76.7–89.1
+Late Surgery | 68.9% | 2 | 42/61 | 56.4–79.1
+[FULLTEXT: TABLE: Rehabilitation Protocol.] Strengthening ≤ 6 Weeks from Injury
+Patients (n) | 307
+Studies (n) | 10
+Strengthening ≥ 6 weeks from injury
+Patients (n) | 665
+Studies (n) | 16
+[FULLTEXT: TABLE: Rehabilitation Protocol RTS Time.]  | Return to Sport (days) | Studies (n) | Patients (n) | 95% CI (days)
+Strengthening ≤ 6 weeks | 93.3 ± 53.8 | 8 | 246 | 86.6–100.0
+Strengthening ≥ 6 weeks | 132.4 ± 23.8 | 7 | 319 | 129.8–135.0
+[FULLTEXT: TABLE: Rehabilitation Protocol RTS Rate.]  | Return to Sport (%) | Studies (n) | Patients (n/N) * | 95% CI (%)
+Strengthening ≤ 6 weeks | 88.4% | 8 | 245/277 | 84.1–91.7
+Strengthening ≥ 6 weeks | 95.8% | 11 | 346/361 | 93.3–97.5
+[FULLTEXT: TABLE: Rehabilitation Protocol Pre-injury Level RTS Rate.]  | Pre-injury Return to Sport (%) | Studies (n) | Patients (n/N) * | 95% CI (%)
+Strengthening ≤ 6 weeks from injury | 86.8% | 3 | 66/76 | 77.4–92.7
+Strengthening ≥ 6 weeks from injury | 72.7% | 3 | 88/121 | 64.2–79.9

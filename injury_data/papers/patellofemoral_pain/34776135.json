@@ -1,0 +1,32 @@
+{
+  "pmid": "34776135",
+  "title": "Electromyographic comparison of vastus medialis obliquus facilitatory versus vastus lateralis inhibitory kinesio taping in athletes with patellofemoral pain: A randomized clinical trial.",
+  "year": "2021",
+  "journal": "Journal of bodywork and movement therapies",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellofemoral pain (PFP) is among the most common orthopedic complications afflicting active young people. Diminished coordination of the vastii, delayed activation of the vastus medialis obliquus (VMO), and decreased VMO-to-vastus lateralis (VL) activity ratio are well documented as underlying causes of PFP. This study compares the effects of VMO facilitatory kinesio tape (KT) versus VL inhibitory KT on electromyographic (EMG) activity of the vastii, balance, and pain in athletes with PFP."
+    },
+    {
+      "label": "METHODS",
+      "text": "In this single-blind randomized clinical trial, thirty-two female athletes with PFP (mean age 26.33 ± 5.93 years) were randomly assigned to VMO facilitatory KT (n = 16) or VL inhibitory KT (n = 16) groups. In the facilitatory group, a Y-shaped strip of KT at 25% of its available tension was attached from the origin of the VMO to its insertion and in the inhibitory group, an insertion-to-origin Y-shaped strip of KT at 15% of its available tension was applied on the VL. Pain intensity, dynamic balance, and EMG data were assessed respectively with a visual analogue scale, the modified Star Excursion Balance Test, and an EMG telemetry system, before and immediately after KT application."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Pain intensity decreased and dynamic balance improved significantly after taping in both groups, and VMO: VL activity ratio increased significantly in the VL group. However, none of the parameters differed significantly between groups."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Both VMO facilitatory and VL inhibitory KT can improve pain and balance, while the inhibitory technique might be more effective in regulating the VMO to VL activity ratio in athletes with PFP."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

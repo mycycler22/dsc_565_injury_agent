@@ -1,0 +1,46 @@
+{
+  "pmid": "27075962",
+  "title": "Hamstring strength and flexibility after hamstring strain injury: a systematic review and meta-analysis.",
+  "year": "2016",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To systematically review the evidence base related to hamstring strength and flexibility in previously injured hamstrings."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "A systematic literature search was conducted of PubMed, CINAHL, SPORTDiscus, Cochrane Library, Web of Science and EMBASE from inception to August 2015."
+    },
+    {
+      "label": "INCLUSION CRITERIA",
+      "text": "Full-text English articles which included studies which assessed at least one measure of hamstring strength or flexibility in men and women with prior hamstring strain injury within 24 months of the testing date."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-eight studies were included in the review. Previously injured legs demonstrated deficits across several variables. Lower isometric strength was found <7 days postinjury (d=-1.72), but this did not persist beyond 7 days after injury. The passive straight leg raise was restricted at multiple time points after injury (<10 days, d=-1.12; 10-20 days, d=-0.74; 20-30 days, d=-0.40), but not after 40-50 days postinjury. Deficits remained after return to play in isokinetically measured concentric (60°/s, d=-0.33) and Nordic eccentric knee flexor strength (d=-0.39). The conventional hamstring to quadricep strength ratios were also reduced well after return to play (60:60°/s, d=-0.32; 240:240°/s, d=-0.43) and functional (30:240°/s, d=-0.88), but these effects were inconsistent across measurement methods."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "After hamstring strain, acute isometric and passive straight leg raise deficits resolve within 20-50 days. Deficits in eccentric and concentric strength and strength ratios persist after return to play, but this effect was inconsistent across measurement methods. Flexibility and isometric strength should be monitored throughout rehabilitation, but dynamic strength should be assessed at and following return to play."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "After hamstring strain, acute isometric and passive straight leg raise deficits resolve within 20-50 days."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

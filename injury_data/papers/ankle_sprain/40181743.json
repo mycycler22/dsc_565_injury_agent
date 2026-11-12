@@ -1,0 +1,35 @@
+{
+  "pmid": "40181743",
+  "title": "Effectiveness of manual techniques, exercise therapy, or combined treatments in the management of ankle sprains or chronic ankle instability in adult athletes: a systematic review protocol.",
+  "year": "2025",
+  "journal": "JBI evidence synthesis",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The objective of this review will be to synthesize the evidence on the effectiveness of manual techniques, exercise therapy, or combined treatments in the management of ankle sprains and chronic ankle instability in adult athletes."
+    },
+    {
+      "label": "INTRODUCTION",
+      "text": "Acute ankle sprains and chronic ankle instability are common in athletes. These conditions can result in varying degrees of disability, including reduced athletic performance and time out of competition, which may have adverse psychological effects."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA",
+      "text": "The review will consider randomized controlled trials evaluating the effectiveness of manual techniques and/or exercise therapy for ankle sprain or chronic ankle instability in adult athletes. The comparators will include sham treatment, no treatment, and other conservative interventions. The outcomes of interest will be pain intensity, functional disability, ankle joint range of motion, ankle muscle strength, postural control, and subjective stability."
+    },
+    {
+      "label": "METHODS",
+      "text": "The review will follow the JBI methodology for systematic reviews of effectiveness. Searches will be conducted to locate published and unpublished studies in the following sources: MEDLINE (Ovid), CENTRAL (Ovid), Embase, SPORTDiscus (EBSCOhost), Physiotherapy Evidence Database (PEDro), Google Scholar, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP). Two independent reviewers will select the studies, critically appraise them, and extract data. Then, a narrative synthesis and, if appropriate, a meta-analysis will be performed. The certainty of findings will be determined using the GRADE approach."
+    },
+    {
+      "label": "REVIEW REGISTRATION",
+      "text": "PROSPERO CRD42023493687."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

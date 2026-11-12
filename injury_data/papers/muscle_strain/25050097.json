@@ -1,0 +1,35 @@
+{
+  "pmid": "25050097",
+  "title": "Corticosteroid and Anesthetic Injections for Muscle Strains and Ligament Sprains in the NFL.",
+  "year": "2014",
+  "journal": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Administering local anesthetic or corticosteroid injections in professional athletes to allow return to play is common but has traditionally been viewed as suspect and taboo. The skepticism surrounding therapeutic injections stems predominantly from anecdotal experience as opposed to scientific data."
+    },
+    {
+      "label": "QUESTIONS/PURPOSES",
+      "text": "The purpose of this paper is to evaluate the current use of corticosteroid injections for muscle strains and ligaments sprains in the National Football League to document player's ability to return to play and possible adverse effects."
+    },
+    {
+      "label": "PATIENTS AND METHODS",
+      "text": "Athletes from a single National Football League team who received at least one corticosteroid or anesthetic injection for either a muscle strain or ligament sprain during three consecutive seasons were retrospectively reviewed. Thirty-seven injections were given over the three seasons. Injections were either performed blindly or by using ultrasound guidance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twice as many defensive players were injected than offensive players. The average number of days of conservative treatment before injection was 6.5 days. All players returned to play after injection. There were no complications from any of the injections. Seventeen (55%) players did not miss a single game, and nine (30%) did not miss a single day. Quadriceps strains were associated with the most missed games (four) and the most missed days (36.5). Proximal hamstring strains were second with an average of three missed games and 28 missed days."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Corticosteroid injections are a safe and effective therapeutic intervention for treating muscle strains and ligament sprains in order to enable athletes to return to competition earlier."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

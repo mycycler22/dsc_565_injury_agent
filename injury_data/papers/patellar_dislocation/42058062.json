@@ -1,0 +1,39 @@
+{
+  "pmid": "42058062",
+  "title": "Relationship of Baseline Physical Activity and Morphologic Factors in Patients With Lateral Patellar Instability.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lateral patellar instability is more common in adolescents and young adults, and morphologic factors contribute to patellar dislocation. However, the relationship between baseline physical activity and morphologic risk factors in this population remains unclear."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the association between baseline physical activity and morphologic factors in patients with lateral patellar instability."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 111 knees of 75 patients (mean ± SD age, 20.4 ± 10.0 years) undergoing medial patellofemoral ligament reconstruction for lateral patellar instability were retrospectively analyzed. Patients were stratified into the competitive sports (n = 34), recreational sports (n = 18), and nonsports (n = 23) groups based on presymptom activity. Imaging parameters included trochlear depth (TD), Dejour classification and patellar height (Insall-Salvati ratio [ISR]) on preoperative lateral radiographs; congruence angle (CA), sulcus angle (SA), and tilt angle (TA) on Merchant view; and tibial tuberosity-trochlear groove (TT-TG) distance on preoperative computed tomography. To compare morphological parameters among the 3 groups, generalized estimating equations were used to account for within-patient clustering."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The nonsports group had a significantly higher mean age (<i>P</i> < .01). Bilateral knee surgeries were more frequent in competitive and nonsports groups (<i>P</i> = .04). Mean TD was 1.9 mm (95% CI, 1.4-2.3 mm) in the competitive group, 1.0 mm (0.3-1.6 mm) in the recreational group, and 1.1 mm (0.6-1.6 mm) in the nonsports group; TD was significantly higher in the competitive group than in the other groups (<i>P</i> = .02). Mean CA was 8.4° (7.3°-9.5°), 9.1° (7.8°-10.4°), and 6.8° (5.5°-8.0°), respectively, with a significant difference between the recreational and nonsports groups (<i>P</i> = .03). No group differences were observed for ISR, SA, TA, TT-TG, and Dejour classification."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Many competitive athletes demonstrated greater TD but nonetheless frequently underwent bilateral surgical procedures. Similarly, nonsports participants also showed a high rate of bilateral procedures, which may reflect more severe trochlear dysplasia rather than activity-related demand alone. These findings highlight the importance of considering both baseline activity level and trochlear morphology when determining surgical indications in young patients with lateral patellar instability."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

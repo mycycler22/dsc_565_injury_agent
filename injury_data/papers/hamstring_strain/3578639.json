@@ -1,0 +1,20 @@
+{
+  "pmid": "3578639",
+  "title": "Injuries in runners.",
+  "year": "1987",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Sixty runners belonging to two clubs were followed for 1 year with regard to training and injury. There were 55 injuries in 39 athletes. The injury rate per 1,000 hours of training was 2.5 in long-distance/marathon runners and 5.6 to 5.8 in sprinters and middle-distance runners. There were significant differences in the injury rate in different periods of the 12 month study, the highest rates occurring in spring and summer. In marathon runners there was a significant correlation between the injury rate during any 1 month and the distance covered during the preceding month (r = 0.59). In a retrospective analysis of the cause of injury, a training error alone or in combination with other factors was the most common injury-provoking factor (72%). The injury pattern varied among the three groups of runners: hamstring strain and tendinitis were most common in sprinters, backache and hip problems were most common in middle-distance runners, and foot problems were most common in marathon runners."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

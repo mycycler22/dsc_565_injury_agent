@@ -1,0 +1,24 @@
+{
+  "pmid": "30887284",
+  "title": "Treatment of Acute Sports-Related Concussion.",
+  "year": "2019",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Here, we summarize the current scientific literature on the management of sports-related concussion (SRC) in the acute period (< 6 weeks post-injury) with a focus on rest, return to learn, return to play, and emerging treatments."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "While relative rest is recommended for the first 24-48 h following acute SRC, the most recent guidelines highlight the lack of evidence for complete rest and in fact show that prolonged cognitive and physical rest can be detrimental. Gradual return to learn and play is recommended. Return to sport should only occur once the patient is symptom free. While there are no FDA-approved medications for acute treatment of concussion, there is preclinical data for the benefit of omega 3 fatty acids. Evidence is limited around the benefits of treating sleep disorders, vestibular-ocular dysfunction, and neck pain in the acute period. After 24-48 h of rest, SRC patients may gradually resume cognitive and physical activity. More research is needed to determine if any supplements, medications, and/or physical therapy are indicated in the management in acute SRC."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

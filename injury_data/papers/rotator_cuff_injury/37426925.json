@@ -1,0 +1,57 @@
+{
+  "pmid": "37426925",
+  "title": "Return to play after rotator cuff tear in National Football League athletes.",
+  "year": "2023",
+  "journal": "JSES international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Rotator cuff tears are rare injuries in National Football League (NFL) athletes and there are limited data to help guide players and team physicians. The purpose of this study was to assess return to play (RTP) rates, performance levels, and career length following a rotator cuff tear during their playing career."
+    },
+    {
+      "label": "METHODS",
+      "text": "Using publicly available data, we identified players who sustained a rotator cuff tear between 2000 and 2019. Demographic information, treatment (operative vs. nonoperative), RTP rate, preinjury and postinjury performance score, position, and career length were entered into the analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-nine athletes with a mean age of 27.4 years (±3.1) at the time of injury were included in this study. Forty-eight percent were offensive and 52% defensive players. 79.3% (23/29) were able to RTP at the same professional level for an average of 2.8 ± 3.4 years. The average time to RTP after injury was 198.4 ± 125.3 days. The average age of players who RTP was 26.7 ± 2.5 years compared to those who did not (30.3 ± 3.7, <i>P</i> = .02). Similarly, the preinjury NFL career length was 4.0 ± 2.2 in players who RTP compared to those who did not (7.5 ± 2.7, <i>P</i> = .01). Most injuries (82.2%) were treated surgically; however, there was no significant difference (<i>P</i> > .05) in RTP rates, performance score, or career longevity between operative and nonoperative cohorts."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Overall RTP rates for NFL athletes following a rotator cuff injury are promising with approximately 80% returning at the same performance level regardless of treatment type. Older, veteran players particularly those over the age of 30 were significantly less likely to RTP and should be counseled accordingly."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Forty-eight percent were offensive and 52% defensive players. 79.3% (23/29) were able to RTP at the same professional level for an average of 2.8 ± 3.4 years."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The average time to RTP after injury was 198.4 ± 125.3 days."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "The average age of players who RTP was 26.7 ± 2.5 years compared to those who did not (30.3 ± 3.7, <i>P</i> = .02)."
+    }
+  ],
+  "pmcid": "10328757",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Twenty-nine athletes with a mean age of 27.4 years (±3.1) at the time of injury were included in this study. Forty-eight percent were offensive and 52% defensive players. 79.3% (23/29) were able to RTP at the same professional level for an average of 2.8 ± 3.4 years. The average time to RTP after injury was 198.4 ± 125.3 days. The average age of players who RTP was 26.7 ± 2.5 years compared to those who did not (30.3 ± 3.7, P = .02). Similarly, the preinjury NFL career length was 4.0 ± 2.2 in players who RTP compared to those who did not (7.5 ± 2.7, P = .01). Most injuries (82.2%) were treated surgically; however, there was no significant difference (P > .05) in RTP rates, performance score, or career longevity between operative and nonoperative cohorts."
+    },
+    {
+      "section": "Results",
+      "text": "We identified 29 NFL players who suffered a rotator cuff tear between 2000 and 2019. Offensive and defensive positions were equally distributed among the athletes with 48% being offensive players and 52% being defensive player. Of the 14 defensive players, there were 5 defensive linemen, 4 linebackers, and 5 defensive backs. Of the 15 offensive players, there were 5 offensive linemen, 4 quarterbacks, 3 wide receivers, and 3 running backs. The average player age at the time of injury was 27.4 ± 3.1. Complete demographic data including age, BMI, and position are displayed in Table II.Table IICharacteristics of NFL players with a rotator cuff tear (operative vs. nonoperative).VariableOperative (n = 24)Nonoperative (n = 5)P valueCombined (n = 29)Age, y27.3 ± 3.427.8 ± 0.8.527.4 ± 3.1BMI32.0 ± 4.830.8 ± 2.4.9731.8 ± 4.4Position QB3 (12.5)1 (20)4 (13.8) WR3 (12.5)0 (0)3 (10.3) RB2 (8.3)1 (20)3 (10.3) OL5 (20.8)0 (0)5 (17.2) DL4 (16.7)1 (20)5 (17.2) LB3 (12.5)1 (20)4 (13.8) DB4 (16.7)1 (20)5 (17.2) RTP19 (79)4 (80).9723 (79)RTP time, d259.5 ± 61.40 ± 0.001198.4 ± 125.3Career length, games31.9 ± 48.958.2 ± 53.9.3236.6 ± 49.8Career length, y2.5 ± 3.34.2 ± 3.8.352.8 ± 3.4Performance score ratio∗1.0 ± 0.61.0 ± 0.8.971.0 ± 0.7Continuous variables are presented as mean ± SD. Categorical variables are presented as frequency (percentage).BMI, body mass index; DB, defensive back; DL, defensive linemen; LB, linebacker; NFL, National Football League; OL, offensive linemen; QB, quarterback; RB, running back; RTP, return to play; SD, standard deviation; WR, wide receiver.∗Calculated average PS, ratio do not include offensive line. Twenty-three players (23/29) were able to RTP after sustaining a rotator cuff tear (79%; 95% CI: 59.2%, 89.4%). The average time to RTP after injury was 198.4 ± 125.3 days. The average career length after injury was 36.6 ± 49.8 games over 2.8 ± 3.4 years. The average PS ratio for players that successfully RTP was 1.0 ± 0.7. There was a significant difference in the age of the players who returned to play vs. those who did not RTP. The average age of players who RTP was 26.7 ± 2.5 while the average age of players who did not RTP was 30.3 ± 3.7 (P = .02). Four of the 6 players who did not RTP were over the age of 30. This significant difference was also reflected in playing career length prior to injury, with older, veteran players less likely to RTP. The average years in the league prior to injury of players who RTP was 4.0 ± 2.2 while the average years in the league prior to injury of players who did not RTP was 7.5 ± 2.7 (P = .01) (Table III).Table IIICharacteristics of NFL players with a rotator cuff tear (RTP vs. no RTP).VariableRTP (n = 23)No RTP (n = 6)P valueAge, y26.7 ± 2.530.3 ± 3.7.02Years in league prior to injury4.0 ± 2.27.50 ± 2.74.01BMI31.6 ± 4.432.5 ± 5.1.85Operative19 (79)5 (80).97Nonoperative4 (21)1 (20)Continuous variables are presented as mean ± SD. Categorical variables are presented as frequency (percentage).BMI, body mass index; NFL, National Football League; RTP, return to play; SD, standard deviation. Twenty-four of the 29 athletes (82.2%) underwent operative treatment for their rotator cuff injury. Nineteen of those 24 (79%, 95% CI: 56.6%, 89.9%) successfully returned to play (Table II). The average age of players who underwent operative treatment was 27.3 ± 3.4. The average time to RTP after surgery was 259.5 ± 61.4 days. The average career length after surgery was 31.9 ± 48.9 games over 2.5 ± 3.3 years. The average PS ratio for players that successfully RTP after surgery was 1.0 ± 0.6. Seven of the 24 (29.2%) athletes underwent a trial of nonoperative management and were able to RTP immediately after their injury. All seven of these players were able to RTP after undergoing surgical intervention in the offseason. Five of the 29 (17.2%) athletes were treated definitively with nonoperative management and 80% (4/5) returned to play immediately after injury (95% CI: 37.6%, 96.4%). The average age of players who underwent nonoperative management was 27.8 ± 0.8. The average career length for these athletes was 58.2 ± 53.9 games over 4.2 ± 3.8 years. The average PS ratio for these athletes was 1.0 ± 0.8. Positions represented in the nonoperative cohort were quarterback, running back, defensive line, linebacker, and defensive back. There was no significant difference in RTP rates (P = .95), number of games played after injury (P = .32), number of years played after injury (P = .35), or in PS ratios (P = .97) between operative and nonoperative cohorts. Analysis by position demonstrated that linemen made up the largest subgroup representing 34.4% (10/29) of the entire cohort. When linemen were compared to all other position groups, there were no differences in RTP rates, number of games played after injury, number of seasons played after injury, or PS ratios. The only significant difference between linemen and other position groups was average BMI (Table IV).Table IVLinemen vs. all other positions.VariableLinemen (n = 10)All other positions (n = 19)P valueAge, y27.3 ± 3.027.5 ± 3.2.98BMI37.0 ± 2.829.1 ± 2.0.0001RTP rate8 (80)15 (79).95RTP time, d231.7 ± 123.2180.3 ± 128.5.35Career length, games34.8 ± 41.037.4 ± 54.5.89Career length, y2.6 ± 2.723.0 ± 3.8.96Performance score ratio1.2 ± 0.8∗1.0 ± 0.6.51Continuous variables are presented as mean ± SD. Categorical variables are presented as frequency (percentage).BMI, body mass index; RTP, return to play; SD, standard deviation.∗Calculated average PS, ratio do not include offensive line."
+    },
+    {
+      "section": "TABLE: Characteristics of NFL players with a rotator cuff tear (RTP vs. no RTP).",
+      "text": "Variable | RTP (n = 23) | No RTP (n = 6) | P value\nAge, y | 26.7 ± 2.5 | 30.3 ± 3.7 | .02\nYears in league prior to injury | 4.0 ± 2.2 | 7.50 ± 2.74 | .01\nBMI | 31.6 ± 4.4 | 32.5 ± 5.1 | .85\nOperative | 19 (79) | 5 (80) | .97\nNonoperative | 4 (21) | 1 (20)"
+    }
+  ]
+}

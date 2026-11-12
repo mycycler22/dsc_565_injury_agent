@@ -1,0 +1,36 @@
+{
+  "pmid": "35288295",
+  "title": "Return to play after ulnar collateral ligament reconstruction with concurrent posterior-compartment decompression.",
+  "year": "2022",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Medial ulnar collateral ligament (UCL) injuries and posterior elbow impingement commonly affect throwing athletes. Surgical intervention for each of these pathologies individually has been demonstrated to be successful with high return-to-play (RTP) rates. Our purpose was to report RTP rates for patients treated with concurrent UCL reconstruction (UCLR) and arthroscopic posterior débridement performed by the senior author."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "We retrospectively reviewed all elbow medial UCL procedures performed by the senior author from January 2016 through September 2020. The inclusion criteria included an elbow medial UCL operation with arthroscopic posterior-compartment débridement in a throwing athlete. The exclusion criteria included isolated UCLR surgery, non-primary surgery, and revision UCLR with either autograft or allograft. Using a chart review and publicly available information, we were able to determine patients' playing levels after their operations."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twelve patients met the inclusion and exclusion criteria. The average age was 24.27 years (standard deviation, 4.92 years). Of the 12 patients, 10 returned to play at the same level (4 Major League Baseball players and 1 Triple A player) or at a higher level (2 players from Single A to Double A, 1 player from National Collegiate Athletic Association Division I to Single A, 1 player from rookie league to Single A, and 1 player from high school to National Collegiate Athletic Association Division I), 1 did not return to play, and 1 returned to play at a lower level, with an average RTP time of 14.64 months (standard deviation, 2.64 months). Of the 12 patients, 11 were pitchers; of these 11 pitchers, 9 had statistics available both before and after UCLR. Before UCLR, the average statistics for the pitchers were as follows: earned run average, 4.11 ± 0.85; walks and hits per inning pitched, 1.42 ± 0.26; strikeout-to-walk ratio, 3.00 ± 1.83; strikeouts per 9 innings, 8.80 ± 1.14; and innings pitched, 234.88 ± 316.74. After UCLR, their average statistics were as follows: earned run average, 5.24 ± 2.18 (P = .189); walks and hits per inning pitched, 1.55 ± 0.34 (P = .379); strikeout-to-walk ratio, 2.15 ± 0.98 (P = .263); strikeouts per 9 innings, 9.67 ± 1.91 (P = .293); and innings pitched, 138.71 ± 162.97 (P = .487)."
+    },
+    {
+      "label": "DISCUSSION AND CONCLUSION",
+      "text": "Although surgical intervention to address both posterior impingement and UCL injury is relatively rare (comprising 8.5% of all the senior author's UCLR procedures), our experience demonstrates that primary UCLR with concurrent arthroscopic posterior decompression is a reliable, safe, and successful surgical treatment for patients with UCL injury and posterior impingement and our results show no significant difference in statistical performance in pitchers before surgery vs. after surgery."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Of the 12 patients, 10 returned to play at the same level (4 Major League Baseball players and 1 Triple A player) or at a higher level (2 players from Single A to Double A, 1 player from National Collegiate Athletic Association Division I to Single A, 1 player from rookie league to Single A, and 1 player from high school to National Collegiate Athletic Association Division I), 1 did not return to play, and 1 returned to play at a lower level, with an average RTP time of 14.64 months (standard deviation, 2.64 months)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

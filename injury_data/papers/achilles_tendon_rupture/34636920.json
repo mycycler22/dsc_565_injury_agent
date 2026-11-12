@@ -1,0 +1,58 @@
+{
+  "pmid": "34636920",
+  "title": "Psychological Factors Change During the Rehabilitation of an Achilles Tendon Rupture: A Multicenter Prospective Cohort Study.",
+  "year": "2021",
+  "journal": "Physical therapy",
+  "pub_types": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The authors sought to gain insight into the changes in psychological factors during rehabilitation after Achilles tendon rupture (ATR) and to explore the association between psychological factors during rehabilitation and functional outcome 12 months after ATR."
+    },
+    {
+      "label": "METHODS",
+      "text": "Fifty patients clinically diagnosed with ATR were invited to visit the hospital 3, 6, and 12 months after injury for data collection. They completed questionnaires assessing psychological factors: psychological readiness to return to sport (Injury Psychological Readiness to Return to Sport Questionnaire); kinesiophobia (Tampa Scale for Kinesiophobia); expectations, motivation, and outcome measures related to symptoms and physical activity (Achilles Tendon Total Rupture Score); and sports participation and performance (Oslo Sports Trauma Research Centre Overuse Injury Questionnaire). To determine whether psychological factors changed over time, generalized estimating equation analyses were performed. Multivariate regression analyses were used to study the association between psychological factors at 3, 6, and 12 months and outcome measures at 12 months after ATR."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Psychological readiness to return to sport improved, and kinesiophobia decreased significantly during rehabilitation. Psychological readiness at 6 and 12 months showed significant associations with sports participation and performance. Kinesiophobia at 6 months was significantly associated with symptoms and physical activity. Motivation remained high during rehabilitation and was highly associated with symptoms and physical activity, sports participation, and performance."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Psychological factors change during rehabilitation after ATR. Patients with lower motivation levels during rehabilitation, low psychological readiness to return to sports, and/or high levels of kinesiophobia at 6 months after ATR need to be identified."
+    },
+    {
+      "label": "IMPACT",
+      "text": "According to these results, psychological factors can affect the rehabilitation of patients with ATR. Physical therapists can play an important role in recognizing patients with low motivation levels and low psychological readiness for return to sport and patients with high levels of kinesiophobia at 6 months post-ATR. Physical therapist interventions to enhance motivation and psychological readiness to return to sport and to reduce kinesiophobia need to be developed and studied in the post-ATR population."
+    },
+    {
+      "label": "LAY SUMMARY",
+      "text": "With Achilles tendon rupture, level of motivation, psychological readiness for return to sport, and fear of movement can affect rehabilitation outcome. A physical therapist can help recognize these factors."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "CONCLUSION",
+      "sentence": "Patients with lower motivation levels during rehabilitation, low psychological readiness to return to sports, and/or high levels of kinesiophobia at 6 months after ATR need to be identified."
+    }
+  ],
+  "pmcid": "8697845",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Psychological readiness to return to sport improved, and kinesiophobia decreased significantly during rehabilitation. Psychological readiness at 6 and 12 months showed significant associations with sports participation and performance. Kinesiophobia at 6 months was significantly associated with symptoms and physical activity. Motivation remained high during rehabilitation and was highly associated with symptoms and physical activity, sports participation, and performance."
+    },
+    {
+      "section": "Results",
+      "text": "Sixty-four patients were assessed for eligibility, 14 of whom were excluded because they did not meet the inclusion criteria (n = 3), they declined to participate (n = 5), or it was not possible to contact the patient (n = 6). Thus, a total of 50 patients were included; 34 (68%) were men, with a mean age of 42.6 years and a mean body mass index of 25.5 kg/m2 (Tab. 3). Most participants played sports at the recreational level (76%), and 44 (88%) of the ATRs occurred while playing sports. Surgery was performed on 14 participants (28%) as a primary treatment."
+    },
+    {
+      "section": "Association Between Psychological Factors and Functional Outcome After ATR",
+      "text": "Multivariate linear regression analysis showed that especially higher motivation scores were negatively associated with OSTRC-O scores (sports participation and performance) at 12 months after ATR, corrected for age, sex, primary treatment, and preinjury sports activity level. TSK (kinesiophobia) scores measured at 6 months and expectation scores of the items for times to run on even ground and to jump on 1 leg were significantly associated with ATRS at 12 months after ATR. I-PRRS (psychological readiness and confidence to RTS) scores at 6 and 12 months after ATR were significantly associated with OSTRC-O results at 12 months after ATR (Tab. 5). Psychological factors were not associated with the Limb Symmetry Index for the SLH test or for the HR test (Suppl. Table). The changes in I-PRRS and TSK scores between 3 and 12 months after ATR were associated with a change in ATRS (Tab. 6)."
+    }
+  ]
+}

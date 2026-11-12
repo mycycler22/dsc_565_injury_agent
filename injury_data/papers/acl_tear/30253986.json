@@ -1,0 +1,45 @@
+{
+  "pmid": "30253986",
+  "title": "Return to sport and re-tears after anterior cruciate ligament reconstruction in children and adolescents.",
+  "year": "2018",
+  "journal": "Orthopaedics & traumatology, surgery & research : OTSR",
+  "pub_types": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The primary objective of this study was to determine the time to and level of return to sports after anterior cruciate ligament (ACL) reconstruction in children and adolescents. The secondary objectives were to evaluate the risk of early ACL re-tear after return to sports and the risk of ACL tear in the contralateral knee."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "The time to return to sports in young patients is considerably longer than in adults."
+    },
+    {
+      "label": "METHODS",
+      "text": "A prospective multicentre study was conducted at 12 centres specialised in knee ligament surgery, in children and adolescents younger than 18 years, between 1 January 2015 and 31 October 2015. The patients were divided into a paediatric group with open physes and a skeletally mature group with closed physes. We recorded the time to return to sport, the type of sport resumed, and the occurrence of early re-tears on the same side. A poor outcome was defined as a re-tear or an objective IKDC score of C or D. A contralateral ACL tear was not considered a poor outcome."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 278 included patients, 100 had open physes and 178 closed physes. In the open physes group, return to running occurred after 10.4±4.7 months, return to pivoting/contact sport training after 13.1±3.9 months, and return to pivoting/contact sport competitions after 13.8±3.8 months. Of the 100 patients, 80% returned to the same sport and 63.5% to pivoting/contact sport competitions. Re-tears occurred in 9% of patients, after 11.8±4.1 months, and contralateral tears in 6% of patients, after 17.2±4.4 months. In all, 19.4% of patients had a poor outcome, including 10.4% with an IKDC score of C or D and 9% with re-tears. In the group with closed physes, return to running occurred after 8.8±5.1 months, return to pivoting/contact sport training after 11.7±4.7 months, and return to pivoting/contact sport competitions after 12.3±4.2 months. Of the 178 patients, 76.9% returned to the same sport and 55.6% to pivoting/contact sport competitions. The re-tear rate was only 2.8% and the contralateral tear rate 5%. In all, 14.7% of patients had poor outcome, including 11.9% with an IKDC score of C or D and 2.8% with re-tears. No risk factors for re-tears were identified; the quadruple-bundle semitendinosus technique showed a non-significant association with re-tears."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In young children, the return to sport time after ACL reconstruction is considerably longer than 1 year and the return to competitions occurs later and is more difficult. The results of this study indicate that reservations are in order when informing the family about return to sports prospects after ACL reconstruction. The return to pivoting/contact sport competitions should not be allowed until 14 months after surgery in young skeletally immature patients, and the risk of re-injury is high within the first 2 years."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV, retrospective study."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "CONCLUSION",
+      "sentence": "In young children, the return to sport time after ACL reconstruction is considerably longer than 1 year and the return to competitions occurs later and is more difficult."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

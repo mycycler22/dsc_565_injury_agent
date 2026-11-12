@@ -1,0 +1,35 @@
+{
+  "pmid": "35974194",
+  "title": "Risk factors for secondary meniscus tears can be accurately predicted through machine learning, creating a resource for patient education and intervention.",
+  "year": "2023",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "This study sought to develop and internally validate a machine learning model to identify risk factors and quantify overall risk of secondary meniscus injury in a longitudinal cohort after primary ACL reconstruction (ACLR)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients with new ACL injury between 1990 and 2016 with minimum 2-year follow-up were identified. Records were extensively reviewed to extract demographic, treatment, and diagnosis of new meniscus injury following ACLR. Four candidate machine learning algorithms were evaluated to predict secondary meniscus tears. Performance was assessed through discrimination using area under the receiver operating characteristics curve (AUROC), calibration, and decision curve analysis; interpretability was enhanced utilizing global variable importance plots and partial dependence curves."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 1187 patients underwent ACLR; 139 (11.7%) experienced a secondary meniscus tear at a mean time of 65 months post-op. The best performing model for predicting secondary meniscus tear was the random forest (AUROC = 0.790, 95% CI: 0.785-0.795; calibration intercept = 0.006, 95% CI: 0.005-0.007, calibration slope = 0.961 95% CI: 0.956-0.965, Brier's score = 0.10 95% CI: 0.09-0.12), and all four machine learning algorithms outperformed traditional logistic regression. The following risk factors were identified: shorter time to return to sport (RTS), lower VAS at injury, increased time from injury to surgery, older age at injury, and proximal ACL tear."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Machine learning models outperformed traditional prediction models and identified multiple risk factors for secondary meniscus tears after ACLR. Following careful external validation, these models can be deployed to provide real-time quantifiable risk for counseling and timely intervention to help guide patient expectations and possibly improve clinical outcomes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "III."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

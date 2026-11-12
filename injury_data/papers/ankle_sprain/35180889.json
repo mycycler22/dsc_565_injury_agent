@@ -1,0 +1,31 @@
+{
+  "pmid": "35180889",
+  "title": "The prevalence of chronic ankle instability in basketball athletes: a cross-sectional study.",
+  "year": "2022",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle sprain is the most common injury in basketball. Chronic ankle instability develops from an acute ankle sprain may cause negative effects on quality of life, ankle functionality or on increasing risk for recurrent ankle sprains and post-traumatic osteoarthritis. To facilitate a preventative strategy of chronic ankle instability (CAI) in the basketball population, gathering epidemiological data is essential. However, the epidemiological data of CAI in basketball is limited. Therefore, this study aims to investigate the prevalence of CAI in basketball athletes and to determine whether gender, competitive level, and basketball playing position influence this prevalence."
+    },
+    {
+      "label": "METHODS",
+      "text": "In a cross-sectional study, in total 391 Taiwanese basketball athletes from universities and sports clubs participated. Besides non-standardized questions about demographics and their history of ankle sprains, participants further filled out the standard Cumberland Ankle Instability Tool applied to determine the presence of ankle instability. Questionnaires from 255 collegiate and 133 semi-professional basketball athletes (male = 243, female = 145, 22.3 ± 3.8 years, 23.3 ± 2.2 kg/m<sup>2</sup>) were analyzed. Differences in prevalence between gender, competitive level and playing position were determined using the Chi-square test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the surveyed cohort, 26% had unilateral CAI while 50% of them had bilateral CAI. Women had a higher prevalence than men in the whole surveyed cohort (X<sup>2</sup>(1) = 0.515, p = 0.003). This gender disparity also showed from sub-analyses, that the collegiate female athletes had a higher prevalence than collegiate men athletes (X<sup>2</sup>(1) = 0.203, p = 0.001). Prevalence showed no difference between competitive levels (p > 0.05) and among playing positions (p > 0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "CAI is highly prevalent in the basketball population. Gender affects the prevalence of CAI. Regardless of the competitive level and playing position the prevalence of CAI is similar. The characteristic of basketball contributes to the high prevalence. Prevention of CAI should be a focus in basketball. When applying the CAI prevention measures, gender should be taken into consideration."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "19836607",
+  "title": "Patellar dislocation in a 16-year-old athlete with femoral trochlear dysplasia.",
+  "year": "2009",
+  "journal": "Journal of manipulative and physiological therapeutics",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "This case report discusses the diagnosis and conservative management of a patient with femoral trochlear dysplasia (FTD) and subacute patellar dislocation. Femoral trochlear dysplasia is characterized by an abnormally shallow trochlear groove. Disengagement of the patella from the shallow femoral trochlea is common in FTD and is a predisposing risk factor to recurrent patellar dislocation and subsequent premature osteoarthrosis. Accurate diagnosis is necessary to prevent recurrent patellar dislocations and damage of the patellofemoral joint cartilage and supporting structures."
+    },
+    {
+      "label": "CLINICAL FEATURES",
+      "text": "A 16-year-old male adolescent presented with pain, ecchymosis, and swelling about the right anterior knee approximately one month after a self-described dislocating event. Clinical and imaging findings, including magnetic resonance imaging and ultrasonography, demonstrated evidence of patellar dislocation with previously undiagnosed FTD."
+    },
+    {
+      "label": "INTERVENTION AND OUTCOME",
+      "text": "After drainage of the knee effusion at a local hospital, the patient underwent a chiropractic treatment protocol consisting of stabilization with patellar tracking orthosis, customized orthotic support, and various muscular stabilization and strengthening exercises. After 6 weeks of treatment, the swelling and ecchymosis resolved. The knee ranges of motion were full without pain. Although the hypermobility of the patella demonstrated no interval change, the patient reported improved strength and stability of the right knee."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This case highlights a young athlete with subacute patellar dislocation and FTD who responded successfully to conservative management. Conservative stabilization and strengthening protocols improved patient outcome without surgical repair of the underlying FTD. Conservative management of FTD has not been reported and it makes the current case unique. However, the long-term outcome of conservative management is unknown at this point and further studies are necessary to evaluate treatment protocols."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [
+    {
+      "section": "INTERVENTION AND OUTCOME",
+      "sentence": "After 6 weeks of treatment, the swelling and ecchymosis resolved."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

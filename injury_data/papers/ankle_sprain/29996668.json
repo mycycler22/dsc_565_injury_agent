@@ -1,0 +1,37 @@
+{
+  "pmid": "29996668",
+  "title": "Effects of proprioceptive training on the incidence of ankle sprain in athletes: systematic review and meta-analysis.",
+  "year": "2018",
+  "journal": "Clinical rehabilitation",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE:",
+      "text": "To investigate how dynamic neuromuscular control, postural sway, joint position sense, and incidence of ankle sprain are influenced by balance training in athletes compared with the control group in randomized clinical trials."
+    },
+    {
+      "label": "DATA SOURCES:",
+      "text": "The search strategy included MEDLINE, Physical Therapy Evidence Database, Cochrane Central Register of Controlled Trials, and Latin American and Caribbean Center on Health Sciences Information. Randomized controlled trials (RCTs) were published by June of 2018."
+    },
+    {
+      "label": "METHODS:",
+      "text": "RCTs that evaluate the effectiveness of proprioception in these outcomes: dynamic neuromuscular control, postural sway, joint position, and the incidence of ankle sprains in athletes aged between 18 and 35 years. Two reviewers independently screened the searched records, extracted the data, and assessed risk of bias. The treatment effect sizes were pooled in a meta-analysis using the RevMan 5.2 software. Internal validity was assessed through topics suggested by Cochrane Collaborations."
+    },
+    {
+      "label": "RESULTS:",
+      "text": "Of the 12 articles included ( n = 1817), eight were in the meta-analysis ( n = 1722). The balance training reduced the incidence of ankle sprains in 38% compared with the control group ( RR: 0.62; 95% CI: 0.43-0.90). In relation to the dynamic neuromuscular control, the training showed increase in the distance of reach in the anterior (0.62 cm, 95% CI: 0.13-1.11), posterolateral (4.22 cm, 95% CI: 1.76-6.68), and posteromedial (3.65 cm, 95% CI: 1.03-6.26) through the Star Excursion Balance test. Furthermore, training seems to improve postural sway and joint position sense."
+    },
+    {
+      "label": "CONCLUSION:",
+      "text": "Balance training reduces the incidence of ankle sprains and increases dynamic neuromuscular control, postural sway, and the joint position sense in athletes."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "35913667",
+  "title": "Lower Extremity Muscle Injuries in the Overhead Athlete.",
+  "year": "2022",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Lower extremity (LE) injuries are a common source of disability and time-loss for overhead athletes, and muscles have been found to be the predominant soft tissue structure affected. The current review highlights the orthopaedic literature examining lower extremity muscle injuries in overhead athletes in regard to epidemiology, diagnosis, and conventional and emerging treatment measures."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "The hamstring muscles have been found to be the most commonly injured lower extremity muscle group in professional baseball, followed by the adductors, quadriceps, iliopsoas, and gastrocnemius-soleus complex. Strains and contusions comprise over 90% of these muscle injuries. Various advanced imaging grading systems have been developed to help characterize the nature of a muscle injury, although a clear and consistent prognostic utility of these systems is still unclear. The vast majority of lower extremity muscle injuries in overhead athletes are managed nonoperatively, and there is promising data on the use of emerging treatments such as platelet-rich plasma and blood flow restriction therapy. Lower extremity muscle injuries-often referred to as strains-are a relatively common issue in high-demand overhead athletes and can be a significant source of time-loss. Within baseball, position players are affected far more often than pitchers, and sprinting and fielding are the most common activities leading to strains. Magnetic resonance imaging (MRI) is considered the gold standard imaging modality to evaluate these muscle injuries and will allow for a detailed assessment of tissue damage. Nonetheless, return-to-play is often dictated by a given athlete's progression through a nonoperative rehabilitation protocol, with surgical intervention reserved for less common, select injury patterns."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "42627241",
+  "title": "From Jones to avulsion: rethinking the fifth metatarsal base.",
+  "year": "2026",
+  "journal": "Current opinion in pediatrics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Fifth metatarsal fractures are the most common metatarsal injury in the pediatric population; however, their management is frequently extrapolated from adult protocols. This review explores the emergence of pediatric-specific classification systems and evolving evidence on surgical versus conservative treatment in skeletally immature patients."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Anatomical and developmental differences critically distinguish pediatric fractures from adult fractures. Recent pediatric classifications, including those by Herrera-Soto and Lee, improve upon the widely used Dameron/Lawrence-Botte system by recognizing the apophysis as a distinct entity and offering better prognostic correlation. Zone 1 avulsion fractures achieve near-universal healing with conservative management. Emerging evidence supports surgical fixation with intramedullary screws for Zone 2 (Jones) fractures in adolescent athletes, whereas prepubertal patients respond well to conservative treatment. Nutritional factors, particularly vitamin D deficiency and inadequate calcium intake, are increasingly being recognized as modifiable risk factors for stress fractures and delayed union."
+    },
+    {
+      "label": "SUMMARY",
+      "text": "The management of fifth metatarsal fractures should be individualized according to the fracture zone, skeletal maturity, and activity level. Pediatric-specific classifications offer improved diagnostic accuracy. Nutritional optimization should be integrated into comprehensive management protocols, and further pediatric-focused clinical trials are needed."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

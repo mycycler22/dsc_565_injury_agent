@@ -1,0 +1,25 @@
+{
+  "pmid": "30395064",
+  "title": "Elbow Surgery in Athletes.",
+  "year": "2018",
+  "journal": "Sports medicine and arthroscopy review",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Injuries and disorders of the elbow in athletes are common especially among throwing athletes. Common injuries encountered in the throwing athlete include ulnar collateral ligament injuries, ulnar neuritis, capitellar osteochondritis dissecans, valgus extension overload with posterior olecranon impingement, olecranon stress fracture, and loose bodies. A thorough knowledge of both the functional anatomy as well as throwing biomechanics are required to properly diagnosis and treat these problems. Nonoperative and surgical techniques have continued to advance over the last 25 years allowing for improved prognosis and return to play for athletes affected with elbow pathology."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Nonoperative and surgical techniques have continued to advance over the last 25 years allowing for improved prognosis and return to play for athletes affected with elbow pathology."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

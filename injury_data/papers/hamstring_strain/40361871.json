@@ -1,0 +1,33 @@
+{
+  "pmid": "40361871",
+  "title": "Role of Ultrasonography and MRI in Acute Hamstring Strains: Diagnostic and Prognostic Insights.",
+  "year": "2025",
+  "journal": "Diagnostics (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Objectives:</b> Hamstring strain injuries are common in elite athletes and affect return-to-sport timelines. Although magnetic resonance imaging (MRI) is the gold-standard method for assessing injury severity, ultrasonography (US) is a more accessible and cost-effective alternative. This study aimed to evaluate the agreement between US and MRI in the diagnosis of hamstring injuries and their prognostic value in predicting recovery. <b>Methods:</b> This retrospective study included elite athletes who sustained acute first-time hamstring strains and underwent both MRI and US within five days after injury. The injuries were classified according to location (muscle belly, musculotendinous junction, or tendon) and severity (modified Peetron's classification). The agreement between the imaging findings and return-to-sports timelines was analyzed. <b>Results:</b> US demonstrated a 70% agreement with MRI in identifying injury locations, showing the highest concordance for muscle belly injuries (90%), followed by musculotendinous junction (80%) injuries, but a lower accuracy for tendon injuries (60%). Recovery times differed significantly by location and severity (<i>p</i> < 0.01), with tendon grade 3 injuries requiring the longest recovery (383 days) and muscle belly injuries requiring the shortest recovery (16 days). Musculotendinous junction grade 2, tendon grade 1, and tendon grade 2 injuries had similar recovery durations (57-65 days). <b>Conclusions:</b> High-resolution US is a reliable diagnostic tool for muscle belly and musculotendinous junction injuries. However, MRI remains essential for high-grade tendon injuries. US serves as the first-line imaging modality, with MRI reserved for cases that require a detailed prognostic assessment. These findings provide guidance for optimizing imaging strategies for hamstring injury management."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Recovery times differed significantly by location and severity (<i>p</i> < 0.01), with tendon grade 3 injuries requiring the longest recovery (383 days) and muscle belly injuries requiring the shortest recovery (16 days)."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "Musculotendinous junction grade 2, tendon grade 1, and tendon grade 2 injuries had similar recovery durations (57-65 days). <b>Conclusions:</b> High-resolution US is a reliable diagnostic tool for muscle belly and musculotendinous junction injuries."
+    }
+  ],
+  "pmcid": "12071714",
+  "fulltext_chunks": [
+    {
+      "section": "3.4. Impact of Injury Severity on Return to Sport Based on MRI Analysis",
+      "text": "The injury severity was classified using the modified Peetron’s classification system. Grade 1 injuries accounted for 37%, grade 2 for 32%, and grade 3 for 31% of cases, respectively. The recovery times increased with the injury severity; grade 1 injuries required 35 days, grade 2 injuries required 56 days, and grade 3 injuries required 111 days (p < 0.001). These results highlight the necessity of MRI for the assessment of high-grade injuries. The detailed results are presented in Table 4."
+    }
+  ]
+}

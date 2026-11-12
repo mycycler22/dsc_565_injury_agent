@@ -1,0 +1,39 @@
+{
+  "pmid": "37533499",
+  "title": "Outcomes After Open Latarjet in Patients With or Without SLAP Lesions.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Up to 20% of shoulders with anterior instability are associated with superior labrum anterior-posterior (SLAP) lesions, and they remain untreated after an open Latarjet procedure. SLAP lesions can be responsible for pain and feelings of instability in high-demand patients."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The aim of this study was to compare the early functional outcomes and return to sport rates in athletes after the Latarjet procedure with versus without associated SLAP lesions. It was hypothesized that untreated SLAP lesions would not influence clinical results."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Inclusion criteria were athletes with anterior shoulder instability treated with Latarjet procedure, a minimum follow-up of 1 year, and an available preoperative computed tomography arthrogram. We recorded patient characteristics; type of sport; bone loss; Rowe, Single Assessment Numeric Evaluation (SANE), and 11-item Disabilities of the Arm, Shoulder and Hand (QuickDASH) scores; 5-point pain and satisfaction scores; reported apprehension; and return to sport. Patients with and without a preoperative type 5 SLAP lesion on imaging were compared."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifty patients were included (mean age, 22 ± 5 years [range, 16-36 years]; mean follow-up, 27 ± 9 months [range, 12-42 months]). Thirty-four patients practiced contact sports, including 20 rugby players. Twelve patients (24%) had a preoperative SLAP lesion. Groups with (+) and without (-) a SLAP lesion were comparable in terms of age, sex, number of instability episodes, type of sport, and glenoid and humeral bone loss. The SLAP+ group had significantly worse outcomes with a lower Rowe score (79 ± 23 vs 91 ± 15; <i>P</i> = .018) and painless rate (50% vs 77%; <i>P</i> = .04). There were no significant differences between the groups in SANE score (SLAP+ vs SLAP-: 80% vs 87%), QuickDASH score (8% vs 8%), return to sport (83% vs 91%), apprehension (79% vs 50%), and reported satisfaction. There was 1 episode of postoperative subluxation in each group."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patients who underwent an open Latarjet procedure with an associated SLAP tear more frequently reported postoperative pain than those without a SLAP lesion. Patients with untreated SLAP tears had significantly lower Rowe scores, although SANE score and return to sport were not significantly different between the groups."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

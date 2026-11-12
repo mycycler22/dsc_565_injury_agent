@@ -1,0 +1,37 @@
+{
+  "pmid": "18063176",
+  "title": "A meta-analysis of the incidence of anterior cruciate ligament tears as a function of gender, sport, and a knee injury-reduction regimen.",
+  "year": "2007",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The literature has shown that anterior cruciate ligament (ACL) tear rates vary by gender, by sport, and in response to injury-reduction training programs. However, there is no consensus as to the magnitudes of these tear rates or their variations as a function of these variables. For example, the female-male ACL tear ratio has been reported to be as high as 9:1. Our purpose was to apply meta-analysis to the entire applicable literature to generate accurate estimates of the true incidences of ACL tear as a function of gender, sport, and injury-reduction training."
+    },
+    {
+      "label": "METHODS",
+      "text": "A PubMed literature search was done to identify all studies dealing with ACL tear incidence. Bibliographic cross-referencing was done to identify additional articles. Meta-analytic principles were applied to generate ACL incidences as a function of gender, sport, and prior injury-reduction training."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Female-male ACL tear incidences ratios were as follows: basketball, 3.5; soccer, 2.67; lacrosse, 1.18; and Alpine skiing, 1.0. The collegiate soccer tear rate was 0.32 for female subjects and 0.12 for male subjects. For basketball, the rates were 0.29 and 0.08, respectively. The rate for recreational Alpine skiers was 0.63, and that for experts was 0.03, with no gender variance. The two volleyball studies had no ACL tears. Training reduced the ACL tear incidence in soccer by 0.24 but did not reduce it at all in basketball."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Female subjects had a roughly 3 times greater incidence of ACL tears in soccer and basketball versus male subjects. Injury-reduction programs were effective for soccer but not basketball. Recreational Alpine skiers had the highest incidences of ACL tear, whereas expert Alpine skiers had the lowest incidences. Volleyball may in fact be a low-risk sport rather than a high-risk sport. Alpine skiers and lacrosse players had no gender difference for ACL tear rate. Year-round female athletes who play soccer and basketball have an ACL tear rate of approximately 5%."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, therapeutic case series."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

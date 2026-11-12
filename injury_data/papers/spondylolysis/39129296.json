@@ -1,0 +1,39 @@
+{
+  "pmid": "39129296",
+  "title": "Pars Interarticularis and Pedicle Stress Injuries in Young Athletes With Low Back Pain: A Retrospective Cohort Study of 902 Patients Evaluated With Magnetic Resonance Imaging.",
+  "year": "2024",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Previous studies have reported that spondylolysis occurs predominantly at the L5 and L4 levels, with defects at higher levels occurring in <5% of cases. However, computed tomography and radiography were the primary imaging modalities in these studies. Current evidence regarding diagnostic imaging for pediatric lumbar spondylolysis suggests that magnetic resonance imaging (MRI) is as accurate as computed tomography in detecting early stress reactions of the pars interarticularis or pedicles without fractures while avoiding radiation exposure. The early detection of spondylolysis results in a higher likelihood of bony union and a decreased likelihood of spondylolisthesis."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "The increased use of MRI may reveal a larger proportion of spondylolysis in patients who experience an injury at a higher spinal level than previously reported."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "The medical records of 902 pediatric and adolescent athletes (364 female, 538 male) diagnosed with symptomatic pars interarticularis and pedicle stress injuries at 2 academic medical centers between 2016 and 2021 were retrospectively reviewed. All patients had MRI scans taken at the time of diagnosis. Only patients with pars/pedicle edema on MRI were included. Data regarding spondylolysis stage, spinal level of injury, unilateral versus bilateral injury, sport participation, and MRI protocol over the 5-year study period were analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Male patients presented at older ages than female patients (<i>P</i> < .001). Soccer was the most common sport at symptom onset and the second most common single-sport activity among those who specialized (participating in 1 sport year-round at the exclusion of others), behind gymnastics. The mean symptom duration was 4.0 months. Although most patients (83.5%) had exclusively lower lumbar stress injuries, 9.1% of injuries occurred at or above the L3 level. Over half of the patients had active single-level pars/pedicle fractures on MRI, with a mean symptom duration before presentation in this subgroup of 4.0 months. Even when pars/pedicle stress reactions were excluded from analysis, 7.1% of patients were injured at or above the L3 level."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Among male and female athletes aged 8 to 21 years presenting with symptomatic pars interarticularis and pedicle stress injuries evaluated by MRI at the time of initial diagnosis, there was a higher incidence of upper lumbar stress injuries than previously reported."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

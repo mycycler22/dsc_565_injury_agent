@@ -1,0 +1,65 @@
+{
+  "pmid": "33855096",
+  "title": "Failed Surgery for Patellar Tendinopathy in Athletes: Midterm Results of Further Surgical Management.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tendon injuries are commonly seen in sports medicine practice. Many elite players involved in high-impact activities develop patellar tendinopathy (PT) symptoms. Of them, a small percentage will develop refractory PT and need to undergo surgery. In some of these patients, surgery does not resolve these symptoms."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To report the clinical results in a cohort of athletes who underwent further surgery after failure of primary surgery for PT."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 22 athletes who had undergone revision surgery for failed surgical management of PT were enrolled in the present study. Symptom severity was assessed through the Victorian Institute of Sport Assessment Scale for Patellar Tendinopathy (VISA-P) upon admission and at the final follow-up. Time to return to training, time to return to competition, and complications were also recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean age of the athletes was 25.4 years, and the mean symptom duration from the index intervention was 15.3 months. At a mean follow-up of 30.0 ± 4.9 months, the VISA-P score improved 27.8 points (<i>P</i> < .0001). The patients returned to training within a mean of 9.2 months. Fifteen patients (68.2%) returned to competition within a mean of 11.6 months. Of these 15 patients, a further 2 had decreased their performance, and 2 more had abandoned sports participation by the final follow-up. The overall rate of complications was 18.2%. One patient (4.5%) had a further revision procedure."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Revision surgery was feasible and effective in patients in whom PT symptoms persisted after previous surgery for PT, achieving a statistically significant and clinically relevant improvement of the VISA-P score as well as an acceptable rate of return to sport at a follow-up of 30 months."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The patients returned to training within a mean of 9.2 months."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Fifteen patients (68.2%) returned to competition within a mean of 11.6 months."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Revision surgery was feasible and effective in patients in whom PT symptoms persisted after previous surgery for PT, achieving a statistically significant and clinically relevant improvement of the VISA-P score as well as an acceptable rate of return to sport at a follow-up of 30 months."
+    }
+  ],
+  "pmcid": "8013696",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "The mean age of the athletes was 25.4 years, and the mean symptom duration from the index intervention was 15.3 months. At a mean follow-up of 30.0 ± 4.9 months, the VISA-P score improved 27.8 points (P < .0001). The patients returned to training within a mean of 9.2 months. Fifteen patients (68.2%) returned to competition within a mean of 11.6 months. Of these 15 patients, a further 2 had decreased their performance, and 2 more had abandoned sports participation by the final follow-up. The overall rate of complications was 18.2%. One patient (4.5%) had a further revision procedure."
+    },
+    {
+      "section": "Patient-Reported Outcomes and Return to Sport",
+      "text": "At a mean follow-up of 30.0 ± 4.9 months, the mean VISA-P score was 81.0 ± 5.9 (+27.8 points compared with baseline; P < .0001). All patients returned to training within 9.2 ± 1.0 months. Fifteen patients (68.2%) returned to competition within 11.6 ± 1.7 months. Of these patients, at the final follow-up, 2 had decreased their performance, while another 2 had abandoned active sport. The results of the VISA-P at the final follow-up and return to training and competition are shown in Table 2."
+    },
+    {
+      "section": "TABLE: Results of VISA-P at the Final Follow-up and Return to Training and Competitiona",
+      "text": " | Mean ± SD\nVISA-P score at final follow-up | 81.0 ± 5.9\nReturn to training, mo | 9.2 ± 1.0\nReturn to competition, mo | 11.6 ± 1.7"
+    }
+  ]
+}

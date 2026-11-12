@@ -1,0 +1,40 @@
+{
+  "pmid": "24352622",
+  "title": "Rate of return to pitching and performance after Tommy John surgery in Major League Baseball pitchers.",
+  "year": "2014",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Medial ulnar collateral ligament (UCL) reconstruction is a common procedure performed on Major League Baseball (MLB) pitchers in the United States."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine (1) the rate of return to pitching (RTP) in the MLB after UCL reconstruction, (2) the RTP rate in either the MLB and minor league combined, (3) performance after RTP, and (4) the difference in the RTP rate and performance between pitchers who underwent UCL reconstruction and matched controls without UCL injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Major League Baseball pitchers with symptomatic medial UCL deficiency who underwent UCL reconstruction were evaluated. All player, elbow, and surgical demographic data were analyzed. Controls matched by age, body mass index, position, handedness, and MLB experience and performance were selected from the MLB during the same years as those undergoing UCL reconstruction. An \"index year\" was designated for controls, analogous to the UCL reconstruction year in cases. Return to pitching and performance measures in the MLB were compared between cases and controls. Student t tests were performed for analysis of within-group and between-group variables, respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 179 pitchers with UCL tears who underwent reconstruction met the inclusion criteria and were analyzed. Of these, 148 pitchers (83%) were able to RTP in the MLB, and 174 pitchers were able to RTP in the MLB and minor league combined (97.2%), while only 5 pitchers (2.8%) were never able to RTP in either the MLB or minor league. Pitchers returned to the MLB at a mean 20.5 ± 9.72 months after UCL reconstruction. The length of career in the MLB after UCL reconstruction was 3.9 ± 2.84 years, although 56 of these patients were still currently actively pitching in the MLB at the start of the 2013 season. The revision rate was 3.9%. In the year before UCL reconstruction, pitching performance declined significantly in the cases versus controls in the number of innings pitched, games played, and wins and the winning percentage (P < .05). After surgery, pitchers showed significantly improved performance versus before surgery (fewer losses, a lower losing percentage, lower earned run average [ERA], threw fewer walks, and allowed fewer hits, runs, and home runs) (P < .05). Comparisons between cases and controls for the time frame after UCL reconstruction (cases) or the index year (controls) demonstrated that cases had significantly (P < .05) fewer losses per season and a lower losing percentage. In addition, cases had a significantly lower ERA and allowed fewer walks and hits per inning pitched."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There is a high rate of RTP in professional baseball after UCL reconstruction. Performance declined before surgery and improved after surgery. When compared with demographic-matched controls, patients who underwent UCL reconstruction had better results in multiple performance measures. Reconstruction of the UCL allows for a predictable and successful return to the MLB."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

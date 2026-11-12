@@ -1,0 +1,38 @@
+{
+  "pmid": "39274432",
+  "title": "Return to Sport Following Arthroscopic Management of Femoroacetabular Impingement: A Systematic Review.",
+  "year": "2024",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background:</b> Femoroacetabular impingement (FAI) is common. The present systematic review updates the current evidence on return to sport (RTS) in patients who have undergone arthroscopic surgery for FAI in any of its variants (CAM, pincer, or both). <b>Methods:</b> The outcomes of interest were sports-related patient-reported outcome measures (PROMs) and the level and time to RTS. All available clinical studies concerning the RTS following arthroscopic management of FAI were considered. In July 2024, the following databases were accessed following the PRISMA guidelines: Embase, Web of Science, and PubMed. Only studies with a minimum of six months of follow-up were eligible. <b>Results:</b> From 1245 initially identified articles, 43 studies (4103 patients) met the inclusion criteria, in which 32.1% (1317 of 4103 patients) were women. The mean length of follow-up was 33.7 ± 15.8 months. The mean age was 28.1 ± 7.2 years, the mean BMI was 24.7 ± 6.4 kg/m<sup>2</sup>, and 79.6% ± 27.8% of patients returned to sport at the same or higher level at a mean of 14.3 ± 9.6 months. The mean time away from sports was 8.0 ± 3.3 months. <b>Conclusion:</b> Arthroscopic management for FAI leads to a high rate of RTS, with approximately 80% of patients returning to their preinjury level. Future research should focus on standardised definitions of RTS, sport-specific rehabilitation protocols, and the influence of deformity and procedures on RTS."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean age was 28.1 ± 7.2 years, the mean BMI was 24.7 ± 6.4 kg/m<sup>2</sup>, and 79.6% ± 27.8% of patients returned to sport at the same or higher level at a mean of 14.3 ± 9.6 months."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean time away from sports was 8.0 ± 3.3 months. <b>Conclusion:</b> Arthroscopic management for FAI leads to a high rate of RTS, with approximately 80% of patients returning to their preinjury level."
+    }
+  ],
+  "pmcid": "11395971",
+  "fulltext_chunks": [
+    {
+      "section": "3.3. Study Characteristics and Results of Individual Studies",
+      "text": "Data from 3964 patients were retrieved. Of them, 39.4% (1276 of 3235 patients) were women. The mean length of follow-up was 34.0 ± 16.0 months. The mean age was 28.1 ± 7.3 years, and the mean BMI was 24.7 ± 6.5 kg/m2. Generalities of the included studies are shown in Table 1."
+    },
+    {
+      "section": "3.4. Results Synthesis",
+      "text": "79.6 ± 27.8% of patients returned to sport at the same or higher level at a mean of 14.3 ± 9.6 months. The mean time away from sports was 8.0 ± 3.3 months. A significant improvement was found in HOS-SSS, but no difference was found in the other sports-related PROMs (Table 2)."
+    }
+  ]
+}

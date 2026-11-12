@@ -1,0 +1,32 @@
+{
+  "pmid": "34391384",
+  "title": "A criteria-based rehabilitation program for chronic mid-portion Achilles tendinopathy: study protocol for a randomised controlled trial.",
+  "year": "2021",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Clinical Trial Protocol",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendinopathy (AT) is a common overuse injury in running-related sports where patients experience pain and impaired function which can persist. A graded rehabilitation program has been successful in reducing pain and improving function to enable a return to sport. The aim of this study is to compare the effectiveness of a criteria-based rehabilitation program including strength and reactive strength targets, with a previously successful rehabilitation program on changes in pain and function using the Victorian Institute of Sport Assessment-Achilles (VISA-A) questionnaire. Secondary aims will be to assess changes in calf strength, reactive strength, and lower limb running and forward hop biomechanics over the course of a 12-week rehabilitation program, and long-term follow-up investigations."
+    },
+    {
+      "label": "METHODS",
+      "text": "Sixty eligible participants with chronic mid-portion AT who train in running-based sports will be included in this study. They will be randomly assigned to a group that will follow an evidence-based rehabilitation program of daily exercises with progression guided by symptoms or a group performing 3 high-intensity rehabilitation sessions per week with individualised load targets progressing to reactive strength exercises. Testing will take place at baseline, week 6 and 12. Plantar flexor peak torque will be measured using isokinetic dynamometry, reactive strength will be measured using a drop jump and lower limb biomechanical variables will be measured during a single leg forward hurdle hop test and treadmill running using 3D motion analysis. Follow-up interviews will take place at 6, 12 and 24 months after beginning the program which will assess patient participation in sport and possible re-injury."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "This is the first study to propose an individualised criteria-based graded rehabilitation program in patients in with chronic mid-portion Achilles tendinopathy where progression is guided by strength and reactive strength outcome measures. This study will provide a comprehensive assessment of plantar flexor strength, reactive strength and lower limb biomechanical variables in running and forward hopping with the VISA-A questionnaire as the primary outcome measure and long term post-intervention follow-up assessments performed."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "ClinicalTrials.gov (ID: NCT04384874 ). Registered retrospectively on April 23rd 2020."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

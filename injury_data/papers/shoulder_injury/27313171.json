@@ -1,0 +1,40 @@
+{
+  "pmid": "27313171",
+  "title": "Preventing overuse shoulder injuries among throwing athletes: a cluster-randomised controlled trial in 660 elite handball players.",
+  "year": "2017",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder problems are highly prevalent among elite handball players. Reduced glenohumeral rotation, external rotation weakness and scapula dyskinesis have been identified as risk factors."
+    },
+    {
+      "label": "AIM",
+      "text": "Evaluate the effect of an exercise programme designed to reduce the prevalence of shoulder problems in elite handball."
+    },
+    {
+      "label": "METHODS",
+      "text": "45 elite handball teams (22 female teams, 23 male teams, 660 players) were cluster randomised (22 teams, 331 players in the intervention group, 23 teams, 329 players in the control group) and followed for 1 competitive season (7 months). The Oslo Sports Trauma Research Center (OSTRC) Shoulder Injury Prevention Programme, an exercise programme to increase glenohumeral internal rotation, external rotation strength and scapular muscle strength, as well as improve kinetic chain and thoracic mobility, was delivered by coaches and captains 3 times per week as a part of the handball warm-up. The main outcome measures, prevalence of shoulder problems and substantial shoulder problems, were measured monthly."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The average prevalence of shoulder problems during the season was 17% (95% CI 16% to 19%) in the intervention group and 23% (95% CI 21% to 26%) in the control group (mean difference 6%). The average prevalence of substantial shoulder problems was 5% (95% CI 4% to 6%) in the intervention group and 8% (95% CI 7% to 9%) in the control group (mean difference 3%). Using generalised estimating equation models, a 28% lower risk of shoulder problems (OR 0.72, 95% CI 0.52 to 0.98, p=0.038) and 22% lower risk of substantial shoulder problems (OR 0.78, 95% CI 0.53 to 1.16, p=0.23) were observed in the intervention group compared with the control group."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The OSTRC Shoulder Injury Prevention Programme reduced the prevalence of shoulder problems in elite handball and should be included as a part of the warm-up."
+    },
+    {
+      "label": "TRIAL REGISTRATION NUMBER",
+      "text": "ISRCTN96217107."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "38957229",
+  "title": "Validity and reproducibility of the ARL-RSI score to assess psychological readiness before returning to sport after lateral ankle sprain.",
+  "year": "2024",
+  "journal": "Journal of experimental orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Although multiple scales exist to evaluate psychological readiness before returning to sport post-lateral ankle sprain (LAS), no score has been validated specifically for LAS or chronic ankle instability. The main aim of the study is to evaluate the validity and reproducibility of the ankle ligament reconstruction-return to sport injury (ALR-RSI) scale in assessing psychological readiness after LAS and its ability to identify patients who can return to their preinjury level."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 64 patients (35 females and 29 males; 33.8 ± 13.2 years) who recently experienced an acute LAS were included in this study. All patients participated in a predictive validation component of the study and were assessed at 2 and 4 months following an LAS. The ALR-RSI was completed twice by 20 patients at a 7-day interval to evaluate the reliability of the score in patients suffering from LAS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The ALR-RSI was significantly (<i>p</i> < 0.001) and positively correlated with the other scores. The correlation was strong with the Foot and Ankle Ability Measure Sports: <i>r</i> = 0.77; 95% confidence interval [CI]: 0.78-0.83) and moderate with the American Orthopaedic Foot and Ankle Society (<i>r</i> = 0.69; 95% CI: 0.60-0.78) and the Foot and Ankle Ability Measure Activities of Daily Living Scores (<i>r</i> = 0.63; 95% CI: 0.51-0.72). Two-month ALR-RSI scores had good ability for predicting nonreturners at 4 months (area under the curve = 0.76; 95% CI: 0.6-0.9; <i>p</i> = 0.005). A Youden index of 0.51 was observed at an ALR-RSI score of 46%, corresponding to a sensitivity of 67% and specificity of 83%. Test-retest reliability of the ALR-RSI was excellent, with an ICC of 0.98 (95% CI: 0.96-0.99), a standard error of measurement of 3.02% and a minimum detectable change of 8.37%."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The results of the current study validated the ALR-RSI as an important questionnaire to assess psychological readiness to return to sport after LAS."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level II prospective cohort study."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

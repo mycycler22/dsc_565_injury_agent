@@ -1,0 +1,35 @@
+{
+  "pmid": "41733017",
+  "title": "Patient-specific psychological characteristics and personality structure affect functional outcomes after surgical stabilization of acute and chronic acromioclavicular joint injuries.",
+  "year": "2026",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of the study was to evaluate the impact of psychological factors on functional outcomes of patients undergoing isolated acromioclavicular joint (ACJ) stabilization for acute and chronic ACJ injuries."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients who underwent ACJ stabilization between January 2015 and December 2021 and had a minimum follow-up of 2 years were analysed. Functional outcome measures included Constant-Murley (CM), American Shoulder and Elbow Surgeons (ASES), Nottingham Clavicle (NC) scores and the Visual Analogue Scale (VAS) for pain. Patient-specific psychological characteristics and personality structure were evaluated using the Tampa Scale of Kinesiophobia (TSK), General Self-Efficacy Short Scale-3 (GSE-3), Big Five Inventory Scale (BFI), Revised Life Orientation Test (LOT-R) and Pain Catastrophizing Scale (PCS). Psychological readiness to return to sport was assessed with the ACJ-Return to Sport after Injury (ACJ-RSI) scale."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 142 patients (mean age at surgery: 39.2 ± 13.7 years; 93 acute and 49 chronic injuries) with a mean follow-up of 6.0 ± 2.2 years were included in the study. Patients had a mean CM of 85.2 ± 13.1, ASES of 93.0 ± 13.1, NC of 86.0 ± 13.8, VAS for pain of 2.0 ± 1.4 and ACJ-RSI of 75.0 ± 23.7 at final follow-up. The CM, ASES and NC scores were negatively correlated with the TSK (ρ = -0.30; ρ = -0.46; ρ = -0.35; P < 0.001, respectively) and the PCS (ρ = -0.32; ρ = -0.42; ρ = -0.30; P < 0.001, respectively), while for the GSE-3 a positive correlation was observed (ρ = 0.32; ρ = 0.40; ρ = 0.42; P < 0.001, respectively). LOT-R for optimism was positively correlated with ASES (ρ = 0.29; P = 0.001) and NC (ρ = 0.27; P = 0.003), while LOT-R for pessimism was only negatively correlated with ASES (ρ = -0.20; P = 0.043). Regarding the BFI, neuroticism was negatively correlated with ASES (ρ = -0.24; P = 0.008), CM (ρ = -0.22; P = 0.017) and NC (ρ = -0.23; P = 0.013)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patient-specific psychological characteristics and personality structure significantly affect functional outcomes after arthroscopically assisted ACJ stabilization for acute and chronic ACJ injuries at mid-term follow-up. Functional outcome scores were positively correlated with the patients' self-efficacy and optimistic outlook on life, while for kinesiophobia, catastrophizing of pain and neuroticism, a negative correlation was observed."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV retrospective study."
+    }
+  ],
+  "injury_query": "AC joint injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

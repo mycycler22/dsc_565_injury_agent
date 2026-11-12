@@ -1,0 +1,20 @@
+{
+  "pmid": "8775149",
+  "title": "Low-back pain in adolescent athletes.",
+  "year": "1996",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "In this 3-yr longitudinal study we investigated the occurrence of low-back pain and anatomic changes in the low back in relation to loading and injuries among 98 adolescents: 33 nonathletes (16 boys, 17 girls), 34 boy athletes (17 ice hockey, 17 soccer players), and 31 girl athletes (17 figure skaters, 14 gymnasts). During the 3-yr follow-up, low-back pain lasting longer than 1 wk was reported by 29 (45%; 95% CI, 32%-57%) athletes and by 6 (18%; 95% CI, 7%-35%) nonathletes (P = 0.0099). Acute back injury was reported by 17 of 19 subjects who also reported low-back pain (89%; 95% CI, 67%-99%) and by 2 of 63 of those without prolonged low-back pain (3%; 95% CI, 0%-11%) (P < 0.0001). Among 43 girls participating in baseline and follow-up MRI examinations of the lumbar spine, new MRI abnormalities were found in 6 of 8 reporting acute back injury (75%; 95% CI, 35%-97%) and in 8 of the remaining 35 girls (23%; 95% CI 10% to 40%) (P = 0.018). In conclusion, excessive loading that involves a risk for acute low-back injuries during the growth spurt is harmful to the lower back."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

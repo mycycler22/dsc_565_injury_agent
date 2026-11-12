@@ -1,0 +1,37 @@
+{
+  "pmid": "37789169",
+  "title": "Turf Toe Injuries in the Athlete: an Updated Review of Treatment Options, Rehabilitation Protocols, and Return-to-Play Outcomes.",
+  "year": "2023",
+  "journal": "Current reviews in musculoskeletal medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "First metatarsophalangeal joint sprains or turf toe (TT) injuries occur secondary to forceful hyperextension of the great toe. TT injuries are common among athletes, especially those participating in football, soccer, basketball, dancing, and wrestling. This review summarizes the current treatment modalities, rehabilitation protocols, and return-to-play criteria, as well as performance outcomes of patients who have sustained TT injuries."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Less than 2% of TT injuries require surgery, but those that do are typically grade III injuries with damage to the MTP joint, evidence of bony injury, or severe instability. Rehabilitation protocols following non-operative management consist of 3 phases lasting up to 10 weeks, whereas protocols following operative management consist of 4 phases lasting up 20 weeks. Athletes with low-grade injuries typically achieve their prior level of performance. However, among athletes with higher grade injuries, treated both non-operatively and operatively, about 70% are expected to maintain their level of performance. The treatment protocol, return-to-play criteria, and overall performance outcomes for TT injuries depend on the severity and classification of the initial sprain. For grade I injuries, players may return to play once they experience minimal to no pain with normal weightbearing, traditionally after 3-5 days. For grade II injuries, or partial tears, players typically lose 2-4 weeks of play and may need additional support with taping when returning to play. For grade III injuries, or complete disruption of the plantar plate, athletes lose 4-6 weeks or more depending upon treatment strategy."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [
+    {
+      "section": "RECENT FINDINGS",
+      "sentence": "Rehabilitation protocols following non-operative management consist of 3 phases lasting up to 10 weeks, whereas protocols following operative management consist of 4 phases lasting up 20 weeks."
+    },
+    {
+      "section": "RECENT FINDINGS",
+      "sentence": "For grade I injuries, players may return to play once they experience minimal to no pain with normal weightbearing, traditionally after 3-5 days."
+    },
+    {
+      "section": "RECENT FINDINGS",
+      "sentence": "For grade II injuries, or partial tears, players typically lose 2-4 weeks of play and may need additional support with taping when returning to play."
+    }
+  ],
+  "pmcid": "10587038",
+  "fulltext_chunks": []
+}

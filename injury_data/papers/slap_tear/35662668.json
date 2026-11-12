@@ -1,0 +1,37 @@
+{
+  "pmid": "35662668",
+  "title": "Biceps Tenodesis Has Greater Expected Value Than Repair for Isolated Type II SLAP Tears: A Meta-analysis and Expected-Value Decision Analysis.",
+  "year": "2022",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To use an expected-value decision analysis to determine the optimal treatment decision between repair and biceps tenodesis (BT) for an isolated type II SLAP injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "An expected-value decision analysis with sensitivity analysis was performed to systematically quantify the clinical decision. To determine outcome probabilities, a decision tree was constructed (repair vs BT) and a meta-analysis was conducted. To determine outcome utilities, we evaluated 70 patients with a chief complaint of shoulder pain regarding age, sex, Shoulder Activity Level, and visual analog scale score in terms of potential outcome preferences. Statistical fold-back analysis was performed to determine the optimal treatment. One-way sensitivity analysis determined the effect of changing the reinjury rate on the expected value of BT."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall expected value was 8.66 for BT versus 7.19 for SLAP repair. One-way sensitivity analysis showed that BT was the superior choice if reinjury rates were expected to be lower than 28%. Meta-analysis of 23 studies and 908 patients revealed that the probability of a \"well\" outcome was significantly greater for BT (87.8%; 95% confidence interval [CI], 74.9%-94.6%; I<sup>2</sup> = 0.0%) than for SLAP repair (62.9%; 95% CI, 55.9%-69.3%; I<sup>2</sup> = 65.9%; P = .0023). The rate of reinjury was 1.5% for BT (95% CI, 0.05%-33.8%; I<sup>2</sup> = 0.0%) and 6.4% for repair (95% CI, 4.2%-9.6%; I<sup>2</sup> = 24%), which was not statistically significantly different (P = .411). A total of 50 participants (mean age, 25.4 years [standard deviation, 8.9 years]; 76% male patients; 50% overhead athletes) met the inclusion criteria. Forty-six percent of participants had a high Shoulder Activity Level score."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Decision analysis showed that BT is preferred over repair for an isolated type II SLAP tear based on greater expected value of BT versus repair. Meta-analysis showed more frequent favorable outcomes with BT. Surgeons can use this information to tailor discussions with patients."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, meta-analysis of Level I-IV studies."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

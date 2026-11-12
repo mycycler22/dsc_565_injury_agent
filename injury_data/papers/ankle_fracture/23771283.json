@@ -1,0 +1,32 @@
+{
+  "pmid": "23771283",
+  "title": "Injuries of the distal tibio-fibular syndesmosis.",
+  "year": "2013",
+  "journal": "Polish orthopedics and traumatology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Inuries to distal tibiofibular syndesmosis are common in clinical practice in traumatology and are particularly frequently associated with ankle or high fibular fracture (Maisonneuve fracture). Isolated syndesmotic injuries are less frequently observed--ore often among athletes. Although injuries to ankle syndesmosis are numerous, methods of diagnosis and treatment remain controversial, and present diagnostic and therapeutic challenges."
+    },
+    {
+      "label": "MATERIAL/METHODS",
+      "text": "Medical databases PUBMED, MEDLINE EMBASE and OVID were searched by entering the key words such as tibio-fibular syndesmosis, ankle ligaments, ankle injuries, ankle fracture, ankle instability."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Almost 200 publications regarding the topic were chosen. Important information on anatomy, causes and mechanisms of injury, diagnostics and current concepts of treatment of the distal tibiotibular syndesmosis were selected."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Proper and early diagnosis and appropriate treatment, either conservative or surgical, is essential for full recovery. Due to numerous controversies regarding diagnosis and treatment of syndesmosis injuries more research is needed to establish strong recommendations for management of such injuries."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

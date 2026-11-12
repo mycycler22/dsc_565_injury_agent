@@ -1,0 +1,20 @@
+{
+  "pmid": "41517360",
+  "title": "Shoulder Instability in the U.S. Military: A Systematic Review of Epidemiology, Operative Management, and Outcomes.",
+  "year": "2025",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Background:</b> Shoulder instability imposes a substantial burden in U.S. military populations, yet epidemiology and outcomes reporting is heterogeneous. This study aims to quantify the epidemiology of shoulder instability among U.S. active-duty servicemembers and to report operative management patterns and outcomes. <b>Methods:</b> A systematic review was performed by searching MEDLINE, EMBASE, Scopus, Cochrane, and SPORTDiscus through 1 August 2025. Eligible studies enrolled U.S. active-duty servicemembers with clinical and/or radiographic evidence of instability. After a single comprehensive search with uniform inclusion criteria, studies were assigned to two prespecified cohorts: (1) epidemiology (incidence, directionality, risk factors) and (2) operative management/outcomes (procedure distribution, failure, complications, return to duty [RTD] and return to sport [RTS]). Incidence was pooled as a person-years-weighted fixed-effect estimate; directionality proportions were meta-analyzed with random-effects (logit-transformed) models among patient-level, unidirectional cases. <b>Results:</b> Forty-nine studies were included (epidemiology, <i>n</i> = 8; outcomes, <i>n</i> = 41). Three epidemiologic datasets (42,310 events; 20,472,363 person-years) yielded a pooled military incidence of 2.07 per 1000 person-years (95% CI, 2.05-2.09). Among unidirectional cases (<i>n</i> = 916 shoulders), anterior instability comprised 83.9% (95% CI, 70.5-91.9) and posterior the remaining 16.1% (95% CI, 8.1-29.5). Outcome series most commonly reported arthroscopic Bankart repair (<i>n</i> = 933 shoulders), bony augmentation (e.g., Latarjet/Bristow; <i>n</i> = 700), posterior labral repair (<i>n</i> = 649), combined repairs (<i>n</i> = 511), and open Bankart (<i>n</i> = 442). Weighted mean failure ranged 4.7-23.6%; complications 5.2-10.9%; and reoperations 5.3-17.7%. RTD ranged 50.0-84.7% and RTS 4.8-75.0%. <b>Conclusions:</b> Shoulder instability in U.S. servicemembers occurs at rates exceeding population-based civilian estimates, with a relatively greater share of posterior and combined patterns. Operative outcomes vary substantially across procedures."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

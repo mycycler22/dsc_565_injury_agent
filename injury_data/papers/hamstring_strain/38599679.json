@@ -1,0 +1,37 @@
+{
+  "pmid": "38599679",
+  "title": "The 11+ injury prevention programme decreases rate of hamstring strain injuries in male collegiate soccer players.",
+  "year": "2024",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate if the 11+ injury prevention programme decreases the risk of hamstring injury and improves recovery time and determine whether compliance with the 11+ affects hamstring injury risk."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study is a secondary analysis from a prospective cluster randomised controlled trial that included 65 National Collegiate Athletic Association (NCAA) division I and II men's soccer teams over the fall 2012 season. Thirty-one teams were randomised to the intervention group that were using the 11+ as their warm-up and 35 teams to the control group that continued to use their traditional warm-up. Each certified athletic trainer (ATC) collected data on demographics, hamstring injury (HSI), mechanism of injury, position, playing surface, time lost due to injury and compliance to the 11+ programme."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The 11+ decreased the risk of HSI by 63% compared with the control group (RR=0.37, 95% CI 0.21 to 0.63). Difference in return to play after HSI between the control (9.4±11.2 days) and intervention groups (10.2±11.3 days) was not significant (p=0.8). High compliance (>2 or more doses on average per week) reduced the risk of HSI by 78% (RR=0.22, 95% CI 0.06 to 0.87) compared with low compliance (<1 dose on average per week), and moderate compliance (1 to <2 doses on average per week) decreased the risk of HSI by 67% (RR=0.33, 95% CI 0.11 to 0.97) compared with low compliance. There was no significant difference between high and moderate compliance."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The 11+ decreased the risk of HSI by 63% but did not improve recovery time. High to moderate compliance is essential and makes the programme more effective at reducing HSI."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Difference in return to play after HSI between the control (9.4±11.2 days) and intervention groups (10.2±11.3 days) was not significant (p=0.8)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

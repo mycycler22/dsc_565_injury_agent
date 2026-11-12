@@ -1,0 +1,20 @@
+{
+  "pmid": "25037133",
+  "title": "Management of pediatric mild traumatic brain injury.",
+  "year": "2014",
+  "journal": "Advances in pediatrics",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "mTBI is a very common and underdiagnosed problem in the pediatric population. While most children who receive appropriate management recover uneventfully (80%-90%), referral to a concussion specialist is necessary for those with a complicated course. Fortunately, further improvements in identifying those children who have sustained an mTBI, coupled with strict adherence to the Return to Learn and Return to Play protocols, will ultimately lead to better long-term outcomes."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

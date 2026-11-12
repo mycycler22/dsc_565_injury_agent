@@ -1,0 +1,43 @@
+{
+  "pmid": "33110699",
+  "title": "SHOULDER AND ELBOW INJURY RATES AND CHARACTERISTICS AMONG COLLEGIATE BASEBALL STUDENT-ATHLETES.",
+  "year": "2020",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Recent research has focused on the epidemiology of shoulder and elbow injuries among high school and professional baseball players. Shoulder and elbow injury data has not been comprehensively reported among college baseball student-athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study is to describe shoulder and elbow injury rates and their characteristics among collegiate baseball student-athletes in order to improve injury prevention."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive Epidemiology Study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Shoulder and elbow injury data were obtained from the NCAA Injury Surveillance System for baseball from 2004-2014. Incidence rate ratios and descriptive analyses described injury characteristics for the shoulder and elbow, separately."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The injury rate for the shoulder was 4.02/10,000 athlete-exposures and for the elbow was 2.44/10,000 athlete-exposures. During the ten-year period, the injury rate of the shoulder has approximately decreased by 75% and of the elbow by approximately 50%. Injury rates were higher during competitions compared to practice for the shoulder (rate ratio, 1.81;95% CI, 1.51, 2.18) and elbow (rate ratio, 2.19;95% CI, 1.73, 2.78). Freshmen and juniors were most likely to sustain shoulder (F=40.6%, J = 29%) and elbow (F=33%, J=33.7%) injuries. Regarding shoulder injuries, surgery was required for 7.1%, and the outcome was season ending for 14.5%. More elbow injuries (17.5%) ended in surgery, and a greater proportion (28.9%) had season-ending injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In collegiate baseball, shoulder and elbow injury rates have decreased but still result in high morbidity. More granular analyses, especially during Division 1 competitions, are necessary for more specific interventions. While shoulder injuries are more common, elbow injuries result in a longer time to return to play and a higher proportion of surgical interventions."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

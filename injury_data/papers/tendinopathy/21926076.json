@@ -1,0 +1,31 @@
+{
+  "pmid": "21926076",
+  "title": "Incidence of midportion Achilles tendinopathy in the general population.",
+  "year": "2011",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon disorders, like Achilles tendinopathy, are very common among athletes. In the general population, however, knowledge about the incidence of Achilles tendinopathy is lacking. Design Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "In a cohort of 57.725 persons registered in primary care, the number of patients visiting the general practitioner (GP) with diagnosis of mid-portion Achilles tendon problems was counted using computerised registration networks of GPs in 2009. Subsequently, the authors assessed associations of these rates with demographic characteristics."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The incidence rate of Achilles tendinopathy is 1.85 per 1,000 Dutch GP registered patients. In the adult population (21-60 years), the incidence rate is 2.35 per 1,000. In 35% of the cases, a relationship with sports activity was recorded."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This is the first report on incidence rates of mid-portion Achilles tendinopathy in general practice. With an incidence of 1.85 per 1,000 registered persons, Achilles tendinopathy is frequently seen by GPs. The actual incidence might even be higher due to study limitations. More research on the frequency of this injury is required."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

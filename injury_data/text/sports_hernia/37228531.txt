@@ -1,0 +1,22 @@
+Title: Return To Play Rate and Performance Following Surgical Repair of Athletic Pubalgia in Major League Soccer Players: A Retrospective Case-Control Study. | Type: Journal Article | PMID: 37228531 | Year: 2023 | Injury query: sports hernia
+[UNLABELED] The average RTP time was 1.08±4.92 months.
+[FULLTEXT: Results] Demographic data Eighty-eight players underwent surgical repair for AP from 1993 through 2021. Eighty-five athletes were able to successfully RTP (96.5%). Only twenty-five MLS players met the inclusion criteria and were subsequently matched to healthy controls, with all twenty-five players successfully returning to play. There were no significant differences between the AP group and controls regarding demographic data that was collected (Tables 1 and 2). The average RTP was 1.08±4.92 months. Game statistics When comparing the combined statistics for one and two years pre-injury to one and two years post-injury, there was a significant difference in the minutes played for the AP group (4153±912.77 minutes versus 3405.36±1342.34; p=0.03) (Table 3). The AP group also showed a significant decrease in minutes (2119.48±509.72 versus 1547.04±842.96; p=0.01) and SOG (17.48±15.72 versus 9.12±10.46; p=0.04) when comparing data from one year pre-injury to two years post-injury (Table 4). There were no significant differences between the AP group and controls in matches, minutes, goals, assists, shots, and SOG (all p-values >0.05) when comparing data from both pre- and post-injury (Tables 5 and 6).
+[FULLTEXT: TABLE: Correlations of demographic characteristics with RTPRTP - return to play] Characteristics | r | p-value
+Age | 0.051 | 0.810
+BMI | 0.106 | 0.615
+Experience | 0.221 | 0.288
+Position | 0.236 | 0.256
+Height | 0.293 | 0.155
+Weight | 0.306 | 0.137
+[FULLTEXT: TABLE: Population demographics at the time of injuryRTP - return to play] Characteristics | Athletic pubalgia (n=25) | Controls (n=50) | p-value
+Position | n (%) | n (%) | 1
+Defender | 5 (20.0) | 10 (20.0) | 
+Forward | 8 (32.0) | 16 (32.0) | 
+Midfielder | 12 (48.0) | 24 (48.0) | 
+ | Mean (SD) | Mean (SD)
+Age (years) | 27.16 (3.45) | 27.44 (2.95) | 0.715
+Height (cm) | 179.32 (4.97) | 179.83 (6.20) | 0.723
+Weight (kg) | 75.95 (5.06) | 76.21 (6.14) | 0.854
+BMI (kg/m2) | 23.61 (1.10) | 23.56 (1.31) | 0.859
+Experience (years) | 5.52 (2.60) | 5.30 (2.68) | 0.736
+RTP (months) | 1.08 (4.92) | 

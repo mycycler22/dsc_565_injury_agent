@@ -1,0 +1,32 @@
+{
+  "pmid": "33514295",
+  "title": "\"Tennis Leg\": A State-of-the-Science Review.",
+  "year": "2021",
+  "journal": "Workplace health & safety",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Tennis leg (TL), a musculotendon injury to the gastrocnemius, has been associated with the eponymous sport since 1883. This article examines the historical context of TL as a sports compared with an occupational injury. This was juxtaposed with the history of tennis elbow, a tendon injury to the upper extremity also associated with sport."
+    },
+    {
+      "label": "METHODS",
+      "text": "Bibliometric databases (PubMed, Web of Science [WOS], Hathi Trust) were keyword-searched; relevant citations were investigated in depth."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The search yielded 71 citations for TL (PubMed). The majority (<i>n</i> = 43) were key word linked to sport terms; only one was linked to work-related search terms. Furthermore, none of the top four cited publications (Web of Science) alluded to work-related risk factors in TL in full textual analysis. Hathi Trust yielded the earliest work-related case, reported in a non-biomedical source. Tennis elbow was more frequently reported (<i>n</i> = 189 citations in PubMed) and more frequently linked (<i>n</i> = 193; 9.7%) to occupational search terms."
+    },
+    {
+      "label": "CONCLUSION/APPLICATION TO PRACTICE",
+      "text": "The history of TL, juxtaposed with tennis elbow, demonstrates how nosology can influence but does not wholly explain disease attribution, potentially to the detriment of taking into account occupational causality. The lack of recognition of occupational factors revealed in this literature search was notable because TL occurred most commonly in males of working age. By providing perspective on how historical context and nosology can affect the conceptualization of disease, this review may help inform prevention, treatment, and regulatory policy."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

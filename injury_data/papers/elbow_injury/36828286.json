@@ -1,0 +1,31 @@
+{
+  "pmid": "36828286",
+  "title": "Arm injury in youth baseball players: a 10-year cohort study.",
+  "year": "2023",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Arm injuries are commonly encountered in baseball as young athletes play into adulthood. The purpose of this study was to examine the incidence of arm injury and risk for surgery in adolescent baseball players followed over a 10-year period from scholastic, age-group, and travel baseball leagues through their highest level of competition."
+    },
+    {
+      "label": "METHODS",
+      "text": "A prospective study was conducted enrolling middle and high school baseball players in 2010-2012, then followed for 10 years or until retirement from competitive baseball. Players were included if fully participating in team activities at the time of preseason study enrollment. Players with prior arm (shoulder or elbow) surgery or those diagnosed with time loss arm injury within the past year were excluded. Only shoulder and elbow overuse problems resulting in time-loss from sport and medical attention from a sports medicine physician or orthopedic surgeon were documented as injuries in this study. Musculoskeletal overuse injuries were classified based on the orchard injury classification system. Incidence proportion and risk ratio (RR) and 95% confidence intervals (CIs) for initial injury and injuries requiring surgery were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 261 pitchers (age: 14.2 ± 2.6 years; follow-up: 4.2 ± 2.7 years) were enrolled. Twenty percent of the cohort was followed for ≥7 years. The overall injury incidence was 25.6/100 athletes (95% CI 21-31) with a cumulative surgical incidence of 5.4/100 athletes (95% CI 3.2-8.8). The risk of experiencing shoulder injury (n = 25) and elbow injury (n = 38) were similar (n = 38) (RR 0.7, 95% CI 0.4-1.1). The athletes also presented with a similar frequency of requiring surgery regardless of the injured body part. However, the risk of surgery in those playing beyond the high school level was 4.3 times greater (95% CI 1.2-15.0) than those only playing high school."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This is the first study to follow a large cohort of youth baseball players as they progress, showing a relatively high arm injury incidence. Shoulder and elbow injury incidence was similar but surgical risk increased playing beyond high school, specifically for the elbow. The high injury frequency and burden of care required by young baseball players as reported in this study is concerning, and strategies to reduce injury should be investigated."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

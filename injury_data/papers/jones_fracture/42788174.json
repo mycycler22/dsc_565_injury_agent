@@ -1,0 +1,35 @@
+{
+  "pmid": "42788174",
+  "title": "Global Research Trends in Metatarsal Stress Fractures in Athletes.",
+  "year": "2026",
+  "journal": "Orthopedic reviews",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Metatarsal Stress Fractures (MSFs) are commonly occurring overuse injuries for athletes and soldiers. This paper investigated publication patterns, top authors, networks, and themes associated with MSFs."
+    },
+    {
+      "label": "METHODOLOGY",
+      "text": "Bibliometric analysis of publications on MSFs published during the period from 1970-2026 was carried out using the Web of Science Core Collection. Network and visualization of bibliometric analyses were carried out using VOSviewer."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 479 publications were identified. There has been a significant rise in research output following 2011, peaking during 2017-2025 years. Subject categories with highest publication outputs were Orthopedics and Sport Sciences; the most active countries are the United States, England, and Japan; JA Nunley is the most prolific author, whereas Foot & Ankle International is the most popular journal; keywords include Jones' fractures, 5th metatarsal fracture, surgical intervention, and return to play."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Increase in publication outputs likely reflects rising sports participation levels and advances in sports medicine. Nevertheless, the majority of research is centered around Jones' fractures, surgery, with minimal interest in preventive strategies, metabolism-related risk factors, and minor metatarsal stress fractures."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Future research should focus on prevention methods, metabolism, and scientific approaches to returning to sport activities."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

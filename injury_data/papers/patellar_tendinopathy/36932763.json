@@ -1,0 +1,32 @@
+{
+  "pmid": "36932763",
+  "title": "Substantiating the predictive role of ultrasound imaging in athletes with lower limb tendinopathy: a systematic review.",
+  "year": "2023",
+  "journal": "JPMA. The Journal of the Pakistan Medical Association",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To explore the potential of ultrasound imaging to anticipate and monitor future symptoms of patellar or Achilles' tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "The systematic review comprised prospective studies that used ultrasound imaging of Achilles' OR patellar tendons in asymptomatic patients at baseline and measurements of pain and/or function at follow-up. The Critical Appraisal Skills Programme checklist used to assess study quality and it was done by two independent reviewers."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 19 studies reviewed, 9(47.3%) investigated patellar tendon alone, 6(31.5%) did both patellar and Achilles' tendon, and 4(21.2%) did Achilles tendon alone. The method of ultrasound administration was almost uniform for both the tendons. The studies showed that the use of ultrasound to predict lower limb tendinopathy was indefinite, but that a higher proportion of tendon disorganisation increased the risk of developing tendinopathy. In addition, promising results were obtained for the use of ultrasound in both Achilles' and patellar tendinopathy in monitoring the effect of load or treatment on tendon structure."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The included studies had participants from different sports. Tendon irregularities at baseline on ultrasound were related to increased risk and future occurrence of both patellar and Achilles' tendinopathy. ."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "28745561",
+  "title": "Epidemiology of Hip Flexor and Hip Adductor Strains in National Collegiate Athletic Association Athletes, 2009/2010-2014/2015.",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Little research has examined the rates and patterns of hip flexor or hip adductor strains in student-athletes in the National Collegiate Athletic Association (NCAA)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the epidemiology of hip flexor and adductor strains in NCAA athletes during the 2009/2010-2014/2015 academic years."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Rates and patterns of hip flexor and adductor strains in collegiate sports were examined in a convenience sample of NCAA varsity teams from 25 sports. Rates and distributions of strains by mechanism, recurrence, and participation restriction time were examined. Injury rate ratios (IRRs) and proportion ratios were calculated to compare rates within and between sports by event type, sex, mechanism, recurrence, and participation restriction time."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 770 hip flexor and 621 hip adductor strains were reported, resulting in overall injury rates of 1.60 and 1.29 per 10,000 athlete-exposures (AEs), respectively. In men, the rate of hip flexor strains was 1.81 per 10,000 AEs, and that for hip adductor strains was 1.71 per 10,000 AEs. In women, the rate of hip flexor strains was 1.59 per 10,000 AEs, and the rate of hip adductor strains was 1.15 per 10,000 AEs. The highest rates of strains were found in men's soccer and men's ice hockey (range, 2.47-3.77 per 10,000 AEs). Most hip flexor and hip adductor strains occurred in practice, but both had higher rates in competition. In sex-comparable sports, hip flexor strain rates did not differ between the sexes (IRR = 1.14; 95% CI, 0.96-1.36), but the rate of hip adductor strains was higher in men than women (IRR = 1.49; 95% CI, 1.22-1.81). Noncontact was the most common mechanism for both types of strains (hip flexor strains, 59.4%; hip adductor strains, 62.5%); 10.1% of hip flexor strains and 11.1% of hip adductor strains were recurrent. The highest rates of recurrence of both types of strain were found in men's and women's ice hockey (range, 16.0%-30.6%). Most hip flexor and hip adductor strains resulted in <1 week of participation restriction (hip flexor strains, 83.8%; hip adductor strains, 82.9%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The NCAA sports with the highest rates of hip flexor and hip adductor strains were men's soccer and men's ice hockey. In sex-comparable sports, men had a higher rate of hip adductor, but not hip flexor, strains. Recurrence rates were remarkably high in ice hockey. Male sports teams, especially soccer and ice hockey, should place an emphasis on prevention programs for hip adductor strains. Secondary prevention programs involving thorough rehabilitation and strict return-to-play criteria should be developed and implemented to curb the high recurrence rate of these injuries, particularly in ice hockey."
+    }
+  ],
+  "injury_query": "hip flexor strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

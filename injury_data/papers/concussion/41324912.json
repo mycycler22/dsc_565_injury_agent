@@ -1,0 +1,31 @@
+{
+  "pmid": "41324912",
+  "title": "Concussion recovery: dual-task performance and prioritization.",
+  "year": "2026",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The objective of this study was to assess a clinically feasible DT protocol consisting of the Balance Error Scoring System (BESS) and Standard Assessment of Concussion (SAC) administered simultaneously during and beyond clinically determined concussion recovery."
+    },
+    {
+      "label": "METHOD",
+      "text": "We recruited 28 collegiate student-athletes (14 post-concussion, 14 control) who performed a DT BESS and SAC assessment at three timepoints: 1) clinical recovery, 2) return to play (RTP) day, and 3) 30 days post-concussion. Scores on each component were assessed with a linear mixed model ANOVA with repeated measures and task prioritization was assessed with a Chi-Square."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There was not a significant group by time interaction for the BESS (<i>F</i>: 0.48, <i>p</i> = 0.625, <i>ή</i><sup>2</sup> = 0.018) or SAC (<i>F</i>: 1.927, <i>p</i> = 0.156, <i>ή</i><sup>2</sup> = 0.069), but there was a significant difference in task prioritization at RTP (<i>χ</i><sup>2</sup>: 13.4, <i>p</i> = 0.010)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "While group performance did not differ over time, the concussion participants had a range of task prioritizations at RTP, including mutual interference, which could help identify athletes with incomplete neurological recovery."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

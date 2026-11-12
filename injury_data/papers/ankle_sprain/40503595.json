@@ -1,0 +1,39 @@
+{
+  "pmid": "40503595",
+  "title": "The Prevalence, Size, and Anatomic Location of Cartilage and Osteochondral Lesions in Athletes With an Acute Ligamentous Ankle Injury.",
+  "year": "2025",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In athletes with an acute ligamentous ankle injury, cartilage and osteochondral lesions ([O]CLs) have been reported in 8% using 1.5-T magnetic resonance imaging (MRI). Visualization of cartilage injuries improves with the use of higher field strengths."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the prevalence, size, and anatomic location of (O)CLs in athletes with an acute ligamentous ankle injury using 3-T MRI, as well as to determine the association of (O)CLs with injury of (1) the lateral ankle ligaments and (2) anterior syndesmosis."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "For this prospective cohort study, all acute ligamentous ankle injuries in athletes (≥18 years of age) evaluated in the outpatient department of a specialized orthopaedic and sports medicine hospital within 7 days after injury were assed for eligibility. Acute ankle injuries were excluded if 3-T MRI could not be obtained within 10 days after injury or if imaging demonstrated a frank fracture. A musculoskeletal radiologist assessed MRI scans for the presence, location, and size of (O)CLs. Morphology was graded using the modified Berndt and Harty score, Griffith MRI score, and International Cartilage Regeneration & Joint Preservation Society score. In addition, injuries of the lateral ankle ligaments and anterior syndesmosis were graded. A multivariate logistic regression analysis was performed to evaluate the association between (O)CLs and injury of the (1) lateral ankle ligaments and (2) anterior syndesmosis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between September 2016 and February 2020, 171 acute ankle injuries in 166 athletes were included in this study. The overall prevalence of (O)CLs was 14%. (O)CLs of the talus and tibia were observed in 24 (14%) and 9 (5%) acute ankle injuries, respectively. Of 33 (O)CLs, 28 (85%) were classified as cartilage lesions. Lateral ligament injury was observed in 73% of acute ankle injuries, and anterior syndesmosis injury in 38%. Multivariate logistic regression analysis did not show significantly higher odds of (O)CLs in the presence of anterior syndesmosis injury (OR, 2.16; 95% CI, 0.90-5.16)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In athletes with an acute ligamentous ankle injury, a prevalence for (O)CLs of 14% was established using 3-T MRI. The majority were cartilage lesions. No statistically significant association was established between (O)CLs and lateral ligament or syndesmosis injury was established."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

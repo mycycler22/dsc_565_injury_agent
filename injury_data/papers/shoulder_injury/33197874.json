@@ -1,0 +1,44 @@
+{
+  "pmid": "33197874",
+  "title": "The validity of the sphygmomanometer for shoulder strength assessment in amateur rugby union players.",
+  "year": "2021",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Validation Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To determine the concurrent validity of a sphygmomanometer for assessing shoulder strength in the I, Y and T positions during the athletic shoulder test (ASH test). Force platforms were used as the gold standard measurement tool for this purpose."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Shoulder strength was assessed using force platforms and a sphygmomanometer, both placed on the floor and the participant positioned prone. One rater assessed strength, taking three measurements in each of the I, Y and T positions, using the sphygmomanometer and force platforms. Concurrent validity was calculated using the force platforms as the gold standard device."
+    },
+    {
+      "label": "SETTING",
+      "text": "Data was collected within the treatment room of an amateur rugby club."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Twenty male amateur rugby players (25.15 years old ± 3.27 years) were recruited for this study."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Peak force across the shoulder girdle was assessed using the force platforms and sphygmomanometer which provided values in Newtons (N) and millimetres of mercury (mmHg) respectively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Results showed high concurrent validity (Pearsons r = 0.76-0.81) between the sphygmomanometer and the force platform. Coefficient of determination (r<sup>2</sup> = 0.59-0.67) showed the sphygmomanometer to have a valid predictive model in the I, Y and T positions."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The sphygmomanometer is suitable for monitoring force transfer across the shoulder during the ASH test, and is able to quantify peak force in mmHg. The sphygmomanometer enables coaches and clinicians to accurately quantify force production across the shoulder girdle in order to screen and monitor players at a low cost."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

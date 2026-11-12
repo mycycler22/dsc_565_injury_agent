@@ -1,0 +1,31 @@
+{
+  "pmid": "38267763",
+  "title": "Diffusion tensor imaging of hamstring muscles after acute strain injury and throughout recovery in collegiate athletes.",
+  "year": "2024",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To identify the region of interest (ROI) to represent injury and observe between-limb diffusion tensor imaging (DTI) microstructural differences in muscle following hamstring strain injury."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Participants who sustained a hamstring strain injury prospectively underwent 3T-MRI of bilateral thighs using T1, T2, and diffusion-weighted imaging at time of injury (TOI), return to sport (RTS), and 12 weeks after RTS (12wks). ROIs were using the hyperintense region on a T2-weighted sequence: edema, focused edema, and primary muscle injured excluding edema (no edema). Linear mixed-effects models were used to compare diffusion parameters between ROIs and timepoints and limbs and timepoints."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-four participants (29 injuries) were included. A significant ROI-by-timepoint interaction was detected for all diffusivity measures. The edema and focused edema ROIs demonstrated increased diffusion at TOI compared to RTS for all diffusivity measures (p-values < 0.006), except λ<sub>1</sub> (p-values = 0.058-0.12), and compared to 12wks (p-values < 0.02). In the no edema ROI, differences in diffusivity measures were not observed (p-values > 0.82). At TOI, no edema ROI diffusivity measures were lower than the edema ROI (p-values < 0.001) but not at RTS or 12wks (p-values > 0.69). A significant limb-by-timepoint interaction was detected for all diffusivity measures with increased diffusion in the involved limb at TOI (p-values < 0.001) but not at RTS or 12wks (p-values > 0.42). Significant differences in fractional anisotropy over time or between limbs were not detected."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Hyperintensity on T2-weighted imaging used to define the injured region holds promise in describing muscle microstructure following hamstring strain injury by demonstrating between-limb differences at TOI but not at follow-up timepoints."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

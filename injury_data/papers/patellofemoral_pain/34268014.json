@@ -1,0 +1,31 @@
+{
+  "pmid": "34268014",
+  "title": "The effects of hip- and ankle-focused exercise intervention on dynamic knee valgus: a systematic review.",
+  "year": "2021",
+  "journal": "PeerJ",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "A range of non-contact injuries such as anterior cruciate ligament tear, and patellofemoral pain syndrome are caused by disordered knee joint loading from excessive dynamic knee valgus (DKV). Previous systematic reviews showed that DKV could be modified through the influence of hip strength and ankle range of motion. Therefore, the purpose of this systematic review was to examine the effects of exercise intervention which involved either top-down or bottom-up kinetic chains on minimizing DKV in male and female adults and adolescents, with and without existing knee pain."
+    },
+    {
+      "label": "METHODOLOGY",
+      "text": "Electronic searches were conducted in SAGE, Science Direct, SCOPUS, and Pubmed. The search strategy consisted of medical subject headings and free-text search keywords, synonyms and variations of 'exercise intervention,' 'knee alignment,' 'dynamic knee valgus', 'knee abduction' that were merged via the Boolean operator 'AND' and 'OR'. The search was conducted on full-text journals that documented the impact of the exercise intervention program involving either the bottom-up or top-down DKV mechanism on the knee kinematics. Furthermore, exercise intervention in this review should last at least one week which included two or three sessions per week. This review also considered both men and women of all ages with a healthy or symptomatic knee problem. The risk of bias of the included studies was assessed by Cochrane risk assessment tool. The protocol of this review was registered at PROSPERO (registration number: CRD42021219121)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ten studies with a total of 423 participants (male = 22.7%, female = 77.3%; adults = 249, adolescents = 123; pre-adolescent = 51) met the inclusion criteria of this review. Seven studies showed the significant effects of the exercise intervention program (range from two weeks to ten weeks) on reducing DKV. The exercise training in these seven studies focused on muscle groups directly attached to the knee joint such as hamstrings and gastrocnemius. The remaining three studies did not show significant improvement in DKV after the exercise intervention (range between eight weeks to twelve weeks) probably because they focused on trunk and back muscles instead of muscles crossing the knee joint."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Exercises targeting specific knee-joint muscles, either from top-down or bottom-up kinetic chain, are likely to reduce DKV formation. These results may assist athletes and coaches to develop effective exercise program that could minimize DKV and ultimately prevent lower limb injuries."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "34126566",
+  "title": "The importance of biomechanical assessment after Return to Play in athletes with ACL-Reconstruction.",
+  "year": "2021",
+  "journal": "Gait & posture",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Barriers to successful return to previous level of activity following Anterior Cruciate Ligament Reconstruction (ACLR) are multifactorial and recent research suggests that athletic performance deficits persist after completion of the rehabilitation course in a large percentage of patients."
+    },
+    {
+      "label": "RESEARCH QUESTION",
+      "text": "Do technology-based biomechanical assessments reveal underneath differences in both recreational and competitive athletes in Return to Play after ACL-Reconstruction?"
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty soccer athletes (26.9 ± 5.7 years old, male) with ACL injury were surgically treated with all-inside technique and semitendinosus tendon autograft. Before 2 years from surgery, they were called back for clinical examination, self-reported psychological scores, and biomechanical outcomes (balance, strength, agility and velocity, and symmetry). Athletes were classified into recreational (n = 15) and competitive (n = 15) according to the self-reported Return to Play Level based on the TALS post-injury. Nonparametric statistical tests have been adopted for group comparisons in terms of age, concomitant presence of meniscus tear, injury on dominant leg, presence of knee laxity, presence of varus/valgus, body sides, and return to different levels of sports."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Competitive athletes showed better in terms of strength (45.3 ± 5.4 W kg<sup>-1</sup> vs 39.3 ± 3.4 W kg<sup>-1</sup>, P ≤ 0.01) associated with good self-reported outcomes (TLKS, CRSQ) and low fear of reinjury (TSK). However, all the athletes had a functional deficit in at least one subtest, and a safe return to sports could not have been recommended. Our findings confirmed that demographics, physical function, and psychological factors were related to playing the preinjury level sport at mean 2 years after surgery, supporting the notion that returning to sport after surgery is multifactorial."
+    },
+    {
+      "label": "SIGNIFICANCE",
+      "text": "A strict qualitative and quantitative assessment of athletes' status should be performed at different follow-ups after surgery to guarantee a safe and controlled RTP."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Our findings confirmed that demographics, physical function, and psychological factors were related to playing the preinjury level sport at mean 2 years after surgery, supporting the notion that returning to sport after surgery is multifactorial."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

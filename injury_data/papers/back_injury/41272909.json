@@ -1,0 +1,31 @@
+{
+  "pmid": "41272909",
+  "title": "Trunk muscle morphology and lumbopelvic stability in adolescent soccer players with unilateral lumbar spondylolysis: a cross-sectional study.",
+  "year": "2025",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Lumbar spondylolysis (LS) is a common cause of low back injury in adolescent athletes; however, little is known about the relationship between trunk muscle morphology, lumbopelvic control, and LS. This study aimed to clarify trunk muscle morphology and clinical test characteristics in adolescent male soccer players with unilateral lumbar spondylolysis (uni-LS)."
+    },
+    {
+      "label": "METHODS",
+      "text": "In total, 19 of the 107 adolescent male soccer players were enrolled and categorized into a uni-LS group, based on magnetic resonance imaging (MRI), and an age-, height-, and weight-matched control group. MRI-derived cross-sectional areas (CSAs) of the L4/5 vertebrae were extracted, and the psoas major (PM), multifidus (MF), and erector spinae (ES) muscles were analyzed. Active straight leg raise (ASLR) and hip extension (HE) tests were performed, and lumbopelvic depression was evaluated. Two-way analysis of variance was applied to determine trunk muscle CSA differences between groups, and the two-sided Fisher's exact test was employed to evaluate the association between uni-LS and clinical findings."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A significant main effect [F (1,35) = 15.1, p < 0.001] and interaction effect [F (1,35) = 4.1, p = 0.047] were found in the PM, indicating a smaller PM on the LS side in the uni-LS group. A significant association was also observed between uni-LS and ASLR on the LS side, with 13 of 16 players (81.2%) showing positive ASLR corresponding to the uni-LS group (p = 0.003)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A smaller PM and lumbopelvic depression during ASLR on the LS side characterize adolescent soccer players with uni-LS. These findings may provide useful information to help clinicians understand potential characteristics of uni-LS."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

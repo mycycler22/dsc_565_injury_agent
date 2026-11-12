@@ -1,0 +1,31 @@
+{
+  "pmid": "34015435",
+  "title": "Pitch break and performance metrics remain unchanged in pitchers who returned to the same level of play after ulnar collateral ligament reconstruction in Major League Baseball pitchers.",
+  "year": "2021",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The ulnar collateral ligament is commonly injured in overhead-throwing athletes, particularly baseball pitchers. Pitch movement (break) is a critical aspect to pitching performance. The primary purpose of this study was to determine the changes in pitch velocity, pitch break, angle of break, and pitch performance metrics before and after ulnar collateral ligament reconstruction (UCLR) in Major League Baseball (MLB) pitchers. The secondary purpose was to determine changes in pitch performance metrics before and after UCLR. We hypothesized that pitch break and pitch performance metrics would be unchanged following UCLR."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "This was a retrospective case-series study of pitchers who had undergone primary UCLR between 2008 and 2014. Velocity, horizontal movement (Hmov), and vertical movement (Vmov) of each pitch were collected from the PITCHf/x system for each pitcher 12-24 months before surgery, 12-24 months after surgery, and 24-36 months after surgery. Overall break was calculated by taking the Pythagorean sum of Hmov and Vmov. Angle of break was determined by taking the inverse tangent of Vmov divided by Hmov. Repeated-measures analysis of covariance was performed to determine differences in pitch velocity, movement, angle of movement, and performance metrics between preoperative and postoperative time frames. Performance metrics included balls, strikes, swings, fouls, swings and misses, ground balls, line drives, pop-ups, fly balls, and home runs. Covariates included age at surgery, time from MLB debut to surgery, innings pitched as a starter, innings pitched as a reliever, and total pitches thrown."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In a cohort of 46 pitchers who underwent UCLR between 2008 and 2014, pitch velocity, movement, and angle were not significantly changed with respect to preoperative or postoperative time frames. In addition, postoperative time frames had clinically insignificant differences in pitch performance metrics."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Pitch break and performance metrics are not significantly affected in pitchers who return after UCLR."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

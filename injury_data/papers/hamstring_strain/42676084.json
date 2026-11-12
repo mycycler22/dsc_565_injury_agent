@@ -1,0 +1,24 @@
+{
+  "pmid": "42676084",
+  "title": "Timing and Dose Matter: Late High-Speed Exposure and Higher High-Intensity Acceleration Volumes Reduce Hamstring Reinjury Risk in Elite Male Football (Soccer).",
+  "year": "2026",
+  "journal": "The Journal of orthopaedic and sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>OBJECTIVES:</b> The aims of this study were to (a) investigate whether the timing and magnitude of exposure to high-speed running (HSR), sprinting, and high-intensity accelerations during on-field rehabilitation after hamstring strain injury were associated with reinjury risk and (b) examine changes in match running performance upon return to play (RTP). <b>DESIGN:</b> Retrospective cohort study. <b>METHODS:</b> Data from 95 elite male football (soccer) players from five professional clubs competing in major European and Middle Eastern leagues were analyzed. Players with complete rehabilitation load profiles were included in the 2-month and 6-month reinjury analysis. Modified Poisson regression assessed associations between rehabilitation load characteristics and reinjury risk. Match running performance (HSR distance, sprint distance, and high-intensity accelerations per minute) during the five matches before injury and the first five matches after RTP was compared using paired t-tests for the entire cohort. <b>RESULTS:</b> Late introduction of HSR, sprinting, and high-intensity accelerations during rehabilitation (ie, ≥ 60% of rehabilitation progression) was associated with a significantly lower reinjury risk at 2 months (relative risk [RR] range = 0.948-0.969; <i>P</i> < .01) and 6 months (RR range = 0.964-0.979; <i>P</i> < .05). Higher daily exposure to high-intensity accelerations once introduced was protective (RR = 0.861 (0.778-0.951)). There were no meaningful associations between total volume of HSR or sprinting and reinjury. Match running performance metrics did not differ between pre-injury and post-RTP matches (all <i>P</i> > .05). Changes in performance were not correlated with rehabilitation load characteristics. <b>CONCLUSION:</b> The timing of high-intensity running exposure during on-field rehabilitation appeared associated with a lower hamstring reinjury risk. Delaying the introduction of HSR, sprinting, and accelerations, followed by a structured and progressive build-up, was associated with lower risk of reinjury without compromising the subsequent match performance of elite male football players. <i>J Orthop Sports Phys Ther 2026;56(9):611-621. Epub 7 Jul 2026. doi:10.2519/jospt.2026.14077</i>."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Match running performance (HSR distance, sprint distance, and high-intensity accelerations per minute) during the five matches before injury and the first five matches after RTP was compared using paired t-tests for the entire cohort. <b>RESULTS:</b> Late introduction of HSR, sprinting, and high-intensity accelerations during rehabilitation (ie, ≥ 60% of rehabilitation progression) was associated with a significantly lower reinjury risk at 2 months (relative risk [RR] range = 0.948-0.969; <i>P</i> < .01) and 6 months (RR range = 0.964-0.979; <i>P</i> < .05)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

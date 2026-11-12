@@ -1,0 +1,29 @@
+{
+  "pmid": "30397831",
+  "title": "Prognostic Factors in Pediatric Sport-Related Concussion.",
+  "year": "2018",
+  "journal": "Current neurology and neuroscience reports",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Sport-related concussion (SRC) and mild traumatic brain injury (mTBI) have been thrust into the national spotlight, with youth athletes bearing the burden of this public health problem. The current review aims to provide a practical summary of pediatric SRC, including key terminology, return to play/school, and risk factors for post-concussion syndrome (PCS)."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "While the majority of youth athletes recover within 2 to 4 weeks, approximately 10% of athletes experience a protracted recovery with symptoms lasting months, impacting social, scholastic, and sporting activities. In the pediatric population, the strongest predictors of PCS are initial symptom burden and prior concussion, with mixed results behind the factors of gender, headaches, and learning disability. The role of psychiatric, family history, sports, and socioeconomic factors remain in their infancy."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RECENT FINDINGS",
+      "sentence": "While the majority of youth athletes recover within 2 to 4 weeks, approximately 10% of athletes experience a protracted recovery with symptoms lasting months, impacting social, scholastic, and sporting activities."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

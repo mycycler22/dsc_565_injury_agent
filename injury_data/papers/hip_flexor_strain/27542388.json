@@ -1,0 +1,25 @@
+{
+  "pmid": "27542388",
+  "title": "A Pain in the Psoas.",
+  "year": "2016",
+  "journal": "Sports health",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "General medical conditions are an important part of the differential diagnosis in athletes presenting with pain or injury. A psoas abscess is a collection of pus in the iliopsoas muscle compartment and is a rare cause of hip, low back, or groin pain. Psoas abscesses may have significant morbidity and mortality, as 20% progress to septic shock. Presenting symptoms are generally nonspecific and the onset may be subacute. Clinical presentation may have features suggestive of other diagnoses, including septic hip arthritis, iliopsoas bursitis, and retrocecal appendicitis. Proper diagnosis and management is critical to prevent complications of septic shock and death. In this unique case, a 19-year-old Division 1 collegiate football player presented to the emergency department 4 days following injury to his right groin during football practice. He complained of severe right groin pain accompanied by fatigue, fevers, nausea, and diarrhea. He later developed septic shock with multisystem organ dysfunction, requiring advanced life support. Imaging revealed an abscess located in the right iliopsoas compartment. After proper treatment, the athlete eventually made a complete recovery, returning to collegiate football 4 months postinjury. A literature review found no described cases of psoas abscess related to athletes with acute hip flexor strain. This athlete had no known risk factors for psoas abscess. This case highlights the importance of maintaining a broad differential in an athlete presenting with pain after injury. Making the diagnosis of psoas abscess often requires a high degree of suspicion and timely acquisition of imaging studies. In this particular case, imaging was key to making a proper diagnosis and tailoring treatment not only to return him to sport but also to save his life."
+    }
+  ],
+  "injury_query": "hip flexor strain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "After proper treatment, the athlete eventually made a complete recovery, returning to collegiate football 4 months postinjury."
+    }
+  ],
+  "pmcid": "5089355",
+  "fulltext_chunks": []
+}

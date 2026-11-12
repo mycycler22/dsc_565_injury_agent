@@ -1,0 +1,37 @@
+{
+  "pmid": "38992731",
+  "title": "Effect of aquatic versus conventional physical therapy program on ankle sprain grade III in elite athletes: randomized controlled trial.",
+  "year": "2024",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Ankle sprains are the second most common sports injury after knee injuries, with about 85% of them affecting the lateral ankle ligaments. These injuries are particularly prevalent in sports like basketball and volleyball."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the effect of Aquatic therapy as an early rehabilitation protocol for elite athletes with acute lateral ankle sprain grade III on back-to-sport time, dynamic balance, pain, Athletic performance, and muscle power compared to land-based exercise training."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty elite athletes have ankle sprain grade III with sprain onset from 1 to 7 days, their age ranges from 18-30 years old were recruited. All participants are professional athletes; mainly participating in above-head sports such as volleyball and basketball. The patients were randomly allocated into two treatment groups: Group I (control group): 15 patients received a conventional physical therapy program of structured therapeutic exercise program, manual therapy and land-based exercises, in addition to external support, and Group II (Aquatic therapy group): 15 patients received aquatic training. Visual Analog Scale (VAS) was used to measure the pain intensity, while the dynamic balance was measured by the Star Excursion Balance Test. Athletic performance was measured by HOP Tests (Single, Triple, 6-m, and Cross-over hops) aided by the Agility T-Test (ATT) and Illinois Agility Test (IAT). Muscle power was tested by a Single Leg Press. Finally, back to sports time was recorded for each participant in both groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There was a significant interaction effect of Aquatic therapy and time for VAS (p < 0.001), single hop (p < 0.001), triple hop (p < 0.001), cross-over hop (p < 0.001), IAT (p = 0.019) and ATT (p < 0.001) of both affected and nonaffected. There was no significant interaction effect of Aquatic therapy and time for 6-MHT of affected (p = 0.923), and nonaffected (p = 0.140). There was a significant main effect of time for all dependent variables (p < 0.001) except for 6-MHT of affected (p = 0.939), nonaffected (p = 0.109), and IAT (p = 0.099). The Star excursion dynamic balance test (SEBT) and Single leg press revealed a significant difference between groups on affected and non-affected sides (p < 0.001*). Lastly and most importantly the back-to-sport time revealed a significant difference in the return-to-sport time in favor of the Aquatic therapy group who returned faster than the control group (p < 0.001*)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Aquatic therapy is more effective than traditional protocols regarding early rehabilitation of acute ankle sprain grade III in Elite professional athletes for reducing pain intensity, improving dynamic balance and athletic performance and power and accelerating their return to sports time. Because aquatic therapy produces better outcomes, it is advised to be included in the rehabilitation programs of athletic patients with acute ankle sprains grade III."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

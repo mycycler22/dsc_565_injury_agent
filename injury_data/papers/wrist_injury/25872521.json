@@ -1,0 +1,40 @@
+{
+  "pmid": "25872521",
+  "title": "Prevalence, incidence and risk factors for overuse injuries of the wrist in young athletes: a systematic review.",
+  "year": "2015",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Overuse wrist injuries can cause long-term symptoms in young athletes performing wrist-loading sports. Information on the prevalence, incidence and associated risk factors is required."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "We aimed to review the prevalence and incidence of overuse wrist injuries in young athletes and to identify associated risk factors. We focused on popular wrist-loading youth sports-gymnastics, tennis, field hockey, volleyball, judo and rowing."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a literature search on athletes aged <18 years performing wrist-loading focus sports. Prevalence, incidence and/or risk factor ORs for overuse wrist injuries were extracted directly or calculated from reported data."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The search identified six studies on prevalence, five on incidence, and one on risk factors. Prevalence rates were 32-73% for wrist pain and 10-28% for overuse wrist injury. Incidence rates were 7-9% for wrist pain and 0.02-26% for overuse wrist injury. The three criteria associated with wrist pain were (with OR): age of 10-14 years (11.5), training intensity (1.2), and earlier onset of gymnastics training (1.97)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Prevalence and incidence of overuse wrist injuries was high in multiple studies of gymnasts, and largely unknown in other wrist-loading focus sports. Three key risk factors for wrist pain in gymnasts were age between 10 and 14 years, earlier training commencement, and training intensity. Using 'wrist pain' in defining overuse, and further investigating risk factors can aid in identifying overuse wrist injuries in young athletes."
+    }
+  ],
+  "injury_query": "wrist injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

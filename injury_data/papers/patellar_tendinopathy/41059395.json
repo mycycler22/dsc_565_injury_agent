@@ -1,0 +1,35 @@
+{
+  "pmid": "41059395",
+  "title": "Platelet-rich plasma for patellar tendinopathy: a randomized controlled trial correlating clinical outcomes and quantitative imaging.",
+  "year": "2024",
+  "journal": "Radiology advances",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy is a common overuse injury in active individuals, often with incomplete recovery. Recently, platelet-rich plasma (PRP) treatment has shown promising results. Traditional qualitative markers are not reliable indicators of treatment response. Advanced quantitative imaging, such as ultrashort-echo time (UTE) MRI and US shear-wave elastography may be valuable adjuncts."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the clinical outcomes and quantitative imaging changes in adults with symptomatic patellar tendinopathy treated with PRP, needle tenotomy, or sham injection."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "Single-blinded prospective randomized controlled trial from April 2017 until July 2022 with 3 parallel interventions in athletes with symptomatic patellar tendinopathy: PRP, needle tenotomy, and sham injection. Visual analog scale for pain, patella tendinopathy-specific Victorian Institute of Sport Assessment Patella function, conventional US, shear wave speed (SWS), UTE T2* relaxation time (T2*<sub>single</sub>), and T2* fraction of fast-relaxing macromolecular-bound water were acquired at 0, 16 and 52 weeks. Longitudinal analyses were used to compare intra- and inter-group differences over time. Correlations were assessed by Pearson's correlation coefficient."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 29 subjects (mean age, 26.1 ± 5.3 years; 82.8% men) were randomized. At 52 weeks, all groups demonstrated a significant improvement in pain, though most pronounced within the PRP group ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>Δ</mo></math> visual analog scale = -5.9, 95% confidence interval [-7.8 to -3.9], <i>P</i> < .001). SWS increased significantly only in the PRP group ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>Δ</mo></math> +2.3 [0.8-3.9], <i>P</i> = .003). Change in SWS was moderately correlated with change in pain across all groups (<i>r</i> = -.52 [-.76 to -.15], <i>P</i> = .009). T2* fraction of fast-relaxing macromolecular-bound water significantly increased in all groups ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>Δ</mo> <mo> </mo></math> = 0.10-0.11, <i>P</i> = .024-0.046); a significant decrease in T2*<sub>single</sub> was only seen in the PRP group ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>Δ</mo></math>  = -8.07 [-14.6 to -1.55], <i>P</i> = .014)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Clinical improvement was evident regardless of treatment but was greatest with PRP. SWS correlated with improvement in pain and may represent an adjunctive measure to assess healing in patellar tendinopathy. Correlative changes in T2* UTE quantitative markers suggest their potential for response assessment, but further research is needed to clarify their clinical applicability."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

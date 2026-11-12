@@ -1,0 +1,19 @@
+{
+  "pmid": "34514910",
+  "title": "Are subject-specific models necessary to predict patellar tendon fatigue life? A finite element modelling study.",
+  "year": "2022",
+  "journal": "Computer methods in biomechanics and biomedical engineering",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Patellar tendinopathy is an overuse injury that occurs from repetitive loading of the patellar tendon in a scenario resembling that of mechanical fatigue. As such, fatigue-life estimates provide a quantifiable approach to assess tendinopathy risk and may be tabulated using nominal strain (NS) or finite element (FE) models with varied subject-specificity. We compared patellar tendon fatigue-life estimates from NS and FE models of twenty-nine athletes performing countermovement jumps with subject-specific versus generic geometry and material properties. Subject-specific patellar tendon material properties and geometry were obtained using a data collection protocol of dynamometry, ultrasound, and magnetic resonance imaging. Three FE models were created for each subject, with: subject-specific (hyperelastic) material properties and geometry, subject-specific material properties and generic geometry, and generic material properties and subject-specific geometry. Four NS models were created for each subject, with: subject-specific (linear elastic) material properties and moment arm, generic material properties and subject-specific moment arm, subject-specific material properties and generic moment arm, and generic material properties and moment arm. NS- and FE-modelled fatigue-life estimates with generic material properties were poorly correlated with their subject-specific counterparts (<i>r<sup>2</sup></i>≤0.073), while all NS models overestimated fatigue life compared to the subject-specific FE model (<i>r<sup>2</sup></i>≤0.223). Furthermore, FE models with generic tendon geometry were unable to accurately represent the heterogeneous strain distributions found in the subject-specific FE models or those with generic material properties. These findings illustrate the importance of incorporating subject-specific material properties and FE-modelled strain distributions into fatigue-life estimations."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

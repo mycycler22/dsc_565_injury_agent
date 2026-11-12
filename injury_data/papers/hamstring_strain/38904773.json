@@ -1,0 +1,31 @@
+{
+  "pmid": "38904773",
+  "title": "Biceps femoris long head stiffens after 2 weeks of training cessation in highly trained sprinters.",
+  "year": "2024",
+  "journal": "European journal of applied physiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Most athletes experience short-term training cessation because of illness, injury, post-season vacation, or other reasons. Passive muscle stiffness is a potential risk factor for a sprint-type hamstring strain injury, but limited information is available about the effect of short-term training cessation on passive muscle stiffness. The present study aimed to identify whether and how passive muscle stiffness of the biceps femoris long head (BFlh) would vary due to 2 weeks of training cessation in sprinters."
+    },
+    {
+      "label": "METHODS",
+      "text": "Passive BFlh shear-wave speed (a proxy for stiffness) was measured using ultrasound shear-wave elastography in 28 male sprinters, before and after 2 weeks of intervention. During the 2 weeks, the participants in the training-cessation group (n = 14) were allowed to maintain their normal daily activities but not to perform any physical training, including stretching and resistance exercises. The participants in the training continuation group (n = 14) performed the training (including maximum speed sprint, plyometric, and weight training) prescribed by their coaches 5 days per week."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the training-cessation group, passive BFlh shear-wave speed increased after the 2 weeks of training cessation (4.75 ± 0.77 to 5.00 ± 0.88 m/s, P < 0.001). In contrast, there was no significant difference before and after the 2 weeks of training continuation (4.90 ± 0.85 to 4.93 ± 0.85 m/s, P = 0.521)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The present findings indicate that muscles stiffen by training cessation in sprinting athletes."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

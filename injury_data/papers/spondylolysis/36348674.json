@@ -1,0 +1,57 @@
+{
+  "pmid": "36348674",
+  "title": "Rates of Return to Sports and Recurrence in Pediatric Athletes after Conservative Treatment for Lumbar Spondylolysis.",
+  "year": "2022",
+  "journal": "Spine surgery and related research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Lumbar spondylolysis is common in pediatric athletes, and many athletes can return to sports with conservative treatment. There are two initial treatment strategies: bony union or pain management, but the outcomes of these strategies have not been clarified. The purpose of this study is to investigate the rates of return to sports (RTS) and recurrence in pediatric athletes after conservative treatment for lumbar spondylolysis and to compare both treatment strategies."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 180 patients with lumbar spondylolysis were managed with a trunk brace and cessation of sports activity (bone union [BU] group, n=95) or treated for pain only (pain management [PM] group, n=85). RTS and recurrence rates according to type of conservative treatment were compared."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The RTS rate was 98.9% in the BU group and 97.6% in the PM group at 4.7±1.9 and 1.8±1.7 months, respectively. Recurrence occurred in 7.4% of patients in the BU group at 19.0±16.0 months and in 4.8% of the PM group at 17.8±5.2 months."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The RTS rate in pediatric athletes with lumbar spondylolysis was high at more than 95%, regardless of type of conservative treatment. The mean time to RTS was longer in the BU group than in the PM group (4.7 <i>vs</i>. 1.8 months) because of the time required for bone healing. There were several cases of recurrence after RTS. Strategies to prevent recurrence of lumbar spondylolysis in pediatric athletes are discussed."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The RTS rate was 98.9% in the BU group and 97.6% in the PM group at 4.7±1.9 and 1.8±1.7 months, respectively."
+    },
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "The mean time to RTS was longer in the BU group than in the PM group (4.7 <i>vs</i>. 1.8 months) because of the time required for bone healing."
+    }
+  ],
+  "pmcid": "9605750",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "The RTS rate was 98.9% in the BU group and 97.6% in the PM group at 4.7±1.9 and 1.8±1.7 months, respectively. Recurrence occurred in 7.4% of patients in the BU group at 19.0±16.0 months and in 4.8% of the PM group at 17.8±5.2 months."
+    },
+    {
+      "section": "RTS rate and time to RTS",
+      "text": "RTS was possible in 94 of 95 patients (98.9%) in the BU group. The mean time to RTS was 4.7±1.9 months. In this group, the mean duration of brace therapy for BU was 3.4±1.5 months. RTS was possible in 83 of 85 patients (97.6%) in the PM group. The mean time to RTS was 1.8±1.7 months. There was a significant difference in the time to RTS between the groups (P<0.01). RTS was not possible in one patient in the BU group and in two in the PM group. One patient in the BU group and one patient in the PM group did not resume sports activities for a nonmedical reason. Both patients were third-year high-school students who did not continue sports activities after graduating high school. RTS was not possible in the other patient in the PM group because of persistent pain."
+    },
+    {
+      "section": "Return to sports",
+      "text": "The RTS rate was high, over 95%, in both the BU and PM groups. This result was consistent with previous studies13-15). The cessation of sports activities, physical rehabilitation, and pain relief has been reported to be important for RTS in these patients16,17). Patients in this study received rehabilitation and ceased sports activities for the purpose of reducing pain, and those who did not adhere to the rehabilitation protocol were excluded. As we strongly recommended the rehabilitation program and 180 patients (88.7%) completed the program, a high rate of RTS was successfully obtained. In the two patients who did not resume sports activities for nonmedical reasons, their motivation for sports may have decreased during conservative therapy. Maintaining motivation for RTS in the treatment of pediatric patients with lumbar spondylolysis may be an important issue for sports physicians, therapists, and trainers. The time to RTS was longer in the BU group than in the PM group because of the need for brace therapy. Sys et al. reported that the average time to RTS was 5.5 months9), which is similar to that in our BU group. Several reports in the literature describe a time to RTS in the range of 2-7 months after conservative treatment13-15), but do not mention whether the aim was BU or PM. In this study, the average time to RTS was 4.7±1.9 months in the BU group. Brace therapy was required for a mean of 3.4±1.5 months in this group. Therefore, RTS was possible at about 1.3 months after finishing brace therapy when the aim was BU. In the PM group, the average time to RTS was 1.8±1.7 months. When the duration of brace therapy was excluded, the time to RTS was similar between the two groups. Therefore, the treatment strategy chosen does not affect the duration of physical rehabilitation required for RTS."
+    },
+    {
+      "section": "TABLE: Characteristics of Recurrent Cases after Return to Sports.",
+      "text": "Case number | First lesion | Recurrent lesion\nVertebral level | Staging | Determination of BU | Interval until recurrence, months | Vertebral level | Interval until recurrence, months\nBU group |  |  |  |  |  | \n1 | L5, left side | Early | Union | 6 | L5, left side | 8\n2 | L5, left side | Progressive | Non-union | 2 | L4, right side | 37\n3 | L4, L5, bilateral | L4, early; L5, terminal | L4 Union | 3 | L4, right side | 1\n4 | L3, left side | Early | Union | 4 | L4, left side | 14\n5 | L5, left side | Early | Union | 5 | L5, left side | 6\n6 | L5, right side | Early | Union | 5.5 | L4, right side | 42\n7 | L5, left side | Early | Union | 4 | L5, left side | 25\nPM group |  |  |  |  |  | \n1 | L5, bilateral | Terminal | - | 1 | L3, right side | 20\n2 | L4, left side | Early | Union | 0.25 | L4, left side | 14\n3 | L5, bilateral | Terminal | - | 1 | L4, right side | 13\n4 | L5, bilateral | Terminal | - | 9 | L4, right side | 24"
+    }
+  ]
+}

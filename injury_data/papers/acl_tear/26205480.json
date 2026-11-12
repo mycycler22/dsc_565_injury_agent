@@ -1,0 +1,35 @@
+{
+  "pmid": "26205480",
+  "title": "Return to sport: Does excellent 6-month strength and function following ACL reconstruction predict midterm outcomes?",
+  "year": "2017",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this study was to determine whether patients with excellent 6-month functional testing after ACL reconstruction had (1) higher risk of subsequent ACL tears, (2) superior knee function, and (3) increased activity levels compared to those with delayed clearance for return to sports at midterm follow-up."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 223 patients underwent primary ACL reconstruction by a single surgeon and had functional and isokinetic testing performed 6 months post-operatively between 1998 and 2005. Of the 223 patients, 52 (23 %) made the excellent group and were allowed return to sport at 6 months, and the remaining 171 (77 %) constituted the delayed group. Rate of ACL graft tear and native contralateral ACL tear was compared between groups. In addition, IKDC and Tegner scores were compared at a mean 4-year follow-up."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The graft rupture rate was similar in the excellent group (3.8 %, n = 2) compared to the delayed group (4.7 %, n = 8; p = 0.30). However, there was a higher rate of contralateral ACL tear in the excellent group (15.4 %, n = 8 vs. 5.3 %, n = 9; p = 0.003). The excellent 6-month group had superior IKDC scores (94.3 ± 6.4 vs. 90.9 ± 9.7; p = 0.04) and Tegner scores (6.6 ± 1.8 vs. 5.7 ± 1.6; p = 0.01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patients with an excellent performance on their isokinetic strength and functional testing at 6 months after ACL reconstruction have superior knee function and higher activity levels at midterm follow-up. However, these patients appear to be at greater risk of contralateral ACL injury, which may be related to their increased activity level. When isokinetic and functional testing is used for return-to-sport decisions, physicians should caution patients about the risk of contralateral ACL injury for high performing patients."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Retrospective Review with Control, Level III."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

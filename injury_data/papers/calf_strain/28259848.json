@@ -1,0 +1,36 @@
+{
+  "pmid": "28259848",
+  "title": "Calf muscle strain injuries in sport: a systematic review of risk factors for injury.",
+  "year": "2017",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To systematically review the literature to identify risk factors for calf strain injury, and to direct future research into calf muscle injuries."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review DATA SOURCES: Database searches conducted for Medline, CINAHL, EMBASE, AMED, AUSPORT, SportDiscus, PEDro and Cochrane Library. Manual reference checks, ahead of press searches, citation tracking. From inception to June 2016."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA FOR SELECTING STUDIES",
+      "text": "Studies evaluating and presenting data related to intrinsic or extrinsic risk factors for sustaining future calf injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ten studies were obtained for review. Subjects across football, Australian football, rugby union, basketball and triathlon were reported on, representing 5397 athletes and 518 calf/ lower leg muscle injuries. Best evidence synthesis highlights chronological age and previous history of calf strain are the strongest risk factors for future calf muscle injury. Previous lower limb injuries (hamstring, quadriceps, adductor, knee) show some limited evidence for an association. Numerous factors lack evidence of an association, including height, weight, gender and side dominance."
+    },
+    {
+      "label": "SUMMARY/CONCLUSION",
+      "text": "Increasing age and previous calf strain injury are the most predictive of future calf injury. The overall paucity of evidence and the trend for studies of a high risk of bias show that further research needs to be undertaken."
+    }
+  ],
+  "injury_query": "calf strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

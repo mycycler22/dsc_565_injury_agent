@@ -1,0 +1,39 @@
+{
+  "pmid": "28323705",
+  "title": "Etiology of Adult-onset Stress Fracture in the Lumbar Spine.",
+  "year": "2017",
+  "journal": "Clinical spine surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "STUDY DESIGN",
+      "text": "This study was a case series."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of this paper was to present a case series of fresh stress fractures (spondylolysis) in the lumbar spines of adult athletes."
+    },
+    {
+      "label": "SUMMARY OF BACKGROUND DATA",
+      "text": "Lumbar spondylolysis is a stress fracture of the pars interarticularis, which is generally considered a disease of children or adolescence. There is only 1 case series written in English reporting on adult-onset fresh spondylolysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eleven patients aged 20-27 years are included in this case series. A retrospective analysis was made of events that may cause stress fracture such as traumatic episodes or sports activities, spinal level, radiologic findings, stage of spondylolysis, treatment, and prognosis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Among the 11 patients, two had bilateral early-stage spondylolysis, 7 had unilateral early-stage spondylolysis and 2 had unilateral progressive-stage spondylolysis. Three occurred subsequent to a preexisting terminal-stage spondylolysis in the contralateral side, 1 occurred subsequent to a terminal-stage spondylolysis at the adjacent spinal level, and 1 occurred subsequent to a terminal-stage spondylolysis at a distant level. Thirteen pedicles adjacent to the pars interarticularis in the 11 patients showed bone marrow edema-like signal on magnetic resonance imaging. Six spondylolyses were found at L5, 2 each at L3 and L4, and 1 spondylolysis at L2. The 11 patients were divided into 4 groups according to suspected pathogenic mechanism: preexistent spondylolysis in the contralateral side, alteration of the athletic event, apparent traumatic episode, and others. Conservative treatment was prescribed for return to sports in all cases. Although 1 patient retired because of persistent low back pain, the remaining 10 patients returned to competition."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Although lumbar spondylolysis is generally recognized to occur in childhood or adolescence, fresh lumbar spondylolysis should be included in the differential diagnosis of adult low back pain when patients are high-level athletes. Conservative treatment should be attempted for adult patients."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

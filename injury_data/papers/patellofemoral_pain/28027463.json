@@ -1,0 +1,19 @@
+{
+  "pmid": "28027463",
+  "title": "Quantifying knee mechanics during balance training exercises.",
+  "year": "2017",
+  "journal": "Human movement science",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Patellofemoral pain (PFP) is common among runners and those recovering from anterior cruciate ligament reconstruction. Training programs designed to prevent or treat injuries often include balance training, although balance interventions have been reported to coincide with more knee injuries. Knowledge of the effect of balance exercises on knee mechanics may be useful when designing training programs. High knee abduction moment has been implicated in the development of PFP, and imbalance between vastus lateralis (VL) and vastus medialis oblique (VMO) may contribute to patellofemoral stress. The purpose was to quantify knee abduction moment and vasti muscle activity during balance exercises. Muscle activity of VMO and VL, three-dimensional lower-extremity kinematics, and ground reaction forces of healthy recreational athletes (12M, 13F) were recorded during five exercises. Peak knee abduction moment, ratio of VMO:VL activity, and delay in onset of VMO relative to VL were quantified for each exercise. The influence of sex and exercise on each variable was determined using a mixed-model ANOVA. All analyses indicated a significant main effect of exercise, p<0.05. Follow-up comparisons showed low peak knee abduction moment and high VMO:VL ratio for the task with anterior-posterior motion. Delay of VMO relative to VL was similar among balance board tasks."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

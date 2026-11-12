@@ -1,0 +1,31 @@
+{
+  "pmid": "38803762",
+  "title": "Reproducibility and Validity of the Kerlan-Jobe Orthopedic Clinic Shoulder and Elbow Score (Japanese Version).",
+  "year": "2024",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The Kerlan-Jobe Orthopedic Clinic (KJOC) questionnaire is a self-reported performance and functional assessment tool with good reliability and validity for overhead athletes with shoulder and elbow injuries. This study aimed to develop a Japanese version of the KJOC (J-KJOC) to clarify its reproducibility and validity for use by Japanese university baseball players."
+    },
+    {
+      "label": "METHODS",
+      "text": "The J-KJOC was translated according to the guidelines for cross-cultural adaptation. A total of 88 university baseball players completed the J-KJOC and the Quick-Disabilities of the Arm, Shoulder, and Hand (Q-DASH) questionnaires. Thirty players completed the J-KJOC two times after a median interval of two weeks. We assessed the absolute reliability, construct validity, internal consistency, and test-retest reliability."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Cronbach's alpha coefficients ranged from 0.88 and the intraclass correlation coefficient for the total score was 0.91. A fixed bias was absent in the J-KJOC scores (mean difference: -2.2, 95% CI: -4.8 to 0.5). Furthermore, the J-KJOC score was correlated with the Q-DASH-disability/symptom (r = -0.60, p<0.01) and Q-DASH-sports/music (r = -0.63, p<0.01) scores but not correlated with the Q-DASH-work score (r = -0.11, p = 0.316)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The J-KJOC questionnaire demonstrated good reproducibility and validity for assessing upper arm performance in Japanese university baseball players. The results of this study support the use of the J-KJOC for Japanese-speaking baseball players. Further research using this instrument on other types of overhead athletes is needed to determine its wider utility in sports medicine applications."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

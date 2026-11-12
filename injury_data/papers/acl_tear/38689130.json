@@ -1,0 +1,40 @@
+{
+  "pmid": "38689130",
+  "title": "Anterior Cruciate Ligament Return to Sport after Injury Scale (ACL-RSI) Scores over Time After Anterior Cruciate Ligament Reconstruction: A Systematic Review with Meta-analysis.",
+  "year": "2024",
+  "journal": "Sports medicine - open",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Psychological readiness is an important consideration for athletes and clinicians when making return to sport decisions following anterior cruciate ligament reconstruction (ACLR). To improve our understanding of the extent of deficits in psychological readiness, a systematic review is necessary."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate psychological readiness (measured via the Anterior Cruciate Ligament-Return to Sport after Injury scale (ACL-RSI)) over time after ACL tear and understand if time between injury and surgery, age, and sex are associated with ACL-RSI scores."
+    },
+    {
+      "label": "METHODS",
+      "text": "Seven databases were searched from the earliest date available to March 22, 2022. Articles reporting ACL-RSI scores after ACL tear were included. Risk of bias was assessed using the ROBINS-I, RoB-2, and RoBANS tools based on the study design. Evidence certainty was assessed for each analysis. Random-effects meta-analyses pooled ACL-RSI scores, stratified by time post-injury and based on treatment approach (i.e., early ACLR, delayed ACLR, and unclear approach)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 83 studies were included in this review (78% high risk of bias). Evidence certainty was 'weak' or 'limited' for all analyses. Overall, ACL-RSI scores were higher at 3 to 6 months post-ACLR (mean = 61.5 [95% confidence interval (CI) 58.6, 64.4], I<sup>2</sup> = 94%) compared to pre-ACLR (mean = 44.4 [95% CI 38.2, 50.7], I<sup>2</sup> = 98%), remained relatively stable, until they reached the highest point 2 to 5 years after ACLR (mean = 70.7 [95% CI 63.0, 78.5], I<sup>2</sup> = 98%). Meta-regression suggests shorter time from injury to surgery, male sex, and older age were associated with higher ACL-RSI scores only 3 to 6 months post-ACLR (heterogeneity explained R<sup>2</sup> = 47.6%), and this reduced 1-2 years after ACLR (heterogeneity explained R<sup>2</sup> = 27.0%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Psychological readiness to return to sport appears to improve early after ACL injury, with little subsequent improvement until ≥ 2-years after ACLR. Longer time from injury to surgery, female sex and older age might be negatively related to ACL-RSI scores 12-24 months after ACLR. Due to the weak evidence quality rating and the considerable importance of psychological readiness for long-term outcomes after ACL injury, there is an urgent need for well-designed studies that maximize internal validity and identify additional prognostic factors for psychological readiness at times critical for return to sport decisions."
+    },
+    {
+      "label": "REGISTRATION",
+      "text": "Open Science Framework (OSF), https://osf.io/2tezs/ ."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

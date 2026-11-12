@@ -1,0 +1,43 @@
+{
+  "pmid": "34929533",
+  "title": "Torque-angle curve of the knee flexors in athletes with a prior history of hamstring strain.",
+  "year": "2022",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate the knee flexor torque-angle curve after hamstring strain injury using different muscle action types and angular velocities."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional."
+    },
+    {
+      "label": "SETTING",
+      "text": "Controlled laboratory."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Thirteen collegiate athletes injured hamstring strain (21.0 ± 0.8 years; 173.9 ± 6.5 cm; 70.1 ± 10.5 kg)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Concentric and eccentric knee flexor torque was measured at 60 & 300°/sec. Peak torque and average torque every 10° were determined from torque-angle curve and injured side was compared with non-injured side."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No significant differences were found in the concentric muscle actions. However, the eccentric peak torque was significantly lower on the injured side at 60°/sec (p = 0.048) and at 300°/sec (p = 0.002). The average eccentric torque was significantly lower on the injured side at 60°/sec from 10° to 20° of knee flexion (p = 0.012-0.018) and at 300°/sec from 10° to 60° of knee flexion (p = 0.005-0.049)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The knee flexor torque-angle curve changes with eccentric muscle action after hamstring injury. Eccentric torque declines were close to full knee extension at 60°/sec and a wide range of knee flexion at 300°/sec. The assessment and rehabilitation of eccentric hamstring strength may be important to consider the effect of the angular velocity after hamstring strain injury."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

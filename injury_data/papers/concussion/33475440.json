@@ -1,0 +1,36 @@
+{
+  "pmid": "33475440",
+  "title": "Examining how time from sport-related concussion to initial assessment predicts return-to-play clearance.",
+  "year": "2022",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "(i) To analyze data of adolescents who have sustained a sport-related concussion (SRC) through the use of Complete Concussion Management Inc. (CCMI) concussion database system; and (ii) to determine an optimal time to assess and manage an athlete with an SRC by prospectively analyzing data from CCMI concussion database system."
+    },
+    {
+      "label": "METHOD",
+      "text": "A cohort of patients, ages 8-18 years, who sustained an SRC, assessed 30 days or less from injury and were treated at partnered CCMI clinics across Canada were prospectively followed. The primary outcome measure was recovery, defined as CCMI discharge, which includes an athlete having completed all return-to-school and return-to-play steps and passed the Gapski-Goodman test without symptom exacerbation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "1213 athletes (482 female) were included for analysis. Days between injury and initial assessment (p = 0.00), male sex (p = 0.00), and previous concussion history (p = 0.00) were significant predictors of time to discharge. A log-rank test revealed a significant difference (p = 0.00) in time to discharge with athletes assessed <10 days of injury discharged at a mean of 23.5 days (95% CI, 22.5, 24.5) and those assessed at day 10 to 30 were discharged at a mean of 37.1 days (95% CI, 33.7, 40.5). Athletes who were assessed at 0 to 9 days from injury were two times more likely to be discharged sooner compared to those athletes assessed 10 to 30 days from injury (HR 2.03, p = 0.00)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Time from SRC to initial assessment significantly predicted time to discharge, with those being evaluated earlier experiencing a faster discharge. The results aid in establishing recommended timelines for evaluation following an SRC in order to prevent or mitigate athletes experiencing a prolonged recovery and encourage timely access to care and a quicker return to life post-concussive injury."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "A log-rank test revealed a significant difference (p = 0.00) in time to discharge with athletes assessed <10 days of injury discharged at a mean of 23.5 days (95% CI, 22.5, 24.5) and those assessed at day 10 to 30 were discharged at a mean of 37.1 days (95% CI, 33.7, 40.5)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "39555323",
+  "title": "Alterations to the Kinetic Chain Sequence After a Shoulder Injury in Throwing Athletes.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Kinetic chain (KC) sequencing is essential for efficient energy translation through the body in overhead-throwing sports. A sequencing breakdown can result in injuries to the throwing shoulder and thus the management of athlete recovery in an attempt to minimize the impact on both training and performance."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine kinematic differences in KC sequencing, imperative for the prevention and rehabilitation of a shoulder injury, during maximal throwing in overhead athletes with and without a shoulder injury."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Kinematic data were collected and analyzed for 36 male overhead athletes with (symptomatic) and without (asymptomatic) a shoulder injury (18 participants per group) during maximal overhead-throwing trials using 3-dimensional motion analysis (100 Hz). Peak angular velocities and associated timing of the throwing shoulder, throwing elbow, thorax, pelvis, lead hip, and rear hip were calculated to determine the KC sequence in both groups. Kinematic data were compared using independent <i>t</i> tests, and relationships between variables were assessed using the Pearson correlation coefficient (both <i>P</i> < .05)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The KC sequence in overhead athletes with or without a shoulder injury was the same, except for peak elbow extension and shoulder flexion angular velocities. These angular velocities occurred simultaneously in asymptomatic throwers (both 0.17 % before ball release [BR]) but sequentially in symptomatic throwers (0.06 % before BR and 0.67 % after BR, respectively). No differences were evident in stride length (m) or resultant ball velocity (m/s) between the groups, despite differences in key joint angular velocities across KC segments (<i>P</i> range, <.001-.035). Relationships between resultant ball velocity and all key joint angular velocities were evident for symptomatic but not asymptomatic throwers (<i>P</i> range, <.001-.026)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Our study demonstrated that overhead athletes, regardless of their shoulder injury history, had similar KC sequencing across the lower limb and lumbopelvic-hip complex segments before differences in the timing of peak elbow extension and shoulder flexion angular velocities of the throwing arm approaching BR. Further research investigating muscle activity changes and technique parameters during overhead throwing may present explanations as to how we can ensure that the KC sequence is not altered as a result of an injury."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "This study provides a new perspective on the KC and how an injury may not change the sequence itself in overhead-throwing performance."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

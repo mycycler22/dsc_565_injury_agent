@@ -1,0 +1,35 @@
+{
+  "pmid": "35508553",
+  "title": "Acute clinical evaluation for syndesmosis injury has high diagnostic value.",
+  "year": "2022",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To determine the diagnostic value of injury history, physical examination, six syndesmosis tests and overall clinical suspicion for syndesmosis injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "All athletes (> 18 yrs) with an acute ankle injury presenting within 7 days post-injury were assessed for eligibility. Acute ankle injuries were excluded if imaging studies demonstrated a frank fracture or 3 T MRI could not be acquired within 10 days post-injury. Standardized injury history was recorded, and physical examination was performed by an Orthopaedic Surgeon or Sports Medicine Physician. Overall clinical suspicion was documented prior to MRI. Multivariate logistic regression was used to determine the association between independent predictors and syndesmosis injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Between September 2016 and July 2019, a total of 150 acute ankle injuries were included. The median time from injury to acute clinical evaluation was 2 days (IQR 2). Prior to clinical evaluation, the median patient reported Visual Analog Scale for pain was 8/10 (IQR 2). Syndesmosis injury was present in 26 acute ankle injuries. An eversion mechanism of injury had a positive LR 3.47 (CI 95% 1.55-7.77). The squeeze tests had a positive LR of 2.20 (CI 95% 1.29-3.77) and a negative LR of 0.68 (CI 95% 0.48-0.98). Overall clinical suspicion had a sensitivity of 73% (CI 95% 52-88) and negative predictive value of 89% (CI 95% 78-95). Multivariate regression analyses demonstrated significant association for eversion mechanism of injury (OR 4.99; CI 95% 1.56-16.01) and a positive squeeze test (OR 3.25; CI 95% 1.24-8.51)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In an acute clinical setting with patients reporting high levels of ankle pain, a negative overall clinical suspicion reduces the probability of syndesmosis injury. Eversion mechanism of injury and a positive squeeze test are associated with higher odds of syndesmosis injury."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

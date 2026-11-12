@@ -1,0 +1,20 @@
+{
+  "pmid": "41962996",
+  "title": "Policy and advocacy for concussion awareness and safety.",
+  "year": "2026",
+  "journal": "Seminars in pediatric neurology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussion represents a growing public health concern, particularly among youth athletes. Legislative efforts across the United States and internationally have sought to reduce the incidence and consequences of sports-related concussions through education, removal-from-play rules, and return-to-play protocols. Evidence demonstrates that concussion laws, such as Washington State's Lystedt Law, significantly decreased concussion-related health care utilization. However, considerable variation exists across states and countries regarding enforcement, training requirements, and integration of return-to-learn policies. While the United States mandates legislation in all 50 states, Canada (except Ontario's Rowan's Law), the United Kingdom, Latin American countries, Australia and Taiwan primarily rely on guidelines. Ethical and legal considerations, such as balancing athlete autonomy, liability for schools and coaches, and informed consent, remain central to policy development. Future directions may include the creation of national concussion registries, standardized neurocognitive testing, and the use of technological tools such as helmet sensors to enhance detection and management. Despite advances, uniform standards and equitable access to concussion care remain necessary to safeguard athlete health globally, especially for the youth."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

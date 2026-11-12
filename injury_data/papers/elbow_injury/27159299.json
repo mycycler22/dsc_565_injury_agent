@@ -1,0 +1,40 @@
+{
+  "pmid": "27159299",
+  "title": "Outcomes After Shoulder and Elbow Injury in Baseball Players: Are We Reporting What Matters?",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Return to play, as well as time to return to play, are the most important metrics considered by athletes when attempting to make treatment decisions after injury. However, the consistency of reporting of these metrics in the scientific literature is unknown."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate patterns of outcomes reporting in the medical literature of shoulder and elbow injuries in active baseball players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of literature published within the past 10 years was performed to identify all recent clinical studies focusing on shoulder and elbow injuries in baseball players across all levels. Review articles, case reports, and laboratory/biomechanical studies were all excluded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 49 studies were included for review. The majority of studies were either level 3 or level 4 evidence (96%). In total, 71% of studies reported on rates of return to preinjury level of play, whereas 31% of studies reported on time to return to preinjury level of play. Only 47% of studies reported on both rate and time of return to preinjury level of play. A minority of studies (8%) reported patient satisfaction rates. Finally, 27 different subjective and patient-reported outcomes were reported, and none of these appeared in more than 14% of all studies."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Time to return to preinjury level of play is inadequately reported in studies of shoulder and elbow injury in baseball players. Similarly, satisfaction rates and scores are underreported. Finally, the significant variability of subjective and patient-reported outcomes utilized may undermine the ability of clinicians to accurately compare results from different studies."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "39486787",
+  "title": "Predictive factors to return to sport after surgical management of ankle fractures.",
+  "year": "2025",
+  "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achieving Return to Sport (RTS) is crucial in managing ankle fractures for athletes. This study aimed to identify RTS factors post-surgical fixation of ankle fractures. A retrospective analysis was conducted on 93 active patients with surgically treated displaced or unstable ankle fractures from January 2020 to January 2021. The median follow-up was 2.12 years. Clinical, functional, and radiographic aspects were evaluated. Among the athletes, 82.8 % resumed sports post-surgery, with 26.9 % returning within 3 months and 75.3 % at 1 year. At 1 year, 40.9 % regained their pre-injury activity level. There was a significant association between RTS and AO/OTA fracture subtype (p = 0.038). Unimalleolar fractures had the best outcomes, with 100 % achieving RTS in a median of 4 months. Bimalleolar fractures had 80.77 % RTS in 6 months, and trimalleolar fractures had 65.22 % RTS in 8 months. AO/OTA subtypes B and C predicted lower RTS to pre-injury levels, with delayed recovery for bimalleolar and trimalleolar fractures. These findings underscore the impact of fracture severity on RTS, with more complex fractures leading to poorer and delayed recovery outcomes."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Unimalleolar fractures had the best outcomes, with 100 % achieving RTS in a median of 4 months."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "Bimalleolar fractures had 80.77 % RTS in 6 months, and trimalleolar fractures had 65.22 % RTS in 8 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

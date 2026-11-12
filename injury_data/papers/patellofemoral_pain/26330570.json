@@ -1,0 +1,45 @@
+{
+  "pmid": "26330570",
+  "title": "Hip Strength Is Greater in Athletes Who Subsequently Develop Patellofemoral Pain.",
+  "year": "2015",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hip and knee strength abnormalities have been implicated in patellofemoral pain (PFP) in multiple studies. However, the relationship is unclear, as many of these studies have been retrospective."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare prospective hip and knee isokinetic strength in young female athletes who subsequently went on to develop PFP relative to their uninjured, healthy peers."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Adolescent female athletes (N = 329) were tested for isokinetic strength of the knee (flexion and extension) and hip (abduction) and screened for the prevalence of PFP before their basketball seasons. After exclusion based on current PFP symptoms, 255 participants were prospectively enrolled in the study. A 1-way analysis of variance was used to determine between-group differences in incident PFP and the referent (no incident PFP) participants."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The cumulative incidence rate for the development of PFP was 0.97 per 1000 athlete-exposures. Female athletes who developed PFP demonstrated increased normalized hip abduction strength (normalized torque, 0.013 ± 0.003) relative to the referent control group (normalized torque, 0.011 ± 0.003) (P < .05). Unlike hip strength, normalized knee extension and knee flexion strength were not different between the 2 groups (P > .05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The findings in this study indicate that young female athletes with greater hip abduction strength may be at an increased risk for the development of PFP. Previous studies that have looked at biomechanics indicated that those with PFP have greater hip adduction dynamic mechanics."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Combining the study data with previous literature, we theorize that greater hip abduction strength may be a resultant symptom of increased eccentric loading of the hip abductors associated with increased dynamic valgus biomechanics, demonstrated to underlie increased PFP incidence. Further research is needed to verify the proposed mechanistic link to the incidence of PFP."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "32688294",
+  "title": "Postoperative rehabilitation and outcomes following arthroscopic isolated meniscus repairs: A systematic review.",
+  "year": "2020",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "The purpose of this study was to review the current literature on rehabilitation protocols following arthroscopic meniscus repair."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic literature review was performed of Medline, Scopus, and Web of Science databases to identify relevant articles from January 1990 to April 2019. Search terms were (meniscus OR meniscal repair) AND (repaired OR repair) AND (rehabilitation OR physiotherapy OR physical therapy). Each study was independently scored for methodological research quality level using the Modified Coleman Methodology Score (MCMS). The following variables were extracted from each study: publication year, study type, evidence level, subject demographics, injury mechanism, meniscus tear type, surgical procedure, rehabilitation program [immobilization, weight bearing, ROM progression, therapeutic exercises, length of follow-up, patient-reported outcome measurements, return to sport timing/criteria and failure rate/criteria."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighteen studies met the inclusion criteria. The overall MCMS was moderate 59.5 ± 11.7 (range = 42-90). The average MCMS score for postoperative rehabilitation was 4.7 ± 1.18. Only 1 (5.6%) study was a prospective randomized controlled trial and 14 studies (78%) had retrospective designs. Fourteen (78%) studies suggested that return to sports should occur between 3 and 6 months post-surgery. Early range of motion and immediate weight-bearing had no influence over patient-reported outcomes or failure rates for vertical meniscus tear repairs."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Low MCMS scores, primarily retrospective study designs and poorly described postoperative rehabilitation protocols made it difficult to design an evidence-based therapeutic rehabilitation program for patients following arthroscopic repair of an isolated meniscus tear. An arthroscopic isolated meniscal tear repair rehabilitation protocol is being attempted to present based on a synopsis of existing evidence."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Fourteen (78%) studies suggested that return to sports should occur between 3 and 6 months post-surgery."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "27421756",
+  "title": "The Controversial Second Impact Syndrome: A Review of the Literature.",
+  "year": "2016",
+  "journal": "Pediatric neurology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Second impact syndrome is a devastating injury that primarily affects athletic children and young adults. It occurs when a second concussion occurs before symptoms from the first concussion have resolved. Diffuse and often catastrophic cerebral edema results. Reports of second impact syndrome are few, and some argue that second impact syndrome is simply diffuse cerebral swelling unrelated to the first concussion."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ovid and PubMed were searched from years 1946 to 2015 using the terms \"second impact syndrome,\" \"repeat concussion,\" and \"catastrophic brain injury.\" In addition, review articles were found using a combination of the terms, \"concussion,\" \"second impact syndrome,\" and \"repetitive head trauma.\""
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seventeen patients in seven publications met the criteria of having two witnessed hits and persistent symptoms from the first to the second concussion. Ten of the 17 (59%) included individuals were football players. All were male. Ages ranged from 13 to 23 years. All children with poor outcomes (death or permanent disability) were younger than 20 years, while four of the five players with good outcomes were older than 19 years. The lag time from first to second concussion ranged from one hour to four weeks, and in many cases, at least one of the two hits appeared minor."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "American football, male gender, and young age appear to be associated with second impact syndrome. Controversies surrounding this syndrome are discussed. There is a need for prospective studies to clarify risk factors and outcomes of second impact syndrome to guide return-to-play recommendations for young athletes."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

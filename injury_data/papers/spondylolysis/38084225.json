@@ -1,0 +1,31 @@
+{
+  "pmid": "38084225",
+  "title": "Sagittal Balance in Professional Brazilian Football Players.",
+  "year": "2023",
+  "journal": "Spine surgery and related research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Football soccer practice involves considerable risks of lesions, making it difficult to strike a balance between adequate preparation and the demand imposed on athletes. A high incidence of postural disorders among adolescents leads to questions about the influence of sports activity on the athletes' posture and sagittal balance."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cross-sectional study was conducted from panoramic spine radiographs of 110 professional Brazilian football (soccer) players. They were male and aged between 20 and 30 years. Measurements of pelvic incidence, pelvic tilt (PT), sacral slope, sagittal vertical axis (SVA), and lumbar lordosis were obtained by using the Surgimap<sup>Ⓡ</sup> software. Measurement values were compared with the Brazilian literature data. Lordosis type was categorized according to the classification of Roussouly et al., and the presence of spondylolysis and spondylolisthesis was analyzed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Findings indicated that (1) among 110 radiographs analyzed, 104 had appropriate measurement quality; (2) values compared with the Brazilian mean demonstrated that PT and SVA were statistically lower in professional players (P=0.013 and P=0.037, respectively); (3) according to Roussouly et al. most participants presented Type 3 lordosis (54.8%), followed by Type 4 (26.9%); (4) eight athletes (7.7%) had spondylolysis, and among them, seven (6.7%) had spondylolisthesis."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Significant differences in PT and SVA were found in professional athletes. The most common type of lordosis was the same as that found in the general population (Type 3), and the incidence of spondylolysis and spondylolisthesis was higher than that found in the general population, but lower than that found in football (soccer) players."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

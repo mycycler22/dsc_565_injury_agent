@@ -1,0 +1,40 @@
+{
+  "pmid": "17244903",
+  "title": "Excessive apoptosis in patellar tendinopathy in athletes.",
+  "year": "2007",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The pathogenesis of tendon overuse injuries is poorly understood. The histopathology underlying tendinopathy at various anatomical locations is similar and may reflect a common pathologic process."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Apoptosis contributes to the pathophysiology in patellar tendinopathy."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "We compared biopsy specimens from the patellar tendon in patients with patellar tendinopathy diagnosed clinically and with typical magnetic resonance image findings with biopsy specimens from a control group without any previous or current knee complaints to suggest patellar tendinopathy. The presence of apoptosis was examined with immunohistochemical methods using a polyclonal antibody recognizing active caspase-3, confirmed by labeling DNA strand breaks (F7-26 antibody) and nuclear morphology (fragmentation and condensation)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The number of apoptotic cells per unit area (4.5 mm(2)) was 0.91 +/- 0.81 (SD) in tendinopathic samples and 0.21 +/- 0.21 in controls (P = .026). Although the tendinopathic samples displayed increased cellularity (average 162.5 nuclei/mm(2) vs 98.9 nuclei/mm(2)), the apoptotic index was higher (0.42% vs 0.17%, P = .014)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Increased apoptotic cell death is a feature of patellar tendinosis. The role of apoptosis within the broader framework and time course of tendon overuse injury remains to be established."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

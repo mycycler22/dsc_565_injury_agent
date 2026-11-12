@@ -1,0 +1,48 @@
+{
+  "pmid": "27513733",
+  "title": "Isometric Contractions Are More Analgesic Than Isotonic Contractions for Patellar Tendon Pain: An In-Season Randomized Clinical Trial.",
+  "year": "2017",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "This study aimed to compare the immediate analgesic effects of 2 resistance programs in in-season athletes with patellar tendinopathy (PT). Resistance training is noninvasive, a principle stimulus for corticospinal and neuromuscular adaptation, and may be analgesic."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Within-season randomized clinical trial. Data analysis was conducted blinded to group."
+    },
+    {
+      "label": "SETTING",
+      "text": "Subelite volleyball and basketball competitions."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Twenty jumping athletes aged more than 16 years, participating in games/trainings 3 times per week with clinically diagnosed PT."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Two quadriceps resistance protocols were compared; (1) isometric leg extension holds at 60 degrees knee flexion (80% of their maximal voluntary isometric contraction) or (2) isotonic leg extension (at 80% of their 8 repetition maximum) 4 times per week for 4 weeks. Time under load and rest between sets was matched between groups."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "(1) Pain (0-10 numerical rating score) during single leg decline squat (SLDS), measured preintervention and postintervention sessions. (2) VISA-P, a questionnaire about tendon pain and function, completed at baseline and after 4 weeks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty athletes with PT (18 men, mean 22.5 ± 4.7 years) participated (isotonic n = 10, isometric n = 10). Baseline median SLDS pain was 5/10 for both groups (isotonic range 1-8, isometric range 2-8). Isometric contractions produced significantly greater immediate analgesia (P < 0.002). Week one analgesic response positively correlated with improvements in VISA-P at 4 weeks (r = 0.64)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Both protocols appear efficacious for in-season athletes to reduce pain, however, isometric contractions demonstrated significantly greater immediate analgesia throughout the 4-week trial. Greater analgesia may increase the ability to load or perform."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "20466469",
+  "title": "The incidence and potential pathomechanics of patellofemoral pain in female athletes.",
+  "year": "2010",
+  "journal": "Clinical biomechanics (Bristol, Avon)",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The aims of this study were to determine the prevalence and incidence of patellofemoral pain (PFP) in young female athletes and prospectively evaluate measures of frontal plane knee loading during landing to determine their relationship to development of PFP. We hypothesized that increased dynamic knee abduction measured during preseason biomechanical testing would be increased in those who developed PFP relative to teammates who did not develop PFP."
+    },
+    {
+      "label": "METHODS",
+      "text": "Middle and high school female athletes (n=240) were evaluated by a physician for PFP and for landing biomechanics prior to their basketball season. The athletes were monitored for athletic exposures and PFP injury during their competitive seasons."
+    },
+    {
+      "label": "FINDINGS",
+      "text": "At the beginning of the season, the point prevalence of PFP was 16.3 per 100 athletes. The cumulative incidence risk and rate for the development of new unilateral PFP was 9.66 per 100 athletes and 1.09 per 1000 athletic exposures, respectively. All new PFPs developed in middle school athletes who demonstrated mean International Knee Documentation Committee score of 85.6+/-7.7 at diagnosis. The new PFP group demonstrated increased knee abduction moments at initial contact (95% CI: 0.32 to 4.62Nm) on the most-symptomatic limb and maximum (95% CI: 1.3 to 10.1Nm; P=0.02) on the least-symptomatic (or no symptoms) limb relative to the matched control limbs. Knee abduction moments remained increased in the new PFP group when normalized to body mass (P<0.05)."
+    },
+    {
+      "label": "INTERPRETATION",
+      "text": "The increased knee abduction landing mechanics in the new PFP group indicate that frontal plane loads contribute to increased incidence of PFP."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

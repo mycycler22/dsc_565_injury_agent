@@ -1,0 +1,53 @@
+{
+  "pmid": "29381423",
+  "title": "Glenohumeral Internal Rotation Deficit and Risk of Upper Extremity Injury in Overhead Athletes: A Meta-Analysis and Systematic Review.",
+  "year": "2018",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Current perception dictates that glenohumeral internal rotation deficit (GIRD) is a chronic adaptation that leads to an increased risk of pathologic conditions in the dominant shoulder or elbow of overhead athletes."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine whether adaptations in glenohumeral range of motion in overhead athletes lead to injuries of the upper extremity, specifically in the shoulder or elbow."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "An electronic database search was performed using Medline, Embase, and SportDiscus from 1950 to 2016. The following keywords were used: GIRD, glenohumeral internal rotation deficit, glenohumeral deficit, shoulder, sport, injury, shoulder joint, baseball, football, racquet sports, volleyball, javelin, cricket, athletic injuries, handball, lacrosse, water polo, hammer throw, and throwing injury."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Seventeen studies met the inclusion criteria for this systematic review. Of those 17 studies, 10 included specific range of motion measurements required for inclusion in the meta-analysis."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Data on demographics and methodology as well as shoulder range of motion in various planes were collected when possible. The primary outcome of interest was upper extremity injury, specifically shoulder or elbow injury."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The systematic review included 2195 athletes (1889 males, 306 females) with a mean age of 20.8 years. Shoulders with GIRD favored an upper extremity injury, with a mean difference of 3.11° (95% CI, -0.13° to 6.36°; P = 0.06). Shoulder total range of motion suggested increased motion (mean difference, 2.97°) correlated with no injury ( P = 0.11), and less total motion (mean difference, 1.95°) favored injury ( P = 0.14). External rotational gain also favored injury, with a mean difference of 1.93° ( P = 0.07)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The pooled results of this systematic review and meta-analysis did not reach statistical significance for any shoulder motion measurement and its correlation to shoulder or elbow injury. Results, though not reaching significance, favored injury in overhead athletes with GIRD, as well as rotational loss and external rotational gain."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

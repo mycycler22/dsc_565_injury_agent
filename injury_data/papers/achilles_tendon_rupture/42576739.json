@@ -1,0 +1,25 @@
+{
+  "pmid": "42576739",
+  "title": "Achilles Tendon Rupture Repaired With TeKBrace Augmentation: A Case Report.",
+  "year": "2026",
+  "journal": "Foot & ankle specialist",
+  "pub_types": [
+    "Journal Article",
+    "Case Reports"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Achilles tendon rupture is a common injury among active adults and frequently requires surgical repair in high-demand patients. Augmentation techniques have been developed to improve repair strength and reduce re-rupture risk, particularly in cases of degenerative tendon tissue. TeKBrace, a woven polyester mesh, provides mechanical reinforcement while allowing biologic integration. We present the case of a 36-year-old recreational athlete who underwent open Achilles tendon repair with TeKBrace augmentation following an acute rupture. Intraoperative findings of degenerative tendon tissue and mild gapping under tension supported the decision to augment the repair. At 6 months, the patient demonstrated symmetric ankle range of motion and approximately 90% restoration of plantarflexion strength compared with the contralateral limb. The patient demonstrated excellent functional recovery and returned to recreational basketball without pain or limitation at 9 months, and no complications or re-rupture were observed. This case highlights the biomechanical rationale and clinical utility of TeKBrace scaffold augmentation in selected patients, although larger studies with longer follow-up are needed to better define its clinical effectiveness."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The patient demonstrated excellent functional recovery and returned to recreational basketball without pain or limitation at 9 months, and no complications or re-rupture were observed."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

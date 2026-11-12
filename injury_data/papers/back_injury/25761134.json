@@ -1,0 +1,51 @@
+{
+  "pmid": "25761134",
+  "title": "Injury history, sex, and performance on the functional movement screen and Y balance test.",
+  "year": "2015",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Research is limited regarding the effects of injury or surgery history and sex on the Functional Movement Screen (FMS) and Y Balance Test (YBT)."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine if injury or surgery history or sex affected results on the FMS and YBT."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Athletic training facilities."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "A total of 200 National Collegiate Athletic Association Division I female (n = 92; age = 20.0 ± 1.4 years, body mass index = 22.8 ± 3.1 kg/m(2)) and male (n = 108; age = 20.0 ± 1.5 years, body mass index = 27.0 ± 4.6 kg/m(2)) athletes were screened; 170 completed the FMS, and 190 completed the YBT."
+    },
+    {
+      "label": "INTERVENTION(S)",
+      "text": "A self-reported questionnaire identified injury or surgery history and sex. The FMS assessed movement during the patterns of deep squat, hurdle step, in-line lunge, shoulder mobility, impingement-clearing test, straight-leg raise, trunk stability push-up, press-up clearing test, rotary stability, and posterior-rocking clearing test. The YBT assessed balance while participants reached in anterior, posteromedial, and posterolateral directions."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "The FMS composite score (CS; range, 0-21) and movement pattern score (range, 0-3), the YBT CS (% lower extremity length), and YBT anterior, posteromedial, and posterolateral asymmetry (difference between limbs in centimeters). Independent-samples t tests established differences in mean FMS CS, YBT CS, and YBT asymmetry. The Mann-Whitney U test identified differences in FMS movement patterns."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We found lower overall FMS CSs for the following injuries or surgeries: hip (injured = 12.7 ± 3.1, uninjured = 14.4 ± 2.3; P = .005), elbow (injured = 12.1 ± 2.8, uninjured = 14.3 ± 2.4; P = .02), and hand (injured = 12.3 ± 2.9, uninjured = 14.3 ± 2.3; P = .006) injuries and shoulder surgery (surgery = 12.0 ± 1.0, no surgery = 14.3 ± 2.4; P < .001). We observed worse FMS movement pattern performance for knee surgery (rotary stability: P = .03), hip injury (deep squat and hurdle: P < .042 for both), hip surgery (hurdle and lunge: P < .01 for both), shoulder injury (shoulder and hand injury: P < .02 for both), and shoulder surgery (shoulder: P < .02). We found better FMS movement pattern performance for trunk/back injury (deep squat: P = .02) and ankle injury (lunge: P = .01). Female athletes performed worse in FMS movement patterns for trunk (P < .001) and rotary (P = .01) stability but better in the lunge (P = .008), shoulder mobility (P < .001), and straight-leg raise (P < .001). Anterior asymmetry was greater for male athletes (P = .02)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Injury history and sex affected FMS and YBT performance. Researchers should consider adjusting for confounders."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

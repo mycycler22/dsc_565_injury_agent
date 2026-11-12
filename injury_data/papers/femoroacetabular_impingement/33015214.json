@@ -1,0 +1,40 @@
+{
+  "pmid": "33015214",
+  "title": "Definitions of Return to Sport After Hip Arthroscopy: Are We Speaking the Same Language and Are We Measuring the Right Outcome?",
+  "year": "2020",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Return to sport is a commonly studied outcome of hip arthroscopy that is relevant to both patients and providers. There exists substantial variability in criteria used to define successful return to sport."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To review and evaluate the definitions used in the literature so as to establish a single standard to enable comparison of outcomes in future studies."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "The PubMed, MEDLINE, and Embase databases were searched from inception to June 1, 2019, for studies relating to hip arthroscopy and return to sport. Articles included were those that met the following criteria: (1) contained 2 or more patients, (2) studied patients 18 years of age and older, (3) reported postoperative outcomes after hip arthroscopy, (4) clearly defined return to play, and (5) were written in English. Excluded articles (1) reported outcomes for nonoperative or open treatments, (2) did not clearly define return to play, or (3) were review articles, meta-analyses, or survey-based studies. Return-to-play definitions and additional metrics of postoperative performance and outcome were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 185 articles were identified, and 28 articles were included in the final review, of which 18 involved elite athletes and 10 involved recreational athletes. Of articles studying elite athletes, 6 (33%) defined return to play as participation in regular or postseason competition, 3 (17%) extended the criteria to the preseason, and 2 (11%) used participation in sport-related activities and training. The remaining 7 (39%) reported rates of return to the preoperative level of competition but did not specify preseason versus regular season. All 10 articles evaluating recreational athletes defined return to play based on patient-reported outcomes. Four (40%) did so qualitatively, while 6 (60%) did so quantitatively."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There exists significant variability in criteria used to define successful return to sport after hip arthroscopy, and these criteria differ among elite and recreational athletes. For elite athletes, return to the preoperative level of competition is most commonly used, but there exists no consensus on what type of competition-regular season, preseason, or training-is most appropriate. For recreational athletes, patient-reported data are most commonly employed, although there are clear differences between authors on the ways in which these are being used as well."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

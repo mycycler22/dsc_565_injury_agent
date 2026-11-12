@@ -1,0 +1,49 @@
+{
+  "pmid": "40308667",
+  "title": "Hip Arthroscopy for Femoroacetabular Impingement.",
+  "year": "2023",
+  "journal": "Video journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement (FAI) is pain due to shape mismatch at the hip joint commonly affecting young athletes, and there are 2 main types depending on which bone has the underlying deformity: cam (femoral) and pincer (acetabular). Hip arthroscopy is an invaluable technique in the sports surgeon repertoire, and there is a need for a comprehensive tutorial that elucidates the best practices and nuances."
+    },
+    {
+      "label": "INDICATIONS",
+      "text": "Pain with evidence of FAI and labral tear on imaging, and failing conservative treatment, warrants arthroscopy."
+    },
+    {
+      "label": "TECHNIQUE DESCRIPTION",
+      "text": "FAI surgery requires anatomical labral repair, thorough osteoplasty to correct the underlying deformity and prevent labral retearing, and careful treatment of soft tissues and capsular closure."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Reduced pain and improved hip function are the goals of treatment, with approximately 90% of patients returning to sport at 6 to 8 months postoperatively."
+    },
+    {
+      "label": "DISCUSSION/CONCLUSION",
+      "text": "Hip arthroscopy is a safe and effective treatment for patients with FAI who failed conservative therapy."
+    },
+    {
+      "label": "PATIENT CONSENT DISCLOSURE STATEMENT",
+      "text": "The author(s) attests that consent has been obtained from any patient(s) appearing in this publication. If the individual may be identifiable, the author(s) has included a statement of release or other written form of approval from the patient(s) with this submission for publication."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Reduced pain and improved hip function are the goals of treatment, with approximately 90% of patients returning to sport at 6 to 8 months postoperatively."
+    }
+  ],
+  "pmcid": "11961450",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Reduced pain and improved hip function are the goals of treatment, with approximately 90% of patients returning to sport at 6 to 8 months postoperatively."
+    }
+  ]
+}

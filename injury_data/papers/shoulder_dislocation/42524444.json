@@ -1,0 +1,28 @@
+{
+  "pmid": "42524444",
+  "title": "[Optimized Return to Sport Criteria Following the Bristow-Latarjet Procedure for Shoulder Stabilization: A Systematic Review and Meta-Analysis Protocol].",
+  "year": "2026",
+  "journal": "Revista brasileira de ortopedia",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To identify and synthesize return-to-sport (RTS) criteria reported after the Bristow-Latarjet procedure for anterior glenohumeral instability in athletes, and to evaluate the associated time to RTS, RTS rate, and instability recurrence, with the aim of informing an evidence-based combination of RTS criteria that may optimize earlier RTS while minimizing recurrence."
+    },
+    {
+      "label": "METHODS",
+      "text": "This protocol follows the guidelines of the Preferred Reporting Items for Systematic review and Meta-Analysis-Protocols (PRISMA-P) statement and it has been registered in the International Prospective Register of Systematic Reviews (PROSPERO; CRD42024563618). We will include randomized and nonrandomized comparative studies, cohort and case-control studies, and case series reporting explicit RTS criteria after Bristow-Latarjet in athletes, with a minimum follow-up of 12 months. Searches will be conducted in the PubMed, Web of Science, Embase, SciELO, CENTRAL and SPORTDiscus databases, as well as Google Scholar for grey literature, without restrictions on date, geography, or language. Two reviewers will independently screen and extract data using the Covidence (Veritas Health Innovation Ltd) software. The primary outcomes are time to RTS, RTS rate, and recurrence (using the time point closest to 12 months, when multiple assessments are available). The risk of bias will be assessed using the Risk of Bias 2 (RoB 2; the Cochrane Collaboration) for randomized clinical trials (RCTs), the Newcastle-Ottawa Scale (NOS) for nonrandomized comparative studies, and the Joanna Briggs Institute (JBI) Critical Appraisal Checklist for Case Series, and the certainty of the evidence will be rated according to the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach. When appropriate, random-effects meta-analysis and exploratory meta-regression will be performed; subgroup and sensitivity analyses are planned."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The systematic review will provide a criterion-centered synthesis of RTS definitions and clearance strategies after Bristow-Latarjet, linking each criterion to clinically-relevant outcomes (time to RTS, RTS rate, and recurrence). The findings are expected to support more consistent, evidence-informed RTS decision-making and guide future prospective validation of optimized RTS criteria combinations."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

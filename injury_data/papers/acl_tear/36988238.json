@@ -1,0 +1,63 @@
+{
+  "pmid": "36988238",
+  "title": "Clinical Outcomes After ACL Reconstruction in Soccer (Football, Futbol) Players: A Systematic Review and Meta-Analysis.",
+  "year": "2023",
+  "journal": "Sports health",
+  "pub_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "The risk factors for anterior cruciate ligament (ACL) tear for athletes participating in pivoting sports includes young age and female sex. A previous meta-analysis has reported a reinjury rate of 15% after ACL reconstruction (ACLR) for athletes across all sports. To the best of the authors' knowledge, this is the first systematic review and meta-analysis of available literature reporting outcomes after ACLR in soccer players."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To review and aggregate soccer-specific outcomes data after ACLR found in current literature to help guide a more tailored discussion regarding expectations and prognosis for soccer players seeking operative management of ACL injuries."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "A comprehensive search of publications was performed using PubMed, EMBASE, Cochrane Central Register of Controlled Trials, and SPORTDiscus databases."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "Inclusion criteria consisted of original studies, level of evidence 1 to 4, studies reporting clinical and patient-reported outcomes (PROs) after primary ACLR in soccer players at all follow-up length."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "The primary outcomes of interest were graft failure/reoperation rates, ACL injury in contralateral knee, return to soccer time, and PROs."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "Search of literature yielded 32 studies for inclusion that involved 3112 soccer players after ACLR."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall graft failure/reoperation rate ranged between 3.0% and 24.8% (mean follow-up range, 2.3-10 years) and the combined ACL graft failure and contralateral ACL injury rate after initial ACLR was 1.0% to 16.7% (mean follow-up range, 3-10 years); a subgroup analysis for female and male players revealed a secondary ACL injury incidence rate of 27%, 95% CI (22%, 32%) and 10%, 95% CI (6%, 15%), respectively. Soccer players were able to return to play between 6.1 and 11.1 months and the majority of PROs showed favorable scores at medium-term follow-up."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Soccer players experience high ACL injury rates after primary ACLR and demonstrated similar reinjury rates as found in previous literature of athletes who participate in high-demand pivoting sports."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Soccer players were able to return to play between 6.1 and 11.1 months and the majority of PROs showed favorable scores at medium-term follow-up."
+    }
+  ],
+  "pmcid": "10606974",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "The overall graft failure/reoperation rate ranged between 3.0% and 24.8% (mean follow-up range, 2.3-10 years) and the combined ACL graft failure and contralateral ACL injury rate after initial ACLR was 1.0% to 16.7% (mean follow-up range, 3-10 years); a subgroup analysis for female and male players revealed a secondary ACL injury incidence rate of 27%, 95% CI (22%, 32%) and 10%, 95% CI (6%, 15%), respectively. Soccer players were able to return to play between 6.1 and 11.1 months and the majority of PROs showed favorable scores at medium-term follow-up."
+    }
+  ]
+}

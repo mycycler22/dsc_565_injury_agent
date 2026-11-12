@@ -1,0 +1,20 @@
+{
+  "pmid": "42530617",
+  "title": "Imaging characterization of sports-related hamstring injuries.",
+  "year": "2026",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The hamstring muscles comprise the semimembranosus, semitendinosus, and biceps femoris. The hamstring muscle group is frequently injured in a wide range of sports, particularly those involving sprinting, rapid acceleration and deceleration, and changes of direction. The most common mechanism is an indirect injury, typically presenting as a muscle strain. In elite athletes, hamstring injuries can be career-threatening. Complete hamstring avulsions are less common than partial tears. This review provides an overview of the broad spectrum of sports-related hamstring injuries and their magnetic resonance imaging findings. Furthermore, both classic and more recent classification systems for muscle injuries are presented and discussed, as several systems have been proposed and currently no universally accepted standard exists. In addition, basic principles of treatment, the healing process of muscle injuries, and the risk of re-injury are outlined. Factors influencing the time to return to play are also discussed. Since radiologists play a key role in the multidisciplinary care of both athletes and the general population with muscle injuries, communication with referring physicians should be as standardized as possible to have the same language and based on clinically aligned terminology."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

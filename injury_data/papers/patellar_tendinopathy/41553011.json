@@ -1,0 +1,42 @@
+{
+  "pmid": "41553011",
+  "title": "Fat pad debridement prolongs return-to-sport: A meta-analysis and meta-regression of surgical interventions for chronic patellar tendinopathy.",
+  "year": "2026",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Chronic patellar tendinopathy, or jumper's knee, frequently affects athletes involved in jumping sports. Most patients can be treated with conservative management, while approximately 10% require surgery. The purpose of this systematic review and meta-regression was to evaluate surgical outcomes and determine whether surgical and patient-related factors influence post-operative return-to-sport (RTS)."
+    },
+    {
+      "label": "METHODS",
+      "text": "The review was conducted according to PRISMA guidelines. PubMed, Embase and Cochrane Library were searched for studies published between January 2008 and December 2025. Risk of bias assessment was undertaken using the Downs and Black checklist. Data on surgical technique, specific surgical procedures, patient demographics, rehabilitation and outcomes, including Victorian Institute of Sport Assessment-Patellar tendinopathy (VISA-P) and Lysholm knee scores, were extracted. Random-effects meta-analyses and meta-regression were conducted to identify factors influencing time to RTS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 2074 records were screened, and 13 studies met the inclusion criteria. Surgical intervention significantly improved VISA-P scores (weighted mean difference [WMD] of 40.3 [95% confidence interval [CI]: 36.8-43.8]) and Lysholm scores (WMD of 41.3 [95% CI: 38.7-44.0]). A meta-analysis comparing surgical techniques found significantly longer RTS times following arthroscopic procedures compared to open surgery (WMD, 5.4 weeks; p = 0.049). Meta-regression indicated that inclusion of fat pad debridement was associated with a 7.0-week delay in RTS (p = 0.007), while no significant effect was seen for patellar tendon debridement (p = 0.6). No significant effect of sex, age or post-operative immobilisation on RTS time was observed (p > 0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Surgical treatment for chronic patellar tendinopathy leads to substantial improvements in functional outcomes. However, arthroscopic techniques and the inclusion of fat pad debridement may prolong RTS time. Greater standardisation of surgical procedures and further high-quality studies are needed to optimise treatment strategies."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "A meta-analysis comparing surgical techniques found significantly longer RTS times following arthroscopic procedures compared to open surgery (WMD, 5.4 weeks; p = 0.049)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

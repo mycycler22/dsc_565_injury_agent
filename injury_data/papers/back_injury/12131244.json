@@ -1,0 +1,32 @@
+{
+  "pmid": "12131244",
+  "title": "Low-back stiffness is altered with warm-up and bench rest: implications for athletes.",
+  "year": "2002",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "General practice in many team sports is to have the athletes who do not start in a game sit on a bench while waiting to play. The purpose of this study was to examine the effect of a warm-up followed by bench rest on the stiffness of the lumbar spine in athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Nine varsity-level volleyball players volunteered to have their lumbar-spine stiffness measured. The protocol consisted of an initial stiffness measurement followed by a 30-min warm-up, then another stiffness measurement, then 30 min of bench rest, and finally a third stiffness measurement."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In general, lumbar spine stiffness increased as a result of bench rest after a warm-up. This effect was seen in both the spine extension and lateral bend axes but not in the flexion or axial twist axes. However, there was no decrease in stiffness associated with the active warm-up portion of the task."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "It was concluded that a warm-up followed by bench rest does lead to an increase in stiffness of the lumbar spine, suggesting this practice is not in the best interest of reducing the risk of back injury or optimal performance."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "26535372",
+  "title": "Surface Electromyography of the Forearm Musculature During the Windmill Softball Pitch.",
+  "year": "2015",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Previous studies investigating the windmill softball pitch have focused primarily on shoulder musculature and function, collecting limited data on elbow and forearm musculature. Little information is available in the literature regarding the forearm. This study documents forearm muscle electromyographic (EMG) activity that has not been previously published."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "Elbow and upper extremity overuse injuries are on the rise in fast-pitch softball pitchers. This study attempts to describe forearm muscle activity in softball pitchers during the windmill softball pitch. Overuse injuries can be prevented if a better understanding of mechanics is defined."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Surface EMG and high-speed videography was used to study forearm muscle activation patterns during the windmill softball pitch on 10 female collegiate-level pitchers. Maximum voluntary isometric contraction of each muscle was used as a normalizing value. Each subject was tested during a single laboratory session per pitcher. Data included peak muscle activation, average muscle activation, and time to peak activation for 6 pitch types: fastball, changeup, riseball, curveball, screwball, and dropball."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the first 4 phases, muscle activity (seen as signal strength on the EMG recordings) was limited and static in nature. The greatest activation occurred in phases 5 and 6, with increased signal strength, evidence of stretch-shortening cycle, and different muscle characteristics with each pitch style. These 2 phases of the windmill pitch are where the arm is placed in the 6 o'clock position and then at release of the ball. The flexor carpi ulnaris signal strength was significantly greater than the other forearm flexors. Timing of phases 1 through 5 was successively shorter for each pitch. There was a secondary pattern of activation in the flexor carpi ulnaris in phase 4 for all pitches except the fastball and riseball."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "During the 6 pitches, the greatest muscular activity was in phases 5 and 6. Flexor carpi ulnaris activity was greatest among the muscles tested. The riseball had the highest peak activity, but the curveball and dropball had the highest average signal strength. This muscle activity correlates with increasing distraction in the elbow, suggesting that flexor muscles act to counterdistract the elbow as they do for the baseball pitch."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Windmill pitchers are unique among overhead athletes as they throw, on average, more pitches per overhead athlete. Understanding the mechanics and physiology of the elbow in windmill pitchers is crucial to prevention and treatment of these increasingly common elbow injuries. This study establishes baseline data that will be useful to further prevent windmill pitch elbow injury."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

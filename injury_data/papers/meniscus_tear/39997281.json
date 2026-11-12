@@ -1,0 +1,30 @@
+{
+  "pmid": "39997281",
+  "title": "Accelerating Recovery: A Case Report on Telerehabilitation for a Triathlete's Post-Meniscus Surgery Comeback.",
+  "year": "2025",
+  "journal": "Healthcare (Basel, Switzerland)",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Introduction:</b> Meniscus injuries are common among endurance athletes, requiring structured rehabilitation to restore function and facilitate a safe return to sport. Traditional in-person rehabilitation may not always be accessible or feasible for high-performance athletes. Telerehabilitation, incorporating virtual reality, motion tracking, and telemonitoring, offers an innovative approach to guided recovery. However, evidence supporting its effectiveness in elite athletes remains limited. <b>Case presentation:</b> This case report explores the application of an innovative telerehabilitation program for a 49-year-old triathlete recovering from partial meniscectomy following a medial meniscus tear. The program was structured into three progressive phases over 12 weeks, focusing on restoring range of motion (ROM), muscle strength, and functional stability while gradually reintroducing sports-specific activities. <b>Results:</b> By the end of the rehabilitation, the patient achieved full ROM and muscle strength (scoring 5/5 on the Medical Research Council scale for the vastus medialis), along with a pain-free state in both static and dynamic conditions. The integration of telemonitoring devices facilitated detailed monitoring and feedback, enabling personalized adjustments to the rehabilitation protocol. Key milestones included a return to swimming and cycling in Phase 2, reintroduction of running in Phase 3, and a full resumption of triathlon training by week 12. <b>Conclusions:</b> Despite the positive results, the study highlights the need for further research to validate these findings across larger cohorts and establish standardized telerehabilitation protocols for athletes. This case underscores the potential of digital health technologies in enhancing recovery trajectories for high-demand athletes post-meniscus surgery, paving the way for supervised, accelerated, and effective sports reintegration."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The program was structured into three progressive phases over 12 weeks, focusing on restoring range of motion (ROM), muscle strength, and functional stability while gradually reintroducing sports-specific activities. <b>Results:</b> By the end of the rehabilitation, the patient achieved full ROM and muscle strength (scoring 5/5 on the Medical Research Council scale for the vastus medialis), along with a pain-free state in both static and dynamic conditions."
+    }
+  ],
+  "pmcid": "11855331",
+  "fulltext_chunks": [
+    {
+      "section": "TABLE: Progression of ROM, Pain Intensity, and Muscle Strength During Rehabilitation.",
+      "text": "Phase | Time Period | ROM | Pain Intensity (VAS) | Muscle Strength Left (MRC Scale) | Muscle Strength Right (MRC Scale) | Biomechanical Data (Ground Contact Time Distribution)\nPreoperative | Before surgery | Knee flexion: 110°, Knee extension: −10° | 3 (walking), 0 (at rest) | Hip flexors: 5/5 Hip extensors: 5/5 Hip abductors: 5/5 Hip adductors: 5/5 Hip external rotators: 5/5 Hip internal rotators: 5/5 Knee extensors: (vastus medialis: 5) Knee flexors: 5/5 Ankle dorsiflexion: 5/5 Ankle plantarflexion: 5/5 | Hip flexors: 5/5 Hip extensors: 5/5 Hip abductors: 5/5 Hip adductors: 5/5 Hip external rotators: 5/5 Hip internal rotators: 5/5 Knee extensors: (vastus medialis: 4) Knee flexors: 5/5 Ankle dorsiflexion:/5 Ankle plantarflexion:/5 | 51.5% left/48.5% right\nPhase 1 | Weeks 1–2 | Knee flexion: 90°, Knee extension: −5° | 2 (walking), 0 (at rest) | Hip flexors: 5/5 Hip extensors: 5/5 Hip abductors: 4/5 Hip adductors: 5/5 Hip external rotators: 5/5 Hip internal rotators:/5 Knee extensors: 5 (vastus medialis: 5) Knee flexors: 5/5 Ankle dorsiflexion: 5/5 Ankle plantarflexion: 5/5 | Hip flexors: 5/5 Hip extensors: 5/5 Hip abductors: 4/5 Hip adductors: 5/5 Hip external rotators: 5/5 Hip internal rotators: 5/5 Knee extensors: 4 (vastus medialis: 4-) Knee flexors: 5/5 Ankle dorsiflexion: 5/5 Ankle plantarflexion: 5/5 | 51.9% left/48.1% right\nPhase 2 | Weeks 3–6 | Knee flexion: 110°, Knee extension: 0° | 1 (walking), 0 (at rest) | Hip flexors: 5/5 Hip extensors: 5/5 Hip abductors: 5/5 Hip adductors: 5/5 Hip external rotators: 5/5 Hip internal rotators: 5/5 Knee extensors: 5/5 (vastus medialis: 5) Knee flexors: 5/5 Ankle dorsiflexion: 5/5 Ankle plantarflexion: 5/5 | Hip flexors: 5/5 Hip extensors: 5/5 Hip abductors: 4/5 Hip adductors: 5/5 Hip external rotators: 5/5 Hip internal rotators: 5/5 Knee extensors: 5- (vastus medialis: 4) Knee flexors: 5/5 Ankle dorsiflexion: 5/5 Ankle plantarflexion: 5/5 | 51.7% left/48.3% right\nPhase 3 | Weeks 7–12 | Knee flexion: 120°, Knee extension: 0° | 0 (walking), 0 (at rest) | Hip flexors: 5/5 Hip extensors: 5/5 Hip abductors: 5/5 Hip adductors: 5/5 Hip external rotators: 5/5 Hip internal rotators: 5/5 Knee extensors: 5/5 (vastus medialis: 5) Knee flexors: 5/5 Ankle dorsiflexion: 5/5 Ankle plantarflexion: 5/5 | Hip flexors: 5/5 Hip extensors: 5/5 Hip abductors: 5/5 Hip adductors: 5/5 Hip external rotators: 5/5 Hip internal rotators: 5/5 Knee extensors: (vastus medialis: 5) Knee flexors: 5/5 Ankle dorsiflexion: 5/5 Ankle plantarflexion: 5/5 | 51.4% left/48.6% right"
+    }
+  ]
+}

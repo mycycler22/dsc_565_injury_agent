@@ -1,0 +1,31 @@
+{
+  "pmid": "26894494",
+  "title": "Scapular muscle activity in a variety of plyometric exercises.",
+  "year": "2016",
+  "journal": "Journal of electromyography and kinesiology : official journal of the International Society of Electrophysiological Kinesiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Plyometric shoulder exercises are commonly used to progress from slow analytical strength training to more demanding high speed power training in the return to play phase after shoulder injury. The aim of this study was first, to investigate scapular muscle activity in plyometric exercises to support exercise selection in practice and second, to enhance understanding of how scapular muscles are recruited during the back and forth movement phase of these exercises."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty-two healthy subjects performed 10 plyometric exercises while surface EMG-activity of the scapular muscles (upper (UT), middle (MT) and lower trapezius (LT) and serratus anterior (SA)) was registered. A high speed camera tracked start and end of the back and forth movement."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Mean scapular EMG activity during the 10 exercises ranged from 14.50% to 76.26%MVC for UT, from 15.19% to 96.55%MVC for MT, from 13.18% to 94.35%MVC for LT and from 13.50% to 98.50%MVC for SA. Anova for repeated measures showed significant differences in scapular muscle activity between exercises (p<0.001) and between the back and forth movement (p<0.001) within exercises."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Plyometric shoulder exercises require moderate (31-60%MVC) to high (>60%MVC) scapular muscle activity. Highest MT/LT activity was present in prone plyometric external rotation and flexion. Highest SA activity was found in plyometric external rotation and flexion with Xco and plyometric push up on Bosu. Specific exercises can be selected that recruit minimal levels of UT activity (<15%): side lying plyometric external rotation and horizontal abduction or plyometric push up on the Bosu. The results of this study support exercise selection for clinical practice."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

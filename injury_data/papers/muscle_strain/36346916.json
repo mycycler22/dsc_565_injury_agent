@@ -1,0 +1,19 @@
+{
+  "pmid": "36346916",
+  "title": "Effects of changes in optimal muscle fibre length in the biceps femoris long head on muscle force during the late swing phase of maximal speed sprinting: a simulation study.",
+  "year": "2025",
+  "journal": "Sports biomechanics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strain injuries would frequently occur during the late swing phase of sprinting, while increasing biceps femoris long head's (BFlh) fascicle length induced by eccentric contraction exercises can reduce the risk of strain injuries. Thus, using a musculoskeletal modelling simulation, we examined how manipulating BFlh optimal muscle fibre length would change muscle force during the late swing phase of sprinting for providing knowledge preventing hamstring strain injuries. A motion capture system was used to collect kinematic data from 40 male athletes during maximal speed sprinting. Muscle force and force-generating capabilities determined by force-length-velocity properties were estimated with three BFlh optimal muscle fibre lengths (90%, 110% and 120%), which were perturbed from the nominal (100%). During the late swing phase of sprinting, the muscle force and force-generating capabilities, induced by the force-length property rather than the force-velocity property, were increased by increases in BFlh optimal muscle fibre length. Moreover, magnitudes of the simulated increases in muscle force and force-generating capabilities were correlated with the peak BFlh muscle-tendon unit length. These results demonstrate that lengthening BFlh optimal muscle fibre might increase muscle force during the late swing phase, and the magnitude of increment would be associated with increasing muscle-tendon unit length."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

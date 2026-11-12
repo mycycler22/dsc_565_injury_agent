@@ -1,0 +1,31 @@
+{
+  "pmid": "40959028",
+  "title": "Feasibility of subantimicrobial-dose doxycycline for elbow tendinopathy.",
+  "year": "2025",
+  "journal": "JSES international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Elbow tendinopathy is a common condition among athletes and the general population and can result in significant disability and time loss from work. Despite traditional treatments, symptoms often persist for more than 6 months. Doxycycline has been suggested as having treatment potential for tendinopathy as a matrix metalloproteinase inhibitor. The objective of this study was to evaluate the feasibility of subantimicrobial dose (SD) doxycycline as a low-cost adjunctive treatment in the nonsurgical management of elbow tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "Subjects received doxycycline 20 mg twice per day for 12 weeks in addition to standard of care, including a home exercise program and a counterforce brace. Any potential side effects were reported weekly, and the remaining pills were counted at 12 weeks. Patient-reported outcome measures were collected at baseline, 4, 8, and 12 weeks. Ultrasound, grip strength, and laboratory values were assessed at baseline and 12 weeks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Our sample consisted of 21 patients (average age 50.9 years, 57.1% male). The median weeks of elbow pain at baseline was 14 (interquartile range 15). SD doxycycline resulted in no significant side effects or changes to laboratory values. Median medication compliance was 96% by pill count. Patient-reported outcome measures and grip strength were recorded at multiple time points in the follow-up."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Patients with elbow tendinopathy tolerated SD doxycycline well and the majority were compliant with a twice-daily regimen for 12 weeks. Our cohort demonstrated improvements in symptoms and grip strength. Further research is needed to determine if SD doxycycline contributes to this improvement."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

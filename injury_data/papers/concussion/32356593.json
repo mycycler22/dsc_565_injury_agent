@@ -1,0 +1,28 @@
+{
+  "pmid": "32356593",
+  "title": "Pediatric Post-Traumatic Headache and Implications for Return to Sport: A Narrative Review.",
+  "year": "2020",
+  "journal": "Headache",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Headache attributed to mild traumatic injury of the head (aka: mild traumatic brain injury, mTBI), frequently abbreviated to Post-Traumatic Headache (PTH), is one of the most common and disabling symptoms after a head injury. PTH often phenotypes to migraine. Evidence for treating PTH in the pediatric population is limited. Widely accepted guidelines do not exist to aid the clinician and there are currently no placebo-controlled trials for the pharmacologic management of PTH in this age group. Recommendations for when to return a child or adolescent to sport if they develop and/or are being treated for persistent PTH (PPTH) are lacking. The objective of this narrative review is to review the implications of returning an adolescent with PPTH to sport."
+    },
+    {
+      "label": "METHODS",
+      "text": "Pediatric neurologists with special qualification in headache collaborated on this narrative review. Literature was searched up until Oct 2019 for articles pertaining to PTH, concussion, mTBI, and the return of a pediatric athlete to sport after mTBI. Article inclusion was at the discretion of the authors. There was author consensus regarding all recommendations made."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The authors recommend that strict adherence to the guidelines that return to sport cannot occur until a child is symptom free at rest, off any medication, may be unreasonable in certain situations. Symptom stability is the proposed new concept for return to sport."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

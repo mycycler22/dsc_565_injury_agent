@@ -1,0 +1,40 @@
+{
+  "pmid": "31539278",
+  "title": "Outcomes of Hip Arthroscopic Surgery in Adolescents With a Subanalysis on Return to Sport: A Systematic Review.",
+  "year": "2020",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is a plethora of literature on outcomes after hip arthroscopic surgery in the adult population; however, outcomes in the adolescent population have not been as widely reported. Additionally, as adolescents represent a very active population, it is imperative to understand their athletic activity and return to sport after hip arthroscopic surgery."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To analyze patient-reported outcomes (PROs) after hip arthroscopic surgery in adolescents (aged 10-19 years) and present a return-to-sport analysis in the athletic adolescent subgroup."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "The PubMed, Embase, and Cochrane databases were searched according to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines to identify articles that reported PROs after hip arthroscopic surgery in adolescents. The standardized mean difference was calculated to compare the effect size of hip arthroscopic surgery on various PROs. For the athletic subgroup, a return-to-sport summary was also provided."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ten studies, with 618 adolescent hips and a collective study period of December 2004 to February 2015, were included in this systematic review. Across all studies, the mean age was 15.8 years (range, 11.0-19.9 years), and female patients composed approximately 56.7% of the entire cohort. The mean follow-up was 34.5 months (range, 12-120 months). The modified Harris Hip Score (mHHS) was reported in 9 studies, and at latest follow-up, scores were excellent in 4 studies (range, 90-95) and good in the remaining 5 studies (range, 82.1-89.6). All adolescents also showed significant improvement on the Non-Arthritic Hip Score (NAHS), the Hip Outcome Score-Activities of Daily Living (HOS-ADL), the HOS-Sport-Specific Subscale (HOS-SSS), the physical component of the 12-Item Short Form Health Survey (SF-12P), a visual analog scale for pain (VAS), and both versions of the International Hip Outcome Tool (iHOT-12 and iHOT-33) at latest follow-up (<i>P</i> < .05). Further, mean improvements reported in all studies surpassed reported values of the minimal clinically important difference and patient acceptable symptomatic state for the mHHS, HOS-ADL, HOS-SSS, and iHOT-33. Finally, the collective return-to-sport rate among athletic adolescents was 84.9%."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In the setting of labral tears and femoroacetabular impingement, hip arthroscopic surgery can safely be performed in adolescents and leads to significant functional improvement. Furthermore, athletic adolescents return to sport at high levels after hip arthroscopic surgery."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

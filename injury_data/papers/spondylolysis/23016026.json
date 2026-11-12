@@ -1,0 +1,31 @@
+{
+  "pmid": "23016026",
+  "title": "Evaluation of low back pain in athletes.",
+  "year": "2011",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Low back pain is a common complaint in athletes. Athletes differ from the general population physiologically, making it unclear if the evaluation of low back pain should differ between these 2 groups."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "A literature search (PubMed, Ovid) was performed for the years 1995 through 2010. Keywords used were lumbar back pain, athletes, and adolescence."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes with low back pain represent a very diverse group. The evaluation depends on the athlete's age and the presence of \"red flags.\" The most common causes of low back pain in the preadolescent population are infection, tumor, and trauma. In the adolescent population, trauma spondylolysis/spondylolisthesis and hyperlordosis are commonly seen. Leading causes in the adult population are mechanics and osteoarthritis. The elderly frequently present with osteoarthritis, spinal stenosis, and internal medical etiologies."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Athletes with back pain should have a diagnostic workup guided by their age, history, and physical examination. Although this work up is similar in nonathletes, the demands of the athlete must be taken into account in a treatment plan."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "40918857",
+  "title": "Evaluation of Risk Factors and Injury Mechanisms for Soft Tissue Knee Injuries.",
+  "year": "2025",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Identifying risk factors is essential in diagnosing and preventing soft tissue knee injuries (STKIs). These risk factors are broadly categorised into patient (intrinsic) and external (extrinsic), and non-modifiable and modifiable. Non-modifiable factors predispose individuals to injury, while modifiable ones offer opportunities for intervention and prevention. Injury mechanisms are also important for biomechanical consideration and can help guide diagnosis. Literature on risk factors and mechanisms is limited by its focus on specific subgroups, such as elite athletes or single injury types, reducing generalisability. This study aimed to identify potential associations of patient factors, external factors, and injury mechanisms in patients presenting with acute knee injuries. Eighty-five patients were recruited in a major regional Urgent Treatment Centre over 18 months and completed a digital questionnaire capturing relevant risk factors and injury details. Male sex was the only risk factor significantly associated with an increased risk of injury (RR 1.51, 95% CI 1.05-2.0), while hyperextension was the only injury mechanism significantly linked to injury (RR 2.90, 95% CI 1.2-6.4). This study highlights the inherent difficulties of diagnosing acute STKIs, stemming from nonspecific symptoms and variably reported injury mechanisms. Future research should integrate biomechanical assessments with clinical and contextual risk factors to improve diagnostic accuracy and develop targeted prevention strategies for high-risk athletic populations."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

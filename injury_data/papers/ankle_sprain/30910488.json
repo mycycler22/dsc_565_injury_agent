@@ -1,0 +1,25 @@
+{
+  "pmid": "30910488",
+  "title": "Noninvasive Interactive Neurostimulation Therapy for the Treatment of Low-Grade Lateral Ankle Sprain in the Professional Contact Sport Athlete Improves the Short-Term Recovery and Return to Sport: A Randomized Controlled Trial.",
+  "year": "2019",
+  "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Ankle injuries are very common between professional athletes and recreational sports. Lateral stable ligaments injury can be treated conservatively. Noninvasive interactive neurostimulation (NIN) is a form of electric therapy that works by locating areas of lower skin impedance. The objective of this prospective, double-blinded, randomized controlled trial was to compare the results in terms of improvement of a foot functional score, lower level of reported pain, and return to sports in 2 groups of contact sport athlete affected by a grade I or II lateral ankle sprain. Patients were randomized using random blocks to the NIN program (group I) or a sham device (group II). The outcome measurements were the use of a self-reported Inability Walking Scale, patient-reported subjective assessment of the level of pain using a standard visual analogue scale, and daily intake of nonsteroidal antiinflammatory drugs (etoricoxib 60 mg). Patients were also reached by telephone at 2 and 4 months of follow-up to register their return to sport activity. Beyond baseline evaluation, follow-ups were done after 5 (1 week) and 10 sessions (2 weeks) of treatment, and then at 30 days after the end of therapy. Of the 70 athletes admitted to the study, 61 eligible patients were randomized using random blocks to group I (n = 32) and group II (n = 29). Group I patients showed better improvement in terms of functional impairment (Inability Walking Scale), reported pain (visual analogue scale), and daily intake of etoricoxib 60 mg. Athletes of group I registered a faster resuming of sport activities. This prospective, randomized trial showed NIN can improve short-term outcomes in athletes with acute grade I or II ankle sprain and that it can hasten resuming of sport activities."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Patients were also reached by telephone at 2 and 4 months of follow-up to register their return to sport activity."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

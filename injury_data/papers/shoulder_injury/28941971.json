@@ -1,0 +1,40 @@
+{
+  "pmid": "28941971",
+  "title": "Return to play after shoulder instability in National Football League athletes.",
+  "year": "2018",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "HYPOTHESIS",
+      "text": "We hypothesized that National Football League (NFL) players sustaining a shoulder destabilizing injury could return to play (RTP) successfully at a high rate regardless of treatment type."
+    },
+    {
+      "label": "METHODS",
+      "text": "We identified and evaluated 83 NFL players who sustained an in-season shoulder instability event while playing in the NFL. NFL RTP, incidence of surgery, time to RTP, recurrent instability events, seasons/games played after the injury, and demographic data were collected. Overall RTP was determined, and players who did and did not undergo operative repair were compared."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ninety-two percent of NFL players returned to NFL regular season play at a median of 0.0 weeks in those sustaining a shoulder subluxation and 3.0 weeks in those sustaining a dislocation who did not undergo surgical repair (P = .029). Players who underwent operative repair returned to play at a median of 39.3 weeks. Forty-seven percent of players had a recurrent instability event. For players who were able to RTP, those who underwent surgical repair (31%) had a lower recurrence rate (26% vs. 55%, P = .021) and longer interval between a recurrent instability event after RTP (14.7 vs. 2.5 weeks, P = .050)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There is a high rate of RTP after shoulder instability events in NFL players. Players who sustain shoulder subluxations RTP faster but are more likely to experience recurrent instability than those with shoulder dislocations. Surgical stabilization of the shoulder after an instability event decreases the chances of a second instability event and affords a player a greater interval between the initial injury and a recurrent event."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Players who underwent operative repair returned to play at a median of 39.3 weeks."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "For players who were able to RTP, those who underwent surgical repair (31%) had a lower recurrence rate (26% vs. 55%, P = .021) and longer interval between a recurrent instability event after RTP (14.7 vs. 2.5 weeks, P = .050)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

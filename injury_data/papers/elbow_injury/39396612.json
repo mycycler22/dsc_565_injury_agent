@@ -1,0 +1,31 @@
+{
+  "pmid": "39396612",
+  "title": "Neck range of motion prognostic factors in association with shoulder and elbow injuries in professional baseball pitchers.",
+  "year": "2025",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The authors observed an association between cervical spine mobility and arm injury risk in baseball players; however, there is a need to assess the generalizability of cervical measurement data. Assessing the downstream associations of cervical dysfunction on shoulder and elbow injuries can inform clinical interventions to help reduce future arm injuries. The purpose of this study was to assess the generalizability of neck range of motion measures as arm injury prognostic factors in professional baseball pitchers."
+    },
+    {
+      "label": "METHODS",
+      "text": "A prospective cohort of professional baseball pitchers in one Major League Baseball Organization was studied. Pitchers underwent preseason neck range of motion including cervical flexion, extension, rotation, lateral flexion, and the flexion-rotation test, and were followed for the season. The outcome was the occurrence of a shoulder or elbow injury. A Cox proportional hazards analysis was performed and reported as hazard ratios with 95% confidence intervals (95% CIs)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 88 pitchers were included (age: 24.2 [2.4] years; left-handed: 21 [23%]; fastball velocity: 92.3 [1.8]), with 15,942 athlete exposure days collected over the season. Pitcher neck range of motion was assessed (flexion: 64° [10°]; extension: 69° [11°]; difference in lateral flexion: -1° [7°]; difference in neck rotation: -2° [9°]; difference in cervical flexion-rotation test: -1° [7°]). A total of 20 arm injuries (shoulder: 9 [10%]; elbow: 11 [13%]; combined rate: 1.3 [95% CI: 0.7, 1.7] per 1000 exposure days) were suffered by pitchers during the season. For every degree increase in the difference in dominant (rotating to dominant shoulder) vs. nondominant (rotating to nondominant shoulder) neck rotation, there was a 4-fold increase in arm injury hazard (hazard ratio: 4.0 [95% CI: 1.1, 13.9], P = .031). No other neck measurements demonstrated prognostic value."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "A deficit in dominant vs. nondominant neck rotation was prognostic for a pitching arm injury. However, the cervical rotation test did not have prognostic value in this sample. Further research is required to assess the generalizability and scalability of neck range of motion assessment in relation to baseball shoulder and elbow injuries across different competition levels."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

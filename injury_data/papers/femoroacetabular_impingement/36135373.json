@@ -1,0 +1,39 @@
+{
+  "pmid": "36135373",
+  "title": "External Validation of a Machine Learning Algorithm for Predicting Clinically Meaningful Functional Improvement After Arthroscopic Hip Preservation Surgery.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Individualized risk prediction has become possible with machine learning (ML), which may have important implications in enhancing clinical decision making. We previously developed an ML algorithm to predict propensity for clinically meaningful outcome improvement after hip arthroscopy for femoroacetabular impingement syndrome. External validity of prognostic models is critical to determine generalizability, although it is rarely performed."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess the external validity of an ML algorithm for predicting clinically meaningful improvement after hip arthroscopy."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "An independent hip preservation registry at a tertiary academic medical center was queried for consecutive patients/athletes who underwent hip arthroscopy for femoroacetabular impingement syndrome between 2015 and 2017. By assuming a minimal clinically important difference (MCID) outcome/event proportion of 75% based on the original study, a minimum sample of 132 patients was required. In total, 154 patients were included. Age, body mass index, alpha angle on anteroposterior pelvic radiographs, Tönnis grade and angle, and preoperative Hip Outcome Score-Sports Subscale were used as model inputs to predict the MCID for the Hip Outcome Score-Sports Subscale 2 years postoperatively. Performance was assessed using identical metrics to the internal validation study and included discrimination, calibration, Brier score, and decision curve analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The concordance statistic in the validation cohort was 0.80 (95% CI, 0.71 to 0.87), suggesting good to excellent discrimination. The calibration slope was 1.16 (95% CI, 0.74 to 1.61) and the calibration intercept 0.13 (95% CI, -0.26 to 0.53). The Brier score was 0.15 (95% CI, 0.12 to 0.18). The null model Brier score was 0.20. Decision curve analysis revealed favorable net treatment benefit for patients with use of the algorithm as compared with interventional changes made for all and no patients."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The performance of this algorithm in an independent patient population in the northeast region of the United States demonstrated superior discrimination and comparable calibration to that of the derivation cohort. The external validation of this algorithm suggests that it is a reliable method to predict propensity for clinically meaningful improvement after hip arthroscopy and is an essential step forward toward introducing initial use in clinical practice. Potential uses include integration into electronic medical records for automated prediction, enhanced shared decision making, and more informed allocation of resources to optimize patient outcomes."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

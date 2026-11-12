@@ -1,0 +1,31 @@
+{
+  "pmid": "29788936",
+  "title": "Association between stress fracture incidence and predicted body fat in United States Army Basic Combat Training recruits.",
+  "year": "2018",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "A stress fracture (SF) is a highly debilitating injury commonly experienced in United States Army Basic Combat Training (BCT). Body fat (BF) may be associated with this injury but previous investigations (in athletes) have largely used SF self-reports and lacked sufficient statistical power. This investigation developed an equation to estimate %BF and used that equation to examine the relationship between %BF and SF risk in BCT recruits."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data for the %BF predictive equation involved 349 recruits with BF obtained from dual-energy X-ray absorptiometry. %BF was estimated using body mass index (BMI, weight/height<sup>2</sup>), age (yr), and sex in the entire population of BCT recruits over an 11-year period (n = 583,651). Medical information was obtained on these recruits to determine SF occurrence. Recruits were separated into deciles of estimated %BF and the risk of SFs determined in each decile."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The equation was %BF = - 7.53 + 1.43 ● BMI + 0.13 ● age - 14.73 ● sex, with sex either 1 for men or 0 for women (r = 0.88, standard error of estimate = 4.2%BF). Among the men, SF risk increased at the higher and lower %BF deciles: compared to men in the mean %BF decile, the risk of a SF for men in the first (lowest %BF) and tenth (highest %BF) decile were 1.27 (95%confidence interval (95%CI) = 1.17-1.40) and 1.15 (95%CI = 1.05-1.26) times higher, respectively. Among women, SF risk was only elevated in the first %BF decile with risk 1.20 (95%CI = 1.09-1.32) times higher compared to the mean %BF decile."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Low %BF was associated with higher SF risk in BCT; higher %BF was associated with higher SF risk among men but not women."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "24911288",
+  "title": "How joint torques affect hamstring injury risk in sprinting swing-stance transition.",
+  "year": "2015",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "The potential mechanisms of hamstring strain injuries in athletes are not well understood. The study, therefore, was aimed at understanding hamstring mechanics by studying loading conditions during maximum-effort overground sprinting."
+    },
+    {
+      "label": "METHODS",
+      "text": "Three-dimensional kinematics and ground reaction force data were collected from eight elite male sprinters sprinting at their maximum effort. Maximal isometric torques of the hip and knee were also collected. Data from the sprinting gait cycle were analyzed via an intersegmental dynamics approach, and the different joint torque components were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the initial stance phase, the ground reaction force passed anteriorly to the knee and hip, producing an extension torque at the knee and a flexion torque at the hip joint. Thus, the active muscle torque functioned to produce flexion torque at the knee and extension torque at the hip. The maximal muscle torque at the knee joint was 1.4 times the maximal isometric knee flexion torque. During the late swing phase, the muscle torque counterbalanced the motion-dependent torque and acted to flex the knee joint and extend the hip joint. The loading conditions on the hamstring muscles were similar to those of the initial stance phase."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "During both the initial stance and late swing phases, the large passive torques at both the knee and hip joints acted to lengthen the hamstring muscles. The active muscle torques generated mainly by the hamstrings functioned to counteract those passive effects. As a result, during sprinting or high-speed locomotion, the hamstring muscles may be more susceptible to high risk of strain injury during these two phases."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

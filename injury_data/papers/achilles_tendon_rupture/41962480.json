@@ -1,0 +1,31 @@
+{
+  "pmid": "41962480",
+  "title": "Psychological and functional assessment of Achilles tendon ruptures and their return to sports.",
+  "year": "2026",
+  "journal": "Foot (Edinburgh, Scotland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Achilles Tendon Ruptures (ATR) in sport has only previously been investigated in an athletic population. Our aim in this study was to understand the psychology and function of ATR and their return to sport."
+    },
+    {
+      "label": "METHODS",
+      "text": "A historic cohort study was completed on patients attending our specialist Achilles clinic who had sustained an ATR during sport in a normal population. Patients completed ATRS (Achilles Tendon Total Rupture Score) and I-PRRS (Injury-Psychological Readiness to Return to Sport)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "142 patients sustained ATR during sport and 73 patients had data available for analysis beyond 6 months. There were 17 (23.29%) who returned to same sport at the same level, 13 (17.81%) returned to same sport at different level, 11 (15.07%) who returned to different sport and 43.84% who did not return to sport. The I-PRRS and ATRS was significantly lower in the patients who did not return to sport (p < .001 and.003). There was significant correlation between the I-PRRS and ATRS. The most common reason for not returning to sport was fear of reinjury (41.30%), followed by pain/stiffness (26.09%) and life circumstance (13.04%). Although there was significant correlation between the ATRS and I-PRRS, the patients who did not return to sport at same level and gave reasons for non-return other than due to pain/stiffness, had normal ATRS scores CONCLUSIONS: Return to sport following ATR in a non-athletic population was low. The most common reason for failure to return to sport was psychological, however functional scores and psychological scores displayed significant correlation."
+    },
+    {
+      "label": "SUMMARY BOX",
+      "text": "Achilles tendon ruptures (ATR) have been primarily studied in professional athletes, leaving a gap in understanding outcomes in the general population. This study demonstrates that the return-to-sport rate in the general population following ATR is low, with fear of reinjury being the most common barrier, even among those with adequate functional recovery. These findings highlight the importance of integrating psychological rehabilitation with physical recovery protocols to improve return-to-sport outcomes."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

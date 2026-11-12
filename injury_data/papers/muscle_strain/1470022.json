@@ -1,0 +1,22 @@
+{
+  "pmid": "1470022",
+  "title": "Effect of pelvic position and stretching method on hamstring muscle flexibility.",
+  "year": "1992",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring muscle strain represents a significant injury to the athlete participating in sporting activities. Lack of hamstring flexibility has been correlated to hamstring muscle injury. There is, however, conflict concerning the most efficient hamstring stretching technique. The purpose of this study was to compare static stretch (SS) and proprioceptive neuromuscular facilitation (PNF) hamstring stretching techniques while maintaining the pelvis in two testing positions: anterior pelvic tilt (APT) or posterior pelvic tilt (PPT). Two groups of 10 subjects were randomly assigned to either an APT or PPT position. Each subject then performed eight sessions using PNF on one leg and SS on the other leg while maintaining the pelvis in the assigned position. Hamstring flexibility was assessed with the hip positioned at 90 degrees while actively extending the knee, i.e., active knee extension test (AKET). A two-way ANOVA comparing stretching technique and pelvic position revealed that the APT group significantly increased hamstring flexibility (P = 0.0375). There was not a significant difference between SS or PNF stretching technique in the APT position. There was not a significant increase in hamstring flexibility in the PPT group with either stretching technique (P > 0.05). The results suggest that APT position was more important than stretching method for increasing hamstring muscle flexibility."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "29322208",
+  "title": "The association of the medial joint vacuum phenomenon with ulnar collateral ligament injury in symptomatic elbows of younger athletes.",
+  "year": "2018",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the prevalence of intra-articular gas (IAG) on elbow radiography and evaluate variables, including IAG, as predictors of UCL injury."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "This IRB-approved retrospective study consisted of 241 consecutive elbow radiographic studies containing AP radiographs with valgus stress of both symptomatic and asymptomatic sides in 234 patients. The IAG, medial joint space (MJS), and MJS difference between the symptomatic and asymptomatic elbow (MJSD) were evaluated by two readers, as well as patient age, gender, sport played, and handedness. Primary outcomes included IAG on valgus stress radiographs and UCL injury, which was determined by intraoperative findings as the reference standard or MRI if surgery was not performed. Univariate analysis with Student's t, Fisher's exact, and chi-square tests were performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "IAG only manifested with valgus stress and was demonstrated in 30/482 (6.2%) valgus stress radiographs in 27/234 (11.5%) patients. Overall, 21/241 (8.7%) valgus stress radiographs of the symptomatic elbow demonstrated IAG in 21 patients. A total of 128/241 (53.1%) elbow studies had evidence of UCL injury. MJS IAG (p = 0.0147) and increased MJSD (p = 0.0088) were significantly associated with UCL injury. Patient gender, age, handedness, laterality, sport played, and absolute MJS were not associated with UCL injury. MJS IAG with valgus stress demonstrates a sensitivity of 11.7% and specificity of 98.3% in detecting UCL injury for the symptomatic elbow."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "MJS IAG infrequently manifests on valgus stress radiographs, but is specific for UCL injury in the symptomatic elbow of overhead throwing athletes. MJS IAG and increased MJSD are significantly associated with UCL injury."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

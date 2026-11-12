@@ -1,0 +1,19 @@
+{
+  "pmid": "25823982",
+  "title": "Imaging of adductor-related groin pain.",
+  "year": "2015",
+  "journal": "Diagnostic and interventional imaging",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Groin pain is a common condition in athletes and results from various causes. Osteitis pubis, adductor dysfunction, inguinal hernia, or a combination of all three entities, generally explains the onset of symptoms. Adductor longus tendinopathy is the main cause of adductor-related groin pain. It leads to a significant reduction of sports participation and can require surgical management. Diagnosis is based on ultrasonography and magnetic resonance imaging. Asymptomatic findings (tendinosis, calcifications, cortical erosions) are common in athletes and care should be taken when assessing groin pain. The most specific sign of tendinopathy is an intratendinous tear of the adductor longus."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

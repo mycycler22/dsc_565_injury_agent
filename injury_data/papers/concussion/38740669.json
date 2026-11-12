@@ -1,0 +1,20 @@
+{
+  "pmid": "38740669",
+  "title": "[Head injuries: What the team physician needs to know].",
+  "year": "2024",
+  "journal": "Orthopadie (Heidelberg, Germany)",
+  "pub_types": [
+    "Journal Article",
+    "English Abstract"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "A concussion is the mildest form of a mild traumatic brain injury (tbi) and resembles the most prevalent type of sports associated tbi. Diffuse axonal injuries, the main pathophysiological mechanism of concussion, leads to disruption of communication between different brain areas. The resulting clinical symptoms may relate to several clinical domains (cognition, fatigue, anxiety disorders, headaches/migraines or vestibulo-ocular problems), all of which need to be assessed in a clinical screening during an evaluation for possible concussion. Appropriate and consensus-based protocols to conduct clinical exams are provided by the Concussion in Sport Group (Sport Concussion Assessment Tool (SCAT), Sport Concussion Office Assessment Tool (SCOAT)) and should be used in the most up-to-date version. Therapeutically, slowly and incrementally increasing sub symptomatic activation consisting of daily routine activities, aerobic and cognitive exercises should be introduced early after the trauma. Education about concussion should be geared towards target audiences and will then greatly contribute to adherence and acceptance of medical management."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,57 @@
+{
+  "pmid": "33604151",
+  "title": "An Alternative Model of Care for the Treatment of Adolescent Athletes with Extension-Based Low Back Pain: A Pilot Study.",
+  "year": "2021",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND AND PURPOSE",
+      "text": "Half of adolescent athletes report low back pain (LBP) and there is a significant risk of vertebral injury in this population. The current model of care for adolescent athletes with LBP is to first confirm a medical diagnosis of spondylolysis which frequently requires advanced imaging. However, routine use of advanced imaging increases cost, delays treatment, and can expose the athlete to radiation."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this pilot study was to assess the viability of a physical therapist guided functional progression program to manage low back pain (LBP) in adolescent athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Non-randomized, controlled clinical trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Sixteen adolescents (15 ± 1.8 years, 50% female) with extension-based LBP were assigned to the biomedical model or physical therapy first model. The biomedical model sought to determine a spondylolysis diagnosis to guide treatment. In the physical therapy first model, patients began early therapeutic exercise and their ability to functionally progress determined the course of care. Dependent variables were change in Micheli Function Score, use of imagining, days out of sport, and ability to return to sport. Adverse events were monitored in order to assess safety. Descriptive statistics were completed to assess the viability of the alternative model."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Both models had similar improvements in pain and function. The physical therapy first model reduced use of advanced imaging by 88% compared to the biomedical model. Patients in the biomedical model who did not sustain a vertebral injury returned to sport sooner than the physical therapy first model (3.4 days versus 51 days), while those with a vertebral injury took longer in the current model (131 days versus 71 days). All of the patients in the physical therapy first model and 88% of patients in the current model made a full return to sport. Two adverse events occurred in the biomedical model, and none were noted in the physical therapy first model."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This pilot study demonstrated that the physical therapist guided functional progression program may be a viable method for treating young athletes with LBP and further research is warranted."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "3b."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Patients in the biomedical model who did not sustain a vertebral injury returned to sport sooner than the physical therapy first model (3.4 days versus 51 days), while those with a vertebral injury took longer in the current model (131 days versus 71 days)."
+    }
+  ],
+  "pmcid": "7872438",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Both models had similar improvements in pain and function. The physical therapy first model reduced use of advanced imaging by 88% compared to the biomedical model. Patients in the biomedical model who did not sustain a vertebral injury returned to sport sooner than the physical therapy first model (3.4 days versus 51 days), while those with a vertebral injury took longer in the current model (131 days versus 71 days). All of the patients in the physical therapy first model and 88% of patients in the current model made a full return to sport. Two adverse events occurred in the biomedical model, and none were noted in the physical therapy first model."
+    },
+    {
+      "section": "RESULTS",
+      "text": "Sixteen patients were recruited for this pilot study and were assigned to either the biomedical model (n=8) or the PT First program (n=8) group. Eligible patients were recruited from August through December of 2016. Twenty-eight consecutive patients who presented to the participating sports medicine physicians with low back pain were screened for inclusion (Figure 2). Baseline variables were similar between the two models of care based upon comparison of descriptive statistics (Table 2). Eight advanced imagining procedures were performed in the biomedical model group and only one was performed in the PT First group. In the biomedical model group, five of the patients (63%) were diagnosed with non-specific low back pain, two of the patients (25%) were diagnosed with spondylolysis and one patient (12%) with a herniated disc. A definitive diagnosis in the PT First program was not made for patients (as per protocol), but based on the patient’s ability to improve, six (75%) were able to make a full return to sport and activity directly from the program. Two patients (25%) did not progress through the program without pain. Advanced imaging was obtained with one patient, while the other was treated as a presumed vertebral injury and requiring a period of rest to make a full return to sport. The course of care differed between both models of care (Table 3). Use of advanced imaging was 88% lower in the PT First program. On average, nearly twice as many physical therapy visits were used in the PT First program, while slightly more physician visits were used in the biomedical model. Both models of care had a similar duration of care. The median billed cost for the PT First program was 19% lower than in the biomedical model ($3885.00 versus $4774.00). Both models of care made similar improvements in clinical outcomes (Table 4). Overall, 94% of the patients between the groups (n=15) were able to make a full return to sport in an average of 49 days (± 43 days). In this pilot study, the duration of care for vertebral injuries (101 ± 20 days) was longer than for non-specific LBP (49 ± 23 days). Patients in the biomedical model group with non-specific LBP were cleared to return to sport much sooner than the PT First program (3.4 days versus 51 days). However, those with a diagnosed vertebral injury took longer to be cleared to return to sport in the biomedical model group than those with a presumed vertebral injury in the PT First group (131 days versus 71 days). Two adverse events were noted in the biomedical model group, and none occurred in the PT First group. The relative risk of adverse events was not calculated due to the nature of this pilot study. One patient initially had a SPECT scan which revealed no vertebral injury, and physical therapy was prescribed. The patient did not attend her physical therapy evaluation, and two weeks later had a significant worsening of LBP with tingling in the right leg. Clinical examination revealed no myotomal weakness of the lower extremities, intact deep tendon reflexes and decreased sensation to light touch in the right medial foot. The patient’s co-investigating physician ordered an MRI which revealed a herniated disc at L4. The patient and family sought a referral to neurology and opted to have a microdiscectomy. She was the only patient who reported being unable to return to sport. Another patient was diagnosed initially with a bilateral spondylolysis at L4 and started physical therapy after 10 weeks of rest, had a significant worsening of LBP during care requiring her to stop participation. She subsequently had repeat advanced imaging which revealed no additional significant findings."
+    }
+  ]
+}

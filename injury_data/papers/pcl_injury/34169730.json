@@ -1,0 +1,31 @@
+{
+  "pmid": "34169730",
+  "title": "Three genes associated with anterior and posterior cruciate ligament injury : a genome-wide association analysis.",
+  "year": "2021",
+  "journal": "Bone & joint open",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIMS",
+      "text": "The aim of this study was to screen the entire genome for genetic markers associated with risk for anterior cruciate ligament (ACL) and posterior cruciate ligament (PCL) injury."
+    },
+    {
+      "label": "METHODS",
+      "text": "Genome-wide association (GWA) analyses were performed using data from the Kaiser Permanente Research Board (KPRB) and the UK Biobank. ACL and PCL injury cases were identified based on electronic health records from KPRB and the UK Biobank. GWA analyses from both cohorts were tested for ACL and PCL injury using a logistic regression model adjusting for sex, height, weight, age at enrolment, and race/ethnicity using allele counts for single nucleotide polymorphisms (SNPs). The data from the two GWA studies were combined in a meta-analysis. Candidate genes previously reported to show an association with ACL injury in athletes were also tested for association from the meta-analysis data from the KPRB and the UK Biobank GWA studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There was a total of 2,214 cases of ACL and PCL injury and 519,869 controls within the two cohorts, with three loci demonstrating a genome-wide significant association in the meta-analysis: <i>INHBA, AEBP2,</i> and <i>LOC101927869</i>. Of the eight candidate genes previously studied in the literature, six were present in the current dataset, and only <i>COL3A1</i> (rs1800255) showed a significant association (p = 0.006)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Genetic markers in three novel loci in this study and one previously-studied candidate gene were identified as potential risk factors for ACL and PCL injury and deserve further validation and investigation of molecular mechanisms. Cite this article: <i>Bone Jt Open</i> 2021;2(6):414-421."
+    }
+  ],
+  "injury_query": "PCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

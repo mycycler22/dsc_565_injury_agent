@@ -1,0 +1,20 @@
+{
+  "pmid": "12916893",
+  "title": "Winter sports injuries. The 2002 Winter Olympics experience and a review of the literature.",
+  "year": "2003",
+  "journal": "Magnetic resonance imaging clinics of North America",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Injury patterns at the 2002 Winter Olympics were similar to those in recreational winter athletes, although injury rates were higher. The high rates of injury compared with reported rates in recreational athletes reflect the intensity of the competition and the high speeds of the athletes. In addition, rates are artificially elevated because we were not able to count the number of practice runs by each athlete, only the number of races. The highest rates of injuries resulting in positive MR imaging or plain radiographs were in snowboarders (28/1000 races), followed by alpine skiers (20/1000). In all of the winter sports, the most commonly injured joint was the knee (37 injuries), and the most common knee injury was the ACL tear. Injuries to the foot and ankle were second in frequency (15 injuries). It is interesting that three of the ankle injuries were syndesmosis sprains; this may be an underreported injury in winter sports. There were 12 injuries to the upper extremity, all but two to the shoulder. Back complaints were frequent, but only seven patients had significant imaging abnormalities found in the lumbar spine: two stress fractures of the pedicles, one acute pedicle fracture, one spondylolysis, and four disc protrusions."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

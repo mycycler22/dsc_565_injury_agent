@@ -1,0 +1,61 @@
+{
+  "pmid": "28979919",
+  "title": "Arthroscopic Stabilization After a First-Time Dislocation: Collision Versus Contact Athletes.",
+  "year": "2017",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is no universally accepted definition of \"contact\" or \"collision\" sports in the literature. The few available studies evaluating contact and collision sports consider them to be synonymous. However, athletes in collision sports purposely hit or collide with each other or with inanimate objects with greater force and frequency than in contact sports, which could jeopardize functional outcomes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To compare the functional outcomes, return to sports, and recurrences in a series of contact and collision athletes with a first-time anterior shoulder dislocation treated using arthroscopic stabilization with suture anchors."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 56 athletes were enrolled in this study, including 22 contact athletes and 34 collision athletes. All athletes underwent arthroscopic shoulder stabilization using suture anchors. Range of motion, the Rowe score, a visual analog scale (VAS) for pain, and the Athletic Shoulder Outcome Scoring System (ASOSS) were used to assess functional outcomes. Return to sports and recurrences were also evaluated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean age at the time of surgery was 22.2 years, and the mean follow-up was 62.4 months (range, 36-94 months). No significant difference in shoulder motion was found between preoperative and postoperative results or between the contact and collision groups. The Rowe, VAS, and ASOSS scores showed statistical improvement in both groups after surgery (<i>P</i> = .001). Patients in the contact group returned to sports significantly faster than those in the collision group (5.2 vs 6.9 months, respectively; <i>P</i> = .01). In all, 43 athletes (76.8%) returned to near-preinjury sports activity levels (≥90% recovery) after surgery: 86.4% of patients in the contact group and 70.6% in the collision group (<i>P</i> = .04). The total recurrence rate was 8.9%. There were 5 recurrences (14.7%) in the collision group and no recurrences in the contact group (<i>P</i> < .01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic stabilization for anterior instability of the shoulder is a reliable procedure with respect to shoulder function, range of motion, and postoperative return to sports in contact and collision athletes. Compared with the contact group (0%), the collision group yielded a higher failure rate (14.7%). Moreover, patients in the contact group returned significantly faster (5.2 vs 6.9 months, respectively) and to and more returned to preinjury or near-preinjury activity levels (86.4% vs 70.6% of patients, respectively) than patients in the collision group."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Patients in the contact group returned to sports significantly faster than those in the collision group (5.2 vs 6.9 months, respectively; <i>P</i> = .01)."
+    }
+  ],
+  "pmcid": "5617099",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "The mean age at the time of surgery was 22.2 years, and the mean follow-up was 62.4 months (range, 36-94 months). No significant difference in shoulder motion was found between preoperative and postoperative results or between the contact and collision groups. The Rowe, VAS, and ASOSS scores showed statistical improvement in both groups after surgery (P = .001). Patients in the contact group returned to sports significantly faster than those in the collision group (5.2 vs 6.9 months, respectively; P = .01). In all, 43 athletes (76.8%) returned to near-preinjury sports activity levels (≥90% recovery) after surgery: 86.4% of patients in the contact group and 70.6% in the collision group (P = .04). The total recurrence rate was 8.9%. There were 5 recurrences (14.7%) in the collision group and no recurrences in the contact group (P < .01)."
+    },
+    {
+      "section": "Results",
+      "text": "The mean age of the 56 study patients at the time of surgery was 22.2 years (range, 18-30 years), and the mean follow-up period was 62.4 months (range, 36-94 months). No patient was lost to follow-up; thus, the analysis was made up of 56 patients. Patient demographic details for the contact and collision groups are summarized in Table 1."
+    },
+    {
+      "section": "Return to Sports",
+      "text": "The mean time to return to sports was 6.1 months. Patients in the contact group returned to sports significantly faster than those in the collision group: 5.2 versus 6.9 months, respectively (P = .01). In all, 43 athletes (76.8%) returned to near-preinjury sports activity levels (≥90% recovery) after surgery. Specifically, 86.4% (19/22) of patients in the contact group were rated as grade 1 or 2 and 70.6% (24/34) in the collision group (Table 4). This difference was statistically significant (P = .04)."
+    },
+    {
+      "section": "TABLE: Time to Return to Sports and Reachieved Preinjury Proficiency Levela",
+      "text": " | Total | Contact | Collision\nReachieved proficiency level, n (%) |  |  | \nGrade 1 | 21 (37.5) | 12 | 9\nGrade 2 | 22 (39.3) | 7 | 15\nGrade 3 | 9 (16.1) | 2 | 7\nGrade 4 | 3 (5.4) | 0 | 3\nGrade 5 | 1 (1.8) | 1 | 0\nTime to return to sports, mean (range), mo | 6.1 (3-20) | 5.2 (3-13) | 6.9 (3-20)"
+    }
+  ]
+}

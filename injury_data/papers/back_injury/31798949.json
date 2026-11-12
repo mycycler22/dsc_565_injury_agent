@@ -1,0 +1,31 @@
+{
+  "pmid": "31798949",
+  "title": "Injury trend analysis in the Japan national swim team from 2002 to 2016: effect of the lumbar injury prevention project.",
+  "year": "2019",
+  "journal": "BMJ open sport & exercise medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "This study aimed to clarify the trends of injury occurrence in the Japan national swim team for 15 years and to evaluate the effectiveness of the lumbar injury prevention project. It also aimed to verify the incidence of swimming-related injuries among swimmers by sex, age and swimming style."
+    },
+    {
+      "label": "METHODS",
+      "text": "The target group comprised 488 swimmers who participated in the Olympics, Asian Games and Universiade from 2002 to 2016; we compiled data for the total number of injuries in each body part. The lumbar injury prevention project started in 2008 and included two components (deep trunk muscle exercises and evaluation of lumbar disc degeneration using MRI). We analysed the prevalence of lumbar injury before (2002-2008) and after (2009-2016) implementation of the lumbar injury prevention project by χ<sup>2</sup> test. We compared age, sex and swim strokes between the injured and non-injured groups by χ<sup>2</sup> test and unpaired t-test."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The most common injury site was the lower back, followed by the shoulder and knee. The lumbar injury prevalence was significantly lower after implementation of the prevention project (23.5% vs 14.8%; p<0.05). Shoulder injuries were common in backstroke swimmers. The injury rate was significantly higher in female than in male swimmers. The injured group was significantly older than the non-injured group."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Lumbar injury prevention intervention might be effective to prevent lower back injury in swimmers. Injury risk factors included female and old age; younger female athletes should prevent the development of injuries as they mature."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

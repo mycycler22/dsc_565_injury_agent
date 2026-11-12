@@ -1,0 +1,27 @@
+{
+  "pmid": "38476168",
+  "title": "Evaluating injuries and illnesses that occurred during the Yukon Quest International sled dog race, 2018-2020.",
+  "year": "2024",
+  "journal": "Frontiers in veterinary science",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "The purpose of this study was to evaluate medical record data from the 2018-2020 Yukon Quest International Sled Dog race to examine injury patterns and risk factors for dogs competing in multi-day ultra-endurance events. Specifically, we summarized injuries and illnesses that resulted in canine athletes being removed (\"dropped\") from competition, and in orthopedic injuries diagnosed in both dropped and finished dogs."
+    },
+    {
+      "label": "METHODS",
+      "text": "The records of 989 dogs that started the race were examined, but only records from dogs in teams that went on to finish the race were included, for a total of 711 records."
+    },
+    {
+      "label": "RESULTS AND DISCUSSION",
+      "text": "Three hundred and sixty five dogs (51.3%) were noted to have at least one abnormal finding in their veterinary medical record during the race. Orthopedic injuries were most common, and 291 injuries were ultimately diagnosed in 234 dogs (32.9%). Ultimately, 206 dogs (29%) were dropped from competition, for any reason. The most common reasons for dropping dogs were orthopedic injuries (156 dogs; 188 injuries), gastrointestinal illness (22 dogs), and cardiorespiratory disease (7 dogs). Most orthopedic injuries in dropped dogs occurred in the thoracic limb (<i>n</i> = 121 dogs; 151 injuries). Of those, injuries to the shoulder were most common (<i>n</i> = 77), followed by injuries to the carpus (<i>n</i> = 59), and injury to the pelvic limb (<i>n</i> = 32). Carpal injuries were the most prevalent injury diagnosed in dogs that went on to finish the race (71 of 85 injuries). Carpal injuries were the most prevalent injuries overall in 2018 (51%) and 2019 (52%). In 2020, shoulder injuries were most prevalent (27%), suggesting that trail conditions may have differed between years. The majority of dogs with an orthopedic injury ultimately were removed from competition (156 of 234, or 66.6%), but the likelihood of finishing the race with an injury depended on the type of injury sustained; 71 of 130 dogs (54.6%) with a carpal injury went on to finish the race, whereas only 9 of 86 dogs with a shoulder injury (10.5%) went on to finish. The results of this study can assist mushers and veterinarians in preparing for races, and in decision making during endurance sled dog races."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "26976374",
+  "title": "The Effectiveness of Exercise on Recovery and Clinical Outcomes in Patients With Soft Tissue Injuries of the Hip, Thigh, or Knee: A Systematic Review by the Ontario Protocol for Traffic Injury Management (OPTIMa) Collaboration.",
+  "year": "2016",
+  "journal": "Journal of manipulative and physiological therapeutics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of this systematic review was to determine the effectiveness of exercise for the management of soft tissue injuries of the hip, thigh, and knee."
+    },
+    {
+      "label": "METHODS",
+      "text": "We conducted a systematic review and searched MEDLINE, EMBASE, PsycINFO, the Cochrane Central Register of Controlled Trials, and CINAHL Plus with Full Text from January 1, 1990, to April 8, 2015, for randomized controlled trials (RCTs), cohort studies, and case-control studies evaluating the effect of exercise on pain intensity, self-rated recovery, functional recovery, health-related quality of life, psychological outcomes, and adverse events. Random pairs of independent reviewers screened titles and abstracts and assessed risk of bias using the Scottish Intercollegiate Guidelines Network criteria. Best evidence synthesis methodology was used."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We screened 9494 citations. Eight RCTs were critically appraised, and 3 had low risk of bias and were included in our synthesis. One RCT found statistically significant improvements in pain and function favoring clinic-based progressive combined exercises over a \"wait and see\" approach for patellofemoral pain syndrome. A second RCT suggests that supervised closed kinetic chain exercises may lead to greater symptom improvement than open chain exercises for patellofemoral pain syndrome. One RCT suggests that clinic-based group exercises may be more effective than multimodal physiotherapy in male athletes with persistent groin pain."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "We found limited high-quality evidence to support the use of exercise for the management of soft tissue injuries of the lower extremity. The evidence suggests that clinic-based exercise programs may benefit patients with patellofemoral pain syndrome and persistent groin pain. Further high-quality research is needed."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

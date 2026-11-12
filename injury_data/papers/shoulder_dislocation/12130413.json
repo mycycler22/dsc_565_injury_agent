@@ -1,0 +1,42 @@
+{
+  "pmid": "12130413",
+  "title": "A prospective, randomized evaluation of arthroscopic stabilization versus nonoperative treatment in patients with acute, traumatic, first-time shoulder dislocations.",
+  "year": "2002",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Nonoperative treatment of traumatic shoulder dislocations leads to a high rate of recurrent dislocations."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Early arthroscopic treatment for shoulder dislocation will result in a lower recurrence rate than nonoperative treatment."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Prospective, randomized clinical trial."
+    },
+    {
+      "label": "METHODS",
+      "text": "Two groups of patients were studied to compare nonoperative treatment with arthroscopic Bankart repair for acute, traumatic shoulder dislocations in young athletes. Fourteen nonoperatively treated patients underwent 4 weeks of immobilization followed by a supervised rehabilitation program. Ten operatively treated patients underwent arthroscopic Bankart repair with a bioabsorbable tack followed by the same rehabilitation protocol as the nonoperatively treated patients. The average follow-up was 36 months."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Three patients were lost to follow-up. Twelve nonoperatively treated patients remained for follow-up. Nine of these (75%) developed recurrent instability. Six of the nine have required subsequent open Bankart repair for recurrent instability. Of the nine operatively treated patients available for follow-up, only one (11.1%) developed recurrent instability."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Arthroscopic stabilization of traumatic, first-time anterior shoulder dislocations is an effective and safe treatment that significantly reduces the recurrence rate of shoulder dislocations in young athletes when compared with conventional, nonoperative treatment."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

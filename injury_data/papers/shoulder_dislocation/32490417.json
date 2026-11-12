@@ -1,0 +1,31 @@
+{
+  "pmid": "32490417",
+  "title": "A single-institution analysis of factors affecting costs in the arthroscopic treatment of glenohumeral instability.",
+  "year": "2020",
+  "journal": "JSES international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Although surgical shoulder stabilization is a substantial cost nationally within the United States, little information exists to analyze this cost. The purpose of this study was to identify factors associated with variation in direct costs with the arthroscopic treatment of glenohumeral instability."
+    },
+    {
+      "label": "METHODS",
+      "text": "This was a retrospective study of all patients who underwent arthroscopic treatment of glenohumeral instability between January 12, 2012 and July 11, 2017. Patient and procedure factors were collected. Direct perioperative costs were collected using a validated internal tool. Patient and procedure characteristics significantly associated with costs were identified using multivariate generalized linear models."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The study included 302 patients, of whom 12% were undergoing revision and 32% were contact or collision athletes. Anterior instability was present in 73%, whereas 14% had posterior and 10% had multidirectional instability. Of the patients, 67% were recurrent dislocators and 33% were first-time dislocators or subluxators. Remplissage was performed in 13%; biceps tenodesis, 5%; and rotator cuff repair, 3%. An average of 4.0 ± 1.4 anchors were used. Of costs, 39% were operative facility utilization costs and 41% were implant costs. Factors associated with cost increase included an increased number of anchors (<i>P</i> < .0001), posterior vs. anterior instability (<i>P</i> = .001), recurrent instability vs. first-time dislocation (<i>P</i> = .025), remplissage (<i>P</i> = .006), rotator interval closure (<i>P</i> = .021), bicep tenodesis (<i>P</i> = .020), rotator cuff repair (<i>P</i> < .0001), an inpatient stay (<i>P</i> = .003), and repair of humeral avulsion of the glenohumeral ligaments (<i>P</i> = .012)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Most perioperative costs associated with the arthroscopic treatment of glenohumeral instability are facility utilization and implant costs. Nonmodifiable factors associated with increased cost included posterior direction of instability and recurrent instability. Modifiable factors included additional procedures and inpatient stay."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

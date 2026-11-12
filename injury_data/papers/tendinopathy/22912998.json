@@ -1,0 +1,20 @@
+{
+  "pmid": "22912998",
+  "title": "[Treatment options for patellar tendinopathy].",
+  "year": "2012",
+  "journal": "Revue medicale suisse",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Patellar tendinopathy is also called jumper's knee because of its high incidence in athletes with jumping or cutting activities as soccer, basketball, volleyball. Many different treatment methods have been described. However, no consensus exists regarding the optimal treatment for this condition. According to the literature, eccentric exercise-based physical therapy should be proposed first because of its strong scientific evidence. Shockwave therapy and injections may be useful but their real efficacy still has to be proven by randomized controlled study. For patients recalcitrant to more conservative options, operative management may be indicated."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

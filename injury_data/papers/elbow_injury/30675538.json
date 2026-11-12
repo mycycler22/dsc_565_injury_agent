@@ -1,0 +1,31 @@
+{
+  "pmid": "30675538",
+  "title": "Cross-cultural adaptation, validity and reliability of the Korean version of the Kerlan-Jobe Orthopedic Clinic shoulder and elbow score.",
+  "year": "2017",
+  "journal": "JSES open access",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The Kerlan-Jobe Orthopedic Clinic shoulder and elbow score (KJOC score) was developed for assessing performance and function in overhead athletes with shoulder and elbow injury and recently adapted as the standard score for overhead athletes in Major League Baseball. However, the Korean version of the KJOC score was not developed in the literature. The aim of the current study was to adapt the English version of the KJOC score to develop a Korean version (K-KJOC) and to evaluate its validity and reliability."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 52 professional baseball players in the Korean Baseball League completed the K-KJOC at two-week intervals during the off-season. The QuickDASH (11-point Disabilities of the Arm, Shoulder and Hand) score was also performed to evaluate the construct validity of the K-KJOC score. The internal consistency of reliability and test-retest reliability were assessed as well."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The K-KJOC score was correlated with the Quick DASH - disability/symptom (-0.309, ~-0.268, p < 0.05), Quick DASH - work (r = -0.721 to -0.671, p = 0.000) and QuickDASH - sports (r = -0.721 to -0.714, p = 0.000). The internal consistency of the K-KJOC score was excellent (Cronbach's α: 0.917-0.966), and the intra-class correlation coefficients of test-retest reliability for the 10 items for the K-KJOC score were fair to excellent (ICC 0.505-0.937, p < 0.05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The K-KJOC score appeared to be a valid and reliable tool for assessing shoulder and elbow injuries in Korean overhead athletes."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

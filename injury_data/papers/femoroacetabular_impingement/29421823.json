@@ -1,0 +1,32 @@
+{
+  "pmid": "29421823",
+  "title": "[What do we know about osteitis pubis in athletes?].",
+  "year": "2018",
+  "journal": "Sportverletzung Sportschaden : Organ der Gesellschaft fur Orthopadisch-Traumatologische Sportmedizin",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Osteitis pubis is a common cause of chronic groin pain. Due to high clinical uncertainty and varying etiopathology, the diagnosis is often delayed. Especially athletes suffer from this disease, but patients with orthopaedic, traumatological, neurological, urological, gynaecological, and rheumatic complaints can also be affected. Osteitis pubis can be treated by conservative as well as surgical techniques."
+    },
+    {
+      "label": "MATERIAL AND METHODS",
+      "text": "Systematic literature research, descriptive presentation of the studies, and interpretation of evidence-based medicine results."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The scientific level of studies about osteitis pubis and the number of athletes included are low overall. A statistical comparison is methodically difficult due to the heterogeneity of publications. The leading clinical symptom of osteitis pubis is an aching symphysis pubica. Unfortunately, there are no characteristic clinical pathognomonic signs. The medical diagnosis is based on an exclusion of various differential diagnoses (e. g. sports hernia, femoroacetabular impingement, adductor lesion) and a comparison of medical history, clinical examination, and imaging methods. After a period of rest, osteitis pubis is quite often a self-limiting disease and will initially be treated conservatively. If this fails, surgical intervention has to be considered depending on concurrent pathologies."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Specific guidelines for the diagnosis and treatment of osteitis pubis do not exist as yet. But there is consensus that a surgical intervention should only be performed if conservative treatment fails. The level of evidence for the studies is low. A meta-analytical evaluation based on the existing publications is not possible as yet. The number of recorded athletes in relation to the socio-economic consequences of the disease, especially in professional sport, is low."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

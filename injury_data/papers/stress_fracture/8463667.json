@@ -1,0 +1,20 @@
+{
+  "pmid": "8463667",
+  "title": "The Jones fracture.",
+  "year": "1993",
+  "journal": "Instructional course lectures",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The Jones fracture is a fracture that occurs 1.5 cm distal to the styloid of the fifth metatarsal. The mechanism of injury in both the acute and chronic, or stress, fracture is repetitive weightbearing and pivoting on the involved foot. Acute fractures occur equally in both sexes, generally in nonathletes, and usually in individuals older than 21. Chronic or fatigue fractures occur in individuals between 15 to 21 years of age and predominantly in male athletes. Treatment of the acute fracture in the adult may require three months in a nonweightbearing cast. Surgical intervention with intramedullary screw compression is a surgical option that should be discussed with the patient. Chronic or fatigue fractures will require intramedullary compression screw fixation or open reduction and bone grafting using corticocancellous bone graft. The treatment outcome of this fracture is usually good if postoperative rehabilitation is prescribed and followed."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

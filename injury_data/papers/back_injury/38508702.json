@@ -1,0 +1,45 @@
+{
+  "pmid": "38508702",
+  "title": "Epidemiology of musculoskeletal injury in professional and amateur golfers: a systematic review and meta-analysis.",
+  "year": "2024",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the prevalence and incidence of musculoskeletal injury in amateur and professional golfers, and to identify common injury sites and factors associated with increased injury frequency."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic epidemiological review and meta-analysis."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "PubMed (Medline), Embase, the Cochrane Library and SPORTDiscus were searched in September 2023."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA",
+      "text": "Studies published in the English language reporting the incidence or prevalence of musculoskeletal injuries in golfers at all anatomical sites."
+    },
+    {
+      "label": "RESULTS",
+      "text": "20 studies (9221 golfers, 71.9% male, 28.1% female) were included, with mean age 46.8 years. Lifetime injury prevalence was significantly greater in professional golfers (73.5% (95% CI: 47.3% to 93.0%)) than amateur golfers (56.6% (95% CI: 47.4% to 65.5%); relative risk (RR)=1.50, p<0.001). Professional golfers had a significantly greater lifetime prevalence of hand and wrist (RR=3.33, p<0.001) and lower back injury (RR=3.05, p<0.001). Soft tissue injuries were most common, and diagnoses were typically non-specific. Injury frequency was not associated with age or sex. Two studies reported a greater injury risk in amateur golfers playing more than three and four rounds per week."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Over half of golfers are at risk of sustaining a musculoskeletal injury during their lifetime. Risks and patterns of injury differ between professional and amateur golfers, with professionals significantly more likely to develop lower back, and hand and wrist injuries. A recent international consensus statement on the reporting of injury and illness in golf should aid consistency in future research assessing the epidemiology of specific diagnoses, informing golf injury prevention and management strategies."
+    },
+    {
+      "label": "PROSPERO REGISTRATION NUMBER",
+      "text": "CRD42023408738."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

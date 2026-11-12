@@ -1,0 +1,47 @@
+{
+  "pmid": "27760844",
+  "title": "Injuries in an Extreme Conditioning Program.",
+  "year": "2017",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Extreme conditioning programs (ECPs) are fitness training regimens relying on aerobic, plyometric, and resistance training exercises, often with high levels of intensity for a short duration of time. These programs have grown rapidly in popularity in recent years, but science describing the safety profile of these programs is lacking."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "The rate of injury in the extreme conditioning program is greater than the injury rate of weightlifting and the majority of injuries occur to the shoulder and back."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "This is a retrospective survey of injuries reported by athletes participating in an ECP. An injury survey was sent to 1100 members of Iron Tribe Fitness, a gym franchise with 5 locations across Birmingham, Alabama, that employs exercises consistent with an ECP in this study. An injury was defined as a physical condition resulting from ECP participation that caused the athlete to either seek medical treatment, take time off from exercising, or make modifications to his or her technique to continue."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 247 athletes (22%) completed the survey. The majority (57%) of athletes were male (n = 139), and 94% of athletes were white (n = 227). The mean age of athletes was 38.9 years (±8.9 years). Athletes reported participation in the ECP for, on average, 3.6 hours per week (± 1.2 hours). Eighty-five athletes (34%) reported that they had sustained an injury while participating in the ECP. A total of 132 injuries were recorded, yielding an estimated incidence of 2.71 per 1000 hours. The shoulder or upper arm was the most commonly injured body site, accounting for 38 injuries (15% of athletes). Athletes with a previous shoulder injury were 8.1 times as likely to injure their shoulder in the ECP compared with athletes with healthy shoulders. The trunk, back, head, or neck (n = 29, 12%) and the leg or knee (n = 29, 12%) were the second most commonly injured sites. The injury incidence rate among athletes with <6 months of experience in the ECP was 2.5 times greater than that of more experienced athletes (≥6 months of experience). Of the 132 injuries, 23 (17%) required surgical intervention. Squat cleans, ring dips, overhead squats, and push presses were more likely to cause injury. Athletes reported that 35% of injuries were due to overexertion and 20% were due to improper technique."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The estimated injury rate among athletes participating in this ECP was similar to the rate of injury in weightlifting and most other recreational activities. The shoulder or upper arm was the most commonly injured area, and previous shoulder injury predisposed to new shoulder injury. New athletes are at considerable risk of injury compared with more experienced athletes."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Extreme conditioning programs are growing in popularity, and there is disagreement between science and anecdotal reports from athletes, coaches, and physicians about their relative safety. This study estimates the incidence of injury in extreme conditioning programs, which appears to be similar to other weight-training programs."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

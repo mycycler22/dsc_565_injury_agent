@@ -1,0 +1,36 @@
+{
+  "pmid": "22097158",
+  "title": "Chronic Achilles tendinopathy treated with eccentric stretching program.",
+  "year": "2011",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "This study assessed the efficacy of a modified eccentric heel-drop program (reduced time and increased duration of stretch) in treating chronic Achilles tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "Athletes with at least 12 weeks of symptoms diagnosed clinically as chronic Achilles tendinopathy were enrolled in the study. The only treatment recommended was a 6-week eccentric stretching regimen, with each stretch being maintained for at least 15 seconds. Athletes were followed to assess the response to treatment using a Visual Analogue Scale (VAS) for pain and a patient effectiveness rating for treatment satisfaction as well as time to return to pre-injury activity level. Followup was successful in 156 (82%) of the athletes. A total of 190 athletes were seen with chronic Achilles tendinopathy."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Mid-substance injuries were diagnosed in 168 (88%) with the remainder 22 (12%) having distal insertional injuries. Pain as assessed by VAS reduced from mean of 7.2 at commencement of the regimen to 2.9 (p<0.01) after 6 weeks of stretching. Six months post commencement of program mean pain was 1.1. Patient satisfaction was rated at 7 or above (excellent) in 124 (80%) of the athletes. For mid-substance injuries the satisfaction rating was excellent in 86%. Overall mean time to return to pre-morbid activity was 10 weeks."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A modified 6-week eccentric heel-drop training regimen as the only treatment for chronic Achilles tendinopathy resulted in a high degree of patient satisfaction, reduced pain and a successful return to pre-morbid activity levels. These results were best for mid-substance rather than insertional tendinopathy."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Overall mean time to return to pre-morbid activity was 10 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

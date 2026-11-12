@@ -1,0 +1,3 @@
+Title: Clinical predictors of time to return to competition and of recurrence following hamstring strain in elite Australian footballers. | Type: Journal Article, Research Support, Non-U.S. Gov't | PMID: 18653619 | Year: 2010 | Injury query: hamstring strain
+[MAIN OUTCOME MEASURES] Time taken to return to play and recurrence of hamstring injury within 3 weeks.
+[RESULTS] Players taking more than 1 day to walk pain-free were significantly more likely (p=0.018) to take longer than 3 weeks to return to competition (adjusted odds ratio 4.0; 95% CI 1.3 to 12.6).

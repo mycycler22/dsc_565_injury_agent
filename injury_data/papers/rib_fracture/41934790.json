@@ -1,0 +1,48 @@
+{
+  "pmid": "41934790",
+  "title": "Evidence of bony stress syndrome in a fossil cetacean.",
+  "year": "2026",
+  "journal": "International journal of paleopathology",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "A finding in a fossil mysticete rib is used to get insights into biomechanical limits of extinct whales."
+    },
+    {
+      "label": "MATERIALS",
+      "text": "The investigated specimen from the Miocene (Serravallian/Tortonian boundary) of Groß Pampau, North Germany, comprises a 252 mm distal fragment of a right posterior rib exhibiting distinctive pathological features including extensive periosteal new bone formation and a prominent 69 mm bony spur."
+    },
+    {
+      "label": "METHODS",
+      "text": "The internal morphology was analysed with a clinical CT-scanner."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Morphological examination and computed tomography analysis revealed irregular cortical thickening, excentric bone proliferation with a 17° anterior deviation, and trabecular bone continuity at the spur base, consistent with a healed stress fracture. Differential diagnoses including acute trauma, osteomyelitis, neoplasia, and dysbaric osteonecrosis were systematically excluded based on morphological criteria and the absence of associated lesions throughout the skeleton."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The combination of an isolated rib fracture with periosteal reaction and the presence of an adaptive bony spur strongly suggests a stress fracture etiology resulting from repetitive biomechanical overload, analogous to stress injuries observed in human athletes, e.g., intensive swimming activities."
+    },
+    {
+      "label": "SIGNIFICANCE",
+      "text": "Stress fractures are underreported in cetaceans. Our findings enhance our understanding of bone remodeling processes providing evidence for chronic, repetitive mechanical overload and highlight that fossil bone can be used to demonstrate long-term physiological strain in deep-time."
+    },
+    {
+      "label": "LIMITATIONS",
+      "text": "To date, there have been few comparable studies on marine mammals."
+    },
+    {
+      "label": "SUGGESTIONS FOR FURTHER RESEARCH",
+      "text": "Further research into the locomotory behavior and biomechanical stress patterns of Miocene cetaceans is needed."
+    }
+  ],
+  "injury_query": "rib fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

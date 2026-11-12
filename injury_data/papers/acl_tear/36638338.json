@@ -1,0 +1,57 @@
+{
+  "pmid": "36638338",
+  "title": "Return-to-Sport Criteria After Anterior Cruciate Ligament Reconstruction Fail to Identify the Risk of Second Anterior Cruciate Ligament Injury.",
+  "year": "2022",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The incidence of second anterior cruciate ligament (ACL) injury after ACL reconstruction (ACLR) is high in young, active populations. Failure to successfully meet return-to-sport (RTS) criteria may identify adult athletes at risk of future injury; however, these studies have yet to assess skeletally mature adolescent athletes."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine if failure to meet RTS criteria would identify adolescent and young adult athletes at risk for future ACL injury after ACLR and RTS. The tested hypothesis was that the risk of a second ACL injury after RTS would be lower in participants who met all RTS criteria compared with those who failed to meet all criteria before RTS."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective case-cohort (prognosis) study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Laboratory."
+    },
+    {
+      "label": "PATIENTS OR OTHER PARTICIPANTS",
+      "text": "A total of 159 individuals (age = 17.2 ± 2.6 years, males = 47, females = 112)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURE(S)",
+      "text": "Participants completed an RTS assessment (quadriceps strength, functional hop tests) and the International Knee Documentation Committee patient survey (0 to 100 scale) after ACLR and were then tracked for occurrence of a second ACL tear. Athletes were classified into groups that passed all 6 RTS tests at a criterion level of 90% (or 90 of 100) limb symmetry and were compared with those who failed to meet all criteria. Crude odds ratios and 95% CIs were calculated to determine if passing all 6 RTS measures resulted in a reduced risk of second ACL injury in the first 24 months after RTS."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Thirty-five (22%) of the participants sustained a second ACL injury. At the time of RTS, 26% achieved ≥90 on all tests, and the remaining athletes scored less than 90 on at least 1 of the 6 assessments. The second ACL injury incidence did not differ between those who passed all RTS criteria (28.6%) and those who failed at least 1 criterion (19.7%, P = .23). Subgroup analysis by graft type also indicated no differences between groups (P > .05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Current RTS criteria at a 90% threshold did not identify active skeletally mature adolescent and young adult athletes at high risk for second ACL injury."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "MAIN OUTCOME MEASURE(S)",
+      "sentence": "Crude odds ratios and 95% CIs were calculated to determine if passing all 6 RTS measures resulted in a reduced risk of second ACL injury in the first 24 months after RTS."
+    }
+  ],
+  "pmcid": "9842113",
+  "fulltext_chunks": [
+    {
+      "section": "Main Outcome Measure(s)",
+      "text": "Participants completed an RTS assessment (quadriceps strength, functional hop tests) and the International Knee Documentation Committee patient survey (0 to 100 scale) after ACLR and were then tracked for occurrence of a second ACL tear. Athletes were classified into groups that passed all 6 RTS tests at a criterion level of 90% (or 90 of 100) limb symmetry and were compared with those who failed to meet all criteria. Crude odds ratios and 95% CIs were calculated to determine if passing all 6 RTS measures resulted in a reduced risk of second ACL injury in the first 24 months after RTS."
+    }
+  ]
+}

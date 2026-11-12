@@ -1,0 +1,77 @@
+{
+  "pmid": "35146029",
+  "title": "Return to Play and Player Performance After Achilles Tendon Rupture in UEFA Professional Soccer Players: A Matched-Cohort Analysis of Players From 1999 to 2018.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Achilles tendon rupture (ATR) is a potentially career-ending injury in professional athletes. Limited information exists regarding return to play (RTP) in professional soccer players after this injury."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the RTP rate and time in professional soccer players after ATR and to evaluate player performance relative to matched controls."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "We evaluated 132 professional soccer players who suffered an ATR between 1999 and 2018. These athletes were matched 2:1 to uninjured controls by position, age, season of injury, seasons played, and height. We collected information on the date of injury, the date of RTP, and player performance metrics (minutes played, games played, goals scored, assists made, and points per game) from official team websites, public injury reports, and press releases. Changes in performance metrics for the 4 years after the season of injury were compared with metrics 1 season before injury. Univariate comparisons were performed using independent-sample, 2-group <i>t</i> tests and Wilcoxon rank-sum tests when normality of distributions was violated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean age at ATR was 27.49 ± 4.06 years, and the mean time to RTP was 5.07 ± 2.61 months (18.19 ± 10.96 games). The RTP rate was 71% for the season after injury and 78% for return at any timepoint. Overall, 9% of the injured players experienced a rerupture during the study period. Compared with controls, the injured players played significantly less (-6.77 vs -1.81 games [<i>P</i> < .001] and -560.17 vs -171.17 minutes [<i>P</i> < .05]) and recorded fewer goals (-1.06 vs -0.29 [<i>P</i> < .05]) and assists (-0.76 vs -0.02 [<i>P</i> < .05]) during the season of their Achilles rupture. With the exception of midfielders, there were no significant differences in play time or performance metrics between injured and uninjured players at any postinjury timepoint."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Soccer players who suffered an ATR had a 78% RTP rate, with a mean RTP time of 5 months. Injured players played less and demonstrated inferior performance during the season of injury. With the exception of midfielders, players displayed no significant differences in play time or performance during any of the 4 postinjury seasons."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean age at ATR was 27.49 ± 4.06 years, and the mean time to RTP was 5.07 ± 2.61 months (18.19 ± 10.96 games)."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Soccer players who suffered an ATR had a 78% RTP rate, with a mean RTP time of 5 months."
+    }
+  ],
+  "pmcid": "8822021",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "The mean age at ATR was 27.49 ± 4.06 years, and the mean time to RTP was 5.07 ± 2.61 months (18.19 ± 10.96 games). The RTP rate was 71% for the season after injury and 78% for return at any timepoint. Overall, 9% of the injured players experienced a rerupture during the study period. Compared with controls, the injured players played significantly less (-6.77 vs -1.81 games [P < .001] and -560.17 vs -171.17 minutes [P < .05]) and recorded fewer goals (-1.06 vs -0.29 [P < .05]) and assists (-0.76 vs -0.02 [P < .05]) during the season of their Achilles rupture. With the exception of midfielders, there were no significant differences in play time or performance metrics between injured and uninjured players at any postinjury timepoint."
+    },
+    {
+      "section": "TABLE: RTP Metrics a",
+      "text": "Variable | Value\nMonths missed | 5.07 ± 2.61\nGames missed | 18.19 ± 10.96\nNumber of reinjuries | 10 (9)\nRTP at any timepoint | 103 (78)\n1 season after injury | 94 (71)\n2 seasons after Injury | 101 (77)\n3 seasons after injury | 103 (78)\n4 seasons after injury | 103 (78)"
+    },
+    {
+      "section": "TABLE: All Player Metrics Compared With 1 Year Before Index Year a",
+      "text": "Player Metrics b | Control | Achilles Rupture | P Value\nGames per season |  |  | \nIndex year | -1.81 ± 11.12 | -6.77 ± 11.62 | <.001\n1 year post | -2.28 ± 12.39 | -5.12 ± 11.76 | .156\n2 years post | -5.28 ± 14.14 | -5.28 ± 12.15 | .743\n3 years post | -5.04 ± 15.46 | -5.26 ± 11.45 | .953\n4 years post | -3.16 ± 17.24 | -2.50 ± 14.05 | .927\nMinutes per season |  |  | \nIndex year | -171.17 ± 985.52 | -560.17 ± 1014.89 | <.05\n1 year post | -250.71 ± 1110.80 | -474.04 ± 1027.80 | .213\n2 years post | -495.14 ± 1280.86 | -512.49 ± 1075.39 | .747\n3 years post | -348.52 ± 1375.30 | -493.76 ± 1121.19 | .690\n4 years post | -165 ± 1667.94 | -148.67 ± 1209.85 | .893\nMinutes per game |  |  | \nIndex year | -2.35 ± 26.65 | -5.57 ± 27.70 | .548\n1 year post | 1.12 ± 24.46 | -8.11 ± 34.09 | .129\n2 years post | -4 ± 26.60 | -6.64 ± 26.76 | .774\n3 years post | -5.03 ± 34.70 | -1.27 ± 33.91 | .618\n4 years post | 3.17 ± 23.67 | 4.71 ± 35.87 | .822\nGoals per season |  |  | \nIndex year | -0.29 ± 3.10 | -1.06 ± 3.22 | <.05\n1 year post | -0.46 ± 3.24 | -0.83 ± 3.29 | .291\n2 years post | -0.82 ± 3.56 | -1.38 ± 3.40 | .322\n3 years post | -0.48 ± 3.40 | -1.18 ± 3.52 | .423\n4 years post | 0 ± 2.11 | -1.28 ± 4.20 | .617\nAssists per season |  |  | \nIndex year | -0.02 ± 2.02 | -0.76 ± 2.14 | <.05\n1 year post | 0.08 ± 2.11 | -0.61 ± 2.21 | .098\n2 years post | 0 ± 2.36 | -0.45 ± 2.17 | .188\n3 years post | 0.02 ± 2.31 | -0.62 ± 3.20 | .136\n4 years post | 0.11 ± 1.41 | -0.17 ± 1.54 | .624\nPoints per game |  |  | \nIndex year | -0.09 ± 0.78 | -0.06 ± 0.79 | .649\n1 year post | -0.05 ± 0.65 | -0.22 ± 0.87 | .097\n2 years post | -0.03 ± 0.68 | -0.24 ± 0.77 | .206\n3 years post | -0.13 ± 0.75 | -0.16 ± 0.82 | .869\n4 years post | -0.16 ± 0.60 | -0.22 ± 0.71 | .915"
+    },
+    {
+      "section": "TABLE: Attacker Metrics Compared With 1 Year Before Index Year a",
+      "text": "Player Metrics b | Control | Achilles Rupture | P Value\nGames per season |  |  | \nIndex year | -0.75 ± 12.20 | -5.21 ± 14.52 | .266\n1 year post | -2.87 ± 13.37 | -2.83 ± 14.50 | .906\n2 years post | -4.87 ± 13.40 | -2.54 ± 12.71 | .854\n3 years post | -5.75 ± 16.74 | -1.71 ± 7.70 | .643\n4 years post | -7 ± 21.21 | -3 ± 18.46 | .800\nMinutes per season |  |  | \nIndex year | -104.78 ± 967.46 | -313.63 ± 1119.39 | .444\n1 year post | -274.35 ± 1118.31 | -369.17 ± 1036.21 | .805\n2 years post | -515.87 ± 1013 | -410.77 ± 959.34 | .854\n3 years post | -414.12 ± 1543.63 | -118.14 ± 848.88 | .613\n4 years post | 0.50 ± 2297.39 | -132.50 ± 1668.71 | ≥.999\nMinutes per game |  |  | \nIndex year | -4.43 ± 22.27 | 3.84 ± 24.48 | .103\n1 year post | -1.98 ± 24.26 | -8.05 ± 31.27 | .706\n2 years post | -3.27 ± 19.42 | -11.33 ± 30.82 | .467\n3 years post | -12.30 ± 35.45 | 7.81 ± 21.77 | .232\n4 years post | 16.60 ± 40.65 | -3.18 ± 40.82 | .800\nGoals per season |  |  | \nIndex year | -0.62 ± 5.45 | -2 ± 6.02 | .283\n1 year post | -1.52 ± 5.57 | -2.28 ± 5.40 | .712\n2 years post | -2.87 ± 5.69 | -3.54 ± 6.01 | .945\n3 years post | -0.25 ± 6.32 | -2.00 ± 6.45 | .728\n4 years post | 1.50 ± 4.95 | -5.50 ± 7.94 | .533\nAssists per season |  |  | \nIndex year | 0.02 ± 2.51 | -0.58 ± 2.69 | .642\n1 year post | -0.30 ± 2.42 | -1.11 ± 2.65 | .349\n2 years post | -0.20 ± 3.34 | -0.85 ± 2.30 | .349\n3 years post | 0 ± 2.56 | -0.86 ± 1.77 | .639\n4 years post | -0.50 ± 3.54 | 0.50 ± 1.29 | ≥.999\nPoints per game |  |  | \nIndex year | -0.07 ± 0.70 | -0.15 ± 0.87 | .470\n1 year post | -0.05 ± 0.71 | -0.16 ± 1.09 | .172\n2 years post | 0.05 ± 0.39 | -0.25 ± 0.70 | .249\n3 years post | -0.14 ± 0.72 | -0.60 ± 0.88 | .336\n4 years post | -0.12 ± 1.48 | -0.27 ± 0.49 | ≥.999"
+    },
+    {
+      "section": "TABLE: Midfielder Metrics Compared With 1 Year Before Index Year a",
+      "text": "Player Metrics b | Control | Achilles Rupture | P Value\nGames per season |  |  | \nIndex year | -2.22 ± 10.17 | -9.82 ± 9.55 | <.05\n1 year post | 0.60 ± 11.25 | -6.05 ± 11 | <.05\n2 years post | -5.79 ± 16.45 | -9.24 ± 10.24 | .799\n3 years post | -10.23 ± 15.82 | -14.17 ± 9.13 | .327\n4 years post | -9.67 ± 12.10 | -17 ± 5.66 | .800\nMinutes per season |  |  | \nIndex year | -233.15 ± 940.03 | -875.71 ± 876.28 | <.05\n1 year post | -75.72 ± 1096.36 | -468.45 ± 1075.11 | .181\n2 years post | -543.79 ± 1590.41 | -791.24 ± 1057.81 | .925\n3 years post | -685.15 ± 1374.15 | -1377.08 ± 931.56 | .168\n4 years post | -878.33 ± 1791.67 | -1333 ± 86.27 | .800\nMinutes per game |  |  | \nIndex year | -4.52 ± 23.45 | -11.85 ± 20.52 | .159\n1 year post | 1.01 ± 23.34 | -8.10 ± 30.47 | .216\n2 years post | -9.38 ± 37.81 | -5.19 ± 23.09 | .490\n3 years post | -12.21 ± 46.11 | -23.01 ± 31.70 | .470\n4 years post | -5.53 ± 46.40 | 1.21 ± 23.33 | ≥.999\nGoals per season |  |  | \nIndex year | -0.34 ± 2.38 | -1.50 ± 2.40 | .087\n1 year post | -0.48 ± 2.77 | -0.25 ± 3.34 | .749\n2 years post | -0.74 ± 3.89 | -0.88 ± 2.09 | .936\n3 years post | -1.69 ± 3.86 | -2.33 ± 2.67 | .337\n4 years post | 0 ± 1.73 | 0.50 ± 0.71 | ≥.999\nAssists per season |  |  | \nIndex year | 0 ± 2.72 | -1.21 ± 2.56 | .144\n1 year post | 0.28 ± 2.53 | -0.60 ± 2.23 | .442\n2 years post | 0.37 ± 2.97 | -1 ± 2.03 | .460\n3 years post | 0 ± 3.14 | -2.17 ± 3.07 | .130\n4 years post | -1.33 ± 0.58 | -1.50 ± 2.12 | ≥.999\nPoints per game |  |  | \nIndex year | 0.02 ± 0.80 | -0.08 ± 0.45 | .793\n1 year post | 0.17 ± 0.68 | -0.22 ± 0.58 | .091\n2 years post | -0.07 ± 0.62 | -0.33 ± 0.43 | .254\n3 years post | -0.14 ± 1.05 | -0.21 ± 0.64 | .979\n4 years post | -0.12 ± 0.44 | -0.18 ± 0.01 | .800"
+    },
+    {
+      "section": "TABLE: Defender Metrics Compared With 1 Year Before Index Year a",
+      "text": "Player Metrics b | Control | Achilles Rupture | P Value\nGames per season |  |  | \nIndex year | -2.39 ± 11.27 | -6.29 ± 9.73 | .102\n1 year post | -3.67 ± 12.76 | -5.39 ± 10.39 | .502\n2 years post | -6.23 ± 13.40 | -2.76 ± 11.86 | .249\n3 years post | -3.13 ± 14.74 | -0.15 ± 11.39 | .458\n4 years post | -4.17 ± 18.24 | -0.18 ± 13.38 | .644\nMinutes per season |  |  | \nIndex year | -195.60 ± 1042.69 | -532.58 ± 891.26 | .181\n1 year post | -344.95 ± 1153.24 | -502.09 ± 988.51 | .575\n2 years post | -553.09 ± 1226.27 | -261.48 ± 1061.66 | .257\n3 years post | -241.48 ± 1345.52 | 9.77 ± 1038.72 | .515\n4 years post | -293.50 ± 1677.02 | 26.82 ± 1150.54 | .566\nMinutes per game |  |  | \nIndex year | 0.88 ± 29.41 | -6.62 ± 28.27 | .523\n1 year post | 2.77 ± 26.11 | -6.96 ± 31.01 | .218\n2 years post | -1.86 ± 23.24 | -1.26 ± 21.67 | .960\n3 years post | 0.77 ± 28.47 | 0.37 ± 13.70 | .673\n4 years post | 2.91 ± 17.91 | 1.83 ± 33.20 | .695\nGoals per season |  |  | \nIndex year | -0.10 ± 1.21 | -0.39 ± 1.37 | .363\n1 year post | 0.09 ± 1.19 | -0.48 ± 1.18 | <.05\n2 years post | -0.06 ± 1.63 | -0.57 ± 0.93 | <.05\n3 years post | 0.09 ± 1.28 | 0.15 ± 1.68 | .973\n4 years post | -0.25 ± 2.01 | -0.18 ± 1.33 | ≥.999\nAssists per season |  |  | \nIndex year | -0.06 ± 1.15 | -0.61 ± 1.55 | .092\n1 year post | 0.16 ± 1.72 | -0.42 ± 2.09 | .178\n2 years post | -0.11 ± 1.49 | 0.19 ± 2.23 | .629\n3 years post | 0.04 ± 1.87 | 0.85 ± 3.63 | .774\n4 years post | 0.58 ± 1.08 | -0.18 ± 1.60 | .196\nPoints per game |  |  | \nIndex year | -0.18 ± 0.82 | 0.02 ± 0.81 | .115\n1 year post | -0.18 ± 0.59 | -0.17 ± 0.80 | .793\n2 years post | -0.06 ± 0.82 | -0.13 ± 1.01 | .966\n3 years post | -0.15 ± 0.60 | -0.04 ± 0.74 | .439\n4 years post | -0.27 ± 0.50 | -0.31 ± 0.80 | .878"
+    },
+    {
+      "section": "TABLE: Goalkeeper Metrics Compared With 1 Year Before Index Year a",
+      "text": "Player Metrics b | Control | Achilles Rupture | P Value\nGames per season |  |  | \nIndex year | -1.81 ± 11.12 | -6.77 ± 11.62 | ≥.999\n1 year post | -2.28 ± 12.39 | -5.12 ± 11.76 | ≥.999\n2 years post | -5.28 ± 14.14 | -5.28 ± 12.15 | .400\n3 years post | -5.04 ± 15.46 | -5.26 ± 11.45 | ≥.999\n4 years post | -3.16 ± 17.24 | -2.50 ± 14.05 | .667\nMinutes per season |  |  | \nIndex year | 239.75 ± 688.16 | 60.40 ± 1809.36 | .806\n1 year post | -140 ± 333.75 | -742.50 ± 1434.60 | ≥.999\n2 years post | 592.67 ± 932.88 | -1440 ± 2036.47 | .400\n3 years post | 871 ± 1096.02 | 218.50 ± 72.83 | ≥.999\n4 years post | 1510.50 ± 218.50 | 225 ± 0 | .667\nMinutes per game |  |  | \nIndex year | -17.63 ± 44.58 | 1.95 ± 57.94 | .901\n1 year post | 2.76 ± 4.58 | -17.95 ± 82.76 | .800\n2 years post | 1.33 ± 4.06 | -45 ± 63.64 | .800\n3 years post | 4.05 ± 2.75 | 86.75 ± 4.60 | .333\n4 years post | 4.32 ± 2.37 | 75 ± 0 | .667\nClean sheets per season |  |  | \nIndex year | 1 ± 1.83 | -0.20 ± 6.65 | .902\n1 year post | 1 ± 1.41 | -3.25 ± 4.57 | .159\n2 years post | 4 ± 3.61 | -5 ± 7.07 | .236\n3 years post | 1 ± 1.41 | 0.50 ± 0.71 | ≥.999\n4 years post | 2.50 ± 0.71 | 0 ± 0 | .667\nConceded goals per season |  |  | \nIndex year | 1.50 ± 12.45 | 0.60 ± 27.43 | ≥.999\n1 year post | 0 ± 0 | -10.25 ± 21.96 | .475\n2 years post | 4.33 ± 11.59 | -21.50 ± 30.41 | .400\n3 years post | 14 ± 19.80 | 6.50 ± 2.12 | ≥.999\n4 years post | 25.50 ± 2.12 | 7 ± 0 | .667"
+    }
+  ]
+}

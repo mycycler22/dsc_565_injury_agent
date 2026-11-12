@@ -1,0 +1,43 @@
+{
+  "pmid": "31803520",
+  "title": "ACCURACY OF THE FUNCTIONAL MOVEMENT SCREEN (FMS<sup>TM</sup>) ACTIVE STRAIGHT LEG RAISE TEST TO EVALUATE HAMSTRING FLEXIBILITY IN SOCCER PLAYERS.",
+  "year": "2019",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Poor flexibility is considered a risk factor for the hamstring strain injury, and the active straight leg raise (ASLR) test proposed as a part of the Functional Movement Screen™ (FMS™) has been used to assess athletes hamstring flexibility. However, the accuracy of this screening test remains undescribed."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine the accuracy of the FMS™ ASLR test for assessment of hamstring flexibility in soccer players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "One-hundred and one male soccer players (age, 21 ± 3 years; height, 179 ± 7 cm; weight, 75 ± 9 kg) were bilaterally evaluated. All players performed a gold standard test for hamstring flexibility evaluation: the passive straight leg raise (PSLR) test measured using a gravitational inclinometer. All players also performed the ASLR test and were scored using the criteria proposed by the FMS™."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 202 lower limbs evaluated, 17.82% scored a 1 on the ASLR [mean passive flexibility: 80.44 ± 14.69 ° (55 °-110 °)], 50.99% scored a 2 on the ASLR [mean passive flexibility = 84.60 ± 10.59 ° (56 °-115 °)], and 31.18% scored a 3 on the ASLR [mean passive flexibility = 92.32 ± 11.53 ° (70 °-120 °)]. Limbs with FMS™ score of 3 presented significantly higher values for passive flexibility than limbs with scores of 1 and 2 (p < 0.05), but there was no significant difference between limbs with scores of 1 and 2 (p > 0.05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The score obtained in the FMS™ ASLR test does not satisfactorily stratify the level of hamstring flexibility in soccer players."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "3a."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

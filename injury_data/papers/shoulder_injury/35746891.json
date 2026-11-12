@@ -1,0 +1,44 @@
+{
+  "pmid": "35746891",
+  "title": "Sports Imaging of COVID-19: A Multi-Organ System Review of Indications and Imaging Findings.",
+  "year": "2022",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was first identified in December 2019 in Wuhan, China. Although coronavirus disease-19 (COVID-19) affects every population group, the sports community and athletes require special consideration of the effects on cardiovascular, musculoskeletal, neurologic, and respiratory systems. A comprehensive understanding of imaging indications, findings, and features of COVID-19 supports appropriate imaging utilization and effective patient management and treatment."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To review the spectrum of sports imaging in COVID-19 infection, organ system manifestations, vaccine effects, and complications in recreational and competitive athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Narrative review."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Levels 4 and 5."
+    },
+    {
+      "label": "METHODS",
+      "text": "Based on a PubMed database search, studies describing the imaging findings of COVID-19 infection, organ system manifestations, vaccine effects, and complications in recreational and competitive athletes were included."
+    },
+    {
+      "label": "RESULTS",
+      "text": "On March 11, 2020, World Health Organization officially declared COVID-19 a global pandemic. As of May 9, 2022, more than 515 million confirmed cases of COVID-19 were reported globally. While the multisystem effects of COVID-19 are incompletely understood, the role of imaging in diagnosing, monitoring, and prognosticating active disease, long-term effects, and complications is evolving. In the respiratory system, imaging plays an important role in diagnosing, characterizing, and monitoring pulmonary COVID-19 infections, barotrauma, and COVID-19-associated chronic pulmonary opacities and fibrotic-like lung changes. Ultrasonography, computed tomography, and magnetic resonance imaging aid in the timely diagnosis of ischemic, embolic, and thrombotic peripheral and central cardiovascular events, including deep venous thrombosis, pulmonary embolism, myocarditis, and stroke. COVID-19-associated musculoskeletal and peripheral nervous system manifestations include rhabdomyolysis and myonecrosis, plexus and peripheral neuropathies, Guillain-Barré syndrome, and shoulder injury related to vaccine administration."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In athletes, COVID-19 infections and associated effects on cardiovascular, musculoskeletal, neurologic, and respiratory systems require special consideration. With the increasing understanding of the multisystem effects of COVID-19, the role of imaging in diagnosing, monitoring, and prognosticating active disease, long-term effects, and complications is evolving. A comprehensive understanding of imaging indications, COVID-19 imaging features, and organ system effects aids in appropriate imaging utilization and effective patient management and treatments."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

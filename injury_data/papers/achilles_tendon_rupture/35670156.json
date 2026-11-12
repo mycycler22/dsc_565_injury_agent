@@ -1,0 +1,32 @@
+{
+  "pmid": "35670156",
+  "title": "Risk factors for Achilles tendon rupture: an updated systematic review.",
+  "year": "2023",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Identifying risk factors for Achilles Tendon Rupture (ATR) is one of the first necessary steps for its prevention. This systematic review aimed to update the systematic review published in 2014 in ATR etiology."
+    },
+    {
+      "label": "METHODOLOGY",
+      "text": "A systematic review was carried out using PubMed, EBSCO, and ScienceDirect databases. All types of research studies (Randomized Control Trials - RCTs, Cohort studies, Case-control studies and Cross-sectional studies) that considered ATR, were eligible. The inclusion criteria for eligibility of the studies were to be written in the English language, and to include populations of men and/or women, both athletes, and non-athletes, healthy individuals, and patients. Two independent reviewers used the assessment instrument Newcastle-Ottawa Scale independently, to evaluate the quality of each selected study. Further, two reviewers worked independently to extract the study characteristics, and the GRADE methodology was used to assess the level of certainty of each risk factor."
+    },
+    {
+      "label": "RESULTS",
+      "text": "From 9526 studies initially identified, 19 studies were eligible for further analysis to identify risk factors for ATR. Seventeen studies were considered good quality, and two studies fair quality. Low to very low certainty of evidence was found for the following medications: steroids, quinolones, and oral bisphosphonate, as well as for other factors such as chronic tendon inflammation and Achilles' tendinopathy, spring season, diabetes, previous musculoskeletal injury, regular participation in athletic activity, hyperparathyroidism, renal failure, and genetic factors."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The risk factors found prove that ATR is a multifactorial injury. Appropriate methodologies and well-designed studies are needed to determine the factors and their significance in ATR risk. Finally, the role of biomechanical and psychological aspects in the ATR etiology may be of interest in future studies, as we could not extract relative data in our review."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

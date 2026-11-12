@@ -1,0 +1,31 @@
+{
+  "pmid": "31223524",
+  "title": "Relative and absolute within-session reliability of the modified Star Excursion Balance Test in healthy elite athletes.",
+  "year": "2019",
+  "journal": "PeerJ",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The Star Excursion Balance Test (SEBT) is commonly used to assess dynamic postural balance both in clinical practice and research. The aim of our study was to assess the within-session relative and absolute reliability of participants' performance of the modified SEBT (mSEBT) using a single practice trial in healthy elite athletes who were familiar with the test."
+    },
+    {
+      "label": "METHODS",
+      "text": "An intra-session repeated-measures design was used to investigate the relative and absolute reliability of participants' (healthy athletes partaking in sports at a high-risk of ankle sprain injury) performance of the mSEBT. A total of 122 healthy elite athletes from soccer (<i>n</i> = 73), basketball (<i>n</i> = 15), and volleyball (<i>n</i> = 34) performed one practice trial and three test trials within one session, in three directions (anterior, postero-medial, and postero-lateral), for both legs. Intraclass correlation coefficient (ICC), standard error of measurement (SEM), and smallest detectable change at a 95% confidence were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We found a good to excellent relative within-session intra-rater reliability between the three trials on specified directions, with an ICC (3,1) from 0.90 to 0.95. SEM and SDC<sub>95</sub> for normalized and composite scores, for both legs ranged from 0.91 to 2.86, and 2.54 to 7.94, respectively."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In conclusion, we report good to excellent within-session reliability for the mSEBT. Our results confirm that the test can be reliably used with only one practice trial in healthy elite athletes familiar with the test."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

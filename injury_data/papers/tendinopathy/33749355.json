@@ -1,0 +1,28 @@
+{
+  "pmid": "33749355",
+  "title": "Level of Evidence for the Treatment of Chronic Noninsertional Achilles Tendinopathy.",
+  "year": "2023",
+  "journal": "Foot & ankle specialist",
+  "pub_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Noninsertional Achilles tendinopathy affects both athletes and sedentary individuals, and its incidence is rising. Conservative management is the mainstay of treatment, but a variety of operative techniques have been described to treat recalcitrant cases. We seek to outline the current available evidence for surgical management of noninsertional Achilles tendinopathy."
+    },
+    {
+      "label": "STUDY DESIGN AND METHODS",
+      "text": "A systematic review was performed using the MEDLINE and EMBASE databases, and all articles were reviewed by at least 2 authors. Each article was assigned a level of evidence in accordance with the standards of <i>Journal of Bone and Joint Surgery</i>. The available data were reviewed and a level of evidence was assigned to each intervention of interest, based on the revised classifications of Wright."
+    },
+    {
+      "label": "RESULTS AND CONCLUSION",
+      "text": "A total of 46 articles met inclusion and exclusion criteria. There is fair evidence (grade B) in support of open debridement with 1 level II study, 1 level III study, and 8 level IV studies. There is fair evidence (grade B) in support of arthroscopic or minimally invasive surgical techniques. There is poor evidence (grade C) in support of flexor hallucis longus transfer, longitudinal tenotomy, peritenolysis, gastrocnemius recession, and plantaris excision. There is insufficient evidence (grade I) to provide a recommendation about other surgical treatment methods for noninsertional Achilles tendinopathy.<b>Levels of Evidence:</b> <i>Level III: Systematic review</i>."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

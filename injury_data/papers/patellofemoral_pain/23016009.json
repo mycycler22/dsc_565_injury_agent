@@ -1,0 +1,31 @@
+{
+  "pmid": "23016009",
+  "title": "Radiologic assessment of patellofemoral pain in the athlete.",
+  "year": "2011",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Although disorders of the patellofemoral joint are common in the athlete, their management can be challenging and require a thorough physical examination and radiologic evaluation, including advanced magnetic resonance imaging techniques."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "Relevant articles were searched under OVID and MEDLINE (1968 to 2010) using the keywords patellofemoral joint, patellofemoral pain or patella and radiography, imaging, or magnetic resonance imaging, and the referenced sources were reviewed for additional articles. The quality and validity of the studies were assessed on the basis of careful analysis of the materials and methods before their inclusion in this article."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Physical examination and imaging evaluation including standard radiographs are crucial in identifying evidence of malalignment or instability. Magnetic resonance imaging provides valuable information about concomitant soft tissue injuries to the medial stabilizers as well as injuries to the articular cartilage, including chondral shears and osteochondral fractures. Quantitative magnetic resonance imaging assessing the ultrastructure of cartilage has shown high correlation with histology and may be useful for timing surgery."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Evaluation of patellofemoral disorders is complex and requires a comprehensive assessment. Recent advancements in imaging have made possible a more precise evaluation of the individual anatomy of the patient, addressing issues of malalignment, instability, and underlying cartilage damage."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

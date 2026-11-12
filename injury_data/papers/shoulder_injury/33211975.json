@@ -1,0 +1,45 @@
+{
+  "pmid": "33211975",
+  "title": "Scapular Dyskinesis Is Not an Isolated Risk Factor for Shoulder Injury in Athletes: A Systematic Review and Meta-analysis.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Scapular dyskinesis has been considered a risk factor for athletic shoulder injury; however, findings in the prospective literature have demonstrated mixed results."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine if scapular dyskinesis increases the risk of shoulder injury in athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search was conducted on the MEDLINE, CINAHL Plus, SPORTDiscus, and Embase databases to identify prospective studies examining scapular dyskinesis and shoulder injury risk in athletes. Studies were included if they assessed participants using a dynamic scapular assessment at baseline and monitored for the development of shoulder injury. Data from the studies were subject to meta-analysis using the Mantel-Haenszel method to produce a pooled risk ratio."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seven studies were eligible for inclusion, resulting in 212 shoulder injuries observed across 923 athletes. Scapular dyskinesis was present in 46% of participants, and these athletes had an injury rate of 25%. The presence of scapular dyskinesis displayed a trend to increase the risk of shoulder injury, but this was not statistically significant (risk ratio, 1.07; 95% CI, 0.85-1.34; <i>P</i> = .59)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Scapular dyskinesis was not significantly associated with the development of shoulder injury in athletes."
+    },
+    {
+      "label": "REGISTRATION",
+      "text": "CRD42019133089 (PROSPERO)."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

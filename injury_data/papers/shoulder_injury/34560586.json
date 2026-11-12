@@ -1,0 +1,36 @@
+{
+  "pmid": "34560586",
+  "title": "Effectiveness of shoulder injury prevention programs in an overhead athletic population: A systematic review.",
+  "year": "2021",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To analyze the effectiveness of shoulder injury prevention programs in overhead athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic Review."
+    },
+    {
+      "label": "METHODS",
+      "text": "CINAHL, Embase, PubMed, and SPORTDiscus electronic databases were searched from database inception through December 2020 for randomized controlled or prospective cohort studies that implemented shoulder injury prevention programs in overhead athletes and reported shoulder injury incidence rates."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seven studies fulfilled the inclusion criteria. Two studies reported on odds ratios (OR) that resulted in a reduction of shoulder injuries in overhead athletes following shoulder strengthening and flexibility exercises (OR, 0.72; 95% CI; 0.52, 0.98; OR, 0.22; 95% CI; 0.06, 0.75). One study reported on hazard ratio (HR) that resulted in a reduction of shoulder injuries following stretching of the posterior capsule (HR, 0.36; 95% CI; 0.13, 0.95)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "There is limited research surrounding the effectiveness of shoulder injury prevention programs in overhead athletes specific to injury reduction. Only three studies reported a favorable effect in terms of injury prevention, with only one study at low risk of bias. At present, no conclusions can be made regarding the effectiveness of shoulder injury prevention programs in the overhead athlete."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "36599363",
+  "title": "Elite Athletes Successfully Return to the Preinjury Level of Sport Following Ankle Syndesmosis Injuries: A Systematic Review and Meta-Analysis.",
+  "year": "2023",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To comprehensively review and report the outcomes of ankle syndesmotic injury management in elite athletes."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Three databases were searched for articles reporting the rate of return to sport following treatment of ankle syndesmotic injuries in elite athletes (collegiate or professional level). Ten articles and 440 athletes were included. Articles reporting the rate of return to sport following high ankle sprain injury in elite athletes. Data collected included demographics, type of treatment received, and return to sport (RTS) information. A random effects model was used."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "The estimated overall rate of RTS was 99% (95% CI, 95.5-99.9). The mean time to RTS was 38 ± 18 (range, 14-137) days. Of the 440 athletes, 269 (269/440%, 61%) were treated nonoperatively (nonoperative group); the rate of RTS was 99.6%, and the athletes returned at a mean time of 29 ± 14 (range, 13-45) days. A total of 171 athletes (171 of 440%, 39%) underwent surgical treatment (operative group). All (171 of 171%, 100%) athletes returned at a mean time of 50.3 ± 13 (range, 41-137) days. Almost all athletes who underwent surgery had suture button fixation (164 of 171 athletes, 96%), and the mean time to RTS was 7 weeks with 9.1% complication rate."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Elite athletes with ankle syndesmosis injury return to sport at an extremely high rates, following operative or nonoperative treatment. Return to the preinjury level of competition should be expected at 4 weeks and 7 weeks in high-level athletes who undergo nonoperative and operative management, respectively. Suture button fixation was used by the majority of studies reporting surgical management of ankle syndesmosis injuries in athletes."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [
+    {
+      "section": "MAIN RESULTS",
+      "sentence": "Almost all athletes who underwent surgery had suture button fixation (164 of 171 athletes, 96%), and the mean time to RTS was 7 weeks with 9.1% complication rate."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

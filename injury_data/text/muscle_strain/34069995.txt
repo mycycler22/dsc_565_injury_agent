@@ -1,0 +1,19 @@
+Title: Alpha-Actinin-3 Deficiency Might Affect Recovery from Non-Contact Muscle Injuries: Preliminary Findings in a Top-Level Soccer Team. | Type: Journal Article | PMID: 34069995 | Year: 2021 | Injury query: muscle strain
+[UNLABELED] There was a trend towards a higher risk of muscle injury associated with the XX genotype (<i>p</i> = 0.092, with no injury-free XX player during the 5-year study period) and a significant genotype effect for the time needed to return to play (<i>p</i> = 0.044, with the highest value shown for the XX genotype, i.e., 36 ± 26 days, vs. 20 ± 10 and 17 ± 12 days for RR and RX, respectively).
+[FULLTEXT: 3. Results] Forty-six professional soccer players participated in the study (mean age 26.1 ± [SD] 4.6 years, 22 males and 24 females). The population sample included the best soccer player in the world according to Fédération Internationale de Football Association (FIFA). In the male team, there were several winners of the FIFA world cup and of major UEFA tournaments, whereas the female team had won the Primera Iberdrola competition twice and reached the semi-finals of the Women’s Champions League within the seasons under investigation. During the study period, the players trained for 6 and 33–35 weeks during the preseason and competition season, respectively (or 14–16 h/week and 8–10 h/week). A total of 96 muscles injuries were recorded in the sample of soccer players during the period of investigation. Genotype success was 100%, with the following genotype distribution (which followed HWE): RR, 41.3%; RX, 47.8%; and XX, 10.9%. There were no differences in demographic characteristics across genotypes (Table 1). A trend towards a higher risk of injuries associated with the XX genotype (p = 0.092) was found, with no injury-free XX player during the 5-year study period (Table 2). In fact, the proportion of participants showing 1+ injuries was higher in the participants with the X-allele (RX + XX) than in their RR referents (p = 0.033). Nevertheless, among those players with 1+ injuries, the R777X genotype was not associated with the number of injuries (p = 0.799). On the other hand, there was a significant genotype effect for the time needed to return to play (p = 0.044), with the highest value shown for the XX genotype (i.e., >1 month vs. clearly below 30 days for RR or RX; Table 2 and Figure 1).
+[FULLTEXT: TABLE: Main characteristics of the participants by α-actinin-3 gene (ACTN3) R577X genotype.] Variable (Units) | RR | RX | XX | p Value
+Number (frequency, %) | 19 (41.3) | 22 (47.8) | 5 (10.9) | -
+Sex (n, % men) | 11 (57.9) | 9 (40.9) | 2 (40.0) | 0.518
+Age (years, mean ± SD) | 25.4 ± 4.1 | 26.4 ± 5.4 | 27.8 ± 2.9 | 0.510
+≤25 years (%) | 47.4 | 45.5 | 20.0 | 0.529
+Height (m, mean ± SD) | 1.76 ± 0.07 | 1.74 ± 0.09 | 1.74 ± 0.04 | 0.726
+Body mass (kg, mean ± SD) | 70.5 ± 9.0 | 66.8 ± 11.1 | 66.6 ± 6.6 | 0.738
+BMI (kg·m−2, mean ± SD) | 22.6 ± 1.7 | 22.9 ± 1.9 | 22.0 ± 1.3 | 0.580
+Ethnic origin |  |  |  | 0.169
+Caucasian (%) | 15 (78.9) | 21 (95.5) | 5 (100.0)
+Afro-American (%) | 4 (21.1) | 1 (4.5) | 0 (0.0)
+Position |  |  |  | 0.847
+Goalkeeper (%) | 2 (10.5) | 3 (13.6) | 0 (0.0)
+Defender (%) | 4 (21.1) | 5 (22.7) | 2 (40.0)
+Midfielder (%) | 8 (42.1) | 6 (27.3) | 1 (20.0)
+Forward (%) | 5 (26.3) | 8 (36.4) | 2 (40.0)

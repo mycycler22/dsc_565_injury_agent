@@ -1,0 +1,36 @@
+{
+  "pmid": "38335326",
+  "title": "Symptom resolution following a repeat concussion within the same athlete.",
+  "year": "2024",
+  "journal": "Brain injury",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Repeat sport-related concussion (SRC) is anecdotally associated with prolonged recovery. Few studies have examined repeat concussion within the same athlete. We sought to explore differences in symptom burden and recovery outcomes in an individual athlete's initial and repeat SRC."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective within-subject cohort study of athletes aged 12-23 years diagnosed with two separate SRCs from 11/2017-10/2020 was conducted. Primary outcomes were initial symptom severity and time-to-symptom-resolution. Secondary outcomes included return-to-learn (RTL) and return-to-play (RTP) duration."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 868 athletes seen, 47 athletes presented with repeat concussions. Median time between concussions was 244 days (IQR 136-395). Comparing initial to repeat concussion, no differences were observed in time-to-clinic (4.3 ± 7.3vs.3.7 ± 4.6 days, <i>p</i> = 0.56) or initial PCSS (26.2 ± 25.3 vs. 30.5 ± 24.1, <i>p</i> = 0.32). While a difference was observed in time-to-symptom resolution between initial/repeat concussion (21.2 ± 16.3 vs. 41.7 ± 86.0 days, <i>p</i> = 0.30), this did not reach statistical significance. No significant differences were observed in time-to-RTL (17.8 ± 60.6 vs. 6.0 ± 8.3 days, <i>p</i> = 0.26) and RTP (33.2 ± 44.1 vs. 29.4 ± 39.1 days, <i>p</i> = 0.75). Repeat concussion was not associated with symptom resolution on univariate (HR 1.64, 95% CI 0.96-2.78, <i>p</i> = 0.07) and multivariable (HR 0.85, 95% CI 0.49-1.46, <i>p</i> = 0.55) Cox regression."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "No significant differences in symptom duration and RTP/RTL were seen between initial/repeat concussion."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "No significant differences were observed in time-to-RTL (17.8 ± 60.6 vs. 6.0 ± 8.3 days, <i>p</i> = 0.26) and RTP (33.2 ± 44.1 vs. 29.4 ± 39.1 days, <i>p</i> = 0.75)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

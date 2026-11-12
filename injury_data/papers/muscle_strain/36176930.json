@@ -1,0 +1,20 @@
+{
+  "pmid": "36176930",
+  "title": "Ligament Repair Method for Sports Dancers Based on Health Monitoring.",
+  "year": "2022",
+  "journal": "Contrast media & molecular imaging",
+  "pub_types": [
+    "Journal Article",
+    "Retracted Publication"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "In sports dance training, the injury rate of athletes' ligaments is higher than that of ordinary ones. Careful study of ligament repair methods can better prolong the sports life of sports dance athletes. The purpose of this paper is to investigate how to analyze ligament repair in sports dancers based on health monitoring. This paper proposes a deep learning algorithm based on health monitoring and a neural network algorithm, both of which have the function of prediction. The experimental results of this paper show that the common injuries in sports dance include ankle ligament injury, medial and lateral knee ligament strain, lumbar muscle strain, toe joint strain, shoulder deltoid strain and other injuries. Among them, the number of ankle ligament injuries is the largest, with 36 people, accounting for 30%. The number of people with medial and lateral ligament strains in the knee joint ranks second with 32 people, accounting for 26%. The total proportion of two kinds of ligament strains is 56%, accounting for more than half. It can be seen that ligament strains are the most common in sports dance injuries, so it is of great research significance to repair the ligaments of sports dancers based on health monitoring."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

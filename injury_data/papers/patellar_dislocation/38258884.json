@@ -1,0 +1,40 @@
+{
+  "pmid": "38258884",
+  "title": "Consensus-Based Guidelines for Management of First-Time Patellar Dislocation in Adolescents.",
+  "year": "2024",
+  "journal": "Journal of pediatric orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The management of first-time patellar dislocation remains variable, with limited evidence to support or compare different operative and nonoperative modalities. The primary aim was to establish consensus-based guidelines for different components of nonoperative treatment following a first-time patellar dislocation. The secondary aim was to develop guidelines related to management after failed nonoperative treatment. The tertiary aim was to establish consensus-based guidelines for the management of first-time patellar dislocation with a concomitant osteochondral fracture."
+    },
+    {
+      "label": "METHODS",
+      "text": "A 29-question, multiple-choice, case-based survey was developed by 20 members of the Patellofemoral Research Interest Group of the Pediatric Research in Sports Medicine Society. The survey consisted of questions related to demographic information, management of first-time patellar dislocation without an osteochondral fracture, and management of first-time patellar dislocation with a 2 cm osteochondral fracture. The survey underwent 2 rounds of iterations by Patellofemoral Research Interest Group members and the final survey was administered to Pediatric Research in Sports Medicine members, using REDCap. Consensus-based guidelines were generated when more than 66% of respondents chose the same answer."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seventy-nine of 157 (50%) eligible members responded. Sixty-one were orthopaedic surgeons and 18 were primary sports medicine physicians. Eleven consensus-based guidelines were generated based on survey responses. Those that met the criteria for consensus included initial knee radiographs (99% consensus), nonoperative treatment for first-time patellar dislocation without an osteochondral fracture (99%), physical therapy starting within the first month postinjury (99%), with return to sport after 2 to 4 months (68%) with a brace (75%) and further follow-up as needed (75%). Surgical treatment was recommended if there were patellar subluxation episodes after 6 months of nonoperative treatment (84%). Patellar stabilization should be considered for a first-time dislocation with an osteochondral fracture (81.5%)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Consensus-based guidelines offer recommendations for the management of first-time patellar dislocation with or without an osteochondral fracture. Several changing trends and areas of disagreement were noted in clinical practice."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "In the absence of high-level evidence, consensus-based guidelines may aid in clinical decision-making when treating patients following a first-time patellar dislocation. These guidelines highlight the evolving trends in clinical practice for the management of first-time patellar dislocation. Areas not reaching consensus serve as topics for future research."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Those that met the criteria for consensus included initial knee radiographs (99% consensus), nonoperative treatment for first-time patellar dislocation without an osteochondral fracture (99%), physical therapy starting within the first month postinjury (99%), with return to sport after 2 to 4 months (68%) with a brace (75%) and further follow-up as needed (75%)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,57 @@
+{
+  "pmid": "38708007",
+  "title": "Limited Return to Preinjury Performance in NCAA Division I American Football Players With Hamstring Injuries.",
+  "year": "2024",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strains are common among elite athletes, but their effect on return to the same level of play in American football has been incompletely characterized."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "Data on National Collegiate Athletics Association Division I college football players with acute hamstring strains were gathered to identify the effects these injuries have on both return to play and athletic performance regarding velocity, workload, and acceleration."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case Series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Injury data for a single Division I football team were prospectively recorded over a 4-year period. Players wore global navigation satellite system and local positioning system (GNSS/LPS) devices to record movement data in practices and games. The practice and game data were cross-referenced to evaluate players with isolated acute hamstring strains. Comparisons were made regarding players' pre- and postinjury ability to maintain high velocity (>12 mph [19.3 kph]), maximal velocity, triaxial acceleration, and inertial movement analysis (IMA). There were 58 hamstring injuries in 44 players, of which 25 injuries from 20 players had GNSS/LPS data."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Players were able to return to play from all 25 injury incidences at a mean of 9.2 days. At the final mean follow-up of 425 days, only 4 players had reached preinjury function in all measurements; 12 players were able to return in 2 of the 4 metrics; and only 8 players reached their preinjury ability to maintain high velocity. For those who did not achieve this metric, there was a significant difference between pre- and postinjury values (722 vs 442 m; <i>P</i> = .016). A total of 14 players were able to regain their IMA. Players who returned to prior velocity or acceleration metrics did so at a mean of 163 days across all metrics."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "While players may be able to return to play after hamstring strain, many players do not reach preinjury levels of acceleration or velocity, even after 13.5 months. Further studies are needed to confirm these findings, assess clinical relevance on imaging performance, and improve hamstring injury prevention and rehabilitation."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Players were able to return to play from all 25 injury incidences at a mean of 9.2 days."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "While players may be able to return to play after hamstring strain, many players do not reach preinjury levels of acceleration or velocity, even after 13.5 months."
+    }
+  ],
+  "pmcid": "11070146",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Players were able to return to play from all 25 injury incidences at a mean of 9.2 days. At the final mean follow-up of 425 days, only 4 players had reached preinjury function in all measurements; 12 players were able to return in 2 of the 4 metrics; and only 8 players reached their preinjury ability to maintain high velocity. For those who did not achieve this metric, there was a significant difference between pre- and postinjury values (722 vs 442 m; P = .016). A total of 14 players were able to regain their IMA. Players who returned to prior velocity or acceleration metrics did so at a mean of 163 days across all metrics."
+    },
+    {
+      "section": "Results",
+      "text": "Players were able to return to play in all 25 injury incidences. The mean return to play was 9.2 days. However, after a mean follow-up of 425 days, only 4 (16%) of the 25 cases were able to reach preinjury maximal function in all measurements: total triaxial acceleration, IMA, maximal velocity, and ability to maintain high velocity. In fact, only 12 (48%) of the 25 cases were able to return to preinjury levels in 2 of the above metrics. Four of the players were unable to achieve any of their preinjury levels in any of the metrics. There was no correlation with player position, with 1 defensive back, 2 linebackers, and 1 tight end being unable to achieve any metric. Of the individual values, the ability to maintain high velocity (>12 mph [>19.3 kph]) was the most consistently impaired. In only 8 cases were the players able to reach their preinjury function. The mean distance at which a player maintained a high velocity was decreased by 81.96 meters per session. In comparison, 14 of 25 cases were able to achieve preinjury IMA with a mean increase of 2.16 meters per second postinjury (Table 1). When evaluating the difference between pre- and postinjury values of players who did not reach their preinjury function, there were significant differences in all 4 metrics (Figure 3). The greatest difference was seen in ability to maintain high velocity, defined as >12 mph or 55% of maximal velocity (722 vs 442 m; P = .016). For players who returned to preinjury function, total triaxial acceleration took the longest mean time to return to previous level, with a mean of 204 days. It took a mean of 189 and 185 days for players to return to their maximal velocity and IMA, respectively. The quickest metric to return was the patient’s ability to maintain high velocity, with a mean of 85 days. Simplified, this was a mean of 166 days across all metrics."
+    }
+  ]
+}

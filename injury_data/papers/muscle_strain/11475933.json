@@ -1,0 +1,20 @@
+{
+  "pmid": "11475933",
+  "title": "[Muscle injuries in athletes: pathogenesis, diagnosis and treatment].",
+  "year": "2001",
+  "journal": "Revue medicale de Liege",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "All muscles can be injured during sports activities, certain specific muscles in the lower extremities are particularly vulnerable. The spectrum of these injuries is wide. Muscle strain injuries frequently involve polyarticular muscles which contain a high percentage of fast-twitch fibres (Type II). Disruption of muscle fibres occurs near the myotendinous junction. In most cases, the diagnosis can be based upon history and physical examination. Ultrasound and Magnetic Resonance Imaging can be useful to determine the severity of a specific injury. The treatment of these injuries is basically conservative; surgery is rarely indicated. Prevention of these injuries is currently still an important issue."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "26328801",
+  "title": "Combined SLAP repair and biceps tenodesis for superior labral anterior-posterior tears.",
+  "year": "2016",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Long-head biceps tenodesis has been suggested as an alternative to superior labral anterior-posterior (SLAP) repair. However, an unrepaired superior labral tear may increase glenohumeral translation, and thus, labral repair may be considered in the setting of biceps tenodesis."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients who underwent tenodesis, SLAP repair, or combined tenodesis and labral repair for SLAP tears were included. The indication for combined tenodesis and labral repair was biceps tendonitis in the setting of a SLAP lesion with labral instability. Demographics, range of motion, return to work, return to sport, American Shoulder and Elbow Surgeons (ASES) scores, and visual analogue pain scale (VAS) scores were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eighty-six patients were included: 18 underwent combined tenodesis and labral repair, 45 underwent SLAP repair alone, and 23 underwent tenodesis alone. There were no significant differences in rates of return to pre-operative level of play (n.s.) or return to full duties at work (n.s.). These groups differed significantly in ASES scores (p = 0.015) and VAS scores (p = 0.019) with combined tenodesis and labral repair patients having lower scores than patients undergoing either tenodesis or SLAP repair alone. A subgroup analysis of patients who did not have Worker's Compensation claims demonstrated similar results with significant differences in ASES scores, which were lowest among the combined tenodesis and labral repair cohort (p = 0.045)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "High-demand patients with biceps tendonitis in the setting of a SLAP lesion with labral instability who undergo combined tenodesis and SLAP repair have significantly worse outcomes than patients who undergo either isolated labral repair for type II SLAP tears or isolated biceps tenodesis for a SLAP tear and biceps tendonitis."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Treatment, Level III."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "29249454",
+  "title": "Biomechanical consequences of running with deep core muscle weakness.",
+  "year": "2018",
+  "journal": "Journal of biomechanics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The deep core muscles are often neglected or improperly trained in athletes. Improper function of this musculature may lead to abnormal spinal loading, muscle strain, or injury to spinal structures, all of which have been associated with increased low back pain (LBP) risk. The purpose of this study was to identify potential strategies used to compensate for weakness of the deep core musculature during running and to identify accompanying changes in compressive and shear spinal loads. Kinematically-driven simulations of overground running were created for eight healthy young adults in OpenSim at increasing levels of deep core muscle weakness. The deep core muscles (multifidus, quadratus lumborum, psoas, and deep fascicles of the erector spinae) were weakened individually and together. The superficial longissimus thoracis was a significant compensator for 4 out of 5 weakness conditions (p < 0.05). The deep erector spinae required the largest compensations when weakened individually (up to a 45 ± 10% increase in compensating muscle force production, p = 0.004), revealing it may contribute most to controlling running kinematics. With complete deep core muscle weakness, peak anterior shear loading increased on all lumbar vertebrae (up to 19%, p = 0.001). Additionally, compressive spinal loading increased on the upper lumbar vertebrae (up to 15%, p = 0.007) and decreased on the lower lumbar vertebrae (up to 8%, p = 0.008). Muscular compensations may increase risk of muscular fatigue or injury and increased spinal loading over numerous gait cycles may result in damage to spinal structures. Therefore, insufficient strength of the deep core musculature may increase a runner's risk of developing LBP."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

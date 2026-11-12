@@ -1,0 +1,43 @@
+{
+  "pmid": "35981446",
+  "title": "The epidemiology of back injuries in elite Gaelic football athletes: An 8-year prospective study.",
+  "year": "2022",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To describe the epidemiology of back injury in elite male Gaelic football athletes between 2008 and 2016."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Injury data from the National GAA Injury Surveillance Database."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Elite male Gaelic football athletes."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Incidence of injury as a rate per 1000 h of exposure."
+    },
+    {
+      "label": "RESULTS",
+      "text": "38 datasets were analysed. Out of a total of 1606 time-loss injuries, 76 were back injuries (4.73%, 95% CI 3.80%-5.88%). The incidence of back injuries in match play was 1.72 (CI 95% 1.21 to 2.45) and in training was 0.2 (CI 95% 0.14 to 0.28) injuries per 1000 h of exposure. The majority of back injuries (63.16%, CI 95% 51.93-73.12) were new, as opposed to recurrent (35.53% CI 95% 25.7-46.74). Most back injuries were acute (51.32%, CI 95% 40.29-62.22), compared to chronic (31.58%, CI 95% 22.23-42.7) or overuse (11.84%, CI 95% 6.36-21.00). The majority of back injuries occurred during non-contact player activities (n = 60, 78.94% CI 95% 68.50-86.60)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Back injury rates in Gaelic football are similar to soccer and Australian football but less than rugby union. Further research is needed to understand the factors leading to the onset and recurrence of back injury in Gaelic football athletes."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,57 @@
+{
+  "pmid": "18653619",
+  "title": "Clinical predictors of time to return to competition and of recurrence following hamstring strain in elite Australian footballers.",
+  "year": "2010",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate early clinical predictors of time to return to competition and of recurrence following hamstring strain."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Prospective observational study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Elite level of Australian football competition."
+    },
+    {
+      "label": "PARTICIPANT",
+      "text": "59 players who suffered a hamstring strain in 2002 season."
+    },
+    {
+      "label": "PREDICTORS",
+      "text": "Clinical assessment by a physiotherapist and questionnaire."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Time taken to return to play and recurrence of hamstring injury within 3 weeks."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Players taking more than 1 day to walk pain-free were significantly more likely (p=0.018) to take longer than 3 weeks to return to competition (adjusted odds ratio 4.0; 95% CI 1.3 to 12.6). Nine players (15.2%) experienced an injury recurrence, all involving the biceps femoris. Recurrence was more likely in players who reported a hamstring injury in the past 12 months (adjusted odds ratio 19.6; 95% CI 1.5 to 261.0; p=0.025)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Time to walk pain-free and previous hamstring injury are predictors of time to return to competition and recurrence, respectively, and should be included in a clinical assessment to aid in prognosis."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "MAIN OUTCOME MEASURES",
+      "sentence": "Time taken to return to play and recurrence of hamstring injury within 3 weeks."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Players taking more than 1 day to walk pain-free were significantly more likely (p=0.018) to take longer than 3 weeks to return to competition (adjusted odds ratio 4.0; 95% CI 1.3 to 12.6)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

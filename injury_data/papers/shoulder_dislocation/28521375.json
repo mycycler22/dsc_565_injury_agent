@@ -1,0 +1,19 @@
+{
+  "pmid": "28521375",
+  "title": "[Not Available].",
+  "year": "2017",
+  "journal": "International journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Shoulder dislocations are common shoulder injuries associated with athletic activity in contact sports, such as football, rugby, wrestling, and hockey. Identifying genetic loci associated with shoulder dislocation could shed light on underlying mechanisms for injury and identify predictive genetic markers. To identify DNA polymorphisms associated with shoulder dislocation, a genome-wide association screen was performed using publically available data from the Research Program in Genes, Environment and Health including 662 cases of shoulder dislocation and 82 602 controls from the European ancestry group. rs12913965 showed an association with shoulder dislocation at genome-wide significance (p=9.7×10<sup>-9</sup>; odds ratio=1.6) from the European ancestry group. Individuals carrying one copy of the risk allele (T) at rs12913965 showed a 69% increased risk for shoulder dislocation in our cohort. rs12913965 is located within an intron of the TICRR gene, which encodes TOPBP1 interacting checkpoint and replication regulator involved in the cell cycle. rs12913965 is also associated with changes in expression of the ISG20 gene, which encodes an antiviral nuclease induced by interferons. This genetic marker may one day be used to identify athletes with a higher genetic risk for shoulder dislocation. It will be important to replicate this finding in future studies."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

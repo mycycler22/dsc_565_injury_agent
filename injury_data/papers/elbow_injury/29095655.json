@@ -1,0 +1,40 @@
+{
+  "pmid": "29095655",
+  "title": "Efficacy of a Prevention Program for Medial Elbow Injuries in Youth Baseball Players.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Controlled Clinical Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Youth baseball players are at high risk for elbow injuries, which can lead to future functional disability."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate the effectiveness of a prevention program to lower the risk of medial elbow injury in these athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Youth baseball players, 8 to 11 years old, without a history of elbow and shoulder pain, were allocated to either the intervention (n = 136) or control (n = 169) group. The intervention consisted of 9 strengthening and 9 stretching exercises, performed during warm-up or at home, with high compliance defined as completion of the program 1 or more times per week. The following outcome variables were measured: clinical assessment of the elbow and shoulder joint, ultrasonography assessment of the elbow, and assessment of physical function (passive range of motion of the elbow, shoulder, and hip; strength of the shoulder and scapular muscles; and measurement of the thoracic kyphosis angle). The clinical and ultrasonography assessments were measured at baseline and at 3-month intervals over the 1-year follow-up. Physical function outcomes were measured at baseline and at the endpoint of the follow-up. The primary endpoint of effectiveness was the incidence of medial elbow injury. Secondary endpoints were absolute measures of physical function and change in these measures over the 1-year follow-up."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The incidence rate of medial elbow injury was significantly lower in the intervention group (0.8/1000 athlete-exposures) than the control group (1.7/1000 athlete-exposures) (hazard ratio, 50.8%; 95% CI, 0.292-0.882; P = .016). The program improved total range of shoulder rotation (dominant side), hip internal rotation (nondominant side), shoulder internal rotation deficit (bilaterally), lower trapezius muscle strength (dominant side), and the thoracic kyphosis angle. Improvements in the following variables of physical function were predictive of a lower rate of medial elbow injury: increased total shoulder total rotation (odds ratio [OR], 0.973; 95% CI, 0.950-0.997), increased hip internal rotation of the nondominant side (OR, 0.962; 95% CI, 0.936-0.989), and decreased thoracic kyphosis angle (OR, 1.058; 95% CI, 1.015-1.103)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A prevention program aiming to improve physical function can prevent medial elbow injury in youth baseball players."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

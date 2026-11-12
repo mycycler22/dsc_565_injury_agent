@@ -1,0 +1,45 @@
+{
+  "pmid": "33218267",
+  "title": "Career Outlook and Performance of Professional Athletes After Achilles Tendon Rupture: A Systematic Review.",
+  "year": "2021",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The purpose of this systematic review is to examine the literature on Achilles tendon (AT) injuries in professional athletes to determine their rate of return to play (RTP), performance, and career outcome after AT rupture."
+    },
+    {
+      "label": "METHODS",
+      "text": "A literature search of MEDLINE, Google Scholar, CINAHL, and Cochrane Library databases was performed. Included studies reported outcomes related to RTP (time and rate), durability and player participation, and player performance following AT rupture in professional athletes of the National Football League (NFL), National Basketball Association (NBA), Major League Baseball (MLB), and professional soccer leagues."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fifteen studies met inclusion criteria for analysis. Athletes were able to return to professional sport participation 76% of the time, with mean time to RTP of 11 months following AT injury. Athletes experienced a decline in player efficiency ratings, power ratings, and sport- and position-specific statistics in the NFL, NBA, and professional soccer leagues compared to noninjured controls. RTP rate was significantly lower following AT rupture in comparison to athletes sustaining other common orthopedic injuries such as anterior cruciate ligament injuries, meniscal tears, and ankle fractures in both NFL and NBA athletes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "AT rupture prohibits nearly 25% of professional athletes from returning to their respective sport. Of those able to return to compete at a professional level, the mean time to RTP is 11 months-nearly double the estimated 6-month recovery for RTP in the general population. Furthermore, player performance and durability were curtailed following AT rupture. This review of the literature should be used to set evidence-based goals and establish realistic expectations for RTP for elite athletes following AT injuries."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, systematic review."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Athletes were able to return to professional sport participation 76% of the time, with mean time to RTP of 11 months following AT injury."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Of those able to return to compete at a professional level, the mean time to RTP is 11 months-nearly double the estimated 6-month recovery for RTP in the general population."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

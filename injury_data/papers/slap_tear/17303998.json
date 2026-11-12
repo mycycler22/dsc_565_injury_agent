@@ -1,0 +1,52 @@
+{
+  "pmid": "17303998",
+  "title": "SLAP tears of the glenoid labrum in contact athletes.",
+  "year": "2007",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To describe the distribution and clinical presentation of labral injuries in rugby players and the time taken for them to return to sports."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Busy shoulder practice in the North West of England, treating a large number of professional athletes."
+    },
+    {
+      "label": "PATIENTS",
+      "text": "A review of 51 shoulder arthroscopies performed on professional rugby players over a 35 month period. All patients diagnosed with a SLAP lesion at arthroscopy were identified. Eighteen patients had a documented SLAP tear; this group represented our study population."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Arthroscopic debridement and/or stabilization was carried out for all labral injuries using Panaloc anchors and No. 2 PDS via a 2 portal technique."
+    },
+    {
+      "label": "MAIN OUTCOME MEASUREMENTS",
+      "text": "Classification of injury, Satisfaction, Time to return to play."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The incidence of SLAP tears in our study population was 35%. There were 11 isolated SLAP tears (61%), 3 SLAP tears associated with a Bankart lesion (17%), 2 SLAP tears associated with a posterior labral lesion (11%), and 2 SLAP tears associated with an anterior and posterior labral injuries (11%). Of the 18 SLAP tears, 14 (78%) were type 2, 3 (17%) were type 3, and 1 (5%) was type 4. None of the patients with a SLAP tear presented with symptoms of instability. MR Arthrogram had a 76% sensitivity for detecting SLAP tears. By 6 months postsurgery, 89% of patients were satisfied. Patients with isolated SLAP tears were the quickest to return to sports, at an average of 2.6 months postsurgery."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "SLAP tears are a common injury in rugby players. These can often be diagnosed with MR arthrography. Arthroscopic repair is associated with excellent results and early return to sports."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Patients with isolated SLAP tears were the quickest to return to sports, at an average of 2.6 months postsurgery."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "27159306",
+  "title": "Shoulder Injuries in Men's Collegiate Lacrosse, 2004-2009.",
+  "year": "2016",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Men's lacrosse has been one of the fastest growing team sports in the United States, at both the collegiate and high school levels. Uniquely, it combines both continuous overhead and contact activity. Thus, an understanding of its injury epidemiology and mechanisms is vital. Shoulder injuries have been shown to be common in the sport, but thus far there has been no dedicated analysis of these injuries with which to better inform injury prevention strategies."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "All athlete exposures (AEs) and shoulder injuries reported to the National Collegiate Athletic Association (NCAA) Injury Surveillance System for intercollegiate men's lacrosse athletes from 2004-2005 through 2008-2009 were collected. Type of injury was documented and the injury incidence per 1000 AEs was calculated. Event type, injury mechanism, specific injury, outcome, and time lost were recorded. Statistical analysis was performed using 95% CIs, calculated based on a normal approximation to Poisson distribution."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were a total of 124 observed shoulder injuries during 229,591 monitored AEs. With weights, this estimates 1707 shoulder injuries over 2,873,973 AEs, for an incidence of 0.59 per 1000 AEs (95% CI, 0.56-0.62). The incidence of shoulder injury during competition was 1.89 per 1000 AEs (95% CI, 1.76-2.02), compared with 0.35 per 1000 AEs (95% CI, 0.33-0.38) during practice. Acromioclavicular joint injuries were most common (0.29 per 1000 AEs; 95% CI, 0.27-0.31). Labral injuries and instability events were also frequent (0.11 per 1000 AEs; 95% CI, 0.10-0.13). Player-to-player contact caused 57% of all shoulder injuries, with 25% due to contact with the playing surface. The average time lost was 11.0 days, with 41.9% of all shoulder injuries requiring ≥10 days. Clavicle fractures and posterior shoulder dislocation were particularly severe, with no athletes returning to play during the same season."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Shoulder injuries are common in NCAA men's lacrosse and are an important source of lost playing time. Acromioclavicular injuries were the most frequent injury in this series, but labral and instability injuries were also common. In this increasingly popular contact sport, an understanding of the epidemiology and mechanism of shoulder injuries may be used to improve protective equipment and develop injury prevention."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

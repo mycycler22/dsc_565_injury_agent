@@ -1,0 +1,32 @@
+{
+  "pmid": "23657164",
+  "title": "Development of an injury risk function for first metatarsophalangeal joint sprains.",
+  "year": "2013",
+  "journal": "Medicine and science in sports and exercise",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Sprains of the first metatarsophalangeal (1MTP) joint, also known as turf toe, are debilitating athletic injuries. Because 85% of 1MTP sprains result from excessive hallux dorsiflexion, interventions that limit motion to subinjurious levels would greatly benefit athletes. Hallux dorsiflexion range of motion (hdROM) cannot be overly constrained, however, lest athletic performance be compromised. Therefore, the tolerance of the 1MTP joint to excessive dorsiflexion injury must be quantified before appropriate hdROM limitations may be developed. The purpose of this study was to develop a quantitative injury risk function for 1MTP sprains on the basis of hallux dorsiflexion angle."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty cadaveric limbs were tested to both subinjurious and injurious levels of hallux dorsiflexion. Motion capture techniques were used to track six-degree-of-freedom motion of the first proximal phalanx, first metatarsal, and calcaneus. Specimens were examined by physicians posttest to diagnose injury occurrence and ensure clinical relevance of the injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A two-parameter Weibull hazard function analysis reveals that a 50% risk of injury occurs at 78° of dorsiflexion from anatomical zero."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Methods presented here drove cadaveric 1MTP joints to various degrees of dorsiflexion, resulting in both noninjurious and injurious trials, which were formed into an injury risk function."
+    }
+  ],
+  "injury_query": "turf toe",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

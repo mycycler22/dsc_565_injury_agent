@@ -1,0 +1,35 @@
+{
+  "pmid": "39826754",
+  "title": "Assessment of chronic ankle instability: are functional scores relevant enough?",
+  "year": "2025",
+  "journal": "Orthopaedics & traumatology, surgery & research : OTSR",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "A poorly treated acute ankle sprain can rapidly progress to chronic instability, with varying degrees of disability secondary to weakness of the ankle stabilizers. The aim of our study was to evaluate functional scores and physical tests in the assessment of eversion and proprioception deficits after non-surgical treatment of chronic ankle instability. Our hypothesis was that these functional scores and physical tests are suitable and sufficient for assessing the functional aspect of an unstable ankle."
+    },
+    {
+      "label": "MATERIAL AND METHOD",
+      "text": "This was a prospective, single-center study of patients managed for chronic ankle instability between November 2020 and November 2021. An ankle assessment was performed using two functional scores, the Foot Ankle Ability Measurement (FAAM) and the Ankle Ligament Reconstruction - Return to Sport after Injury (ALR-RSI), as well as two validated physical tests (Y-Balance Test and Side Hope Test). An objective (quantified) assessment of stabilizer muscle strength and proprioception was carried out using a connected device (Myolux™ Medik e-volution)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At last recoil, twenty-eight unstable ankles were included. Only the ALR-RSI score correlated strongly with Myolux™ assessment of eversion strength (Rho ()ρ = 0.7; p < 0.001), and proprioception (Rho ()ρ = 0.8; p < 0.001). FAAM and physical tests were not or only very moderately correlated with Myolux™ assessments."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "In the absence of the Myolux™ test, the ALR-RSI score seemed the most suitable functional assessment of an unstable ankle in contrast to the FAAM score and the physical examinations Y-Balance Test and Side Hope Test."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV; prospective study."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

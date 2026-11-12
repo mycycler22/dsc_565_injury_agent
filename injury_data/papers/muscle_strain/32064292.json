@@ -1,0 +1,39 @@
+{
+  "pmid": "32064292",
+  "title": "Return to Sport After Criteria-Based Rehabilitation of Acute Adductor Injuries in Male Athletes: A Prospective Cohort Study.",
+  "year": "2020",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Despite being one of the most common sports injuries, there are no criteria-based rehabilitation programs published for acute adductor injuries."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate return-to-sport (RTS) outcomes and reinjuries after criteria-based rehabilitation for athletes with acute adductor injuries."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Male adult athletes with an acute adductor injury underwent a supervised, standardized criteria-based exercise rehabilitation program. Magnetic resonance imaging (MRI) was used to grade the injury extent from 0 (negative finding) to 3 (complete tear/avulsion). There were 3 milestones used to evaluate the RTS continuum: (1) clinically pain-free, (2) completion of controlled sports training, and (3) return to full team training. Subsequent injuries were registered within the first year."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We included 81 athletes with an acute adductor injury (MRI grade 0: n = 14; grade 1: n = 20; grade 2: n = 30; grade 3: n = 17). Of these, 61 (75%) athletes achieved RTS milestone 1, 50 (62%) achieved RTS milestone 2, and 75 (93%) achieved RTS milestone 3. There were no statistical differences in the RTS duration between MRI grade 0, 1, and 2 at any RTS milestone; thus, these were grouped together as grade 0-2. The median time (interquartile range [IQR]) for athletes with grade 0-2 injuries to become clinically pain-free was 13 days (IQR, 11-21 days), to complete controlled sports training was 17 days (IQR, 15-27 days), and to return to full team training was 18 days (IQR, 14-27 days). For athletes with a grade 3 injury, median times were 55 days (IQR, 31-75 days), 68 days (IQR, 51-84 days), and 78 days (IQR, 68-98 days), respectively. The overall 1-year reinjury rate was 8%. Athletes who achieved RTS milestone 1 had a statistically significantly lower reinjury rate than athletes who did not (5% vs 21%, respectively; ϕ = -0.233; <i>P</i> = .048). Athletes who achieved RTS milestone 2 had a nonstatistically significantly lower reinjury rate than athletes who did not (6% vs 13%, respectively; ϕ = -0.107; <i>P</i> = .366)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "We analyzed the results of a criteria-based rehabilitation protocol for athletes with acute adductor injuries. Athletes with an MRI grade 0-2 adductor injury were clinically pain-free after approximately 2 weeks and returned to full team training after approximately 3 weeks. Most athletes with an MRI grade 3 adductor injury were pain-free and returned to full team training within 3 months. Meeting the clinically pain-free criteria resulted in fewer reinjuries compared with not meeting the criteria."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

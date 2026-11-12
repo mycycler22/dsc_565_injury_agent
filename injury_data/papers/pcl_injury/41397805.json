@@ -1,0 +1,33 @@
+{
+  "pmid": "41397805",
+  "title": "[Research progress on enhanced recovery after posterior cruciate ligament reconstruction].",
+  "year": "2025",
+  "journal": "Zhongguo xiu fu chong jian wai ke za zhi = Zhongguo xiufu chongjian waike zazhi = Chinese journal of reparative and reconstructive surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review",
+    "English Abstract"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To summarize research progress on enhanced recovery after posterior cruciate ligament (PCL) reconstruction, clarify the core contradictions, effective intervention methods, and evaluation shortcomings in current clinical practice, and provide theoretical support for optimizing clinical rehabilitation strategies."
+    },
+    {
+      "label": "METHODS",
+      "text": "Relevant domestic and international literature in recent years was systematically searched. The key technologies and challenges for enhanced recovery after PCL reconstruction were analyzed from three aspects: the core issues of enhanced recovery after PCL reconstruction, treatment strategies, and the post-reconstruction effectiveness evaluation system."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Enhanced recovery after PCL reconstruction mainly faces two core problems. First, there is a balance dilemma between graft tendon protection and knee joint function recovery: the tensile capacity of the graft tendon is weak in the early postoperative period, so excessive weight-bearing easily leads to relaxation, while overly conservative immobilization causes muscle atrophy and joint adhesion. Second, the return-to-sport rate is significantly affected by injury type and treatment method: patients with combined multiple ligament or meniscus injuries have a much lower return-to-sport rate than those with isolated PCL injury, and the risk of return-to-sport failure is higher. Current research mainly promotes rehabilitation from two aspects: physical therapy and surgical technology. Physical therapy runs through the perioperative period: preoperatively, muscle strength training, swelling control, and maintenance of joint range of motion are used to optimize surgical conditions; postoperatively, phased intervention is implemented. Surgical technology focuses on minimally invasive and anatomical approaches: arthroscopic surgery reduces injury, double-bundle reconstruction and internal tension-relief technology improve stability, and modified tunnel positioning and special surgical methods avoid the risk of \"Killer Turn\". Postoperative functional evaluation adopts multi-dimensional indicators: subjective evaluation relies on scales such as Lysholm and International Knee Documentation Committee (IKDC); objective evaluation assesses stability through Telos stress test and posterior drawer test; imaging evaluation takes MRI as the core; psychological evaluation is assisted by the Tampa scale of kinesiophobia-11 (TSK-11). However, there are obvious shortcomings, such as the lack of PCL-specific evaluation tools."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Enhanced recovery after PCL reconstruction requires the integration of precise surgery, individualized rehabilitation, and comprehensive subjective and objective evaluation. In the future, biomaterials and digital technologies should be integrated to optimize the full-cycle management of PCL reconstruction, thereby improving functional recovery and the effect of return to sports."
+    }
+  ],
+  "injury_query": "PCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

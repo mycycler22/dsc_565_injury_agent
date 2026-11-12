@@ -1,0 +1,39 @@
+{
+  "pmid": "41918720",
+  "title": "Epidemiology and Incidence of Surgically Treated ACL Injuries in Division I Collegiate Athletes.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) injuries are common in collegiate athletes. This study aimed to quantify the incidence of ACL injuries among athletes across all sports in the Pacific-12 Conference (Pac-12) from 2016 to 2021."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "To evaluate the epidemiology of ACL injuries in a major Division I collegiate athletic conference and assess the influence of sex, sport, playing surface, and time of season on ACL injury. It was hypothesized that athletes with clinically significant ACL injuries would be treated surgically."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data were analyzed from the Pac-12 Health Analytics Program sports injury registry. All athletes competing at the Division I level in the Pac-12 conference who had sustained an isolated ACL tear and undergone reconstruction between 2016 and 2021 were included in this study. Athletes with non-ACL-medial collateral ligament multiligamentous injuries, those who had a reported ACL injury but no surgery, and those with incomplete data were excluded. Variables included sex (sex assigned at birth), sport, playing surface, event occurrence, year of injury, season of injury, and mechanism of injury, and were analyzed. Incidence rates (IR) were calculated based on injuries recorded compared with the number of athletes per sport per year. The incidence rate ratio (IRR) was then computed comparing female to male incidence rates in sports for which this was applicable."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 313 ACL injuries in 286 athletes (148 women, 165 men) met the inclusion criteria for this study. The overall mean IR of ACL injuries per athlete-year was 1.1%. The highest IR was found in female soccer players (5%). Among male athletes, the highest IR was in football at 1.9%. Statistically significant differences in IRR were identified in gymnastics (3.1), softball/baseball (6), and soccer (2.9). Most ACL injuries occurred in-season via a noncontact mechanism."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In this cohort of athletes, most ACL injuries occurred in-season via a noncontact mechanism, and the overall mean IR of ACL injuries per athlete-year was 1.1%. Among male athletes, football had the highest incidence of ACL injury. Female athletes were at significantly higher risk of ACL injury than their male counterparts in gymnastics, softball, and soccer, with soccer having the highest incidence."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

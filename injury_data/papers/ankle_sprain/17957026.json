@@ -1,0 +1,32 @@
+{
+  "pmid": "17957026",
+  "title": "An uncommon ankle sprain.",
+  "year": "2007",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Ankle sprain is the most frequently occurring acute injury in tennis, accounting for 20-25% of all injuries. In the current paper, we assess the cause of ankle sprain and suggest possibilities to be considered during diagnosis."
+    },
+    {
+      "label": "METHODS",
+      "text": "We assessed a professional tennis player with a partial tear of the long peroneal tendon after an ankle sprain by physical exam, X-ray and MRI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Conservative treatment by means of soft cast and propriocepsis training led to full recovery."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Peroneal tendon disorders must be part of the differential diagnosis after ankle sprain in the professional athlete."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,57 @@
+{
+  "pmid": "35996322",
+  "title": "Therapeutic Exercises and Modalities in Athletes With Acute Hamstring Injuries: A Systematic Review and Meta-analysis.",
+  "year": "2023",
+  "journal": "Sports health",
+  "pub_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Hamstring strain is a common injury to the lower limbs. Early intervention in the acute phase aids with restoring hamstring function and prevents secondary related injury."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To systematically review and summarize the effectiveness of exercise-based interventions combined with physical modalities currently used in athletes with acute hamstring injuries."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Five databases (EMBASE, Medline, Cochrane Library, SPORTDiscus, and Web of Science) were searched from inception to July 2021."
+    },
+    {
+      "label": "STUDY SELECTION",
+      "text": "A total of 4569 studies were screened. Nine randomized controlled trials (RCTs) on the effect of therapeutic exercise programs with and without physical agents in athletes with acute hamstring injuries were identified for meta-analysis."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 1."
+    },
+    {
+      "label": "DATA EXTRACTION",
+      "text": "The studies were screened, and the evidence was rated using the PEDro scale. Nine RCTs with PEDro scores ranging between 3 and 9 were included and extracted pain intensity, time to return to play (TTRTP), and reinjury rate in the study."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Loading exercises during extensive lengthening were shown to facilitate TTRTP at <i>P</i> < 0.0001 but did not prevent recurrence (<i>P</i> = 0.17), whereas strengthening with trunk stabilization and agility exercise did not reduce the duration of injury recurrence (<i>P</i> = 0.16), but significantly reduced the reinjury rate (<i>P</i> < 0.007) at a 12-month follow-up. The results of the stretching programs and solely physical modalities could not be pooled in the statistical analysis."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The meta-analysis indicated that a loading program helps athletes to return to sports on a timely basis. Although strengthening with trunk stabilization and agility exercise cannot significantly reduce recovery time, the program can prevent reinjury. The clinical effects of stretching programs and pure physical modality interventions could not be concluded in this study due to limited evidence."
+    },
+    {
+      "label": "PROSPERO REGISTRATION",
+      "text": "CRD42020183035."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

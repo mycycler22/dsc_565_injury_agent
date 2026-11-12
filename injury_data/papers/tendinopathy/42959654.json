@@ -1,0 +1,20 @@
+{
+  "pmid": "42959654",
+  "title": "Tendinopathy: Types, Epidemiology, Molecular Mechanisms, and Future Precision-Oriented Therapeutic Strategies.",
+  "year": "2026",
+  "journal": "MedComm",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Tendinopathy represents a heterogeneous spectrum of tendon disorders characterized by persistent pain, impaired function, and progressive disruption of tissue homeostasis. Rather than a single degenerative entity, tendinopathy reflects the interaction between mechanical adaptation failure, immune dysregulation, extracellular matrix remodeling, and systemic metabolic influences. However, its pathophysiological mechanisms remain incompletely understood. Tendinopathy can affect multiple anatomical sites, such as the rotator cuff, Achilles tendon, and patellar tendon, and has a high prevalence in both the general population and athletes. Despite decades of research, there is currently a lack of targeted therapies capable of effectively reversing the pathological process, and clinical management is primarily limited to empirical symptomatic treatment. This review systematically synthesizes the epidemiology and risk factors of tendinopathy and proposes a \"multidimensional tendinopathy remodeling network\" model encompassing mechanotransduction, inflammatory cascades, pathological angiogenesis, and matrix turnover. Furthermore, we discuss emerging approaches for molecular stratification through multimodal imaging and biomarkers, and evaluate precision-oriented therapeutic strategies, including mechanomodulation, immunomodulation, regenerative medicine, and nano delivery systems. This framework provides a conceptual foundation for understanding the heterogeneity of tendinopathies and facilitates a shift from symptom-oriented treatment to mechanism-oriented approaches, potentially leading to precision treatment strategies. At the same time, it highlights the challenges in current translational research and points to future research directions for personalized tendon repair strategies."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

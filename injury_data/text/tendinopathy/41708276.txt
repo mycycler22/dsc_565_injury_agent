@@ -1,0 +1,2 @@
+Title: Effects of percutaneous platelet-rich plasma injection on return-to-play after acute hamstring muscle injury: a systematic review and meta-analysis. | Type: Journal Article, Systematic Review, Meta-Analysis | PMID: 41708276 | Year: 2026 | Injury query: tendinopathy
+[RESULTS] PRP reduced RTP time versus control (mean difference -8.6 days; 21.4 vs 30.0 days; 95% CI -3.04 to -0.03; p=0.045), though heterogeneity was high (I²=94.1%).

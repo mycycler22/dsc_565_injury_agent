@@ -1,0 +1,44 @@
+{
+  "pmid": "21705648",
+  "title": "Arthroscopic management of chronic patellar tendinopathy.",
+  "year": "2011",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "In patients with patellar tendinopathy in whom nonoperative management is unsuccessful, surgery is an option to return to high levels of physical activity. Although open surgery is traditionally advocated, an arthroscopic approach may be safe and effective."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This study was undertaken to analyze medium- and long-term outcome of 64 patients undergoing arthroscopic surgery for the management of patellar tendinopathy after failing nonoperative treatment."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 64 patients (73 knees), 27 of whom were professional athletes, with patellar tendinopathy refractory to nonoperative management underwent arthroscopic debridement of the adipose tissue of the Hoffa's body posterior to the patellar tendon, debridement of abnormal patellar tendon, and excision of the lower pole of the patella. Preoperative and postoperative evaluation was undertaken using the International Knee Documentation Committee (IKDC), Lysholm knee scale, and Victorian Institute of Sport Assessment-Patella (VISA-P) scores for all patients at 1 and 3 years. No patients were lost to follow-up. Forty-three and 29 patients were similarly assessed at 5 and 10 years, respectively, after surgery. Return to sports and rehabilitation was also assessed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The IKDC, Lysholm, and VISA-P scores all significantly improved at 1 and 3 years' follow-up. The average preoperative IKDC score of 51.6 improved to 86.4 at both the 1- and 3-year stage. The average preoperative Lysholm score of 52.3 improved to 94.7 at 1-year follow-up and was 95.5 at 3-year follow-up. The average preoperative VISA-P score of 35.3 improved to 69.8 at the 1-year stage and was 70.7 at the 3-year follow-up. These scores remained significantly better for the patients assessed at 5 and 10 years' follow-up. There were no postoperative complications. Nineteen of the 27 professional athletes returned to sports at the same level. Seven patients developed pain after sports within 3 years after the operation, a failure rate of 7 of 73 knees (9.6%). All patients were able to return to sports by 3 months."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic surgery for patients with patellar tendinopathy, refractory to nonoperative management, appears to provide significant improvements in symptoms and function, with improvements maintained for at least 3 years. These results suggest that some patients may not be able to achieve their presymptom sporting level; or if they do, they may participate in sports with some degree of residual symptoms. Limited data show that these improvements are maintained for up to 10 years. Early return to sports may also be achieved."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "All patients were able to return to sports by 3 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "37501089",
+  "title": "Arthroscopic Bankart repair versus conservative treatment for first-time traumatic anterior shoulder dislocation: a systematic review and meta-analysis.",
+  "year": "2023",
+  "journal": "European journal of medical research",
+  "pub_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder is vulnerable to dislocation owing to its anatomical structure and the increasing popularity of contact sports in young population. The management of first-time anterior shoulder dislocation in this group is still controversial and the prognosis are varied. This review aimed to compare the results of arthroscopic Bankart repair and conservative management for first-time traumatic anterior shoulder dislocation in young active patients."
+    },
+    {
+      "label": "METHODS",
+      "text": "Databases were searched till November 2021, and comparative studies between arthroscopic Bankart repair and conservative management for first-time traumatic anterior shoulder dislocation in young population were selected. Methodological quality of the studies was assessed according to the Cochrane Back Review Group 12-item scale. Outcome measures included recurrence of instability, return to play, subsequent instability surgery, and shoulder functional scores."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The search returned 12 eligible trials with 786 participants. All the trials were of prospective design. After arthroscopic Bankart repair, patients experienced significantly less re-dislocation (7.5% vs. 53.0%, p < 0.00001, I<sup>2</sup> = 0%), subluxation (3.1% vs. 24.2%, p < 0.0001, I<sup>2</sup> = 0%), positive apprehension test (7.3% vs. 25.8%, p = 0.002, I<sup>2</sup> = 11%), and subsequent surgical treatment for instability (5.6% vs. 37.8%, p < 0.00001, I<sup>2</sup> = 0%) when compared with those underwent conservative management. And more patients returned to play (83.5% vs. 66.0%, p = 0.03, I<sup>2</sup> = 81%) after arthroscopic Bankart repair. Outcomes regarding the functional scores did not reach a significant difference between the two cohorts."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Arthroscopic Bankart repair showed superiority over conservative management in terms of recurrence, return to play, and subsequent instability surgery during the follow-up in young active patients that encountered first episode of dislocation. As long-term prognosis is comparable, an immediate surgical stabilization might not be suitable for everyone."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

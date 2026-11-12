@@ -1,0 +1,43 @@
+{
+  "pmid": "28759729",
+  "title": "The Effects of Injury Prevention Programs on the Biomechanics of Landing Tasks: A Systematic Review With Meta-analysis.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) tear is a common injury in sports and often occurs during landing from a jump."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To synthesize the evidence on the effects of injury prevention programs (IPPs) on landing biomechanics as they relate to the ligament, quadriceps, trunk, and leg dominance theories associated with ACL injury risk."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "Six electronic databases were searched for studies that investigated the effect of IPPs on landing task biomechanics. Prospective studies that reported landing biomechanics at baseline and post-IPP were included. Results from trunk, hip, and knee kinematics and kinetics related to the ACL injury theories were extracted, and meta-analyses were performed when possible."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The criteria were met by 28 studies with a total of 466 participants. Most studies evaluated young females, bilateral landing tasks, and recreational athletes, while most variables were related to the ligament and quadriceps dominance theories. An important predictor of ACL injury, peak knee abduction moment, decreased ( P = .01) after the IPPs while other variables related to the ligament dominance theory did not change. Regarding the quadriceps dominance theory, after the IPPs, angles of hip flexion at initial contact ( P = .009), peak hip flexion ( P = .002), and peak knee flexion ( P = .007) increased, while knee flexion at initial contact did not change ( P = .18). Moreover, peak knee flexion moment decreased ( P = .005) and peak vertical ground-reaction force did not change ( P = .10)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The exercises used in IPPs might have the potential to improve landing task biomechanics related to the quadriceps dominance theory, especially increasing peak knee and hip flexion angles. Importantly, peak knee abduction moment decreased, which indicates that IPPs influence a desired movement strategy to help athletes overcome dangerous ligament dominance loads arising from lack of frontal plane control during dynamic tasks. The lack of findings for some biomechanical variables suggests that future IPPs may be enhanced by targeting participants' baseline profile deficits, highlighting the need to deliver an individualized and task-specific IPP."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

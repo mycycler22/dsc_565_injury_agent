@@ -1,0 +1,40 @@
+{
+  "pmid": "42318849",
+  "title": "Isolated First Rib Fractures in Adolescent Athletes: An Epidemiologic Review.",
+  "year": "2026",
+  "journal": "Journal of pediatric orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "First rib fractures are infrequently encountered injuries, especially in the young athlete. The incidence and natural history of first rib fractures sustained during sport are poorly elucidated in the literature, contributing to the variability of treatment of this injury. Thus, the purpose of this study was to characterize first rib fractures and their treatment outcomes, specifically among a case series of young athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of patient charts identified through electronic health record diagnosis code query from 2 tertiary children's hospitals was performed. Inclusion criteria were designated as patients under age 18 with injuries sustained during athletic participation. Patient characteristics, information related to injury, management, and outcomes were collected."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In total, 13 children met the criteria. Mean age at presentation was 15.4±1.2 years old, 69.2% (9/13) were female. Eight injuries were traumatic in nature, and 5 were stress fractures. Mean time to presentation was 128 days (3 to 450 d) for patients without a history of trauma, compared with 21.9 days (0 to 96 d) for those with a history of traumatic injury, P =0.127. Over half (7/13) were prescribed physical therapy, but only 4 of those patients attended physical therapy, with an average of 2.6±4.1 sessions attended. While 5 patients (38.5%) presented with an initial strength deficit related to injury, all 5 patients regained full strength by the final follow-up visit. All 13 patients experienced a full symptom-free return to activities."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "First rib fractures in adolescent athletes vary in clinical presentation, though outcomes appear largely favorable. While physical therapy can be an adjunct of rehabilitation for select patients, successful recovery may still be achieved with conservative measures not including physical therapy. Additional research may be warranted to further delineate factors contributing to the incidence of and recovery from first rib fractures in the young athlete, especially with the wide range of return to sport noted; but prescribed time off from sport through activity modification appears to be safe and effective management."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV-case series."
+    }
+  ],
+  "injury_query": "rib fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Mean time to presentation was 128 days (3 to 450 d) for patients without a history of trauma, compared with 21.9 days (0 to 96 d) for those with a history of traumatic injury, P =0.127."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

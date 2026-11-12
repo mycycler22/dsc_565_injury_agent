@@ -1,0 +1,25 @@
+{
+  "pmid": "20959696",
+  "title": "Management of shoulder instability in in-season athletes.",
+  "year": "2010",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Although shoulder instability is common in young athletes, there are limited prospective data to guide treatment for competitive athletes who sustain a dislocation mid-season. The management of athletes during their competitive season requires an understanding of the natural history of shoulder instability, the specific needs of the injured athlete (eg, specific sport, player position), and the duration of treatment. Rehabilitation can enable an athlete with a shoulder dislocation to return to play within 3 weeks of injury. Bracing is an option, but it can result in restricted glenohumeral motion and thereby possibly affect performance. Surgical stabilization should be considered for the athlete with recurrent instability or inability to perform; however, this frequently results in the termination of the player's season. In this article, we review the available literature to help guide physicians treating athletes with shoulder instability."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Rehabilitation can enable an athlete with a shoulder dislocation to return to play within 3 weeks of injury."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

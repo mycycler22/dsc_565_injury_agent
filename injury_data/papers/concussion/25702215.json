@@ -1,0 +1,20 @@
+{
+  "pmid": "25702215",
+  "title": "Acute sports-related traumatic brain injury and repetitive concussion.",
+  "year": "2015",
+  "journal": "Handbook of clinical neurology",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussions are described as functional, not structural injuries, and therefore cannot be easily detected through standard diagnostic imaging. The vast differences between individual athletes makes identifying and evaluating sport-related concussion one of the most complex and perplexing injuries faced by medical personnel. The literature, as well as most consensus statements, supports the use of a multifaceted approach to concussion evaluation on the sideline of the athletic field. Using a standardized clinical examination that is supported by objective measures of concussion-related symptoms, cognitive function, and balance provides clinicians with the ability to track recovery in an objective manner. When used in combination, these tests allow for more informed diagnosis and treatment plan, which should involve a graduated return to play progression. Establishing a comprehensive emergency action plan that can guide the on-field management of a more serious and potentially catastrophic brain injury is also essential. This review will address these management issues, as well as the recent concerns about the risk of long-term neurologic conditions believed to be associated with repetitive concussion."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

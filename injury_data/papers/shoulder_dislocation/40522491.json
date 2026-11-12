@@ -1,0 +1,32 @@
+{
+  "pmid": "40522491",
+  "title": "Dynamic anterior stabilization for recurrent anterior shoulder instability improves postoperative patient-reported outcomes without restricting shoulder range of motion: a meta-analysis.",
+  "year": "2025",
+  "journal": "International orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Dynamic anterior stabilization (DAS) is a novel soft-tissue procedure for treating anterior shoulder instability in selected cases. The purpose of the present meta-analysis is to provide the up-to-date evidence on DAS's outcomes, safety and characterize study designs to improve future studies and accelerate technical advancements."
+    },
+    {
+      "label": "METHODS",
+      "text": "A PRISMA guided meta-analysis was performed. Inclusion criteria were human studies, comparative or non-comparative in which DAS was performed as an indication for anterior shoulder instability. Four databases were searched PubMed (via MEDLINE), EMBASE, Web of Science, and Science Direct. ROBINS-I was employed for risk of bias analysis. A random-effects meta-analysis was performed using mean difference (MD) as effect size estimator. Heterogeneity was reported using the I<sup>2</sup> statistic. Dichotomous variables were counted and reported as % out of total sample size for each study."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Five studies met the inclusion criteria. A total of 137 patients were available for analysis with a mean age of 27.8 ± 9 years and 108 patients were males. Mean follow-up duration was 37 ± 11 months. Postoperative ASES score showed an improvement of MD = -15.09 (95% CI: -22.35 to -7.38), p < 0.01, compared to the preoperative period. The ROWE score showed a similar improvement, MD = -58.38 (95% CI: -69.88 to -46.89), p < 0.01. Postoperative range of motion (ROM) was not significantly influenced. Active anterior elevation had a MD = -6.07° (95% CI: -15.04 to 2.91), p = 0.19, active external rotation had a MD = 3.7° (95% CI: -7.71 to 15.11), p = 0.53, and active internal rotation, MD = 0.16° (95% CI: -1.4 to 1.73), p = 0.84. Return to play ranged from 80 to 100% while return to competitive sports, reported by a single study, was 33%. The overall complication rate was 8.6%. The overall risk of bias was \"serious\" or \"critical\" for all included studies."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "DAS has been shown to improve postoperative PROMs, does not restrict ROM compared to the preoperative period and has an overall complication rate of 8.6%."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

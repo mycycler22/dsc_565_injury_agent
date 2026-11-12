@@ -1,0 +1,39 @@
+{
+  "pmid": "35571973",
+  "title": "Return to Sport for Professional and Subelite Ice Hockey Players After Arthroscopic Surgery for Femoroacetabular Impingement Syndrome.",
+  "year": "2022",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Femoroacetabular impingement syndrome (FAIS) is a common cause of hip pain, which can prevent ice hockey players from sports participation. Hip arthroscopy is often performed to relieve pain and enable the player to return to sport (RTS) and return to performance (RTP)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the RTS and RTP rates for ice hockey players at the professional and subelite levels after hip arthroscopy for FAIS."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "High-level ice hockey players who underwent hip arthroscopy for FAIS between 2011 and 2019 were identified using a local hip arthroscopy registry. The player's level was confirmed with ice hockey-specific web pages and was stratified as subelite or professional. Data on the players' careers were extracted from these web pages. Player position was divided into goalkeepers, defensemen, and forwards. Data on participation in games included the season before onset of symptoms, the season before surgery, and the first and second seasons after surgery. RTS was defined as returning to ice hockey after surgery, and RTP was considered as returning to the same league at a comparable level to before symptoms."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 80 ice hockey players were included. Comparing presymptom performance with the first season after surgery, the RTS rate was 72%, of which 94% of the players returned to the same or higher level of play. Comparing the presurgery season with the first season after surgery, the RTS rate was 78%. At the second season after surgery, 64% of players still played ice hockey, with a significantly higher return rate among professional players compared with subelite players (96% vs 69%; <i>P</i> = .014). Overall, 85% goalkeepers, 74% forwards, and 60% defensemen returned to sport. Only 28% played at least the same number of games during the first season after surgery as they did during the presymptom season."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "High-level ice hockey players who underwent hip arthroscopy for FAIS had a high RTS rate, in which the majority returned to the same league. However, only 28% played the same number of games the first season after surgery as they did at the presymptom level. Professional ice hockey players returned more frequently than players on the subelite level."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

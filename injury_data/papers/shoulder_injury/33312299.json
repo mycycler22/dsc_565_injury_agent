@@ -1,0 +1,19 @@
+{
+  "pmid": "33312299",
+  "title": "Shoulder Muscle Imbalance as a Risk for Shoulder Injury in Elite Adolescent Swimmers: A Prospective Study.",
+  "year": "2020",
+  "journal": "Journal of human kinetics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Muscle strength imbalances between the internal and external rotators of the shoulder are frequent in swimmers, but their role in shoulder injury remains unknown. We aimed to evaluate the association of shoulder rotator strength and injury in elite adolescent swimmers. Eighteen adolescent swimmers performed preseason isokinetic tests of the internal and external rotator muscles in concentric (con) and eccentric (ecc) modes. Conventional (conER:conIR and eccER:eccIR) and functional ratios (eccER:conIR and eccIR:conER) were calculated. Thirteen swimmers completed a weekly questionnaire about swimming habits and shoulder injuries throughout the season. Preseason testing showed a significant negative association between the functional eccER:conIR ratio and years of practice (p < 0.05). Over the season, 46% of athletes experienced at least one shoulder injury. At the end of the season, peak torques increased for both internal and external rotator muscles strength, but only concentrically, resulting in a decrease in the eccER:conIR functional ratio (p < 0.05). The receiver operating characteristic curve analysis highlighted good predictive power for the preseason functional eccER:conIR ratio, as values below 0.68 were associated with a 4.5-fold (95% CI 1.33-15.28, p < 0.05) increased risk of shoulder injuries during the season."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

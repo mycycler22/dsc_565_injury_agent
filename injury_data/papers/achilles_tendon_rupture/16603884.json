@@ -1,0 +1,47 @@
+{
+  "pmid": "16603884",
+  "title": "Health of master track and field athletes: a 16-year follow-up study.",
+  "year": "2006",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To study different aspects of health in master athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "A 16-year follow-up study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Finland."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "All male Finnish master athletes (N=102, mean age 58.3 years) who in 1985 participated in track and field athletic World Veterans Games. Controls were men, who as young adults had been classified as completely healthy (N=777, mean age 55.0 years)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASUREMENTS",
+      "text": "Health questionnaires at baseline (in 1985) and at 10-year and 16-year follow-ups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During follow-up, the master athletes self-rated their health as better (P<0.001) and they coped better with leisure-time daily activities (P=0.024) than controls. The adjusted risk for shoulder region (odds ratio 2.84, P<0.03) and Achilles tendon rupture (14.87, P<0.01) after the age of 45 years was higher in the athletes than in the controls. At the 16-year follow-up, none of the athletes, but 9% of controls reported having diabetes mellitus. The adjusted odds ratio of having at least 1 metabolic syndrome disease was 0.43 (P=0.01) in the athletes compared with the controls. At follow-up among subjects without reported coronary heart disease in 1985, the age-adjusted hazard ratio (HR) in the athletes compared with the controls of death from natural-cause was 0.41 (P<0.01)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Master athletes had a lower risk of chronic diseases than the controls. It remains to be determined how far this advantage is due to initial selection and/or incomplete adjustment for covariates."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "There seems to be no such health risks as to why those who have good training background and feel healthy should avoid participating in master athletics."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

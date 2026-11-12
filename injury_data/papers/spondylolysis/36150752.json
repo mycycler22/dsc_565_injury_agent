@@ -1,0 +1,45 @@
+{
+  "pmid": "36150752",
+  "title": "Incidence, prevalence and risk factors for low back pain in adolescent athletes: a systematic review and meta-analysis.",
+  "year": "2022",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To investigate the incidence, prevalence, risk factors and morphological presentations of low back pain (LBP) in adolescent athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Systematic review with meta-analysis."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "Medline, Embase, CINAHL via EBSCO, Web of Science, Scopus."
+    },
+    {
+      "label": "ELIGIBILITY CRITERIA FOR SELECTING STUDIES",
+      "text": "Studies evaluating the incidence and/or prevalence of LBP in adolescent athletes across all sports."
+    },
+    {
+      "label": "RESULTS",
+      "text": "There were 80 studies included. The pooled incidence estimate of LBP in adolescent athletes was 11% (95% CI 8% to 13%, I<sup>2</sup>=0%) for 2 years, 36.0% (95% CI 4% to 68%, I<sup>2</sup>=99.3%) for 12 months and 14% (95% CI 7% to 22%, I<sup>2</sup>=76%) for 6 months incidence estimates. The pooled prevalence estimate of LBP in adolescent athletes was 42% (95% CI 29% to 55%, I<sup>2</sup>=96.6%) for last 12 months, 46% (95% CI 41.0% to 52%, I<sup>2</sup>=56%) for last 3 months and 16% (95% CI 9% to 23%, I<sup>2</sup>=98.3%) for point prevalence. Potential risk factors were sport participation, sport volume/intensity, concurrent lower extremity pain, overweight/high body mass index, older adolescent age, female sex and family history of LBP. The most common morphology reported was spondylolysis. Methodological quality was deemed high in 73% of cross-sectional studies and in 30% of cohort studies. Common reasons for downgrading at quality assessment were use of non-validated survey instruments and imprecision or absence of LBP definition."
+    },
+    {
+      "label": "SUMMARY/CONCLUSION",
+      "text": "LBP is common among adolescent athletes, although incidence and prevalence vary considerably due to differences in study methodology, definitions of LBP and data collection."
+    },
+    {
+      "label": "PROSPERO REGISTRATION NUMBER",
+      "text": "CRD42020157206."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

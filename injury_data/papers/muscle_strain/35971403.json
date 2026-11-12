@@ -1,0 +1,20 @@
+{
+  "pmid": "35971403",
+  "title": "Application of Image Processing Technology in Aerobics Injury Diagnosis.",
+  "year": "2022",
+  "journal": "Emergency medicine international",
+  "pub_types": [
+    "Journal Article",
+    "Retracted Publication"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Aerobics sports injury diagnosis is a rapid diagnosis of sports injuries caused by athletes in the process of aerobics training or competition. The purpose of this paper is to use image processing technology to study and analyze the diagnosis of aerobics sports injury, so that the diagnosis results can be obtained more quickly and effectively. This paper first introduces the image processing technology and then analyzes the sports injury in colleges and universities. Firstly, the algorithm formula of image processing technology is given, and then the algorithm is introduced into the dynamic analysis of aerobics injury diagnosis. The two are compared through example analysis. The experimental results show that joint strain, sprains, and muscle strain are the main types of sports injury of College Aerobics students, reaching 59, 50, and 31 times, respectively. When using image processing technology in the diagnosis of sports injury, the diagnosis results can be obtained quickly and effectively."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "7810798",
+  "title": "Alternative management of midthird scaphoid fractures in the athlete.",
+  "year": "1994",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The purpose of this retrospective study was to evaluate the effectiveness of two scaphoid fracture treatments in an athletic population. All patients were in-season athletes with a stable, midthird scaphoid fracture incurred in preseason training or early in the season, or athletes who had a consecutive season sport. Group I athletes (N = 18) were treated with immediate open reduction and internal fixation with the Herbert screw. Group II athletes (N = 12) were treated nonoperatively with a playing cast. Return to sports averaged 8.0 weeks for Group I and 4.3 weeks for Group II athletes. Six athletes in Group II were able to return to play immediately with the playing cast. Clinical and radiographic healing averaged 10.8 and 11.2 weeks for Group I and 13.7 and 14.2 weeks for Group II athletes, respectively. In-season athletes with stable midthird scaphoid fractures can safely achieve early return to sport with a playing cast or rigid internal fixation with a Herbert screw. These methods of treatment yield comparable union rates with other series and it appears the athletes are not at increased risk for union failure or nonunion secondary to participation in sports."
+    }
+  ],
+  "injury_query": "scaphoid fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Return to sports averaged 8.0 weeks for Group I and 4.3 weeks for Group II athletes."
+    },
+    {
+      "section": "UNLABELED",
+      "sentence": "Clinical and radiographic healing averaged 10.8 and 11.2 weeks for Group I and 13.7 and 14.2 weeks for Group II athletes, respectively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

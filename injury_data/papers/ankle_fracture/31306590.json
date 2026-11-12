@@ -1,0 +1,44 @@
+{
+  "pmid": "31306590",
+  "title": "Injury Surveillance in Major League Soccer: A 4-Year Comparison of Injury on Natural Grass Versus Artificial Turf Field.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Artificial playing surfaces are becoming more common due to decreased cost of maintenance and increased field usability across different environmental conditions. The Fédération Internationale de Football Association (FIFA) has approved newer generation artificial turf for soccer competition at the elite level, but many elite-level athletes prefer to play on natural grass surfaces due to a perceived increase in injury rate, discomfort, and fatigability on artificial turf."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Injury rates and rates of individually categorized types of injury experienced on artificial turf are noninferior to rates of injury on the standard comparator, natural grass, in elite-level Major League Soccer athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Over the course of 4 Major League Soccer seasons (2013-2016), athlete injury data were recorded electronically. Injury data recorded in matches between 2 Major League Soccer teams were then analyzed. Playing surface was known for each venue, and all artificial turf surfaces were rated as 2-star according to FIFA criteria. Incidence rate ratios (Artificial Turf ÷ Natural Grass) were calculated with a 95% CI (α = .05) for both overall injury incidence and individual injury subgroups. A noninferiority margin (δ) of 0.15 was used to determine noninferiority of injury incidence rates."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 2174 in-game injuries were recorded during the study period, with 1.54 injuries per game on artificial turf and 1.49 injuries per game on natural grass (incidence rate ratio, 1.033; 95% CI, 0.937-1.139). Within injury subgroups, overall ankle injury, Achilles injury, and ankle fracture were found to have a statistically higher incidence on artificial turf. Artificial turf was found to be noninferior to natural grass for overall foot injury and forefoot injury. No statistically significant differences were found in knee injuries between the 2 surfaces."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The overall rate of injury on artificial turf was noninferior to that on natural grass. Within individual injury categories, a higher rate of ankle injury was found on artificial turf. No other injury subgroup demonstrated statistically significant differences between surfaces."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "FIFA 2-star rated artificial turf is a viable alternative to natural grass in elite-level soccer competition. Innovative research methods for comparing artificial turf versus natural grass may elucidate relative advantages with respect to player safety."
+    }
+  ],
+  "injury_query": "ankle fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

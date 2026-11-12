@@ -1,0 +1,39 @@
+{
+  "pmid": "40182905",
+  "title": "Reliability and Validity of Measuring Shoulder Internal and External Rotation Strength in Volleyball Specific Positions.",
+  "year": "2025",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Overhead athletes are susceptible to shoulder injuries, among which rotator cuff injuries are common and often directly associated with muscle weakness. Therefore, valid and reliable measures of rotator cuff strength at sport specific positions may be a vital part of sports physical therapy practice. Purpose: The current study aimed to determine the inter- and intra-tester reliability of measuring shoulder internal rotation (IR) and external rotation (ER) strength at a novel testing position, 130° of abduction and compared to the 90°/90° position. A secondary aim was to assess concurrent validity between measurements taken with the Humac® Norm™ Isokinetic Dynamometer (IKD) and Microfet® 2 hand-held dynamometer (HHD)."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Inter-Rater and Intra-Rater Reliability and Criterion Validity."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-five (n=25) healthy participants were recruited for this study. Exclusion criteria included prior shoulder surgery, shoulder injury within the last three months, and contraindications to exercise according to ACSM guidelines. Participants performed maximal isometric shoulder external and internal rotation strength testing at both 90° and 130° of shoulder abduction. On the first day, participants were tested on the IKD at both positions, followed by each tester using the HHD. Participants returned 7-14 days later for repeat testing using the HHD only. ICC values were calculated for each rater, instrument, and testing position. Bland-Altman plots were created to establish limits of agreement. Minimal detectable change values were calculated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Inter- and intra-rater reliability for testing isometric strength using a hand-held dynamometer was good to excellent for both shoulder positions with ICC values consistently above 0.8. Concurrent validity between the HHD and IKD was poor to moderate with ICC values ranging from 0.1-0.4. However, Bland-Altman plots demonstrated that the difference in strength measures was within the limits of agreement."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Shoulder IR and ER strength testing at 130° of abduction shows strong inter-rater and intra-rater reliability for measurement in sport specific positions."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 3."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

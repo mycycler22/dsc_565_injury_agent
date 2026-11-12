@@ -1,0 +1,54 @@
+{
+  "pmid": "40322525",
+  "title": "Hamstring T-Junction Surgical Repair: An Elite Footballer's Return to Play Journey Through a New Football-Centered Complex Approach.",
+  "year": "2025",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries have a significant impact in football, with a high re-injury rate, particularly when the distal musculotendinous T-junction (DMTJ) is involved. In some cases, surgical repair is necessary to reduce the risk of re-injury and ensure return to play (RTP) at the pre-injury level."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case Report."
+    },
+    {
+      "label": "CASE DESCRIPTION",
+      "text": "A 24-year-old male football (soccer) player, playing in the Swiss first division, with recidivate hamstring injury, who undercame to surgical repair of DMTJ and returned to play through after 19 weeks. This case report introduces a new football-centered model divided into four main phases, showing how it guided the clinical reasoning used through the RTP process, along with MRI evaluations, clinical outcomes, global positioning system (GPS) data, and strength and power (S&P) neuromuscular testing."
+    },
+    {
+      "label": "OUTCOMES",
+      "text": "The subject gradually returned to team training after 12 weeks and successfully returned to play after 19 weeks. The player participated in 26 official matches throughout the season, accumulating 1.323 minutes of play without reporting any symptoms at the injury site."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The subject had a successful return to play following the rehab model proposed in this case report, as he was involved in all the matches, and he played without any symptoms or new injuries."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "5."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "OUTCOMES",
+      "sentence": "The subject gradually returned to team training after 12 weeks and successfully returned to play after 19 weeks."
+    }
+  ],
+  "pmcid": "12048364",
+  "fulltext_chunks": [
+    {
+      "section": "Outcomes",
+      "text": "The subject gradually returned to team training after 12 weeks and successfully returned to play after 19 weeks. The player participated in 26 official matches throughout the season, accumulating 1.323 minutes of play without reporting any symptoms at the injury site."
+    },
+    {
+      "section": "Return to Full team Training",
+      "text": "In this phase the subjectwas allowed to return to on-field unrestricted training with the team.26 At the beginning of week 16 the subject completed another isokinetic test (5 repetitions of concentric knee flexion/extension and 5 repetitions of eccentric knee extension at 60°/s and at 180°/s)27 (Figure 5). The isokinetic testing showed optimal values in concentric and eccentric hamstring strength (mean torque, peak torque and total work), with a side-to-side difference <10% between the injured and uninjured legs. A new MRI was also performed during the week, showing a good healing process (Figure 1). The process to this point has resulted in: 1) good tissue healing; 2) no substantial asymmetries in eccentric hamstrings strength at different velocities; 3) exposures under specific contexts at speeds ~ 95% of MSS; and 4) optimal participation with the team in various football exercises including HSR and sprint activities, all without negative symptoms or discomfort. On the basis on these outcomes, at 16 weeks post-surgery the player was allowed to return to on-field unrestricted training with the team(Online supplemental video 6). External loadings during three full microcycles were compared with three full microcycles preceding the injury. There were no differences in total distance covered, sprint distance covered (DC > 25 km/h) or peak speed between the accumulated external load during microcycles before and after the injury, while a small difference was detected in the HSR distance covered (DC between 20 – 25 km/h) (Figure 10). HSR and sprint distance covered within each microcycle are shown in Figure 9."
+    }
+  ]
+}

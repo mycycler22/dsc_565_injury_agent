@@ -1,0 +1,39 @@
+{
+  "pmid": "33796584",
+  "title": "Relationship of Patellofemoral Angles and Tibiofemoral Rotational Angles With Jumper's Knee in Professional Dancers: An MRI Analysis.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Jumper's knee is a type of tendinopathy affecting the distal insertion of the quadriceps tendon (25% of cases) or the patellar tendon. It has been shown that frontal-plane measurements, such as genu valgum, genu varum, an increased quadriceps angle, a protuberant tibial tuberosity, patella alta, and short hamstring muscles, may be related to jumper's knee."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To investigate the effects of tibiofemoral rotational angles and patellofemoral (PF) angles on the development of jumper's knee in professional folk dancers."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case-control study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "We examined 26 dancers (16 male, 10 female) with knee pain using magnetic resonance imaging (MRI), for a total of 32 knees. Of the knees, 21 with quadriceps tendinopathy (QT) and 7 with patellar tendinopathy (PT) were detected. Using MRI scans, we measured PF angles (PF sulcus angle, lateral PF angle, patellar tilt angle, lateral trochlear inclination angle, lateral patellar tilt angle, and PF congruence angle) and tibiofemoral rotational angles (condylar twist angle, posterior condylar angle, femoral Insall angle, tibial Insall angle, posterior tibiofemoral angle, and angle between the Whiteside line and posterior femoral condylar line) and noted specifics such as patella alta, patella baja, and the Wiberg classification of the patellar shape between the patients with versus without QT and between patients with versus without PT to understand if there was any relationship with tendinopathy."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No statistically significant difference was observed in age, sex, patella alta, or the Wiberg classification between the QT groups (with vs without) and between the PT groups (with vs without) (<i>P</i> > .05). Having QT was found to be significantly associated with the PF sulcus angle (<i>P</i> = .009), and having PT was found to be significantly associated with the femoral Insall angle (<i>P</i> = .029)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Jumper's knee was found to be associated with anatomic variations of the PF sulcus angle and rotation of the patellar tendon in relation to the femur (femoral Insall angle) on axial MRI scans in professional dancers. Unlike those of other athletes, dancers' knees are exposed more to external rotation forces because of turnout, and this can be the cause of jumper's knee."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

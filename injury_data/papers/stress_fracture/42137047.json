@@ -1,0 +1,57 @@
+{
+  "pmid": "42137047",
+  "title": "Four-Compartment Fasciotomy for Chronic Exertional Compartment Syndrome.",
+  "year": "2026",
+  "journal": "Video journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Chronic exertional compartment syndrome (CECS) is characterized by pain related to exercise that resolves with a period of rest. Along with these symptoms, CECS is commonly diagnosed based on an increase in intercompartmental pressure during exercise. A negative magnetic resonance imaging (MRI) is helpful to rule out commonly presenting symptoms. While fasciotomy remains the gold standard for patients who require more than conservative treatment, sex-specific outcome data require further investigation."
+    },
+    {
+      "label": "INDICATIONS",
+      "text": "This case presents a 17-year-old female adolescent with a 2-year history of bilateral calf pain, burning, and foot tingling after 15 minutes of exertion during soccer games that resolved with rest. Several nonoperative interventions, such as footwear modifications and inserts, failed to provide relief. MRI ruled out a stress fracture, and intercompartment pressure testing demonstrated elevated postexercise pressures in all 4 compartments bilaterally, confirming the indication for bilateral 4-compartment fasciotomy."
+    },
+    {
+      "label": "TECHNIQUE DESCRIPTION",
+      "text": "With the patient in a supine position and without a regional block or tourniquet, both legs were prepped and draped for full exposure. Anatomical landmarks were marked for lateral and medial approaches. Limited (4 cm) longitudinal incisions allowed sequential release of anterior, lateral, superficial posterior, and deep posterior compartments using a combination of blunt dissection, careful nerve identification, and push-cut technique with Metzenbaum scissors, with careful consideration and protection of nerves. Finger palpation was frequently utilized to ensure the completion of the fasciotomies. Wounds were irrigated, closed with nylon sutures, and dressed with sterile coverings and transparent dressings."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The patient returned to sports (RTS) within 3 months of surgery and has remained asymptomatic. Based on the literature, operative CECS patients can expect to RTS within 6 to 12 weeks. However, large-cohort data indicate variable sex-specific outcomes, with some studies showing lower RTS rates in females (75%) compared to males (97%), despite lower reported postoperative pain severity in women."
+    },
+    {
+      "label": "DISCUSSION/CONCLUSION",
+      "text": "After attempted nonoperative intervention, bilateral 4-compartment fasciotomy utilizing the technique demonstrated is an effective surgical option for adolescent females with CECS. Given the conflicting literature on sex-based outcomes, further prospective, sex-inclusive research is warranted to clarify prognostic factors and optimize rehabilitation protocols for female athletes."
+    },
+    {
+      "label": "PATIENT CONSENT DISCLOSURE STATEMENT",
+      "text": "The author(s) attests that consent has been obtained from any patient(s) appearing in this publication. If the individual may be identifiable, the author(s) has included a statement of release or other written form of approval from the patient(s) with this submission for publication."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The patient returned to sports (RTS) within 3 months of surgery and has remained asymptomatic."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Based on the literature, operative CECS patients can expect to RTS within 6 to 12 weeks."
+    }
+  ],
+  "pmcid": "13167299",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "The patient returned to sports (RTS) within 3 months of surgery and has remained asymptomatic. Based on the literature, operative CECS patients can expect to RTS within 6 to 12 weeks. However, large-cohort data indicate variable sex-specific outcomes, with some studies showing lower RTS rates in females (75%) compared to males (97%), despite lower reported postoperative pain severity in women."
+    },
+    {
+      "section": "Results",
+      "text": "Postoperative care and complications are detailed below, and the patient returned to sport in full within 11 weeks of surgery. She has been asymptomatic since."
+    }
+  ]
+}

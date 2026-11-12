@@ -1,0 +1,19 @@
+{
+  "pmid": "31793354",
+  "title": "Active ankle position sense and single-leg balance in runners versus non-runners.",
+  "year": "2021",
+  "journal": "Physiotherapy theory and practice",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "<b>Introduction</b>: Ankle sprain is one of the most common injuries in collegiate athletes, including runners. The purpose of the study was to examine whether runners exhibited compromised ankle stability, ankle position sense, and single-leg balance.<b>Methods</b>: Thirty-seven individuals (21 non-runners and 16 runners) participated in the study. To be included in the runner group, subjects were required to run greater than 150 minutes per week for the past three months. We used the Cumberland Ankle Instability Tool (CAIT) to categorize ankle stability, and we used a dual-axis electronic goniometer to examine active ankle position sense. We examined single-leg balance with the Athletic Single Leg Stability Test of the Biodex Balance System using three different protocols: 1) default setting, 2) no extrinsic visual feedback, and 3) no extrinsic feedback with a cognitive demand.<b>Results</b>: Runners and non-runners had similar ankle stability (CAIT = 26.88 and 26.45 respectively; <i>p</i> = .666). Although runners had significantly larger ankle position errors than non-runners overall (2.56° vs. 1.68°; <i>p</i> = .004), they had better single-leg balance than non-runners without extrinsic visual feedback (Stability Index 1.67 vs. 4.39; <i>p</i> < .001), even with an added cognitive loading (Stability Index 2.18 vs. 4.32; <i>p</i> < .001).<b>Conclusions</b>: For runners, having worse ankle position sense did not compromise ankle stability, nor contribute to single-leg balance deficits. Runners may have established better motor control to maintain their single-leg balance and ankle stability."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

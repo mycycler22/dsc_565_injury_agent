@@ -1,0 +1,31 @@
+{
+  "pmid": "33122400",
+  "title": "Concussion history is associated with increased lower-extremity injury incidence in Reserve Officers' Training Corps cadets.",
+  "year": "2023",
+  "journal": "BMJ military health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Concussions have been associated with an increased risk of lower-extremity musculoskeletal injury (LE-MSI) in athletes and US Army soldiers, creating an added economic, physical and social burden. Yet, there is a paucity of evidence on this relationship among Reserve Officers' Training Corps (ROTC) cadets, a group which engages in activities with high-injury risk and will subsequently commission as active duty officers. This study aimed to examine the association between concussions and LE-MSI in ROTC cadets."
+    },
+    {
+      "label": "METHODS",
+      "text": "125 (83 were male) Army and Air Force ROTC cadets (19.8±2.0 years) from two large state universities' Army and Air Force ROTC programmes participated in this study. Cadets completed a reliable injury history questionnaire to ascertain the following variables of interest: (1) any concussion history, (2) reported concussions, (3) undiagnosed concussions, and (4) potentially unrecognised concussion history and LE-MSI history (eg, ankle sprain, knee sprain or muscle strain). Data were analysed using a χ<sup>2</sup> test for association and binary logistic regression to determine ORs."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Cadets with any concussion history (n=42) had a significantly (p=0.035) higher association with LE-MSI (OR 2.47, 95% CI 1.05 to 5.83) than those without. Cadets who had a reported concussion (n=33) had a significantly (p=0.026) higher association with LE-MSI (OR 2.95, 95% CI 1.11 to 7.84) compared to cadets without."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "ROTC cadets with a history of diagnosed concussion were more likely to have suffered an LE-MSI than cadets without a concussion history. ROTC cadre should be aware of this relationship and incorporate injury prevention protocols."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

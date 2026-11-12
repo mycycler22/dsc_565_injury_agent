@@ -1,0 +1,33 @@
+{
+  "pmid": "35090543",
+  "title": "Blood flow Restriction training After patellar INStability (BRAINS Trial).",
+  "year": "2022",
+  "journal": "Trials",
+  "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Equivalence Trial"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar instability is a common and understudied condition that disproportionally affects athletes and military personnel. The rate of post-traumatic osteoarthritis that develops following a patellar dislocation can be up to 50% of individuals 5-15 years after injury. Conservative treatment is the standard of care for patellar instability however, there are no evidence-informed rehabilitation guidelines in the scientific literature. The purpose of this study is to assess the effectiveness of blood-flow restriction training (BFRT) for patellar instability. Our hypotheses are that this strategy will improve patient-reported outcomes and accelerate restoration of symmetric strength and knee biomechanics necessary to safely return to activity."
+    },
+    {
+      "label": "METHODS/DESIGN",
+      "text": "This is a parallel-group, superiority, randomized, double-blinded, placebo-controlled clinical trial at the University of Kentucky, sports medicine clinic that aims to recruit 78 patients with acute patellar dislocations randomly allocated into two groups: (1) sham BFRT and (2) BFRT. Both groups will receive the current standard of care physical therapy 3 times per week for up to 9 weeks. Physical therapy sessions will consist of typical standard of care treatment followed by BFRT or sham BFRT. Primary outcomes include the Norwich Patellar Instability Scale, quadriceps strength, and imaging and biochemical biomarkers of cartilage degradation."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "The current standard of care for non-operative treatment of patellar instability is highly variable does not adequately address the mechanisms necessary to restore lower extremity function and protect the long-term health of articular cartilage following injury. This proposed novel intervention strategy uses an easily implementable therapy to evaluate if BFRT significantly improves patient-reported outcomes, function, and joint health over the first year of recovery."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "Blood Flow Restriction Training, Aspiration, and Intraarticular Normal Saline (BRAINS) NCT04554212 . Registered on 18 September 2020."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

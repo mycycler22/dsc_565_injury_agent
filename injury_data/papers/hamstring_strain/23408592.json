@@ -1,0 +1,40 @@
+{
+  "pmid": "23408592",
+  "title": "Comparison of hamstring strain injury rates between male and female intercollegiate soccer athletes.",
+  "year": "2013",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strains are common among soccer athletes, and they have a high incidence of recurrence. Among American collegiate soccer players, men have an overall higher incidence rate of hamstring strains than women."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "This research compares the hamstring strain injury rates in event and athlete characteristics between male and female college soccer athletes."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data describing partial and complete hamstring strains were obtained from the National Collegiate Athletic Association (NCAA) Injury Surveillance System (ISS) for men's and women's soccer from 2004 to 2009. Incidence rate ratios (IRRs) comparing the incidence of hamstring strains between the sexes as well as during games versus practices and the preseason versus the in-season were calculated. χ(2) tests were used to compare the occurrence of hamstring strains across different event and athlete characteristics."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Men were 64% more likely than women to sustain a hamstring strain (IRR, 1.64; 95% CI, 1.37-1.96). Men had significantly higher rates of hamstring strains than women during both games (IRR, 2.42; 95% CI, 1.82-3.23) and practices (IRR, 1.34; 95% CI, 1.06-1.68). There were no differences between men and women in injury rates during the preseason, but men were significantly more likely to sustain a hamstring strain during the in-season (IRR, 1.98; 95% CI, 1.56-2.52). Men had a significantly higher proportion of recurrent hamstring strains compared with women (men, 22%; women, 12%; P = .003). There were no significant differences in the distribution of strains in event or athlete characteristics between men and women for first-time or recurrent hamstring strains."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In collegiate soccer, men have significantly higher rates of hamstring strains than women, and regardless of the recurrence status, the event and athlete characteristics were similar for both sexes. Identifying common characteristics may assist in the targeted development of preventive and rehabilitative programs as well as continued research on hamstring strains among collegiate soccer players."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

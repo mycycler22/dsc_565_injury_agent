@@ -1,0 +1,39 @@
+{
+  "pmid": "32523967",
+  "title": "Preseason Neck Mobility Is Associated With Throwing-Related Shoulder and Elbow Injuries, Pain, and Disability in College Baseball Pitchers.",
+  "year": "2020",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder and elbow injuries in baseball pitchers, which can lead to significant pain and disability, have been on the rise at all levels of play for 3 decades. Despite anatomic and neurophysiological relationships, neck mobility has not been explored as a contributor to shoulder and elbow injuries in baseball pitchers."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Impaired neck mobility will increase the risk of shoulder and elbow injuries in college baseball pitchers."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Posture, neck mobility, and shoulder passive range of motion were measured in healthy college baseball pitchers during the 2018 preseason. Time loss (days lost because of shoulder or elbow injuries) and patient-reported disability via Functional Arm Scale for Throwers (FAST) scores were used to dichotomize pitchers into injured and uninjured groups. Receiver operating characteristic curves were generated, and accuracy values and risk ratios (RRs) were calculated to assess the diagnostic utility of the physical measures. Time-to-injury analysis was conducted to assess the timing of injuries."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 49 pitchers (mean age, 19.92 ± 1.48 years; mean height, 187.04 ± 6.02 cm; mean weight, 89.14 ± 12.08 kg) completed the study. There were 10 pitchers (20.4%) who sustained a time-loss injury >7 days because of a shoulder or elbow injury. A Cervical Flexion-Rotation Test (CFRT) finding on the dominant side of ≤39° resulted in over 9 times the increased risk of time-loss injuries (RR, 9.38 [95% CI, 1.28-68.49]). Time-to-injury analysis demonstrated differences between the 2 groups (χ<sup>2</sup> = 7.667; <i>P</i> = .01). Pitchers with a >39.25° finding on the CFRT played a mean 109.4 of 112 days (95% CI, 105-114) before the injury, while pitchers with ≤39.25° only played 83.6 of 112 days (95% CI, 68-99). A CFRT finding of ≤38° (RR, 3.91 [95% CI, 1.23-12.39]), cervical flexion range of motion of ≤64° (RR, 10.56 [95% CI, 1.50-74.34]), and weight of >86.9 kg (RR, 10.42 [95% CI, 1.14-213.70]) were also associated with an increased risk of patient-reported pain and disability on the FAST pitcher module."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "College baseball pitchers with less neck mobility during the preseason had an increased risk of time loss and shoulder and elbow disability during the season. The predictive value of these measures as part of a risk screening profile should be further explored."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

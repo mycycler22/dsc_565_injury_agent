@@ -1,0 +1,20 @@
+{
+  "pmid": "38846230",
+  "title": "A Comparative Analysis of Quadriceps Tendon, Patellar Tendon Bone Allograft, and Cadaver Graft in Anterior Cruciate Ligament (ACL) Repair and Reconstructive Surgery.",
+  "year": "2024",
+  "journal": "Cureus",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Anterior cruciate ligament (ACL) injuries are a common occurrence among athletes and active individuals, often necessitating surgical intervention for optimal recovery. The choice of graft material for ACL reconstruction remains a topic of debate, with various options available, including quadriceps tendon (QT), patellar tendon bone allograft (PTBA), and cadaver graft (CG). This paper aims to provide an extensive review and comparison of the efficacy, outcomes, and complications associated with these graft types based on recent research. A systematic literature search following PRISMA guidelines was conducted to identify relevant studies published in the past six years. The findings suggest that while each graft type has its advantages and limitations, there is no definitive superior choice. Factors such as patient age, activity level, comorbidities, and surgeon preference should be considered when selecting the most appropriate graft for ACL repair surgery. QT grafts are associated with lower donor-site morbidity compared to patellar tendon grafts. However, QT grafts may have a higher risk of graft rupture and decreased knee flexion strength. PTBA grafts, compared to QT grafts, have a higher risk of donor-site morbidity but a lower risk of graft rupture and improved knee stability. CG grafts have lower donor-site morbidity compared to PTBA grafts but may have a higher risk of graft rupture and decreased knee flexion strength compared to PTBA grafts. In conclusion, the choice of graft material for ACL reconstruction is a complex decision that requires careful consideration of various factors, including patient age, activity level, comorbidities, and surgeon preference. While each graft type has its advantages and limitations, there is no definitive superior choice. Therefore, it is essential to carefully weigh the risks and benefits of each graft type to ensure optimal outcomes for patients undergoing ACL repair surgery."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

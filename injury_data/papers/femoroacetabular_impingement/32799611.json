@@ -1,0 +1,31 @@
+{
+  "pmid": "32799611",
+  "title": "Characterizing cam-type hip impingement in professional women's ice hockey players.",
+  "year": "2021",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "There is a high prevalence of femoroacetabular impingement (FAI) amongst elite men's ice hockey players, yet little is known about the hips of players in the National Women's Hockey League (NWHL). The primary purpose of this study was to determine the prevalence of radiographic cam-type FAI in women's professional ice hockey players. The secondary purpose was to analyze the relationship between the cam deformity and both menarchal age and hip range-of-motion (ROM)."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data were collected for NWHL players during pre-participation physicals. Alpha angles were measured on 45° Dunn radiographs, with alpha angles >55° defined as cam-positive. Pearson correlation coefficients (ρ) were performed to analyze the relationship between alpha angle and both ROM measurements and menarchal age, with statistical significance set at p < 0.05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-six athletes were included. Twenty-four (92%) had alpha angles >55°; 20 players (77%) had bilateral cam deformity. Average menarchal age was 13.8 ± 1.7 years. There was a significant association between age of menarche and alpha angle (ρ = 0.36, p < 0.02). There was no significant association between alpha angle and hip ROM (p > 0.05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Elite women's ice hockey players have a higher prevalence of cam-type morphology than the general population. The positive association between alpha angle and menarchal age lends additional support to the etiological hypothesis of the cam lesion resulting from activity-related stress at the proximal femoral physis during skeletal development. Professional women's ice hockey players have a high risk of developing cam-type morphology, although each player's menarchal age may mediate her individual risk for cam development."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

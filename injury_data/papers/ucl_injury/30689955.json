@@ -1,0 +1,44 @@
+{
+  "pmid": "30689955",
+  "title": "Biomechanical Comparison of Ulnar Collateral Ligament Reconstruction With a Modified Docking Technique With and Without Suture Augmentation.",
+  "year": "2019",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Throwing athletes with ulnar collateral ligament (UCL) injury and symptomatic valgus instability can expect to return to the same or higher level of play. Reconstruction with tendon graft is the dominant method of surgical treatment. Recent evidence suggests that spanning the joint with a suture anchored on both sides is biomechanically equivalent to reconstruction, with faster time to return to play. The authors developed a hybrid UCL reconstruction technique augmented with a suture brace to improve joint stability."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to biomechanically evaluate a hybrid reconstruction technique and compare its performance to reconstruction without augmentation. The authors hypothesized that (1) both groups would lose stability after the simulated tear and regain stability with treatment, (2) the suture augmentation would improve stability, and (3) the addition of the suture anchors near the bone tunnels would not decrease the strength of the hybrid reconstruction."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Controlled laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ten matched pairs of cadaveric arms were dissected to expose the UCL. Each elbow was mounted on a test frame at 90° of flexion. A cyclic valgus rotational torque was applied to the humerus with the UCL in its intact state and repeated in its surgically torn state. Finally, each specimen received either a hybrid reconstruction with suture brace or a reconstruction and was again put through the cyclic protocol, followed by a valgus rotation load-to-fail protocol."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Gap formation in the torn state for the reconstruction and hybrid reconstruction groups (0.9 ± 0.1 mm and 0.8 ± 0.1 mm, respectively) was significantly higher ( P = .009 and P = .0002) than in the intact state (0.6 ± 0.2 mm and 0.6 ± 0.3 mm, respectively). After the procedures, the hybrid group showed greater resistance to gapping ( P = .017) as compared with the reconstruction group (0.4 ± 0.2 mm and 0.6 ± 0.1 mm). During load to failure, no hybrid reconstructions failed from bone fracture or screw pullout. No statistical differences were found for failure torque ( P = .058) and stiffness ( P = .101). Gap at 10 N·m was significantly lower ( P = .014) for the hybrid reconstruction group than for the reconstruction group."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The current study showed that hybrid reconstruction with suture bracing replicated the time-zero strength of traditional UCL reconstruction and may be more resistant to joint gapping during low cyclic load and load to failure. The combination of the bone tunnels and fixation screw holes did not appear to weaken the construct."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "This study demonstrated that reconstruction with suture bracing has important time-zero stability and strength as compared with the gold standard of UCL reconstruction. This technique may be useful for throwing athletes who need UCL reconstruction."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

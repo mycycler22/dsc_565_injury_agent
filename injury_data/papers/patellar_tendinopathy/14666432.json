@@ -1,0 +1,32 @@
+{
+  "pmid": "14666432",
+  "title": "[Evidence based evaluation of conservative treatment options for patellar tendinitis syndromes].",
+  "year": "2003",
+  "journal": "Sportverletzung Sportschaden : Organ der Gesellschaft fur Orthopadisch-Traumatologische Sportmedizin",
+  "pub_types": [
+    "English Abstract",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "Patellar tendinopathy causes substantial morbidity in both professional and recreational athletes. There is no consensus about conservative treatment strategies for this condition."
+    },
+    {
+      "label": "METHODS",
+      "text": "With the help of the evidence-based medicine method it is estimated whether conservative treatment is appropriate for treating pain in this condition."
+    },
+    {
+      "label": "RESULTS",
+      "text": "5 specialist articles that matched the clinical question were found in medical databases. One article was analyzed for clinical relevance. The evaluation showed that physiotherapeutic treatment of pain in combination with additional iontophoresis is more promising than physiotherapy alone."
+    },
+    {
+      "label": "DISCUSSION",
+      "text": "Current evidence suggests that traditional physiotherapy should be combined with additional therapeutic treatment. This requires further randomized prospective, placebo-controlled trials in order to confirm its efficiency. Prognostic effects of treatments should be included into these studies."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "41179413",
+  "title": "Olecranon stress fracture treated with headless compression screws and bone marrow aspirate concentrate augmentation: a case report and systematic review of the literature.",
+  "year": "2025",
+  "journal": "JSES reviews, reports, and techniques",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Several surgical techniques have been described to treat olecranon stress fractures (OSFs), most commonly involving the use of cannulated screws placed perpendicular to the fracture line of the olecranon. However, hardware removal, infection, and pain are common. This study presents a novel surgical approach and investigates the current literature surrounding the use of headless compression screws (HCSs) in the surgical management of OSFs."
+    },
+    {
+      "label": "METHODS",
+      "text": "A search of PubMed, Embase, Cochrane, CINAHL, MedLine, and SportDiscus was performed by three reviewers using search terms \"Screw\" AND \"Olecranon stress fracture,\" following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Inclusion criteria consisted of studies that focused on surgical treatment of OSFs and discussed the use of HCSs. Articles were excluded if they did not discuss OSFs, discussed surgical treatment with non-HCSs, did not have full text available, or were written in a non-English language."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Sixty-two studies met the search criteria, of which 3 studies met inclusion and exclusion criteria. Across the included studies, 12 throwing athletes were treated for OSFs with HCSs, with a return-to-sport time between 4-6 months (mean, 5.5 months). No occurrences of hardware infection were identified, nor was removal of hardware required in any instances."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Current literature demonstrates promising results for the use of HCSs in the setting of OSFs. Future prospective studies are needed to compare surgical outcomes and rates of symptomatic hardware to traditional fixation methods."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

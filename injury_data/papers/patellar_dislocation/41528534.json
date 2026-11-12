@@ -1,0 +1,38 @@
+{
+  "pmid": "41528534",
+  "title": "Medial quadriceps tendon-femoral ligament reconstruction for recurrent patellofemoral instability: a systematic review.",
+  "year": "2026",
+  "journal": "European journal of orthopaedic surgery & traumatology : orthopedie traumatologie",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "INTRODUCTION: Recurrent patellofemoral instability is frequent in adolescents and young adults, often associated with pain, cartilage damage, and functional impairment. While medial patellofemoral ligament (MPFL) reconstruction is considered the gold standard, it has limitations in skeletally immature patients and revision settings. Increasing attention has therefore been given to the reconstruction of medial quadriceps tendon–femoral ligament (MQTFL), a complementary stabiliser of the patella as the procedure avoids patellar bone tunnels and may reduce complications. However, current evidence on its clinical outcomes remains limited and heterogeneous, highlighting the need for systematic evaluation. METHODS: This systematic review was conducted in accordance with the 2020 PRISMA statement. PubMed, Google Scholar, EMABSE, and Web of Science were accessed in September 2025. No time constraints were used for the search. All clinical studies investigating MQTFL reconstruction, either performed in isolation or in combination with MPFL reconstruction, in patients with recurrent patellofemoral instability were considered for eligibility. The methodological quality of the included studies was assessed using the Cochrane ROBINS-I tool for non-randomised studies. RESULTS: Data from 322 patients were included in the present analysis. The mean age was 19.7 ± 6.33 years, and 67.8% (218 of 322) were female. The Kujala score increased by 34.1 points (95% CI 25.2–43.0; P = 0.013). The Lysholm score improved by 29.4 points (95% CI 10.9–47.8; P = 0.031). The Tegner activity scale improved by 1.7 (95% CI 0.7–2.7; P = 0.006). The IKDC score improved by 31.4 points (95% CI 26.3–36.5; P = 0.008). The mean time to return to sport was 5.4 ± 1.3 months (range 4.0–6.5 months). 74% (173 of 234) of patients resumed athletic activity after MQTFL reconstruction. When considering the level of participation, 69% (50 of 72) of patients were able to return to their preinjury level. The overall complication rate was 7% (24 of 322 procedures), including subluxation (4%, 12 of 273) and dislocation (2%, 5 of 275). The rate of revision surgery for persistent symptoms or functional impairment was 2% (5 of 256 procedures). CONCLUSION: MQTFL reconstruction is a promising surgical option for selected patients with recurrent patellofemoral instability. Its anatomical and technical advantages, particularly the avoidance of patellar bone tunnels, support its growing interest. While early clinical outcomes are encouraging, the current evidence is limited by methodological heterogeneity and small sample sizes. Further high-quality, comparative studies are needed to clarify its indications, optimise the technique, and confirm long-term efficacy."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The mean time to return to sport was 5.4 ± 1.3 months (range 4.0–6.5 months). 74% (173 of 234) of patients resumed athletic activity after MQTFL reconstruction."
+    }
+  ],
+  "pmcid": "12799624",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Data from 322 patients were included in the present analysis. The mean age was 19.7 ± 6.33 years, and 67.8% (218 of 322) were female. The Kujala score increased by 34.1 points (95% CI 25.2–43.0; P = 0.013). The Lysholm score improved by 29.4 points (95% CI 10.9–47.8; P = 0.031). The Tegner activity scale improved by 1.7 (95% CI 0.7–2.7; P = 0.006). The IKDC score improved by 31.4 points (95% CI 26.3–36.5; P = 0.008). The mean time to return to sport was 5.4 ± 1.3 months (range 4.0–6.5 months). 74% (173 of 234) of patients resumed athletic activity after MQTFL reconstruction. When considering the level of participation, 69% (50 of 72) of patients were able to return to their preinjury level. The overall complication rate was 7% (24 of 322 procedures), including subluxation (4%, 12 of 273) and dislocation (2%, 5 of 275). The rate of revision surgery for persistent symptoms or functional impairment was 2% (5 of 256 procedures)."
+    },
+    {
+      "section": "Results synthesis",
+      "text": "The pooled quantitative synthesis showed consistent improvements across all evaluated PROMs (Table 3). The Kujala score increased from 59.3 ± 1.4 preoperatively to 93.4 ± 0.4 at the last follow-up (19.7–52.1 months), representing a 34.1-point improvement (95% CI, 25.2–43.0; P = 0.013). The Lysholm score improved by 29.4 points (95% CI 10.9–47.8; P = 0.031). The Tegner activity scale showed a significant functional recovery, with a 1.7-point improvement (95% CI, 0.7–2.7; P = 0.006). The IKDC score improved by 31.4 points (95% CI 26.3–36.5; P = 0.008). Table 3Results of proms (FU: follow-up; MD: mean difference; CI: confidence interval; IKDC: international knee document Committee)OutcomeAt BaselineAt last FUMD (95% CI) P Kujala59.3 ± 1.493.4 ± 0.434.1 (25.2–43.0)0.01Lysholm64.5 ± 2.193.9 ± 0.129.4 (10.9–47.8)0.03Tegner activity3.4 ± 1.85.1 ± 0.91.7 (0.7–2.7)0.006IKDC55.2 ± 0.286.6 ± 0.831.4 (26.3–36.5)0.008"
+    },
+    {
+      "section": "Return to sport",
+      "text": "The mean time to return to sport was 5.4 ± 1.3 months (range 4.0–6.5 months). 74% (173 of 234) of patients resumed athletic activity after MQTFL reconstruction. When considering the level of participation, 69% (50 of 72) of patients were able to return to their preinjury level."
+    }
+  ]
+}

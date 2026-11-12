@@ -1,0 +1,31 @@
+{
+  "pmid": "10798788",
+  "title": "Management of injuries to the anterior cruciate ligament: results of a survey of orthopaedic surgeons in Canada.",
+  "year": "2000",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To identify the approaches to management of anterior cruciate ligament (ACL) injury by Canadian orthopedic surgeons."
+    },
+    {
+      "label": "METHODS",
+      "text": "A questionnaire was mailed to 234 physicians randomly chosen from the Canadian Orthopaedic Association directory to obtain the following information: 1) how orthopaedic surgeons diagnose acute hemarthroses; 2) how patients in any of three common ACL injury scenarios would be managed; 3) what variations exist in surgical technique; and 4) how patient variables such as age, gender, and alignment influence the decision-making process."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The return rate was 72%, and 56% of respondents were from academic centers. Patients such as those described in the protocol are routinely managed by 80% of the respondents. The diagnosis of acute hemarthrosis is predominantly made by means of clinical examination and radiographs. Magnetic resonance imaging (MRI) is used occasionally by 43% and routinely by 6% of those who responded; arthroscopy is used routinely by 24%. For the competitive athlete with a complete ACL tear, 64% would recommend reconstruction and 33% would recommend bracing and rehabilitation. For reconstruction, 59% would use bone-patellar tendon-bone (B-PT-B) autograft and 32% would use hamstring tendon autograft; 40% would incorporate the ACL stump during reconstruction. Of the respondents, 77% would advocate ACL reconstruction for competitive athletes with chronic ACL injury. Of these, 63% would use B-PT-B autograft and 27% would use hamstring tendons. If bracing and rehabilitation failed, 98% would recommend ACL reconstruction. In ACL reconstruction, synthetic augmentation would be used by 12% in chronic cases and by 16% in acute cases. In making the decision to perform ACL reconstruction, 53% consider limb alignment to be important and 67% consider moderate patellofemoral pain to be important. Seventy-one percent are influenced by patellofemoral pain when choosing a surgical technique, with a trend toward semitendinosis autograft rather than B-PT-B autograft reconstruction. For the 8-year-old child with an acute ACL injury, 63% of the respondents would recommend rehabilitation and bracing. For the 14-year-old, 45% would recommend rehabilitation and bracing and 37% would recommend ACL reconstruction after physeal closure."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The results of the survey indicate that, with respect to some of the issues, there is a wide variation in management of acute and chronic ACL injuries among Canadian orthopedic surgeons. Future research and randomized, controlled clinical trials should be directed toward these areas."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

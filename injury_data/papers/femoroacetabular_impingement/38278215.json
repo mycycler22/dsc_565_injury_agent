@@ -1,0 +1,36 @@
+{
+  "pmid": "38278215",
+  "title": "Patient-reported hip pain and function are worse among elite Nordic ski athletes competing in ski jumping versus Nordic combined: a cross-sectional analysis.",
+  "year": "2024",
+  "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Nordic ski athletes are at increased risk of developing hip pain and dysfunction secondary to femoroacetabular impingement syndrome (FAIS), but it is unclear whether hip symptomatology differs between ski jumping (SJ) and Nordic combined (NC) athletes. The purpose of this study was to compare patient-reported hip pain and dysfunction between elite Nordic ski athletes participating in SJ versus NC."
+    },
+    {
+      "label": "METHODS",
+      "text": "A cross-sectional study was conducted involving SJ and NC athletes who competed at the international and U.S. national levels during the 2021-2022 season. Subjects were excluded if they had hip surgery within two years prior to enrollment. Subjects were asked to undergo diagnostic workups for FAIS, including physical examination and plain radiographic imaging. Subjects were asked to complete a survey that collected information on athletic and training history and to complete the hip disability and osteoarthritis outcome score (HOOS). Demographics, athletic/training history, and HOOS sub-scores were compared between the SJ and NC groups using the Student's t-test, Wilcoxon rank-sum test, or Fisher's exact test, as appropriate. p-values < 0.05 were considered significant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-four athletes (13 SJ, 11 NC) were included in the study. There were no statistically significant differences in age, sex, BMI, or age of menarche between the two groups (all p ​> ​0.05). There were also no statistically significant differences in the number of prior sports participated in, total hours of participation in prior sports, or total hours of training in Nordic specialization (all p ​> ​0.05). Among the 18 athletes who underwent physical examination (9 SJ, 9 NC), there were no statistically significant inter-group differences in hip range of motion or incidence of positive impingement tests (all p ​> ​0.05). Among the 19 athletes who underwent imaging (9 SJ, 10 NC), there were no statistically significant inter-group differences in the incidence of cam or pincer morphology in at least one hip (all p ​> ​0.05). SJ athletes had statistically significantly worse HOOS sub-scores for hip symptoms and stiffness, hip function in sports/recreational activities, and hip-related quality of life compared to NC athletes (all p ​< ​0.05)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Elite SJ athletes have worse self-reported hip function compared to elite NC athletes, despite comparable demographics, athletic history, and duration of ski training."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

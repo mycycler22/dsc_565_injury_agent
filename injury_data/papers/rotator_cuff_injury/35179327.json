@@ -1,0 +1,40 @@
+{
+  "pmid": "35179327",
+  "title": "Prevalence of sport injuries in Olympic combat sports: a cross-sectional study examining one Olympic period.",
+  "year": "2022",
+  "journal": "The Journal of sports medicine and physical fitness",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Due to full contact impacts in combat sports, the risk of injuries is elevated. The aim of this study is to report severe injuries among athletes in Olympic combat sports. Specific injury types, time loss, and the performance level after injury are examined."
+    },
+    {
+      "label": "METHODS",
+      "text": "Survey to investigate injuries in Olympic combat sports during the time period from 2012-2016. Reported injuries were analyzed by anatomical location, injury type, gender, time loss, and performance level."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The three injuries resulting in the longest time loss (ACL rupture: judo= 37 weeks; karate = 49 weeks; shoulder dislocation: wrestling = 41 weeks; shoulder rotator cuff injury: wrestling = 32 weeks) also accounted for the largest proportion of athletes with career-ending injuries (ACL rupture: judo = 28%; karate = 67%; shoulder dislocation: wrestling = 40%; shoulder rotator cuff injury: wrestling = 50%). Taekwondo and fencing had the shortest time loss (<12 weeks) among all combat sports. More injuries occurred during training (58%) as compared to competition (42%). Injury prevalence of competitive athletes was significantly higher as compared to recreational athletes. Male athletes suffered significantly more anterior cruciate ligament injuries (72% vs. 56%; P<0.05), unspecific shoulder injuries (89% vs. 47%; P<0.01), and elbow ligament injuries (57% vs. 30%; P<0.05) during training."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The study shows that there are important differences between \"punching and kicking\" and \"throwing\" martial arts in terms of specific injury types. In judo and wrestling, the injuries are more likely to affect the joints (knee and shoulder). Therefore, injury prevention these sports should focus on strength training of the muscles surrounding the joints and on defensive reactionary movements to avoid dangerous biomechanical joint angles. In \"punching and kicking\" sports, injuries of the hands and feet, due to the large impact forces of strikes and kicks, could be reduced by improved protective equipment on hands and feet."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The three injuries resulting in the longest time loss (ACL rupture: judo= 37 weeks; karate = 49 weeks; shoulder dislocation: wrestling = 41 weeks; shoulder rotator cuff injury: wrestling = 32 weeks) also accounted for the largest proportion of athletes with career-ending injuries (ACL rupture: judo = 28%; karate = 67%; shoulder dislocation: wrestling = 40%; shoulder rotator cuff injury: wrestling = 50%)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "Taekwondo and fencing had the shortest time loss (<12 weeks) among all combat sports."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

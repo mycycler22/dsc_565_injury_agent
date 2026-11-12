@@ -1,0 +1,37 @@
+{
+  "pmid": "27171282",
+  "title": "The Effectiveness of Injury Prevention Programs to Modify Risk Factors for Non-Contact Anterior Cruciate Ligament and Hamstring Injuries in Uninjured Team Sports Athletes: A Systematic Review.",
+  "year": "2016",
+  "journal": "PloS one",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain and anterior cruciate ligament injuries are, respectively, the most prevalent and serious non-contact occurring injuries in team sports. Specific biomechanical and neuromuscular variables have been used to estimate the risk of incurring a non-contact injury in athletes."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "The aim of this study was to systematically review the evidences for the effectiveness of injury prevention protocols to modify biomechanical and neuromuscular anterior cruciate and/or hamstring injuries associated risk factors in uninjured team sport athletes."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "PubMed, Science Direct, Web of Science, Cochrane Libraries, U.S. National Institutes of Health clinicaltrials.gov, Sport Discuss and Google Scholar databases were searched for relevant journal articles published until March 2015. A manual review of relevant articles, authors, and journals, including bibliographies was performed from identified articles."
+    },
+    {
+      "label": "MAIN RESULTS",
+      "text": "Nineteen studies were included in this review. Four assessment categories: i) landing, ii) side cutting, iii) stop-jump, and iv) muscle strength outcomes, were used to analyze the effectiveness of the preventive protocols. Eight studies using multifaceted interventions supported by video and/or technical feedback showed improvement in landing and/or stop-jump biomechanics, while no effects were observed on side-cutting maneuver. Additionally, multifaceted programs including hamstring eccentric exercises increased hamstring strength, hamstring to quadriceps functional ratio and/or promoted a shift of optimal knee flexion peak torque toward a more open angle position."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Multifaceted programs, supported by proper video and/or technical feedback, including eccentric hamstring exercises would positively modify the biomechanical and or neuromuscular anterior cruciate and/or hamstring injury risk factors."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

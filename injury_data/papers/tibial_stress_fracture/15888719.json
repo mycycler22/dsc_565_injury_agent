@@ -1,0 +1,44 @@
+{
+  "pmid": "15888719",
+  "title": "Chronic anterior midtibial stress fractures in athletes treated with reamed intramedullary nailing.",
+  "year": "2005",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "A chronic anterior midtibial stress fracture is a serious, difficult-to-treat injury that can adversely affect an athlete's career."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "The use of a reamed intramedullary nail for a chronic anterior tibial stress fracture is a safe and effective treatment for an athlete."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "Seven collegiate-level athletes with 11 chronic anterior midtibial stress fractures were treated with reamed intramedullary nailing between 1997 and 2000. These patients were followed for a mean duration of 17 months."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean age of the patients at the time of stress fracture diagnosis was 17 years. Seven of the fractures occurred in male athletes, whereas 4 occurred in female athletes. All patients had failed nonoperative treatment, including rest, activity modification, use of an orthosis, and low-intensity ultrasound stimulation, for a minimum of 4 months. Patients had experienced symptoms for a mean duration of 12 months. Clinical and radiological union occurred at a mean of 2.7 and 3 months, respectively. The mean duration for return to sports after surgery was 4 months. At last follow-up, all patients had full range of motion at the knee and ankle joints and were satisfied with the results. One patient developed bursitis at the tibial nail insertion site that was resolved with a steroid injection. Another patient sustained a traumatic fracture of the distal tibia 1 year after intramedullary nailing of the tibial stress fracture. This fracture healed with nonoperative treatment. No other complications were observed."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Intramedullary nailing of the tibia for chronic stress fracture has a high union rate, allows for a low complication rate, and allows for an early return to competitive sports. This procedure is an excellent alternative treatment for those fractures that have failed nonsurgical treatment."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean duration for return to sports after surgery was 4 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

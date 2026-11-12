@@ -1,0 +1,43 @@
+{
+  "pmid": "26584436",
+  "title": "Concussion Management Practice Patterns Among Sports Medicine Physicians.",
+  "year": "2016",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The primary purpose of this study was to examine concussion management practice patterns among sports medicine physicians in the United States."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study using a web-based survey."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Members of the American Medical Society for Sports Medicine (AMSSM)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "We distributed a questionnaire to physician members of the AMSSM assessing the current practices for evaluating and managing concussions sustained during sports. Specifically, we asked respondents about their use of management guidelines, medications, balance assessments, neuropsychological tests, and return-to-play strategies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 3591 members emailed, 425 (11.8%) respondents responded. Ninety-seven percent of respondents reported basing current management of sport-related concussion on a published set of criteria, with a majority (91.9%) following the guidelines provided by the Fourth International Conference on Concussion in Sport. Seventy-six percent of respondents reported using medication beyond 48 hours postinjury. Acetaminophen was reported as the most commonly administered medication, although tricyclic antidepressants and amantadine were also commonly administered. Vitamins, minerals, and dietary supplements were also reported as commonly administered. Most respondents reported using a form of neuropsychological testing (87.1%). A majority of respondents (88.6%) reported allowing athletes to return to competition after concussion only once the athlete becomes symptom free and completes a return-to-play protocol."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Most sports medicine physicians seem to use recently developed guidelines for concussion management, regularly use medications and neuropsychological testing in management strategies, and follow established return-to-play guidelines."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Sports medicine physicians seem to have clinical expertise in the management of sport-related concussion."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

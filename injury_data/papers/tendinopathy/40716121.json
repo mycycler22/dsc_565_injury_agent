@@ -1,0 +1,31 @@
+{
+  "pmid": "40716121",
+  "title": "Changes in patellar tendon stiffness and mechanical strength test using collagenase injection: Verification ex vivo experiment using porcine model.",
+  "year": "2025",
+  "journal": "Clinical biomechanics (Bristol, Avon)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar tendinopathy is accompanied by chronic pain that can cause athletes to abandon their careers. Although effective treatment methods are essential, research on patellar tendinopathy treatment is insufficient. We aimed to investigate changes in the stiffness and mechanical strength of porcine patellar tendons (PT) that were artificially altered by a collagenase injection. We hypothesized that collagenase injection would lead to reflecting tendinopathy-like degeneration."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-seven porcine PTs were used. To mimic tendinopathy-induced changes in the mechanical properties of tendons, PTs were injected with collagenase via collagen digestion using a chemical solution. The PTs were sequentially assigned to two groups: a phosphate-buffered saline control group (n = 13) and a collagenase group (n = 14) as an experimental group. Each injection was administered into the central PT. After incubation at 37 °C for 7 h, PT stiffness measurements were performed using a handheld device, and mechanical strength testing was performed. The failure modes and structural properties (upper yield load, maximum load, linear stiffness, elongation at failure, and length change) were determined."
+    },
+    {
+      "label": "FINDINGS",
+      "text": "PT stiffness was higher in the experimental group than the control group (880.5 ± 95 vs. 735.4 ± 110 N/m; P = 0.008). Significant differences in failure modes were observed between the two groups. Half of the experimental group were torn at the mid-substance of the PT, whereas most of the control group were not (P = 0.033). The structural properties were not significantly different between the two groups (P > 0.05)."
+    },
+    {
+      "label": "INTERPRETATION",
+      "text": "Collagenase injection changes the stiffness and fragility of porcine PT."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

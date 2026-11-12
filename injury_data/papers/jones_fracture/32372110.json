@@ -1,0 +1,32 @@
+{
+  "pmid": "32372110",
+  "title": "Peroneus brevis as source of instability in Jones fracture fixation.",
+  "year": "2020",
+  "journal": "International orthopaedics",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Intramedullary screw fixation is currently considered the gold standard treatment for Jones fractures in the athlete. Besides biological factors (i.e., poor vascularization), mechanical instability induced by the pull of the peroneus brevis tendon (PBT) contributes to deficient Jones fracture healing. This biomechanical study aimed to simulate loads induced by the PBT at the fifth metatarsal and to compare the stability of two intramedullary screw constructs in a Jones fracture fixation model."
+    },
+    {
+      "label": "METHODS",
+      "text": "Jones fractures were created in 24 human paired specimens, and fixation was achieved with either a solid Jones fracture specific screw (JFXS) (Jones Screw; Arthrex Inc., Naples FL, USA) or a cannulated headless compression screw (HCS) (HCS; DePuySynthes, Solothurn, Switzerland). The PBT was fixed to a mechanical load frame by the use of a cryoclamp. Constructs were loaded in tension for 1000 cycles, followed by an ultimate load test. Construct failure was defined by exceeding 10° of dorsal angulation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Preliminary failure occurred more often in HCS constructs (33%) compared to JFXS constructs (0%) (P = 0.044). Mean tensile load to failure reached 123.8 ± 91.4 N in the JFXS group and 91.5 ± 62.2 N in the HCS group (P = 0.337). The mean slope of the load-displacement curve was 24.2 ± 10.4 N/mm for JFXS constructs and 24.7 ± 5.5 N/mm for HCS constructs, respectively (P = 0.887)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This is the first study evaluating the effect of PBT pull on the mechanical stability of Jones fracture fixation. Higher preliminary failure rates of HCS were found under cyclic loading conditions compared to JFXS."
+    }
+  ],
+  "injury_query": "Jones fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

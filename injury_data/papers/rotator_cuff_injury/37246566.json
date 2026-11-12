@@ -1,0 +1,58 @@
+{
+  "pmid": "37246566",
+  "title": "Rotator Cuff Injuries in the Pediatric Population: A Retrospective Review of Patient Characteristics and Treatment at a Single Center.",
+  "year": "2024",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "As youth participation in contact and overhead sports has increased in recent decades, so has the occurrence of injuries of the shoulder. Rotator cuff injury (RCI) is an infrequent shoulder pathology in pediatric patients and its description in the literature has been scarce. A greater understanding of RCI characteristics and treatment outcomes in children and adolescents would improve our understanding of this pathology and help to better guide clinical decision-making."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "To identify pediatric patients with magnetic resonance imaging-confirmed RCI treated at a single center to summarize injury characteristics, treatment, and outcomes. It was hypothesized that injuries would occur predominantly in overhead throwing athletes and would demonstrate good outcomes among both operatively and nonoperatively treated patients."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of pediatric patients (<18 years old) diagnosed with and treated for an RCI between January 1, 2011 and January 31, 2021. Patient demographics, injury mechanism and type, treatment, and outcomes were collected. Descriptive statistics were performed. Bivariate testing was used to compare operatively and nonoperatively treated cohorts."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 52 pediatric patients treated for a rotator cuff avulsion, partial tear, or complete tear were identified. Mean age was 15 years and 67% of patients were male. Injuries were related most commonly to participation in throwing sports. Operative management occurred in 23% of patients, while 77% were managed nonoperatively. Treatment cohorts differed based on tear type, with all complete tears being managed operatively (<i>P</i> < 0.01). Associated shoulder pathology was common, with the most frequent finding being anterior shoulder instability pathology. Return to play was longer for operatively managed patients (7.1 vs 4.5 months; <i>P</i> < 0.01)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The present study expands the limited data available regarding RCIs in pediatric patients. Most injuries are associated with sports and involve the supraspinatus tendon. RCIs were associated with good outcomes and low rates of reinjury in patients managed both nonoperative and operatively. RCI should be considered in throwing athletes with shoulder pain, even in skeletally immature patients."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "This retrospective study fills the hole in the literature by detailing the patterns associated with RCI characteristics and treatment outcomes. In contrast to studies of adult RCIs, our results suggest that outcomes are good regardless of treatment type."
+    }
+  ],
+  "injury_query": "rotator cuff injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Return to play was longer for operatively managed patients (7.1 vs 4.5 months; <i>P</i> < 0.01)."
+    }
+  ],
+  "pmcid": "11025523",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 52 pediatric patients treated for a rotator cuff avulsion, partial tear, or complete tear were identified. Mean age was 15 years and 67% of patients were male. Injuries were related most commonly to participation in throwing sports. Operative management occurred in 23% of patients, while 77% were managed nonoperatively. Treatment cohorts differed based on tear type, with all complete tears being managed operatively (P < 0.01). Associated shoulder pathology was common, with the most frequent finding being anterior shoulder instability pathology. Return to play was longer for operatively managed patients (7.1 vs 4.5 months; P < 0.01)."
+    }
+  ]
+}

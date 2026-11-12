@@ -1,0 +1,48 @@
+{
+  "pmid": "28644678",
+  "title": "Professional Athletes' Return to Play and Performance After Operative Repair of an Achilles Tendon Rupture.",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Most Achilles tendon ruptures are sports related. However, few studies have examined and compared the effect of surgical repair for complete ruptures on return to play (RTP), play time, and performance across multiple sports."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To examine RTP and performance among professional athletes after Achilles tendon repair and compare pre- versus postoperative functional outcomes of professional athletes from different major leagues in the United States."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "National Basketball Association (NBA), National Football League (NFL), Major League Baseball (MLB), and National Hockey League (NHL) athletes who sustained a primary complete Achilles tendon rupture treated surgically between 1989 and 2013 were identified via public injury reports and press releases. Demographic information and performance-related statistics were recorded for 2 seasons before and after surgery and compared with matched controls. Statistical analyses were used to assess differences in recorded metrics."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 86 athletes screened, 62 met inclusion criteria including 25 NBA, 32 NFL, and 5 MLB players. Nineteen (30.6%) professional athletes with an isolated Achilles tendon rupture treated surgically were unable to return to play. Among athletes who successfully returned to play, game participation averaged 75.4% ( P < .001) and 81.9% ( P = .002) of the total games played the season before injury at 1 and 2 years postoperatively, respectively. Play time was significantly decreased and athletes performed significantly worse compared with preoperative levels at 1 and 2 years after injury ( P < .001). When players were compared with matched controls, an Achilles tendon rupture resulted in fewer games played ( P < .001), decreased play time ( P = .025), and worse performance statistics ( P < .001) at 1 year but not 2 years postoperatively ( P > .05). When individual sports were compared, NBA players were most significantly affected, experiencing significant decreases in games played, play time, and performance."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "An Achilles tendon rupture is a devastating injury that prevents RTP for 30.6% of professional players. Athletes who do return play in fewer games, have less play time, and perform at a lower level than their preinjury status. However, these functional deficits are seen only at 1 year after surgery compared with matched controls, such that players who return to play can expect to perform at a level commensurate with uninjured controls 2 years postoperatively."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Among athletes who successfully returned to play, game participation averaged 75.4% ( P < .001) and 81.9% ( P = .002) of the total games played the season before injury at 1 and 2 years postoperatively, respectively."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "However, these functional deficits are seen only at 1 year after surgery compared with matched controls, such that players who return to play can expect to perform at a level commensurate with uninjured controls 2 years postoperatively."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

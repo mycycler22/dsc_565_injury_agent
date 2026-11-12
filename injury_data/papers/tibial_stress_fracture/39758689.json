@@ -1,0 +1,43 @@
+{
+  "pmid": "39758689",
+  "title": "Low-Load Blood-flow Restriction Training for Medial Tibial Stress-Syndrome in Athletes: A Case Series.",
+  "year": "2025",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Medial tibial stress syndrome (MTSS) is a common overuse injury characterized by activity-induced pain along the distal medial tibial border. Current best practice includes rest and progressive resistance training. However, some patients with MTSS may be unable to tolerate the loading during exercise. Blood-flow restriction training using low loads (LL-BFR) may induce similar physiological and structural adaptations as heavy resistance training but without peak loads. This could potentially allow the athlete to continue sports activities during rehabilitation."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The purpose of this case series was to describe an exercise program utilizing LL-BFR training for athletes with running-related MTSS."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series."
+    },
+    {
+      "label": "METHODS",
+      "text": "Six recreational athletes (one handball player, one soccer player, and four runners) with MTSS were recruited. Inclusion criteria included pain along the distal two-thirds medial tibial border occurring during or after activity. Exclusion criteria were symptoms of compartment syndrome, tibial stress fracture, or contraindications for BFR training. Participants underwent a progressive six-week home-based LL-BFR training intervention with three sessions per week and were allowed to continue sports activities if pain was ≤ NRS 5. Outcome measures included change in standardized running performance (distance and pain level), pain pressure threshold (algometry), and self-reported physical function."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Five athletes experienced improvements in running performance (pain and/or distance) and self-reported function. One athlete sustained an injury unrelated to the LL-BFR training, and therefore the running post-test could not be completed. Adherence to exercise was high, and post-test interviews revealed positive feedback on the training method, with no side effects reported."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This case series demonstrated that following a therapeutic exercise program utilizing LL-BFR training improvements in pain and function were seen in athletes with MTSS. BFR may allow clinicians to prescribe lower-load exercises, facilitating continued sports participation. Future research should compare the effectiveness of exercise programs for MTSS with and without LL-BFR training."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level V."
+    }
+  ],
+  "injury_query": "tibial stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "22773066",
+  "title": "Acute muscle strain injuries: a proposed new classification system.",
+  "year": "2012",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To better define and classify acute muscle strain injuries."
+    },
+    {
+      "label": "METHODS",
+      "text": "Historically, acute muscle strains have been classified as grade I, II and III. This system does not accurately reflect the anatomy of the injury and has not been shown to reliably predict prognosis and time for return to sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We describe an imaging (magnetic resonance or ultrasound) nomenclature, which considers the anatomical site, pattern and severity of the lesion in the acute stage. By site of injury, we define muscular injuries as proximal, middle and distal. Anatomically, based on the various muscular structures involved, we distinguish intramuscular, myofascial, myofascial/perifascial and musculotendinous injuries."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "This classification system must be applied to a variety of muscle architectures and locations to determine its utility; additional studies are therefore needed prior to its general acceptance."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "V."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "30356660",
+  "title": "Footfall patterns of a runner with an Achilles tendon rupture.",
+  "year": "2017",
+  "journal": "Journal of sport and health science",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "This study aims to compare the load and the length of previously ruptured and healthy Achilles tendon (AT) of a recreational runner who used different footfall patterns on each limb during running."
+    },
+    {
+      "label": "METHODS",
+      "text": "A 41-year-old recreational athlete with a ruptured AT participated in this report. Two force plates and a high-speed motion capture system were used to collect ground reaction force and kinematic data in shod and barefoot running conditions. AT length was measured using ultrasonography and an infrared camera system. AT force was estimated as the active plantar flexion moment divided by AT moment arm during stance phase."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The participant used a rearfoot pattern on the affected limb and a forefoot/midfoot pattern on the unaffected limb during shod running, and a forefoot/midfoot pattern during barefoot running. There was no difference between the length of the affected and the unaffected AT. During shod running, the maximal AT force and loading rate were lower in the affected AT versus the unaffected AT. During barefoot running, the affected maximal AT force and loading rate were greater than the unaffected AT."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Footfall patterns can be an adaptation to reduce the loading on a previously injured AT. It appears that runners may consider using a rearfoot footfall pattern during running to reduce the stress on the AT."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

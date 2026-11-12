@@ -1,0 +1,52 @@
+{
+  "pmid": "33914495",
+  "title": "Calcaneal Bone Bruise After Surgery for Insertional Achilles Tendinopathy.",
+  "year": "2022",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Excision of the posterosuperior corner of the calcaneus (EPCC) is routinely undertaken in athletes after failure of conservative management of insertional Achilles tendinopathy. Some patients can experience sharp calcaneal pain during postoperative rehabilitation, a sign of a calcaneal bone bruise (CBB)."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Case series, level of evidence IV."
+    },
+    {
+      "label": "SETTING",
+      "text": "University teaching hospital."
+    },
+    {
+      "label": "PATIENTS",
+      "text": "This study reports 8 patients who developed postoperative CBB after having started impact training too early."
+    },
+    {
+      "label": "INTERVENTION",
+      "text": "Patients in whom a diagnosis of CBB had been formulated were followed to return-to-play and resolution of bone edema by MRI."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Detection of CBB after EPCC."
+    },
+    {
+      "label": "RESULTS",
+      "text": "After routine EPCC for insertional Achilles tendinopathy, 8 patients presented with sharp pain for a mean 7.1 weeks (median 6 weeks, range 5-11 weeks) before clinical suspicion of CBB. At that stage, MRI showed clear evidence of a bone bruise, with a diagnosis of CBB formulated at an average of 10.8 postoperative weeks (range 6-16 weeks). Calcaneal bone bruise resolved with modified symptom-free loading. Patients returned to play at average on 5.6 months (range 2-9 months) after the diagnosis of postoperative CBB."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "We describe 8 athletes who developed painful CBB following routine EPCC for insertional Achilles tendinopathy after having increased their level of activities too soon after the index procedure. In these patients, the diagnosis of postoperative CBB can be formulated by MRI and more cautious rehabilitation implemented."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Patients returned to play at average on 5.6 months (range 2-9 months) after the diagnosis of postoperative CBB."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

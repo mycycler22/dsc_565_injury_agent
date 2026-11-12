@@ -1,0 +1,41 @@
+{
+  "pmid": "30954097",
+  "title": "Biceps Tenodesis Is a Viable Option for Management of Proximal Biceps Injuries in Patients Less Than 25 Years of Age.",
+  "year": "2019",
+  "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To evaluate outcomes after biceps tenodesis performed in patients younger than 25 years, to evaluate reoperations and complications in this population, and to critically appraise return to preinjury level of play for this population."
+    },
+    {
+      "label": "METHODS",
+      "text": "Forty-five consecutive patients younger than 25 years underwent subpectoral biceps tenodesis for biceps tendinopathy or biceps-labral complex injuries including SLAP tears. Biceps tenodesis was performed using an interference screw technique. Patients with a minimum 2-year follow-up were analyzed. Functional outcomes were assessed with the visual analog scale score, American Shoulder and Elbow Surgeons (ASES) score, ASES functional score, Simple Shoulder Test score, and range of motion. Activity level and return to sport were followed postoperatively."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 45 patients younger than 25 years who underwent biceps tenodesis, 36 (80%) were available for follow-up at a minimum of 2 years, with a mean age of 19.8 years and mean follow-up period of 38.6 months. Of these 36 patients, 34 (94%) were athletes, with 20 patients playing at collegiate level. All clinical outcome scores improved, with the ASES score improving from 54.7 to 81.7, the ASES functional score improving from 17.5 to 25.1, and the Simple Shoulder Test score improving from 7.4 to 10.1 (P < .001). At the time of follow-up, 4 patients (11%) had undergone revision surgery for other injuries. Of the 34 athletes, 25 (73%) returned to sports, with 19 returning at the same level and 6 returning at a lower level of play; 77% of overhead athletes returned to sports."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "When indicated, biceps tenodesis offers an alternative to SLAP repair in young patients. Biceps tenodesis in patients younger than 25 years yields satisfactory outcomes, with two-thirds of patients returning to sport and a low revision rate."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level IV, therapeutic case series."
+    }
+  ],
+  "injury_query": "tendinopathy",
+  "hits": [
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "Biceps tenodesis in patients younger than 25 years yields satisfactory outcomes, with two-thirds of patients returning to sport and a low revision rate."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

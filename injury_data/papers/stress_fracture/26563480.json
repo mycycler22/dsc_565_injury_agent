@@ -1,0 +1,24 @@
+{
+  "pmid": "26563480",
+  "title": "Treatment of proximal fifth metatarsal bone fractures in athletes.",
+  "year": "2015",
+  "journal": "Injury",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Proximal fifth metatarsal (V MT) bone fractures are common injuries that are a major diagnostic and therapeutic challenge. Lawrence and Botte considered different treatment options and the possibility of recovery and divided these fractures into three different regions: tuberosity avulsion fractures (zone I), acute fractures of the metaphysis at the level of the intermetatarsal junction (zone II) and proximal diaphysis stress fracture (zone III). A total of 42 athletes with fracture of the V MT bone in zone II and III were treated in our institution during a 6-year period. All patients were offered surgical treatment, but nine patients refused surgery. Thus, the patients were divided into two groups: group 1 comprised 33 patients who underwent an intramedullary screw fixation operation under regional anaesthesia immediately after the fracture was diagnosed; group 2 contained the remaining nine patients who had refused surgery and received conservative therapy with non-weight-bearing short-leg casts or orthosis. Follow-up ranged from 6 to 24 months. All fractures healed in group 1: healing occurred within 8 weeks in 26 patients and was prolonged to 16 to 18 weeks in four patients. In group 2, fractures healed in four patients but did not heal in five patients even after 6 months. Four of the five patients in whom the fracture did not heal required subsequent osteosynthesis because they had constant problems that caused absence from sport. After the operation, their fractures healed in an average of 10 weeks. One patient decided not to undergo the operation due to the absence of subjective symptoms. Three patients in group 1 who started intensive training sustained a refracture and underwent re-operation in which osteosynthesis was performed with a stronger screw. The fractures then healed again. Treatment results were evaluated radiologically and clinically using the Modified Foot Score. Results in group 1 were significantly better than those in group 2 and there was an earlier return to full athletic activity. The authors concluded that intramedullary fixation of V MT zone II and III fractures with cannulated compression screws was associated with excellent functional results and early and complete recovery."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "All fractures healed in group 1: healing occurred within 8 weeks in 26 patients and was prolonged to 16 to 18 weeks in four patients."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

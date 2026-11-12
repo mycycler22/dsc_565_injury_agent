@@ -1,0 +1,44 @@
+{
+  "pmid": "33049707",
+  "title": "Comparison of Trunk Flexion Proprioception Between Healthy Athletes and Athletes With Patellofemoral Pain.",
+  "year": "2020",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Patellofemoral pain (PFP) is the most commonly reported musculoskeletal overuse injury in active individuals, such as athletes, and is a multifactorial problem with no definite cause identified to date. Some studies have shown a relationship between impaired core and trunk sensorimotor control and knee disorders, especially PFP. The aim of this study was to evaluate trunk flexion proprioception by comparing the repositioning error between healthy athletes and athletes with PFP."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional case-control study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Rehabilitation sciences research center."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Twenty healthy athletes and 20 athletes with PFP."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "To examine proprioception of trunk flexors, the absolute active and passive repositioning error at 30° and 60° trunk flexion were evaluated with isokinetic dynamometry. The results were compared between the two groups."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In the PFP group, the active trunk repositioning error at 30° flexion was significantly greater than in the healthy individuals (P < .001). The mean absolute active repositioning error at 30° flexion was 3.04° (1.37°) in the PFP group and 1.50° (0.70°) in the control group. There was no significant difference between groups in the active trunk repositioning error at 60° flexion (P = .066). The mean absolute active repositioning error at 60° flexion was 2.96° (1.26°) in the PFP group and 2.18° (0.99°) in the control group. The passive trunk repositioning error at 30° and 60° flexion was significantly greater in the PFP group (P = .013 and P = .004, respectively). The mean absolute passive repositioning error at 30° and 60° flexion in the PFP group was 2.94° (0.80°) and 3.13° (1.19°), respectively, and was 2.08° (1.08°) and 1.96° (0.71°), respectively, in the control group. The calculated eta-squared value showed that joint repositioning errors had large effect sizes (0.15-0.32)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Trunk proprioception in the flexion direction may be impaired in patients with PFP. This finding suggests that trunk proprioception training may be important in rehabilitation for athletes with PFP."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

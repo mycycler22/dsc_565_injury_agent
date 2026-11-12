@@ -1,0 +1,19 @@
+{
+  "pmid": "34215012",
+  "title": "Semi-automated Tracing of Hamstring Muscle Architecture for B-mode Ultrasound Images.",
+  "year": "2022",
+  "journal": "International journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Hamstring strains are the most prevalent injury sustained by field-sport athletes. Insufficiencies in the architectural characteristics of the hamstring muscles can heighten an athlete's risk of incurring a hamstring strain. To evaluate the influence of hamstring muscle architectural characteristics (i. e., fascicle length, pennation angle, muscle thickness) on injury risk, it is necessary to precisely evaluate these characteristics. Considering this, our aim was to develop and evaluate the precision of a novel semi-automated tracing software to measure the architectural characteristics of the biceps femoris long head (the most commonly injured hamstring muscle) in B-mode ultrasound images. We acquired static sonograms of the biceps femoris long head from ten healthy male field-sport athletes. The architectural characteristics (fascicle length, pennation angle, and muscle thickness) of participants' biceps femoris long head were evaluated 10 times using the tracing software, with the specific purpose of determining its measurement precision. The tracing software precisely measured the architectural characteristics of the participants' biceps femoris long head: fascicle length (% CV: 0.64-1.12), pennation angle (% CV: 2.58-10.70), muscle thickness (% CV: 0.48-2.04) Our semi-automated skeletal muscle tracing algorithm precisely measures fascicle length, pennation angles, and muscle thickness of the biceps femoris long head in static B-mode ultrasound images."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

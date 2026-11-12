@@ -1,0 +1,43 @@
+{
+  "pmid": "28423285",
+  "title": "The Epidemiology of High Ankle Sprains in National Collegiate Athletic Association Sports.",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Ankle sprains are among the most common injuries experienced by collegiate athletes. The type of ankle sprain is rarely differentiated in epidemiological studies. This differentiation is necessary, as each ankle sprain type has a unique injury mechanism and recovery period. High ankle sprains commonly result in long recovery periods. Thus, a further examination of the epidemiology of high ankle sprains is warranted."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To describe the epidemiology of high ankle sprains in National Collegiate Athletic Association (NCAA) sports during the 2009/2010-2014/2015 academic years."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "NCAA Injury Surveillance Program high ankle sprain data and athlete-exposures (AEs) from 25 sports were evaluated. Certified athletic trainers recorded sport-related injury, event, and AE data during team-sanctioned events. High ankle sprain injury rates per 10,000 AEs were calculated. Percentage distributions were calculated for the amount of time lost from sport and percentage of recurrent injuries. Injury rate ratios (RRs) and 95% CIs compared injury rates by event type, participation restriction time, and sex. 95% CIs not containing 1.00 were considered statistically significant."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall high ankle sprain injury rate was 1.00 per 10,000 AEs. Overall, 56.7% of high ankle sprain injuries occurred during competitions, and 9.8% of high ankle sprain injuries were recurrent. Men's football (2.42/10,000 AEs), wrestling (2.11/10,000 AEs), and ice hockey (1.19/10,000 AEs) had the highest high ankle sprain injury rates. In sex-comparable sports, men had higher injury rates (RR, 1.77; 95% CI, 1.28-2.44). Player contact was the most common injury mechanism (60.4%), and 69.0% of injuries resulted in ≥1 day of participation restriction, with 47.1% resulting in ≥7 days of participation restriction and 15.8% resulting in >21 days of participation restriction."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "High ankle sprains resulted in significant participation restriction time from sport participation. The majority of high ankle sprain injuries resulted from player contact and were observed in contact/collision sports. The large proportion of high ankle sprains resulting from player contact, specifically in male contact sports, is worthy of further investigation."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "The enhanced understanding of the epidemiology of high ankle sprains provided in our study will aid clinicians in developing targeted injury prevention strategies to mitigate the negative consequences of these injuries."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

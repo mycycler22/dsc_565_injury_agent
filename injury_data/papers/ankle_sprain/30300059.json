@@ -1,0 +1,43 @@
+{
+  "pmid": "30300059",
+  "title": "Recent Ankle Injury, Sport Participation Level, and Tests of Proprioception.",
+  "year": "2019",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Assessing the effects of ankle injury and sport participation level on ankle proprioceptive sensitivity using a joint position reproduction (JPR) test and an inversion movement extent discrimination test."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional."
+    },
+    {
+      "label": "SETTING",
+      "text": "Biomechanics lab."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "Forty-five student athletes ages 21-30 (mean = 24.8 y)."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Participants were tested for ankle inversion sensitivity using 2 devices; movement reproduction error was obtained from JPR in a non-weight-bearing (N-WB) state at 10° and 15° of inversion, and an ankle proprioceptive sensitivity score was obtained from the active movement extent discrimination apparatus (AMEDA), representing the ability to differentiate 5 inversion movement extents between 10.5° and 14.5°, with testing in both N-WB and weight-bearing (WB) states."
+    },
+    {
+      "label": "RESULTS",
+      "text": "For the 34 athletes with no ankle injury in the previous 12 months, the sensitivity scores achieved on the AMEDA were significantly higher (P < .01) than those for the 11 athletes with ankle injury, and the injury effect was significantly greater in WB (P = .01). In JPR testing, the 2.96° error of reproduction for athletes with no recent ankle injury was not significantly different from the 3.36° error for those with ankle injury (P = .46). Correlation of current sport participation level with JPR showed less error for higher-level performers (r = .49, P = .001) but no significant relationship to WB or N-WB AMEDA scores (both P > .61). WB AMEDA scores were significantly higher for athletes who had competed at a higher level of sport competition when <18 years old (r = -.57, P < .001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Previous ankle sprains affected proprioceptive scores on the WB AMEDA and N-WB AMEDA tests, indicating the sensitivity of the AMEDA movement discrimination test to the effects of ankle injury. The correlation between JPR scores and current level of sport participation suggests the sensitivity of the JPR test to current ankle use."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

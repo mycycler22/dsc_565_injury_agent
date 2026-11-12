@@ -1,0 +1,31 @@
+{
+  "pmid": "20686049",
+  "title": "Differences between sexes in lower extremity alignment and muscle activation during soccer kick.",
+  "year": "2010",
+  "journal": "The Journal of bone and joint surgery. American volume",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Injury risk in soccer varies by sex. Female soccer players face a greater risk of anterior cruciate ligament injury and patellofemoral problems, while male players are more likely to experience sports hernia symptoms. The purpose of this study was to test the hypothesis that females have different lower-extremity alignment and muscle activation patterns than males during the soccer kick."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirteen male and twelve female college soccer players underwent three-dimensional motion analysis and electromyography of seven muscles (iliacus, gluteus maximus, gluteus medius, vastus lateralis, vastus medialis, hamstrings, and gastrocnemius) in both the kicking and the supporting lower extremity and two additional muscles (hip adductors and tibialis anterior) in the kicking limb only. Five instep and five side-foot kicks were recorded for each player. Muscle activation was recorded as a percentage of maximum voluntary isometric contraction."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The male soccer players had significantly higher mean muscle activation than their female counterparts with respect to the iliacus in the kicking limb (123% compared with 34% of maximal voluntary isometric contraction; p = 0.0007) and the gluteus medius (124% compared with 55%; p = 0.005) and vastus medialis muscles (139% compared with 69%; p = 0.002) in the supporting limb. The supporting limb reached significantly greater mean hip adduction during the stance phase of the kick in the females compared with that in the males (15 degrees and 10 degrees, respectively; p = 0.006)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Differences between the sexes in lower extremity alignment and muscle activation occur during the soccer instep and side-foot kicks. Decreased activation of the hip abductors and greater hip adduction in the supporting limb during the soccer kick in female athletes may be associated with their increased risk for anterior cruciate ligament injury."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

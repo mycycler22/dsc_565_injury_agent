@@ -1,0 +1,39 @@
+{
+  "pmid": "37655253",
+  "title": "Responsiveness of the Indonesian Versions of the Anterior Cruciate Ligament-Return to Sport After Injury Score, the International Knee Documentation Committee Subjective Knee Form, and the Lysholm Score in Patients With ACL Injury.",
+  "year": "2023",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The Indonesian versions of the Anterior Cruciate Ligament-Return to Sport after Injury (ACL-RSI), International Knee Documentation Committee subjective knee form (IKDC), and the Lysholm scores are considered valid and reliable for Indonesian-speaking patients with anterior cruciate ligament (ACL) injury."
+    },
+    {
+      "label": "PURPOSE/HYPOTHESIS",
+      "text": "The purpose of this study was to determine the responsiveness of the ACL-RSI, IKDC, and Lysholm scores in an Indonesian-speaking population with ACL injury. It was hypothesized that they would have good responsiveness."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study (diagnosis); Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "Between March 1, 2021, and February 28, 2022, patients with an ACL injury at a single hospital in Indonesia were asked to complete the ACL-RSI, IKDC, and Lysholm scores before either reconstruction surgery or nonoperative treatment. At 6 months after treatment, the patients completed all 3 scores a second time, plus a global rating of change question. The distribution-based and the anchor-based methods were used to study responsiveness. For each scale, the standardized response mean, minimal clinically important difference (MCID), and minimal detectable change (MDC; at the group [MDC<sub>gr</sub>] and individual [MDC<sub>ind</sub>] levels) for each scale were determined."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 80 eligible patients, 75 (93.8%) completed the study. The standardized response means for the ACL-RSI, IKDC, and Lysholm scores were 1.59, 1.72, and 1.51, respectively, indicating good responsiveness. The MCIDs for the ACL-RSI, IKDC, and Lysholm scores were 6.8, 7.8, and 4.8, respectively; all MCIDs were larger than that of the MDC<sub>gr</sub> (1.1, 0.7, and 0.6, respectively). At the individual level, the MCID for the IKDC was larger than the MDC<sub>ind</sub> (7.8 vs 5.8). However, the MCIDs for ACL-RSI and Lysholm scores were smaller than those of the MDC<sub>ind</sub> (6.8 vs 10.9 and 4.8 vs 5.1, respectively)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The Indonesian ACL-RSI, IKDC, and Lysholm scores indicated good responsiveness and can be used in the follow-up of patients after ACL injury, especially at the group level. In individual patients, IKDC was found to be more efficient than the ACL-RSI or Lysholm scores for detecting clinically important changes over time after ACL treatment."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

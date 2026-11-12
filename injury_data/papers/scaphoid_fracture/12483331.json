@@ -1,0 +1,36 @@
+{
+  "pmid": "12483331",
+  "title": "Scaphoid fracture in the young athlete--therapeutic outcome of internal fixation using the Herbert screw.",
+  "year": "2002",
+  "journal": "Archives of orthopaedic and trauma surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "A fractured scaphoid is a common disabling injury occurring in contact sports. This study was designed to evaluate the therapeutic outcome of Herbert screw fixation for scaphoid fracture in young athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty athletes with 30 scaphoid fractures were treated. According to the Herbert classification, 10 were classified as acute fracture (group I), 6 as fibrous union (group II) and 14 as pseudoarthrosis (group III). Twenty scaphoid non-unions were due to missed diagnosis or unsuccessful immobilisation."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Bony union was evident at an average of 9.2, 8.0 and 11.9 weeks postoperatively in groups I, II and III, respectively, and times for returning to sports were 10.7, 14.0 and 22.9 weeks. The clinical outcome assessed using the Mayo wrist score was excellent in groups I (97.5 points) and II (93.3) and good in group III (85.4)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Early definitive diagnosis and treatment can allow early return to sports in young athletes. The Herbert screw technique produces an excellent clinical result for scaphoid fracture."
+    }
+  ],
+  "injury_query": "scaphoid fracture",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Bony union was evident at an average of 9.2, 8.0 and 11.9 weeks postoperatively in groups I, II and III, respectively, and times for returning to sports were 10.7, 14.0 and 22.9 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

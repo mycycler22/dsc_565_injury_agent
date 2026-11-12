@@ -1,0 +1,31 @@
+{
+  "pmid": "41350914",
+  "title": "A practical assessment of hamstring muscle endurance and fatigue using the maximum-speed single-leg bridge test.",
+  "year": "2025",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The single-leg bridge test aims to evaluate hamstring muscle endurance but lacks speed regulation and requires prolonged testing, which may compromise sensitivity and reliability. The maximum-speed single-leg bridge test (MS-SLBT) was developed to address these limitations, but its ability to induce hamstrings fatigue remains unclear. Furthermore, it is unknown which practical outcomes, such as buttock-raising height or speed, best reflect this fatigue. Therefore, we assessed changes in muscle activation, buttock-raising height, buttock-raising speed, and heel-bearing force during 20 repetitions of the MS-SLBT."
+    },
+    {
+      "label": "METHODS",
+      "text": "This cross-sectional observational study included 26 male recreational athletes. Surface electromyography was used to assess fatigue by measuring the median frequency (MDF) and amplitude of the semitendinosus (ST), biceps femoris (BF), and gluteus maximus (GM). Motion characteristics, including heel-bearing force and buttock-raising height and speed, were analyzed across 18 repetitions (from the 2nd to the 19th) to evaluate changes during the MS-SLBT."
+    },
+    {
+      "label": "RESULTS",
+      "text": "During the MS-SLBT, the MDF of the ST and BF decreased by 15.2% and 14.9%, respectively (p < 0.01), while the GM showed no significant change (- 2.4%, p = 0.57). The amplitude significantly increased after the 6th and 9th repetitions for ST and BF, respectively. Buttock-raising speed and heel-bearing force at the 19th repetition decreased by 8.9% and 10.4%, respectively, compared with the 2nd repetition (p < 0.01), while buttock-raising height did not significantly change (+ 1.1%, p = 0.73)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Performing 20 MS-SLBT repetitions induced local hamstrings fatigue as indicated by MDF reductions and amplitude increases in the ST and BF. Buttock-raising speed and heel-bearing peak force decreased with fatigue and therefore can serve practical indicators of this fatigue, whereas buttock-raising height was not sensitive to fatigue."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

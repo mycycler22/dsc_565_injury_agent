@@ -1,0 +1,40 @@
+{
+  "pmid": "35438010",
+  "title": "Minimum 2-Year Outcomes and Return to Sports of Competitive Athletes Who Undergo Subspine Decompression During Primary Hip Arthroscopy for Femoroacetabular Impingement Syndrome and Subspine Impingement: A Propensity-Matched Controlled Study.",
+  "year": "2022",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patient-reported outcomes (PROs) and return to sports (RTS) have not been established in athletes undergoing primary hip arthroscopy and subspine decompression for femoroacetabular impingement syndrome (FAIS) and subspine impingement (SSI)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "(1) To report minimum 2-year PROs and RTS in competitive athletes undergoing primary hip arthroscopy for treatment of FAIS with subspine decompression for treatment of SSI and (2) to compare clinical results with a matched control group of athletes without SSI."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study, Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Data were reviewed for professional, collegiate, and high school athletes undergoing primary hip arthroscopy for FAIS with arthroscopic subspine decompression for SSI between February 2011 and October 2018. Inclusion criteria included preoperative and minimum 2-year follow-up scores for the modified Harris Hip Score, Nonarthritic Hip Score, Hip Outcome Score-Sport Specific Subscale, and visual analog scale for pain. Rates of achieving the minimal clinically important difference (MCID) were also calculated. For comparison, athletes in the SSI group were propensity matched according to age at the time of surgery, sex, body mass index, lateral center-edge angle, alpha angle, sport level, acetabular labrum articular disruption grade, and sport type to a control group of athletes without SSI."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 30 SSI athletes were included in the study, with a mean plus or minus standard deviation follow-up of 32.1 ± 7.1 months and age of 20.9 ± 5.7 years. The SSI cohort demonstrated significant improvement in all recorded PROs (<i>P</i> < .001), returned to sports at high rates (88.5%), and achieved the MCID for the Hip Outcome Score-Sport Specific Subscale at a high rate (80.0%). Furthermore, these patients had a low rate of undergoing revision surgery (6.7%). When compared with a propensity-matched control group of 59 athletes, the SSI group demonstrated similar rates of RTS, revision, and achieving the MCID for all PROs."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Competitive athletes with FAIS and SSI who underwent primary hip arthroscopy and subspine decompression had favorable outcomes and high RTS rates at minimum 2-year follow-up. These results were comparable with those of a control group of athletes without SSI undergoing primary hip arthroscopy."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,72 @@
+Title: Economic and Performance Analysis of Achilles Tendon Rupture in the National Basketball Association. | Type: Journal Article | PMID: 39539688 | Year: 2024 | Injury query: Achilles tendon rupture
+[RESULTS] Overall RTP was 78.38%, and 31.03% of players who returned to play were out of the NBA within 3 years.
+[FULLTEXT: Results:] A total of 37 players met the inclusion criteria and played between the years of 1992 through 2019. The mean COR that NBA teams faced was $4 million per player. The cumulative economic loss from Achilles tendon ruptures in the NBA between 1992 and 2019 was $117,578,851. Overall RTP was 78.38%, and 31.03% of players who returned to play were out of the NBA within 3 years. RTP to the highest playing level was highest in group B (45.5%), followed by group A (40%) then group C (12.5%). The COR of All-Star players, Starter players, and Reserve players averaged $5.7 million, $3.4 million, and $3 million, respectively.
+[FULLTEXT: Results] In total, 45 NBA players sustained an Achilles tendon tear between 1990 and 2023. Of these players, 3 were excluded for a partially torn tendon, and 5 were excluded due to being currently active on an NBA roster as of 2023. A total of 37 players who met the inclusion criteria were further analyzed. Eight out of the 37 players sustained an NBA career-ending injury—meaning they did not play any minutes in the NBA after injury—and therefore were not included in the analysis concerning postinjury statistics. Thus, 29 players were used for the postinjury analysis portion of the study. The selection process is shown in Figure 1. Out of the players who met the inclusion criteria, the RTP rate was 78.38% (29/37) and the return to the previous level of success was 27.03% (10/37). Only 54.05% (20/37) of players remained in the NBA 3 years postinjury. The mean age at the time of injury was 28.07 years, and the mean body mass index was 25.32. Mean height and weight were 2.02 m and 103.6 kg, respectively. The most Achilles tendon ruptures (n = 3) occurred in 2019. Of the given 37 players, 55.55% of these players were drafted in the first round, 28.88% were drafted in the second round, 15.55% were initially undrafted, and 59.52% were a top 15 draft pick. Cumulative economic loss to NBA franchises was calculated from the sum of all players’ guaranteed salaries paid while they were not able to play in a season. The players in the All-Star group had a mean of $5.7 million with a sum of $51.7 million, the Starter players had a mean of $3.4 million with a sum of $41.2 million, and the Reserves had a mean of $3 million with a sum of $24.6 million. The All-Star group played a larger number of minutes (23,901 minutes) before sustaining an Achilles tendon rupture compared with the other groups (Table 2). The All-Star group also exhibited a decline of 18,838 minutes played after injury, which is greater than that of Starter players (difference of 12,920 minutes when compared to the decline experienced by the All-Star group; P = .0093) and Reserves (difference of 13,770 minutes when compared to the decline experienced by the All-Star group; P = .012). After the injury, the All-Star and Starter groups continued to play more, playing +8.3 minutes (P = .003) and +5.8 minutes (P = .030) more than the Reserve players, respectively, despite a larger reduction in the mean number of minutes played by the All-Star group (–11.1 minutes; P = .032) and the Starter group (–8.2 minutes; P = .237) (Table 2). The All-Star group also exhibited the greatest decline in the difference between the number of games started before and after the injury when compared with both the Starter players (difference of 264.3; P = .027) and the Reserve players (difference of 422.8; P = .001). All Star–caliber players had a higher preinjury PER, 6.79 points greater than that of Reserve-level players (P = .003) (Table 3). However, in their first year playing postinjury, none of the groups exhibited a statistically significant difference in PER when compared with each other. Notably, there were also no statistically significant differences noted between postinjury and preinjury levels of PER. Reserve (P < .001) and All-Star players (P = .002) were more likely to return to their highest playing level after injury compared with Starter players. As expected, All-Star players made a higher salary during their injured season ($14,330,666; P = .01) (Table 4). They had the shortest recovery time at 267.6 days, followed by Reserve players at 340.0 days and Starter players at 367.1 days. Group C played more total minutes (21,899 minutes; P = .004) than group A (6643 minutes) before sustaining an Achilles tendon rupture (Figure 5). Furthermore, group C exhibited a steep decline of 17,080 minutes played from pre- to postinjury, greater than that of group A (difference in decline between the groups of −14,366 minutes; P = .009). Group C also averaged more minutes per game (33.3 minutes; P = .002) before injury than group A (21.8 minutes). Notably, there were no statistical differences in the number of minutes or mean minutes played postinjury; however, group C displayed a greater reduction in mean minutes played after injury compared with group A (difference of −7.1 minutes; P = .018). Group C (P = .006) and group B (P = .04) both played more games before injury than group A; however, no statistical difference was noted after injury (Figure 5). Thus, both groups C (difference of −413.5 games; P = .03) and B (difference of −359 games; P = .04) saw steep declines in the difference in games played after injury compared with group A. Players in group C also started in more games preinjury compared with group A (552.6 games; P = .01), but the same correlation was not seen postinjury; thus, group C saw a statistically significant reduction in the difference in games started after injury (difference of −325.5 games; P = .02). We also observed a greater PER for the season before the injury between group C and both groups A (+5.15; P = .03) and B (+5.51; P =.01) (Table 6). However, among the groups, there were no statistically significant differences found in the percentage of players out of the NBA within 3 years or the percentage of players who returned to their highest playing level. There were also no statistically significant differences in VORP or Win Shares per 48 minutes among the groups before or after injury. The preinjury, first-year postinjury, and second-year postinjury salaries of group C were greater than those of both groups A (P < .001) and B (P < .001) (Table 7). We found no statistically significant differences in pre- or postinjury salaries between group B and group C. Interestingly, although not statistically significant, only the mean salaries for group C decreased consistently throughout the postinjury years. Group A exhibited a remarkable 114% increase in their first-year postinjury mean salary while group B also witnessed a slight 5% increase. B
+[FULLTEXT: TABLE: Mean Performance Data, Percentage Returning to NBA, and Percentage Recovered to Prior Playing Levels for NBA-Injured Players at Each Preinjury Career Success Level a]  | All-Star | Starter | Reserve
+Total Achilles tendon tears, n | 9 | 12 | 8
+Player statistics
+Age, y | 30.78 ± 2.68 b | 26.67 ± 2.90 | 27.12 ± 3.72
+WS48 of season before injury | 0.20 ± 0.23 | 0.09 ± 0.04 | 0.06 ± 0.05
+WS48 of season after injury | 0.13 ± 0.15 | 0.05 ± 0.05 | 0.06 ± 0.05
+WS48 difference | 0.07 ± 0.14 | 0.05 ± 0.06 | 0.00 ± 0.06
+VORP of season before injury | 1.51 ± 1.69 | 0.78 ± 0.90 | 0.16 ± 0.63
+VORP of season after injury | 0.81 ± 1.58 | −0.25 ± 0.56 | −0.17 ± 0.44
+VORP difference | 0.70 ± 2.02 | 1.03 ± 0.88 | 0.34 ± 0.70
+PER of season before injury | 18.26 ± 4.00 c | 15.53 ± 2.32 | 11.47 ± 5.05
+PER of season after injury | 15.00 ± 4.82 | 11.85 ± 3.31 | 10.70 ± 3.20
+PER difference | −3.26 ± 4.22 | −3.67 ± 2.67 | −0.78 ± 5.09
+Return to play
+Out of NBA within 3 years, % | 11.1 | 25.0 | 62.5
+Returned to highest playing level, % | 22.2 b | 0.0 | 100.0 d
+[FULLTEXT: TABLE: Mean Salary Data, Length of Recovery Time, and Cost of Recovery PerNBA-Injured Player at Each Preinjury Career Success Level a]  | All-Star | Starter | Reserve
+Total Achilles tendon tears, n | 9 | 12 | 8
+Salary
+Preinjury, year of injury | $14,330,666 ± $10,484,387 | $5,701,318 ± $4,093,261 | $4,078,993 ± $3,102,403
+Per game, year of injury | $174,764 ± $127,858 | $69,528 ± $49,918 | $49,744 ± $37,834
+Postinjury year 1 | $14,506,558 ± $10,000,502 | $6,461,369 ± $3,439,027 | $4,023,010 ± $3,153,149
+Postinjury year 2 | $12,376,730 ± $8,252,464 | $4,839,959 ± $4,011,840 | $3,841,313 ± $3,337,519
+Postinjury year 3 | $10,446,739 ± $10,357,007 | $5,553,538 ± $5,526,133 | $3,287,575 ± $2,789,321
+Change, %
+Year 1 | 1.2 | 13.3 | −1.4
+Year 2 | −15 | −25 | −5
+Year 3 | −15.6 | 14.7 | −14.4
+Games missed
+Season of injury | 38.3 ± 23.1 | 50.4 ± 26.9 | 63.1 ± 25.5
+Season after injury | 41.7 ± 26.5 | 29.6 ± 18.7 | 36.6 ± 22.1
+Total | 80.0 ± 30.7 | 80.0 ± 36.9 | 99.8 ± 31.5
+Recovery time, d | 267.6 ± 81.0 | 367.1 ± 110.3 | 340.0 ± 79.9
+Cost of recovery | $5,746,468 | $3,438,299 | $3,075,132
+[FULLTEXT: TABLE: Mean Performance Data, Percentage Returning to NBA, and Percentage Recovered to Prior Playing Levels for NBA-Injured Players in Each Salary Group a , b]  | Group A | Group B | Group C
+Total Achilles tendon tears, n | 10 | 11 | 8
+Player statistics
+Age, y | 25.40 ± 3.72 | 29.55 ± 2.34 c | 29.38 ± 2.83 d
+WS48 of season before injury | 0.08 ± 0.06 | 0.08 ± 0.05 | 0.21 ± 0.24
+WS48 of season after injury | 0.07 ± 0.04 | 0.05 ± 0.07 | 0.12 ± 0.16
+WS48 difference | 0.01 ± 0.05 | 0.03 ± 0.07 | 0.09 ± 0.14
+VORP of season before injury | 0.30 ± 0.75 | 0.79 ± 1.03 | 1.57 ± 1.66
+VORP of season after injury | −0.34 ± 0.47 | 0.33 ± 1.58 | 0.34 ± 0.46
+VORP difference | 0.64 ± 0.67 | 0.46 ± 1.36 | 1.23 ± 1.75
+PER of season before injury | 13.97 ± 3.41 | 13.61 ± 4.96 | 19.12 ± 2.54
+PER of season after injury | 11.61 ± 2.22 | 11.82 ± 5.32 | 14.59 ± 3.59
+PER difference | −2.36 ± 3.24 | −1.79 ± 4.60 | −4.53 ± 3.84
+Return to play
+Out of NBA within 3 years, % | 20.0 | 54.5 | 12.5
+Returned to highest playing level, % | 40.0 | 45.5 | 12.5
+[FULLTEXT: TABLE: Mean Salary Data, Length of Recovery Time, and Cost of Recovery PerNBA-Injured Player in Each Salary Group a , b]  | Group A | Group B | Group C
+Total Achilles tendon tears, n | 10 | 11 | 8
+Salary
+Preinjury, year of injury | $2,296,886 ± $1,150,481 | $6,072,135 ± $1,471,949 | $17,532,676 ± $8,875,818
+Per game, year of injury | $28,011 ± $14,030 | $74,050 ± $17,951 | $213,813 ± $108,242
+Postinjury year 1 | $4,915,884 ± $4,904,642 | $6,372,644 ± $2,646,215 | $15,127,700 ± $10,131,455
+Postinjury year 2 | $4,174,815 ± $3,372,428 | $4,297,146 ± $3,275,298 | $13,928,793 ± $7,877,486
+Postinjury year 3 | $4,539,460 ± $3,622,633 | $4,734,087 ± $2,944,955 | $11,918,910 ± $11,517,556
+Change, %
+Year 1 | 114 | 5 | −14
+Year 2 | −15.1 | −32.6 | −7.9
+Year 3 | 8.7 | 10.2 | −14.4
+Games missed
+Season of injury | 60.6 ± 27.2 | 49.5 ± 25.7 | 38.0 ± 23.5
+Season after injury | 29.3 ± 21.3 | 35.6 ± 21.0 | 42.2 ± 25.0
+Total | 89.9 ± 28.3 | 85.1 ± 44.3 | 80.2 ± 25.1
+Recovery time, d | 352.3 ± 73.7 | 350.7 ± 119.6 | 269.0 ± 86.3
+Cost of recovery | $1,585,426 | $3,830,191 | $7,449,061

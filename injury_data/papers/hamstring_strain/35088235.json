@@ -1,0 +1,35 @@
+{
+  "pmid": "35088235",
+  "title": "NZ-RugbyHealth Study: Self-reported Injury Experience and Current Health of Former Rugby Union and Non-contact Sport Players.",
+  "year": "2022",
+  "journal": "Sports medicine (Auckland, N.Z.)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is limited research on associations between playing rugby union and player health post-retirement."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "This study investigated differences in self-reported sport injury history and current self-reported health characteristics between former New Zealand rugby and non-contact sport players with a view to identifying issues to be further investigated with stronger epidemiological research designs."
+    },
+    {
+      "label": "METHODS",
+      "text": "Using a cross-sectional design, the NZ-RugbyHealth study surveyed 470 former rugby and non-contact sport players (43.8 ± 8.1 years; 127 elite rugby, 271 community rugby, 72 non-contact sport) recruited from October 2012 to April 2014. Demographic information, engagement in sport, sport injuries, medical conditions, mood, alcohol and substance use and ratings of current health status were obtained from a self-report 58-item general health e-questionnaire. We highlighted standardised differences in means of > 0.6 and differences in relative percentages of > 1.43 for variables between groups as representing at least moderate effect sizes, and of being worthy of follow-up studies."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Higher percentages of the elite rugby player group had sustained injuries of a given body-site type (e.g. neck sprain/strain, thigh bruising, hamstring strain) combination than the non-contact sports players. Higher percentages of the rugby groups reported having sustained concussion (94% for elite, 82% for community, 26% for non-contact), injuries requiring hospitalisation (73%, 46%, 25%), injuries that stopped participation in sport permanently (28%, 28%, 11%) and sport-related surgery (72%, 46%, 32%) during their playing career. Both rugby groups had a higher prevalence of osteoarthritis (37%, 18%, 6%) than non-contact athletes and community rugby players had higher levels of hazardous alcohol consumption (38%, 40%, 25%) in retirement than non-contact athletes. There was little difference between rugby players and non-contact sports athletes in self-reported mood, substance use and current physical or psychological health ratings."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Former rugby player groups were at higher risk than the non-contact player group for most injuries during their playing careers, and in retirement had greater prevalence of osteoarthritis and hazardous alcohol consumption. The relative youth of the groups (43.8 years on average) means that health issues that typically do not emerge until later life may not have yet manifested."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

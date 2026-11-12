@@ -1,0 +1,40 @@
+{
+  "pmid": "33980758",
+  "title": "Clinical Characteristics and Surgical Outcomes for Collision Athletes with Traumatic Posterior Instability.",
+  "year": "2021",
+  "journal": "Journal of Nippon Medical School = Nippon Ika Daigaku zasshi",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Diagnosis and treatment of traumatic posterior instability of the shoulder have not been described in detail. The author investigated surgical outcomes for traumatic posterior shoulder joint instability in collision athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "The author surgically treated patients with a diagnosis of traumatic shoulder joint instability and investigated those that had been followed up for >2 years after surgery."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seven shoulders in six collision athletes with a history of traumatic injury were examined. All cases were negative for the general laxity sign and positive for the posterior jerk test; five shoulders showed positive anterior apprehension. Posterior glenoid osseous defects were found in three shoulders, and one shoulder injury involved anterior and posterior osseous lesions. As surgical treatment, one posterior capsulolabral lesion, two posterior osseous lesions, and three combined anterior and posterior capsulolabral lesions were repaired arthroscopically. In a patient with a combined anterior and posterior osseous lesion, the Bristow procedure was perfromed after arthroscopic osseous repair. Patients returned to competition at an average of 6.8 months after surgery. One patient developed anterior subluxation at 7 months, and another exhibited posterior re-dislocation at 8 months after returning to competition."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Traumatic posterior instability in collision athletes often involves glenoid osseous lesions and is frequently accompanied by anterior apprehension and lesions. Although collision athletes can return to play after arthroscopic repair, such activity is associated with a risk of re-dislocation."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Patients returned to competition at an average of 6.8 months after surgery."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "One patient developed anterior subluxation at 7 months, and another exhibited posterior re-dislocation at 8 months after returning to competition."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

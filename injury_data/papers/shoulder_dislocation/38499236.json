@@ -1,0 +1,33 @@
+{
+  "pmid": "38499236",
+  "title": "Higher return to sport and lower revision rates when performing arthroscopic Bankart repair with remplissage for anterior shoulder instability with a Hill-Sachs lesion: a meta-analysis.",
+  "year": "2024",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Recurrent anterior shoulder instability remains the most common complication from a prior shoulder dislocation, especially among young and active individuals who engage in athletic activities. This instability can lead to repeated subluxation or dislocations of the humeral head from the glenoid fossa. The purpose of this study is to compare postoperative recurrence rates, instability-related revision and return to sport (RTS) rates between isolated arthroscopic Bankart repair (ABR) and ABR with remplissage (ABR + R) for anterior shoulder instability with subcritical glenoid bone loss (GBL) and a Hill-Sachs lesion (HSL)."
+    },
+    {
+      "label": "METHODS",
+      "text": "PubMed, Embase, and Web of Science were searched on June 2022. Studies sought were those comparing postoperative outcomes of ABR + R versus isolated ABR for subcritical GBL and an HSL. Study quality was evaluated using the revised Cochrane tool. Redislocations, instability-related revisions, and RTS rates were extracted and pooled estimates were calculated using the random-effect model."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twelve studies were included with a mean follow-up of 48.2 months for isolated ABR and 43.2 months for ABR + R. The meta-analytic comparison demonstrated that ABR + R resulted in statistically significant improvement in Rowe and American Shoulder and Elbow Surgeons scores by 6.5 and 2.2 points, respectively; however, the improvements in patient-reported outcomes were not clinically meaningful. ABR + R resulted in reduced external rotation at the side by 1° which was not clinically meaningful and there was no significant difference in terms of forward elevation. ABR + R resulted in a statistically significant reduction of overall postoperative recurrences (odds ratio [OR]: 9.36), postoperative dislocations (OR: 6.28), instability-related revision (OR: 3.46), and RTS to any level (OR: 2.85)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The addition of remplissage to ABR for recurrent anterior shoulder instability with subcritical GBL and HSL results in significantly lower postoperative instability recurrence, lower instability-related revisions, and higher RTS to any level."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

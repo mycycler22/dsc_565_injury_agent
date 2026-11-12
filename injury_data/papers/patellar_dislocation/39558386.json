@@ -1,0 +1,35 @@
+{
+  "pmid": "39558386",
+  "title": "Predicting two-year return-to-sport failure after medial patellofemoral ligament reconstruction in patellar dislocation patients with bone abnormalities.",
+  "year": "2024",
+  "journal": "Journal of orthopaedic surgery and research",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To develop a comprehensive and validated personalized scoring system based on anatomical characteristics to predict the probability of failure to return to sport after medial patellofemoral ligament reconstruction in patients with patellar dislocation."
+    },
+    {
+      "label": "METHODS",
+      "text": "312 patients with medial patellofemoral ligament reconstruction in our hospital from 2013 to 2023 were included. Demographic and anatomical characteristics were collected retrospectively. A backward stepwise approach was used to identify independent predictors, and a nomogram was constructed to predict the probability of recurrence. The predictive performance was evaluated by receiver operating characteristic curves, calibration diagram and decision curve analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Multivariate analysis showed that increased tibial tubercle-trochlear groove (TT-TG) distance, trochlear dysplasia, increased femoral anteversion angle, and patellar alta were independent risk factors for failure of return to sport after medial patellofemoral ligament reconstruction. Validation of this column graph in the training cohort and validation cohort showed strong predictive power, with areas under the curve of 0.850 and 0.844, respectively. The nomogram has good calibration and good clinical practicability."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The study developed a personalized predictive nomogram with 4 predictors (increased TT-TG distance, trochlear dysplasia, increased femoral anteversion angle, and patellar alta) that allowed surgeons to stratify the risk of failure to return to sport after medial patellofemoral ligament reconstruction and recommend skeletal surgery for patients with these factors."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

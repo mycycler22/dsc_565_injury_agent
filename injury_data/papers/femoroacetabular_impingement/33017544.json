@@ -1,0 +1,42 @@
+{
+  "pmid": "33017544",
+  "title": "Can We Identify Why Athletes Fail to Return to Sport After Hip Arthroscopy for Femoroacetabular Impingement Syndrome? A Systematic Review and Meta-analysis.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "No previous systematic review has focused on the athletes who fail to return to sport after hip arthroscopy for femoroacetabular impingement syndrome (FAIS)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To review the literature on the athletes who fail to return to sport after hip arthroscopy for FAIS to determine the rate of nonreturning athletes and explore the reasons for their inability to return to sport after arthroscopic FAI surgery."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review and meta-analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "Three electronic databases were searched for eligible articles. Two reviewers independently screened the titles, abstracts, and full-text articles using prespecified criteria. Eligible articles were those that clearly stated the rate of athletes who did not return to sport after hip arthroscopy for FAIS. Data collected were the rate of patients who did not return to sport, the level of competition (high level, recreational, or mixed), the type of sport, comments on patients who did not return to sport, the rate of subsequent hip surgeries (total hip replacement or revision hip arthroscopy) in nonreturning athletes, and the reported reason for not returning to sport. A random-effects model was used for meta-analysis."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty studies were eligible for inclusion, and 1093 athletes were analyzed. The weighted rate of athletes who did not return to sport after hip arthroscopy for FAIS was 12.1% (95% CI, 7.7-17.4). Only 2 studies (2/20;10%) reported the age of the athletes who did not return, while sex was reported in 3 studies (3/20;15%). The estimated proportion of athletes who did not return to sport because of hip-related issues was significantly greater than the percentage of athletes who did not return for reasons unrelated to their hip (74.3% vs 22.3%; <i>P</i> < .0001). Persistent hip pain was the most commonly reported factor (52/110 patients; 47.2%) associated with failure to return to sport. Whether the nonreturning athletes underwent any subsequent hip procedure after hip arthroscopy for FAIS was reported in only 4 out of 20 studies (20%). There was evidence of publication bias and study heterogeneity."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The estimated rate of athletes who did not return to sport after hip arthroscopy for FAIS was 12%, with the majority of athletes being unable to return because of persistent hip pain. There is a severe lack of evidence on the athlete characteristics and clinical course of the nonreturning athletes, and the rate of subsequent hip procedures is unknown. The outcomes and reasons for athletes not returning to sport should be reported in detail to improve patient care."
+    }
+  ],
+  "injury_query": "femoroacetabular impingement",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

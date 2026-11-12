@@ -1,0 +1,32 @@
+{
+  "pmid": "35017101",
+  "title": "Which psychosocial factors are associated with return to sport following concussion? A systematic review.",
+  "year": "2022",
+  "journal": "Journal of sport and health science",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Psychosocial factors predict recurrent injury and return to preinjury level of performance following orthopedic injury but are poorly understood following concussion. Current management protocols prioritize physical measures of recovery. Therefore, the objective of this study was to describe the psychosocial factors associated with return to sport (RTS) and how they are measured in athletes who sustained a concussion."
+    },
+    {
+      "label": "METHODS",
+      "text": "MEDLINE, Embase, APA PsycINFO, CINAHL, and SPORTDiscus were searched through February 2, 2021. Eligible studies included original peer-reviewed publications describing psychosocial factors associated with RTS following a diagnosed concussion. The primary outcome was scales or measures employed and/or key thematic concepts."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of the 3615 studies identified, 10 quantitative cohort studies (Oxford Centre for Evidence-Based Medicine Level-3) representing 2032 athletes (85% male; high-school and collegiate collision/contact athletes) and 4 qualitative studies representing 66 athletes (74% male; 70% American football; aged 9-28 years) were included. We identified 3 overarching themes and 10 outcome measures related to psychosocial factors associated with RTS following concussion: (a) fear (e.g, of recurrent concussion, of RTS, of losing playing status); (b) emotional factors (e.g, depression, anxiety, perceived stress, mental health, disturbance mood); and (c) contextual factors (e.g, social support, pressure, sense of identity)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Although current medical clearance decisions prioritize physical measures of recovery, evidence suggests diverse psychosocial factors influence RTS following concussion. It remains unclear which psychosocial factors contribute to a successful RTS, including the influence of sex/gender and age. Future studies should evaluate the association of psychological readiness with physical measures of recovery at medical clearance, preinjury level of performance, and risk of recurrent concussion to support RTS clinical decision-making."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

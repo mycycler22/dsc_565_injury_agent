@@ -1,0 +1,26 @@
+{
+  "pmid": "42464743",
+  "title": "[Not Available].",
+  "year": "2026",
+  "journal": "Revue medicale suisse",
+  "pub_types": [
+    "Journal Article",
+    "Review",
+    "English Abstract"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The surgical management of isthmic spondylolysis and spondylolisthesis in athletes should be individualized, taking into account functional failure, spinopelvic parameters, and the goal of return to play (RTP). Direct pars repair preserves motion and often allows for a faster RTP, whereas in situ L5-S1 fusion remains the standard of care for unbalanced cases, high-grade slips, or neurological involvement, with reported success rates of approximately 80 to 90 %. Minimally invasive and robot-assisted techniques appear promising for reducing morbidity and accelerating recovery, but long-term series and data are lacking. Postoperatively, RTP is between 4 and 8 months. Prospective studies that standardize RTP criteria are needed to guide the technical choice and reconditioning."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Postoperatively, RTP is between 4 and 8 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

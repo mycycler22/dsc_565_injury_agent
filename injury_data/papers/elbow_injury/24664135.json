@@ -1,0 +1,43 @@
+{
+  "pmid": "24664135",
+  "title": "Biomechanical comparison of the interval throwing program and baseball pitching: upper extremity loads in training and rehabilitation.",
+  "year": "2014",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The interval throwing progression has been part of baseball rehabilitation and conditioning for decades, yet little is known about the upper extremity loads an athlete is subjected to during this progression."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "A biomechanical comparison of fastball pitching, variable-effort pitching, and throwing various flat-ground distances will show significant torque differences in the throwing shoulder and elbow."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive laboratory study."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-nine healthy college baseball pitchers were analyzed using a quantitative motion analysis system. The participants threw from flat ground at distances of 18, 27, 37, and 55 m, having been instructed to throw \"hard, on a horizontal line.\" The participants then threw fastballs 18.4 m from a mound at 3 different effort levels: 60%, 80%, and full effort. The kinetic values for humeral internal rotational torque (HIRT) and elbow valgus load (EVL) were extracted for each throw. Repeated-measures analyses of variance (ANOVAs) were used to compare all 7 throwing conditions within pitchers. The kinetic data were also compared against ball velocity to evaluate throwing efficiency. A separate analysis was conducted using a 3-level repeated-measures ANOVA with post hoc paired t tests comparing just the variable-effort throws from the mound."
+    },
+    {
+      "label": "RESULTS",
+      "text": "No statistically significant differences were found in either HIRT or EVL between any of the flat-ground distances and throwing from the mound (P > .05). Despite similar biomechanical loads compared with the mound, throwing from flat ground showed significantly decreased ball velocity (82% of maximum). Statistically significant differences were found in humeral internal rotational torque and elbow valgus load between fastball pitching off the mound at 60% and 100%, as these parameters increased with throwing effort (P < .05). At 60% perceived effort from the mound, pitchers generated forces of 76% and ball speeds approaching 84% of maximum."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Partial-effort pitching demonstrates significantly lower loads on the shoulder and elbow. Flat-ground throwing at even the shortest distances had similar biomechanical loads compared with pitching from the mound, yet at significantly lower ball velocity. This illustrates the mechanical advantage and increased efficiency of throwing from a mound. No increase in shoulder or elbow loads was seen with increasing distances from flat ground, as pitchers began using a \"crow hop\" for the longer distances, facilitating the throw with their lower extremity. The mechanical advantage of throwing from a mound or using the crow hop is likely protective during rehabilitation and training throws."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "The findings of this study may be used to improve rehabilitation programs designed for baseball players returning from shoulder or elbow injury."
+    }
+  ],
+  "injury_query": "elbow injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

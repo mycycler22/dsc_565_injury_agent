@@ -1,0 +1,44 @@
+{
+  "pmid": "23802873",
+  "title": "Pain assessment in patellar tendinopathy using pain pressure threshold algometry: an observational study.",
+  "year": "2013",
+  "journal": "Pain medicine (Malden, Mass.)",
+  "pub_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Assessing pain in patellar tendinopathy (PT) is difficult to perform in a standardized way. With this study, we measured pain in athletes with PT by means of pain pressure threshold (PPT) algometry in a standardized manner. Subsequently, the goal of this study is to determine normative values for clinical use."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Observational study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Patients and healthy subjects were recruited from an outpatient clinic of a university medical center and at different sports clubs in northern Netherlands."
+    },
+    {
+      "label": "SUBJECTS",
+      "text": "A total of 234 athletes, 114 diagnosed with PT and 120 healthy controls, were included."
+    },
+    {
+      "label": "OUTCOME MEASURES",
+      "text": "PPT, Victorian Institute of Sport Assessment-Patellar tendinopathy questionnaire, and visual analog scale-pain."
+    },
+    {
+      "label": "RESULTS",
+      "text": "PPT scores of PT athletes with tendinopathy were significantly lower compared with healthy athletes (Mann-Whitney U-test; U = 293.5; P < 0.001). With a receiver operating characteristic (ROC) curve, the optimal cut-off point to distinguish between healthy athletes and PT athletes was calculated at 36.8 N. The area under the ROC curve was 0.98 (95% CI: 0.96-1.0). There was a positive predictive value of 96.5% that athletes with a PPT below 36.8 N. had PT."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "PPT algometry should be considered by clinicians as a pain assessment tool in patients with PT. The optimal cut-off point for the PPT to distinguish between PT athletes and healthy athletes was 36.8 N."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

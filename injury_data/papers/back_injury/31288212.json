@@ -1,0 +1,43 @@
+{
+  "pmid": "31288212",
+  "title": "Injury rate and pattern among Brazilian jiu-jitsu practitioners: A survey study.",
+  "year": "2019",
+  "journal": "Physical therapy in sport : official journal of the Association of Chartered Physiotherapists in Sports Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine the 6-month incidence rate and pattern of Brazilian jiu-jitsu (BJJ)-related injuries and characterize associations between injuries and experience level, demographic factors, and training variables."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Online survey."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "1287 adult BJJ practitioners."
+    },
+    {
+      "label": "OUTCOME MEASURES",
+      "text": "6-month BJJ-related injury incidence, anatomical pattern of injuries, and injury-associated demographic and training variable identification."
+    },
+    {
+      "label": "RESULTS",
+      "text": "59.2% of practitioners reported at least one injury over 6 months. The knee was the most common site. Logistic regression analysis demonstrated 6-month injury incidence was negatively associated with years of training and body weight, and positively associated with training days per week and instructor status. More experienced athletes were more likely to report low back injury, while less experienced athletes more frequently reported head, upper extremity, and elbow injuries. None of the following variables were predictive of injury risk: gi preference, instruction on break-falling, and participation in a structured beginner's program."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The risk factor analysis is applicable to BJJ instructors interested in reducing student injury risk. The widespread pattern of injuries and the distinction between types of injuries sustained at different levels of experience are notable findings that sports medicine practitioners should keep in mind when working with BJJ athletes."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

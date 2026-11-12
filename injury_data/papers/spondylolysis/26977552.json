@@ -1,0 +1,20 @@
+{
+  "pmid": "26977552",
+  "title": "Pars Injuries in Athletes.",
+  "year": "2016",
+  "journal": "Bulletin of the Hospital for Joint Disease (2013)",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Pars injuries are common causes of low back pain in adolescent athletes. Workup traditionally has included lumbar radiographs with oblique views and single-photon emission computed tomography (SPECT). However, recent literature has demonstrated the accuracy of MRI as a diagnostic modality. Acute injuries may be amenable to bracing with the goal of a healed lesion. Most cases of spondylolysis will result in asymptomatic non-union, though pars repair is an option for symptomatic pars defects without spondylolisthesis."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

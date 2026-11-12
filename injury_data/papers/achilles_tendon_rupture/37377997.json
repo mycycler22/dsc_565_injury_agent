@@ -1,0 +1,35 @@
+{
+  "pmid": "37377997",
+  "title": "Effectiveness of platelet-rich plasma in the treatment of Achilles tendon disease.",
+  "year": "2023",
+  "journal": "World journal of orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The effectiveness of Platelet-Rich Plasma (PRP) in the treatment of patients with Achilles tendon rupture (ATR) and Achilles tendinopathy (AT) has been controversial."
+    },
+    {
+      "label": "AIM",
+      "text": "To assess PRP injections' effectiveness in treating ATR and AT."
+    },
+    {
+      "label": "METHODS",
+      "text": "A comprehensive review of relevant literature was conducted utilizing multiple databases such as Cochrane Library, PubMed, Web of Science, Chinese Science and Technology Journal, EMBASE, and China Biomedical CD-ROM. The present investigation integrated randomized controlled trials that assessed the effectiveness of platelet-rich plasma injections in managing individuals with Achilles tendon rupture and tendinopathy. The eligibility criteria for the trials encompassed publications that were published within the timeframe of January 1, 1966 to December 2022. The statistical analysis was performed utilizing the Review Manager 5.4.1, the visual analogue scale (VAS), Victorian Institute Ankle Function Scale (VISA-A), and Achilles Tendon Thickness were used to assess outcomes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "This meta-analysis included 13 randomized controlled trials, 8 of which were randomized controlled trials of PRP for AT and 5 of which were randomized controlled trials of PRP for ATR. PRP for AT at 6 wk [weighted mean difference (WMD) = 1.92, 95%CI: -0.54 to 4.38, <i>I</i><sup>2</sup> = 34%], at 3 mo [WMD = 0.20, 95%CI: -2.65 to 3.05, <i>I</i><sup>2</sup> = 60%], and 6 mo [WMD = 2.75, 95%CI: -2.76 to 8.26, <i>I</i><sup>2</sup> = 87%) after which there was no significant difference in VISA-A scores between the PRP and control groups. There was no significant difference in VAS scores between the PRP group and the control group after 6 wk [WMD = 6.75, 95%CI: -6.12 to 19.62, <i>I</i><sup>2</sup> = 69%] and 6 mo [WMD = 10.46, 95%CI: -2.44 to 23.37, <i>I</i><sup>2</sup> = 69%] of treatment, and at mid-treatment at 3 mo [WMD = 11.30, 95%CI: 7.33 to 15.27, <i>I</i><sup>2</sup> = 0%] after mid-treatment, the PRP group demonstrated better outcomes than the control group. Post-treatment patient satisfaction [WMD = 1.07, 95%CI: 0.84 to 1.35, <i>I</i><sup>2</sup> = 0%], Achilles tendon thickness [WMD = 0.34, 95%CI: -0.04 to 0.71, <i>I</i><sup>2</sup> = 61%] and return to sport [WMD = 1.11, 95%CI: 0.87 to 1.42, <i>I</i><sup>2</sup> = 0%] were not significantly different between the PRP and control groups. The study did not find any statistically significant distinction between the groups that received PRP treatment and those that did not, regarding the Victorian Institute of Sport Assessment - Achilles scores at 3 mo [WMD = -1.49, 95%CI: -5.24 to 2.25, <i>I</i><sup>2</sup> = 0%], 6 mo [WMD = -0.24, 95%CI: -3.80 to 3.32, <i>I</i><sup>2</sup> = 0%], and 12 mo [WMD = -2.02, 95%CI: -5.34 to 1.29, <i>I</i><sup>2</sup> = 87%] for ATR patients. Additionally, no significant difference was observed between the PRP and the control groups in improving Heel lift height respectively at 6 mo [WMD = -3.96, 95%CI: -8.61 to 0.69, <i>I</i><sup>2</sup> = 0%] and 12 mo [WMD = -1.66, 95%CI: -11.15 to 7.83, <i>I</i><sup>2</sup> = 0%] for ATR patients. There was no significant difference in calf circumference between the PRP group and the control group after 6 mo [WMD = 1.01, 95%CI: -0.78 to 2.80, <i>I</i><sup>2</sup> = 54%] and 12 mo [WMD = -0.55, 95%CI: -2.2 to 1.09, <i>I</i><sup>2</sup> = 0%] of treatment. There was no significant difference in ankle mobility between the PRP and control groups at 6 mo of treatment [WMD = -0.38, 95%CI: -2.34 to 1.58, <i>I</i><sup>2</sup> = 82%] and after 12 mo of treatment [WMD = -0.98, 95%CI: -1.41 to -0.56, <i>I</i><sup>2</sup> = 10%] there was a significant improvement in ankle mobility between the PRP and control groups. There was no significant difference in the rate of return to exercise after treatment [WMD = 1.20, 95%CI: 0.77 to 1.87, <i>I</i><sup>2</sup> = 0%] and the rate of adverse events [WMD = 0.85, 95%CI: 0.50 to 1.45, <i>I</i><sup>2</sup> = 0%] between the PRP group and the control group."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The use of PRP for AT improved the patient's immediate VAS scores but not VISA-A scores, changes in Achilles tendon thickness, patient satisfaction, or return to sport. Treatment of ATR with PRP injections alone improved long-term ankle mobility but had no significant effect on VISA-A scores, single heel lift height, calf circumference or return to sport. Additional research employing more extensive sampling sizes, more strict experimental methods, and standard methodologies may be necessary to yield more dependable and precise findings."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

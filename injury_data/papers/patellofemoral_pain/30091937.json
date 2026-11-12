@@ -1,0 +1,36 @@
+{
+  "pmid": "30091937",
+  "title": "Age-Dependent Patellofemoral Pain: Hip and Knee Risk Landing Profiles in Prepubescent and Postpubescent Female Athletes.",
+  "year": "2018",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Female athletes are at an increased risk of developing patellofemoral pain (PFP) relative to male athletes. The unique effects of maturation may compound that risk. Hypothesis/Purpose: The purpose was to evaluate the neuromuscular control mechanisms that are adaptive to pubertal maturation and determine their relative contribution to PFP development. It was hypothesized that aberrant landing mechanics (reduced sagittal-plane and increased frontal- and transverse-plane kinematics and kinetics) would be associated with an increased risk for PFP."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 2."
+    },
+    {
+      "label": "METHODS",
+      "text": "There were 506 high school female athletes who completed a detailed medical history, the Anterior Knee Pain Scale, and a knee examination for the diagnosis of PFP and attended follow-up appointments. Athletes performed a drop vertical jump task instrumented with force plates, and biomechanical measures generated from standard 3-dimensional biomechanical analyses were used to classify participants into high- or low-risk knee and hip landing profiles for the development of PFP. The biomechanical measures used in the knee landing profile included sagittal-plane knee range of motion, peak knee abduction angle, peak knee abduction moment, and peak-to-peak transverse-plane knee moment. The biomechanical measures used in the hip landing profile included sagittal-plane hip range of motion, peak hip extensor moment, peak abductor moment, and peak hip rotator moment. Testing was conducted at sport-specific preseason appointments over the course of 2 years, and changes in pubertal status, landing profile, and PFP development were documented."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Female athletes with high-risk hip landing profiles experienced increased hip flexion and decreased abductor, rotator, and extensor moments. Participants with high-risk hip landing profiles who transitioned to postpubertal status at follow-up had higher odds (odds ratio, 2.1 [95% CI, 1.1-4.0]; P = .02) of moving to a low-risk hip landing profile compared with those who had not reached postpubertal status at follow-up. Participants with high-risk knee landing profiles experienced decreased knee flexion and increased knee abduction, external abductor, and external rotator moments. Pubertal maturation was not associated with a change in the high-risk knee landing profile at follow-up."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The progression from prepubertal to postpubertal status may have a protective effect on high-risk hip mechanics but no similar adaptations in high-risk knee mechanics during maturation. These data indicate that before puberty, maladaptive hip mechanics may contribute to PFP, while aberrant knee mechanics associated with PFP are sustained throughout the maturational process in young female athletes."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

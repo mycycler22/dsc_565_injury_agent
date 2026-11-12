@@ -1,0 +1,40 @@
+{
+  "pmid": "42221209",
+  "title": "Common Risk Factors for Knee Injuries in Runners: A Systematic Review.",
+  "year": "2026",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Knee injuries account for 25% to 30% of running-related injuries (RRIs). Patellofemoral pain syndrome (PFPS), iliotibial band syndrome (ITBS), and patellar tendinopathy (PT) are the most commonly reported knee injuries. The literature focuses on biomechanical factors, whose predictive value is inconsistent, and exposure-related factors remain underexplored."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To systematically review and synthesize the evidence on risk factors associated with knee injuries in endurance runners with a focus on both biomechanical and exposure-related factors."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic search of the Medline (PubMed), Embase, and Web of Science was conducted for studies before November 19, 2024. Studies were included if they investigated risk factors for knee injuries in adult endurance runners. Studies were excluded if they were case reports, non-English studies, review articles, studies focusing on nonendurance athletes, or studies focusing on athletes >30 years old. Twenty studies were selected from 1883 articles after screening. Risk factors were categorized as biomechanical or exposure-related."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Across PFPS, ITBS, and PT, the strongest and most recurrent risk factors were a history of previous injury (odds ratio [OR] range, 1.36-10.19), increased training load or volume (OR range, 1.07-8.94), and structural malalignment (OR range, 1.89-4.12). For general knee injuries, previous injury was the most frequently reported risk factor, associated with a 12.9% higher incidence of reinjury. PFPS was linked to training load and structural malalignment, indicating small to moderate associations between deviations from optimal load and injury risk. For ITBS, kinematic variables (OR range, 3.02-5.62; Cohen's <i>d</i> range, 1.24-2.21) and kinetic variables (OR, 8.88; Cohen's <i>d</i>, 0.82) were most commonly reported, reflecting moderate to very large effects linked to abnormal pelvic motion and impaired shock absorption. For PT, increased training load and volume (OR range, 1.27-8.94) and demographic factors (OR range, 1.06-1.43) were most frequently reported, with runners training >20 hours per week demonstrating a 15% to 20% higher injury incidence."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Knee injuries in endurance runners are influenced by a history of injury, training load, and biomechanical factors. Future injury prevention strategies should integrate biomechanical and contextual factors, including individualized kinematic profiles and conservative training management."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

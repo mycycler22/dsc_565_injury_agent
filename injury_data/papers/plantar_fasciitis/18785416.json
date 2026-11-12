@@ -1,0 +1,31 @@
+{
+  "pmid": "18785416",
+  "title": "Acute and overuse injuries correlated to hours of training in master running athletes.",
+  "year": "2008",
+  "journal": "Foot & ankle international",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The goal of the study was to determine the rate of running-associated tendinopathy in light of the amount of time training and other risk factors."
+    },
+    {
+      "label": "MATERIALS AND METHODS",
+      "text": "291 elite runners (average age 42 +/- 9 years) who ran an average of 65.2 +/- 28.3 km/week were included with an overall distance of 9,980,852 km (34,416 km/athlete). Descriptive statistics with Chi2-Test, Fisher-Exact-Test and Mann-Whitney-Test were used to calculate relative risks (RR)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall injury rate was 0.08/1000 km (2.93/athlete). Overuse injuries (0.07/1000 km) were more frequent than acute injuries (0.01/1000 km). Achilles tendinopathy was the predominant injury (0.02/1000 km) followed by anterior knee pain (0.01/1000 km), and shin splints (0.01/1000 km). Achilles tendon rupture was rarely encountered (0.001/1000 km). At some time, 56.6% of the athletes had an Achilles tendon overuse injury, 46.4% anterior knee pain, 35.7% shin splints, and 12.7% had plantar fasciitis. Mid-portion Achilles tendinopathy was more common (0.01/1000 km) than insertional (0.005/1000 km). An asphalt running surface decreased mid-portion tendinopathy risk (RR 0.47, p = 0.02). In contrast, sand increased the relative risk for mid-portion Achilles tendinopathy tenfold (RR 10, CI 1.12 to 92.8, p = 0.01). Runners with more than 10 years experience had an increased risk (RR 1.6, p = 0.04) for Achilles tendinopathy."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Achilles tendinopathy is the most common running-associated tendinopathy followed by runner's knee and shin splints."
+    }
+  ],
+  "injury_query": "plantar fasciitis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

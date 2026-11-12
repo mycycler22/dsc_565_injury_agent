@@ -1,0 +1,39 @@
+{
+  "pmid": "34591711",
+  "title": "Prediction of Hamstring Injuries in Australian Football Using Biceps Femoris Architectural Risk Factors Derived From Soccer.",
+  "year": "2021",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strain injuries are the most common injuries in team sports. Biceps femoris long head architecture is associated with the risk of hamstring injury in soccer. To assess the overall predictive ability of architectural variables, risk factors need to be applied to and validated across different cohorts."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To assess the generalizability of previously established risk factors for a hamstring strain injury (HSI), including demographics, injury history, and biceps femoris long head (BFlh) architecture to predict HSIs in a cohort of elite Australian football players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "Demographic, injury history, and BFlh architectural data were collected from elite soccer (n = 152) and Australian football (n = 169) players at the beginning of the preseason for their respective competitions. Any prospectively occurring HSIs were reported to the research team. Optimal cut points for continuous variables used to determine an association with the HSI risk were established from previously published data in soccer and subsequently applied to the Australian football cohort to derive the relative risk (RR) for these variables. Logistic regression models were built using data from the soccer cohort and utilized to estimate the probability of an injury in the Australian football cohort. The area under the curve (AUC) and Brier score were the primary outcome measures to assess the performance of the logistic regression models."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 27 and 30 prospective HSIs occurred in the soccer and Australian football cohorts, respectively. When using cut points derived from the soccer cohort and applying these to the Australian football cohort, only older athletes (aged ≥25.4 years; RR, 2.7 [95% CI, 1.4-5.2]) and those with a prior HSI (RR, 2.5 [95% CI, 1.3-4.8]) were at an increased risk of HSIs. Using the same approach, height, weight, fascicle length, muscle thickness, pennation angle, and relative fascicle length were not significantly associated with an increased risk of HSIs in Australian football players. The logistic regression model constructed using age and prior HSIs performed the best (AUC = 0.67; Brier score = 0.14), with the worst performing model being the one that was constructed using pennation angle (AUC = 0.53; Brier score = 0.18)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Applying cut points derived from previously published data in soccer to a dataset from Australian football identified older age and prior HSIs, but none of the modifiable HSI risk factors, to be associated with an injury. The transference of HSI risk factor data between soccer and Australian football appears limited and suggests that cohort-specific cut points must be established."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

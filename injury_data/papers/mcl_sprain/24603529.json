@@ -1,0 +1,44 @@
+{
+  "pmid": "24603529",
+  "title": "The epidemiology of medial collateral ligament sprains in young athletes.",
+  "year": "2014",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "A medial collateral ligament (MCL) knee sprain is a prevalent injury in athletic populations that may result in significant time lost to injury. Remarkably little is known of the epidemiology of this injury."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To define the incidence of MCL tears and to determine the demographic and athletic risk factors."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiological study."
+    },
+    {
+      "label": "METHODS",
+      "text": "A longitudinal cohort study was performed to examine the epidemiology of isolated MCL sprains at the United States Military Academy (USMA) between 2005 and 2009. Charts and radiographic studies were reviewed by an independent orthopaedic surgeon to identify all new isolated MCL sprains resulting in time lost to sport and activity that occurred within the study period. Incidence rates (IRs) with 95% confidence intervals (CIs) were calculated per 1000 person-years at risk and by sex, sport, and level of competition. The IR per 1000 athlete-exposures (AEs) was also determined. Incidence rate ratios (IRRs) and respective 95% CIs were calculated between male and female students, intercollegiate and intramural athletes, and male and female intercollegiate athletes involved in selected sports. Chi-square and Poisson regression analyses were used to examine the relationship between the variables of interest and the incidence of MCL sprains, with statistical significance set at P < .05."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 128 cadets sustained isolated MCL injuries during 17,606 student person-years from 2005 to 2009. This resulted in an IR of approximately 7.3 per 1000 person-years. Of the 128 injuries, 114 were in male athletes (89%) and 14 were in female athletes (11%). Male cadets had a 44% higher IR than did female cadets (7.60 vs 5.36, respectively), although this was not significant (P = .212). Of 5820 at-risk intercollegiate athletes, 59 (53 male, 6 female) sustained an isolated MCL sprain during 528,523 (407,475 male, 121,048 female) AEs for an overall IR of 10.14 per 1000 person-years and 0.11 per 1000 AEs. The IRR of MCL sprains of men compared with women involved in intercollegiate athletics was 2.87 (95% CI, 1.24-8.18) per 1000 person-years and 2.62 (95% CI, 1.13-7.47) per 1000 AEs. Of 21,805 at-risk intramural athletes, with quarterly participation, 16 (all male) sustained isolated MCL injuries during 225,683 AEs for an overall IR of 0.07 per 1000 AEs. The IRs of MCL injuries of intercollegiate and intramural athletes did not differ significantly. In intercollegiate sports, wrestling (0.57), judo (0.36), hockey (0.34), and rugby (men's, 0.22; women's, 0.23) had the highest IRs per 1000 AEs. When examining men's intercollegiate athletics, the IRRs of wrestling (13.41; 95% CI, 1.80-595.27) and hockey (8.12; 95% CI, 0.91-384.16) were significantly higher compared with that of lacrosse. Among women's intercollegiate sports as well as intramural sports, there were no significant differences in IRs. A median of 16 days was lost to injury, with 2407 total days lost for all injuries. Grade 1 MCL injuries lost a median of 13.5 days, while higher grade injuries lost a median of 29 days."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Medial collateral ligament injuries are relatively common in athletic cohorts. The most injurious sports are contact sports such as wrestling, hockey, judo, and rugby. Male athletes are at a greater risk than female athletes. Intercollegiate athletes are at a greater risk than intramural athletes. The average amount of time lost per injury was 23.2 days, with greater time lost with higher grade sprains than grade 1 sprains."
+    }
+  ],
+  "injury_query": "MCL sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "A median of 16 days was lost to injury, with 2407 total days lost for all injuries."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

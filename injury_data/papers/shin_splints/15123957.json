@@ -1,0 +1,20 @@
+{
+  "pmid": "15123957",
+  "title": "Magnetic resonance imaging in stress fractures and shin splints.",
+  "year": "2004",
+  "journal": "Clinical orthopaedics and related research",
+  "pub_types": [
+    "Clinical Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "The purpose of the current study was to determine whether stress fractures and shin splints could be discriminated with MRI in the early phase. Twenty-two athletes, who had pain in the middle or distal part of their leg during or after sports activity, were evaluated with radiographs and MRI scans. Stress fractures were diagnosed when consecutive radiographs showed local periosteal reaction or a fracture line, and shin splints were diagnosed in all the other cases. In all eight patients with stress fractures, an abnormally wide high signal in the localized bone marrow was the most detectable in the coronal fat-suppressed MRI scan. In 11 patients with shin splints, the coronal fat-suppressed MRI scans showed a linear abnormally high signal along the medial posterior surface of the tibia, and in seven patients with shin splints, the MRI scans showed a linear abnormally high signal along the medial bone marrow. No MRI scans of shin splints showed an abnormally wide high signal in the bone marrow as observed on MRI scans of stress fractures. This study showed that fat-suppressed MRI is useful for discrimination between stress fracture and shin splints before radiographs show a detectable periosteal reaction in the tibia."
+    }
+  ],
+  "injury_query": "shin splints",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

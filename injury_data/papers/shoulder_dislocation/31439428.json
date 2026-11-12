@@ -1,0 +1,31 @@
+{
+  "pmid": "31439428",
+  "title": "Return to play and performance after shoulder instability in National Basketball Association athletes.",
+  "year": "2020",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "HYPOTHESIS",
+      "text": "We hypothesized that players in the National Basketball Association (NBA) who sustained a shoulder destabilizing injury could return to play (RTP) successfully at a high rate regardless of treatment type."
+    },
+    {
+      "label": "METHODS",
+      "text": "We used publicly available data to identify and evaluate 50 players who sustained an in-season shoulder instability event (subluxation/dislocation) while playing in the NBA. Demographic variables, return to NBA gameplay, incidence of surgery, time to RTP, recurrent instability events, and player efficiency rating (PER) were collected. Overall RTP was determined, and players were compared by type of injury and mode of treatment."
+    },
+    {
+      "label": "RESULTS",
+      "text": "All players (50/50) returned to game play after sustaining a shoulder instability event. In those treated nonoperatively, athletes who sustained shoulder subluxations returned after an average of 3.6 weeks, compared with 7.6 weeks in those who sustained a shoulder dislocation (P = .037). Players who underwent operative management returned after an average of 19 weeks. Athletes treated operatively were found to have a longer time interval between a recurrent instability event (70 weeks vs. 28.5 weeks, P = .001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "We found 100% rate of RTP after a shoulder instability event in an NBA athlete. Players who experience shoulder dislocations were found to miss more time before RTP and were more likely to undergo surgical intervention compared with those who experienced a subluxation. Surgical repair maintained a longer interval between recurrent instability. Future investigations should aim to evaluate outcomes based on surgical procedures and identify possible risk factors predictive of recurrent instability or failure to RTP."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

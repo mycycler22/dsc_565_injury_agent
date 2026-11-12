@@ -1,0 +1,57 @@
+{
+  "pmid": "33501619",
+  "title": "Promising improvement of chronic lateral elbow tendinopathy by using adipose derived mesenchymal stromal cells: a pilot study.",
+  "year": "2021",
+  "journal": "Journal of experimental orthopaedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Study the effect of Adipose derived stromal cells (ASCs) injection as therapeutic procedure on the common extensor tendinopathy."
+    },
+    {
+      "label": "METHODS",
+      "text": "Eighteen Tennis players with chronic, recalcitrant LET (who have previously been unsuccessfully treated with nonoperative treatments) underwent clinical evaluation and magnetic resonance imaging (MRI) before intervention. Stromal vascular fraction cells (SVF) were expanded by in vitro culture and ASCs were obtained and characterized by flow cytometry. ASCs were injected into the site of tendinopathy (identified by ultrasound imaging at the origin of the common extensor tendon) on a single occasion followed by physiotherapy. Players underwent serial clinical evaluations during a 12-month period and repeated MRI at 6-month post-injection."
+    },
+    {
+      "label": "RESULTS",
+      "text": "At 6-month clinical evaluation revealed significant improvements compared to baseline in mean Visual Analog Scale (VAS) scores for: (1) maximum pain score (from 6.28 ± 1.65, to 1.0 ± 0.43; p < .001); (2) Mean quick Disabilities of the Arm, Shoulder and Hand (QuickDASH-Compulsory score: 51.38 ± 12.02 to 12.33 ± 4.66; p < .001); (3) QuickDASH-Sport score: 56.94 ± 15.44 to 8.68 ± 8.86; p < .001). Validated MRI scoring system grade of tendinopathy also improved significantly: 4.22 ± 0.26 to 2.22 ± 0.10 (p < .001). At 12-month from injection, VAS maximun pain score further decreased to 0.74 ± 0.44 (p < .001) and QuickDASH-Compulsory score to 5.56 ± 3.58 (p < .001). Average time to return to play tennis was 3,31 ± 0,61 month post-intervention."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Tennis players with recalcitrant LET showed significant clinical improvement and structural repair at the origin of the common tendon origin after injection of autologous ASCs. Results of this study are promising and open a new biological therapeutic modality to treat LET. Even if the results of this pilot study are positive, future well-designed studies, i.e. prospective randomized trials are needed to define the role of cell therapy in treating LET."
+    }
+  ],
+  "injury_query": "tennis elbow",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Average time to return to play tennis was 3,31 ± 0,61 month post-intervention."
+    }
+  ],
+  "pmcid": "7838228",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "At 6-month clinical evaluation revealed significant improvements compared to baseline in mean Visual Analog Scale (VAS) scores for: (1) maximum pain score (from 6.28 ± 1.65, to 1.0 ± 0.43; p < .001); (2) Mean quick Disabilities of the Arm, Shoulder and Hand (QuickDASH-Compulsory score: 51.38 ± 12.02 to 12.33 ± 4.66; p < .001); (3) QuickDASH-Sport score: 56.94 ± 15.44 to 8.68 ± 8.86; p < .001). Validated MRI scoring system grade of tendinopathy also improved significantly: 4.22 ± 0.26 to 2.22 ± 0.10 (p < .001). At 12-month from injection, VAS maximun pain score further decreased to 0.74 ± 0.44 (p < .001) and QuickDASH-Compulsory score to 5.56 ± 3.58 (p < .001). Average time to return to play tennis was 3,31 ± 0,61 month post-intervention."
+    },
+    {
+      "section": "Results",
+      "text": "All 18 tennis players returned to play at an average of 3.31 ± 0.61 months post-intervention."
+    },
+    {
+      "section": "Outcome at 6 months",
+      "text": "All clinical and MRI evaluation after ASCs implantation are presented in Table 1.Table 1Outcome evaluation at 6 months after ASCs injection compared to baseline in 18 LET patientsVariablesBaselinea6 months post procedureaMean difference (95%IC)P valueVAS for maximum pain6.28 ± 1.651.05 ± 0.435.23 (4.52–5.95) < 0.001QuickDASH-Compulsory51.38 ± 12.0212.33 ± 4.6639.05 (35.16–42.94) < 0.001QuickDASH-Sport56.94 ± 15.448.68 ± 8.8648.26 (44.44–52.08) < 0.001Total MRI score4.22 ± 0.262.22 ± 0.102 (1.48–2.51) < 0.001aValues are expressed ± standard deviation Figure 1 a and b presented the evolution of VAS maximum pain and QuickDASH-Compulsory score over time (baseline, 1, 3, 6, and 12 months)Fig. 1a Mean of VAS scores trend over time after ASCs injection. Lines extending from the dots indicating variability (SD). Time 0 indicates the assessment result before injection (baseline). b. Mean of QuickDASH-Compulsory Score trend over time after ASCs injection. Lines extending from the dots indicating variability (SD). Time 0 indicates the assessment result before injection (baseline) Table 2 shows the results of the Hierarchical Lineal Modeling (HLM) for VAS maximum pain.Table 2Hierarchical Lineal Modeling for VAS maximum painModel componentß CoefficientStandard errorP valueBaseline VAS (Intercept)6.390.24 < 0.001First month improvementa-3.750.22 < 0.001Time point for improvement trend changea1.260.07 < 0.001Monthly improvement after first montha-0.080.020.0018Time in monthsa0.070.060.26Gender0.100.390.79Ageb-0.020.030.43abased on one-unit changebbased on one-unit change A significant improvement in VAS after ASCs implantation (58,69% reduction) at first month was observed. After first month (modeling point of trend change = 1.26) the monthly improvement was -0.08. Gender and age were not statistically significant predictors of VAS evolution. Table 3 shows the results of the Hierarchical Lineal Modeling (HLM) for QuickDASH-Compulsory score.Table 3Hierarchical Lineal Modeling for QuickDASH-Compulsory scoreModel componentß CoefficientStandard errorP valueBaseline QuickDASH-Compulsory (Intercept)52.701.70 < 0.001First month improvement-26.331.31 < 0.001Time point for improvement trend change1.330.06 < 0.001Monthly improvement after first month-0.980.14 < 0.001Time in months0.630.440.16Gender-0.213.050.95Age-0.130.200.52 A significant improvement in the score after ASCs implantation (50,04% reduction) at 1 month was observed. After the first month (modeling point of trend change = 1.33) the monthly improvement was -0.98. Gender and age were not statistically significant predictors of QuickDASH-Compulsory score evolution."
+    },
+    {
+      "section": "TABLE: Outcome evaluation at 6 months after ASCs injection compared to baseline in 18 LET patients",
+      "text": "Variables | Baselinea | 6 months post procedurea | Mean difference (95%IC) | P value\nVAS for maximum pain | 6.28 ± 1.65 | 1.05 ± 0.43 | 5.23 (4.52–5.95) | < 0.001\nQuickDASH-Compulsory | 51.38 ± 12.02 | 12.33 ± 4.66 | 39.05 (35.16–42.94) | < 0.001\nQuickDASH-Sport | 56.94 ± 15.44 | 8.68 ± 8.86 | 48.26 (44.44–52.08) | < 0.001\nTotal MRI score | 4.22 ± 0.26 | 2.22 ± 0.10 | 2 (1.48–2.51) | < 0.001"
+    },
+    {
+      "section": "TABLE: Tendinosis, tear and total scores pre and 6 months post-injections",
+      "text": " | Tendinosis | Tear | Total\nPre-Inj | 6 Months Post-Inj | Pre-Inj | 6 Months Post-Inj | Pre-Inj | 6 Months Post-Inj\nMean | 2.3 | 1.2 | 1.9 | 1.1 | 4.2 | 2.2\nStd. Deviation | .69 | .41 | .71 | .32 | 1.11 | .41"
+    }
+  ]
+}

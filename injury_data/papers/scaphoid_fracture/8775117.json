@@ -1,0 +1,24 @@
+{
+  "pmid": "8775117",
+  "title": "Internal fixation of acute stable scaphoid fractures in the athlete.",
+  "year": "1996",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Our study evaluated the results of surgical repair of acute carpal scaphoid fractures in athletes and the time required for the athletes to return to play. Although playing casts are a nonsurgical option, they reduce the effectiveness of the athlete in sports that require maximal manual dexterity; thus, the management of scaphoid fractures is challenging when early return to sports is desired. Twelve athletes with 12 acute midthird scaphoid fractures were treated with Herbert screw fixation. All patients were in-season athletes in sports that precluded the use of a playing cast. Return to sports averaged 5.8 weeks. Nine of the 12 athletes had range of motion equal to the uninjured side. The grip strength was equal to the unaffected side in 10 of the 12 athletes. Clinical and radiographic union was evident in 11 subjects at an average followup of 2.9 years. The healing rates were comparable with other treatment modalities. We concluded that internal fixation of a scaphoid fracture allows safe and early return to sports when a playing cast is not an acceptable option and when an athlete accepts the risks of surgery."
+    }
+  ],
+  "injury_query": "scaphoid fracture",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "Return to sports averaged 5.8 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

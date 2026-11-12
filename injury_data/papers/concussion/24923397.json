@@ -1,0 +1,20 @@
+{
+  "pmid": "24923397",
+  "title": "Evidence-based management of sport-related concussion.",
+  "year": "2014",
+  "journal": "Progress in neurological surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Concussion is not only one of the most common injuries encountered by athletes participating in contact and collision sports, but also among the most complex injuries to manage in a sports medicine setting. Over the past two decades, we have made great progress in advancing the basic and clinical science of concussion. These advances have had enormous clinical translational value for developing evidence-based guidelines for management of concussion in sports. Applied clinical research has clarified the defining characteristics of sport-related concussion (SRC) that support new diagnostic criteria. At the same time, major advancements have been realized in the development and validation of clinical tools that allow a more objective and accurate assessment of concussion and performance-based measures of recovery. These tools provide clinicians with a more informed basis for determining an athlete's cognitive and physical fitness to return to competition after concussion. Standardized injury management protocols that systematically prescribe rest, graded activity, and return to play have been adopted in nearly all clinical settings. Herein, we briefly summarize the findings and recommendations from several national and international consensus guidelines and position statements on best practice in the evaluation and management of SRC."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

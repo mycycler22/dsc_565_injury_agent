@@ -1,0 +1,40 @@
+{
+  "pmid": "37400287",
+  "title": "Health-seeking behaviors, management practices, and return to play decisions after an ankle sprain in netball: An international cross-sectional survey of 1592 non-elite netballers.",
+  "year": "2023",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "Evaluate if non-elite netballers sought health care, treatments received, and return-to-play decisions after an ankle sprain, including intercountry differences."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional survey."
+    },
+    {
+      "label": "METHODS",
+      "text": "Non-elite netballers aged >14 years were recruited from Australia, United Kingdom, and New Zealand. Participants completed an online survey regarding their last ankle sprain and were queried regarding health care sought, health professionals consulted, treatments received, time missed, and return-to-play clearance. Data were described using number (proportion) for the overall cohort and countries. Between-country differences in health care use were compared using chi-square tests. Descriptive statistics were presented for management practices."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We received 1592 responses from Australian (n = 846), United Kingdom (n = 454), and New Zealand (n = 292) netballers. Three in five (n = 951, 60 %) sought health care. Of those, most consulted a physiotherapist (n = 728, 76 %), received strengthening exercises (n = 771, 81 %), balance exercises (N = 665, 70 %) and taping (n = 636, 67 %). Few received return-to-play clearance (n = 362, 23 %). Comparing countries, fewer United Kingdom netballers sought health care than Australian and New Zealand netballers (Australia: 60 % vs United Kingdom: 53 % vs New Zealand: 68 %, p < 0.001), consulted a physiotherapist (Australia: 79 %, United Kingdom: 63 %, New Zealand: 87 %), received strengthening (Australia: 84 %, United Kingdom: 73 %, New Zealand: 84 %) or balance exercises (Australia: 71 %, United Kingdom: 60 %, New Zealand: 80 %) or taping (Australia: 74 %, United Kingdom: 39 %, New Zealand: 82 %). More Australian netballers returned to play within 1-7 days (Australia: 25 %, United Kingdom: 15 %, New Zealand: 21 %) and fewer United Kingdom netballers received return-to-play clearance (Australia: 28 %, United Kingdom: 10 %, New Zealand: 28 %)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Health-seeking behaviours are adopted by some, but not all netballers after an ankle sprain. For those who sought care, most consulted a physiotherapist and were prescribed exercise-based interventions and external ankle support, but few received return-to-play clearance. Comparing countries, United Kingdom netballers had lower health-seeking behaviours and received less best-practice management than Australian and New Zealand netballers."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "More Australian netballers returned to play within 1-7 days (Australia: 25 %, United Kingdom: 15 %, New Zealand: 21 %) and fewer United Kingdom netballers received return-to-play clearance (Australia: 28 %, United Kingdom: 10 %, New Zealand: 28 %)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

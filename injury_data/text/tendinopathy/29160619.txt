@@ -1,0 +1,2 @@
+Title: Tendinopathy diagnosis and treatment monitoring using attenuated total reflectance-Fourier transform infrared spectroscopy. | Type: Journal Article, Research Support, Non-U.S. Gov't | PMID: 29160619 | Year: 2018 | Injury query: tendinopathy
+[UNLABELED] Control (C), injured (I) and treated (T) rat tendons were extracted 3, 7, 14 and 28 days post-injury/treatment, representing phases of healing; and subjected to hematoxylin & eosin staining as well as spectroscopy.

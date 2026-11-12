@@ -1,0 +1,31 @@
+{
+  "pmid": "16558636",
+  "title": "Functional anatomy of the shoulder.",
+  "year": "2000",
+  "journal": "Journal of athletic training",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Movements of the human shoulder represent the result of a complex dynamic interplay of structural bony anatomy and biomechanics, static ligamentous and tendinous restraints, and dynamic muscle forces. Injury to 1 or more of these components through overuse or acute trauma disrupts this complex interrelationship and places the shoulder at increased risk. A thorough understanding of the functional anatomy of the shoulder provides the clinician with a foundation for caring for athletes with shoulder injuries."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "We searched MEDLINE for the years 1980 to 1999, using the key words \"shoulder,\" \"anatomy,\" \"glenohumeral joint,\" \"acromioclavicular joint,\" \"sternoclavicular joint,\" \"scapulothoracic joint,\" and \"rotator cuff.\""
+    },
+    {
+      "label": "DATA SYNTHESIS",
+      "text": "We examine human shoulder movement by breaking it down into its structural static and dynamic components. Bony anatomy, including the humerus, scapula, and clavicle, is described, along with the associated articulations, providing the clinician with the structural foundation for understanding how the static ligamentous and dynamic muscle forces exert their effects. Commonly encountered athletic injuries are discussed from an anatomical standpoint."
+    },
+    {
+      "label": "CONCLUSIONS/RECOMMENDATIONS",
+      "text": "Shoulder injuries represent a significant proportion of athletic injuries seen by the medical provider. A functional understanding of the dynamic interplay of biomechanical forces around the shoulder girdle is necessary and allows for a more structured approach to the treatment of an athlete with a shoulder injury."
+    }
+  ],
+  "injury_query": "shoulder injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

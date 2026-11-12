@@ -1,0 +1,31 @@
+{
+  "pmid": "41033749",
+  "title": "MRI Screening for lumbar bone stress injuries in young male cricket fast bowlers: a 15-year retrospective cohort study.",
+  "year": "2025",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "MRI screening is increasingly used in elite cricket to support the early detection of lumbar bone stress injuries (LBSIs). However, its impact on injury outcomes and career trajectories remains unclear. This study evaluated short-term and long-term outcomes from LBSI in young male fast bowlers, comparing injuries detected through MRI screening with those detected clinically."
+    },
+    {
+      "label": "METHODS",
+      "text": "This retrospective cohort study analysed 15 years (2009-2024) of injury surveillance data from the England and Wales Cricket Board. LBSIs in male fast bowlers (aged 16-24) were classified as screening-detected (via routine MRI) or clinically-detected (imaging-confirmed following symptom onset). Outcomes were evaluated across short-term (diagnosis to return-to-play (RTP)) and long-term (5-year post-RTP) timeframes."
+    },
+    {
+      "label": "RESULTS",
+      "text": "197 LBSIs (44 screening-detected, 153 clinically-detected) were detected in 142 bowlers (mean age at injury: 19.4±2.1 years). Screening-detected injuries were more likely to be stress reactions (p=0.002), while complete fractures were exclusively clinically-detected. Screening-detected injuries had shorter RTP times (p<0.001) and were managed conservatively with 100% RTP success. Bowlers with screening-detected injuries had greater in-season availability (p<0.001) and returned to preinjury playing standards post-RTP. Over 5 years, 51%-67% of bowlers remained reinjury-free, with comparable probabilities between detection methods (p≥0.536); 5-year playing standard trajectories showed improvement in both groups."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MRI screening may facilitate earlier detection of LBSIs compared with symptom-based pathways, enabling conservative management, shorter RTP times and greater availability, while allowing for continued career progression. However, the observed risk of reinjury highlights the need for improved preventive strategies."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

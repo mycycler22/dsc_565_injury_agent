@@ -1,0 +1,31 @@
+{
+  "pmid": "24459552",
+  "title": "Muscle injuries in athletes: enhancing recovery through scientific understanding and novel therapies.",
+  "year": "2013",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Muscle injuries are extremely common in athletes and often produce pain, dysfunction, and the inability to return to practice or competition. Appropriate diagnosis and management can optimize recovery and minimize time to return to play."
+    },
+    {
+      "label": "EVIDENCE ACQUISITION",
+      "text": "Contemporary papers, both basic science and clinical medicine, that investigate muscle healing were reviewed. A Medline/PubMed search inclusive of years 1948 to 2012 was performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Diagnosis can usually be made according to history and physical examination for most injuries. Although data are limited, initial conservative management emphasizing the RICE principles and immobilization of the extremity for several days for higher grade injuries are typically all that is required. Injection of corticosteroids may clinically enhance function after an acute muscle strain. Additional adjunctive treatments (nonsteroidal anti-inflammatory drugs, platelet-rich plasma, and others) to enhance muscle healing and limit scar formation show promise but need additional data to better define their roles."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Conservative treatment recommendations will typically lead to successful outcomes after a muscle injury. There is limited evidence to support most adjunctive treatments."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

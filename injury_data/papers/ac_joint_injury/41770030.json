@@ -1,0 +1,44 @@
+{
+  "pmid": "41770030",
+  "title": "Nonoperative Treatment of Low-grade AC Joint Injuries in Pediatric Athletes.",
+  "year": "2026",
+  "journal": "Journal of pediatric orthopedics",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Pediatric acromioclavicular (AC) joint injuries are rarely reported, and data on return-to-sport rates (RTS) in this population are limited. This study aims to characterize management strategies and return-to-sport outcomes following AC joint injuries in pediatric athletes, addressing a gap in the current literature."
+    },
+    {
+      "label": "METHODS",
+      "text": "Patients under 18 years of age who sustained an AC joint injury between March 1, 2014, and March 1, 2024, were identified using databases from a large tertiary referral hospital and a large children's hospital. Extracted data included patient demographics, injury patterns, management approaches, and RTS status."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 108 patients (110 shoulders) were included (74% male; mean age, 12.77±2.13 ​​​​​y; range 8 to 17 years). Low-grade injuries accounted for 95% of cases, and all injuries were managed nonoperatively. Sling immobilization was used in 40%, physical therapy (PT) in 29%, rest in 17%, and a combination of sling and PT in 15%. The most common mechanisms were football (29, 26%), motor vehicle collisions (11, 10%), and soccer (10, 9%). At least 48% (52) of patients had documented return-to-sport dates, with the median RTS time being 21 days (IQR 14 to 49.45​​​​​ d). Concomitant injury was associated with a longer RTS time (HR 0.33, 95% CI 0.16-0.69, P =0.003)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "In this cohort of pediatric athletes, AC joint injuries were predominantly low-grade and managed nonoperatively. Of the patients with documented follow-up and RTS, the median RTS time was 3 weeks. These findings reinforce the favorable prognosis of nonoperative treatment for low-grade injuries in this population. Given the rarity of pediatric AC joint injuries and the limited published data, reporting these outcomes is essential to guide evidence-based management in pediatric sports medicine."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "IV: retrospective cohort study."
+    }
+  ],
+  "injury_query": "AC joint injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "At least 48% (52) of patients had documented return-to-sport dates, with the median RTS time being 21 days (IQR 14 to 49.45​​​​​ d)."
+    },
+    {
+      "section": "CONCLUSIONS",
+      "sentence": "Of the patients with documented follow-up and RTS, the median RTS time was 3 weeks."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

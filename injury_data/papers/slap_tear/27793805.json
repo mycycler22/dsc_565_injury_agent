@@ -1,0 +1,44 @@
+{
+  "pmid": "27793805",
+  "title": "Superior Labrum Anterior-Posterior Tears in the National Football League.",
+  "year": "2017",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Shoulder disorders are common in football players, with up to 50% of National Football League (NFL) recruits reporting a history of shoulder injuries. Superior labrum anterior-posterior (SLAP) tears are an entity with well-described detrimental effects on return to play in overhead-throwing athletes but with minimal data in contact athletes."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To identify the incidence, predisposing factors, and effect of SLAP tears in NFL athletes and prospects as well as the treatment patterns of NFL team physicians."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study was a comprehensive analysis of SLAP tears in elite football players using a dual approach: (1) SLAP injuries recorded in the NFL Injury Surveillance System from 2000 to 2014 were evaluated by player position, type of play, days/games lost, and surgical intervention; (2) NFL Scouting Combine athletes from 2003 to 2011 with prior SLAP repair were evaluated for draft success, and drafted athletes were compared with matched controls for career length and performance scores."
+    },
+    {
+      "label": "RESULTS",
+      "text": "SLAP tears represented a small portion (3.1%) of shoulder injuries in NFL athletes from 2000 to 2014, occurring most commonly in offensive linemen (28%). Surgically treated SLAP tears (42%) resulted in more days missed than did nonoperatively managed tears (140.2 vs 21.5 days; P < .001) and more games missed (8.4 vs 2.6 games; P = .003). SLAP repairs were also rare in NFL Combine athletes (n = 25 of 2965 athletes), with most having been performed in offensive linemen (32%). As compared with control NFL Combine athletes without SLAP tears, those drafted into the NFL with prior SLAP repair played significantly fewer games (33.7 vs 48.3; P = .049) and had fewer game starts (19.6 vs 35.4; P = .036)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "In this comprehensive analysis of SLAP tears in elite football players, it is clear that these injuries have the potential to cause significant detriment to an athlete's career."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "Surgically treated SLAP tears (42%) resulted in more days missed than did nonoperatively managed tears (140.2 vs 21.5 days;"
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

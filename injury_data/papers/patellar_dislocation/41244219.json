@@ -1,0 +1,39 @@
+{
+  "pmid": "41244219",
+  "title": "Recurrence in Adolescents With First-Time Acute Patellar Dislocation: Comparing Outcomes With and Without Osteochondral Fracture.",
+  "year": "2025",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Patellar dislocation is a common condition in adolescents, characterized by high rates of recurrent instability and an associated risk of osteochondral fracture (OCF). The risk of recurrent instability in this patient population, both with and without OCF, after a first-time dislocation remains unclear."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine and compare the incidence of recurrent patellar instability and the need for subsequent stabilization procedures between adolescents with and without OCF after first-time dislocation. A secondary objective was to report clinical outcomes of those patients."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study, Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "This study was a retrospective analysis of adolescents who underwent their first-time patellar dislocation between 2016 and 2021 at a single orthopaedic hospital, with a minimum follow-up of 3 years. Patients were divided into 2 groups based on whether OCF was present: the OCF group and the non-OCF group. Baseline characteristics, radiographic measurements, and follow-up time were compared. Primary outcome measures included the incidence of recurrent patellar instability and the need for subsequent stabilization procedures. Secondary outcome variables included clinical outcome scores (such as Kujala score, Lysholm score, Tegner score, and International Knee Documentation Committee score), knee range of motion (ROM), as well as the ability to return to sport."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 33 adolescents were included, with 15 in the OCF group and 18 in the non-OCF group. The only difference noted in baseline characteristics, radiographic measurements, and follow-up time was a higher tibial tuberosity-trochlear groove (TT-TG) in the OCF group (17.1 mm vs 14.5 mm; <i>P</i> = .048). Compared with the non-OCF group, the OCF group had a significantly higher incidence of recurrent patellar instability (66.7% vs 27.8%; <i>P</i> = .025) and a greater need for subsequent stabilization procedures (53.3% vs 16.7%; <i>P</i> = .026). No differences were noted in clinical outcome scores, ROM, and return to sport rate."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Adolescents with first-time patellar dislocation combined with OCF face a significantly higher recurrence rate (66.7%) compared with those without OCF, leading to increased subsequent stabilization procedures (53.3%). High-risk anatomic factors, such as elevated TT-TG values, further exacerbate instability. Targeted interventions are recommended for this high-risk population to reduce the recurrence of this condition."
+    }
+  ],
+  "injury_query": "patellar dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

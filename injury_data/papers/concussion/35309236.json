@@ -1,0 +1,65 @@
+{
+  "pmid": "35309236",
+  "title": "Performance After Concussion in National Basketball Association Players.",
+  "year": "2022",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Concussions have received national attention in collision sports such as football, soccer, and hockey, but less focus has been placed on basketball."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine return-to-play (RTP) and player performance in the first and second season after concussion in National Basketball Association (NBA) players."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "An online database of publicly available NBA athlete injuries was queried for instances of \"concussion\" between 2010 and 2018. The age at injury, team, position, height, weight, body mass index, NBA experience, date of concussion, date of return, and seasons played postconcussion was recorded for each player. Regular-season statistics (games started, games played, minutes played, and player efficiency rating [PER]) were compiled for the season before, and 2 seasons immediately after, injury. Kaplan-Meier survivorship plots were computed for athlete RTP and retirement endpoints."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 81 injuries were identified from 2010 to 2018, with a rate of 2.0 concussions per 100 player-years. Overall RTP was 100% after concussion, with nearly all (88%) returning in the season of injury; 12% of players experienced a season-ending concussion. RTP averaged 37.3 days after injury, varying widely (range, 2-291 days). Compared with preinjury season (78.0%), athletes played in significantly fewer overall games in the season of injury (36.6%; <i>P</i> < .0001), as well as 1 (69.5%; <i>P</i> = .0229) and 2 seasons postinjury (73.2%; <i>P</i> = .3192). PER scores were not significantly different across the study period. Each point increase in a player's preinjury PER score was associated with a 2.4% decrease in PER from the preinjury season to season of injury (<i>P</i> = .0016) and a 3.1% decrease from preinjury to season after injury (<i>P</i> = .0053). Each increasing year of age or year of experience was associated with 5% decline in PER score at 1 season after injury."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "NBA players had a high RTP after concussion, with most returning in the same season as the injury. Players sustaining concussions played significantly fewer games for at least 2 seasons after injury. Performance via PER did not change across the entire cohort; however, players with higher preinjury PER, and older players were more likely to sustain a greater decline in performance after injury."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "RTP averaged 37.3 days after injury, varying widely (range, 2-291 days)."
+    }
+  ],
+  "pmcid": "8928399",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "A total of 81 injuries were identified from 2010 to 2018, with a rate of 2.0 concussions per 100 player-years. Overall RTP was 100% after concussion, with nearly all (88%) returning in the season of injury; 12% of players experienced a season-ending concussion. RTP averaged 37.3 days after injury, varying widely (range, 2-291 days). Compared with preinjury season (78.0%), athletes played in significantly fewer overall games in the season of injury (36.6%; P < .0001), as well as 1 (69.5%; P = .0229) and 2 seasons postinjury (73.2%; P = .3192). PER scores were not significantly different across the study period. Each point increase in a player’s preinjury PER score was associated with a 2.4% decrease in PER from the preinjury season to season of injury (P = .0016) and a 3.1% decrease from preinjury to season after injury (P = .0053). Each increasing year of age or year of experience was associated with 5% decline in PER score at 1 season after injury."
+    },
+    {
+      "section": "Results",
+      "text": "A total of 81 NBA athletes received a diagnosis of concussion between the 2010 to 2011 and 2017 to 2018 seasons. This was an average incidence in the NBA of 2.0 concussions/100 player-years between 2010 and 2018. The incidence did not change annually across the study period (P = .1872). These injured athletes had a mean (±SD) BMI of 24.8 ± 1.5 kg/m2 (range, 20.8-28.4 kg/m2), age at injury of 24.7 ± 3.5 years (range, 19.0-33.0 years), and a median playing experience of 2 seasons (range, 0-14; IQR, 4 seasons)."
+    },
+    {
+      "section": "Performance and Outcome After Concussion",
+      "text": "Postinjury performance was assessed relative to the player’s preinjury performance via both percentage of games played after injury and the percentage change in the performance metric (Table 2). After concussion, athletes played in a significantly lower percentage of games in the total season in the season of injury (median, 36.6%; P < .0001) and first season after injury (median, 69.5%; P = .0229). However, percentage of games played in the total season was no different in the second season after injury (median, 73.2%; P = .3192) compared with the season preinjury (median, 78.0%). The percentage of games played significantly increased from the season of the injury to the first season after injury (P < .0001) as well as from the season of injury to the second season after injury (P = .0057). Comparisons of PER within each athlete as his own control showed no differences in play performance across the seasons after concussion and the season preinjury (Table 2). Between the season before injury and season after injury, 28.6% of players had a decrease in PER score of greater than 2, 15.9% of players had a decrease in PER score of less than 2, and 55.6% of players had either no change in PER score or in increase in PER score. Each point increase in a player’s preinjury PER score was found to be associated with a 2.4% decrease in PER from the preinjury season to season of injury (β = –2.416; P = .0016) and a 3.1% decrease in PER from the preinjury season to season after injury (β = –3.148; P = .0053) (Table 3). Increasing age at injury and years of experience were also found to be associated with greater decreases in PER in both the season of injury (age: β = –4.577; P < .0001; years of experience: β = –3.822; P = .0005) and the season after injury (age: β = –5.116; P = .0017 years experience: β = –5.020; P = .0026). Each increasing year of age or year of experience was associated with 5% decline in PER score at 1 season after injury."
+    },
+    {
+      "section": "TABLE: Factors Affecting Return-to-Play a",
+      "text": "Risk Factor | Days Until RTP\nβ | P\nBMI | –7.937 | .1360\nPreinjury PER score | 0.0450 | .9820\nAge at injury | 2.823 | .2170\nYears of Experience | 1.774 | .4621\nPosition (vs center) |  | \nForward | –46.697 | .0222\nGuard | –24.464 | .2195\nMixed forward/guard | –3.556 | .8948"
+    },
+    {
+      "section": "TABLE: Factors Affecting Percentage PER Score Change a",
+      "text": "Risk Factor | PER Change to Injury Season, % | PER Change to Season 1 Postinjury, %\nβ | P | β | P\nBMI | 1.106 | .6620 | 1.384 | .7070\nPreinjury PER score | –2.416 | .0016 | –3.148 | .0053\nAge at injury | –4.577 | <.0001 | –5.116 | .0017\nYears of experience | –3.822 | .0005 | –5.020 | .0026\nPosition (vs center) |  |  |  | \nForward | –2.275 | .8040 | –5.710 | .6700\nGuard | 9.191 | .3570 | 5.039 | .7340\nMixed forward/guard | 0.5633 | .9650 | –9.326 | .6220"
+    }
+  ]
+}

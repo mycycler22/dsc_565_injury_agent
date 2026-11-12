@@ -1,0 +1,38 @@
+{
+  "pmid": "22714975",
+  "title": "Open versus arthroscopic surgical treatment of chronic proximal patellar tendinopathy. A systematic review.",
+  "year": "2013",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "A general agreement on the best surgical treatment option of chronic proximal patellar tendinopathy is still lacking. The purpose of this systematic review was to investigate if arthroscopically assisted procedures have been reported better results compared to open surgery and to assess the methodology of studies."
+    },
+    {
+      "label": "METHODS",
+      "text": "Twenty-one studies were included in the review. Surgical outcomes were defined referring to the functional classification described by Kelly et al. (Am J Sports Med 12(5):375-380, [11]): return to sport was regarded as the ability of training at the original level before injury with mild or moderate pain and success as the improvement after surgery with symptom reduction. Methodological analysis was performed by two reviewers adopting the Coleman Methodology Score (CMS) (range 0-100, best score 100)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Only one randomized controlled trial (RCT) met inclusion criteria; all other included studies were case series. Median sample size 24, range 11-138, mean age at surgery 26.8 ± 3.2 years, mean follow-up 32.5 ± 18.4 (median 31, range 6-60) months. Return to sport rate: global 78.5 %, open group 76.6 % and arthroscopic group 84.2 %. Success rate: global 84.6 %, open group 87.2 % and arthroscopic group 92.4 %. Differences between groups were not statistically significant. CMSs were positively correlated with the year of publication (P < 0.05)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Minimally invasive arthroscopically assisted procedures have not reported better statistically significant results when compared to open surgery in the treatment of chronic proximal patellar tendinopathy. The methodology of studies in this field has improved over the past 15 years, but well-designed RCTs using validated patient-based outcome measures are still lacking."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Systematic Review, Level IV."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

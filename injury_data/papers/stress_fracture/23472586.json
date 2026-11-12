@@ -1,0 +1,20 @@
+{
+  "pmid": "23472586",
+  "title": "MR imaging of the elbow in the injured athlete.",
+  "year": "2013",
+  "journal": "Radiologic clinics of North America",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "This article summarizes key MR imaging findings in common athletic elbow injuries including little leaguer's elbow, Panner disease, osteochondritis dissecans, olecranon stress fracture, occult fracture, degenerative osteophyte formation, flexor-pronator strain, ulnar collateral ligament tear, lateral ulnar collateral ligament and radial collateral ligament tear, lateral epicondylitis, medial epicondylitis, biceps tear, bicipitoradial bursitis, triceps tear, olecranon bursitis, ulnar neuropathy, posterior interosseous nerve syndrome, and radial tunnel syndrome. The article also summarizes important technical considerations in elbow MR imaging that enhance image quality and contribute to the radiologist's success."
+    }
+  ],
+  "injury_query": "stress fracture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

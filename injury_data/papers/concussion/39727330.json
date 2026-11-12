@@ -1,0 +1,24 @@
+{
+  "pmid": "39727330",
+  "title": "Clinically feasible dual-task detects residual post-concussion deficits after return-to-play.",
+  "year": "2024",
+  "journal": "Journal of sports sciences",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Dual-task (DT) has been shown to detect post-concussion deficits even after traditional measures returned to normal. However, previous studies were conducted in laboratory settings that were not feasible in the clinical setting. Prospective Cohort Study. Two groups (concussion and control groups) completed two testing sessions. The concussion group was tested at 7-10 days post-concussion (subacute) and after Return-to-Play (RTP). The control group was tested with similar time windows. Participants completed 2 single task (ST): Expanded Timed Get Up and Go (ETGUG) as a physical task and Auditory Pure Switch Task (APST) as a cognitive task. After completing STs, participants completed DT performing ETGUG and APST simultaneously. A mixed method ANOVA was conducted to analyze the effects of concussion on ST and DT performance. Another mixed method ANOVA was conducted to examine the effect of concussion recovery time. The concussion group took significantly longer to complete ST and DT than controls at the subacute phase (<i>p</i> = 0.018, <i>p =</i> 0.014, respectively). At RTP timepoint, the concussion group took significantly longer to complete ST and DT than the controls (<i>p=</i>0.007, <i>p <</i> 0.001, respectively). The deficits were more clearly shown for DT. Clinically feasible DT detected subtle and residual post-concussion deficits after athletes were cleared to RTP."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [
+    {
+      "section": "UNLABELED",
+      "sentence": "The concussion group was tested at 7-10 days post-concussion (subacute) and after Return-to-Play (RTP)."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "41793229",
+  "title": "Machine learning applications for anterior cruciate ligament injury prediction and rehabilitation in sports: A scoping review with evidence synthesis.",
+  "year": "2026",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Scoping Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To map and synthesise current evidence on machine learning (ML) applications for anterior cruciate ligament (ACL) injury risk estimation, rehabilitation monitoring and return-to-sport (RTS) decision support, with emphasis on clinical relevance and methodological quality."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Scoping review with descriptive evidence synthesis."
+    },
+    {
+      "label": "METHODS",
+      "text": "The review was conducted in accordance with PRISMA-ScR guidelines. Four electronic databases (n = 4) (PubMed, Scopus, IEEE Xplore and Web of Science) were searched for peer-reviewed studies published between 2016 and 2025. Eligible studies applied ML models to ACL injury prediction, postoperative recovery assessment, or RTS evaluation. Data were extracted on study design, participant characteristics, data modalities, ML algorithms and clinical endpoints. Reporting quality, risk of bias and certainty of evidence were assessed using TRIPOD-AI, PROBAST-AI and an adapted GRADE framework. Quantitative results were summarised descriptively rather than pooled meta-analytically."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Forty studies (n = 40) met the inclusion criteria. Tree-based ensemble models, particularly Random Forest and Extreme Gradient Boosting, were most frequently applied and showed consistent performance across clinical, biomechanical and wearable datasets. Deep learning models were predominantly used for imaging-based tasks such as ACL tear detection and graft assessment. Wearable and sensor-integrated approaches supported continuous functional monitoring and RTS readiness estimation. Methodological quality was generally acceptable, although external validation and standardised outcome definitions were inconsistently reported."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "ML approaches demonstrate growing potential as adjunctive clinical decision-support tools in ACL rehabilitation and RTS assessment. Wider clinical adoption will require standardised multimodal datasets, external validation and explainable modelling to ensure safe, interpretable and context-appropriate implementation."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level II high-quality scoping review with structured synthesis of cohort-based prognostic and predictive modelling studies."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "25394940",
+  "title": "Management of spondylolysis and low-grade spondylolisthesis in fine athletes. A comprehensive review.",
+  "year": "2015",
+  "journal": "European journal of orthopaedic surgery & traumatology : orthopedie traumatologie",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To provide evidence-based data about the aetiology, incidence, diagnosis and treatment of isthmic lumbar spondylolysis and low-grade spondylolisthesis and return to athletic activities in fine athlete."
+    },
+    {
+      "label": "DESIGN",
+      "text": "This is a comprehensive literature review. A thorough MEDLINE search in the period from 1973 to 2014 with the keywords: athlete, spondylolysis, low-grade spondylolisthesis, treatment and return to athletic activities was conducted."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 228 articles were initially enrolled from the search, and 74 case series and reviews were finally included because they referred to incidence, diagnosis, treatment and return to play in fine athletes with symptomatic isthmic spondylolysis and low-grade (Meyerding I and II) spondylolisthesis. There were 13 studies reporting surgical treatment (194 patients of average age 19 years) and 14 studies with conservative treatment (589 patients of average age 15.7). The percentage of athletes who were successfully treated with conservative or operative treatment was 85 and 87.8%, respectively."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Conservative treatment including physiotherapy and bracing is the mainstay in the treatment of symptomatic spondylolysis and low-grade isthmic spondylolisthesis in fine athletes. If consequent treatment fails, the operative treatment (pars repair and short fusion) is decided. Return to play following surgery varies from 6 to 12 months with prohibition in collision sports. Return to play is mostly depended on specific sport activity."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [
+    {
+      "section": "CONCLUSION",
+      "sentence": "Return to play following surgery varies from 6 to 12 months with prohibition in collision sports."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

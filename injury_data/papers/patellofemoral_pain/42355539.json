@@ -1,0 +1,19 @@
+{
+  "pmid": "42355539",
+  "title": "Effects of a 6-Week Hip and Ankle Mobility-Based Rehabilitation Program on Clinical, Neuromuscular, and Functional Outcomes in Male Collegiate Athletes with Patellofemoral Pain: A Randomized Controlled Trial.",
+  "year": "2026",
+  "journal": "Life (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Patellofemoral pain (PFP) in athletes is associated with lower-limb kinetic-chain constraints, yet rehabilitation strategies targeting both hip and ankle mobility remain insufficiently examined. This assessor-blinded randomized controlled trial investigated the effects of a 6-week hip and ankle mobility-based rehabilitation program in male collegiate athletes with PFP. Forty-eight participants were assigned using computer-generated 1:1 randomization to an intervention group (<i>n</i> = 24) or a control group (<i>n</i> = 24). The intervention group completed supervised hip and ankle mobility rehabilitation three times weekly, whereas the control group maintained regular sport-specific training only. Co-primary outcomes were pain intensity assessed using a 10-cm visual analog scale (VAS) and knee-related function assessed using the Kujala score. Secondary outcomes included hip rotation range of motion, weight-bearing ankle dorsiflexion, vastus medialis-vastus lateralis (VM-VL) onset timing, Y-Balance Test (YBT) composite score, and countermovement jump (CMJ) height. Significant group × time interactions favored the intervention group for VAS (<i>p</i> < 0.0001; partial η<sup>2</sup> = 0.436; change difference: -1.54 cm; 95% CI: -2.06 to -1.02) and Kujala score (<i>p</i> < 0.0001; partial η<sup>2</sup> = 0.285; change difference: 8.00 points; 95% CI: 4.24 to 11.76). Significant interactions were also observed for hip internal and external rotation range of motion, weight-bearing ankle dorsiflexion, VM-VL onset timing during a controlled squat task, and YBT composite score (all <i>p</i> ≤ 0.0405; partial η<sup>2</sup> = 0.088-0.374). No significant group × time interaction was observed for CMJ height (<i>p</i> = 0.0511; partial η<sup>2</sup> = 0.080). These findings suggest that, compared with regular sport-specific training alone, adding a supervised hip and ankle mobility-based rehabilitation program may improve pain, knee-related function, targeted mobility outcomes, VM-VL onset timing during a controlled squat task, and dynamic balance in the short term. However, because the control group did not receive an active or attention-matched intervention, these findings should be interpreted as the added effect of the supervised rehabilitation program rather than as definitive evidence of mobility-specific treatment effects. In addition, because patellar tracking, knee kinematics, joint kinetics, and patellofemoral joint loading were not directly measured, the findings should be interpreted as clinical and functional outcome changes rather than direct evidence of a confirmed biomechanical mechanism. Trial registration: NCT07542236."
+    }
+  ],
+  "injury_query": "patellofemoral pain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

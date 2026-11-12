@@ -1,0 +1,53 @@
+{
+  "pmid": "33110685",
+  "title": "THE SUCCESS OF RETURN TO SPORT AFTER SUPERIOR LABRUM ANTERIOR TO POSTERIOR (SLAP) TEARS: A SYSTEMATIC REVIEW AND META-ANALYSIS.",
+  "year": "2020",
+  "journal": "International journal of sports physical therapy",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Reviews on superior labral anterior to posterior (SLAP) injuries have been reported in the literature. However, current reviews have not focused on the success of athletes return to their previous level of sport or athletic performance."
+    },
+    {
+      "label": "HYPOTHESIS/PURPOSE",
+      "text": "Systematically review return to sport (RTS) and return to sport at previous level (RTSP) proportions after SLAP injury while reporting any additional performance metrics and outcome measures."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic Review & Meta-Analysis."
+    },
+    {
+      "label": "METHODS",
+      "text": "A computer assisted literature search of MEDLINE, CINAHL, Embase and SportDiscus databases utilizing keywords related to RTS post-surgery for SLAP tear was implemented. The <i>Preferred Reporting Items for Systematic Reviews and Meta-Analyses</i> guidelines were utilized for study methodology. Quality assessment utilized the MINORS scale."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Twenty-two studies (617 athletes) qualified for analysis. Based on limited evidence from level 3b to 4 studies, athletes RTS post intervention for SLAP injury occurred at a rate of 93% (95% CI:87 to 98%) and overall RTSP rate was 72% (95% CI:60 to 83%). The mean time to RTS post intervention was reported in 59% of studies at 6.9 ± 2.9 months. Patient reported outcome measures (PROM's) were reported in 86% of studies. There was limited reporting of performance statistics, rehabilitation guidelines, return to sport criteria, and information regarding SLAP diagnosis in the available studies. None of the included studies reported post-surgical athletic performance or career longevity."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Limited evidence suggests that less than three in four athletes return to their previous level of sport participation after SLAP injury intervention. Treatment success for an athlete with SLAP injury remains relatively unknown as only 59% of included studies clearly delineate RTS from RTSP and neither athletic performance nor career longevity were reported in any included studies. Future studies of higher quality are required for this determination."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 1a."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The mean time to RTS post intervention was reported in 59% of studies at 6.9 ± 2.9 months."
+    }
+  ],
+  "pmcid": "7566830",
+  "fulltext_chunks": [
+    {
+      "section": "Results:",
+      "text": "Twenty-two studies (617 athletes) qualified for analysis. Based on limited evidence from level 3b to 4 studies, athletes RTS post intervention for SLAP injury occurred at a rate of 93% (95% CI:87 to 98%) and overall RTSP rate was 72% (95% CI:60 to 83%). The mean time to RTS post intervention was reported in 59% of studies at 6.9 ± 2.9 months. Patient reported outcome measures (PROM's) were reported in 86% of studies. There was limited reporting of performance statistics, rehabilitation guidelines, return to sport criteria, and information regarding SLAP diagnosis in the available studies. None of the included studies reported post-surgical athletic performance or career longevity."
+    }
+  ]
+}

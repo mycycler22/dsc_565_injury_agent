@@ -1,0 +1,19 @@
+{
+  "pmid": "37766055",
+  "title": "Deep-Learning-Aided Evaluation of Spondylolysis Imaged with Ultrashort Echo Time Magnetic Resonance Imaging.",
+  "year": "2023",
+  "journal": "Sensors (Basel, Switzerland)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "UNLABELED",
+      "text": "Isthmic spondylolysis results in fracture of pars interarticularis of the lumbar spine, found in as many as half of adolescent athletes with persistent low back pain. While computed tomography (CT) is the gold standard for the diagnosis of spondylolysis, the use of ionizing radiation near reproductive organs in young subjects is undesirable. While magnetic resonance imaging (MRI) is preferable, it has lowered sensitivity for detecting the condition. Recently, it has been shown that ultrashort echo time (UTE) MRI can provide markedly improved bone contrast compared to conventional MRI. To take UTE MRI further, we developed supervised deep learning tools to generate (1) CT-like images and (2) saliency maps of fracture probability from UTE MRI, using ex vivo preparation of cadaveric spines. We further compared quantitative metrics of the contrast-to-noise ratio (CNR), mean squared error (MSE), peak signal-to-noise ratio (PSNR), and structural similarity index (SSIM) between UTE MRI (inverted to make the appearance similar to CT) and CT and between CT-like images and CT. Qualitative results demonstrated the feasibility of successfully generating CT-like images from UTE MRI to provide easier interpretability for bone fractures thanks to improved image contrast and CNR. Quantitatively, the mean CNR of bone against defect-filled tissue was 35, 97, and 146 for UTE MRI, CT-like, and CT images, respectively, being significantly higher for CT-like than UTE MRI images. For the image similarity metrics using the CT image as the reference, CT-like images provided a significantly lower mean MSE (0.038 vs. 0.0528), higher mean PSNR (28.6 vs. 16.5), and higher SSIM (0.73 vs. 0.68) compared to UTE MRI images. Additionally, the saliency maps enabled quick detection of the location with probable pars fracture by providing visual cues to the reader. This proof-of-concept study is limited to the data from ex vivo samples, and additional work in human subjects with spondylolysis would be necessary to refine the models for clinical use. Nonetheless, this study shows that the utilization of UTE MRI and deep learning tools could be highly useful for the evaluation of isthmic spondylolysis."
+    }
+  ],
+  "injury_query": "spondylolysis",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

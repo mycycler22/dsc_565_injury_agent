@@ -1,0 +1,37 @@
+{
+  "pmid": "26031647",
+  "title": "Systematic review: laparoscopic treatment of long-standing groin pain in athletes.",
+  "year": "2015",
+  "journal": "British journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "No single aetiological factor has been proven to cause long-standing groin pain in athletes and no sole operative technique (either open or laparoscopic) has been shown to be the preferred method of repair. The aim of this systematic review was to determine whether there are any differences in the return to full sporting activity following laparoscopic repair of groin pain in athletes."
+    },
+    {
+      "label": "DATA SOURCES",
+      "text": "The minimal access approaches include laparoscopic transabdominal pre-peritoneal (TAPP) or endoscopic total extraperitoneal (TEP) techniques. A systematic literature search was performed in PubMed, SCOPUS, UpToDate and the Cochrane Library databases. Series reporting laparoscopic repair (TAPP/TEP) of groin pain in adult (>18 years) athletes were included. The primary outcome was return to full sporting activity and secondary outcomes included percentage success rates and complications of operations."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Only 18 studies fulfilled the search criteria with both laparoscopic and sports hernia repairs. The studies were mainly observational with some reporting comparative data, but no large randomised controlled trials were detected. The median return to sporting activity of 4 weeks (28 days) was the same for the TAPP as well as TEP techniques. No real difference in secondary outcome measures was shown. More reported cases to date in the literature used the TAPP technique compared with TEP repair (n=605 vs n=266)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Laparoscopic surgery for elite athlete groin pain is increasingly becoming more common with almost 1000 patients reported since 1997. No particular laparoscopic technique appears to offer any advantage over the other."
+    }
+  ],
+  "injury_query": "sports hernia",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The median return to sporting activity of 4 weeks (28 days) was the same for the TAPP as well as TEP techniques."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

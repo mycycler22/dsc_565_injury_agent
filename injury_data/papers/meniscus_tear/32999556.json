@@ -1,0 +1,39 @@
+{
+  "pmid": "32999556",
+  "title": "Prevalence of concomitant knee injuries associated with anterior cruciate ligament tear in kabaddi and football players.",
+  "year": "2020",
+  "journal": "Journal of clinical orthopaedics and trauma",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is little literature available about the type of sports and concomitant knee injury."
+    },
+    {
+      "label": "THE PURPOSE OF THE STUDY",
+      "text": "To help in better prediction of concomitant knee injuries in football and kabaddi players."
+    },
+    {
+      "label": "MATERIAL METHOD",
+      "text": "Five hundred and seventeen male athletes [Football (n = 226) and Kabaddi players (n = 291)] aged between 16 and 35 years were enrolled in the study. These were categorized into five groups depending upon the time interval between injury and surgery (0-3 months, 3-6 months, 6-9 months, 9-12 months, 12-18 months and 18-24 months). Meniscal and chondral damage present at the time of ACL reconstruction was documented."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The overall incidence of meniscal tear was more in kabaddi players (220/291) as compared to football players (144/226; p = 0.003). The incidence of both menisci tear was more in kabaddi as compared to football (p = 0.02). Incidence of lateral meniscus tear (147/291) in kabaddi was more as compared to football (84/226; p = 0.002). The incidence of condylar damage was comparable in both groups. Medial femoral condyle was more commonly injured in both the sports irrespective of time frame."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The chances of meniscus injuries were more in kabaddi players compared to football players in ACL deficient knee. The time interval between injury and surgery had a direct correlation with meniscus and chondral injuries."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III, retrospective study."
+    }
+  ],
+  "injury_query": "meniscus tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

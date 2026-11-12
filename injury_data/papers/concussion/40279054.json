@@ -1,0 +1,24 @@
+{
+  "pmid": "40279054",
+  "title": "Sport-Related Concussions in High School Athletes: A Comprehensive Update.",
+  "year": "2025",
+  "journal": "Current neurology and neuroscience reports",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE OF REVIEW",
+      "text": "Sport-related concussions (SRC) in high school athletes are a growing public health concern, with recent advancements in epidemiology, pathophysiology, diagnosis, management, and prevention. We concisely summarize SRC in high school athletes, emphasizing current research and clinical implications."
+    },
+    {
+      "label": "RECENT FINDINGS",
+      "text": "Athletes are at significant risk of SRCs, with incidence varying by sport, sex, and competitive setting. Advances in pathophysiology highlight the role of metabolic disruption, inflammation, and axonal injury. Updated diagnostic tools, such as SCAT6, aid clinical evaluation, while advanced neuroimaging and biomarkers remain investigational. Return-to-sport/learn protocols emphasize a gradual, stepwise return. Preventative measures, including policy changes, neuromuscular training, and protective equipment, have reduced SRC incidence. Comprehensive SRC management includes recognition and removal from play followed by a structured return to sport/learning. Future research directions include biomarker validation, optimized prevention strategies, and long-term outcome assessment to reduce the burden of SRC in adolescent athletes."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

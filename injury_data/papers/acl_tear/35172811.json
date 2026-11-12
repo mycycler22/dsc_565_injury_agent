@@ -1,0 +1,31 @@
+{
+  "pmid": "35172811",
+  "title": "Influence of type I collagen polymorphisms and risk of anterior cruciate ligament rupture in athletes: a case-control study.",
+  "year": "2022",
+  "journal": "BMC musculoskeletal disorders",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) rupture is a common and severe knee injury in sports and occurs mostly due to noncontact injuries. There is an increasing amount of evidence associating ACL rupture to single nucleotide polymorphisms (SNPs), and SNPs in the collagen type I genes can change its expression and tissue mechanical features. This study aimed to investigate the association between SNPs in COL1A1 and COL1A2 with sports-related ACL tears."
+    },
+    {
+      "label": "METHODS",
+      "text": "A total of 338 athletes from multiple sports modalities were analyzed: 146 were diagnosed with ACL rupture or underwent an ACL reconstruction surgery and 192 have no musculoskeletal injuries. SNPs were genotyped using validated TaqMan assays. The association of the polymorphisms with ACL rupture was evaluated by a multivariable logistic regression model, using odds ratios (OR) and 95% confidence intervals (CI)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The age, sport modality, and training location were associated with an increased risk of a non-contact ACL tear. COL1A2 SNPs (rs42524 CC and rs2621215 GG) were associated with an increased risk of non-contact ACL injury (6 and 4-fold, respectively). However, no significant differences were detected in the distribution of COL1A1 rs1107946 and COL1A2 rs412777 SNPs between cases and controls. There was a protective association with ACL rupture (OR = 0.25; 95% CI = 0.07-0.96) between COL1A1 rs1107946 (GT or TT) and the wildtype genotypes of the three COL1A2 (rs412777, rs42524, rs2621215). COL1A2 rs42524 and rs2621215 SNPs were associated with non-contact ACL risk."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "The combined analysis of COL1A1-COL1A2 genotypes suggests a gene-gene interaction in ACL rupture susceptibility."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

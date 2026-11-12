@@ -1,0 +1,36 @@
+{
+  "pmid": "33380993",
+  "title": "Maximal Medical Improvement Following Shoulder Stabilization Surgery May Require up to 1 Year: A Systematic Review.",
+  "year": "2020",
+  "journal": "HSS journal : the musculoskeletal journal of Hospital for Special Surgery",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "There is increased emphasis on properly allocating healthcare resources to optimize value within orthopedic surgery. Establishing time to maximal medical improvement (MMI) can inform clinical decision-making and practice guidelines."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "We sought (1) to evaluate the time to MMI as predicted by commonly used patient-reported outcome measures (PROMs) for evaluation of shoulder stabilization and (2) to evaluate typical time to return to sports and employment following surgery."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of the Medline database was conducted to identify outcome studies reporting sequential follow-up at multiple time points, up to a minimum of 2 years after shoulder stabilization surgery. The included studies examined the outcomes of arthroscopic or open surgical techniques on anterior instability. Clinically significant improvements were evaluated utilizing the minimal clinically important difference specific to each PROM. Secondary outcomes included range of motion, return to sport/work, and recurrent instability."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Ten studies comprising 590 surgically managed cases of anterior shoulder instability were included (78% arthroscopic, 22% open). Clinically significant improvements in PROMs were achieved up to 1 year post-operatively for Rowe, Western Ontario Instability Index (WOSI), American Shoulder and Elbow Surgeons (ASES), and Simple Shoulder Test (SST) scores. For the three most utilized tools (Rowe, WOSI, ASES), the majority of improvement occurred in the first 6 post-operative months. Clinically significant improvements in Constant Score and Oxford Shoulder Instability Score (OSIS) were achieved up to 6 months and 2 years after surgery, respectively. No clinically significant improvements were achieved on the Disabilities of the Arm, Shoulder, and Hand (DASH) tool."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Maximal medical improvement as determined by commonly utilized PROMs occurs by 1 year after operative management of anterior shoulder instability. The DASH tool does not appear to demonstrate a reliable time frame for clinically significant outcome improvement."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

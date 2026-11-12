@@ -1,0 +1,47 @@
+{
+  "pmid": "40176305",
+  "title": "Physical Characteristics Associated With Low Back Pain in Japanese Collegiate Female Rhythmic Gymnasts.",
+  "year": "2025",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Few studies have explored relationships between low back pain (LBP) and physical characteristics (physique, muscle strength, tightness, and flexibility) in female rhythmic gymnasts (RGs)."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "Due to their extreme flexibility, modifiable physical factors for LBP in RGs are not related to muscle tightness."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "College female RGs (n = 95) were categorized into LBP and non-LBP groups based on questionnaires and orthopaedic surgeon interview. Physical assessments included whole-body bone mineral content and density, trunk lean body mass, and scoliosis presence by dual-energy X-ray absorptiometry scans, presence of abnormal findings and spine alignment by magnetic resonance imaging scans, hip muscle strength testing (flexion, extension, and abduction), range of motion (ROM), and flexibility testing. LBP and non-LBP groups were compared, and multivariate regression analysis performed."
+    },
+    {
+      "label": "RESULTS",
+      "text": "RGs with LBP exhibited significantly longer practice time, lower hip flexion muscle strength on the nondominant side versus dominant side, lower active straight leg raise on the nondominant side versus dominant side, and lower hip external rotation (ER) ROM on the nondominant side versus dominant side. A history of LBP was also associated with current LBP. Multivariate logistic regression analysis revealed that a history of LBP (odds ratio [OR], 6.33; 95% CI, 1.56-25.62), differences in hip flexion strength (OR, 0.96; 95% CI, 1.00-1.08), and differences in hip ER ROM (OR, 1.12; 95% CI, 1.03-1.19) were factors associated with LBP."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "LBP was experienced by 27.3% RGs and associated not only with a history of LBP and a deficit in hip flexor strength on the nondominant side but also a deficit in hip ER ROM on the nondominant side."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "Focusing on hip flexor strength and hip ER ROM on the nondominant side may be of value for LBP rehabilitation and prevention in RGs."
+    }
+  ],
+  "injury_query": "back injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

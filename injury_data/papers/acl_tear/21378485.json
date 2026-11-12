@@ -1,0 +1,32 @@
+{
+  "pmid": "21378485",
+  "title": "Athletic performance after ACL reconstruction in the Women's National Basketball Association.",
+  "year": "2011",
+  "journal": "The Physician and sportsmedicine",
+  "pub_types": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "Females are at greater risk than males for sustaining an anterior cruciate ligament (ACL) tear. Performance outcomes and attrition rates associated with ACL injury and reconstruction in Women's National Basketball Association (WNBA) athletes are unclear. The purpose of this study was to compare athletes who underwent ACL reconstruction with pre-injury and matched controls to determine differences in performance and return to play."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of 18 WNBA players who underwent ACL reconstruction between 1998 and 2008 was conducted. Performance data for 2 full seasons before and after the index surgery were collected. Data were obtained from 36 matched controls. Within-group and between-group comparisons were performed to assess significance of changes in athletic performance between the pre- and post-index seasons, and the odds ratios of return to play following surgery."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Fourteen (78%) of 18 WNBA athletes who underwent ACL reconstruction returned to play in the WNBA. Within-group comparisons showed that only shooting percentage (P = 0.04) and steals per 40 minutes of play (P = 0.03) were significantly reduced after ACL reconstruction. No other performance variables were significantly different in absolute terms or per 40 minutes of play. Changes in performance variables from the pre- to post-index seasons were not significantly different from those in the control group."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "After ACL reconstruction, 78% of athletes returned to professional sports. For those who returned, changes in performance were not statistically significant relative to the comparison group."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

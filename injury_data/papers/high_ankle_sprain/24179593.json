@@ -1,0 +1,47 @@
+{
+  "pmid": "24179593",
+  "title": "Magnetic resonance imaging as a predictor of return to play following syndesmosis (high) ankle sprains in professional football players.",
+  "year": "2012",
+  "journal": "Sports health",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Syndesmosis ankle sprains cause greater disability and longer duration of recovery than lateral ankle sprains."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To describe the severity of syndesmosis sprains using several accepted magnetic resonance imaging (MRI) criteria and to assess the interrater reliability of diagnosing syndesmosis injury using these same criteria in professional American football players."
+    },
+    {
+      "label": "HYPOTHESIS",
+      "text": "There is a high degree of interrater reliability of MRI findings in American football players with syndesmosis ankle sprains. These radiographic findings will correlate with time lost to injury, indicating severity of the sprain."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Uncontrolled retrospective review."
+    },
+    {
+      "label": "METHODS",
+      "text": "Player demographics and time lost to play were recorded among professional football players who had sustained a syndesmosis ankle sprain and underwent standardized ankle MRI. Each image was independently read by 3 blinded musculoskeletal radiologists."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Seventeen players met study criteria. There was almost perfect agreement among the radiologists for diagnosing injury to the syndesmotic membrane; substantial agreement for diagnosing injury to the posterior inferior tibiofibular ligament (PITFL) and in determining the proximal extent of syndesmotic edema/injury; but only fair agreement for diagnosing injury to the anterior inferior tibiofibular ligament and in determining the width of syndesmotic separation. There was a significant correlation between the width of syndesmotic separation and time lost, but no significant correlation between individual syndesmotic ligament injury or proximal extent of syndesmotic edema/injury and time lost."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "While ankle MRI can identify syndesmotic disruption with a high degree of interobserver agreement, no association was demonstrated between the extent of injury on MRI and the time to return to play following a high ankle sprain."
+    },
+    {
+      "label": "CLINICAL RELEVANCE",
+      "text": "In athletes with suspected high ankle sprains, MRI may help confirm diagnosis or suggest alternative diagnoses when the syndesmotic supporting structures are intact. However, the severity of ligamentous and syndesmotic disruption on MRI cannot help predict recovery times."
+    }
+  ],
+  "injury_query": "high ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

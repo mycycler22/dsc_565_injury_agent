@@ -1,0 +1,31 @@
+{
+  "pmid": "8915046",
+  "title": "MR arthrography of elbow: evaluation of the ulnar collateral ligament of elbow.",
+  "year": "1996",
+  "journal": "Skeletal radiology",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "The purpose of this study was to evaluate ulnar collateral ligament (UCL) injury of the elbow in throwing athletes by MRI and MR arthrography."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Ten elbows of throwing athletes were examined on both plain MRI and MR saline arthrography and the injuries subsequently surgically proven. Spin-echo (SE) T1-weighted and fast SE T2-weighted coronal images were obtained."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The UCL was unclear in all ten cases on T1-weighted MRI. In five cases an avulsion fracture was also found on T1-weighted MRI. On T2-weighted MRI, abnormal high-intensity areas were identified in or around the UCL. On T2-weighted MR arthrography images, extracapsular high-intensity areas, which represent extracapsular leakage, were found in four of five cases with avulsion fracture. At surgery, all these four cases showed avulsion fractures with instability; the other case had a fracture but it was stable and adherent to the humerus. On T2-weighted MR arthrography images, an extracapsular high-intensity area was found in one of the five cases without avulsion fracture. At surgery this patient had a complete tear of the UCL itself."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "MR arthrography provided additional information for evaluating the degree of UCL injury."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "35568659",
+  "title": "Location of anterior knee pain affects load tolerance in isometric single leg knee extension.",
+  "year": "2022",
+  "journal": "Journal of science and medicine in sport",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVES",
+      "text": "To investigate relationships between load tolerance of single leg isometric knee extension and athlete reported knee pain location and severity during the single leg decline squat."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Cross-sectional study."
+    },
+    {
+      "label": "METHODS",
+      "text": "175 college basketball athletes (99 women, 76 men) in Alberta, Canada participated at the start of the 2018-19 season. Knee pain location (dichotomized into focal/diffuse pain), and severity (numerical rating scale 0-10) were collected during the single leg decline squat. Athletes completed a standardized single leg isometric knee extension to determine load tolerance (defined by pain or reduced form). A quantile regression model was used to examine the association between load tolerance and pain location adjusting for sex, years played, body mass index and team."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Athletes with diffuse pain had a significantly lower median load tolerance (-0.89 kg) than athletes without pain (95% confidence interval [-1.49, -0.29]; p = 0.003). Athletes with focal pain tolerated similar median loads (-0.42 kg) to those without pain (95% confidence interval [-1.17, 0.33]; p = 0.26). Higher knee pain severity was associated with a non-linear but consistent reduction in load tolerance (p < 0.001)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Athlete-reported knee pain location during the single leg decline squat influenced load tolerance to isometric knee extension. Athletes with focal pain tolerated similar isometric loads to their pain free teammates. Clinicians should consider load selection of isometric knee extension for athletes with diffuse pain given their lower load tolerance. Future research should consider reporting pain location in addition to pain severity to differentiate clinical presentations and response to exercise."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

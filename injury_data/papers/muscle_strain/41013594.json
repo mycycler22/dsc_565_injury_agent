@@ -1,0 +1,35 @@
+{
+  "pmid": "41013594",
+  "title": "Mechanical asymmetries in gastrocnemius stiffness: shear-wave elastography insights into the biomechanics and injury susceptibility of calf muscle strain injuries.",
+  "year": "2025",
+  "journal": "BMC sports science, medicine & rehabilitation",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "\"Tennis leg\" injuries originate predominantly at the medial gastrocnemius (MG) musculotendinous junction (MTJ). Whether posture-dependent mechanical asymmetries between the MG and lateral gastrocnemius (LG) explain this susceptibility remains unclear. To quantify posture-specific stiffness of gastrocnemius muscle and MTJ with shear-wave elastography (SWE) and to identify mechanical signatures that may predispose the MG to strain."
+    },
+    {
+      "label": "METHODS",
+      "text": "Ultrasound data were obtained from 22 calves, resulting in 44 samples, across three ankle positions: neutral, 15° plantarflexion, and 15° dorsiflexion, with the knee in an extended position. Young's modulus was sampled at the muscle belly, the MTJ, and proximal 1 cm and distal 1 cm on both side; each value represented the mean of three trials. Independent t-tests were employed to assess side-to-side differences, while one-way ANOVA (Bonferroni-adjusted, α = 0.05) was utilized to evaluate posture effects."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Across neutral postures, the MG was stiffer than the LG at the muscle belly (P < 0.05), MTJ (P < 0.001), and at the distal 1 cm of MTJ. Dorsiflexion induced the highest stiffness values on both sides, with the MG demonstrating significantly greater stiffness than the LG (P < 0.05). Notably, despite its higher baseline stiffness, the MG showed a smaller contraction-induced percentage increase in stiffness compared to the LG at the MTJ in both plantarflexion (P < 0.05) and dorsiflexion (P < 0.05), indicating a high-stiffness/low-compliance (HNC) profile."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Dorsiflexion markedly increases the stiffness of the MG while decreasing its proportion to enhance stiffness during contraction. This HNC behavior emphasizes stress at the in tennis-leg ruptures. SWE-derived HNC measurements may assist in identifying at-risk athletes and customizing preventive measures."
+    },
+    {
+      "label": "TRIAL REGISTRATION",
+      "text": "Clinical trial number: not applicable."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

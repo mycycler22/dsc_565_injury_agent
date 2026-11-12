@@ -1,0 +1,28 @@
+{
+  "pmid": "25270624",
+  "title": "Uncommon external abdominal oblique muscle strain in a professional soccer player: a case report.",
+  "year": "2014",
+  "journal": "BMC research notes",
+  "pub_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "This is the first report of external abdominal oblique muscle injury occurring in a professional soccer player."
+    },
+    {
+      "label": "CASE PRESENTATION",
+      "text": "A 28-year-old Caucasian professional soccer player presented after experiencing a popping sensation associated with strong parietal pain localized between the left 11th and 12th ribs. Ultrasound examination revealed a collection of fluid under the 11th rib, suggesting injury of the left external oblique muscle. Platelet-rich plasma treatment was administered and the soccer player returned to competition on the 21st day after treatment."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "This rare injury results from a sudden intrinsic eccentric contraction of the internal oblique muscle while in a stretched position. Ultrasound can help to confirm the diagnosis and to monitor clinical follow-up. Platelet-rich plasma treatment could aid recovery in high-level athletes."
+    }
+  ],
+  "injury_query": "muscle strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

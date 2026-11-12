@@ -1,0 +1,44 @@
+{
+  "pmid": "21737836",
+  "title": "Results of arthroscopic repair of type II superior labral anterior posterior lesions in overhead athletes: assessment of return to preinjury playing level and satisfaction.",
+  "year": "2011",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The majority of the literature on surgical outcomes of superior labral anterior posterior (SLAP) repairs has focused on short-term follow-up of 1 to 2 years, not allowing adequate time for full rehabilitation and return to maximum level of competition for all types of athletes. Also, previous studies have concentrated on using questionnaires that primarily evaluate patients' activities of daily living, which do not focus on sport-specific performance."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine the midterm results of type II SLAP repairs in overhead athletes, focusing primarily on athletic performance as well as activities of daily living."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Case series; Level of evidence, 4."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective review of 30 overhead athletes, who underwent an arthroscopic superior labral repair for a symptomatic type II SLAP tear between 2002 and 2007, was performed. Our study population included 22 male and 8 female patients with a mean age at the time of surgery of 24 years. Twenty-one patients participated in baseball or softball, and the remainder of patients were involved in javelin throwing or tennis. The average follow-up was 3.5 years. The outcome of treatment was evaluated using the American Shoulder and Elbow Society (ASES) scoring system, assessing activities of daily living, and the Kerlan-Jobe Orthopaedic Clinic Shoulder and Elbow (KJOC) score, assessing sport-specific performance. In addition, the length of time to return to sport and the degree of successful performance were evaluated."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Repairs resulted in ASES scores comparable with those from prior published studies (average ASES score, 87.9). The KJOC score averaged 73.6. The athletes' perception was that they returned to approximately 84.1% of their preinjury level of function with a mean time to return to play of 11.7 months. There was a significant drop in the ASES to KJOC score for the baseball/softball players (87.9 ± 14.94 and 72 ± 19.24, respectively; P = .006). Patients reported an overall satisfaction rate of 93.3% with the procedure, with the majority being very satisfied."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Arthroscopic SLAP repairs show excellent results and a high rate of overall satisfaction; however, the outcomes are less reliable in throwers. The KJOC score provides a more stringent assessment of overhead athletes' function after SLAP repair than the ASES score. Our findings also indicate that SLAP repairs lead to improved shoulder function during routine daily activities but that consistent return to elite throwing sports may still remain somewhat problematic."
+    }
+  ],
+  "injury_query": "SLAP tear",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The athletes' perception was that they returned to approximately 84.1% of their preinjury level of function with a mean time to return to play of 11.7 months."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

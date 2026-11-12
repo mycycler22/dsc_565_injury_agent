@@ -1,0 +1,43 @@
+{
+  "pmid": "24925965",
+  "title": "Premature return to play and return to learn after a sport-related concussion: physician's chart review.",
+  "year": "2014",
+  "journal": "Canadian family physician Medecin de famille canadien",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "To determine what proportion of patients experience an exacerbation of their symptoms as a result of premature return to play (RTP) and return to learn (RTL) following sport-related concussions."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Retrospective study of electronic medical records from the office-based practice of one family and sport medicine physician who had systematically provided recommendations for cognitive and physical rest based on existing consensus recommendations. Two blinded authors independently reviewed each chart, which included Sport Concussion Assessment Tool (SCAT) and SCAT2 symptom self-report forms to determine whether an athlete had returned to play or learn prematurely. If there was a discrepancy between the 2 reviewers then a third author reviewed the charts."
+    },
+    {
+      "label": "SETTING",
+      "text": "A sport medicine and family practice in Ontario. The physician assessed sport-related concussions after self-referral or referral from other primary care physicians, teams, and schools."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "A total of 170 charts of 159 patients were assessed for sport-related concussion during a 5-year period (April 2006 to March 2011). All participants were students who were participating in sports at the time of injury. There were 41 concussions in elementary students, 95 concussions in high school students, and 34 concussions in college or university students."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Premature RTP and RTL were defined as chart records documenting the recurrence or worsening of symptoms that accompanied the patients' RTP or RTL. Measures were compared using the earliest available SCAT forms and self-reporting."
+    },
+    {
+      "label": "RESULTS",
+      "text": "In 43.5% of concussion cases, the patient returned to sport too soon and in 44.7% of concussion cases, the patient returned to school too soon. Patients with a history of previous concussion required more days of rest before being permitted to participate in any physical activity than those patients without a previous history of concussion. Elementary school students required fewer days of rest before being permitted to return to any physical activity compared with high school students and college or university students."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Currently, physicians recommend restrictions on mental and physical activity following sport-related concussion. This is done without clear guidelines as to what cognitive rest entails for students. Further research is required to determine how to implement a management plan for student athletes to facilitate complete recovery after concussion."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

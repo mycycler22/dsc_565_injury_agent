@@ -1,0 +1,36 @@
+{
+  "pmid": "42106965",
+  "title": "Achilles tendon rupture does not significantly reduce career longevity in professional soccer players compared with matched controls.",
+  "year": "2026",
+  "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+  "pub_types": [
+    "Journal Article",
+    "Comparative Study"
+  ],
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "To compare the career longevity of professional soccer players after achilles tendon rupture (ATR) with that of an uninjured matched control cohort."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective analysis of ATR cases in professional male athletes from the English Premier League and English Championship was performed. Each athlete with ATR was matched to three control athletes who had not sustained ATR. The analysis included all identified ATR cases, including those who failed to return to professional competition. Statistics were compiled for each year until retirement or study end."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 36 players with ATR were matched to 108 controls. The return-to-professional play rate following ATR was 91.7%. The mean career length after ATR was 4.9 ± 3.3 years, while that of the matched control athletes was 3.4 ± 3.5 years (p = 0.045). After ATR, an athlete had a 33% lower risk of retirement compared with the matched control athlete, which approached statistical significance (hazard ratio [HR] = 0.67; 95% confidence interval [CI], 0.45-1.00; p = 0.051). Significant subsequent non-ATR injuries were documented in 24.1% of control athletes during the follow-up period. At 5 years after ATR, 58.3% of athletes had retired from professional soccer, while 70.4% of the matched cohort were retired (p = 0.259). By 10 years, 83.3% of the ATR cohort had retired compared with 91.7% of the matched cohort (p = 0.270). Within the ATR cohort, re-rupture occurred in seven players (19.4%) but did not significantly affect career length (HR = 0.80; p = 0.622). Age at ATR remained the strongest predictor of retirement (HR = 1.27 per year; p < 0.001)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Professional male soccer players who sustained ATR demonstrated comparable career longevity to a matched player cohort, with a trend toward longer survival in those who successfully return to play. ATR did not significantly shorten professional careers in this elite population. This likely reflects the efficacy of modern rehabilitation, a potential selection effect, and the high non-ATR injury burden observed in the control group."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Level III."
+    }
+  ],
+  "injury_query": "Achilles tendon rupture",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

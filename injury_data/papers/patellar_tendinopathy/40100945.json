@@ -1,0 +1,35 @@
+{
+  "pmid": "40100945",
+  "title": "Preseason Patellar Tendon Thickness Predicts Symptomatic Patellar Tendinopathy in Male NCAA Division I Basketball Players.",
+  "year": "2025",
+  "journal": "The Journal of bone and joint surgery. American volume",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The purpose of this study was to evaluate whether increased anteroposterior (AP) thickness of the proximal patellar tendon at preseason evaluation is predictive of symptomatic patellar tendinopathy and associated sequelae."
+    },
+    {
+      "label": "METHODS",
+      "text": "Thirty-one male National Collegiate Athletic Association (NCAA) Division I basketball players voluntarily participated in this study (n = 52 tendons from 27 athletes after application of exclusion criteria, with evaluation at preseason, midseason, and postseason time points). At each time point, Victorian Institute of Sport Assessment-Patellar Tendon (VISA-P) scores, patellar tendon tenderness, patellar tendon AP thickness, and the presence of a proximal patellar tendon hypoechoic region were evaluated. Measurement of patellar tendon AP thickness and the identification of hypoechoic regions were performed using a portable ultrasound device. Outcome measures included a proximal patellar tendon hypoechoic region, a trip to the training room (TTR), time-loss symptomatic patellar tendinopathy (TLPT), and patellar tendon rupture. Covariates evaluated in the multivariable regression model included body mass index and a patient-reported history of patellar tendinopathy (α = 0.05)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The mean preseason tendon thickness was 4.78 ± 1.22 mm. Nine (17.3%) of the tendons were symptomatic to the point of requiring a TTR. Preseason tendon thickness was associated with increased odds of a TTR (adjusted odds ratio [aOR] = 3.68 [95% confidence interval (CI) = 1.73 to 7.81]; p < 0.01). The predicted probability of a TTR was 86.0% with a preseason tendon thickness of 8 mm versus 3.4% with a preseason tendon thickness of 4 mm. Preseason tendon thickness was also predictive of TLPT (aOR = 1.96 [95% CI = 1.03 to 3.71]; p = 0.04). Preseason VISA-P scores were not predictive of a TTR (p = 0.66) or TLPT (p = 0.60)."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Increased patellar tendon thickness on preseason ultrasound is predictive of symptomatic patellar tendinopathy and associated sequelae during an NCAA Division I basketball season. Ultrasound identification of at-risk individuals may allow triage toward additional physical therapy and activity modification for these athletes to prevent progression to irreversible patellar tendon disease. These data support the use of ultrasound as a screening tool for elite jumping athletes."
+    },
+    {
+      "label": "LEVEL OF EVIDENCE",
+      "text": "Prognostic Level II . See Instructions for Authors for a complete description of levels of evidence."
+    }
+  ],
+  "injury_query": "patellar tendinopathy",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

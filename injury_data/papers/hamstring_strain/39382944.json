@@ -1,0 +1,31 @@
+{
+  "pmid": "39382944",
+  "title": "Alterations in hamstring properties of athletes with hamstring strain injuries can impact jump-landing performance.",
+  "year": "2025",
+  "journal": "The Journal of sports medicine and physical fitness",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Hamstring strains may alter the contractile properties of the muscle and affect functional movement. Thus, this study evaluated the association between the hamstring properties and the jump-landing performance in athletes with hamstring strains."
+    },
+    {
+      "label": "METHODS",
+      "text": "Sixteen hamstring-injured athletes and 16 healthy controls were recruited. The mechanical properties and contractile function of the hamstring were assessed in both the injured and non-injured legs. The control group was tested only in the matched injured leg. The kinetic outcomes during squat jump (SJ) and countermovement jump (CMJ) tasks were analyzed to evaluate the jump-landing performance."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The injured limb exhibited higher muscle tone (P=0.042) and stiffness (P=0.010), but lower flexibility (P=0.002) and strength (P=0.040) than the control limb. The injured limb showed a poorer jumping performance (P=0.037 for jump height) and landing performance (P=0.011 for landing force and P=0.004 for loading rate) during the CMJ task compared to the control limb. All the hamstring properties showed mild-to-moderate correlations with the jump-landing performance."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Impairments in the muscle properties following hamstring strain impact the jumping and landing performance, leading to degraded sports outcomes in athletes with hamstring injuries. Thus, more attention should be paid to tissue property changes following hamstring strain injuries to develop effective strategies for restoring muscle function and improving sports performance."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

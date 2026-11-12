@@ -1,0 +1,44 @@
+{
+  "pmid": "37548031",
+  "title": "Return to Sports After ACL Augmentation With Anterolateral Reconstruction (ALR) Harvesting Gracilis Only Compared With ACL Reconstruction With ALR Harvesting Both Hamstring Tendons.",
+  "year": "2023",
+  "journal": "The American journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Anterior cruciate ligament (ACL) repair (ACL-Rp) is known to be a valuable alternative to ACL reconstruction (ACL-Rc) in selected indications. The majority of the ACL-Rp techniques recommend the use of a synthetic brace. The use of the gracilis allows both a biological internal brace and anterolateral ligament reconstruction (ALR)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "The primary objective was to compare the early ability to return to sports between patients who underwent ACL-Rp using a gracilis autograft as an internal brace augmentation with ALR and patients who underwent the conventional ACL-Rc with ALR technique sacrificing both the gracilis and the semitendinosus. The secondary objective was to compare the failure rate, clinical scores, and return to sports at a minimum follow-up of 2 years."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Cohort study; Level of evidence, 3."
+    },
+    {
+      "label": "METHODS",
+      "text": "A retrospective analysis was undertaken. A total of 49 patients who underwent ACL-Rp with ALR between December 2018 and May 2019 were propensity matched at a 1:1 ratio to those who underwent ACL-Rc with ALR during the same period. The decision to perform ACL-Rp with ALR was based on preoperative selection and intraoperative arthroscopic findings: proximal avulsion tear, partial ACL tear, low- to midlevel sports participation, and good tissue quality. The ability to return to sports was assessed using isokinetic tests and the Knee Santy Athletic Return to Sport test functional test at 6 months postoperatively. At the final follow-up, knee laxity parameters, return to sports, and clinical outcome (Lysholm score, Tegner Activity Scale score, International Knee Documentation Committee score, Knee injury and Osteoarthritis Outcome Score, and Anterior Cruciate Ligament-Return to Sport after Injury score) were recorded."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The ACL-Rp group had significantly less hamstring strength deficit when compared with their counterparts who underwent ACL-Rc (0.2% vs 10.2% in concentric, <i>P</i> < .001; 2.5% vs 14% in eccentric, <i>P</i> < .001). The mean Knee Santy Athletic Return to Sport test score was significantly higher in the ACL-Rc group (69.7% ± 16.6% [range, 19%-100%] vs 61% ± 16.8% [range, 19%-100%]; <i>P</i> = .001). In the ACL-Rp group, 61% (30/49) of the patients were authorized to return to pivot sports versus 41% (20/49) in the ACL-Rc group (<i>P</i> = .04). At a mean final follow-up of 31.4 ± 3.5 months, no significant differences were demonstrated between groups with respect to clinical scores and knee laxity parameters. There was a trend for a higher failure rate in the ACL-Rp group without any significance (ACL-Rp: 6.1% [3/49] vs ACL-Rc: 0%; <i>P</i> = .08)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "At 6 months after operation, harvesting only the gracilis with this ACL-Rp and augmentation with ALR technique was linked to a better early ability to return to sports compared with the ACL-Rc with ALR technique harvesting both the gracilis and semitendinosus. This technique had a limited effect on early flexion strength and provided a satisfactory rerupture rate."
+    }
+  ],
+  "injury_query": "ACL tear",
+  "hits": [
+    {
+      "section": "CONCLUSION",
+      "sentence": "At 6 months after operation, harvesting only the gracilis with this ACL-Rp and augmentation with ALR technique was linked to a better early ability to return to sports compared with the ACL-Rc with ALR technique harvesting both the gracilis and semitendinosus."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

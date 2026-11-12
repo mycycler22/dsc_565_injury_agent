@@ -1,0 +1,56 @@
+{
+  "pmid": "39288342",
+  "title": "Prognosticating Return-To-Play Time Following a Hamstring Strain Injury Using Early Flexibility Asymmetry and Musculoskeletal Ultrasound Imaging Outcomes: An Exploratory Study Among Canadian University Football Players.",
+  "year": "2024",
+  "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "OBJECTIVE",
+      "text": "Identify key flexibility and point-of-care musculoskeletal ultrasound (POCUS) measures for prognosticating return-to-play (RTP) following a first hamstring strain injury (HSI) and informing the clinical decision-making process."
+    },
+    {
+      "label": "DESIGN",
+      "text": "Exploratory prospective cohort study."
+    },
+    {
+      "label": "SETTING",
+      "text": "Sport medicine and rehabilitation clinic of a Canadian university."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "One hundred and sixty-seven elite Canadian university football athletes followed over 5 seasons."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "Clinical and POCUS measures collected within 7 days after HSI and preseason clinical measures."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Active knee extension (AKE) and Straight Leg Raise (SLR) to quantify hamstring flexibility, POCUS-related outcomes to characterize tissue alteration, and RTP until full sport resumption were documented (categorized as Early [1-40 days] or Late [>40 days] RTP)."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 19 and 14 athletes were included in the Early RTP (mean RTP = 28.84 ± 8.62 days) and Late RTP groups (mean 51.93 ± 10.54 days), respectively, after having been diagnosed with a first HSI. For the clinical results, height and a greater flexibility asymmetry measure with the AKE or SLR when compared with both ipsilateral preseason and acute contralateral values significantly increases the chance of facing a long delay before returning to play (ie, RTP). For the POCUS-related results, the Peetrons severity score, extent of the longitudinal fibrillary alteration, and novel score lead to similar results."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "Early hamstring flexibility asymmetry following acute HSI, particularly the AKE, along with some POCUS-related measures are valuable in prognosticating late RTP following among Canadian university football athletes."
+    }
+  ],
+  "injury_query": "hamstring strain",
+  "hits": [
+    {
+      "section": "MAIN OUTCOME MEASURES",
+      "sentence": "Active knee extension (AKE) and Straight Leg Raise (SLR) to quantify hamstring flexibility, POCUS-related outcomes to characterize tissue alteration, and RTP until full sport resumption were documented (categorized as Early [1-40 days] or Late [>40 days] RTP)."
+    },
+    {
+      "section": "RESULTS",
+      "sentence": "A total of 19 and 14 athletes were included in the Early RTP (mean RTP = 28.84 ± 8.62 days) and Late RTP groups (mean 51.93 ± 10.54 days), respectively, after having been diagnosed with a first HSI."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "30202559",
+  "title": "The effect of concussion history on cognitive-motor integration in elite hockey players.",
+  "year": "2016",
+  "journal": "Concussion (London, England)",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "AIM",
+      "text": "To observe the effects of concussion history on cognitive-motor integration in elite-level athletes."
+    },
+    {
+      "label": "METHODS",
+      "text": "The study included 102 National Hockey League draft prospects (n = 51 concussion history [CH]; n = 51 no history [NC]). Participants completed two computer-based visuomotor tasks, one involved 'standard' visuomotor mapping and one involved 'nonstandard' mapping in which vision and action were decoupled."
+    },
+    {
+      "label": "RESULTS",
+      "text": "We observed a significant effect of group on reaction time (CH slower) and accuracy (CH worse), but a group by condition interaction only for reaction time (p < 0.05). There were no other deficits found. We discussed these findings in comparison to our previous work with non-elite athletes."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Previously concussed elite-level athletes may have lingering neurological deficits that are not detected using standard clinical assessments."
+    }
+  ],
+  "injury_query": "concussion",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

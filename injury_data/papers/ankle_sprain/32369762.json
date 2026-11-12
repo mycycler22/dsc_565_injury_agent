@@ -1,0 +1,52 @@
+{
+  "pmid": "32369762",
+  "title": "Proprioceptive Training on Dynamic Neuromuscular Control in Fencers: A Clinical Trial.",
+  "year": "2020",
+  "journal": "Journal of sport rehabilitation",
+  "pub_types": [
+    "Clinical Trial",
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "CONTEXT",
+      "text": "Fencing is a sport of agility, with a higher incidence of lower-limb injuries, of which the ankle sprain is the most prevalent. Injury prevention is very important to improve performance and decrease the withdrawal time of athletes. Proprioceptive training programs can be added to the training of athletes, since, in addition to easy application and low cost, proprioception has the function of stabilizing the ankle joint to prevent injuries."
+    },
+    {
+      "label": "OBJECTIVE",
+      "text": "To verify the influence of a 12-week proprioceptive training program on dynamic neuromuscular control in fencing athletes."
+    },
+    {
+      "label": "DESIGN",
+      "text": "The study was a clinical trial, and the athletes were allocated, for convenience, in the intervention group or in the control group."
+    },
+    {
+      "label": "SETTING",
+      "text": "The study was developed in 4 stages (preintervention, intervention, postintervention, and follow-up of 3). The neuromuscular control during the star excursion balance test was evaluated."
+    },
+    {
+      "label": "PARTICIPANTS",
+      "text": "The participants were 19 fencing athletes (intervention group: 10, and control group: 9), aged 14-35 years, from a multisport club."
+    },
+    {
+      "label": "INTERVENTIONS",
+      "text": "The athletes performed the proprioceptive training during 12 weeks, 3 times a week, with a duration of 30 minutes."
+    },
+    {
+      "label": "MAIN OUTCOME MEASURES",
+      "text": "Dynamic neuromuscular control."
+    },
+    {
+      "label": "RESULTS",
+      "text": "The data and SE were considered for statistical analysis, submitted to the generalized estimates equations test with Bonferroni post hoc. The level of significance was .05. The distance reached in the star excursion balance test increased significantly in all 8 directions evaluated in the 2 legs of the intervention group."
+    },
+    {
+      "label": "CONCLUSIONS",
+      "text": "The proprioceptive training program was able to improve dynamic neuromuscular control in fencing athletes."
+    }
+  ],
+  "injury_query": "ankle sprain",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

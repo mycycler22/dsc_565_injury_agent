@@ -1,0 +1,36 @@
+{
+  "pmid": "33930559",
+  "title": "Return to sport following Latarjet glenoid reconstruction for anterior shoulder instability.",
+  "year": "2021",
+  "journal": "Journal of shoulder and elbow surgery",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "Latarjet coracoid transfer reconstruction is the gold standard for the treatment of recurrent shoulder instability with anterior-inferior glenoid bone loss, and return to sport is often a primary outcome of interest in this patient population. The purpose of this study was to determine the rate of return to sport in patients undergoing the Latarjet procedure and variables that are associated with a higher likelihood of a successful return to sport."
+    },
+    {
+      "label": "METHODS",
+      "text": "A prospectively maintained institutional registry was retrospectively queried between August 2012 and August 2016 for all patients who underwent the Latarjet procedure. Patients were contacted electronically and via telephone to administer a previously validated and standardized return-to-sport survey. Patients self-reported return to sport, varying sports participation, recurrence of instability, and time to return to sport. Multivariate analysis was performed to determine variables associated with each outcome."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 83 patients, 66 (75.3%) were available for final follow-up, of whom 60 participated in sports prior to surgery and were eligible for inclusion. The average follow-up period was 53.8 ± 11.8 months. The average age at surgery was 26.7 ± 11.3 years, and the average body mass index was 26.2 ± 4.0 kg/m<sup>2</sup>. There were 54 patients (90%) who were able to return to sport at an average of 8.6 ± 4.1 months following surgery. In total, 36 patients (60%) were able to return to sport at the same level or a better level of intensity, 19 of 28 patients (67.9%) were able to return to throwing sports without difficulty, and 31 of 60 patients (51.7%) reported that their shoulder was a hindrance to some activity. An increased likelihood of returning to sport was associated with increased body mass index (P = .016), male sex (P = .028), and decreased humeral bone loss volume (P = .034). An increased likelihood of returning to sport at the same level or a better level of intensity was associated with reduced humeral bone loss volume (P = .026). Recurrent instability was associated with humeral bone loss (P = .038)."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Although a large majority of patients were able to return to sport following the Latarjet procedure, some patients experienced limitation with throwing and return to sport at the preinjury level. Greater humeral bone loss was associated with inferior outcomes. These findings should be discussed with patients in the preoperative setting to manage expectations appropriately."
+    }
+  ],
+  "injury_query": "shoulder dislocation",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "There were 54 patients (90%) who were able to return to sport at an average of 8.6 ± 4.1 months following surgery."
+    }
+  ],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

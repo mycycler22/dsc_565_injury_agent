@@ -1,0 +1,49 @@
+{
+  "pmid": "31803357",
+  "title": "Return to Sport after Surgical Treatment of Lisfranc Injuries in Athletes: A Retrospective Case Series.",
+  "year": "2019",
+  "journal": "Kansas journal of medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "INTRODUCTION",
+      "text": "A Lisfranc injury can be a devastating injury in athletes, and if inadequately treated, may lead to chronic pain and loss of function. The purpose of this study was to determine the rate and time until return to sport after surgical fixation for a ligamentous Lisfranc injury. We hypothesized that open reduction and screw fixation of a ligamentous Lisfranc injury can be a successful treatment in the athletic population and allow patients to return to sport at close to their preinjury level of play."
+    },
+    {
+      "label": "METHODS",
+      "text": "All patients who were analyzed underwent repair of a ligamentous Lisfranc injury with open reduction and screw fixation by a single surgeon, were between 18 - 40 years old at time of their final follow up, and were identified as being an athlete (either recreational or competitive). Eligible patients were given a questionnaire that included if they were able to return to sport, time until return to sport, subjective percentage of pre-injury level of play, current pain (0 - 10), and complications."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Eleven patients were identified as athletes. Ten (91%) were available for follow-up with a mean of 36.5 months (range, 14 - 60). The average age was 25.4 years (range, 15 - 37) at time of surgery. Eighty percent (8/10) were able to return to sport. The average time until return to sport was 29.4 weeks (range, 22 - 52) with an average subjective value of their pre-injury level of play of 87% (range, 70 - 100%). However, 67% (6/9) of the athletes had occasional pain with sport with an average pain level of 2.1 (range, 0 - 5). Two patients had complications, a superficial infection and a deep vein thrombosis."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Most athletes were able to return to sport after undergoing open reduction and internal fixation of a ligamentous Lisfranc injury by less than 30 weeks post-surgery with a subjective value of 87% of their previous function. However, the majority of the patients also experienced some residual pain with their respective sport. These findings suggested that athletes with a ligamentous Lisfranc injury can have reliably good outcomes with operative repair."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [
+    {
+      "section": "RESULTS",
+      "sentence": "The average time until return to sport was 29.4 weeks (range, 22 - 52) with an average subjective value of their pre-injury level of play of 87% (range, 70 - 100%)."
+    },
+    {
+      "section": "CONCLUSION",
+      "sentence": "Most athletes were able to return to sport after undergoing open reduction and internal fixation of a ligamentous Lisfranc injury by less than 30 weeks post-surgery with a subjective value of 87% of their previous function."
+    }
+  ],
+  "pmcid": "6884016",
+  "fulltext_chunks": [
+    {
+      "section": "Results",
+      "text": "Eleven patients were identified as athletes. Ten (91%) were available for follow-up with a mean of 36.5 months (range, 14 – 60). The average age was 25.4 years (range, 15 – 37) at time of surgery. Eighty percent (8/10) were able to return to sport. The average time until return to sport was 29.4 weeks (range, 22 – 52) with an average subjective value of their pre-injury level of play of 87% (range, 70 – 100%). However, 67% (6/9) of the athletes had occasional pain with sport with an average pain level of 2.1 (range, 0 – 5). Two patients had complications, a superficial infection and a deep vein thrombosis."
+    },
+    {
+      "section": "TABLE: Post-operative results.",
+      "text": "Patient | Removal of Hardware Timing (weeks) | Return to Training (weeks) | Full Competition (weeks) | Time to Pre-injury Status (weeks) | Pain Scale with Sport | Percent of Normal | Type of Fixation | Complications/Notes:\n1 | 13 | 56 | No | No | NA | 95 | MT + IC | Gave up sports due to other injuries\n2 | 16 | 16 | No | No | 3 | 80 | MT | Delayed ORIF by 4 months\n3 | 13 | 22 | 22 | 17 | 4 | 75 | MT | Broken screw removed\n4 | 17 | 39 | 52 | 52 | 2 | 75 | MT + IC | ORIF base of 4th MT, Superficial Infection\n5 | 15 | 26 | 26 | 26 | 5 | 70 | MT | \n6 | 13 | 17 | 26 | 43 | 0 | 100 | MT + IC | \n7 | 15 | 30 | 35 | 26 | 3 | 85 | MT + IC | ORIF navicular, Patella tendon tear slowed RTS per patient\n8 | 13 | 17 | 22 | 22 | 2 | 95 | MT | \n9 | 13 | 26 | 30 | 22 | 0 | 93 | MT | \n10 | 17 | 22 | 22 | 22 | 0 | 100 | MT + IC | DVT treated with coumadin\nAverage ±SD | 14.5 ±1.7 | 27.1 ±12.3 | 29.4 ±10.2 | 28.8 ±12.2 | 2.1 ±1.8 | 87% ±11% | "
+    }
+  ]
+}

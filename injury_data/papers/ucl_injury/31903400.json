@@ -1,0 +1,40 @@
+{
+  "pmid": "31903400",
+  "title": "Effect of Fatigue Protocols on Upper Extremity Neuromuscular Function and Implications for Ulnar Collateral Ligament Injury Prevention.",
+  "year": "2019",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "As the incidence of overuse injuries to the medial elbow in overhead athletes continues to rise, recent evidence suggests a link between these injuries and alterations in biomechanics produced by athlete fatigue. Previous studies have evaluated the effect of fatigue on elbow injuries using a wide array of fatigue protocols/athletic tasks, and, as a consequence, the results have been heterogeneous."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To determine whether there is a uniform alteration in neuromuscular function or biomechanics as the overhead athlete fatigues. Furthermore, this study sought to determine whether player fatigue should be accounted for in ulnar collateral ligament (UCL) injury prevention programs."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Systematic review."
+    },
+    {
+      "label": "METHODS",
+      "text": "A systematic review of the literature using PubMed and MEDLINE databases was performed. Keywords included <i>fatigue</i>, <i>upper extremity</i>, <i>baseball</i>, <i>pitcher</i>, <i>throwing</i>, and <i>muscle activity</i>. Inclusion criteria consisted of original research articles in the English language involving healthy athletes, use of fatigue protocols, and the evaluation of at least 1 upper limb biomechanical variable."
+    },
+    {
+      "label": "RESULTS",
+      "text": "A total of 35 studies involving 644 athletes (90 females, 554 males; mean age, 20.2 years) met the inclusion criteria. General fatigue protocols were used in 2 investigations, peripheral protocols were used in all 35 studies, and 5 different athletic tasks were studied (simulated baseball game, overhead throwing, high-effort swimming, simulated tennis game, and overhead serving). There was a uniform decrease in muscle force production and proprioception in athletes after completing a fatigue protocol. However, there was no consistency among studies when evaluating other important upper limb biomechanical factors. The fatigue protocols did not consistently produce statistically significant changes in elbow torque, pitching biomechanics, or ball velocity."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "A uniform decrease in muscle force production and proprioception was found after fatigue protocols; however, a majority of fatigue protocols published in the current literature are inconsistently measured and produce heterogeneous results. Therefore, currently, no recommendations can be made for changes in UCL injury prevention training programs to account for potential effects of fatigue. The effect of muscle force production and proprioception on upper extremity injuries should be evaluated in future studies."
+    }
+  ],
+  "injury_query": "UCL injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "33997068",
+  "title": "Epidemiology of Severe Foot Injuries in US Collegiate Athletes.",
+  "year": "2021",
+  "journal": "Orthopaedic journal of sports medicine",
+  "pub_types": [
+    "Journal Article"
+  ],
+  "sections": [
+    {
+      "label": "BACKGROUND",
+      "text": "The effects of foot injuries on collegiate athletes in the United States are of interest because of the short 5-year eligibility period in the National Collegiate Athletic Association (NCAA)."
+    },
+    {
+      "label": "PURPOSE",
+      "text": "To discuss the epidemiology of severe NCAA foot injuries sustained over 10 years in 25 sports."
+    },
+    {
+      "label": "STUDY DESIGN",
+      "text": "Descriptive epidemiology study."
+    },
+    {
+      "label": "METHODS",
+      "text": "We utilized the NCAA Injury Surveillance System, which prospectively collects deidentified injury data for collegiate athletes. Severe injuries were classified as season- or career-ending injuries, injuries with >30-day time loss, or injuries requiring operative treatment. Injury rates (IRs) were analyzed per 100,000 athlete-exposures."
+    },
+    {
+      "label": "RESULTS",
+      "text": "Of 3607 total foot injuries, 18.71% (n = 675) were classified as severe, with an IR of 5.73 per 100,000 athletic-exposures. For all severe injuries, the operative rate was 24.3%, the season-ending rate 37.0%, and the career-ending rate 4.4%. The proportion of recurrent injuries was 13.9%. Men's sports with the highest severe foot IRs were basketball (IR = 10.71), indoor track (IR = 7.16), and football (IR = 7.08). Women's sports with the highest severe foot IRs were cross-country (IR = 17.15), gymnastics (IR = 14.76), and outdoor track (IR = 14.65). Among all severe foot injuries, the most common was a fifth metatarsal fracture. The highest contact/noncontact injury ratios were phalangeal fracture, turf toe, and Lisfranc injury. The severe injuries with the highest operative rates were Lisfranc injuries, fifth metatarsal fractures, and midfoot fractures. The severe injuries associated with the highest season-ending IRs were Lisfranc injury, midfoot fracture, and general metatarsal fractures. Severe flexor/extensor injuries had the highest career-ending IRs, followed by turf toe. Severe injuries with the highest median time loss were sesamoidal fractures, calcaneal fractures, and plantar fascial injuries."
+    },
+    {
+      "label": "CONCLUSION",
+      "text": "Of all collegiate foot injuries sustained over a 10-year period, 18.7% were characterized as severe, and 24.3% of severe injuries required surgery. Basketball was the men's sport with the highest severe IR, and cross-country was the women's sport with the highest severe IR. Overall, female athletes experienced slightly higher severe foot IRs as compared with male athletes."
+    }
+  ],
+  "injury_query": "Lisfranc injury",
+  "hits": [],
+  "pmcid": null,
+  "fulltext_chunks": []
+}
