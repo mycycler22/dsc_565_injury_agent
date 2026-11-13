@@ -1,2 +1,5 @@
-crewai
+crewai-tools==1.15.21
+crewai[google-genai]==1.15.21
 biopython
+pandas
+python-dotenv==1.2.3
