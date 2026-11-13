@@ -3,3 +3,5 @@ crewai[google-genai]==1.15.21
 biopython
 pandas
 python-dotenv==1.2.3
+google-genai
+Bio
