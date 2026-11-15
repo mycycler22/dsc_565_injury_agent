@@ -4,9 +4,6 @@ biopython
 pandas
 python-dotenv==1.2.3
 google-genai
-Bio
-typing
 pydantic
 streamlit==1.67.0
 hmac
-threading
